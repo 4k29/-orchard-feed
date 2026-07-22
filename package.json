@@ -4,7 +4,6 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "products": "node scripts/products.mjs",
     "sync": "node scripts/sync.mjs",
     "test": "node --test tests/*.test.mjs"
   },

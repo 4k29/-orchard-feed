@@ -1,17 +1,5 @@
 # Orchard Feed
 
-海外のAppleニュースを日本語で届ける個人用フィードと、歴代Apple製品を検索できる製品データベースです。
-
-## 製品データ
-
-`site/products.html` では、発売日、チップ、カラー、ストレージ、モデル番号などから製品を検索できます。製品データは [AppleDB](https://appledb.dev/) のMITライセンスデータを週1回取り込み、`data/products.json` にまとめています。
-
-```sh
-npm run products -- /path/to/appledb/deviceFiles data/products.json
-```
-
-発表日・発売時価格・ストレージは、確認できるデータがある場合のみ掲載します。空欄を推測値で埋めることはしません。
-
 Apple関連の4つのRSSを15分ごとに確認し、新着だけを日本語へ翻訳してDiscordへ通知します。翻訳済みの記事一覧は `data/articles.json` に保存され、Orchardサイトから読み込まれます。
 
 ## 対象RSS
