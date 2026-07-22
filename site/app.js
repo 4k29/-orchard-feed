@@ -102,7 +102,7 @@ function render() {
 
 async function loadFeed() {
   try {
-    const response = await fetch(`${FEED_URL}?t=${Date.now()}`, { cache: "no-store" });
+    const response = await fetch(FEED_URL, { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const payload = await response.json();
     if (!Array.isArray(payload.articles)) throw new Error("Invalid feed");
