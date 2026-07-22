@@ -1,9 +1,11 @@
-const CACHE_NAME = "orchard-v7";
+const CACHE_NAME = "orchard-v8";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./styles.css",
+  "./manual-sync.css",
   "./app.js",
+  "./manual-sync.js",
   "./manifest.webmanifest",
   "./icon.svg",
 ];
