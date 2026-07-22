@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MacRumors">
+  <rect width="64" height="64" rx="16" fill="#c77745"/>
+  <path d="M18 18h28a6 6 0 0 1 6 6v15a6 6 0 0 1-6 6H32l-10 7v-7h-4a6 6 0 0 1-6-6V24a6 6 0 0 1 6-6Z" fill="#fff"/>
+  <path d="M23 35V27l5 5 5-5v8M38 35v-8h4.5a4 4 0 0 1 0 8H38Z" fill="none" stroke="#c77745" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
