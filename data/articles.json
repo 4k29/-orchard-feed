@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "844d2a80465a31e28060",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Hands-On With Samsung's Galaxy Z Fold8, the Closest Thing Yet to a Foldable iPhone",
+      "url": "https://www.macrumors.com/2026/07/22/samsung-galaxy-z-fold8/",
+      "publishedAt": "2026-07-22T13:01:17.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Samsung、Galaxy Z Fold8を発表",
+      "summaryJa": "Samsungが新しい折りたたみデバイス、Galaxy Z Fold8を発表しました。Z Fold8は、開いた状態で7.6インチのディスプレイを持ち、デザインは今後の折りたたみiPhoneに似ているとされています。カメラは3つのレンズを搭載し、Snapdragon 8 Elite Gen 5プロセッサーを使用。Appleの折りたたみデバイスに対抗する形で、Samsungは先行して市場に投入しました。"
+    },
+    {
+      "id": "3642ace0c03c14316787",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp Announces New CarPlay Experience, iPad Sign-Up, and More",
+      "url": "https://www.macrumors.com/2026/07/22/whatsapp-announces-new-carplay/",
+      "publishedAt": "2026-07-22T13:00:07.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/English_WhatsApp_july-2026-new-feature-roundup-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "WhatsApp、CarPlayとiPad向け新機能を発表",
+      "summaryJa": "WhatsAppがCarPlayやiPad向けの新機能を発表しました。CarPlayではメッセージの確認や通話がハンズフリーで可能になり、iPadでは電話をリンクせずにWhatsAppにサインアップできるようになりました。また、PDFの編集やApple Musicからの曲の共有機能も追加され、ユーザーの利便性が向上しています。これらの機能はすでに展開中です。"
+    },
+    {
+      "id": "f7a7afbf4a531cbd27fb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Says 'Update in Progress' at Visitor Center",
+      "url": "https://www.macrumors.com/2026/07/22/apple-park-visitor-center-update-in-progress/",
+      "publishedAt": "2026-07-22T12:49:17.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apple-Park-Visitor-Center.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Parkビジターセンターで改修作業中",
+      "summaryJa": "Apple Parkのビジターセンターで改修作業が進行中との通知がAppleのウェブサイトに掲載されました。3D拡張現実モデルの展示スペースは一時的に閉鎖されていますが、センター自体は一般公開されています。訪問者はカフェでコーヒーを楽しんだり、屋上からの景色を楽しむことができます。改修の完了時期は未定です。"
+    },
+    {
       "id": "d4b500e380f873e9dfb1",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -1981,7 +2026,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-22T12:44:48.063Z",
+  "updatedAt": "2026-07-22T13:04:22.918Z",
   "initialized": true,
   "summaryVersion": 4
 }
