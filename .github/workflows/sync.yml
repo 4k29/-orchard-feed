@@ -1,17 +1,10 @@
 name: Appleニュースを更新
-run-name: ${{ github.event_name == 'schedule' && 'RSS自動取得' || github.event_name == 'workflow_dispatch' && inputs.trigger_source == 'fallback' && 'RSS自動補完' || github.event_name == 'workflow_dispatch' && 'RSS手動取得' || 'RSS設定更新' }}
+run-name: ${{ github.event_name == 'schedule' && 'RSS自動取得' || inputs.trigger_source == 'fallback' && 'RSS自動補完' || 'RSS手動取得' }}
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - ".github/workflows/sync.yml"
-      - "package.json"
-      - "package-lock.json"
-      - "scripts/**"
-      - "tests/**"
   schedule:
     - cron: "5,15,25,35,45,55 * * * *"
+      timezone: "Asia/Tokyo"
   workflow_dispatch:
     inputs:
       send_test:
@@ -22,8 +15,11 @@ on:
       trigger_source:
         description: "実行元"
         required: false
-        type: string
-        default: "manual"
+        type: choice
+        options:
+          - manual
+          - fallback
+        default: manual
 
 permissions:
   contents: write
@@ -36,7 +32,7 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
 
@@ -49,7 +45,7 @@ jobs:
       - run: npm ci
       - run: npm test
 
-      - name: ニュースを取得・翻訳・通知
+      - name: RSSを取得・翻訳・通知
         run: npm run sync
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -57,10 +53,10 @@ jobs:
           DISCORD_USER_ID: "1305762049338642552"
           SEND_TEST_NOTIFICATION: ${{ inputs.send_test }}
 
-      - name: 更新内容を保存
+      - name: 新着記事を保存
         run: |
           if git diff --quiet -- data/articles.json; then
-            echo "No feed changes"
+            echo "No article changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
