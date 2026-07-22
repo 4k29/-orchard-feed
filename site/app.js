@@ -11,12 +11,6 @@ const SYNC_RUNS_URL =
   "https://api.github.com/repos/4k29/-orchard-feed/actions/workflows/sync.yml/runs?status=completed&per_page=1";
 const FEED_URL =
   "https://raw.githubusercontent.com/4k29/-orchard-feed/main/data/articles.json";
-const SOURCE_ICONS = {
-  "apple-newsroom": "./icons/apple-newsroom.svg",
-  "apple-developer": "./icons/apple-developer.svg",
-  macrumors: "./icons/macrumors.svg",
-  "9to5mac": "./icons/9to5mac.svg",
-};
 
 function formatDate(value) {
   const timestamp = Date.parse(value);
@@ -67,22 +61,8 @@ function createArticle(article, index) {
   const time = fragment.querySelector("time");
 
   if (index === 0) row.classList.add("featured");
-
-  const iconPath = SOURCE_ICONS[article.sourceId];
-  if (iconPath) {
-    const icon = document.createElement("img");
-    icon.className = "source-icon";
-    icon.src = iconPath;
-    icon.alt = "";
-    icon.loading = "lazy";
-    icon.decoding = "async";
-    mark.append(icon);
-  } else {
-    const fallback = document.createElement("span");
-    fallback.textContent = article.source.slice(0, 1);
-    mark.append(fallback);
-  }
-
+  mark.classList.add(`source-${article.sourceId}`);
+  mark.querySelector("span").textContent = article.source.slice(0, 1);
   link.href = article.url;
   fragment.querySelector(".article-source").textContent = article.source;
   time.dateTime = article.publishedAt;
