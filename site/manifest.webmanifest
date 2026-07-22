@@ -1,0 +1,21 @@
+{
+  "name": "Orchard",
+  "short_name": "Orchard",
+  "description": "Apple関連のニュースを日本語で確認するための個人用フィード。",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0b0a",
+  "theme_color": "#0b0b0a",
+  "lang": "ja",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
