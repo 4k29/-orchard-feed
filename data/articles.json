@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d744adcbc40cd0f05826",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "The reported Apple Upgrade program raises a very big concern",
+      "url": "https://9to5mac.com/2026/07/22/the-reported-apple-upgrade-program-raises-a-very-big-concern/",
+      "publishedAt": "2026-07-22T11:19:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/The-reported-Apple-Upgrade-program-raises-a-very-big-concern.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの新しいアップグレードプログラムに懸念",
+      "summaryJa": "Bloombergの報道によると、AppleはiPhoneアップグレードプログラムに代わる新しいAppleアップグレードリース契約を導入する可能性があります。この新プログラムは、従来のプログラムとは異なり、リース期間中の製品の減価償却分のみを支払う形になるとされ、契約終了時には製品を所有できない可能性があります。これにより月々の支払いは低くなるものの、ユーザーが製品を返却するか、追加の支払いを行う必要が生じるかもしれません。Appleからの公式な発表はまだありません。"
+    },
+    {
+      "id": "797caa3e48f22c2c5d52",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Foxconn Ramps Up Hiring as iPhone 18 Pro Enters Mass Production",
+      "url": "https://www.macrumors.com/2026/07/22/iphone-18-pro-enters-mass-production/",
+      "publishedAt": "2026-07-22T11:16:33.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proが量産開始、Foxconnが採用を強化",
+      "summaryJa": "AppleのiPhone 18 Proモデルが量産に入り、Foxconnは大規模生産に向けて採用を強化しています。新型iPhoneは、前面カメラとFace IDセンサー用のダイナミックアイランドのサイズを縮小し、画面占有率を約94.7%に向上させる見込みです。また、A20 Proチップや可変絞り技術を搭載した新しいメインカメラも期待されています。中国の証券会社は、iPhone 17の販売が好調で、Appleのイノベーションサイクルが上向いていると報じています。"
+    },
+    {
       "id": "80005d76d59f93cc002b",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -134,6 +164,22 @@
       ],
       "titleJa": "Apple Watchが負傷したサイクリストを救助",
       "summaryJa": "Appleは、Apple Watchの安全機能が負傷したサイクリストを救助した実話を紹介する新しい動画を公開しました。この動画では、山道での事故により意識を失ったサイクリストが、Apple Watchの転倒検知機能と緊急SOSを通じて救助された様子が描かれています。Appleは過去にもApple Watchの安全機能を強調するキャンペーンを行っており、今回の動画はその一環です。"
+    },
+    {
+      "id": "819de0d25c26900674ea",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "AppleCare+が日本で拡大、新しい盗難・紛失に対する保証とプランのオプションが追加に",
+      "url": "https://www.apple.com/jp/newsroom/2026/07/applecareplus-expands-in-japan-with-new-theft-and-loss-coverage-and-plan-options/",
+      "publishedAt": "2026-07-21T20:58:28.538Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "AppleCare+が日本で拡大、盗難・紛失保証を追加",
+      "summaryJa": "Appleは、日本においてAppleCare+の盗難・紛失に対する保証をiPadとApple Watchに拡大し、新しいサブスクリプションプランを導入しました。これにより、ユーザーは月払いまたは1年プランから選択でき、柔軟に保証を受けることが可能になります。新プランでは、盗難・紛失に対する保証を年間2回まで受けられるようになり、Apple製品のサポートが強化されます。"
     },
     {
       "id": "cf827e1ad8f76f4d9f89",
@@ -917,6 +963,22 @@
       "summaryJa": "AppleがApp Store Connect APIのバージョン4.4.1をリリースしました。ダウンロードやリリースノートが利用可能です。"
     },
     {
+      "id": "13c90fb69325d33f024e",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "メジャーリーグサッカーが明日Apple TVに帰ってきます",
+      "url": "https://www.apple.com/jp/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
+      "publishedAt": "2026-07-15T15:00:12.535Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "メジャーリーグサッカーがApple TVに帰還",
+      "summaryJa": "メジャーリーグサッカー（MLS）が、FIFAワールドカップによる中断を経て、7月16日からApple TVでレギュラーシーズンを再開します。サブスクリプション登録者は、地域制限なしで全試合を視聴でき、特別コンテンツや分析も楽しめます。注目の試合が組まれており、MLS選手たちがワールドカップでの活躍を経て、再びクラブに戻ることが期待されています。"
+    },
+    {
       "id": "583a306f1b614edb0313",
       "source": "Apple Newsroom",
       "sourceId": "apple-newsroom",
@@ -930,6 +992,22 @@
       ],
       "titleJa": "メジャーリーグサッカー、Apple TVで再開",
       "summaryJa": "メジャーリーグサッカー（MLS）が、FIFAワールドカップのための1か月の休止を経て、7月16日にApple TVで再開します。全30クラブが活動を再開し、6試合の注目対決が予定されています。Apple TVのサブスクライバーは、全試合を視聴でき、リーグカップやMLSオールスターゲームなどの特別コンテンツも楽しめます。ワールドカップに参加した選手たちも多く戻り、リーグの再開が期待されています。"
+    },
+    {
+      "id": "b85a4957f97117cd14e9",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "8月6日、アメリカンフットボールのプレイを楽しめる「Madden NFL 27 Arcade Edition」がApple Arcadeに登場",
+      "url": "https://www.apple.com/jp/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
+      "publishedAt": "2026-07-14T14:01:34.108Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "「Madden NFL 27 Arcade Edition」が登場",
+      "summaryJa": "Apple Arcadeに新たに「EA SPORTS Madden NFL 27 Arcade Edition」が8月6日に追加されます。このゲームは、実在のNFLチームを使用したリアルなシミュレーション体験を提供し、プレイヤーはアメリカンフットボールの戦略を楽しむことができます。また、「NFL Retro Bowl ’27」や「Retro Bowl College+」も同時に登場し、Apple Arcadeのスポーツゲームのラインナップが強化されます。"
     },
     {
       "id": "1379385f82fe0f520def",
@@ -947,6 +1025,22 @@
       "summaryJa": "EA SPORTSのMadden NFL 27 Arcade Editionが、8月6日にApple Arcadeに登場します。この新作は、現行のNFLチームを用いたリアルなシミュレーションゲームで、プレイヤーはシーズンベースの体験を楽しむことができます。Apple Arcadeは、NFL Retro BowlやNBA 2Kなどの人気スポーツゲームを含む充実したラインアップを提供し、様々なファンに対応しています。"
     },
     {
+      "id": "89e67b832517f8160f35",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、エミー賞で記録的な89のノミネートを獲得",
+      "url": "https://www.apple.com/jp/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
+      "publishedAt": "2026-07-10T11:05:30.821Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、エミー賞で89のノミネート獲得",
+      "summaryJa": "Appleは第78回プライムタイム・エミー賞で、15作品から89のノミネートを獲得し、過去最高の記録を樹立しました。特にコメディ「ウィドウズ・ベイ」が19ノミネート、ドラマ「プルリブス」が18ノミネートを記録しています。受賞者は9月14日に発表される予定で、Appleのオリジナル作品が再び注目を集めています。"
+    },
+    {
       "id": "be6e662d05e0588b357a",
       "source": "Apple Developer",
       "sourceId": "apple-developer",
@@ -961,6 +1055,22 @@
       ],
       "titleJa": "年齢評価アンケートにソーシャルメディアに関する質問が追加",
       "summaryJa": "iOS 27、iPadOS 27、macOS 27以降の新しい時間制限機能により、親は子供のアプリ使用時間を柔軟に管理できるようになります。これに伴い、App Store Connectの年齢評価アンケートにソーシャルメディア機能に関する質問が追加されました。アプリがソーシャルメディア機能を持つ場合、App Storeの製品ページに新しいコンテンツ記述子が表示されます。2026年9月からは、新しいアプリやアップデートの提出時にこの質問への回答が必須となります。"
+    },
+    {
+      "id": "bfec6030fc63cc2e7e6e",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "AppleとMajor League Baseball、「フライデーナイト ベースボール」の8月のスケジュールを発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
+      "publishedAt": "2026-07-09T16:00:18.580Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "「フライデーナイト ベースボール」8月のスケジュール発表",
+      "summaryJa": "AppleとMLBは、Apple TVで毎週金曜日に放送される「フライデーナイト ベースボール」の8月のスケジュールを発表しました。注目の試合として、8月14日にカージナルス対カブス、8月29日にヤンキース対レッドソックスが予定されています。視聴者は、地域の放送制約を超えて、質の高い試合を楽しむことができます。"
     },
     {
       "id": "e50f20d1842e5c5a5a01",
@@ -1022,6 +1132,22 @@
       ],
       "titleJa": "Hello Developer: 2026年7月",
       "summaryJa": "Apple Developerの最新号では、Apple Developerウェブサイトの新しい検索ツールの紹介や、FigmaおよびSketch用のデザインキットのダウンロードが可能です。また、WWDC26の最新情報やApple Design Award受賞者についても触れています。27のプラットフォームリリースやドキュメント、サンプルコードの最新情報も掲載されています。"
+    },
+    {
+      "id": "e4dcd2de67db5c491bb0",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple Creator Studioがよりスマートに、より高速に、連係が向上",
+      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
+      "publishedAt": "2026-06-30T17:00:26.594Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple Creator Studioがアップデート",
+      "summaryJa": "Appleは、クリエイティブアプリのコレクション「Apple Creator Studio」に大規模なアップデートを実施しました。新たにPixelmator Proとの統合が追加され、Final Cut ProやLogic Proに新機能が搭載されました。特に、AIを活用した字幕生成や編集検出機能が強化され、ユーザーはより効率的にクリエイティブな作業を行えるようになります。"
     },
     {
       "id": "c8e3fcf6cdeb1dc9177d",
@@ -1119,6 +1245,22 @@
       "summaryJa": "Appleは、iOS、iPadOS、macOS 27用のFigmaおよびSketch用デザインキットを公開しました。これには、Liquid Glassの更新やコンポーネントの拡張、コードとの整合性を高めるための名称変更、リサイズ機能の改善、macOS用のダークモードの追加が含まれています。デザインキットはApple Design Resourcesからダウンロード可能です。"
     },
     {
+      "id": "f5427b53943799166fb9",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、ブラジルでのiOSにおける変更を発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "publishedAt": "2026-06-18T15:01:38.210Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、ブラジルでのiOS変更を発表",
+      "summaryJa": "Appleは、ブラジルの競争規制当局CADEとの合意に基づき、iOSアプリに関する新たな変更を発表しました。これにより、デベロッパは代替アプリマーケットプレイスでの配信や、Appleのアプリ内購入以外の決済処理が可能になります。Appleは新たなプライバシーとセキュリティの保護策を導入し、ユーザーを守るための取り組みを強化しています。これらの変更は、ブラジルのiOSユーザーにとってより安全な体験を提供することを目的としています。"
+    },
+    {
       "id": "ab5c4a5d4242ad33f6ad",
       "source": "Apple Newsroom",
       "sourceId": "apple-newsroom",
@@ -1166,6 +1308,22 @@
       "summaryJa": "Appleは、ブラジルの競争規制機関CADEとの合意に基づき、iOSに新たな変更を導入します。これにより、開発者は代替アプリマーケットでのアプリ配布や、Appleのアプリ内購入以外での支払い処理が可能になります。新たなリスクに対処するため、Appleは子供の安全を重視した保護策を導入し、すべてのApple Developer Programのメンバーは2026年7月6日までに最新のライセンス契約に同意する必要があります。"
     },
     {
+      "id": "b96b97925a8262d3f6ff",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "チェロキー語学習者がiPadとMacで世代をつなぐ",
+      "url": "https://www.apple.com/jp/newsroom/2026/05/cherokee-language-learners-bridge-generations-with-ipad-and-mac/",
+      "publishedAt": "2026-06-18T01:41:40.770Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "チェロキー語学習者にiPadとMac提供",
+      "summaryJa": "Appleは、Community Education Initiativeを通じて、オクラホマ州のチェロキー・ネイションと連携し、若い学習者にiPadとMacを提供しています。チェロキー語を学ぶ生徒たちは、これらのデバイスを使って言語を学び、文化を継承するための活動を行っています。Appleの支援により、教育者たちは新しい技術を活用し、次世代のチェロキー語話者を育成する取り組みを進めています。"
+    },
+    {
       "id": "176c8633de95a5f2e034",
       "source": "Apple Developer",
       "sourceId": "apple-developer",
@@ -1198,6 +1356,22 @@
       "summaryJa": "WWDC26に関する意見を共有するためのアンケートが実施されています。参加者は、今年のカンファレンスについての感想を述べることができます。"
     },
     {
+      "id": "147321f065033942364c",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、様々なサービスに導入される革新的な機能とインテリジェンス体験を発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "publishedAt": "2026-06-09T13:04:11.879Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、サービス向け新機能を発表",
+      "summaryJa": "Appleは、2027年のソフトウェアリリースで新機能を導入すると発表しました。新機能には、Appleマップの強化されたFlyover体験や、位置情報共有の柔軟なオプション、Apple Cashでの割り勘機能などが含まれます。これにより、ユーザーはより便利で楽しい体験を享受できるようになります。Appleは、これらのアップデートを通じて、ユーザーの生活を変えることを目指しています。"
+    },
+    {
       "id": "5fb6fed545cc0fd28b0a",
       "source": "Apple Newsroom",
       "sourceId": "apple-newsroom",
@@ -1213,6 +1387,22 @@
       "summaryJa": "Appleは2027年のソフトウェアリリースに向けて、サービスに新しい機能を追加すると発表しました。Apple MapsのFlyover機能の強化や、Find Myの柔軟な共有オプション、Apple Cashでの請求書分割機能などが含まれます。これらの更新は、ユーザーの体験をより便利で楽しいものにすることを目指しています。"
     },
     {
+      "id": "7febb57f26b14cb690e4",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、新しいインテリジェンスフレームワークと先進的なツールでアプリ開発を支援",
+      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "publishedAt": "2026-06-08T21:04:53.899Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、新しいアプリ開発支援ツールを発表",
+      "summaryJa": "Appleは、新しいインテリジェンス機能とXcodeの拡張機能を発表し、アプリ開発を加速させる取り組みを強化しています。新しいAPIにより、デベロッパはAIモデルをアプリに統合しやすくなり、アプリの機能を向上させることができます。Appleは、デベロッパがより良いアイデアを形にするための最高のツールを提供することを目指しています。"
+    },
+    {
       "id": "f640593f861373f605ad",
       "source": "Apple Newsroom",
       "sourceId": "apple-newsroom",
@@ -1226,6 +1416,102 @@
       ],
       "titleJa": "Apple、アプリ開発を加速する新機能を発表",
       "summaryJa": "Appleは、アプリ開発を加速するための新しいインテリジェンス機能やXcodeの生産性向上機能を発表しました。新しいAPIにより、開発者はAIモデルを統合し、Xcode 27でのエージェンティックコーディングを活用して、アプリをより迅速かつ柔軟に構築できるようになります。Appleは、開発者が革新的なアイデアを実現するための最良のツールを提供することを目指しています。"
+    },
+    {
+      "id": "256e9fe21d9c973f7368",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple Intelligence、パワフルなAI機能を日々の体験に",
+      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
+      "publishedAt": "2026-06-08T18:32:48.923Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple IntelligenceがAI機能を強化",
+      "summaryJa": "Appleは、次世代のApple Intelligenceを発表し、iPhoneやiPad、MacにパワフルなAI機能を統合しました。この新しいアーキテクチャにより、ユーザーは日常の体験をよりパーソナルで便利に利用できるようになります。新機能には、写真編集やブラウジングのインテリジェントなツールが含まれ、開発者向けのテストが開始され、今年秋に一般ユーザー向けに提供される予定です。"
+    },
+    {
+      "id": "8cd3ba10e281009049b9",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、次世代のApple IntelligenceやSiri AIなどを発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "publishedAt": "2026-06-08T18:32:48.418Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、次世代のApple Intelligenceを発表",
+      "summaryJa": "AppleはWWDC26で次世代のApple Intelligenceと新しいSiri AIを発表しました。これにより、ユーザーはより賢く、豊富な知識を持つアシスタントを利用できるようになります。また、子どものための安全機能や、iOSやmacOSなどのソフトウェア機能強化も行われ、今後のアップデートで提供される予定です。"
+    },
+    {
+      "id": "7b0b315d6b2509f43c2d",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、これまでよりはるかに有能でパーソナルなアシスタントであるSiri AIを発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
+      "publishedAt": "2026-06-08T18:32:48.146Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、パーソナルなSiri AIを発表",
+      "summaryJa": "Appleは、Apple Intelligenceを基にした新しいSiri AIを発表しました。このアシスタントは、パーソナルコンテキストの理解やオンスクリーン認識を活用し、ユーザーが必要な情報を迅速に見つける手助けをします。新機能は開発者向けにテストが開始され、年内にベータ版として一般ユーザーに提供される予定です。"
+    },
+    {
+      "id": "5d64be008d58448444f8",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、子どもの安全の新しい機能をプレビュー",
+      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-previews-new-child-safety-features/",
+      "publishedAt": "2026-06-08T18:32:46.190Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、子どもの安全機能を強化",
+      "summaryJa": "Appleは、保護者が子どものデジタル体験を管理できる新しい安全機能を発表しました。これにより、子どもがアクセスできるコンテンツやコミュニケーションを保護者が簡単に管理できるようになります。新機能は今秋のソフトウェアアップデートで提供され、Appleのペアレンタルコントロールをさらに強化するものです。"
+    },
+    {
+      "id": "116f465a1a0e9cb28985",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、デベロッパの成長と新たなユーザーへのリーチを支援するためにApp Storeの機能を拡大",
+      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-expands-app-store-capabilities-to-help-developers-grow-and-reach-new-users/",
+      "publishedAt": "2026-06-08T18:32:43.402Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、App Store機能を拡大",
+      "summaryJa": "Appleは、デベロッパの成長を支援するためにApp Storeの新機能を発表しました。これにより、デベロッパはアプリのマーケティングやユーザー獲得において柔軟性を高めることができます。新しいクリエイティブアセットを活用し、製品ページのカスタマイズやアプリ内課金の新しいビジネスモデルも導入されます。また、ユーザー向けにはパーソナライズされたアプリのおすすめ機能が追加され、より多くのユーザーにアプローチできるようになります。"
+    },
+    {
+      "id": "d6851121993b10b5e651",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "デジタル市場法の影響により、EU域内ではiOS 27とiPadOS 27へのSiri AIの提供が延期されます",
+      "url": "https://www.apple.com/jp/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
+      "publishedAt": "2026-06-08T18:32:42.033Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "EUでiOS 27のSiri AI提供が延期",
+      "summaryJa": "Appleは、デジタル市場法の影響により、EUでのiOS 27およびiPadOS 27にSiri AIを提供できないことを発表しました。EUの規制当局が提案された解決策を受け入れなかったため、EU域内のユーザーは新しいSiri AIの機能にアクセスできません。Appleは、プライバシーとセキュリティを保護するための協議を続ける意向を示していますが、現時点では解決策が見つかっていない状況です。"
     },
     {
       "id": "5b2cbd45c044283cb577",
@@ -1366,6 +1652,38 @@
       "summaryJa": "Appleは、開発者がアプリを効果的にマーケティングし、新しいユーザーを獲得できるようにApp Storeの機能を拡充すると発表しました。新機能には、アプリのプロモーションに使えるクリエイティブアセットや、カスタム商品ページの最適化が含まれます。これにより、開発者はアプリの魅力を高め、ユーザーの発見を促進することが期待されています。Appleは引き続き開発者の成功を支援するための投資を行っていく方針です。"
     },
     {
+      "id": "b8a5efff77eb6966c413",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "「Mini Football Legends」「Family Feud Pocket」のほか、7つのヒット作がApple Arcadeに登場",
+      "url": "https://www.apple.com/jp/newsroom/2026/06/mini-football-legends-family-feud-pocket-and-seven-more-hits-join-apple-arcade/",
+      "publishedAt": "2026-06-05T09:29:48.783Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple Arcadeに新作ゲーム9本登場",
+      "summaryJa": "Apple Arcadeに新たに9本のゲームが追加され、プレイヤーは「Mini Football Legends」や「Family Feud Pocket」などを楽しむことができます。これにより、200以上のゲームが提供されるApple Arcadeのカタログがさらに充実します。新作は広告やアプリ内課金なしでプレイ可能で、特に「Family Feud Pocket」は人気のクイズ番組を再現した内容となっています。"
+    },
+    {
+      "id": "8482607d4eab45cdc07b",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "AppleとMajor League Baseball、「フライデーナイト ベースボール」の7月のスケジュールを発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-and-major-league-baseball-announce-july-friday-night-baseball-schedule/",
+      "publishedAt": "2026-06-04T16:01:05.893Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "AppleとMLB、7月の試合スケジュール発表",
+      "summaryJa": "Appleとメジャーリーグベースボール（MLB）は、Apple TVで配信される「フライデーナイト ベースボール」の7月の試合スケジュールを発表しました。毎週金曜日に注目の試合が放送され、特にボストン・レッドソックス対ニューヨーク・メッツの試合などが含まれています。視聴者は、専門家による解説とともに、地域の制約を超えて試合を楽しむことができます。"
+    },
+    {
       "id": "d2b68ab338b98132530d",
       "source": "Apple Newsroom",
       "sourceId": "apple-newsroom",
@@ -1394,6 +1712,22 @@
       ],
       "titleJa": "Apple Arcadeに新作9タイトルが追加",
       "summaryJa": "Apple Arcadeに新たに9つのゲームが追加され、特に『Mini Football Legends』や『Family Feud Pocket』が注目されています。これにより、プレイヤーはサッカーやクイズゲームを楽しむことができ、さらに『My Talking Tom 2+』や『Coffee Inc 2+』なども登場します。これらのゲームは、広告やアプリ内購入なしで楽しめるのが特徴です。"
+    },
+    {
+      "id": "5bebab6bd00205b82f32",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "App Storeのエコシステムが1.4兆ドル規模に到達、世界中のデベロッパが引き続き躍進",
+      "url": "https://www.apple.com/jp/newsroom/2026/06/app-store-ecosystem-reaches-1-point-4-trillion-usd-as-developers-thrive-globally/",
+      "publishedAt": "2026-06-04T13:03:37.281Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "App Storeエコシステムが1.4兆ドルに",
+      "summaryJa": "Appleは、2025年に世界のApp Storeエコシステムが1.4兆ドルを超える売上を達成したと発表しました。この成長は、特にAIを搭載したアプリの売上が4倍に増加したことが寄与しています。App Storeは、デベロッパーにとって安全で最適なプラットフォームであり、90%以上の売上が手数料なしで発生しています。Appleは引き続きデベロッパーを支援し、ユーザーの生活を豊かにするアプリの開発を促進しています。"
     },
     {
       "id": "bbf53dd8404f1ec17c11",
@@ -1441,6 +1775,22 @@
       ],
       "titleJa": "Apple Developerセンターがベルリンに拡大",
       "summaryJa": "Appleは、ベルリンに新たなDeveloper Centerを開設することを発表しました。このセンターは、開発者向けの対面セッションやワークショップを提供し、欧州の開発者にAppleの専門家やイベントへのアクセスを向上させることを目的としています。既存のセンターはクパチーノ、上海、バンガロール、シンガポールにあり、ベルリンは5番目の拠点となります。"
+    },
+    {
+      "id": "ec671bcf890614bccf76",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、2026年Apple Design Awardsの受賞者を発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-reveals-winners-of-the-2026-apple-design-awards/",
+      "publishedAt": "2026-06-02T17:07:01.810Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "2026年Apple Design Awards受賞者発表",
+      "summaryJa": "Appleは2026年のApple Design Awardsの受賞者を発表し、12の優れたアプリとゲームが選ばれました。受賞作品は、イノベーションや芸術性を示し、ユーザーに比類のない体験を提供しています。受賞者はWWDC26で表彰され、各カテゴリーでの受賞作が紹介されました。Appleは、デベロッパーの努力を称え、彼らが提供する体験がいかに素晴らしいものであるかを強調しています。"
     },
     {
       "id": "f9af878244fcb6ece0c2",
@@ -1601,7 +1951,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-22T11:07:44.683Z",
+  "updatedAt": "2026-07-22T11:21:44.954Z",
   "initialized": true,
   "summaryVersion": 4
 }
