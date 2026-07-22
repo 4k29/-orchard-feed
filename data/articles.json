@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "b9625c1bd08e4136d4f0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple promotes ‘Nido de Villanas,’ a Mexican microdrama shot on iPhone 17 Pro",
+      "url": "https://9to5mac.com/2026/07/21/apple-promotes-nido-de-villanas-a-mexican-microdrama-shot-on-iphone-17-pro/",
+      "publishedAt": "2026-07-22T01:37:01.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/nido-de-villanas.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AppleがiPhone 17 Proで撮影したメキシコのマイクロドラマ『Nido de Villanas』をプロモーション",
+      "summaryJa": "Appleは、iPhone 17 Proで完全に撮影されたメキシコのマイクロドラマ『Nido de Villanas』の初公開を行い、YouTubeで14本のショートとして配信中です。"
+    },
+    {
       "id": "aae9339569128f8d936e",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -1477,6 +1492,6 @@
       "summaryJa": "2026年6月18日から、オーストラリアとベトナムのApp Storeで年齢評価が更新されます。オーストラリアでは15+評価が廃止されます。"
     }
   ],
-  "updatedAt": "2026-07-22T01:21:08.418Z",
+  "updatedAt": "2026-07-22T01:48:24.269Z",
   "initialized": true
 }
