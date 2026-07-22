@@ -1,4 +1,5 @@
 name: Appleニュースを更新
+run-name: ${{ github.event_name == 'schedule' && 'RSS自動取得' || github.event_name == 'workflow_dispatch' && 'RSS手動取得' || 'RSS設定更新' }}
 
 on:
   push:
@@ -10,7 +11,7 @@ on:
       - "scripts/**"
       - "tests/**"
   schedule:
-    - cron: "5,15,25,35,45,55 * * * *"
+    - cron: "5/10 * * * *"
   workflow_dispatch:
     inputs:
       send_test:
