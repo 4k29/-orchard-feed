@@ -1,10 +1,19 @@
 import fs from "node:fs/promises";
+import { extractArticleText } from "./article.mjs";
 import { FEEDS, mergeArticles, parseFeed, selectFreshNotifications } from "./feed.mjs";
 
 const DATA_PATH = new URL("../data/articles.json", import.meta.url);
 const MODEL_ENDPOINT = "https://models.github.ai/inference/chat/completions";
 const MODEL = process.env.GITHUB_MODEL || "openai/gpt-4o-mini";
-const SUMMARY_VERSION = 2;
+const SUMMARY_VERSION = 3;
+const ARTICLE_HOSTS = new Set([
+  "www.apple.com",
+  "developer.apple.com",
+  "www.macrumors.com",
+  "macrumors.com",
+  "9to5mac.com",
+  "www.9to5mac.com",
+]);
 
 async function readState() {
   try {
@@ -36,6 +45,39 @@ async function fetchFeed(feed) {
     }
   }
   throw new Error(`${feed.name}: ${lastError?.message ?? "unknown feed error"}`);
+}
+
+async function enrichArticle(article) {
+  try {
+    const url = new URL(article.url);
+    if (url.protocol !== "https:" || !ARTICLE_HOSTS.has(url.hostname)) return article;
+
+    const response = await fetch(url, {
+      headers: {
+        accept: "text/html,application/xhtml+xml",
+        "user-agent": "Orchard RSS reader (+https://orchard-news.brisk-joy-8941.chatgpt.site)",
+      },
+      signal: AbortSignal.timeout(20_000),
+    });
+    if (!response.ok) return article;
+
+    const articleText = extractArticleText(await response.text());
+    if (articleText.length <= String(article.summaryOriginal ?? "").length + 80) return article;
+    return {
+      ...article,
+      summaryOriginal: `${article.summaryOriginal ?? ""}\n\n${articleText}`.trim().slice(0, 8000),
+    };
+  } catch {
+    return article;
+  }
+}
+
+async function enrichArticles(articles) {
+  const enriched = [];
+  for (let index = 0; index < articles.length; index += 8) {
+    enriched.push(...(await Promise.all(articles.slice(index, index + 8).map(enrichArticle))));
+  }
+  return enriched;
 }
 
 function parseModelJson(content) {
@@ -214,13 +256,13 @@ async function main() {
   let translated = [];
   if (unseen.length) {
     console.log(`Translating ${unseen.length} new article(s).`);
-    translated = await translate(unseen);
+    translated = await translate(await enrichArticles(unseen));
   }
 
   let refreshed = [];
   if (needsSummaryRefresh && refreshCandidates.length) {
     console.log(`Refreshing ${refreshCandidates.length} article summary or summaries.`);
-    refreshed = await translate(refreshCandidates);
+    refreshed = await translate(await enrichArticles(refreshCandidates));
   }
 
   const payload = {
