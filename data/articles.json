@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "0b4ce786f8f7f3cdef59",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "The iPhone 18 Pro's Rumored Camera Upgrade, Explained",
+      "url": "https://www.macrumors.com/2026/07/22/the-iphone-18-pro-variable-camera-aperture/",
+      "publishedAt": "2026-07-22T09:15:05.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/iphone-17-cameras-zoom.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Pro、可変絞りカメラ搭載か",
+      "summaryJa": "Appleの次期iPhone 18 ProおよびiPhone 18 Pro Maxには、可変絞りカメラが搭載されるとの噂があります。この機能により、カメラが光の量を機械的に調整できるようになり、特に屋外での動画撮影時に滑らかな映像が期待されます。現在のiPhoneカメラは固定絞りのため、明るい環境では動きが不自然に見えることがありますが、可変絞りにより自然なボケ感やシャープな画像が得られる可能性があります。ユーザーが絞りを手動で調整できるか、自動で調整されるかはまだ不明です。"
+    },
+    {
       "id": "63cc88d2e29f2f7e1922",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -1571,7 +1586,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-22T03:52:21.599Z",
+  "updatedAt": "2026-07-22T10:14:54.762Z",
   "initialized": true,
   "summaryVersion": 4
 }
