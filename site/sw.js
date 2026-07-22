@@ -1,4 +1,4 @@
-const CACHE_NAME = "orchard-v1";
+const CACHE_NAME = "orchard-v2";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -35,14 +35,17 @@ async function networkFirst(request) {
   }
 }
 
-async function cacheFirst(request) {
+async function staleWhileRevalidate(request) {
   const cache = await caches.open(CACHE_NAME);
   const cached = await cache.match(request);
-  if (cached) return cached;
+  const network = fetch(request)
+    .then(async (response) => {
+      if (response.ok) await cache.put(request, response.clone());
+      return response;
+    })
+    .catch(() => cached);
 
-  const response = await fetch(request);
-  if (response.ok) await cache.put(request, response.clone());
-  return response;
+  return cached || network;
 }
 
 self.addEventListener("fetch", (event) => {
@@ -59,7 +62,7 @@ self.addEventListener("fetch", (event) => {
   }
 
   if (url.origin === self.location.origin) {
-    event.respondWith(cacheFirst(request));
+    event.respondWith(staleWhileRevalidate(request));
     return;
   }
 
