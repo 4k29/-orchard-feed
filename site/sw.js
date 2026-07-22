@@ -1,4 +1,4 @@
-const CACHE_NAME = "orchard-v2";
+const CACHE_NAME = "orchard-v3";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -6,6 +6,10 @@ const APP_SHELL = [
   "./app.js",
   "./manifest.webmanifest",
   "./icon.svg",
+  "./icons/apple-newsroom.svg",
+  "./icons/apple-developer.svg",
+  "./icons/macrumors.svg",
+  "./icons/9to5mac.svg",
 ];
 
 self.addEventListener("install", (event) => {
