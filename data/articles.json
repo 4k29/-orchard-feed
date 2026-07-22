@@ -12,8 +12,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "AppleがiPhone 17 Proで撮影したメキシコのマイクロドラマ『Nido de Villanas』をプロモーション",
-      "summaryJa": "Appleは、iPhone 17 Proで完全に撮影されたメキシコのマイクロドラマ『Nido de Villanas』の初公開を行い、YouTubeで14本のショートとして配信中です。"
+      "titleJa": "AppleがiPhone 17 Proで撮影されたメキシコのマイクロドラマ「Nido de Villanas」を紹介",
+      "summaryJa": "Appleは、iPhone 17 Proで完全に撮影されたメキシコのマイクロドラマ「Nido de Villanas」の初公開を行い、YouTubeで14本のショート動画として配信しています。"
     },
     {
       "id": "aae9339569128f8d936e",
@@ -28,7 +28,7 @@
         "海外メディア"
       ],
       "titleJa": "Claude CodeがMacアプリにiOSアプリのライブテスト機能を追加",
-      "summaryJa": "Claude CodeのMacアプリは、iOSプラットフォームがインストールされたXcodeを使用して、iOSアプリをインタラクティブなシミュレーターでテストできるようになりました。"
+      "summaryJa": "Claude CodeのMacアプリは、iOSプラットフォームがインストールされたXcodeを持っているユーザー向けに、インタラクティブなシミュレーターでiOSアプリをテストできる機能を追加しました。この新機能により、開発者はより効率的にアプリの動作を確認できるようになります。"
     },
     {
       "id": "e6f960b29c9c8ddf8def",
@@ -42,8 +42,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Claude CodeがAppleのシミュレーターでiOSアプリのビルドとテストが可能に",
-      "summaryJa": "Anthropicは、Claude CodeがiOSシミュレーターと連携し、公開ベータ版で利用可能になったと発表しました。開発者はClaudeが作業している間もiOSシミュレーターを使用し続けることができます。"
+      "titleJa": "Claude CodeがAppleのシミュレーターでiOSアプリを構築・テスト可能に",
+      "summaryJa": "Anthropicは、デスクトップ向けのClaude CodeがiOSシミュレーターと統合されたことを発表しました。この機能はパブリックベータ版として利用可能で、開発者はClaude Codeを使って進行中のアプリをシミュレーターで開き、リアルタイムで操作しながらプロジェクトを進めることができます。Claude CodeはmacOSのアクセシビリティや画面録画の権限なしでシミュレーターを直接操作でき、ユーザーは実際のアカウントでサインインしないことが推奨されています。iOSシミュレーターの統合は、macOS上のClaude Code Desktopで利用可能で、Xcodeが必要です。"
     },
     {
       "id": "fda5071b382afac46754",
@@ -57,8 +57,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "このエルゴノミックオフィスチェアは500ドル未満でプレミアムな快適さを提供",
-      "summaryJa": "オフィスチェアを探しているなら、SIHOO Doro C300 Pro V2はパーソナライズと快適さに重点を置いた機能が満載です。"
+      "titleJa": "このエルゴノミックオフィスチェアは500ドル未満でプレミアムな快適機能を備えています",
+      "summaryJa": "オフィスチェアを探している方に、SIHOO Doro C300 Pro V2が注目されています。このチェアは、個別の調整機能や快適性に重点を置いた特徴を多数備えており、コストパフォーマンスに優れています。"
     },
     {
       "id": "ed22ae6a0c551f0780f2",
@@ -72,8 +72,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple、634百万ドルのMasimo特許判決を覆す訴えを却下され、新たな裁判も拒否",
-      "summaryJa": "Appleは634百万ドルの特許判決を覆すための要求と新たな裁判を求める訴えが却下されました。"
+      "titleJa": "Apple、634百万ドルのMasimo特許判決を覆す試みを失敗",
+      "summaryJa": "Appleは、Masimoとの長期的な法廷闘争において、634百万ドルの特許判決を覆すための要求と新たな裁判を求める申請が却下されました。"
     },
     {
       "id": "67efcc689ba7e43d93f0",
@@ -87,8 +87,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple Watchが負傷したサイクリストを救助した実話を紹介する動画を公開",
-      "summaryJa": "Appleは、Apple Watchの安全機能がどのように負傷したサイクリストを救助したかを語る新しい動画を公開しました。"
+      "titleJa": "Apple Watchが負傷したサイクリストを救助した実話動画を公開",
+      "summaryJa": "Appleは、Apple Watchの安全機能が負傷したサイクリストを救助した実際のストーリーを語る新しい動画を公開しました。Fall DetectionやEmergency SOSがどのように役立ったかが紹介されています。"
     },
     {
       "id": "cf827e1ad8f76f4d9f89",
@@ -102,8 +102,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "iPhone Air 2が登場予定、これまでにわかっていること",
-      "summaryJa": "Appleは第二世代のiPhone Airを開発中で、現在のモデルのいくつかの主要な制限を解決する可能性があります。"
+      "titleJa": "iPhone Air 2が登場予定、これまでの情報まとめ",
+      "summaryJa": "Appleは第2世代のiPhone Airを開発中で、現行モデルのいくつかの主要な制限を解消する可能性があります。新機能や発売日など、iPhone Air 2に関する詳細が明らかになっています。"
     },
     {
       "id": "d9871ef2b2711f2171ee",
@@ -117,8 +117,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple TVが『Women in Blue』の第2シーズンのトレーラーを公開",
-      "summaryJa": "Apple TVは、数週間後にプレミアを控えた『Women in Blue』第2シーズンのトレーラーを公開しました。"
+      "titleJa": "Apple TVが『Women in Blue』第2シーズンのトレーラーを公開",
+      "summaryJa": "Apple TVは、数週間後にプレミアを控えた『Women in Blue』第2シーズンのトレーラーを公開しました。視聴者はトレーラーを楽しむことができます。"
     },
     {
       "id": "8d5fa167421f25707c21",
@@ -132,8 +132,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "iOS 27のコードがAppleが未払いのデバイスを制限する可能性を示唆",
-      "summaryJa": "iOS 27ベータ版で見つかったコードは、Appleが顧客の未払い時にリースデバイスを制限するシステムを構築した可能性を示しています。"
+      "titleJa": "iOS 27のコードが、未払い時にリースデバイスを制限する可能性を示唆",
+      "summaryJa": "iOS 27のベータ版で見つかったコードは、顧客が支払いを滞納した場合にリースデバイスを制限するシステムがAppleによって構築されていることを示唆しています。詳細が明らかになっています。"
     },
     {
       "id": "39f309e7d68cc18b2812",
@@ -149,7 +149,7 @@
         "公式"
       ],
       "titleJa": "TestFlightのアップデート",
-      "summaryJa": "TestFlightのリリースノートを確認できます。"
+      "summaryJa": "TestFlightに関する最新のリリースノートが公開されました。詳細については、リリースノートを確認する必要があります。"
     },
     {
       "id": "2579b2baedd798bb6dce",
@@ -165,7 +165,7 @@
         "公式"
       ],
       "titleJa": "TestFlight 4.3",
-      "summaryJa": "アプリをダウンロードし、リリースノートを確認できます。"
+      "summaryJa": "TestFlightの新しいバージョン4.3がリリースされました。アプリのダウンロードが可能で、リリースノートも確認できます。詳細な変更点や新機能については、リリースノートを参照してください。"
     },
     {
       "id": "e5ded01c22d5c45752ed",
@@ -179,8 +179,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Invitesが2つの新機能を追加",
-      "summaryJa": "Apple Invitesが更新され、ホストとゲストがイベントに返信する際に絵文字で反応できるようになりました。"
+      "titleJa": "Apple Invitesアプリが2つの新機能を追加",
+      "summaryJa": "Apple Invitesが更新され、RSVPに関連する2つの新機能が追加されました。ホストとゲストは、イベントへの返信時に絵文字で反応でき、返信時に紙吹雪のアニメーションが表示されるようになりました。アプリはApp Storeで入手可能です。"
     },
     {
       "id": "67ba77706da916ebf05d",
@@ -194,8 +194,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "iPhone 18 Proの発売日: Appleの新モデルの登場時期",
-      "summaryJa": "Appleの新しいフラッグシップiPhone 18 Proは、今秋に発表されると予想されています。"
+      "titleJa": "iPhone 18 Proの発売日：Appleの新モデルの登場時期",
+      "summaryJa": "Appleの新しいフラッグシップモデルiPhone 18 Proとその関連モデルが、例年通り今秋に発表される見込みです。発表日や発売日、ラインアップの詳細についての情報が期待されています。"
     },
     {
       "id": "1217742efdb84189b04f",
@@ -210,7 +210,7 @@
         "噂"
       ],
       "titleJa": "AppleがTestFlightを更新",
-      "summaryJa": "AppleはTestFlightアプリを更新し、ベータテスト中のアプリを素早く見つけるための検索フィールドを追加しました。"
+      "summaryJa": "Appleは本日、TestFlightアプリを更新し、ベータテスト中のアプリを迅速に検索できるフィールドを追加しました。バグ修正やパフォーマンスの向上も含まれており、TestFlightのバージョン4.3がApp Storeで利用可能です。"
     },
     {
       "id": "8b77ea79d0ac043f657e",
@@ -225,7 +225,7 @@
         "海外メディア"
       ],
       "titleJa": "Apple Invitesアプリがホストとゲスト向けの新機能を追加",
-      "summaryJa": "Apple Invitesが2つの新しいデジタル招待機能を追加しました。"
+      "summaryJa": "Apple Invitesアプリが今夏2回目の更新を行い、ユーザー向けに2つの新しいデジタル招待機能を追加しました。"
     },
     {
       "id": "3c14cb880c22a5fe0cbc",
@@ -239,8 +239,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Appleの新しいハードウェアサブスクリプションについて",
-      "summaryJa": "Appleが新しい「Apple Upgrade」リースプログラムを開始するとの報道がありますが、1つの制限があるとされています。"
+      "titleJa": "Appleの新しいハードウェアサブスクリプションに制限がある可能性",
+      "summaryJa": "Bloombergによると、Appleは新たに「Apple Upgrade」というハードウェアのリースプログラムを開始する予定です。これにより、Apple製品を月額サブスクリプションで購入できるようになりますが、1つの制限が報じられており、実現しないことを願っています。"
     },
     {
       "id": "9b435f94dc33c4b06493",
@@ -254,8 +254,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Best BuyがiPhone Air全モデルを$160オフで提供",
-      "summaryJa": "Best BuyがiPhone Airの全モデルをブラックフライデーに$160オフで提供しています。"
+      "titleJa": "Best BuyがiPhone Air全モデルをブラックフライデーセールで160ドル引き",
+      "summaryJa": "Best Buyは本日、ブラックフライデーの7月イベントとして、iPhone Airの全モデルを160ドル引きで提供しています。256GBモデルは839.99ドル、512GBモデルは1,039.99ドル、1TBモデルは1,239.99ドルで販売されています。さらに、iPhone Air用のMagSafeバッテリーも特別価格で提供中です。"
     },
     {
       "id": "d17256c76769a8b787b5",
@@ -269,8 +269,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Appleが多くのベータアプリを持つユーザー向けにTestFlightを改善",
-      "summaryJa": "Appleは、プレリリースソフトウェアを多く持つユーザー向けにTestFlightの最新アップデートを行いました。小さな変更が大きな影響を与えることがあります。"
+      "titleJa": "AppleがTestFlightを改善",
+      "summaryJa": "Appleの最新のTestFlightアップデートは、多くのベータアプリを持つユーザーにとって大きな影響を与える小さな変更を含んでいます。"
     },
     {
       "id": "71c86546c9997fb624d1",
@@ -284,8 +284,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple TVのベン・スティラー制作の新コメディが間もなく公開、レビューも到着",
-      "summaryJa": "ベン・スティラーが制作した新作映画『The Dink』が今週Apple TVで公開され、初期のレビューが寄せられています。"
+      "titleJa": "ベン・スティラー制作のApple TV新コメディ『The Dink』が間もなく公開、レビューが到着",
+      "summaryJa": "ベン・スティラーが制作した新作映画『The Dink』が今週Apple TVで公開される予定で、初期のレビューが寄せられています。レビューでは、作品の内容や演技についての評価が述べられており、期待が高まっています。"
     },
     {
       "id": "783ce4c56d4cb841abf8",
@@ -299,8 +299,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "OpenAIが小規模ビジネス向けプログラムを開始、ChatGPT WorkとCodexのユーザー数が1000万人に",
-      "summaryJa": "OpenAIは、小規模ビジネス向けのChatGPTプログラムを発表しました。また、ChatGPT WorkとCodexのユーザー数が1000万人に達したとしています。"
+      "titleJa": "OpenAIが小規模ビジネス向けプログラムを開始",
+      "summaryJa": "OpenAIは「ChatGPT for small business」という新しい取り組みを発表しました。また、同社はChatGPT WorkとCodexのユーザー数が1000万人に達したことを強調しています。"
     },
     {
       "id": "8235010b2c27cc371687",
@@ -314,8 +314,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "AppleがiCloud+の脆弱性を修正、ユーザーのメールアドレスが漏洩する問題",
-      "summaryJa": "Appleは、iCloud+の「Hide My Email」機能に関する脆弱性を修正したと発表しました。この問題は、ユーザーの本当のメールアドレスにアクセスできるものでした。"
+      "titleJa": "Apple、ユーザーの‘隠れた’メールアドレスを露出させるiCloud+の脆弱性を修正",
+      "summaryJa": "Appleは、iCloud+の‘Hide My Email’機能に関する脆弱性を修正したと発表しました。この問題は、ユーザーの本来のメールアドレスが外部に漏れる可能性があったもので、404 Mediaによって報告されました。Appleはこの問題を解決したとし、今後の安全性向上に努める意向を示しています。"
     },
     {
       "id": "2152cd0ed539badc1185",
@@ -329,8 +329,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "AppleがHide My Emailの脆弱性を修正、報告から1年以上経過",
-      "summaryJa": "Appleは、Hide My Emailの脆弱性を修正したと報じられています。この問題は2025年6月に報告され、2026年3月に修正されたとされています。"
+      "titleJa": "Apple、Hide My Emailの脆弱性を修正",
+      "summaryJa": "Appleは、ユーザーの実際のメールアドレスが漏洩する脆弱性を修正したと報じられています。この問題は2025年6月に報告されましたが、404 Mediaが公表するまで修正されませんでした。Hide My Emailは、ユーザーが匿名のメールアドレスを作成できるiCloud+の機能で、スパムとして拒否されたメールが原因で実際のメールアドレスがログに表示されることがありました。脆弱性は修正されたものの、非悪意のメールがバウンスすることで、依然としてリスクが残る可能性があります。"
     },
     {
       "id": "7ed6307f383ec381aba3",
@@ -344,8 +344,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "AppleがApple WatchのSOS機能の成功事例を紹介",
-      "summaryJa": "Appleは、Apple WatchのSOS機能を使用して救助された男性の事例を紹介しました。彼は山 biking中に事故に遭い、Apple Watchが自動的に救急サービスを呼びました。"
+      "titleJa": "Apple WatchのSOS機能が救命の成功事例を紹介",
+      "summaryJa": "Appleは、Apple WatchのSOS機能が実際に命を救った事例を紹介しました。山 biking中に事故に遭った男性が、Apple Watchによって自動的に緊急サービスに通報され、迅速に助けられたという内容です。この機能は、意識を失った際にも自動で助けを呼ぶことができるため、非常に重要な役割を果たしています。"
     },
     {
       "id": "6c882b9783d7a5428bbf",
@@ -359,8 +359,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Appleが「iPhone Upgrade Program」を終了する計画を報道",
-      "summaryJa": "Appleは新しい「Apple Upgrade」プログラムを来週発表し、既存のiPhone Upgrade Programの新規サインアップを停止する計画だと報じられています。"
+      "titleJa": "Apple、‘iPhone Upgrade Program’の終了を計画中との報道",
+      "summaryJa": "Appleは新しい‘Apple Upgrade’プログラムを来週開始する予定で、これに伴い既存の‘iPhone Upgrade Program’の新規申し込みを停止する計画があると報じられています。既存のメンバーがプログラムに残れるかどうかは不明ですが、Apple UpgradeではAppleCare+が含まれないため、月額料金が低くなる見込みです。"
     },
     {
       "id": "8f7dc3991f1ac55d061f",
@@ -374,8 +374,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "AppleがiPhone Upgrade Programを縮小中との報道",
-      "summaryJa": "Appleは来週、新しい「Apple Upgrade」リースプログラムを開始する予定で、既存のiPhone Upgrade Programを縮小する計画だとされています。"
+      "titleJa": "Apple、iPhoneアップグレードプログラムを終了へ",
+      "summaryJa": "Appleは新しい「Apple Upgrade」リースプログラムを来週発表する予定で、その一環として既存のiPhoneアップグレードプログラムを終了する計画があると報じられています。"
     },
     {
       "id": "945884451f1bd5ca11a8",
@@ -389,8 +389,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "9to5Mac デイリー: 2026年7月21日 – AppleとOpenAIの最新情報など",
-      "summaryJa": "9to5Macのトップストーリーを振り返るポッドキャストです。iTunesやAppleのポッドキャストアプリで聴けます。"
+      "titleJa": "9to5Macデイリー：2026年7月21日 – AppleとOpenAIの最新情報",
+      "summaryJa": "9to5Macのデイリーポッドキャストでは、AppleとOpenAIに関する最新の話題を含む、当日のトップストーリーの要約が提供されています。このポッドキャストはiTunesやAppleのポッドキャストアプリ、Stitcher、TuneIn、Google Playなどで利用可能です。また、Overcastや他のポッドキャストプレイヤー向けの専用RSSフィードも用意されています。"
     },
     {
       "id": "f521f1ce9c03c8fae0bc",
@@ -404,8 +404,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "セール: AirTag 2、M5 MacBook Proが320ドルオフ、Philips Hue Bridge Pro、Satechi CubeDockが100ドルオフなど",
-      "summaryJa": "AirPods Pro 3やAirPods Max 2のセールに加え、M5 MacBook Proが320ドルオフで登場しています。"
+      "titleJa": "セール情報：AirTag 2、M5 MacBook Proが320ドルオフ、Philips Hue Bridge Pro、Satechi CubeDockが100ドルオフなど",
+      "summaryJa": "現在、AirPods Pro 3とAirPods Max 2がそれぞれ100ドルオフで販売されているほか、AirTag 2がプライムデーの最安値に戻っています。また、M5 MacBook Pro（24GB RAM、96W充電器付き）が320ドルオフで販売中で、Apple Watch Series 11の全モデルも100ドルオフで在庫復活しています。さらに、Philips Hue Bridge ProやSatechiの25W 3-in-1 MagSafe充電ステーション、Thunderbolt 5 CubeDockも割引価格で提供されています。"
     },
     {
       "id": "7697dabfd5dd21b0f314",
@@ -419,8 +419,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "'Apple Upgrade'プログラムが来週開始されると報じられています",
-      "summaryJa": "AppleとKlarnaが提携し、iPhoneやiPadなどを対象にした新しい「Apple Upgrade」プログラムが7月28日に米国で開始されると報じられています。"
+      "titleJa": "Apple、来週新しい「Apple Upgrade」プログラムを開始予定",
+      "summaryJa": "Appleは、Klarnaと提携し、米国で新しい「Apple Upgrade」プログラムを7月28日に開始する予定です。このプログラムでは、iPhoneやiPad、Mac、Apple Watchのほとんどのモデルを24か月または36か月の期間で分割払いできるようになります。新プログラムの開始に伴い、iPhoneアップグレードプログラムへの新規申し込みは停止される見込みです。"
     },
     {
       "id": "331acbe1e7f342a72ede",
@@ -434,8 +434,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Appleが来週新しい「Apple Upgrade」リースプログラムを発表すると報じられています",
-      "summaryJa": "Appleが米国で新しい「Apple Upgrade」リースプログラムを開始するとの報告があり、デバイス販売方法に大きな変化があるとされています。"
+      "titleJa": "Appleが新しい「Apple Upgrade」リースプログラムを発表予定",
+      "summaryJa": "Appleは今月末に米国で新しい「Apple Upgrade」リースプログラムを開始するとの報道があります。これは、同社のデバイス販売方法において「最大の変化の一つ」とされており、具体的な仕組みについても言及されています。"
     },
     {
       "id": "7fd13619548b0793a407",
@@ -449,8 +449,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "MetaがAIを使った子供向けストーリー作成アプリをテスト中",
-      "summaryJa": "MetaがAIを活用してパーソナライズされた子供向けストーリーを作成するiPhoneアプリを静かにリリースしました。"
+      "titleJa": "MetaがAIを活用した子供向けストーリー作成アプリをテスト中",
+      "summaryJa": "Metaが新たにAIを利用して、イラストやナレーション、オリジナル音楽を含むパーソナライズされた子供向けストーリーを作成するiPhoneアプリを静かにリリースしました。"
     },
     {
       "id": "b957f11d96836f9f231f",
@@ -479,8 +479,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "iPhone 18の噂の現実チェック: 20の主張を可能性別にランク付け",
-      "summaryJa": "iPhone 18 Proモデルや初の折りたたみiPhoneの発表が近づいており、様々な噂が報じられています。"
+      "titleJa": "iPhone 18の噂の現実チェック：20の主張を可能性別にランク付け",
+      "summaryJa": "AppleのiPhone 18 Proモデルと初の折りたたみ式iPhoneが2ヶ月以内に発表される予定です。iPhone 18、iPhone 18e、iPhone Air 2は2027年春に登場する見込みです。iPhone Air 2はウルトラワイドカメラを搭載し、デザインは大きく変わらないとされています。また、iPhone 18 Proは新色のダークチェリーが特徴で、可変絞りレンズや増加したRAMも期待されています。"
     },
     {
       "id": "57c1ba6b67980987b0f7",
@@ -494,8 +494,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "A16 iPadが6月の値上げ以来の最安値で購入可能",
-      "summaryJa": "AmazonでAppleの第11世代iPadが50ドルオフで販売中で、最安値となっています。"
+      "titleJa": "A16 iPadが6月の値上げ以来の最安値に",
+      "summaryJa": "AmazonがAppleの第11世代iPadのWi-Fiモデルを50ドル引きで販売しています。128GBモデルは399ドル、256GBモデルは499ドル、512GBモデルは699ドルとなっており、いずれも6月の値上げ以来の最安値です。プライム会員は多くの地域で即日配送が可能です。"
     },
     {
       "id": "4f3c5ca0360f6690c364",
@@ -509,8 +509,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "iOS 26.6がiPhoneをiOS 27に備えさせる",
-      "summaryJa": "iOS 27ではSiri AIの検索アーキテクチャが再構築され、iOS 26.6はその準備を助けると報じられています。iOS 26.6はバグ修正やセキュリティの脆弱性も解決します。"
+      "titleJa": "iOS 26.6がiOS 27の準備を進める",
+      "summaryJa": "iOS 27ではSiri AIの検索アーキテクチャが再構築され、iOS 26.6はその準備としてSpotlightインデックスを最適化します。このアップデートは来週リリースされる見込みで、バグ修正やセキュリティの脆弱性も含まれています。"
     },
     {
       "id": "4c8874d88baccfc1d686",
@@ -524,8 +524,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "AppleのチップメーカーTSMC、2027年に最大10%の価格引き上げを計画",
-      "summaryJa": "TSMCは2027年から最大10%の価格引き上げを計画していると報じられています。AppleはTSMCの最大の顧客であり、価格上昇が影響を与える可能性があります。"
+      "titleJa": "AppleのチップメーカーTSMCが2027年に最大10%の値上げを計画",
+      "summaryJa": "Appleの主要なチップメーカーであるTSMCが、2027年から最大10%の価格引き上げを計画していると報じられています。これには、Appleが依存するAシリーズやMシリーズチップの製造に関わるコスト上昇が影響しています。Appleがこのコストを吸収するか、顧客に転嫁するかは不明です。"
     },
     {
       "id": "13e65198d091bd826098",
@@ -539,8 +539,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple、20周年記念iPhoneモデル用の7インチディスプレイをテスト中",
-      "summaryJa": "Appleは約6.96インチの大きなiPhoneディスプレイをプロトタイプしていると報じられています。20周年記念iPhoneのための準備とされています。"
+      "titleJa": "Appleが20周年記念iPhoneモデル用の7インチディスプレイをテスト中",
+      "summaryJa": "Appleが約6.96インチの大きなiPhoneディスプレイをプロトタイプとしてテストしていると報じられています。これは20周年記念のiPhoneに使用される可能性があります。デザインは現在のiPhone 17 Pro Maxと同じ比率で、エッジツーエッジのカーブガラスが特徴とされています。"
     },
     {
       "id": "44ca13c30fadd44619b4",
@@ -554,8 +554,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Samsung、Apple Cardに対抗するGalaxy Cardを発表",
-      "summaryJa": "Samsungはアメリカで初のクレジットカード、Galaxy Cardを発表しました。Apple Cardと類似のファイナンスオプションを提供しています。"
+      "titleJa": "SamsungがApple Cardに対抗するGalaxy Cardを発表",
+      "summaryJa": "Samsungが米国で初のクレジットカード「Samsung Galaxy Card」を発表しました。このカードは5%のキャッシュバックを提供し、Apple Cardと類似のファイナンスオプションがあります。年会費は無料で、Samsung製品購入時に特典があります。Apple Cardは3%のキャッシュバックを提供していますが、Samsungはより高い還元率を設定しています。"
     },
     {
       "id": "208f2027213d8bd8bd2e",
@@ -570,7 +570,7 @@
         "噂"
       ],
       "titleJa": "iOS 27ベータ4の新機能",
-      "summaryJa": "AppleはiOS 27のベータ4をリリースし、いくつかの新機能を追加したと報じられています。設定やSiriのインターフェースに変更が加えられています。"
+      "summaryJa": "Appleは、9月の正式リリースに向けてiOS 27の調整を続けており、開発者向けの第4ベータ版が公開されました。変更点は少ないものの、新機能が追加されています。Apple TVアプリでは自動ダウンロード機能が追加され、視聴中の番組の次の2エピソードが自動的にダウンロードされます。また、写真設定に「ズームしてフィル」オプションが追加され、Siriの音声選択インターフェースも変更されています。"
     },
     {
       "id": "394742808a6e53431369",
@@ -584,24 +584,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Watch Series 12が9月に新機能を搭載して登場",
-      "summaryJa": "Apple Watch Series 12は新しいチップと長いバッテリー寿命に焦点を当てていると報じられています。Touch IDの搭載については未確認の情報もあります。"
-    },
-    {
-      "id": "c8f9a9e53d92585abe33",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "watchOS 27.0 beta 4 (24R5325h)",
-      "url": "https://developer.apple.com/news/releases/?id=07202026l",
-      "publishedAt": "2026-07-20T20:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "watchOS 27.0 beta 4 (24R5325h)",
-      "summaryJa": "watchOS 27.0 beta 4がリリースされました。詳細はリリースノートをご覧ください。"
+      "titleJa": "Apple Watch Series 12が9月に新機能と共に登場",
+      "summaryJa": "Apple Watch Series 12が2ヶ月後に発売予定で、新機能の噂がいくつか報じられています。新しいチップが搭載される可能性が高く、パフォーマンス向上が期待されています。また、バッテリー寿命の延長も目指されているとのことです。一方、Touch IDの搭載については不確実性があり、信頼できる情報源からの確認は得られていません。"
     },
     {
       "id": "1642175742260e699f44",
@@ -616,8 +600,8 @@
         "Developer",
         "公式"
       ],
-      "titleJa": "Xcode 27ベータ4 (27A5228h)",
-      "summaryJa": "Xcode 27ベータ4がリリースされました。詳細はリリースノートを参照してください。"
+      "titleJa": "Xcode 27ベータ4のリリース",
+      "summaryJa": "AppleはXcode 27ベータ4をリリースしました。詳細なリリースノートやダウンロードは、Appleの開発者向けサイトで確認できます。"
     },
     {
       "id": "521231b0fbf39cef987b",
@@ -632,8 +616,24 @@
         "Developer",
         "公式"
       ],
-      "titleJa": "visionOS 27.0ベータ4 (24M5326g)",
-      "summaryJa": "visionOS 27.0ベータ4がリリースされました。詳細はリリースノートを参照してください。"
+      "titleJa": "visionOS 27.0ベータ4のリリース",
+      "summaryJa": "AppleはvisionOS 27.0ベータ4をリリースしました。詳細なリリースノートやダウンロードは、Appleの開発者向けサイトで確認できます。"
+    },
+    {
+      "id": "c8f9a9e53d92585abe33",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "watchOS 27.0 beta 4 (24R5325h)",
+      "url": "https://developer.apple.com/news/releases/?id=07202026l",
+      "publishedAt": "2026-07-20T20:00:00.000Z",
+      "imageUrl": null,
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "watchOS 27.0ベータ4のリリース",
+      "summaryJa": "AppleはwatchOS 27.0ベータ4をリリースしました。詳細なリリースノートやダウンロードは、Appleの開発者向けサイトで確認できます。"
     },
     {
       "id": "53c1e2fbe3a402bbf840",
@@ -647,8 +647,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple、開発者向けにvisionOS 27ベータ版第4弾を提供",
-      "summaryJa": "Appleは、開発者向けにvisionOS 27の第4ベータ版を提供しました。このアップデートでは、Siri AIや新しい環境機能が追加されています。"
+      "titleJa": "Apple、開発者向けにvisionOS 27ベータ4を提供",
+      "summaryJa": "Appleは、visionOS 27の第4ベータ版を開発者向けに提供しました。このアップデートでは、SiriのAI機能が強化され、ユーザーが見ているものに基づいて質問に答えることができます。また、パノラマ写真を空間環境に変換する機能や、Safariでの360度環境のサポートも追加されています。"
     },
     {
       "id": "5677cc63c092091634b6",
@@ -663,7 +663,7 @@
         "噂"
       ],
       "titleJa": "iOS 27のコードに二つのバッテリーを持つiPhoneの言及",
-      "summaryJa": "iOS 27の第4ベータ版には、二つのバッテリーを搭載したiPhoneに関する言及があると報じられています。これが折りたたみ式のiPhone Ultraに関連している可能性があります。"
+      "summaryJa": "iOS 27の開発者向けベータ版のコードに、二つのバッテリーを搭載したiPhoneに関する言及が確認されました。これにより、Appleが開発中の折りたたみ式「iPhone Ultra」が、二つのバッテリーを使用する可能性が示唆されています。バッテリーの健康状態を個別に確認できる機能があり、故障したセルのみを交換できることで修理コストが削減される可能性もあります。iPhone Ultraは、iPhone 18 Proモデルと共に今年9月に発表される見込みです。"
     },
     {
       "id": "ec13f695373a55f4683f",
@@ -677,8 +677,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple、watchOS 27ベータ版第4弾を開発者向けに提供",
-      "summaryJa": "Appleは、watchOS 27の第4ベータ版を開発者向けに提供しました。このアップデートでは、Siri AIや新しいアプリグリッドが追加されています。"
+      "titleJa": "Apple、watchOS 27ベータ4を開発者に提供",
+      "summaryJa": "Appleは、watchOS 27の第4ベータ版を開発者向けにリリースしました。このアップデートは、前回のベータから2週間後に登場し、Apple Watchの充電中かつWi-Fi接続時にインストール可能です。新しいSiri AI機能が追加され、よりインタラクティブな会話が可能になり、アプリのダイナミックグリッドや新しいFind Myアプリも搭載されています。全てのwatchOS 27対応モデルで利用可能ですが、Apple Watch Ultra 3は対象外です。"
     },
     {
       "id": "a540a1caaac63d36c95a",
@@ -692,8 +692,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple、macOS Golden Gateベータ版第4弾をリリース",
-      "summaryJa": "Appleは、macOS Golden Gateの第4ベータ版を開発者向けに提供しました。新しいSiri AIやデザインの改善が含まれています。"
+      "titleJa": "Apple、macOS Golden Gateベータ4をリリース",
+      "summaryJa": "Appleは、macOS Golden Gateの第4ベータ版を開発者向けに提供しました。このアップデートは、デザインの改善や新しいSiri AI機能を含んでおり、ユーザーの個人データを活用して質問に答えることができます。また、AIによる写真編集ツールやSafariのタブ整理機能も追加されています。開発者は、システム設定からベータ版をダウンロードできます。"
     },
     {
       "id": "7c066fd6f4e169764373",
@@ -709,7 +709,7 @@
         "公式"
       ],
       "titleJa": "iOS 27.0 beta 4 (24A5390f)",
-      "summaryJa": "iOS 27.0 beta 4がリリースされました。詳細はリリースノートをご覧ください。"
+      "summaryJa": "AppleはiOS 27.0のベータ版4をリリースしました。詳細なリリースノートやダウンロードリンクが提供されています。新機能や改善点についての情報は、リリースノートを参照することで確認できます。"
     },
     {
       "id": "f60609fcb425b9a780cd",
@@ -725,7 +725,7 @@
         "公式"
       ],
       "titleJa": "iPadOS 27.0 beta 4 (24A5390f)",
-      "summaryJa": "iPadOS 27.0 beta 4がリリースされました。詳細はリリースノートをご覧ください。"
+      "summaryJa": "AppleはiPadOS 27.0のベータ版4をリリースしました。このバージョンには新機能や改善点が含まれている可能性がありますが、詳細なリリースノートはまだ公開されていません。開発者はダウンロードしてテストを行うことができます。"
     },
     {
       "id": "06d5f8e049dcb026f35d",
@@ -740,8 +740,8 @@
         "Developer",
         "公式"
       ],
-      "titleJa": "macOS 27.0 beta 4 (26A5388g)",
-      "summaryJa": "macOS 27.0 beta 4がリリースされました。詳細はリリースノートをご覧ください。"
+      "titleJa": "macOS 27.0 ベータ 4 (26A5388g)",
+      "summaryJa": "AppleはmacOS 27.0のベータ版4をリリースしました。詳細なリリースノートやダウンロードリンクが提供されています。新機能や改善点については、リリースノートを参照することが推奨されます。"
     },
     {
       "id": "b4ca14174f72227f2909",
@@ -756,8 +756,8 @@
         "Developer",
         "公式"
       ],
-      "titleJa": "tvOS 27.0 beta 4 (24J5325d)",
-      "summaryJa": "tvOS 27.0 beta 4がリリースされました。詳細はリリースノートをご覧ください。"
+      "titleJa": "tvOS 27.0 ベータ4 (24J5325d)",
+      "summaryJa": "tvOS 27.0のベータ版4がリリースされました。詳細なリリースノートやダウンロードリンクが提供されています。"
     },
     {
       "id": "06271f0394d5312d78d4",
@@ -773,7 +773,7 @@
         "公式"
       ],
       "titleJa": "iOS 26.6 RC (23G71)",
-      "summaryJa": "iOS 26.6 RCがリリースされました。詳細はリリースノートをご覧ください。"
+      "summaryJa": "iOS 26.6のリリース候補版が公開されました。ダウンロードやリリースノートの確認が可能です。"
     },
     {
       "id": "26332dd904e0036b32c0",
@@ -789,7 +789,7 @@
         "公式"
       ],
       "titleJa": "iPadOS 26.6 RC (23G71)",
-      "summaryJa": "iPadOS 26.6 RCがリリースされました。詳細はリリースノートをご覧ください。"
+      "summaryJa": "iPadOS 26.6のリリース候補版が発表されました。詳細なリリースノートやダウンロードリンクが用意されています。"
     },
     {
       "id": "25a0d59c267279ed569c",
@@ -805,7 +805,7 @@
         "公式"
       ],
       "titleJa": "macOS 26.6 RC (25G70)",
-      "summaryJa": "macOS 26.6 RCがリリースされました。詳細はリリースノートをご覧ください。"
+      "summaryJa": "macOS 26.6のリリース候補版がリリースされました。リリースノートとダウンロードの情報が提供されています。"
     },
     {
       "id": "4e1e53720773bd6b2929",
@@ -821,7 +821,7 @@
         "公式"
       ],
       "titleJa": "tvOS 26.6 RC (23L772)",
-      "summaryJa": "tvOS 26.6 RCがリリースされました。詳細はリリースノートをご覧ください。"
+      "summaryJa": "tvOS 26.6のリリース候補版が公開されました。ダウンロードやリリースノートの確認が可能です。"
     },
     {
       "id": "7b3dcf6fbf515e65d2ff",
@@ -837,7 +837,7 @@
         "公式"
       ],
       "titleJa": "visionOS 26.6 RC (23O770)",
-      "summaryJa": "visionOS 26.6 RCがリリースされました。詳細はリリースノートをご覧ください。"
+      "summaryJa": "visionOS 26.6のリリース候補版が発表されました。リリースノートやダウンロードリンクが提供されています。"
     },
     {
       "id": "7916b203d77427ac8e14",
@@ -853,7 +853,7 @@
         "公式"
       ],
       "titleJa": "watchOS 26.6 RC (23U67)",
-      "summaryJa": "watchOS 26.6 RCがリリースされました。詳細はリリースノートをご覧ください。"
+      "summaryJa": "watchOS 26.6のリリース候補版が公開されました。ダウンロードやリリースノートの確認が可能です。"
     },
     {
       "id": "90d973401a89c6bcdc0d",
@@ -869,7 +869,7 @@
         "公式"
       ],
       "titleJa": "App Store Connect API 4.4.1",
-      "summaryJa": "App Store Connect API 4.4.1がリリースされました。詳細はリリースノートをご覧ください。"
+      "summaryJa": "App Store Connect APIのバージョン4.4.1がリリースされました。ファイルのダウンロードやリリースノートの確認ができます。"
     },
     {
       "id": "583a306f1b614edb0313",
@@ -883,8 +883,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "メジャーリーグサッカーが明日Apple TVに戻る",
-      "summaryJa": "FIFAワールドカップのための1ヶ月の休止を経て、メジャーリーグサッカーが明日Apple TVに戻ります。"
+      "titleJa": "メジャーリーグサッカーがApple TVに帰ってくる",
+      "summaryJa": "FIFAワールドカップのための1ヶ月の休止を経て、メジャーリーグサッカーが明日、7月16日にApple TVで再開されます。"
     },
     {
       "id": "1379385f82fe0f520def",
@@ -898,8 +898,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Madden NFL 27アーケード版が8月6日にApple Arcadeに登場",
-      "summaryJa": "Apple Arcadeは、EA SPORTSのMadden NFL 27を含むスポーツゲームのラインアップを拡充します。"
+      "titleJa": "Madden NFL 27 アーケード版がApple Arcadeに登場",
+      "summaryJa": "Apple ArcadeにEA SPORTSのMadden NFL 27が追加され、8月6日にリリースされる予定です。これにより、スポーツゲームのラインアップが拡充されます。"
     },
     {
       "id": "be6e662d05e0588b357a",
@@ -929,8 +929,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Appleとメジャーリーグベースボールが8月の「Friday Night Baseball」スケジュールを発表",
-      "summaryJa": "Appleとメジャーリーグベースボールは、毎週金曜日にApple TVでストリーミングされる「Friday Night Baseball」の8月のスケジュールを発表しました。"
+      "titleJa": "Appleとメジャーリーグベースボールが8月の「フライデーナイトベースボール」スケジュールを発表",
+      "summaryJa": "Appleとメジャーリーグベースボールは、毎週金曜日にApple TVでストリーミングされる「フライデーナイトベースボール」の8月のスケジュールを発表しました。"
     },
     {
       "id": "e8c4514a269fdb14ca5f",
@@ -944,8 +944,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Apple、歴史的な89のエミー賞ノミネートを獲得",
-      "summaryJa": "Appleは第78回プライムタイムエミー賞で15のプログラムにわたり歴史的な89のノミネートを獲得しました。"
+      "titleJa": "Appleが89のエミー賞ノミネートを獲得",
+      "summaryJa": "Appleは第78回プライムタイムエミー賞で、15のプログラムにわたり歴史的な89のノミネートを獲得しました。"
     },
     {
       "id": "f77ffd77f710d4a74748",
@@ -959,8 +959,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Apple、Broadcomとの契約を増額し米国でのチップ生産を拡大",
-      "summaryJa": "AppleはBroadcomとの新たな6年間の契約を発表し、カスタムシリコン部品と最先端のワイヤレス接続技術を設計・生産することを目指します。"
+      "titleJa": "Apple、Broadcomとの契約を増額し、米国でのチップ生産を拡大",
+      "summaryJa": "Appleは、Broadcomとの新たな6年間の契約を発表し、カスタムシリコンコンポーネントや最先端のワイヤレス接続技術の設計・生産を行うことを明らかにしました。これにより、米国でのチップ生産が数十億個増加する見込みです。"
     },
     {
       "id": "0720aeade46e397e40ed",
@@ -990,8 +990,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Apple Creator Studioがよりスマートに、迅速に、接続性を向上",
-      "summaryJa": "Appleは、Apple Creator Studioにパワフルなアップデートを導入しました。"
+      "titleJa": "Apple Creator Studioがよりスマートで高速、接続性向上",
+      "summaryJa": "Appleは、クリエイティブアプリの革新的なコレクションであるApple Creator Studioの強化されたアップデートを発表しました。これにより、ユーザーはより効率的に創作活動を行えるようになります。"
     },
     {
       "id": "1aa97d9b043b410bd4c7",
@@ -1007,7 +1007,7 @@
         "公式"
       ],
       "titleJa": "iOS 26.5.2 (23F84)",
-      "summaryJa": "iOS 26.5.2がリリースされました。詳細はリリースノートをご覧ください。"
+      "summaryJa": "iOS 26.5.2のダウンロードが可能です。"
     },
     {
       "id": "10b821ba975dc95530ca",
@@ -1023,7 +1023,7 @@
         "公式"
       ],
       "titleJa": "iPadOS 26.5.2 (23F84)",
-      "summaryJa": "iPadOS 26.5.2がリリースされました。詳細はリリースノートをご覧ください。"
+      "summaryJa": "iPadOS 26.5.2のダウンロードが可能です。"
     },
     {
       "id": "356c0daa1a3cc3588980",
@@ -1039,7 +1039,7 @@
         "公式"
       ],
       "titleJa": "macOS 26.5.2 (25F84)",
-      "summaryJa": "macOS 26.5.2がリリースされました。詳細はリリースノートをご覧ください。"
+      "summaryJa": "macOS 26.5.2のダウンロードが可能です。"
     },
     {
       "id": "1d470c83a5318f9ee55b",
@@ -1054,8 +1054,8 @@
         "Developer",
         "公式"
       ],
-      "titleJa": "App Store Connect Update",
-      "summaryJa": "App Store Connectのアップデートが行われました。詳細はリリースノートをご覧ください。"
+      "titleJa": "App Store Connectのアップデート",
+      "summaryJa": "App Store Connectのリリースノートが公開されています。"
     },
     {
       "id": "23ea6efbbfe4facc9822",
@@ -1085,8 +1085,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Apple、ブラジルにおけるiOSの変更を発表",
-      "summaryJa": "Appleはブラジルの競争規制当局CADEとの最近の合意を反映したiOSアプリに影響を与える変更を発表しました。"
+      "titleJa": "ブラジルにおけるiOSの変更を発表",
+      "summaryJa": "Appleは、ブラジルの競争規制機関CADEとの最近の合意を反映したiOSアプリに影響を与える変更を発表しました。これにより、ブラジル市場におけるアプリの運用や規制が見直されることになります。"
     },
     {
       "id": "342cfd54017cdaafbf0d",
@@ -1164,8 +1164,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Apple、サービス全体で革新的な機能とインテリジェンス体験を発表",
-      "summaryJa": "2027年のソフトウェアリリースが今秋に登場し、Appleはユーザー向けに強力な新機能を提供します。"
+      "titleJa": "サービス全体で革新的な機能とインテリジェンス体験を発表",
+      "summaryJa": "Appleは、2027年のソフトウェアリリースに向けて、ユーザー向けに強力な新機能を提供することを発表しました。これにより、サービスの利便性が向上し、ユーザー体験がさらに充実することが期待されます。"
     },
     {
       "id": "f640593f861373f605ad",
@@ -1179,8 +1179,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Apple、アプリ開発を支援する新しいインテリジェンスフレームワークと高度なツールを発表",
-      "summaryJa": "Appleは新しいインテリジェンス機能とXcodeの生産性機能を拡張し、プラットフォームの改善を発表しました。"
+      "titleJa": "アプリ開発を支援する新しいインテリジェンスフレームワークと高度なツールを発表",
+      "summaryJa": "Appleは、新しいインテリジェンス機能やXcodeの生産性向上機能、プラットフォームの改善を発表しました。これにより、開発者はより効率的にアプリを開発できるようになります。"
     },
     {
       "id": "5b2cbd45c044283cb577",
@@ -1226,8 +1226,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Apple、次世代のApple Intelligence、Siri AIなどを発表",
-      "summaryJa": "Appleは、次世代のApple IntelligenceとSiri AIを提供する今後のソフトウェアリリースをプレビューしました。"
+      "titleJa": "次世代のApple Intelligence、Siri AIなどを発表",
+      "summaryJa": "Appleは、次世代のApple Intelligenceをプレビューし、Siri AIを紹介しました。これにより、ユーザーによりパーソナルでインテリジェントな体験が提供されることが期待されています。"
     },
     {
       "id": "b146df94c0b71f5d99ef",
@@ -1257,8 +1257,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Apple Intelligenceが日常体験に強力なAI機能をもたらす",
-      "summaryJa": "Appleは、iPhone、iPad、Macに強力なAI機能を統合した次世代のApple Intelligenceを発表し、より個人的で役立つ日常体験を提供します。"
+      "titleJa": "Apple Intelligenceが日常体験に強力なAI機能を提供",
+      "summaryJa": "Appleは、iPhone、iPad、Macに強力なAI機能を統合した次世代のApple Intelligenceを発表しました。これにより、日常の体験がよりパーソナルで役立つものになるとされています。"
     },
     {
       "id": "5d578a1f3773f8fc1a31",
@@ -1272,8 +1272,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Appleがより能力の高いパーソナルアシスタントSiri AIを発表",
-      "summaryJa": "Appleは、Apple Intelligenceを活用したより能力の高いパーソナルアシスタントSiri AIを発表し、個人の文脈や世界の知識を持つことを強調しています。"
+      "titleJa": "Siri AIを発表、より能力の高いパーソナルアシスタントに",
+      "summaryJa": "Appleは、Apple Intelligenceによって強化されたSiri AIを発表しました。この新しいアシスタントは、個人の文脈や世界の知識、画面上の認識を活用し、よりパーソナルで能力の高い体験を提供します。"
     },
     {
       "id": "6b9d1ff211e04f45a868",
@@ -1287,8 +1287,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Appleが新しい子供の安全機能をプレビュー",
-      "summaryJa": "Appleは、親が子供のコンテンツ、コミュニケーション、デバイスの使用時間をより管理できる新しい子供の安全機能をプレビューしました。"
+      "titleJa": "Apple、新しい子供向け安全機能をプレビュー",
+      "summaryJa": "Appleは、親が子供のコンテンツ、コミュニケーション、デバイス使用時間をより管理できる新しい子供向け安全機能を発表しました。これにより、家庭でのデジタル環境がより安全になることが期待されています。"
     },
     {
       "id": "67c0df076bbca4b9272d",
@@ -1302,8 +1302,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "DMAの影響でEUでのSiri AIの提供が遅延",
-      "summaryJa": "デジタル市場法（DMA）の影響により、AppleはiOS 27およびiPadOS 27のリリース時にEUでSiri AIを提供できないことが発表されました。"
+      "titleJa": "DMAの影響で、EUにおけるSiri AIの導入が遅延",
+      "summaryJa": "デジタル市場法（DMA）の影響により、AppleはiOS 27およびiPadOS 27のリリース時にEUでSiri AIを提供できないことが明らかになりました。この規制がAppleのサービス展開に与える影響が注目されています。"
     },
     {
       "id": "29de6ec144d5dd3901f5",
@@ -1317,8 +1317,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Appleが開発者の成長を支援するApp Store機能を拡張",
-      "summaryJa": "新しいApp Storeの機能により、開発者はアプリのマーケティングやユーザー獲得、サブスクリプション管理においてより柔軟性を持つことができます。"
+      "titleJa": "Apple、開発者支援のためApp Store機能を拡充",
+      "summaryJa": "Appleは、開発者がアプリをマーケティングし、ユーザーを獲得し、サブスクリプションを管理するための新しいApp Store機能を発表しました。これにより、開発者の成長が促進されることが期待されています。"
     },
     {
       "id": "d2b68ab338b98132530d",
@@ -1332,8 +1332,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Appleとメジャーリーグベースボールが7月の「Friday Night Baseball」スケジュールを発表",
-      "summaryJa": "Appleとメジャーリーグベースボールは、Apple TVでの「Friday Night Baseball」の7月のスケジュールを発表し、いくつかの注目の試合を紹介しています。"
+      "titleJa": "Appleとメジャーリーグベースボール、7月の「Friday Night Baseball」スケジュールを発表",
+      "summaryJa": "Appleとメジャーリーグベースボールは、Apple TVで放送される7月の「Friday Night Baseball」スケジュールを発表しました。注目の試合がいくつか含まれており、ファンの関心を集めることが期待されています。"
     },
     {
       "id": "1ebf7be32d59e1bd92a6",
@@ -1347,8 +1347,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Mini Football Legends、Family Feud PocketなどがApple Arcadeに追加",
-      "summaryJa": "Apple Arcadeの受賞歴のある200以上のゲームのカタログに、My Talking Tom 2+やCoffee Inc 2+など9つの新しいゲームが追加されます。"
+      "titleJa": "Apple Arcadeに新たに9つのゲームが追加",
+      "summaryJa": "Apple Arcadeの受賞歴のある200以上のゲームのカタログに、My Talking Tom 2+やCoffee Inc 2+を含む9つの新しいゲームが追加されました。これにより、ユーザーの選択肢がさらに広がります。"
     },
     {
       "id": "bbf53dd8404f1ec17c11",
@@ -1362,8 +1362,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "App Storeエコシステムが1.4兆ドルに達し、開発者が世界的に成功",
-      "summaryJa": "Appleは、2025年にApp Storeエコシステムが開発者の請求額と売上で1.4兆ドルを超えたことを発表しました。"
+      "titleJa": "App Storeエコシステム、開発者の成長により1.4兆ドルに達する",
+      "summaryJa": "Appleは、2025年におけるグローバルなApp Storeエコシステムが開発者の請求額と売上で1.4兆ドルを超えたと発表しました。これは、開発者が世界的に成功を収めていることを示しています。"
     },
     {
       "id": "c84c89fa20ce32116f4c",
@@ -1409,8 +1409,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "2026年Apple Design Awardsの受賞者を発表",
-      "summaryJa": "Appleは2026年のApple Design Awardsの受賞者を発表し、優れたアプリとゲームデザインを表彰しました。"
+      "titleJa": "2026年Appleデザインアワードの受賞者を発表",
+      "summaryJa": "Appleは2026年のAppleデザインアワードの受賞者を発表しました。このアワードは、優れたアプリやゲームのデザインを6つのカテゴリーで表彰するものです。"
     },
     {
       "id": "9417eee5be0d0f193558",
@@ -1456,8 +1456,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "デトロイトの新興開発者をApple Developer Academyが支援",
-      "summaryJa": "デトロイトのApple Developer Academyが、MSUおよびギルバートファミリー財団と協力して5回目の卒業式を迎えます。"
+      "titleJa": "デトロイトの新興開発者を支援するApple Developer Academy",
+      "summaryJa": "デトロイトのApple Developer Academyが、ミシガン州立大学（MSU）およびギルバートファミリー財団との協力により、今年で5回目の卒業式を迎えました。このプログラムは、地域の開発者を育成することを目的としています。"
     },
     {
       "id": "e986b06494b75a9891be",
@@ -1556,6 +1556,7 @@
       "summaryJa": "無料のApple Developerアカウントでは、アプリやゲームの構築とテストに必要なツールやリソースにアクセスできます。アカウント作成方法やベータ版の利用について詳しく説明します。"
     }
   ],
-  "updatedAt": "2026-07-22T02:00:11.701Z",
-  "initialized": true
+  "updatedAt": "2026-07-22T02:23:14.189Z",
+  "initialized": true,
+  "summaryVersion": 2
 }
