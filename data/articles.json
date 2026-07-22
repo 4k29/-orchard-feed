@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "0fdbae1f697ae352cdf9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple promotes two limited-time offers to save on new products",
+      "url": "https://9to5mac.com/2026/07/22/apple-promotes-two-limited-time-offers-to-save-on-new-products/",
+      "publishedAt": "2026-07-22T19:30:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-sales-tax-holidays-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、限定セールで新製品をお得に",
+      "summaryJa": "Appleは最近、製品価格を引き上げたものの、現在は新しいハードウェア購入に対する2つのセールを実施しています。1つはアメリカの特定の州で行われるセールスタックスホリデー、もう1つは「バック・トゥ・スクール」プロモーションです。学生や教育者向けには、対象のMacやiPad購入で最大150ドルのギフトカードがもらえます。これらのセールは、特に高額な州では大きな節約につながる可能性があります。"
+    },
+    {
+      "id": "752ab758a0cc8a2b642c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Best ‘Black Friday in July’ Apple deals: $50 off AirPods Pro, $400 off MacBook Pro, more",
+      "url": "https://9to5mac.com/2026/07/22/best-black-friday-in-july-apple-deals-50-off-airpods-pro-400-off-macbook-pro-more/",
+      "publishedAt": "2026-07-22T19:10:41.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-Black-Friday-in-July-deals-AirPods-MacBook-AirTag.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "7月のブラックフライデーでApple製品が特価",
+      "summaryJa": "「7月のブラックフライデー」イベントに合わせて、Apple製品の特価セールが行われています。AirPods Pro 3が50ドル引き、MacBook Proが最大400ドル引きで販売されています。また、AirTag 2やApple Watch Series 11なども割引価格で提供されています。これらのセールは、Apple製品をお得に手に入れる良い機会となっています。"
+    },
+    {
       "id": "a7e7728d6c8685439fe6",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -2386,7 +2416,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-22T18:49:29.843Z",
+  "updatedAt": "2026-07-22T20:05:32.985Z",
   "initialized": true,
   "summaryVersion": 4
 }
