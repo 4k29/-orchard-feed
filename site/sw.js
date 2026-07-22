@@ -1,4 +1,4 @@
-const CACHE_NAME = "orchard-v5";
+const CACHE_NAME = "orchard-v6";
 const APP_SHELL = [
   "./",
   "./index.html",
