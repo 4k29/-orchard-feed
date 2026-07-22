@@ -1,4 +1,4 @@
-const CACHE_NAME = "orchard-v6";
+const CACHE_NAME = "orchard-v7";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -66,7 +66,11 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  if (url.hostname === "raw.githubusercontent.com" || url.hostname === "api.github.com") {
+  if (url.hostname === "api.github.com") {
+    return;
+  }
+
+  if (url.hostname === "raw.githubusercontent.com") {
     event.respondWith(networkFirst(request));
   }
 });
