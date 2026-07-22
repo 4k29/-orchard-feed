@@ -1,5 +1,5 @@
 import fs from "node:fs/promises";
-import { FEEDS, mergeArticles, parseFeed } from "./feed.mjs";
+import { FEEDS, mergeArticles, parseFeed, selectFreshNotifications } from "./feed.mjs";
 
 const DATA_PATH = new URL("../data/articles.json", import.meta.url);
 const MODEL_ENDPOINT = "https://models.github.ai/inference/chat/completions";
@@ -198,7 +198,16 @@ async function main() {
   await fs.writeFile(DATA_PATH, `${JSON.stringify(payload, null, 2)}\n`);
 
   if (state.initialized) {
-    await notifyDiscord(translated.sort((a, b) => new Date(a.publishedAt) - new Date(b.publishedAt)));
+    const notifications = selectFreshNotifications(translated, {
+      previousUpdatedAt: state.updatedAt,
+    });
+    const staleCount = translated.length - notifications.length;
+    if (staleCount) {
+      console.log(`Stored ${staleCount} older article(s) without sending stale notifications.`);
+    }
+    await notifyDiscord(
+      notifications.sort((a, b) => new Date(a.publishedAt) - new Date(b.publishedAt)),
+    );
   } else {
     console.log("Initial import completed; Discord notifications intentionally skipped.");
   }
