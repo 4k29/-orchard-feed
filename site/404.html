@@ -20,6 +20,78 @@
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="icon" href="./icon.svg" type="image/svg+xml" />
     <link rel="stylesheet" href="./styles.css" />
+    <style>
+      .error-page {
+        min-height: 100svh;
+        overflow: hidden;
+        background: var(--background);
+        font-weight: 300;
+      }
+
+      .error-header {
+        position: relative;
+        z-index: 2;
+        width: min(calc(100% - 40px), 1080px);
+        height: 58px;
+        margin-inline: auto;
+        display: flex;
+        align-items: center;
+        pointer-events: none;
+      }
+
+      .error-home {
+        color: var(--quiet);
+        font-size: 9px;
+        pointer-events: auto;
+        transition: color 0.2s ease;
+      }
+
+      .error-home:hover,
+      .error-home:focus-visible {
+        color: var(--foreground);
+      }
+
+      .error-home:focus-visible {
+        outline: 1px solid var(--foreground);
+        outline-offset: 4px;
+      }
+
+      .error-main {
+        position: fixed;
+        inset: 0;
+        width: 100%;
+        margin: 0;
+        display: grid;
+        place-items: center;
+        pointer-events: none;
+      }
+
+      .error-title {
+        width: 100%;
+        margin: 0;
+        color: var(--foreground);
+        font-size: min(68vw, 118svh);
+        font-weight: 80;
+        line-height: 0.8;
+        letter-spacing: -0.12em;
+        text-align: center;
+        white-space: nowrap;
+        user-select: none;
+        transform: translateX(-0.06em);
+      }
+
+      @media (max-width: 700px) {
+        .error-header {
+          width: calc(100% - 32px);
+        }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .error-home {
+          transition: none;
+        }
+      }
+    </style>
   </head>
   <body class="error-page">
     <header class="error-header">
