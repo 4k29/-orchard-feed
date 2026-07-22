@@ -149,16 +149,15 @@ button, a, input { -webkit-tap-highlight-color: transparent; }
   height: 42px;
   display: grid;
   place-items: center;
-  border: 1px solid var(--line-strong);
-  border-radius: 10px;
-  color: var(--muted);
+  overflow: hidden;
+  border-radius: 11px;
   background: var(--surface);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08);
+  color: var(--muted);
   font-size: 14px;
   font-weight: 600;
 }
-.source-apple-newsroom, .source-apple-developer { color: #d9d6cf; }
-.source-macrumors { color: #d98d62; }
-.source-9to5mac { color: #7abf8d; }
+.source-icon { width: 100%; height: 100%; display: block; }
 
 .article-link { min-width: 0; display: block; }
 .article-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; color: var(--quiet); font-size: 12px; }
@@ -194,7 +193,7 @@ button, a, input { -webkit-tap-highlight-color: transparent; }
   .search-field { width: 100%; }
   .filter-row { padding-top: 18px; }
   .article-row, .article-row.featured { grid-template-columns: 36px minmax(0, 1fr); gap: 12px; padding: 24px 0; }
-  .source-mark { width: 34px; height: 34px; border-radius: 8px; font-size: 12px; }
+  .source-mark { width: 34px; height: 34px; border-radius: 9px; font-size: 12px; }
   .article-row h2, .article-row.featured h2 { font-size: 20px; line-height: 1.45; }
   .article-summary { font-size: 13px; line-height: 1.8; }
   .article-footer { align-items: flex-start; flex-direction: column; gap: 12px; }
