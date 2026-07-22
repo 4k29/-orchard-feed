@@ -65,7 +65,7 @@ async function enrichArticle(article) {
     if (articleText.length <= String(article.summaryOriginal ?? "").length + 80) return article;
     return {
       ...article,
-      summaryOriginal: `${article.summaryOriginal ?? ""}\n\n${articleText}`.trim().slice(0, 4200),
+      summaryOriginal: `${article.summaryOriginal ?? ""}\n\n${articleText}`.trim().slice(0, 2200),
     };
   } catch {
     return article;
@@ -87,7 +87,7 @@ function parseModelJson(content) {
   return parsed.items;
 }
 
-async function translateBatch(items) {
+async function translateBatch(items, attempt = 0) {
   const token = process.env.GITHUB_TOKEN;
   if (!token) throw new Error("GITHUB_TOKEN is required to translate new articles");
 
@@ -127,6 +127,15 @@ async function translateBatch(items) {
     signal: AbortSignal.timeout(45_000),
   });
 
+  if (response.status === 429 && attempt < 4) {
+    const retryAfter = Number.parseInt(response.headers.get("retry-after") ?? "", 10);
+    const waitSeconds = Number.isFinite(retryAfter)
+      ? Math.min(90, Math.max(10, retryAfter))
+      : 60;
+    console.warn(`GitHub Models rate limit reached; retrying in ${waitSeconds}s.`);
+    await new Promise((resolve) => setTimeout(resolve, waitSeconds * 1000));
+    return translateBatch(items, attempt + 1);
+  }
   if (!response.ok) {
     throw new Error(`GitHub Models: HTTP ${response.status} ${await response.text()}`);
   }
@@ -147,7 +156,7 @@ async function translate(items) {
       title: item.titleOriginal,
       excerpt: item.summaryOriginal,
     }).length;
-    if (batch.length && (batch.length >= 3 || batchChars + itemChars > 9000)) {
+    if (batch.length && (batch.length >= 4 || batchChars + itemChars > 9500)) {
       batches.push(batch);
       batch = [];
       batchChars = 0;
