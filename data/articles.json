@@ -1,6 +1,111 @@
 {
   "articles": [
     {
+      "id": "43fc9339c1f986309026",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iMac Update Expected This Year, Model With OLED Display Also in Works",
+      "url": "https://www.macrumors.com/2026/07/22/imac-new-chip-this-year-oled-display-later/",
+      "publishedAt": "2026-07-22T16:10:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型iMac、今年登場予定でOLEDモデルも開発中",
+      "summaryJa": "Appleは新型iMacの開発を完了し、今年後半に発売する予定です。新しいiMacは新しいチップを搭載する見込みですが、M5またはM6チップのどちらになるかは不明です。デザインに大きな変更はないとされ、引き続き24インチのLCD画面を採用する模様です。また、将来的にはOLEDディスプレイを搭載したiMacも計画されています。現在のiMacは2024年10月に発表され、2年ぶりのモデルチェンジとなります。"
+    },
+    {
+      "id": "5e058fc56c74c521a4a3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 adds convenient new iPhone feature you’ll use all the time",
+      "url": "https://9to5mac.com/2026/07/22/ios-27-adds-convenient-new-iphone-feature-youll-use-all-the-time/",
+      "publishedAt": "2026-07-22T16:04:25.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-lock-screen-jb.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27、便利なクリップボード機能を追加",
+      "summaryJa": "iOS 27では、Siri AIや新しいApple Intelligence機能に加え、クリップボードからのアイテムを素早く貼り付けるための便利なショートカットが追加されました。新しいテキストフィールドを開くと、キーボードの上に貼り付けのショートカットが表示され、ワンタップでクリップボードの内容を確認しながら貼り付けることができます。この機能は日常的に非常に便利で、ユーザーからの評価も高いです。"
+    },
+    {
+      "id": "426a6a7e284a0f8c46c4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Working on New MacBook Neo With Two Upgrades",
+      "url": "https://www.macrumors.com/2026/07/22/new-macbook-neo-two-upgrades/",
+      "publishedAt": "2026-07-22T15:28:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/MacBook-Neo-on-Yellow-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、新型MacBook Neoを開発中",
+      "summaryJa": "Appleは新型MacBook Neoの開発を進めており、A19 ProチップとRAMの増加が予定されています。新モデルでは12GBのRAMが搭載され、現行モデルの8GBからアップグレードされる見込みです。また、新しいカラーバリエーションも登場する可能性があります。次期モデルの発売時期は未定ですが、来年上半期が有力視されています。"
+    },
+    {
+      "id": "4bb25552889fb3d1f71c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: AirTag 2, M5 Pro MacBook Pro $400 off, iPhone 17 Pro $220 off, AirPods Pro 3, Find My EDC gear, more",
+      "url": "https://9to5mac.com/2026/07/22/deals-airtag-2-macbook-pro-iphone-17-pro-airpods-pro-3/",
+      "publishedAt": "2026-07-22T15:22:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-deals-AirPods-MacBook-Pro-AirTag-2-iPhone-17-Pro.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirTag 2やMacBook Proが値下げ中",
+      "summaryJa": "現在、AirPods Pro 3やMacBook Proの大幅な値下げが行われています。特に、M5 ProのMacBook Proは最大400ドルの割引があり、iPhone 17 Proも220ドルオフで販売されています。また、AirTag 2も過去最低価格で提供されており、特にお得なセールが展開されています。これらの割引は期間限定で、早めの購入が推奨されます。"
+    },
+    {
+      "id": "f39164017041301f92cb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple to Overhaul Mac Lineup With 11 New Models",
+      "url": "https://www.macrumors.com/2026/07/22/apple-to-overhaul-mac-lineup/",
+      "publishedAt": "2026-07-22T15:13:53.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/12/apple-silicon-mac-lineup-2024-feature-purple.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、11モデルのMacを刷新予定",
+      "summaryJa": "Appleは今後2年間で全てのMacを刷新する計画を進めていると報じられています。新しいモデルには、M6チップを搭載したエントリーレベルの14インチMacBook Proや、2年ぶりの新しいiMacが含まれます。2026年秋には新しいMacBook Airや高性能な14インチおよび16インチのOLED MacBookも登場予定です。これにより、AppleのMacの販売は3年連続で増加する見込みです。"
+    },
+    {
+      "id": "8ea487e225ab6649a6ed",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s huge Mac roadmap revealed in new report",
+      "url": "https://9to5mac.com/2026/07/22/apples-huge-mac-roadmap-revealed-in-new-report/",
+      "publishedAt": "2026-07-22T14:52:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/m4-imac-vs-m3-imac-colors.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの新しいMacラインアップが明らかに",
+      "summaryJa": "Bloombergの報告によると、Appleは今後数年間でMacBook Pro、MacBook Air、iMacなどの更新を計画しています。年内にはM6チップを搭載した新しいエントリーレベルのMacBook Proや新しいiMacが登場予定です。また、2027年初頭には新しいMacBook Airが計画されており、M7チップを搭載したエントリーレベルのMacBook Proも登場する見込みです。さらに、2028年にはOLEDディスプレイを搭載したMacBook Airの開発も進められています。"
+    },
+    {
+      "id": "a81c1196d17012227f33",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Ted Lasso season four has ‘season one magic,’ per report",
+      "url": "https://9to5mac.com/2026/07/22/ted-lasso-season-four-has-season-one-magic-per-report/",
+      "publishedAt": "2026-07-22T14:51:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ted-lasso-s4-coaching-trio.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "『テッド・ラッソ』シーズン4、期待の声",
+      "summaryJa": "『テッド・ラッソ』のシーズン4が間もなく公開される中、内部関係者からは新シーズンが前シーズンよりも「かなり強化されている」との報告が寄せられています。シーズン4は8月5日に初回が放送され、その後は毎週エピソードが配信される予定です。新シーズンには、制作上の課題やスピンオフのアイデアなども含まれており、ファンからの期待が高まっています。"
+    },
+    {
       "id": "4f8399295bc10abf46ea",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -89,6 +194,21 @@
       ],
       "titleJa": "WhatsApp、CarPlayとiPad向け新機能を発表",
       "summaryJa": "WhatsAppがCarPlayやiPad向けの新機能を発表しました。CarPlayではメッセージの確認や通話がハンズフリーで可能になり、iPadでは電話をリンクせずにWhatsAppにサインアップできるようになりました。また、PDFの編集やApple Musicからの曲の共有機能も追加され、ユーザーの利便性が向上しています。これらの機能はすでに展開中です。"
+    },
+    {
+      "id": "510c40182e588ef9ac18",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "You’re paying for 80+ iPhone and iPad games through Netflix, here’s the full catalog",
+      "url": "https://9to5mac.com/2026/07/22/youre-paying-for-80-iphone-and-ipad-games-through-netflix-heres-the-full-catalog/",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/netflix-games.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Netflix、80以上のiPhone/iPadゲームを提供中",
+      "summaryJa": "Netflixのサブスクリプションには、80以上のiPhoneおよびiPad向けゲームが含まれています。これらのゲームは広告や追加料金なしでプレイ可能で、Netflixのアプリを通じてアクセスできます。特に、Netflix Game Controllerアプリを使用することで、スマートTVでのゲームプレイも可能になります。これにより、モバイルゲームの体験が向上し、ファミリー向けの選択肢が広がります。"
     },
     {
       "id": "f7a7afbf4a531cbd27fb",
@@ -2086,7 +2206,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-22T14:04:00.241Z",
+  "updatedAt": "2026-07-22T16:13:51.710Z",
   "initialized": true,
   "summaryVersion": 4
 }
