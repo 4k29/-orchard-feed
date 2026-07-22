@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "998c5043ec24c7bc5d6f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Store app may soon get an AI-powered shopping assistant",
+      "url": "https://9to5mac.com/2026/07/22/apple-store-app-may-soon-get-an-ai-powered-shopping-assistant/",
+      "publishedAt": "2026-07-22T20:56:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-store-icon.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple StoreアプリにAIショッピングアシスタント登場か",
+      "summaryJa": "Apple Storeアプリのプライバシーポリシーが更新され、未発表のバーチャルショッピングアシスタントに関する条項が追加されました。このアシスタントは、ユーザーのアカウント情報やデバイス識別子、位置情報などを利用して、パーソナライズされたチャット体験を提供する予定です。Appleは、個人情報を削除した上で、パートナーと共有し、会話の内容を保存して後で参照できるようにします。現在、アプリ内での実装は確認されていませんが、テスト中の可能性があります。"
+    },
+    {
+      "id": "fadf409281ff45ef2dc5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s everything new for CarPlay in iOS 27",
+      "url": "https://9to5mac.com/2026/07/22/heres-everything-new-for-carplay-in-ios-27/",
+      "publishedAt": "2026-07-22T20:42:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/carplay-ios-27-home-screen-car.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27でCarPlayが進化、Siriも一新",
+      "summaryJa": "iOS 27が今秋に登場し、CarPlayにいくつかの新機能が追加されます。特に、Siriが大幅に改良され、より自然な会話が可能になりました。CarPlay内での会話はiPhoneのSiriアプリと同期され、過去の会話を簡単に確認できます。また、iOS 27では、CarPlay用の専用動画アプリが開発可能になり、ユーザーは車内で動画を直接閲覧できるようになります。ただし、対応する自動車メーカーのサポートが必要です。"
+    },
+    {
+      "id": "f2f7cbd999a23a8c62f2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Store App Getting AI Shopping Assistant",
+      "url": "https://www.macrumors.com/2026/07/22/apple-store-app-shopping-assistant/",
+      "publishedAt": "2026-07-22T20:25:51.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Apple-Store-App-Liquid-Glass-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple StoreアプリにAIショッピングアシスタント登場か",
+      "summaryJa": "Apple Storeアプリに、ユーザーが購入を決定する際にサポートするAIショッピングアシスタントが追加される可能性があります。この機能ではチャットインターフェースを通じてApple製品に関する質問ができ、個人情報やデバイス情報を基にパーソナライズされた体験が提供されるとのことです。現在、この機能はまだ実装されていないものの、一部のユーザーにはテストが行われている可能性があります。"
+    },
+    {
       "id": "0fdbae1f697ae352cdf9",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -2416,7 +2461,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-22T20:05:32.985Z",
+  "updatedAt": "2026-07-22T21:31:13.979Z",
   "initialized": true,
   "summaryVersion": 4
 }
