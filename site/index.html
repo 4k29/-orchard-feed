@@ -6,17 +6,17 @@
     <meta name="theme-color" content="#0b0b0a" />
     <meta
       name="description"
-      content="海外のAppleニュースを自動で集め、要点や背景まで読みやすい日本語で届ける個人用ニュースフィード。"
+      content="Apple関連のニュースを日本語で確認するための個人用ページ。"
     />
-    <meta property="og:title" content="Orchard — Appleの今を、日本語で。" />
+    <meta property="og:title" content="Appleニュース" />
     <meta
       property="og:description"
-      content="Apple Newsroom、Apple Developer、MacRumors、9to5Macの新着を日本語で。"
+      content="Apple関連の新着記事を日本語でまとめています。"
     />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://4k29.github.io/-orchard-feed/" />
     <meta name="twitter:card" content="summary" />
-    <title>Orchard — Appleの今を、日本語で。</title>
+    <title>Appleニュース</title>
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍎</text></svg>" />
     <link rel="stylesheet" href="./styles.css" />
     <script src="./app.js" defer></script>
@@ -24,25 +24,25 @@
   <body>
     <main class="site-shell">
       <header class="site-header" aria-label="サイトヘッダー">
-        <a class="wordmark" href="#top" aria-label="Orchard ホーム">Orchard</a>
+        <a class="wordmark" href="#top" aria-label="Appleニュース ホーム">Appleニュース</a>
         <div class="header-status" aria-label="監視中の配信元">
           <span class="status-dot" aria-hidden="true"></span>
-          4 feeds
+          4つの配信元
         </div>
       </header>
 
       <section class="intro" id="top">
-        <p class="eyebrow">Apple news, translated</p>
-        <h1>Appleの今を、<br class="mobile-break" />日本語で。</h1>
+        <p class="eyebrow">ニュース</p>
+        <h1>Apple関連のニュース</h1>
         <p class="intro-copy">
-          海外のAppleニュースを自動で集め、要点や背景まで読みやすい日本語にまとめます。
+          Apple関連の新着記事を日本語でまとめています。
         </p>
       </section>
 
       <section class="feed" aria-labelledby="feed-title">
         <div class="feed-heading">
           <div>
-            <p class="section-label" id="feed-title">Latest</p>
+            <p class="section-label" id="feed-title">最新</p>
             <p class="sync-status" id="sync-status">記事を読み込んでいます…</p>
           </div>
           <label class="search-field">
@@ -56,13 +56,12 @@
         </div>
 
         <div class="article-list" id="article-list" aria-live="polite" aria-busy="true">
-          <div class="loading-state">Loading Orchard…</div>
+          <div class="loading-state">記事を読み込んでいます…</div>
         </div>
       </section>
 
       <footer class="site-footer">
-        <p>Orchardは各記事の要約と原文へのリンクを掲載しています。</p>
-        <p>Not affiliated with Apple Inc.</p>
+        <p>各記事の要約と原文へのリンクを掲載しています。</p>
       </footer>
     </main>
 
