@@ -13,20 +13,32 @@ const SYNC_RUNS_URL =
 const FEED_URL =
   "https://raw.githubusercontent.com/4k29/-orchard-feed/main/data/articles.json";
 
-function formatDate(value) {
+function getJstParts(value) {
   const timestamp = Date.parse(value);
-  if (Number.isNaN(timestamp)) return "";
-  const jst = new Date(timestamp + 9 * 60 * 60 * 1000);
-  const month = jst.getUTCMonth() + 1;
-  const day = jst.getUTCDate();
-  const hour = String(jst.getUTCHours()).padStart(2, "0");
-  const minute = String(jst.getUTCMinutes()).padStart(2, "0");
-  return `${month}/${day} ${hour}:${minute}`;
+  if (Number.isNaN(timestamp)) return null;
+
+  const parts = new Intl.DateTimeFormat("ja-JP", {
+    timeZone: "Asia/Tokyo",
+    month: "numeric",
+    day: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+    hourCycle: "h23",
+  }).formatToParts(new Date(timestamp));
+
+  return Object.fromEntries(parts.map(({ type, value: partValue }) => [type, partValue]));
+}
+
+function formatDate(value) {
+  const parts = getJstParts(value);
+  if (!parts) return "";
+  return `${parts.month}/${parts.day} ${parts.hour}:${parts.minute}`;
 }
 
 function formatTime(value) {
-  const formatted = formatDate(value);
-  return formatted.split(" ")[1] || "--:--";
+  const parts = getJstParts(value);
+  if (!parts) return "--:--";
+  return `${parts.hour}:${parts.minute}`;
 }
 
 function normalizeImageUrl(value) {
@@ -45,18 +57,25 @@ function normalizeImageUrl(value) {
   }
 }
 
-async function updateLastCheck(fallbackValue) {
+async function updateLastCheck() {
+  syncStatus.textContent = "最終確認を取得しています…";
+
   try {
-    const response = await fetch(SYNC_RUNS_URL, {
+    const response = await fetch(`${SYNC_RUNS_URL}&t=${Date.now()}`, {
       headers: { accept: "application/vnd.github+json" },
       cache: "no-store",
     });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
+
     const payload = await response.json();
-    const checkedAt = payload.workflow_runs?.[0]?.updated_at;
-    syncStatus.textContent = `最終確認 ${formatTime(checkedAt || fallbackValue)}`;
-  } catch {
-    syncStatus.textContent = `最終確認 ${formatTime(fallbackValue)}`;
+    const latestRun = payload.workflow_runs?.[0];
+    if (!latestRun?.updated_at) throw new Error("No completed workflow run");
+
+    const label = latestRun.conclusion === "success" ? "最終確認" : "確認失敗";
+    syncStatus.textContent = `${label} ${formatTime(latestRun.updated_at)}`;
+  } catch (error) {
+    syncStatus.textContent = "最終確認を取得できませんでした";
+    console.error(error);
   }
 }
 
@@ -145,21 +164,22 @@ function render() {
 }
 
 async function loadFeed() {
+  const lastCheckPromise = updateLastCheck();
+
   try {
-    const response = await fetch(FEED_URL, { cache: "no-store" });
+    const response = await fetch(`${FEED_URL}?t=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const payload = await response.json();
     if (!Array.isArray(payload.articles)) throw new Error("Invalid feed");
     state.articles = payload.articles;
-    syncStatus.textContent = `最終確認 ${formatTime(payload.updatedAt)}`;
     render();
-    void updateLastCheck(payload.updatedAt);
   } catch (error) {
     articleList.setAttribute("aria-busy", "false");
     articleList.innerHTML = '<div class="empty-state"><p>記事を読み込めませんでした。少し待ってから再読み込みしてください。</p></div>';
-    syncStatus.textContent = "同期状況を取得できませんでした";
     console.error(error);
   }
+
+  await lastCheckPromise;
 }
 
 searchInput.addEventListener("input", (event) => {
