@@ -1,4 +1,4 @@
-const CACHE_NAME = "orchard-v9";
+const CACHE_NAME = "orchard-v10";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -37,6 +37,22 @@ async function networkFirst(request) {
   }
 }
 
+async function networkFirstFeed(request) {
+  const cache = await caches.open(CACHE_NAME);
+  const cacheUrl = new URL(request.url);
+  cacheUrl.search = "";
+
+  try {
+    const response = await fetch(request, { cache: "no-store" });
+    if (response.ok) await cache.put(cacheUrl.href, response.clone());
+    return response;
+  } catch (error) {
+    const cached = await cache.match(cacheUrl.href);
+    if (cached) return cached;
+    throw error;
+  }
+}
+
 async function staleWhileRevalidate(request) {
   const cache = await caches.open(CACHE_NAME);
   const cached = await cache.match(request);
@@ -57,18 +73,24 @@ self.addEventListener("fetch", (event) => {
   const url = new URL(request.url);
 
   if (request.mode === "navigate") {
-    event.respondWith(
-      networkFirst(request).catch(() => caches.match("./index.html")),
-    );
+    event.respondWith(networkFirst(request).catch(() => caches.match("./index.html")));
     return;
   }
+
+  const isLocalFeed =
+    url.origin === self.location.origin && url.pathname.endsWith("/data/articles.json");
+  const isRawFeed =
+    url.hostname === "raw.githubusercontent.com" && url.pathname.endsWith("/data/articles.json");
+
+  if (isLocalFeed || isRawFeed) {
+    event.respondWith(networkFirstFeed(request));
+    return;
+  }
+
+  if (url.hostname === "api.github.com") return;
 
   if (url.origin === self.location.origin) {
     event.respondWith(staleWhileRevalidate(request));
-    return;
-  }
-
-  if (url.hostname === "api.github.com") {
     return;
   }
 
