@@ -123,5 +123,13 @@ searchInput.addEventListener("input", (event) => {
   render();
 });
 
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("./sw.js").catch((error) => {
+      console.error("Service Workerの登録に失敗しました。", error);
+    });
+  });
+}
+
 loadFeed();
 window.setInterval(loadFeed, 5 * 60 * 1000);
