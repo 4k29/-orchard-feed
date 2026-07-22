@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d4b500e380f873e9dfb1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here are some discreet ways to add an AirTag to your camera",
+      "url": "https://9to5mac.com/2026/07/22/here-are-some-discreet-ways-to-add-an-airtag-to-your-camera/",
+      "publishedAt": "2026-07-22T12:42:59.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/L.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "カメラにAirTagを取り付ける方法",
+      "summaryJa": "AirTagをカメラに取り付ける方法について、目立たない方法がいくつか紹介されています。一般的なホルダーをカメラストラップに取り付けるのは簡単ですが、盗難防止には不向きです。代わりに、カメラストラップマウントや隠しAirTagホルダー付きの三脚クイックリリースプレートなど、より目立たない方法が提案されています。これにより、盗難のリスクを減らしつつ、所有物を追跡することが可能になります。"
+    },
+    {
+      "id": "c39e81adfababe6ef01b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro reportedly enters mass production ahead of September launch",
+      "url": "https://9to5mac.com/2026/07/22/iphone-18-pro-reportedly-enters-mass-production-ahead-of-september-launch/",
+      "publishedAt": "2026-07-22T11:42:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-pro-max-mockup-di.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proが量産開始、9月発売へ",
+      "summaryJa": "iPhone 18 ProおよびPro Maxモデルが量産に入ったとの報道があります。組立パートナーのFoxconnは、労働者の募集を強化するために大幅なボーナスを提供しており、特にピークシーズンに向けての準備を進めています。新モデルは、より強力なチップやディスプレイのアップグレードが期待される一方で、厚みや重さの増加、人気のない色の選択肢が続く可能性が指摘されています。"
+    },
+    {
       "id": "d744adcbc40cd0f05826",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -1951,7 +1981,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-22T11:21:44.954Z",
+  "updatedAt": "2026-07-22T12:44:48.063Z",
   "initialized": true,
   "summaryVersion": 4
 }
