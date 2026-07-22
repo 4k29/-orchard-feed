@@ -1,6 +1,5 @@
 const state = {
   articles: [],
-  filter: "all",
   query: "",
 };
 
@@ -8,7 +7,6 @@ const articleList = document.querySelector("#article-list");
 const articleTemplate = document.querySelector("#article-template");
 const syncStatus = document.querySelector("#sync-status");
 const searchInput = document.querySelector("#search");
-const filterButtons = [...document.querySelectorAll("[data-filter]")];
 
 function formatDate(value) {
   const timestamp = Date.parse(value);
@@ -24,11 +22,10 @@ function formatDate(value) {
 function filteredArticles() {
   const query = state.query.trim().toLocaleLowerCase("ja-JP");
   return state.articles.filter((article) => {
-    const categoryMatches = state.filter === "all" || article.category === state.filter;
     const searchable = [article.titleJa, article.summaryJa, article.source, ...(article.tags || [])]
       .join(" ")
       .toLocaleLowerCase("ja-JP");
-    return categoryMatches && (!query || searchable.includes(query));
+    return !query || searchable.includes(query);
   });
 }
 
@@ -49,13 +46,6 @@ function createArticle(article, index) {
   fragment.querySelector("h2").textContent = article.titleJa;
   fragment.querySelector(".article-summary").textContent = article.summaryJa;
 
-  const tagList = fragment.querySelector(".tag-list");
-  for (const tag of (article.tags || []).slice(0, 3)) {
-    const element = document.createElement("span");
-    element.className = "tag";
-    element.textContent = tag;
-    tagList.append(element);
-  }
   return fragment;
 }
 
@@ -70,12 +60,10 @@ function render() {
     empty.innerHTML = "<p>一致する記事はありません。</p>";
     const reset = document.createElement("button");
     reset.type = "button";
-    reset.textContent = "絞り込みを解除";
+    reset.textContent = "検索を解除";
     reset.addEventListener("click", () => {
-      state.filter = "all";
       state.query = "";
       searchInput.value = "";
-      updateFilterButtons();
       render();
     });
     empty.append(reset);
@@ -86,14 +74,6 @@ function render() {
   const fragment = document.createDocumentFragment();
   articles.forEach((article, index) => fragment.append(createArticle(article, index)));
   articleList.append(fragment);
-}
-
-function updateFilterButtons() {
-  for (const button of filterButtons) {
-    const active = button.dataset.filter === state.filter;
-    button.classList.toggle("active", active);
-    button.setAttribute("aria-pressed", String(active));
-  }
 }
 
 async function loadFeed() {
@@ -117,14 +97,6 @@ searchInput.addEventListener("input", (event) => {
   state.query = event.target.value;
   render();
 });
-
-for (const button of filterButtons) {
-  button.addEventListener("click", () => {
-    state.filter = button.dataset.filter;
-    updateFilterButtons();
-    render();
-  });
-}
 
 loadFeed();
 window.setInterval(loadFeed, 5 * 60 * 1000);

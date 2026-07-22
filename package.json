@@ -5,7 +5,6 @@
   "type": "module",
   "scripts": {
     "sync": "node scripts/sync.mjs",
-    "weekly": "node scripts/weekly.mjs",
     "test": "node --test tests/*.test.mjs"
   },
   "dependencies": {

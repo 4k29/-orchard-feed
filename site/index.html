@@ -25,10 +25,10 @@
     <main class="site-shell">
       <header class="site-header" aria-label="サイトヘッダー">
         <a class="wordmark" href="#top" aria-label="Orchard ホーム">Orchard</a>
-        <nav class="site-nav" aria-label="ページ">
-          <a class="active" href="./">最新記事</a>
-          <a href="./rumors.html">週刊まとめ</a>
-        </nav>
+        <div class="header-status" aria-label="監視中の配信元">
+          <span class="status-dot" aria-hidden="true"></span>
+          4 feeds
+        </div>
       </header>
 
       <section class="intro" id="top">
@@ -55,13 +55,6 @@
           </label>
         </div>
 
-        <div class="filter-row" aria-label="記事カテゴリー">
-          <button class="filter-button active" type="button" data-filter="all" aria-pressed="true">すべて</button>
-          <button class="filter-button" type="button" data-filter="official" aria-pressed="false">公式</button>
-          <button class="filter-button" type="button" data-filter="rumors" aria-pressed="false">噂</button>
-          <button class="filter-button" type="button" data-filter="developer" aria-pressed="false">開発</button>
-        </div>
-
         <div class="article-list" id="article-list" aria-live="polite" aria-busy="true">
           <div class="loading-state">Loading Orchard…</div>
         </div>
@@ -85,7 +78,6 @@
           <h2></h2>
           <p class="article-summary"></p>
           <div class="article-footer">
-            <div class="tag-list" aria-label="タグ"></div>
             <span class="read-link">原文を読む&nbsp;↗</span>
           </div>
         </a>
