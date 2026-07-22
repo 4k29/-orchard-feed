@@ -29,6 +29,22 @@ function formatTime(value) {
   return formatted.split(" ")[1] || "--:--";
 }
 
+function normalizeImageUrl(value) {
+  if (typeof value !== "string") return "";
+
+  const normalized = value
+    .trim()
+    .replace(/&amp;/gi, "&")
+    .replace(/&#0*38;/gi, "&");
+
+  try {
+    const url = new URL(normalized);
+    return url.protocol === "https:" || url.protocol === "http:" ? url.href : "";
+  } catch {
+    return "";
+  }
+}
+
 async function updateLastCheck(fallbackValue) {
   try {
     const response = await fetch(SYNC_RUNS_URL, {
@@ -59,6 +75,8 @@ function createArticle(article, index) {
   const row = fragment.querySelector(".article-row");
   const mark = fragment.querySelector(".source-mark");
   const link = fragment.querySelector(".article-link");
+  const imageLink = fragment.querySelector(".article-image-link");
+  const image = fragment.querySelector(".article-image");
   const time = fragment.querySelector("time");
 
   if (index === 0) row.classList.add("featured");
@@ -70,6 +88,23 @@ function createArticle(article, index) {
   time.textContent = formatDate(article.publishedAt);
   fragment.querySelector("h2").textContent = article.titleJa;
   fragment.querySelector(".article-summary").textContent = article.summaryJa;
+
+  const imageUrl = normalizeImageUrl(article.imageUrl);
+  if (imageUrl) {
+    row.classList.add("has-image");
+    imageLink.hidden = false;
+    imageLink.href = article.url;
+    image.src = imageUrl;
+    if (index === 0) image.fetchPriority = "high";
+    image.addEventListener(
+      "error",
+      () => {
+        row.classList.remove("has-image");
+        imageLink.hidden = true;
+      },
+      { once: true },
+    );
+  }
 
   return fragment;
 }
