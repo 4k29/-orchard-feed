@@ -1,6 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import {
+  FEEDS,
   mergeArticles,
   parseFeed,
   plainText,
@@ -13,6 +14,23 @@ const feed = {
   category: "official",
   tags: ["公式"],
 };
+
+test("Apple Newsroom English and Japan feeds are configured", () => {
+  const newsroomFeeds = FEEDS.filter((item) => item.id.startsWith("apple-newsroom"));
+  assert.deepEqual(
+    newsroomFeeds.map(({ id, url }) => ({ id, url })),
+    [
+      {
+        id: "apple-newsroom",
+        url: "https://www.apple.com/newsroom/rss-feed.rss",
+      },
+      {
+        id: "apple-newsroom-jp",
+        url: "https://www.apple.com/jp/newsroom/rss-feed.rss",
+      },
+    ],
+  );
+});
 
 test("RSS items are normalized", () => {
   const xml = `<?xml version="1.0"?><rss version="2.0"><channel><item>
