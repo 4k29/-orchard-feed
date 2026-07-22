@@ -105,7 +105,7 @@ function authenticationError() {
   return error;
 }
 
-async function fetchLatestRun(token) {
+async function fetchLatestRunForAutoSync(token) {
   const response = await fetch(`${WORKFLOW_RUNS_URL}&t=${Date.now()}`, {
     headers: githubHeaders(token),
     cache: "no-store",
@@ -241,7 +241,7 @@ async function ensureRecentSync({ forceCheck = false } = {}) {
   autoCheckRunning = true;
 
   try {
-    const latestRun = await fetchLatestRun(token);
+    const latestRun = await fetchLatestRunForAutoSync(token);
     if (latestRun && latestRun.status !== "completed") return;
 
     const latestTime = Date.parse(
