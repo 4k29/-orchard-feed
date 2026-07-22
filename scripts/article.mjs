@@ -29,7 +29,7 @@ function longestElementText($, selector, maxLength) {
   return candidates.sort((a, b) => b.length - a.length)[0] ?? "";
 }
 
-export function extractArticleText(html, maxLength = 3600) {
+export function extractArticleText(html, maxLength = 1800) {
   const $ = load(String(html ?? ""));
   const structuredBodies = [];
 
