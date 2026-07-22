@@ -1,5 +1,5 @@
 name: Appleニュースを更新
-run-name: ${{ github.event_name == 'schedule' && 'RSS自動取得' || github.event_name == 'workflow_dispatch' && 'RSS手動取得' || 'RSS設定更新' }}
+run-name: ${{ github.event_name == 'schedule' && 'RSS自動取得' || github.event_name == 'workflow_dispatch' && inputs.trigger_source == 'fallback' && 'RSS自動補完' || github.event_name == 'workflow_dispatch' && 'RSS手動取得' || 'RSS設定更新' }}
 
 on:
   push:
@@ -19,6 +19,11 @@ on:
         required: false
         type: boolean
         default: false
+      trigger_source:
+        description: "実行元"
+        required: false
+        type: string
+        default: "manual"
 
 permissions:
   contents: write
