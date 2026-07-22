@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "a7e7728d6c8685439fe6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases Safari Technology Preview 248 With Bug Fixes and Performance Improvements",
+      "url": "https://www.macrumors.com/2026/07/22/apple-releases-safari-technology-preview-248/",
+      "publishedAt": "2026-07-22T18:25:56.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Safari Technology Preview 248が公開",
+      "summaryJa": "Appleは、実験的ブラウザ「Safari Technology Preview」の新しいアップデート248をリリースしました。このアップデートには、アクセシビリティやCSS、JavaScriptなどのバグ修正とパフォーマンス改善が含まれています。最新のmacOSに対応しており、Appleのウェブサイトからダウンロードしたユーザーは、システム環境設定からアップデートを利用できます。開発者やユーザーからのフィードバックを集めることが目的です。"
+    },
+    {
+      "id": "2e963a635ddefb15812d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Card adds new feature in iOS 27 that every card should have",
+      "url": "https://9to5mac.com/2026/07/22/apple-card-adds-new-feature-in-ios-27-that-every-card-should-have/",
+      "publishedAt": "2026-07-22T18:24:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-card-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27でApple Cardに新機能",
+      "summaryJa": "iOS 27では、Apple Walletに新機能が追加され、Apple Card専用の定期取引ハブが導入されました。この機能により、定期的なサブスクリプションを一元管理でき、月間カレンダー表示も可能です。Apple Cardの取引履歴に基づいて予測されるため、正確性には注意が必要ですが、サブスクリプション管理が容易になります。この新機能が他のクレジットカードにも広がることが期待されています。"
+    },
+    {
+      "id": "e71bc4e7de170bfbd547",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27 public beta 2 now available, here’s how to install it",
+      "url": "https://9to5mac.com/2026/07/22/macos-27-public-beta-2-now-available-heres-how-to-install-it/",
+      "publishedAt": "2026-07-22T17:49:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/macOS-27-public.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "macOS 27パブリックベータ2が登場",
+      "summaryJa": "Appleは、macOS 27 Golden Gateのパブリックベータ2をリリースしました。インストール方法は、Appleのベータプログラムに登録し、システム設定からアップデートを選択することです。新しいSiriアプリやAI体験の改善が特徴で、Spotlight検索の信頼性も向上しています。ベータ版はバグが発生する可能性がありますが、全体的には安定しているとのことです。"
+    },
+    {
       "id": "be8955f1653c8e1247f3",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -2341,7 +2386,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-22T17:44:15.441Z",
+  "updatedAt": "2026-07-22T18:49:29.843Z",
   "initialized": true,
   "summaryVersion": 4
 }
