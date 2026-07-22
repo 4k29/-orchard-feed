@@ -59,6 +59,11 @@ button, a, input { -webkit-tap-highlight-color: transparent; }
 
 .wordmark { font-size: 20px; font-weight: 560; letter-spacing: -0.03em; }
 
+.site-nav { display: flex; align-items: center; gap: 6px; }
+.site-nav a { padding: 8px 11px; border-radius: 7px; color: var(--quiet); font-size: 12px; }
+.site-nav a:hover { color: var(--foreground); }
+.site-nav a.active { background: var(--surface); color: var(--foreground); }
+
 .header-status {
   display: flex;
   align-items: center;
@@ -182,6 +187,33 @@ button, a, input { -webkit-tap-highlight-color: transparent; }
 .site-footer { display: flex; justify-content: space-between; gap: 24px; padding: 32px 0 48px; color: var(--quiet); font-size: 11px; }
 .site-footer p { margin: 0; }
 
+.product-intro { padding-bottom: 48px; }
+.product-database { padding-top: 38px; }
+.database-heading { display: flex; align-items: end; justify-content: space-between; gap: 24px; }
+.product-search { width: min(100%, 310px); }
+.family-filter { display: flex; gap: 7px; padding: 24px 0 18px; overflow-x: auto; scrollbar-width: none; }
+.family-filter::-webkit-scrollbar { display: none; }
+.product-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; border-top: 1px solid var(--line); padding-top: 12px; }
+.product-card { min-width: 0; padding: 22px; border: 1px solid var(--line); border-radius: 12px; background: rgba(255, 255, 255, 0.014); }
+.product-card-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 18px; }
+.product-family { margin: 0 0 7px; color: var(--accent); font-size: 10px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; }
+.product-card h2 { margin: 0; font-size: 20px; line-height: 1.35; letter-spacing: -0.025em; }
+.product-year { flex: 0 0 auto; color: var(--quiet); font-size: 12px; }
+.product-facts, .product-details dl { margin: 21px 0 0; }
+.product-facts > div, .product-details dl > div { display: grid; grid-template-columns: 82px minmax(0, 1fr); gap: 12px; padding: 8px 0; border-top: 1px solid var(--line); font-size: 12px; line-height: 1.55; }
+.product-facts dt, .product-details dt { color: var(--quiet); }
+.product-facts dd, .product-details dd { min-width: 0; margin: 0; color: var(--muted); overflow-wrap: anywhere; }
+.color-list { display: flex; flex-wrap: wrap; gap: 8px 12px; margin-top: 18px; }
+.color-item { display: inline-flex; align-items: center; gap: 6px; color: var(--quiet); font-size: 10px; }
+.color-item i { width: 10px; height: 10px; border: 1px solid rgba(255, 255, 255, 0.24); border-radius: 50%; background: var(--line-strong); }
+.product-details { margin-top: 18px; border-top: 1px solid var(--line); }
+.product-details summary { padding-top: 14px; color: var(--muted); font-size: 11px; cursor: pointer; }
+.product-details dl { margin-top: 10px; }
+.load-more { display: block; min-width: 180px; margin: 28px auto 0; padding: 12px 18px; border: 1px solid var(--line-strong); border-radius: 8px; background: var(--surface); color: var(--foreground); cursor: pointer; }
+.load-more:hover { border-color: var(--foreground); }
+.load-more[hidden] { display: none; }
+.product-footer a { color: var(--muted); text-decoration: underline; text-underline-offset: 3px; }
+
 @media (max-width: 640px) {
   .site-shell { width: min(100% - 32px, 960px); }
   .site-header { min-height: 64px; }
@@ -191,6 +223,7 @@ button, a, input { -webkit-tap-highlight-color: transparent; }
   .intro-copy { font-size: 14px; line-height: 1.8; }
   .feed { padding-top: 30px; }
   .feed-heading { align-items: stretch; flex-direction: column; gap: 18px; }
+  .database-heading { align-items: stretch; flex-direction: column; gap: 18px; }
   .search-field { width: 100%; }
   .filter-row { padding-top: 18px; }
   .article-row, .article-row.featured { grid-template-columns: 36px minmax(0, 1fr); gap: 12px; padding: 24px 0; }
@@ -199,6 +232,8 @@ button, a, input { -webkit-tap-highlight-color: transparent; }
   .article-summary { font-size: 13px; line-height: 1.8; }
   .article-footer { align-items: flex-start; flex-direction: column; gap: 12px; }
   .site-footer { flex-direction: column; gap: 8px; }
+  .product-grid { grid-template-columns: 1fr; }
+  .product-card { padding: 19px; }
 }
 
 @media (prefers-reduced-motion: reduce) {
