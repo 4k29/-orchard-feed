@@ -7,6 +7,7 @@ const articleList = document.querySelector("#article-list");
 const articleTemplate = document.querySelector("#article-template");
 const syncStatus = document.querySelector("#sync-status");
 const searchInput = document.querySelector("#search");
+const searchClear = document.querySelector("#search-clear");
 const SYNC_RUNS_URL =
   "https://api.github.com/repos/4k29/-orchard-feed/actions/workflows/sync.yml/runs?status=completed&per_page=1";
 const FEED_URL =
@@ -73,6 +74,18 @@ function createArticle(article, index) {
   return fragment;
 }
 
+function updateSearchClear() {
+  searchClear.hidden = searchInput.value.length === 0;
+}
+
+function clearSearch({ focus = true } = {}) {
+  state.query = "";
+  searchInput.value = "";
+  updateSearchClear();
+  render();
+  if (focus) searchInput.focus();
+}
+
 function render() {
   const articles = filteredArticles();
   articleList.replaceChildren();
@@ -85,11 +98,7 @@ function render() {
     const reset = document.createElement("button");
     reset.type = "button";
     reset.textContent = "検索を解除";
-    reset.addEventListener("click", () => {
-      state.query = "";
-      searchInput.value = "";
-      render();
-    });
+    reset.addEventListener("click", () => clearSearch());
     empty.append(reset);
     articleList.append(empty);
     return;
@@ -120,8 +129,12 @@ async function loadFeed() {
 
 searchInput.addEventListener("input", (event) => {
   state.query = event.target.value;
+  updateSearchClear();
   render();
 });
+
+searchClear.addEventListener("click", () => clearSearch());
+updateSearchClear();
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {
