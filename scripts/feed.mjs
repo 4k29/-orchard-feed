@@ -10,6 +10,13 @@ export const FEEDS = [
     tags: ["公式"],
   },
   {
+    id: "apple-newsroom-jp",
+    name: "Apple Newsroom 日本",
+    url: "https://www.apple.com/jp/newsroom/rss-feed.rss",
+    category: "official",
+    tags: ["公式", "日本"],
+  },
+  {
     id: "apple-developer",
     name: "Apple Developer",
     url: "https://developer.apple.com/news/rss/news.rss",
