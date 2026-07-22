@@ -65,7 +65,7 @@ async function enrichArticle(article) {
     if (articleText.length <= String(article.summaryOriginal ?? "").length + 80) return article;
     return {
       ...article,
-      summaryOriginal: `${article.summaryOriginal ?? ""}\n\n${articleText}`.trim().slice(0, 8000),
+      summaryOriginal: `${article.summaryOriginal ?? ""}\n\n${articleText}`.trim().slice(0, 4200),
     };
   } catch {
     return article;
@@ -108,7 +108,7 @@ async function translateBatch(items) {
     body: JSON.stringify({
       model: MODEL,
       temperature: 0.2,
-      max_tokens: 4096,
+      max_tokens: 2048,
       response_format: { type: "json_object" },
       messages: [
         {
@@ -136,8 +136,29 @@ async function translateBatch(items) {
 
 async function translate(items) {
   const byId = new Map();
-  for (let index = 0; index < items.length; index += 6) {
-    for (const translated of await translateBatch(items.slice(index, index + 6))) {
+
+  const batches = [];
+  let batch = [];
+  let batchChars = 0;
+  for (const item of items) {
+    const itemChars = JSON.stringify({
+      id: item.id,
+      source: item.source,
+      title: item.titleOriginal,
+      excerpt: item.summaryOriginal,
+    }).length;
+    if (batch.length && (batch.length >= 3 || batchChars + itemChars > 9000)) {
+      batches.push(batch);
+      batch = [];
+      batchChars = 0;
+    }
+    batch.push(item);
+    batchChars += itemChars;
+  }
+  if (batch.length) batches.push(batch);
+
+  for (const translationBatch of batches) {
+    for (const translated of await translateBatch(translationBatch)) {
       if (translated?.id) byId.set(translated.id, translated);
     }
   }
