@@ -46,6 +46,14 @@ function formatTime(value) {
   return `${parts.hour}:${parts.minute}`;
 }
 
+function runTypeLabel(eventName) {
+  return {
+    schedule: "自動",
+    workflow_dispatch: "手動",
+    push: "設定更新",
+  }[eventName] || "不明";
+}
+
 function normalizeImageUrl(value) {
   if (typeof value !== "string") return "";
 
@@ -101,15 +109,16 @@ async function updateLastCheck({ showLoading = false } = {}) {
     const latestRun = await fetchLatestRun();
     if (!latestRun) throw new Error("No workflow run");
 
+    const runType = runTypeLabel(latestRun.event);
     if (latestRun.status !== "completed") {
       const startedAt = latestRun.run_started_at || latestRun.created_at;
-      syncStatus.textContent = `確認中 ${formatTime(startedAt)}〜`;
+      syncStatus.textContent = `${runType}確認中 ${formatTime(startedAt)}〜`;
       return;
     }
 
     const checkedAt = latestRun.updated_at || latestRun.created_at;
     const label = latestRun.conclusion === "success" ? "最終確認" : "確認失敗";
-    syncStatus.textContent = `${label} ${formatTime(checkedAt)}`;
+    syncStatus.textContent = `${label} ${formatTime(checkedAt)}（${runType}）`;
   } catch (error) {
     if (showLoading || syncStatus.textContent.includes("取得しています")) {
       syncStatus.textContent = "最終確認を取得できませんでした";
@@ -273,6 +282,7 @@ function refreshOrchard() {
   void loadFeed();
   void updateLastCheck();
 }
+window.refreshOrchard = refreshOrchard;
 
 searchInput.addEventListener("input", (event) => {
   state.query = event.target.value;
