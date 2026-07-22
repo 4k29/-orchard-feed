@@ -1,6 +1,11 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { mergeArticles, parseFeed, plainText } from "../scripts/feed.mjs";
+import {
+  mergeArticles,
+  parseFeed,
+  plainText,
+  selectFreshNotifications,
+} from "../scripts/feed.mjs";
 
 const feed = {
   id: "test-feed",
@@ -45,4 +50,20 @@ test("articles are de-duplicated and newest-first", () => {
 
 test("HTML is stripped from summaries", () => {
   assert.equal(plainText("<p>Hello&nbsp;<b>world</b></p>"), "Hello world");
+});
+
+test("old feed backfill is not treated as a new Discord notification", () => {
+  const articles = [
+    { url: "https://example.com/old", publishedAt: "2026-05-18T15:00:00Z" },
+    { url: "https://example.com/delayed", publishedAt: "2026-07-21T23:00:00Z" },
+    { url: "https://example.com/fresh", publishedAt: "2026-07-22T01:37:00Z" },
+  ];
+
+  assert.deepEqual(
+    selectFreshNotifications(articles, {
+      previousUpdatedAt: "2026-07-22T01:21:00Z",
+      now: "2026-07-22T02:00:00Z",
+    }),
+    articles.slice(1),
+  );
 });
