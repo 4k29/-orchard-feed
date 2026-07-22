@@ -1490,8 +1490,72 @@
       ],
       "titleJa": "オーストラリアとベトナムの年齢評価の変更",
       "summaryJa": "2026年6月18日から、オーストラリアとベトナムのApp Storeで年齢評価が更新されます。オーストラリアでは15+評価が廃止されます。"
+    },
+    {
+      "id": "40c17ee1f0bcf2353a03",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Introducing the 2026 Apple Design Award finalists",
+      "url": "https://developer.apple.com/news/?id=8t3j66i7",
+      "publishedAt": "2026-05-18T15:50:09.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/60EB2FB9-36EB-4CA6-B129-EB28AF262739/2048.jpeg",
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "2026年Appleデザインアワードのファイナリストを発表",
+      "summaryJa": "毎年、Appleデザインアワードはアプリやゲームデザインにおける革新性や技術的成果を認識しています。今年のファイナリストを紹介します。"
+    },
+    {
+      "id": "30a83bc1bb1d62b2393e",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Coming bright up",
+      "url": "https://developer.apple.com/news/?id=7lcnqgxp",
+      "publishedAt": "2026-05-18T15:00:22.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/54AF41EF-A8BB-43D2-8D76-062999BA1B20/2048.jpeg",
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "明るい未来が待っています",
+      "summaryJa": "技術、創造性、コミュニティの一週間がオンラインで無料で開催されます。WWDC26の内容について詳しくご覧ください。"
+    },
+    {
+      "id": "f54d5d97dcdc34859f3e",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Hello Developer: May 2026",
+      "url": "https://developer.apple.com/news/?id=qtzr82f0",
+      "publishedAt": "2026-05-12T16:00:16.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/98FDE867-F7F3-44DE-AF8A-C9620F3E2139/2048.jpeg",
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "Hello Developer: 2026年5月号",
+      "summaryJa": "この号では、インスピレーションを与える開発者や教育者に出会い、アプリのアクセシビリティ栄養ラベルの準備をします。Appleシリコンへのアプリの更新についても紹介します。"
+    },
+    {
+      "id": "58fa36d4176c3ae8240b",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Get the most out of your Apple Developer account",
+      "url": "https://developer.apple.com/news/?id=sw8ldfjk",
+      "publishedAt": "2026-05-12T13:00:26.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/258E13F2-ABA3-4CED-9195-EDA014B63972/2048.jpeg",
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "Apple Developerアカウントを最大限に活用する",
+      "summaryJa": "無料のApple Developerアカウントでは、アプリやゲームの構築とテストに必要なツールやリソースにアクセスできます。アカウント作成方法やベータ版の利用について詳しく説明します。"
     }
   ],
-  "updatedAt": "2026-07-22T01:48:24.269Z",
+  "updatedAt": "2026-07-22T02:00:11.701Z",
   "initialized": true
 }
