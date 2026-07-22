@@ -1,6 +1,141 @@
 {
   "articles": [
     {
+      "id": "be8955f1653c8e1247f3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Second iOS 27 and iPadOS 27 Public Betas Now Available",
+      "url": "https://www.macrumors.com/2026/07/22/apple-seeds-ios-27-public-beta-2/",
+      "publishedAt": "2026-07-22T17:40:10.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Cool.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27とiPadOS 27の第2回パブリックベータ公開",
+      "summaryJa": "AppleはiOS 27とiPadOS 27の第2回パブリックベータを公開しました。これにより、対応デバイスを持つユーザーは新しいソフトウェアをダウンロードしてテストできます。主な新機能には、ウェブ検索や個人情報へのアクセスが可能な新しいSiri AIが含まれ、従来のSiriよりも会話がスムーズに行えるようになっています。また、パフォーマンスの向上や新しいAI機能も多数追加されています。"
+    },
+    {
+      "id": "c75a91e1713edd8a007f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Second macOS Golden Gate Public Beta Now Available",
+      "url": "https://www.macrumors.com/2026/07/22/macos-27-public-beta-2/",
+      "publishedAt": "2026-07-22T17:39:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/macOS-27-Public-Beta-Thumb-2.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "macOS Golden Gateの第2回パブリックベータ公開",
+      "summaryJa": "AppleはmacOS Golden Gateの第2回パブリックベータをリリースしました。これにより、非開発者も秋の正式リリース前にソフトウェアをテストできます。新しいSiri AI機能が搭載され、Spotlightを通じてSiriにアクセスできるようになりました。さらに、ユーザーインターフェースの改善や新しいAI編集ツールも追加され、より使いやすくなっています。"
+    },
+    {
+      "id": "81687d64b249ab5d56c5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 public beta 2 is here with Siri AI, iPhone speed upgrades, and more",
+      "url": "https://9to5mac.com/2026/07/22/ios-27-public-beta-2-is-here-with-siri-ai-iphone-speed-upgrades-and-more/",
+      "publishedAt": "2026-07-22T17:38:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27パブリックベータ2が登場、Siri AIなど新機能",
+      "summaryJa": "iOS 27の第2回パブリックベータがiPhone向けに公開され、ユーザーはAppleの今年最大のソフトウェアアップデートを試すことができます。主な新機能はSiri AIで、Screen Timeの再設計やパフォーマンス向上も含まれています。ベータ版のインストール方法や新機能の詳細も紹介されており、特にiPhone 15 Pro以降のデバイスでのApple Intelligence機能が注目されています。"
+    },
+    {
+      "id": "0c9fca62d97d2ca19363",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "tvOS 27 and watchOS 27 Second Public Betas Now Available",
+      "url": "https://www.macrumors.com/2026/07/22/watchos-27-public-beta-2/",
+      "publishedAt": "2026-07-22T17:38:13.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "tvOS 27とwatchOS 27の第2回パブリックベータ公開",
+      "summaryJa": "AppleはtvOS 27とwatchOS 27の第2回パブリックベータをリリースしました。これにより、Apple TVやApple Watchのユーザーは新しいソフトウェアを試すことができます。watchOS 27ではSiri AIが導入され、個人情報へのアクセスやタスクの実行が可能になっています。また、tvOS 27ではポッドキャストアプリの再設計やパフォーマンス向上が図られています。"
+    },
+    {
+      "id": "8733adee2204612ef7e4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Public beta 2 for iPadOS 27 and more arrives with these new features",
+      "url": "https://9to5mac.com/2026/07/22/public-beta-2-for-ipados-27-and-more-arrives-with-these-new-features/",
+      "publishedAt": "2026-07-22T17:36:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iPadOS-27-public.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPadOS 27のパブリックベータ2が登場",
+      "summaryJa": "AppleがiPadOS 27を含む秋のソフトウェアアップデートのパブリックベータ2をリリースしました。新機能として、Apple TVアプリの自動ダウンロードオプション、Siriアプリのプレビュー行数のカスタマイズ、AirPodsの適応モードの個別設定などが追加されています。これにより、ユーザーは最新の機能を試すことができ、バグ修正や改善も含まれています。"
+    },
+    {
+      "id": "e0128b7605a13cacd1b0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Raises iCloud+ Prices in 8 Countries",
+      "url": "https://www.macrumors.com/2026/07/17/apple-icloud-plus-price-increase/",
+      "publishedAt": "2026-07-22T17:30:42.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/12/iCloud-General-Feature-Redux.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iCloud+の価格を8カ国で引き上げ",
+      "summaryJa": "Appleがナイジェリア、トルコ、ベトナム、日本など8カ国でiCloud+の価格を引き上げました。値上げ幅は11%から55%で、日本円の下落が影響していると考えられます。例えば、ナイジェリアでは50GBプランが900ナイラから1300ナイラに上昇しました。アメリカでは価格変更はありません。"
+    },
+    {
+      "id": "f3ef2f81f10f81e8aa31",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV announces two high-profile new shows, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/07/22/apple-tv-announces-two-high-profile-new-shows-heres-whats-coming/",
+      "publishedAt": "2026-07-22T17:28:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-tv-logo-nyc-manhattan-central-park.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、新作2本を発表",
+      "summaryJa": "Apple TVが新たに2本の注目作を発表しました。一つはベニシオ・デル・トロとベン・スティラーが出演するコメディ「Protective Custody」、もう一つは人気作家レベッカ・ヤロスのロマンス小説「Peculiar Stars」のテレビ化です。これにより、Apple TVはコメディとロマンスのジャンルを強化することを目指しています。"
+    },
+    {
+      "id": "5497c7e3df59884726a7",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Next Mac Mini Will Reportedly Have Mismatched M6 and M5 Pro Chips",
+      "url": "https://www.macrumors.com/2026/07/22/mac-mini-m6-m5-pro-chips-rumor/",
+      "publishedAt": "2026-07-22T17:04:46.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/mac-mini-blue.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "次期Mac mini、M6とM5 Proチップの組み合わせか",
+      "summaryJa": "AppleがM6とM5 Proチップの組み合わせを持つ新しいMac miniの構成をテストしているとの報道があります。具体的な発売時期は不明ですが、昨年のMac Studioのように異なるチップを組み合わせる可能性があります。"
+    },
+    {
+      "id": "2f588aa824adcfe3fb45",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Switching From iPhone to Android Just Got Easier With Android 17",
+      "url": "https://www.macrumors.com/2026/07/22/iphone-android-17-switching-simpler/",
+      "publishedAt": "2026-07-22T16:35:31.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/android-switching-tool.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Android 17でiPhoneからの移行が簡単に",
+      "summaryJa": "Android 17では、iPhoneからのデータ移行がより簡単になりました。新しいワイヤレス移行機能により、Googleアカウントやパスワード、Wi-Fiの資格情報、eSIMなど、さまざまなデータを転送できるようになります。これにより、AppleとGoogleはEUのデジタル市場法に準拠し、アプリなしでのデータ移行を実現しました。新しい機能は、PixelデバイスやSamsungのGalaxy Z Flip8、Z Fold8にも対応しています。"
+    },
+    {
       "id": "43fc9339c1f986309026",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -2206,7 +2341,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-22T16:13:51.710Z",
+  "updatedAt": "2026-07-22T17:44:15.441Z",
   "initialized": true,
   "summaryVersion": 4
 }
