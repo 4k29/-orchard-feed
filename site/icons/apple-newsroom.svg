@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Apple Newsroom">
+  <rect width="64" height="64" rx="16" fill="#d95b50"/>
+  <rect x="17" y="17" width="30" height="30" rx="5" fill="#fff"/>
+  <rect x="22" y="23" width="20" height="4" rx="2" fill="#d95b50"/>
+  <rect x="22" y="31" width="13" height="3" rx="1.5" fill="#d95b50" opacity=".86"/>
+  <rect x="22" y="38" width="20" height="3" rx="1.5" fill="#d95b50" opacity=".64"/>
+</svg>
