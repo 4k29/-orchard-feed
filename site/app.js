@@ -46,12 +46,13 @@ function formatTime(value) {
   return `${parts.hour}:${parts.minute}`;
 }
 
-function runTypeLabel(eventName) {
-  return {
-    schedule: "自動",
-    workflow_dispatch: "手動",
-    push: "設定更新",
-  }[eventName] || "不明";
+function runTypeLabel(run) {
+  if (run?.event === "schedule") return "自動";
+  if (run?.event === "workflow_dispatch") {
+    return run.display_title === "RSS自動補完" ? "自動補完" : "手動";
+  }
+  if (run?.event === "push") return "設定更新";
+  return "不明";
 }
 
 function normalizeImageUrl(value) {
@@ -109,7 +110,7 @@ async function updateLastCheck({ showLoading = false } = {}) {
     const latestRun = await fetchLatestRun();
     if (!latestRun) throw new Error("No workflow run");
 
-    const runType = runTypeLabel(latestRun.event);
+    const runType = runTypeLabel(latestRun);
     if (latestRun.status !== "completed") {
       const startedAt = latestRun.run_started_at || latestRun.created_at;
       syncStatus.textContent = `${runType}確認中 ${formatTime(startedAt)}〜`;
