@@ -4,6 +4,7 @@ import { FEEDS, mergeArticles, parseFeed, selectFreshNotifications } from "./fee
 const DATA_PATH = new URL("../data/articles.json", import.meta.url);
 const MODEL_ENDPOINT = "https://models.github.ai/inference/chat/completions";
 const MODEL = process.env.GITHUB_MODEL || "openai/gpt-4o-mini";
+const SUMMARY_VERSION = 2;
 
 async function readState() {
   try {
@@ -65,6 +66,7 @@ async function translateBatch(items) {
     body: JSON.stringify({
       model: MODEL,
       temperature: 0.2,
+      max_tokens: 4096,
       response_format: { type: "json_object" },
       messages: [
         {
@@ -75,7 +77,7 @@ async function translateBatch(items) {
         {
           role: "system",
           content:
-            "You translate Apple-related RSS items into natural Japanese. Preserve Apple product names. Do not invent facts. For rumors, use neutral wording such as 〜と報じられています. Return only JSON: {\"items\":[{\"id\":\"same id\",\"titleJa\":\"Japanese title\",\"summaryJa\":\"1-2 concise Japanese sentences, at most 180 Japanese characters\"}]}.",
+            "You translate and summarize Apple-related RSS items into natural Japanese. Preserve Apple product names and do not invent facts. In summaryJa, explain what happened, the key details, and any useful background, impact, or next step that is actually present in the excerpt. Write 3-5 clear sentences, usually 220-360 Japanese characters. If the excerpt contains too little information, be shorter rather than padding or guessing. For rumors, clearly use neutral wording such as 〜と報じられています or 〜の可能性があります. Return only JSON: {\"items\":[{\"id\":\"same id\",\"titleJa\":\"Japanese title\",\"summaryJa\":\"Detailed Japanese summary\"}]}.",
         },
         { role: "user", content: JSON.stringify(input) },
       ],
@@ -105,7 +107,7 @@ async function translate(items) {
     return {
       ...item,
       titleJa: String(translated.titleJa).trim().slice(0, 250),
-      summaryJa: String(translated.summaryJa).trim().slice(0, 600),
+      summaryJa: String(translated.summaryJa).trim().slice(0, 800),
     };
   });
 }
@@ -182,18 +184,36 @@ async function main() {
     .filter((article) => !knownUrls.has(article.url))
     .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
   const unseen = state.initialized ? unseenCandidates.slice(0, 40) : unseenCandidates;
+  const needsSummaryRefresh = state.summaryVersion !== SUMMARY_VERSION;
+  const refreshCandidates = needsSummaryRefresh
+    ? raw
+        .filter((article) => knownUrls.has(article.url))
+        .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
+        .slice(0, 80)
+    : [];
 
-  if (!unseen.length) {
+  if (!unseen.length && !needsSummaryRefresh) {
     console.log("No new articles.");
     return;
   }
 
-  console.log(`Translating ${unseen.length} new article(s).`);
-  const translated = await translate(unseen);
+  let translated = [];
+  if (unseen.length) {
+    console.log(`Translating ${unseen.length} new article(s).`);
+    translated = await translate(unseen);
+  }
+
+  let refreshed = [];
+  if (needsSummaryRefresh && refreshCandidates.length) {
+    console.log(`Refreshing ${refreshCandidates.length} article summary or summaries.`);
+    refreshed = await translate(refreshCandidates);
+  }
+
   const payload = {
-    articles: mergeArticles(state.articles ?? [], translated),
+    articles: mergeArticles(state.articles ?? [], [...translated, ...refreshed]),
     updatedAt: new Date().toISOString(),
     initialized: true,
+    summaryVersion: SUMMARY_VERSION,
   };
   await fs.writeFile(DATA_PATH, `${JSON.stringify(payload, null, 2)}\n`);
 
