@@ -76,7 +76,7 @@ button, a, input { -webkit-tap-highlight-color: transparent; }
   box-shadow: 0 0 0 4px rgba(85, 166, 111, 0.09);
 }
 
-.intro { padding: 68px 0 58px; border-bottom: 1px solid var(--line); }
+.intro { padding: 60px 0 48px; border-bottom: 1px solid var(--line); }
 
 .eyebrow, .section-label {
   margin: 0;
@@ -88,16 +88,15 @@ button, a, input { -webkit-tap-highlight-color: transparent; }
 }
 
 .intro h1 {
-  margin: 16px 0 0;
-  max-width: 760px;
-  font-size: clamp(38px, 6.4vw, 66px);
-  font-weight: 650;
-  line-height: 1.15;
-  letter-spacing: -0.055em;
+  margin: 14px 0 0;
+  max-width: 720px;
+  font-size: clamp(32px, 5.2vw, 54px);
+  font-weight: 640;
+  line-height: 1.16;
+  letter-spacing: -0.05em;
 }
 
 .mobile-break { display: none; }
-.intro-copy { max-width: 640px; margin: 22px 0 0; color: var(--muted); font-size: 16px; line-height: 1.9; }
 .feed { padding: 38px 0 0; }
 .feed-heading { display: flex; align-items: end; justify-content: space-between; gap: 24px; }
 .sync-status { margin: 8px 0 0; color: var(--quiet); font-size: 12px; }
@@ -107,8 +106,8 @@ button, a, input { -webkit-tap-highlight-color: transparent; }
   height: 40px;
   display: flex;
   align-items: center;
-  gap: 10px;
-  padding: 0 12px;
+  gap: 8px;
+  padding: 0 8px 0 12px;
   border: 1px solid var(--line);
   border-radius: 8px;
   background: rgba(255, 255, 255, 0.018);
@@ -116,8 +115,36 @@ button, a, input { -webkit-tap-highlight-color: transparent; }
 
 .search-field:focus-within { border-color: var(--line-strong); }
 .search-field svg { width: 16px; height: 16px; fill: none; stroke: var(--quiet); stroke-width: 1.7; }
-.search-field input { min-width: 0; flex: 1; border: 0; outline: 0; background: transparent; color: var(--foreground); font-size: 13px; }
+.search-field input {
+  min-width: 0;
+  flex: 1;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--foreground);
+  font-size: 13px;
+  appearance: none;
+  -webkit-appearance: none;
+}
+.search-field input::-webkit-search-cancel-button { display: none; }
 .search-field input::placeholder { color: var(--quiet); }
+
+.search-clear {
+  width: 26px;
+  height: 26px;
+  flex: 0 0 26px;
+  display: grid;
+  place-items: center;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+}
+.search-clear[hidden] { display: none; }
+.search-clear:hover { background: rgba(255, 255, 255, 0.05); }
+.search-clear svg { width: 14px; height: 14px; stroke-width: 1.8; }
 
 .filter-row {
   display: flex;
@@ -157,7 +184,9 @@ button, a, input { -webkit-tap-highlight-color: transparent; }
   font-size: 14px;
   font-weight: 600;
 }
-.source-icon { width: 100%; height: 100%; display: block; }
+.source-apple-newsroom, .source-apple-developer { color: #d9d6cf; }
+.source-macrumors { color: #d98d62; }
+.source-9to5mac { color: #7abf8d; }
 
 .article-link { min-width: 0; display: block; }
 .article-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; color: var(--quiet); font-size: 12px; }
@@ -184,10 +213,9 @@ button, a, input { -webkit-tap-highlight-color: transparent; }
 @media (max-width: 640px) {
   .site-shell { width: min(100% - 32px, 960px); }
   .site-header { min-height: 64px; }
-  .intro { padding: 50px 0 42px; }
-  .intro h1 { font-size: 42px; }
+  .intro { padding: 46px 0 38px; }
+  .intro h1 { font-size: 34px; }
   .mobile-break { display: initial; }
-  .intro-copy { font-size: 14px; line-height: 1.8; }
   .feed { padding-top: 30px; }
   .feed-heading { align-items: stretch; flex-direction: column; gap: 18px; }
   .search-field { width: 100%; }
