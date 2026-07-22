@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "4f8399295bc10abf46ea",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp launches Apple Music sharing, plus more",
+      "url": "https://9to5mac.com/2026/07/22/whatsapp-launches-apple-music-sharing-plus-more/",
+      "publishedAt": "2026-07-22T13:59:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-apple-music.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp、Apple Music共有機能を追加",
+      "summaryJa": "WhatsAppが新機能を発表し、Apple MusicやSpotifyの音楽をWhatsAppステータスで共有できるようになりました。これにより、ユーザーは自分が聴いている曲を簡単に友人と共有できるようになります。また、iPadユーザーは電話番号なしでWhatsAppアカウントを作成できるようになり、CarPlayアプリもアップグレードされています。"
+    },
+    {
+      "id": "9e050905fc45fda99ac4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New iPhone screen sizes are launching this fall, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/07/22/new-iphone-screen-sizes-are-launching-this-fall-heres-whats-coming/",
+      "publishedAt": "2026-07-22T13:37:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone Ultra、全く新しい画面サイズ登場か",
+      "summaryJa": "iPhone Ultraが新たに2つの画面サイズを導入する可能性が報じられています。外部ディスプレイは約5.3インチ、内部ディスプレイは約7.6インチとなり、これまでのiPhoneとは異なる形状になる模様です。新しいサイズに合わせてiOSやアプリの対応も進むと期待されています。"
+    },
+    {
+      "id": "11a3288f67f67de96001",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Park Visitor Center partially closed for store improvements",
+      "url": "https://9to5mac.com/2026/07/22/apple-park-visitor-center-partially-closed-for-store-improvements/",
+      "publishedAt": "2026-07-22T13:16:27.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-Park-visitor-center-partially-closed-for-store-improvements.jpg?quality=82&#038;strip=all&#038;w=1100",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Parkビジターセンター、一部閉鎖中",
+      "summaryJa": "Apple Parkのビジターセンターで展示スペースが一時的に閉鎖されています。改善作業が行われているものの、具体的な内容は明らかにされていません。現在の展示は効率的でないとの指摘もあり、今後の改善に期待が寄せられています。"
+    },
+    {
+      "id": "e3e469d9df62b1277eab",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Adobe brings Acrobat integration directly to WhatsApp Web",
+      "url": "https://9to5mac.com/2026/07/22/adobe-brings-acrobat-integration-directly-to-whatsapp-web/",
+      "publishedAt": "2026-07-22T13:14:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/whatsapp-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp WebにAdobe Acrobat統合",
+      "summaryJa": "WhatsApp WebにAdobe Acrobatが統合され、ユーザーはチャット内でPDFを表示、レビュー、注釈を追加できるようになりました。これにより、PDFをダウンロードせずに直接操作でき、パスワード保護された文書にも対応しています。WhatsAppのエンドツーエンド暗号化も維持されており、安全に利用可能です。"
+    },
+    {
       "id": "844d2a80465a31e28060",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -2026,7 +2086,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-22T13:04:22.918Z",
+  "updatedAt": "2026-07-22T14:04:00.241Z",
   "initialized": true,
   "summaryVersion": 4
 }
