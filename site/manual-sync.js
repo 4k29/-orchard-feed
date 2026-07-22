@@ -175,7 +175,13 @@ async function runSync({ automatic = false } = {}) {
     const response = await fetch(WORKFLOW_DISPATCH_URL, {
       method: "POST",
       headers: githubHeaders(token, true),
-      body: JSON.stringify({ ref: "main", inputs: { send_test: "false" } }),
+      body: JSON.stringify({
+        ref: "main",
+        inputs: {
+          send_test: "false",
+          trigger_source: automatic ? "fallback" : "manual",
+        },
+      }),
     });
 
     if (response.status === 401 || response.status === 403) throw authenticationError();
