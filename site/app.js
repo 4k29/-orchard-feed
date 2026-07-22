@@ -9,6 +9,8 @@ const syncStatus = document.querySelector("#sync-status");
 const searchInput = document.querySelector("#search");
 const SYNC_RUNS_URL =
   "https://api.github.com/repos/4k29/-orchard-feed/actions/workflows/sync.yml/runs?status=completed&per_page=1";
+const FEED_URL =
+  "https://raw.githubusercontent.com/4k29/-orchard-feed/main/data/articles.json";
 
 function formatDate(value) {
   const timestamp = Date.parse(value);
@@ -100,7 +102,7 @@ function render() {
 
 async function loadFeed() {
   try {
-    const response = await fetch(`./data/articles.json?t=${Date.now()}`, { cache: "no-store" });
+    const response = await fetch(`${FEED_URL}?t=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const payload = await response.json();
     if (!Array.isArray(payload.articles)) throw new Error("Invalid feed");
