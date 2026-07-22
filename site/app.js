@@ -83,7 +83,8 @@ async function loadFeed() {
     const payload = await response.json();
     if (!Array.isArray(payload.articles)) throw new Error("Invalid feed");
     state.articles = payload.articles;
-    syncStatus.textContent = `最終更新 ${formatDate(payload.updatedAt)}`;
+    const latestPublishedAt = payload.articles[0]?.publishedAt;
+    syncStatus.textContent = `5分おきに確認中 · 最新記事 ${formatDate(latestPublishedAt)}`;
     render();
   } catch (error) {
     articleList.setAttribute("aria-busy", "false");
