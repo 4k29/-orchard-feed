@@ -38,9 +38,6 @@
       <section class="intro" id="top">
         <p class="eyebrow">Apple news</p>
         <h1>Appleのニュースを、<br class="mobile-break" />まとめて。</h1>
-        <p class="intro-copy">
-          気になる新着を、日本語で確認できます。
-        </p>
       </section>
 
       <section class="feed" aria-labelledby="feed-title">
@@ -51,11 +48,16 @@
           </div>
           <label class="search-field">
             <span class="sr-only">記事を検索</span>
-            <svg aria-hidden="true" viewBox="0 0 24 24">
+            <svg class="search-icon" aria-hidden="true" viewBox="0 0 24 24">
               <circle cx="11" cy="11" r="6.5"></circle>
               <path d="m16 16 4 4"></path>
             </svg>
             <input id="search" type="search" inputmode="search" placeholder="検索" autocomplete="off" />
+            <button class="search-clear" id="search-clear" type="button" aria-label="検索をクリア" hidden>
+              <svg aria-hidden="true" viewBox="0 0 24 24">
+                <path d="m8 8 8 8M16 8l-8 8"></path>
+              </svg>
+            </button>
           </label>
         </div>
 
