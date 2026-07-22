@@ -93,11 +93,25 @@ async function translateBatch(items) {
 }
 
 async function translate(items) {
-  const results = [];
-  for (let index = 0; index < items.length; index += 8) {
-    results.push(...(await translateBatch(items.slice(index, index + 8))));
+  const byId = new Map();
+  for (let index = 0; index < items.length; index += 6) {
+    for (const translated of await translateBatch(items.slice(index, index + 6))) {
+      if (translated?.id) byId.set(translated.id, translated);
+    }
   }
-  const byId = new Map(results.map((item) => [item.id, item]));
+
+  const missing = items.filter((item) => {
+    const translated = byId.get(item.id);
+    return !translated?.titleJa || !translated?.summaryJa;
+  });
+  if (missing.length) {
+    console.warn(`Retrying ${missing.length} incomplete translation(s) individually.`);
+    for (const item of missing) {
+      for (const translated of await translateBatch([item])) {
+        if (translated?.id) byId.set(translated.id, translated);
+      }
+    }
+  }
 
   return items.map(({ summaryOriginal, ...item }) => {
     const translated = byId.get(item.id);
