@@ -10,7 +10,7 @@ on:
       - "scripts/**"
       - "tests/**"
   schedule:
-    - cron: "2-57/5 * * * *"
+    - cron: "5-55/10 * * * *"
   workflow_dispatch:
     inputs:
       send_test:
