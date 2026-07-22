@@ -1,6 +1,14 @@
 name: Sync Orchard feed
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/sync.yml"
+      - "package.json"
+      - "package-lock.json"
+      - "scripts/**"
+      - "tests/**"
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
