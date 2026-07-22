@@ -5,7 +5,6 @@ import { FEEDS, mergeArticles, parseFeed, selectFreshNotifications } from "./fee
 const DATA_PATH = new URL("../data/articles.json", import.meta.url);
 const MODEL_ENDPOINT = "https://models.github.ai/inference/chat/completions";
 const MODEL = process.env.GITHUB_MODEL || "openai/gpt-4o-mini";
-const DISCORD_USER_ID = process.env.DISCORD_USER_ID || "1305762049338642552";
 const SUMMARY_VERSION = 4;
 const ARTICLE_HOSTS = new Set([
   "www.apple.com",
@@ -120,7 +119,7 @@ async function translateBatch(items, attempt = 0) {
         {
           role: "system",
           content:
-            "You translate and summarize Apple-related RSS items into natural Japanese. Preserve Apple product names and do not invent facts. Write titleJa as a concise, human-edited Japanese technology-news headline, usually 18-45 Japanese characters. Avoid literal English translation, stiff explanatory sentences, and awkward phrases such as 〜をプロモーション, 〜する試みを失敗, or 〜が発表. Prefer natural headline forms such as Apple、〜を公開, 〜が登場, or 〜か when the evidence supports them. Keep rumor headlines cautious with forms such as 〜か, 〜の可能性, or 〜との報道, and never use sensational wording. In summaryJa, explain what happened, the key details, and any useful background, impact, or next step that is actually present in the excerpt. Write 3-5 clear sentences, usually 220-360 Japanese characters. If the excerpt contains too little information, be shorter rather than padding or guessing. For rumors, clearly use neutral wording such as 〜と報じられています or 〜の可能性があります. Return only JSON: {\"items\":[{\"id\":\"same id\",\"titleJa\":\"Natural Japanese news headline\",\"summaryJa\":\"Detailed Japanese summary\"}]}.",
+            "You translate and summarize Apple-related RSS items into natural Japanese. Preserve Apple product names and do not invent facts. Write titleJa as a concise, human-edited Japanese technology-news headline, usually 18-45 Japanese characters. Avoid literal English translation, stiff explanatory sentences, and awkward phrases such as 〜をプロモーション, 〜する試みを失敗, or 〜が発表. Prefer natural headline forms such as Apple、〜を公開, 〜が登場, or 〜か when the evidence supports them. Keep rumor headlines cautious with forms such as 〜か, 〜の可能性, or 〜との報道, and never use sensational wording. In summaryJa, explain what happened, the key details, and any useful background, impact, or next step that is actually present in the excerpt. Write 3-5 clear sentences, usually 220-360 Japanese characters. If the excerpt contains too little information, be shorter rather than padding or guessing. For rumors, clearly use neutral wording such as 〜と報じられています or 〜の可能性があります. Return only JSON: {\"items\":[{\"id\":\"same id\",\"titleJa\":\"Natural Japanese news headline\",\"summaryJa\":\"Detailed Japanese summary\"}]}",
         },
         { role: "user", content: JSON.stringify(input) },
       ],
@@ -231,12 +230,9 @@ async function notifyDiscord(articles) {
       headers: { "content-type": "application/json" },
       body: JSON.stringify({
         username: "Orchard",
-        content:
-          index === 0
-            ? `<@${DISCORD_USER_ID}> Apple関連の新着記事です 🍎`
-            : undefined,
+        content: index === 0 ? "Apple関連の新着記事です 🍎" : undefined,
         embeds,
-        allowed_mentions: { parse: [], users: [DISCORD_USER_ID] },
+        allowed_mentions: { parse: [] },
       }),
       signal: AbortSignal.timeout(20_000),
     });
