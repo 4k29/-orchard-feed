@@ -6,7 +6,6 @@ on:
     paths:
       - "site/**"
       - "data/articles.json"
-      - "data/products.json"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 
@@ -33,7 +32,6 @@ jobs:
           mkdir -p _site/data
           cp -R site/. _site/
           cp data/articles.json _site/data/articles.json
-          cp data/products.json _site/data/products.json
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
