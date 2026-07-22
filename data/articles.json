@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "65c890eab09cf3fc4deb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple updates macOS 28 guidance with direct encrypted HFS+ to APFS conversion",
+      "url": "https://9to5mac.com/2026/07/22/apple-updates-macos-28-guidance-with-direct-encrypted-hfs-to-apfs-conversion/",
+      "publishedAt": "2026-07-22T22:40:12.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/mac-hdd.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "macOS 28でHFS+からAPFSへの直接変換",
+      "summaryJa": "Appleは、macOS 28において暗号化されたHFS+ドライブをAPFSに直接変換できる新しい手順を追加しました。これにより、ユーザーはドライブを事前に復号化する必要がなくなります。新しい手順では、Disk Utilityを使用して簡単に変換が可能です。ただし、この方法は暗号化されたTime Machineバックアップディスクには適用されません。"
+    },
+    {
+      "id": "bdaa14a003cbfe88c4f0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "12th-Generation iPad: Everything We Know About Apple's Next Budget Tablet",
+      "url": "https://www.macrumors.com/2026/07/22/12th-generation-ipad-rumor-recap/",
+      "publishedAt": "2026-07-22T22:38:44.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/10/10th-Gen-iPad-Feature-Fanned-Pink.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、12世代iPadの情報を公開",
+      "summaryJa": "Appleは2027年に発売予定の12世代iPadについての情報を公開しました。デザインの大幅な変更はなく、現行の11インチのエッジツーエッジディスプレイを維持する見込みです。新モデルはA18またはA19チップを搭載し、性能向上が期待されています。また、Apple Intelligence機能のサポートも追加される可能性があります。"
+    },
+    {
       "id": "998c5043ec24c7bc5d6f",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -2461,7 +2491,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-22T21:31:13.979Z",
+  "updatedAt": "2026-07-22T23:43:09.256Z",
   "initialized": true,
   "summaryVersion": 4
 }
