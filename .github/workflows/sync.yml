@@ -54,6 +54,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_USER_ID: "1305762049338642552"
           SEND_TEST_NOTIFICATION: ${{ inputs.send_test }}
 
       - name: 更新内容を保存
