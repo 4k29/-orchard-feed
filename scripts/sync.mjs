@@ -5,6 +5,7 @@ import { FEEDS, mergeArticles, parseFeed, selectFreshNotifications } from "./fee
 const DATA_PATH = new URL("../data/articles.json", import.meta.url);
 const MODEL_ENDPOINT = "https://models.github.ai/inference/chat/completions";
 const MODEL = process.env.GITHUB_MODEL || "openai/gpt-4o-mini";
+const DISCORD_USER_ID = process.env.DISCORD_USER_ID || "1305762049338642552";
 const SUMMARY_VERSION = 3;
 const ARTICLE_HOSTS = new Set([
   "www.apple.com",
@@ -230,9 +231,12 @@ async function notifyDiscord(articles) {
       headers: { "content-type": "application/json" },
       body: JSON.stringify({
         username: "Orchard",
-        content: index === 0 ? "Apple関連の新着記事です 🍎" : undefined,
+        content:
+          index === 0
+            ? `<@${DISCORD_USER_ID}> Apple関連の新着記事です 🍎`
+            : undefined,
         embeds,
-        allowed_mentions: { parse: [] },
+        allowed_mentions: { parse: [], users: [DISCORD_USER_ID] },
       }),
       signal: AbortSignal.timeout(20_000),
     });
