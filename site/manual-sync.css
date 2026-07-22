@@ -1,0 +1,186 @@
+.feed-tools {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.manual-sync {
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 0 13px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.018);
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.manual-sync:hover {
+  border-color: var(--line-strong);
+  color: var(--foreground);
+}
+
+.manual-sync:disabled {
+  cursor: wait;
+  opacity: 0.72;
+}
+
+.manual-sync svg {
+  width: 15px;
+  height: 15px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.manual-sync.is-running svg {
+  animation: manual-sync-spin 0.9s linear infinite;
+}
+
+.manual-sync-message {
+  min-height: 16px;
+  margin: 10px 0 0;
+  color: var(--quiet);
+  font-size: 11px;
+  text-align: right;
+}
+
+.token-dialog {
+  width: min(calc(100% - 32px), 440px);
+  padding: 0;
+  border: 1px solid var(--line-strong);
+  border-radius: 14px;
+  background: #11110f;
+  color: var(--foreground);
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.5);
+}
+
+.token-dialog::backdrop {
+  background: rgba(0, 0, 0, 0.72);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+.token-form {
+  padding: 26px;
+}
+
+.token-eyebrow {
+  margin: 0;
+  color: var(--accent);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.token-form h2 {
+  margin: 12px 0 0;
+  font-size: 23px;
+  font-weight: 620;
+  letter-spacing: -0.035em;
+}
+
+.token-description {
+  margin: 14px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.75;
+}
+
+.token-field {
+  display: grid;
+  gap: 8px;
+  margin-top: 22px;
+}
+
+.token-field > span {
+  color: var(--quiet);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.token-field input {
+  width: 100%;
+  height: 44px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  outline: 0;
+  background: #0b0b0a;
+  color: var(--foreground);
+  font-family: "SFMono-Regular", Consolas, monospace;
+  font-size: 12px;
+}
+
+.token-field input:focus {
+  border-color: var(--line-strong);
+}
+
+.token-hint {
+  margin: 10px 0 0;
+  color: var(--quiet);
+  font-size: 10px;
+  line-height: 1.6;
+}
+
+.token-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 24px;
+}
+
+.token-actions button {
+  min-height: 38px;
+  padding: 0 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.token-cancel {
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--muted);
+}
+
+.token-save {
+  border: 1px solid var(--foreground);
+  background: var(--foreground);
+  color: var(--background);
+}
+
+@keyframes manual-sync-spin {
+  to { transform: rotate(360deg); }
+}
+
+@media (max-width: 640px) {
+  .feed-tools {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    width: 100%;
+  }
+
+  .manual-sync-message {
+    text-align: left;
+  }
+
+  .token-form {
+    padding: 22px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .manual-sync.is-running svg {
+    animation: none;
+  }
+}
