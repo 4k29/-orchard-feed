@@ -153,3 +153,31 @@ export function mergeArticles(existing, translated, limit = 300) {
     .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
     .slice(0, limit);
 }
+
+const NOTIFICATION_MAX_AGE_MS = 48 * 60 * 60 * 1000;
+const NOTIFICATION_CHECKPOINT_GRACE_MS = 6 * 60 * 60 * 1000;
+
+export function selectFreshNotifications(
+  articles,
+  {
+    previousUpdatedAt,
+    now = Date.now(),
+    maxAgeMs = NOTIFICATION_MAX_AGE_MS,
+    checkpointGraceMs = NOTIFICATION_CHECKPOINT_GRACE_MS,
+  } = {},
+) {
+  const nowMs = new Date(now).getTime();
+  if (!Number.isFinite(nowMs)) throw new Error("Invalid notification clock");
+
+  const previousUpdatedAtMs = new Date(previousUpdatedAt).getTime();
+  const ageCutoff = nowMs - maxAgeMs;
+  const checkpointCutoff = Number.isFinite(previousUpdatedAtMs)
+    ? previousUpdatedAtMs - checkpointGraceMs
+    : ageCutoff;
+  const cutoff = Math.max(ageCutoff, checkpointCutoff);
+
+  return articles.filter((article) => {
+    const publishedAtMs = new Date(article?.publishedAt).getTime();
+    return Number.isFinite(publishedAtMs) && publishedAtMs >= cutoff;
+  });
+}
