@@ -7,6 +7,8 @@ const articleList = document.querySelector("#article-list");
 const articleTemplate = document.querySelector("#article-template");
 const syncStatus = document.querySelector("#sync-status");
 const searchInput = document.querySelector("#search");
+const SYNC_RUNS_URL =
+  "https://api.github.com/repos/4k29/-orchard-feed/actions/workflows/sync.yml/runs?status=completed&per_page=1";
 
 function formatDate(value) {
   const timestamp = Date.parse(value);
@@ -17,6 +19,26 @@ function formatDate(value) {
   const hour = String(jst.getUTCHours()).padStart(2, "0");
   const minute = String(jst.getUTCMinutes()).padStart(2, "0");
   return `${month}/${day} ${hour}:${minute}`;
+}
+
+function formatTime(value) {
+  const formatted = formatDate(value);
+  return formatted.split(" ")[1] || "--:--";
+}
+
+async function updateLastCheck(fallbackValue) {
+  try {
+    const response = await fetch(SYNC_RUNS_URL, {
+      headers: { accept: "application/vnd.github+json" },
+      cache: "no-store",
+    });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const payload = await response.json();
+    const checkedAt = payload.workflow_runs?.[0]?.updated_at;
+    syncStatus.textContent = `最終確認 ${formatTime(checkedAt || fallbackValue)}`;
+  } catch {
+    syncStatus.textContent = `最終確認 ${formatTime(fallbackValue)}`;
+  }
 }
 
 function filteredArticles() {
@@ -83,9 +105,9 @@ async function loadFeed() {
     const payload = await response.json();
     if (!Array.isArray(payload.articles)) throw new Error("Invalid feed");
     state.articles = payload.articles;
-    const latestPublishedAt = payload.articles[0]?.publishedAt;
-    syncStatus.textContent = `5分おきに確認中 · 最新記事 ${formatDate(latestPublishedAt)}`;
+    syncStatus.textContent = `最終確認 ${formatTime(payload.updatedAt)}`;
     render();
+    void updateLastCheck(payload.updatedAt);
   } catch (error) {
     articleList.setAttribute("aria-busy", "false");
     articleList.innerHTML = '<div class="empty-state"><p>記事を読み込めませんでした。少し待ってから再読み込みしてください。</p></div>';
