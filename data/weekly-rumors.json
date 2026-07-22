@@ -1,9 +1,202 @@
 {
   "version": 1,
-  "generatedAt": null,
-  "periodStart": null,
-  "periodEnd": null,
-  "headline": "最初の週刊まとめを準備しています",
-  "intro": "Apple製品の噂を製品群ごとに整理しています。初回の自動更新後に表示されます。",
-  "products": []
+  "generatedAt": "2026-07-22T03:34:17.352Z",
+  "periodStart": "2026-07-15T03:34:17.352Z",
+  "periodEnd": "2026-07-22T03:34:17.352Z",
+  "headline": "今週は9つの製品群で新しい動き",
+  "intro": "42件の海外記事を確認し、製品群ごとに噂と報道を整理しました。未確認情報は事実として扱わず、元記事へのリンクを付けています。",
+  "products": [
+    {
+      "id": "iphone",
+      "name": "iPhone",
+      "status": "updated",
+      "summary": "今週、Appleは日本でのAppleCare+の変更を発表し、iPadとApple Watch向けに盗難および紛失補償を追加しました。また、iPhone 17 Proで撮影されたメキシコのマイクロドラマがプロモーションされ、iPhone Air 2の開発が進行中であるとの報道もあります。",
+      "highlights": [
+        {
+          "text": "Appleは日本でiPadとApple Watch向けに盗難および紛失補償付きのAppleCare+を提供開始した。",
+          "source": "MacRumors",
+          "sourceUrl": "https://www.macrumors.com/2026/07/21/applecare-changes-in-japan/",
+          "publishedAt": "2026-07-22T02:34:53.000Z"
+        },
+        {
+          "text": "iPhone 17 Proで撮影されたマイクロドラマ『Nido de Villanas』がAppleのYouTubeチャンネルで公開された。",
+          "source": "9to5Mac",
+          "sourceUrl": "https://9to5mac.com/2026/07/21/apple-promotes-nido-de-villanas-a-mexican-microdrama-shot-on-iphone-17-pro/",
+          "publishedAt": "2026-07-22T01:37:01.000Z"
+        },
+        {
+          "text": "Appleは第二世代のiPhone Airの開発を進めており、デュアルカメラやA20 Proチップが搭載される可能性がある。",
+          "source": "9to5Mac",
+          "sourceUrl": "https://9to5mac.com/2026/07/21/iphone-air-2-is-coming-heres-everything-we-know-so-far/",
+          "publishedAt": "2026-07-21T20:47:24.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ipad",
+      "name": "iPad",
+      "status": "updated",
+      "summary": "今週、Appleは日本でiPad向けのAppleCare+に盗難および紛失補償を追加したと発表しました。また、Appleは新しい「Apple Upgrade」プログラムを来週開始する予定で、iPadも対象となる見込みです。",
+      "highlights": [
+        {
+          "text": "Appleは日本でiPad向けに盗難および紛失補償付きのAppleCare+を提供開始した。",
+          "source": "MacRumors",
+          "sourceUrl": "https://www.macrumors.com/2026/07/21/applecare-changes-in-japan/",
+          "publishedAt": "2026-07-22T02:34:53.000Z"
+        },
+        {
+          "text": "Appleは新しい「Apple Upgrade」プログラムを来週開始する予定で、iPadも対象となる見込み。",
+          "source": "MacRumors",
+          "sourceUrl": "https://www.macrumors.com/2026/07/21/apple-upgrade-program-launching-next-week/",
+          "publishedAt": "2026-07-21T15:30:09.000Z"
+        }
+      ]
+    },
+    {
+      "id": "mac",
+      "name": "Mac",
+      "status": "updated",
+      "summary": "今週、Appleは新しいハードウェアサブスクリプションプログラムを発表する予定ですが、エントリーモデルが対象外になる可能性があるとの報道があります。また、M5 MacBook Proが大幅に値下げされているセール情報もあります。",
+      "highlights": [
+        {
+          "text": "Appleの新しいハードウェアサブスクリプションプログラムは、エントリーモデルが対象外になる可能性があります。",
+          "source": "9to5Mac",
+          "sourceUrl": "https://9to5mac.com/2026/07/21/apples-new-hardware-subscription-sounds-great-except-for-one-limitation/",
+          "publishedAt": "2026-07-21T19:17:04.000Z"
+        },
+        {
+          "text": "M5 MacBook Proが320ドルオフで販売されています。",
+          "source": "9to5Mac",
+          "sourceUrl": "https://9to5mac.com/2026/07/21/deals-airtag-2-m5-macbook-pro-philips-hue-bridge-pro/",
+          "publishedAt": "2026-07-21T15:31:12.000Z"
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "name": "Apple Watch",
+      "status": "updated",
+      "summary": "今週、Apple Watchに関するいくつかの注目すべき情報がありました。Appleは日本でAppleCare+の盗難および紛失補償を提供開始し、Apple Watchの安全機能が実際に命を救った事例を紹介する動画も公開しました。",
+      "highlights": [
+        {
+          "text": "Appleは日本でiPadとApple Watch向けに盗難および紛失補償付きのAppleCare+を提供開始した。",
+          "source": "MacRumors",
+          "sourceUrl": "https://www.macrumors.com/2026/07/21/applecare-changes-in-japan/",
+          "publishedAt": "2026-07-22T02:34:53.000Z"
+        },
+        {
+          "text": "Appleは、Apple Watchの安全機能がサイクリストの命を救った実話を紹介する動画を公開した。",
+          "source": "9to5Mac",
+          "sourceUrl": "https://9to5mac.com/2026/07/21/apple-shares-true-story-video-on-how-apple-watch-helped-rescue-an-injured-cyclist/",
+          "publishedAt": "2026-07-21T21:27:28.000Z"
+        },
+        {
+          "text": "AppleはApple WatchのSOS機能による成功事例を紹介し、事故に遭ったフィルさんが迅速に救助されたことを伝えた。",
+          "source": "MacRumors",
+          "sourceUrl": "https://www.macrumors.com/2026/07/21/apple-watch-sos-success-story/",
+          "publishedAt": "2026-07-21T16:26:32.000Z"
+        }
+      ]
+    },
+    {
+      "id": "audio",
+      "name": "AirPods・オーディオ",
+      "status": "updated",
+      "summary": "今週、AirPods Pro 3とAirPods Max 2がそれぞれ100ドルオフで販売されています。また、AirTag 2もプライムデーの最安値に戻っているとのことです。",
+      "highlights": [
+        {
+          "text": "AirPods Pro 3とAirPods Max 2がそれぞれ100ドルオフで販売中。",
+          "source": "9to5Mac",
+          "sourceUrl": "https://9to5mac.com/2026/07/21/deals-airtag-2-m5-macbook-pro-philips-hue-bridge-pro/",
+          "publishedAt": "2026-07-21T15:31:12.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vision",
+      "name": "Vision・空間コンピューティング",
+      "status": "updated",
+      "summary": "今週、Appleは開発者向けにvisionOS 27の第4ベータ版を提供しました。このアップデートには新しいSiri AIやパノラマ写真を空間環境に変換する機能が含まれています。",
+      "highlights": [
+        {
+          "text": "新しいSiri AIが導入され、ユーザーが見ているものに関する質問に答えることができるようになる。",
+          "source": "MacRumors",
+          "sourceUrl": "https://www.macrumors.com/2026/07/20/apple-seeds-visionos-27-beta-4/",
+          "publishedAt": "2026-07-20T19:24:21.000Z"
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "name": "Apple TV・Home",
+      "status": "updated",
+      "summary": "今週のApple TV関連のニュースでは、ドラマ『Women in Blue』のシーズン2の予告編が公開され、8月12日に配信が開始される予定です。また、ベン・スティラー制作の新コメディ『The Dink』が今週金曜日に公開されることが期待されています。",
+      "highlights": [
+        {
+          "text": "Apple TVはドラマ『Women in Blue』のシーズン2の予告編を公開しました。",
+          "source": "9to5Mac",
+          "sourceUrl": "https://9to5mac.com/2026/07/21/apple-tv-drops-trailer-for-women-in-blues-second-season/",
+          "publishedAt": "2026-07-21T20:45:01.000Z"
+        },
+        {
+          "text": "ベン・スティラー制作の新作映画『The Dink』が今週金曜日にApple TVで公開される予定です。",
+          "source": "9to5Mac",
+          "sourceUrl": "https://9to5mac.com/2026/07/21/apple-tvs-new-comedy-from-ben-stiller-is-almost-here-and-reviews-are-in/",
+          "publishedAt": "2026-07-21T18:07:04.000Z"
+        },
+        {
+          "text": "iOS 27ベータ4ではApple TVアプリの設定に自動ダウンロード機能が追加されました。",
+          "source": "MacRumors",
+          "sourceUrl": "https://www.macrumors.com/2026/07/20/ios-27-beta-4-everything-new/",
+          "publishedAt": "2026-07-20T21:50:52.000Z"
+        }
+      ]
+    },
+    {
+      "id": "accessories",
+      "name": "ディスプレイ・アクセサリ",
+      "status": "updated",
+      "summary": "今週のディスプレイ・アクセサリに関する情報では、AirTag 2がプライムデーの最安値に戻っているとの報告があります。また、M5 MacBook Proが大幅に値下げされていることも注目されています。",
+      "highlights": [
+        {
+          "text": "AirTag 2がプライムデーの最安値に戻っているとの報告がある。",
+          "source": "9to5Mac",
+          "sourceUrl": "https://9to5mac.com/2026/07/21/deals-airtag-2-m5-macbook-pro-philips-hue-bridge-pro/",
+          "publishedAt": "2026-07-21T15:31:12.000Z"
+        },
+        {
+          "text": "M5 MacBook Proが320ドルオフで販売されている。",
+          "source": "9to5Mac",
+          "sourceUrl": "https://9to5mac.com/2026/07/21/deals-airtag-2-m5-macbook-pro-philips-hue-bridge-pro/",
+          "publishedAt": "2026-07-21T15:31:12.000Z"
+        }
+      ]
+    },
+    {
+      "id": "software",
+      "name": "OS・サービス",
+      "status": "updated",
+      "summary": "今週、Apple関連のサービスに関するいくつかの新機能が発表されました。Claude CodeがiOSアプリのライブテスト機能をMacアプリに追加し、Apple Invitesアプリも新たなインタラクション機能を導入しました。また、iOS 27のコードからは、未払い時にデバイスが制限される可能性が示唆されています。",
+      "highlights": [
+        {
+          "text": "Claude CodeのMacアプリがiOSアプリのライブテスト機能を追加しました。",
+          "source": "9to5Mac",
+          "sourceUrl": "https://9to5mac.com/2026/07/21/claude-code-brings-live-ios-app-testing-into-its-mac-app/",
+          "publishedAt": "2026-07-22T00:52:43.000Z"
+        },
+        {
+          "text": "Apple Invitesアプリがホストとゲストのための新機能を追加しました。",
+          "source": "MacRumors",
+          "sourceUrl": "https://www.macrumors.com/2026/07/21/apple-invites-app-two-new-features/",
+          "publishedAt": "2026-07-21T19:55:31.000Z"
+        },
+        {
+          "text": "iOS 27のコードにより、未払い時にデバイスが制限される可能性が示唆されています。",
+          "source": "9to5Mac",
+          "sourceUrl": "https://9to5mac.com/2026/07/21/ios-27-code-suggests-apple-could-restrict-leased-devices-after-missed-payments/",
+          "publishedAt": "2026-07-21T20:28:19.000Z"
+        }
+      ]
+    }
+  ]
 }
