@@ -1,6 +1,7 @@
 const state = {
   articles: [],
   query: "",
+  updatedAt: null,
 };
 
 const articleList = document.querySelector("#article-list");
@@ -10,9 +11,12 @@ const searchInput = document.querySelector("#search");
 const searchClear = document.querySelector("#search-clear");
 const SYNC_RUNS_URL =
   "https://api.github.com/repos/4k29/-orchard-feed/actions/workflows/sync.yml/runs?per_page=1";
-const FEED_URL =
+const LOCAL_FEED_URL = "./data/articles.json";
+const RAW_FEED_URL =
   "https://raw.githubusercontent.com/4k29/-orchard-feed/main/data/articles.json";
 const STATUS_TOKEN_STORAGE_KEY = "orchard.github-token";
+
+let feedLoading = false;
 
 function getJstParts(value) {
   const timestamp = Date.parse(value);
@@ -198,19 +202,76 @@ function render() {
   articleList.append(fragment);
 }
 
-async function loadFeed() {
+function validFeedPayload(value) {
+  return value && Array.isArray(value.articles);
+}
+
+async function fetchFeedSource(url) {
+  const separator = url.includes("?") ? "&" : "?";
+  const response = await fetch(`${url}${separator}t=${Date.now()}`, {
+    cache: "no-store",
+    headers: { accept: "application/json" },
+  });
+  if (!response.ok) throw new Error(`${url}: HTTP ${response.status}`);
+
+  const payload = await response.json();
+  if (!validFeedPayload(payload)) throw new Error(`${url}: Invalid feed`);
+  return payload;
+}
+
+function newestPayload(payloads) {
+  return payloads.sort((a, b) => {
+    const aTime = Date.parse(a.updatedAt) || 0;
+    const bTime = Date.parse(b.updatedAt) || 0;
+    return bTime - aTime;
+  })[0];
+}
+
+async function loadFeed({ showError = false } = {}) {
+  if (feedLoading) return;
+  feedLoading = true;
+
   try {
-    const response = await fetch(`${FEED_URL}?t=${Date.now()}`, { cache: "no-store" });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    const payload = await response.json();
-    if (!Array.isArray(payload.articles)) throw new Error("Invalid feed");
+    const results = await Promise.allSettled([
+      fetchFeedSource(LOCAL_FEED_URL),
+      fetchFeedSource(RAW_FEED_URL),
+    ]);
+    const payloads = results
+      .filter((result) => result.status === "fulfilled")
+      .map((result) => result.value);
+
+    if (!payloads.length) {
+      throw new AggregateError(
+        results.filter((result) => result.status === "rejected").map((result) => result.reason),
+        "All feed sources failed",
+      );
+    }
+
+    const payload = newestPayload(payloads);
+    const nextUpdatedAt = payload.updatedAt || null;
+    const changed =
+      state.updatedAt !== nextUpdatedAt ||
+      state.articles.length !== payload.articles.length ||
+      state.articles[0]?.id !== payload.articles[0]?.id;
+
     state.articles = payload.articles;
-    render();
+    state.updatedAt = nextUpdatedAt;
+    if (changed) render();
   } catch (error) {
-    articleList.setAttribute("aria-busy", "false");
-    articleList.innerHTML = '<div class="empty-state"><p>記事を読み込めませんでした。少し待ってから再読み込みしてください。</p></div>';
+    if (!state.articles.length && showError) {
+      articleList.setAttribute("aria-busy", "false");
+      articleList.innerHTML =
+        '<div class="empty-state"><p>記事を読み込めませんでした。少し待ってから再読み込みしてください。</p></div>';
+    }
     console.error(error);
+  } finally {
+    feedLoading = false;
   }
+}
+
+function refreshOrchard() {
+  void loadFeed();
+  void updateLastCheck();
 }
 
 searchInput.addEventListener("input", (event) => {
@@ -231,12 +292,11 @@ if ("serviceWorker" in navigator) {
 }
 
 document.addEventListener("visibilitychange", () => {
-  if (document.visibilityState === "visible") {
-    void updateLastCheck();
-  }
+  if (document.visibilityState === "visible") refreshOrchard();
 });
+window.addEventListener("focus", refreshOrchard);
+window.addEventListener("online", refreshOrchard);
 
-void loadFeed();
+void loadFeed({ showError: true });
 void updateLastCheck({ showLoading: true });
-window.setInterval(updateLastCheck, 60 * 1000);
-window.setInterval(loadFeed, 10 * 60 * 1000);
+window.setInterval(refreshOrchard, 60 * 1000);
