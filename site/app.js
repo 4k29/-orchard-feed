@@ -9,9 +9,10 @@ const syncStatus = document.querySelector("#sync-status");
 const searchInput = document.querySelector("#search");
 const searchClear = document.querySelector("#search-clear");
 const SYNC_RUNS_URL =
-  "https://api.github.com/repos/4k29/-orchard-feed/actions/workflows/sync.yml/runs?status=completed&per_page=1";
+  "https://api.github.com/repos/4k29/-orchard-feed/actions/workflows/sync.yml/runs?per_page=1";
 const FEED_URL =
   "https://raw.githubusercontent.com/4k29/-orchard-feed/main/data/articles.json";
+const STATUS_TOKEN_STORAGE_KEY = "orchard.github-token";
 
 function getJstParts(value) {
   const timestamp = Date.parse(value);
@@ -57,24 +58,58 @@ function normalizeImageUrl(value) {
   }
 }
 
-async function updateLastCheck() {
-  syncStatus.textContent = "最終確認を取得しています…";
-
+function readStatusToken() {
   try {
-    const response = await fetch(`${SYNC_RUNS_URL}&t=${Date.now()}`, {
+    return localStorage.getItem(STATUS_TOKEN_STORAGE_KEY)?.trim() || "";
+  } catch {
+    return "";
+  }
+}
+
+async function fetchLatestRun() {
+  const token = readStatusToken();
+  const headers = {
+    accept: "application/vnd.github+json",
+    ...(token ? { authorization: `Bearer ${token}` } : {}),
+  };
+
+  let response = await fetch(`${SYNC_RUNS_URL}&t=${Date.now()}`, {
+    headers,
+    cache: "no-store",
+  });
+
+  if (token && (response.status === 401 || response.status === 403)) {
+    response = await fetch(`${SYNC_RUNS_URL}&t=${Date.now()}`, {
       headers: { accept: "application/vnd.github+json" },
       cache: "no-store",
     });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  }
 
-    const payload = await response.json();
-    const latestRun = payload.workflow_runs?.[0];
-    if (!latestRun?.updated_at) throw new Error("No completed workflow run");
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  const payload = await response.json();
+  return payload.workflow_runs?.[0] || null;
+}
 
+async function updateLastCheck({ showLoading = false } = {}) {
+  if (showLoading) syncStatus.textContent = "最終確認を取得しています…";
+
+  try {
+    const latestRun = await fetchLatestRun();
+    if (!latestRun) throw new Error("No workflow run");
+
+    if (latestRun.status !== "completed") {
+      const startedAt = latestRun.run_started_at || latestRun.created_at;
+      syncStatus.textContent = `確認中 ${formatTime(startedAt)}〜`;
+      return;
+    }
+
+    const checkedAt = latestRun.updated_at || latestRun.created_at;
     const label = latestRun.conclusion === "success" ? "最終確認" : "確認失敗";
-    syncStatus.textContent = `${label} ${formatTime(latestRun.updated_at)}`;
+    syncStatus.textContent = `${label} ${formatTime(checkedAt)}`;
   } catch (error) {
-    syncStatus.textContent = "最終確認を取得できませんでした";
+    if (showLoading || syncStatus.textContent.includes("取得しています")) {
+      syncStatus.textContent = "最終確認を取得できませんでした";
+    }
     console.error(error);
   }
 }
@@ -164,8 +199,6 @@ function render() {
 }
 
 async function loadFeed() {
-  const lastCheckPromise = updateLastCheck();
-
   try {
     const response = await fetch(`${FEED_URL}?t=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -178,8 +211,6 @@ async function loadFeed() {
     articleList.innerHTML = '<div class="empty-state"><p>記事を読み込めませんでした。少し待ってから再読み込みしてください。</p></div>';
     console.error(error);
   }
-
-  await lastCheckPromise;
 }
 
 searchInput.addEventListener("input", (event) => {
@@ -199,5 +230,13 @@ if ("serviceWorker" in navigator) {
   });
 }
 
-loadFeed();
-window.setInterval(loadFeed, 5 * 60 * 1000);
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "visible") {
+    void updateLastCheck();
+  }
+});
+
+void loadFeed();
+void updateLastCheck({ showLoading: true });
+window.setInterval(updateLastCheck, 60 * 1000);
+window.setInterval(loadFeed, 10 * 60 * 1000);
