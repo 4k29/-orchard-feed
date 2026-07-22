@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "80005d76d59f93cc002b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: July 22, 2026 – iOS 27 beta 4 and iOS 26.6 RC",
+      "url": "https://9to5mac.com/2026/07/22/daily-july-22-2026/",
+      "publishedAt": "2026-07-22T11:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27ベータ4と26.6 RCが登場",
+      "summaryJa": "9to5Macのポッドキャストで、iOS 27ベータ4とiOS 26.6 RCに関する最新情報が紹介されました。iOS 27ベータ4ではApple TVアプリの新機能や、マルチバッテリー機能を持つ新しいiPhoneモデルの言及があります。また、iOS 26.6はiOS 27への準備を整える重要な機能を含んでいます。さらに、TSMCによるチップコストの引き上げがAppleの価格に悪影響を及ぼす可能性が指摘されています。"
+    },
+    {
       "id": "0b4ce786f8f7f3cdef59",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -1586,7 +1601,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-22T10:14:54.762Z",
+  "updatedAt": "2026-07-22T11:07:44.683Z",
   "initialized": true,
   "summaryVersion": 4
 }
