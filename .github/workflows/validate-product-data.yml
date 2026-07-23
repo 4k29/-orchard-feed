@@ -1,0 +1,41 @@
+name: Validate Orchard product data
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/validate-product-data.yml"
+permissions:
+  contents: write
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          const data = JSON.parse(fs.readFileSync('data/products.json', 'utf8'));
+          const phones = data.products.filter((p) => p.family === 'iPhone');
+          const errors = [];
+          for (const p of phones) {
+            if (/[（(](GSM|CDMA|Global|China|Verizon|AT&T|Sprint|T-Mobile)/i.test(p.name)) errors.push(`${p.name}: regional suffix`);
+            if (/sleeve|case|bumper|battery|wallet/i.test(p.name)) errors.push(`${p.name}: accessory`);
+            if (!p.storage?.length) errors.push(`${p.name}: no storage`);
+            if (!p.prices?.length) errors.push(`${p.name}: no price`);
+            if (!p.initialOS) errors.push(`${p.name}: no initial OS`);
+            if (!p.documentationUrl) errors.push(`${p.name}: no documentation`);
+            if (p.name !== 'iPhone' && !p.models?.length) errors.push(`${p.name}: no Japanese model`);
+          }
+          const order14 = phones.filter((p) => /^iPhone 14(?: |$)/.test(p.name)).map((p) => p.name);
+          const expected14 = ['iPhone 14 Pro Max', 'iPhone 14 Pro', 'iPhone 14 Plus', 'iPhone 14'];
+          if (JSON.stringify(order14) !== JSON.stringify(expected14)) errors.push(`iPhone 14 order: ${order14.join(' > ')}`);
+          const report = { count: phones.length, order14, errors, phones: phones.map(({name, storage, prices, models, initialOS, documentationUrl, documentationDirect}) => ({name, storage, prices, models, initialOS, documentationUrl, documentationDirect})) };
+          fs.writeFileSync('data/product-validation.json', JSON.stringify(report, null, 2) + '\n');
+          NODE
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/product-validation.json
+          git commit -m "Validate Apple product database"
+          git pull --rebase origin main
+          git push origin HEAD:main
