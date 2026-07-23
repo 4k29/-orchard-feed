@@ -201,10 +201,27 @@ async function translate(items) {
 function colorFor(sourceId) {
   return {
     "apple-newsroom": 0xd7483d,
+    "apple-newsroom-jp": 0xd7483d,
     "apple-developer": 0x5e9df6,
     macrumors: 0xe85d75,
     "9to5mac": 0x72c79a,
   }[sourceId] ?? 0xd7483d;
+}
+
+function compactText(value) {
+  return String(value ?? "").replace(/\s+/g, " ").trim();
+}
+
+function discordNotificationContent(article) {
+  const source = compactText(article.source);
+  const title = compactText(article.titleJa) || "Apple関連の新着記事";
+  const summary = compactText(article.summaryJa);
+  const shortSummary = summary.length > 180 ? `${summary.slice(0, 179)}…` : summary;
+
+  return [`【${source || "Orchard"}】${title}`, shortSummary]
+    .filter(Boolean)
+    .join("\n")
+    .slice(0, 1900);
 }
 
 async function notifyDiscord(articles) {
@@ -214,8 +231,8 @@ async function notifyDiscord(articles) {
     return;
   }
 
-  for (let index = 0; index < articles.length; index += 5) {
-    const embeds = articles.slice(index, index + 5).map((article) => ({
+  for (const article of articles) {
+    const embed = {
       title: article.titleJa,
       url: article.url,
       description: article.summaryJa,
@@ -224,14 +241,14 @@ async function notifyDiscord(articles) {
       fields: [{ name: "原題", value: article.titleOriginal.slice(0, 1024) }],
       timestamp: article.publishedAt,
       ...(article.imageUrl ? { thumbnail: { url: article.imageUrl } } : {}),
-    }));
+    };
     const response = await fetch(webhook, {
       method: "POST",
       headers: { "content-type": "application/json" },
       body: JSON.stringify({
         username: "Orchard",
-        content: index === 0 ? "Apple関連の新着記事です 🍎" : undefined,
-        embeds,
+        content: discordNotificationContent(article),
+        embeds: [embed],
         allowed_mentions: { parse: [] },
       }),
       signal: AbortSignal.timeout(20_000),
