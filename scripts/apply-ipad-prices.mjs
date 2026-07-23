@@ -140,6 +140,7 @@ if (unmatched.length) {
 
 for (const [key, entry] of grouped) {
   entry.product.prices = [...prices.get(key)];
+  entry.product.priceHistory = entry.product.prices.length > 1;
   entry.product.priceSource = "Apple Newsroom（日本）・国内価格改定記録";
   indexed.push(entry);
 }
