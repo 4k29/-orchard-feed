@@ -1,19 +1,21 @@
-const L = document.querySelector("#release-list");
-const T = document.querySelector("#release-status");
-const Q = document.querySelector("#release-search");
-const F = document.querySelector("#release-filter");
+const listElement = document.querySelector("#release-list");
+const statusElement = document.querySelector("#release-status");
+const searchElement = document.querySelector("#release-search");
+const filterElement = document.querySelector("#release-filter");
 
-let A = [];
-let P = "すべて";
-let H = new Set();
-
-const PS = ["すべて", "iOS", "iPadOS", "macOS", "watchOS", "tvOS", "HomePod", "visionOS"];
+const PLATFORMS = ["すべて", "iOS", "iPadOS", "macOS", "watchOS", "tvOS", "HomePod", "visionOS"];
 const CHANNEL_ORDER = {
   "developer-beta": 0,
   "public-beta": 1,
   rc: 2,
   stable: 3,
 };
+
+const DATA_URLS = [
+  `https://raw.githubusercontent.com/4k29/-orchard-feed/main/data/releases.json?${Date.now()}`,
+  "./data/releases.json",
+  "../data/releases.json",
+];
 
 const OFFICIAL_NOTES = {
   iOS: {
@@ -56,28 +58,34 @@ const OFFICIAL_NOTES = {
   },
 };
 
-const fmt = (date) =>
-  new Intl.DateTimeFormat("ja-JP", {
+let releases = [];
+let selectedPlatform = "すべて";
+let latestLinkTargets = new Set();
+
+function formatDate(value) {
+  const date = new Date(`${value}T00:00:00+09:00`);
+  if (Number.isNaN(date.getTime())) return value || "";
+  return new Intl.DateTimeFormat("ja-JP", {
     year: "numeric",
     month: "long",
     day: "numeric",
-  }).format(new Date(`${date}T00:00:00+09:00`));
+  }).format(date);
+}
 
 function channelOf(release) {
-  const text = `${release.channel || ""} ${release.version || ""}`.toLowerCase();
-  if (text.includes("public-beta") || /\b(?:public|pub)\s+beta\b/.test(text)) {
+  const channel = String(release.channel || "").toLowerCase();
+  const version = String(release.version || "").toLowerCase();
+  const text = `${channel} ${version}`;
+
+  if (channel === "public-beta" || /\b(?:public|pub)\s+beta\b/.test(text)) {
     return "public-beta";
   }
-  if (text.includes("developer-beta") || /\b(?:developer|dev)\s+beta\b/.test(text)) {
+  if (channel === "developer-beta" || /\b(?:developer|dev)\s+beta\b/.test(text)) {
     return "developer-beta";
   }
-  if (release.channel === "rc" || /\b(?:rc|release candidate)\b/i.test(release.version || "")) {
-    return "rc";
-  }
-  if (release.channel === "stable") return "stable";
-  if (release.channel === "beta" || /\bbeta\b/i.test(release.version || "")) {
-    return "developer-beta";
-  }
+  if (channel === "rc" || /\b(?:rc|release candidate)\b/.test(text)) return "rc";
+  if (channel === "stable") return "stable";
+  if (channel === "beta" || /\bbeta\b/.test(version)) return "developer-beta";
   return "stable";
 }
 
@@ -103,43 +111,43 @@ function fullReleaseTitle(release) {
   return title.startsWith(`${release.platform} `) ? title : `${release.platform} ${title}`;
 }
 
-function numericVersion(version) {
-  return String(version || "").match(/^\d+(?:\.\d+){0,2}/)?.[0] || "";
+function numericVersion(value) {
+  return String(value || "").match(/^\d+(?:\.\d+){0,2}/)?.[0] || "";
 }
 
-function majorVersion(version) {
-  return numericVersion(version).split(".")[0] || "";
-}
-
-function releaseSeries(version) {
-  const parts = numericVersion(version).split(".").filter(Boolean);
-  return parts.slice(0, 2).join(".");
+function majorVersion(value) {
+  return numericVersion(value).split(".")[0] || "";
 }
 
 function identity(release) {
-  return [release.platform, release.version, release.build, release.releasedAt, channelOf(release)].join("|");
+  return [
+    release.platform,
+    release.version,
+    release.build,
+    release.releasedAt,
+    channelOf(release),
+  ].join("|");
 }
 
 function completeFeatures(release) {
   const exact = OFFICIAL_NOTES[release.platform]?.[numericVersion(release.version)];
-  return exact ? [...exact] : [...(release.features || [])];
+  if (exact) return [...exact];
+  return Array.isArray(release.features) ? [...release.features] : [];
 }
 
-function removeRepeatedFeatures(rows) {
-  const previousBySeries = new Map();
-  const changedByRelease = new Map();
+function removeRepeatedBetaFeatures(rows) {
+  const previousByVersionAndChannel = new Map();
+  const featuresByRelease = new Map();
   const chronological = [...rows].sort((a, b) => {
     const date = a.releasedAt.localeCompare(b.releasedAt);
     if (date) return date;
     const platform = a.platform.localeCompare(b.platform);
     if (platform) return platform;
-    const series = releaseSeries(a.version).localeCompare(releaseSeries(b.version), undefined, {
+    const version = numericVersion(a.version).localeCompare(numericVersion(b.version), undefined, {
       numeric: true,
     });
-    if (series) return series;
-    const channel = CHANNEL_ORDER[channelOf(a)] - CHANNEL_ORDER[channelOf(b)];
-    if (channel) return channel;
-    return releaseTitle(a).localeCompare(releaseTitle(b), undefined, { numeric: true });
+    if (version) return version;
+    return CHANNEL_ORDER[channelOf(a)] - CHANNEL_ORDER[channelOf(b)];
   });
 
   for (const release of chronological) {
@@ -147,28 +155,27 @@ function removeRepeatedFeatures(rows) {
     const complete = completeFeatures(release);
 
     if (channel === "rc" || channel === "stable") {
-      changedByRelease.set(identity(release), complete);
+      featuresByRelease.set(identity(release), complete);
       continue;
     }
 
-    const key = [release.platform, releaseSeries(release.version)].join("|");
-    const previous = previousBySeries.get(key) || new Set();
-    changedByRelease.set(
-      identity(release),
-      complete.filter((feature) => !previous.has(feature)),
-    );
-    previousBySeries.set(key, new Set(complete));
+    const key = [release.platform, numericVersion(release.version), channel].join("|");
+    const previous = previousByVersionAndChannel.get(key) || new Set();
+    const changed = complete.filter((feature) => !previous.has(feature));
+    featuresByRelease.set(identity(release), changed);
+    previousByVersionAndChannel.set(key, new Set(complete));
   }
 
   return rows.map((release) => ({
     ...release,
     channel: channelOf(release),
-    features: changedByRelease.get(identity(release)) || [],
+    features: featuresByRelease.get(identity(release)) || [],
   }));
 }
 
-function latestLinkTargets(rows) {
+function findLatestLinkTargets(rows) {
   const latestDates = new Map();
+
   for (const release of rows) {
     const major = majorVersion(release.version);
     if (!major) continue;
@@ -187,81 +194,87 @@ function latestLinkTargets(rows) {
   );
 }
 
-function matches(release, query) {
-  return (
-    !query ||
-    [
-      release.platform,
-      releaseTitle(release),
-      release.build,
-      channelLabel(channelOf(release)),
-      ...(release.features || []),
-    ]
-      .join(" ")
-      .toLowerCase()
-      .includes(query)
-  );
+function matchesSearch(release, query) {
+  if (!query) return true;
+  return [
+    release.platform,
+    releaseTitle(release),
+    release.build,
+    channelLabel(channelOf(release)),
+    ...(release.features || []),
+  ]
+    .join(" ")
+    .toLowerCase()
+    .includes(query);
 }
 
-function detail(release) {
+function detailElement(release) {
   const element = document.createElement("section");
   element.className = "release-platform-item";
   element.innerHTML =
     '<div class="release-platform-head"><div><p class="release-platform"></p><h3></h3></div><div class="release-platform-meta"><span class="release-build"></span><time></time></div></div><ul class="release-features"></ul>';
+
   element.querySelector(".release-platform").textContent = release.platform;
   element.querySelector("h3").textContent = fullReleaseTitle(release);
-  element.querySelector(".release-build").textContent = release.build;
-  element.querySelector("time").textContent = fmt(release.releasedAt);
+  element.querySelector(".release-build").textContent = release.build || "—";
+  element.querySelector("time").textContent = formatDate(release.releasedAt);
 
-  const list = element.querySelector("ul");
-  (release.features || []).forEach((feature) => {
+  const featureList = element.querySelector(".release-features");
+  for (const feature of release.features || []) {
     const item = document.createElement("li");
     item.textContent = feature;
-    list.append(item);
-  });
-  if (!list.children.length) list.remove();
+    featureList.append(item);
+  }
+  if (!featureList.children.length) featureList.remove();
 
-  if (H.has(identity(release))) {
+  if (latestLinkTargets.has(identity(release))) {
     const links = document.createElement("div");
     links.className = "release-links";
 
-    const apple = document.createElement("a");
-    apple.href = release.sourceUrl;
-    apple.target = "_blank";
-    apple.rel = "noopener";
-    apple.textContent = "Apple公式 ↗";
+    if (release.sourceUrl) {
+      const apple = document.createElement("a");
+      apple.href = release.sourceUrl;
+      apple.target = "_blank";
+      apple.rel = "noopener";
+      apple.textContent = "Apple公式 ↗";
+      links.append(apple);
+    }
 
     const profiles = document.createElement("a");
     profiles.href = "https://betaprofiles.dev/";
     profiles.target = "_blank";
     profiles.rel = "noopener";
     profiles.textContent = "Beta Profiles ↗";
+    links.append(profiles);
 
-    links.append(apple, profiles);
     element.append(links);
   }
 
   return element;
 }
 
-function grouped(rows) {
+function groupRows(rows) {
   const groups = new Map();
+
   for (const release of rows) {
     const channel = channelOf(release);
-    const displayTitle = releaseTitle(release);
-    const key = `${channel}|${displayTitle.toLowerCase()}`;
+    const title = releaseTitle(release);
+    const key = `${channel}|${title.toLowerCase()}`;
+
     if (!groups.has(key)) {
       groups.set(key, {
-        version: displayTitle,
+        version: title,
         channel,
         releasedAt: release.releasedAt,
         items: [],
       });
     }
+
     const group = groups.get(key);
     group.items.push(release);
     if (release.releasedAt > group.releasedAt) group.releasedAt = release.releasedAt;
   }
+
   return [...groups.values()].sort(
     (a, b) =>
       b.releasedAt.localeCompare(a.releasedAt) ||
@@ -269,88 +282,118 @@ function grouped(rows) {
   );
 }
 
-function groupCard(group) {
+function groupElement(group) {
   const details = document.createElement("details");
   details.className = "release-group";
+
   const summary = document.createElement("summary");
   summary.className = "release-group-summary";
   summary.innerHTML =
     '<div><p class="release-platform"></p><h2></h2><div class="release-badges"><span class="release-badge"></span></div></div><div class="release-group-side"><time></time><span class="release-count"></span><span class="release-chevron" aria-hidden="true"></span></div>';
-  const platformLabel = P === "すべて" ? "OS" : P;
-  summary.querySelector(".release-platform").textContent = platformLabel;
-  summary.querySelector("h2").textContent = P === "すべて" ? group.version : `${P} ${group.version}`;
+
+  summary.querySelector(".release-platform").textContent =
+    selectedPlatform === "すべて" ? "OS" : selectedPlatform;
+  summary.querySelector("h2").textContent =
+    selectedPlatform === "すべて" ? group.version : `${selectedPlatform} ${group.version}`;
 
   const badge = summary.querySelector(".release-badge");
   badge.textContent = channelLabel(group.channel);
   badge.classList.add(group.channel);
 
-  summary.querySelector("time").textContent = fmt(group.releasedAt);
+  summary.querySelector("time").textContent = formatDate(group.releasedAt);
   summary.querySelector(".release-count").textContent = `${group.items.length} OS`;
   details.append(summary);
 
   const body = document.createElement("div");
   body.className = "release-group-body";
   group.items
-    .sort((a, b) => PS.indexOf(a.platform) - PS.indexOf(b.platform))
-    .forEach((release) => body.append(detail(release)));
+    .sort((a, b) => PLATFORMS.indexOf(a.platform) - PLATFORMS.indexOf(b.platform))
+    .forEach((release) => body.append(detailElement(release)));
   details.append(body);
+
   return details;
 }
 
 function draw() {
-  const query = Q.value.trim().toLowerCase();
-  const rows = A.filter(
+  const query = searchElement.value.trim().toLowerCase();
+  const rows = releases.filter(
     (release) =>
-      (P === "すべて" || release.platform === P) && matches(release, query),
+      (selectedPlatform === "すべて" || release.platform === selectedPlatform) &&
+      matchesSearch(release, query),
   );
-  const groups = grouped(rows);
-  L.replaceChildren(...groups.map(groupCard));
+  const groups = groupRows(rows);
+
+  listElement.replaceChildren(...groups.map(groupElement));
   if (!groups.length) {
-    L.innerHTML = '<div class="empty-state">該当するリリースがありません。</div>';
+    listElement.innerHTML = '<div class="empty-state">該当するリリースがありません。</div>';
   }
-  T.textContent =
-    P === "すべて"
+
+  statusElement.textContent =
+    selectedPlatform === "すべて"
       ? `${groups.length}リリース・${rows.length}項目`
       : `${rows.length}件`;
 }
 
-function buttons() {
-  F.replaceChildren();
-  PS.forEach((name) => {
+function buildFilters() {
+  filterElement.replaceChildren();
+
+  for (const name of PLATFORMS) {
     const button = document.createElement("button");
     button.type = "button";
-    button.className = `filter-button${name === P ? " active" : ""}`;
+    button.className = `filter-button${name === selectedPlatform ? " active" : ""}`;
     button.textContent = name;
-    button.onclick = () => {
-      P = name;
-      F.querySelectorAll("button").forEach((item) =>
-        item.classList.toggle("active", item === button),
-      );
+    button.addEventListener("click", () => {
+      selectedPlatform = name;
+      filterElement.querySelectorAll("button").forEach((item) => {
+        item.classList.toggle("active", item === button);
+      });
       draw();
-    };
-    F.append(button);
-  });
+    });
+    filterElement.append(button);
+  }
 }
 
-Q.oninput = draw;
-fetch("./data/releases.json")
-  .then((response) => {
-    if (!response.ok) throw Error(response.status);
-    return response.json();
-  })
-  .then((data) => {
-    const releases = (data.releases || []).filter(
+async function fetchReleaseData() {
+  let lastError;
+
+  for (const url of DATA_URLS) {
+    try {
+      const response = await fetch(url, { cache: "no-store" });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      const data = await response.json();
+      if (!Array.isArray(data.releases)) throw new Error("Invalid release data");
+      return data.releases;
+    } catch (error) {
+      lastError = error;
+    }
+  }
+
+  throw lastError || new Error("Release data could not be loaded");
+}
+
+async function initialize() {
+  try {
+    const loaded = await fetchReleaseData();
+    const valid = loaded.filter(
       (release) =>
-        release.platform !== "AirPods" && /^2[67](?:\.|$)/.test(release.version),
+        release &&
+        typeof release.platform === "string" &&
+        typeof release.version === "string" &&
+        typeof release.releasedAt === "string" &&
+        release.platform !== "AirPods" &&
+        /^2[67](?:\.|$)/.test(release.version),
     );
-    A = removeRepeatedFeatures(releases);
-    H = latestLinkTargets(A);
-    buttons();
+
+    releases = removeRepeatedBetaFeatures(valid);
+    latestLinkTargets = findLatestLinkTargets(releases);
+    buildFilters();
     draw();
-  })
-  .catch((error) => {
+  } catch (error) {
     console.error(error);
-    T.textContent = "読み込みエラー";
-    L.innerHTML =
-      '<div class="empty-state">配信情報を読み込めませんでした。</div>';
-  });
+    statusElement.textContent = "読み込みエラー";
+    listElement.innerHTML = '<div class="empty-state">配信情報を読み込めませんでした。</div>';
+  }
+}
+
+searchElement.addEventListener("input", draw);
+initialize();
