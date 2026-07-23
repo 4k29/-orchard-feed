@@ -280,9 +280,9 @@ function card(product) {
     fact("発売日", date(product.released)),
     fact("チップ", product.chips.join(" / ")),
     fact("ストレージ", product.storage.join(" / ")),
+    fact("初期OS", product.initialOS),
+    fact("価格", product.prices.join(" → ")),
   ];
-  if (!["AirPods", "AirTag"].includes(product.category)) facts.push(fact("初期OS", product.initialOS));
-  facts.push(fact(product.priceHistory ? "価格履歴" : "発売時価格", product.prices.join(product.priceHistory ? " → " : " / ")));
   card.querySelector(".product-facts").append(...facts);
   const colors = card.querySelector(".color-list");
   product.colors.slice(0, 12).forEach((color) => {
@@ -348,7 +348,7 @@ function button(name, active, onClick, count = null) {
   return element;
 }
 function sortOptions(values, mode) {
-  if (mode === "size") return values.sort((a, b) => Number(b) - Number(a));
+  if (mode === "size") return values.sort((a, b) => parseFloat(b) - parseFloat(a));
   if (mode === "chip") {
     const rank = (value) => value.startsWith("M") ? Number(value.slice(1)) : 100 + Number(value.slice(1));
     return values.sort((a, b) => rank(a) - rank(b));
