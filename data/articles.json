@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "c47a3021c025f8080f91",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Foldable iPhone Still Faces Production Hurdles, Report Says",
+      "url": "https://www.macrumors.com/2026/07/23/foldable-iphone-still-faces-production-hurdles/",
+      "publishedAt": "2026-07-23T12:18:17.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみiPhone、製造に課題か",
+      "summaryJa": "Appleの折りたたみiPhoneは、製造上の課題に直面しており、正確な発売時期が未定との報道があります。Foxconnが最終的な量産調整を行っているものの、エンジニアリング検証段階での遅れが1〜2ヶ月生じている可能性が指摘されています。折りたたみiPhoneは、iPhone 18 Proモデルと同時に9月に発表される見込みで、7.7〜7.8インチの内蔵ディスプレイと5.5インチのカバー画面を備え、価格は2,000ドル以上になるとされています。"
+    },
+    {
       "id": "ec1f26e298b14dc7c0c4",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -2566,7 +2581,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-23T11:56:27.486Z",
+  "updatedAt": "2026-07-23T12:19:44.694Z",
   "initialized": true,
   "summaryVersion": 4
 }
