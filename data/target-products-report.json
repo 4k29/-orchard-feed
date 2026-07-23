@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-23T07:53:57.434Z",
+  "updatedAt": "2026-07-23T07:56:36.756Z",
   "metadataWarnings": [],
   "summary": {
     "products": 188,
     "targets": 140,
     "missingDocs": 2,
     "missingPrices": 28,
-    "missingPriceDates": 16,
+    "missingPriceDates": 29,
     "duplicateKeys": 0,
     "airPods": 12,
     "watches": 18,
@@ -880,6 +880,242 @@
   ],
   "missingPriceDates": [
     {
+      "name": "iPad Air 13インチ（M4）",
+      "family": "iPad",
+      "released": "2026-03-11",
+      "prices": [
+        "128,800円～",
+        "169,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "M4"
+      ],
+      "models": [
+        "A3461",
+        "A3462",
+        "A3464"
+      ],
+      "identifiers": [
+        "iPad16,10",
+        "iPad16,11"
+      ],
+      "colors": [
+        {
+          "name": "Blue",
+          "hex": "BBCFD0"
+        },
+        {
+          "name": "Purple",
+          "hex": "CAC1CD"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "5B5A5C"
+        },
+        {
+          "name": "Starlight",
+          "hex": "CAC4BA"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/126472",
+      "documentationDirect": true
+    },
+    {
+      "name": "iPad Air 11インチ（M4）",
+      "family": "iPad",
+      "released": "2026-03-11",
+      "prices": [
+        "98,800円～",
+        "129,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "M4"
+      ],
+      "models": [
+        "A3459",
+        "A3460",
+        "A3463"
+      ],
+      "identifiers": [
+        "iPad16,8",
+        "iPad16,9"
+      ],
+      "colors": [
+        {
+          "name": "Blue",
+          "hex": "BBCFD0"
+        },
+        {
+          "name": "Purple",
+          "hex": "CAC1CD"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "5B5A5C"
+        },
+        {
+          "name": "Starlight",
+          "hex": "CAC4BA"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/126471",
+      "documentationDirect": true
+    },
+    {
+      "name": "iPad Pro 13インチ（M5）",
+      "family": "iPad",
+      "released": "2025-10-22",
+      "prices": [
+        "218,800円～",
+        "269,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "M5"
+      ],
+      "models": [
+        "A3360",
+        "A3361",
+        "A3362"
+      ],
+      "identifiers": [
+        "iPad17,3",
+        "iPad17,4"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "BEBFC0"
+        },
+        {
+          "name": "Space Black",
+          "hex": "262326"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/125407",
+      "documentationDirect": true
+    },
+    {
+      "name": "iPad Pro 11インチ（M5）",
+      "family": "iPad",
+      "released": "2025-10-22",
+      "prices": [
+        "168,800円～",
+        "209,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "M5"
+      ],
+      "models": [
+        "A3357",
+        "A3358",
+        "A3359"
+      ],
+      "identifiers": [
+        "iPad17,1",
+        "iPad17,2"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "BEBFC0"
+        },
+        {
+          "name": "Space Black",
+          "hex": "262326"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/125406",
+      "documentationDirect": true
+    },
+    {
+      "name": "iPad（A16）",
+      "family": "iPad",
+      "released": "2025-03-12",
+      "prices": [
+        "58,800円～",
+        "74,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "A16"
+      ],
+      "models": [
+        "A3354",
+        "A3355",
+        "A3356"
+      ],
+      "identifiers": [
+        "iPad15,7",
+        "iPad15,8"
+      ],
+      "colors": [
+        {
+          "name": "Blue",
+          "hex": "627E9C"
+        },
+        {
+          "name": "Pink",
+          "hex": "BE4D5F"
+        },
+        {
+          "name": "Silver",
+          "hex": "D0D1D3"
+        },
+        {
+          "name": "Yellow",
+          "hex": "CDB546"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/122240",
+      "documentationDirect": true
+    },
+    {
+      "name": "iPad mini（A17 Pro）",
+      "family": "iPad",
+      "released": "2024-10-23",
+      "prices": [
+        "78,800円～",
+        "99,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "A17 Pro"
+      ],
+      "models": [
+        "A2993",
+        "A2995",
+        "A2996"
+      ],
+      "identifiers": [
+        "iPad16,1",
+        "iPad16,2"
+      ],
+      "colors": [
+        {
+          "name": "Blue",
+          "hex": "9FB6B8"
+        },
+        {
+          "name": "Purple",
+          "hex": "C4BCC8"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "555456"
+        },
+        {
+          "name": "Starlight",
+          "hex": "CCC5BC"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/121456",
+      "documentationDirect": true
+    },
+    {
       "name": "MacBook Air（M2、2022）",
       "family": "Mac",
       "released": "2022-07-15",
@@ -916,6 +1152,53 @@
         }
       ],
       "documentationUrl": "https://support.apple.com/ja-jp/111867",
+      "documentationDirect": true
+    },
+    {
+      "name": "iPad Air（第5世代）",
+      "family": "iPad",
+      "released": "2022-03-18",
+      "prices": [
+        "74,800円～",
+        "84,800円～",
+        "92,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "M1"
+      ],
+      "models": [
+        "A2588",
+        "A2589",
+        "A2591"
+      ],
+      "identifiers": [
+        "iPad13,16",
+        "iPad13,17"
+      ],
+      "colors": [
+        {
+          "name": "Blue",
+          "hex": "648394"
+        },
+        {
+          "name": "Pink",
+          "hex": "B1A19C"
+        },
+        {
+          "name": "Purple",
+          "hex": "9695AB"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "3E3C44"
+        },
+        {
+          "name": "Starlight",
+          "hex": "CCC6BF"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/kb/SP866?locale=ja_JP",
       "documentationDirect": true
     },
     {
@@ -1269,6 +1552,41 @@
       "documentationDirect": true
     },
     {
+      "name": "iPad（第9世代）",
+      "family": "iPad",
+      "released": "2021-09-24",
+      "prices": [
+        "39,800円～",
+        "49,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "A13"
+      ],
+      "models": [
+        "A2602",
+        "A2603",
+        "A2604",
+        "A2605"
+      ],
+      "identifiers": [
+        "iPad12,1",
+        "iPad12,2"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "CCCDCF"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "515155"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/kb/SP849?locale=ja_JP",
+      "documentationDirect": true
+    },
+    {
       "name": "iPhone 13",
       "family": "iPhone",
       "released": "2021-09-24",
@@ -1316,6 +1634,49 @@
       "documentationDirect": true
     },
     {
+      "name": "iPad mini（第6世代）",
+      "family": "iPad",
+      "released": "2021-09-24",
+      "prices": [
+        "59,800円～",
+        "72,800円～",
+        "78,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "A15"
+      ],
+      "models": [
+        "A2567",
+        "A2568",
+        "A2569"
+      ],
+      "identifiers": [
+        "iPad14,1",
+        "iPad14,2"
+      ],
+      "colors": [
+        {
+          "name": "Pink",
+          "hex": "CAB8B8"
+        },
+        {
+          "name": "Purple",
+          "hex": "9898AB"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "585858"
+        },
+        {
+          "name": "Starlight",
+          "hex": "CEC8B8"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/kb/SP850?locale=ja_JP",
+      "documentationDirect": true
+    },
+    {
       "name": "iPhone 13 mini",
       "family": "iPhone",
       "released": "2021-09-24",
@@ -1360,6 +1721,80 @@
         }
       ],
       "documentationUrl": "https://support.apple.com/ja-jp/111873",
+      "documentationDirect": true
+    },
+    {
+      "name": "iPad Pro 12.9インチ（第5世代）",
+      "family": "iPad",
+      "released": "2021-05-21",
+      "prices": [
+        "129,800円～",
+        "159,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "M1"
+      ],
+      "models": [
+        "A2379",
+        "A2461",
+        "A2462",
+        "A2378"
+      ],
+      "identifiers": [
+        "iPad13,10",
+        "iPad13,8",
+        "iPad13,11",
+        "iPad13,9"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "B4B5B6"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "343539"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/kb/SP844?locale=ja_JP",
+      "documentationDirect": true
+    },
+    {
+      "name": "iPad Pro 11インチ（第3世代）",
+      "family": "iPad",
+      "released": "2021-05-21",
+      "prices": [
+        "94,800円～",
+        "117,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "M1"
+      ],
+      "models": [
+        "A2377",
+        "A2301",
+        "A2459",
+        "A2460"
+      ],
+      "identifiers": [
+        "iPad13,4",
+        "iPad13,6",
+        "iPad13,5",
+        "iPad13,7"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "B4B5B6"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "38383D"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/kb/SP843?locale=ja_JP",
       "documentationDirect": true
     },
     {
@@ -1501,6 +1936,80 @@
         }
       ],
       "documentationUrl": "https://support.apple.com/ja-jp/111856",
+      "documentationDirect": true
+    },
+    {
+      "name": "iPad（第4世代）",
+      "family": "iPad",
+      "released": "2012-11-02",
+      "prices": [
+        "42,800円～",
+        "49,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "A6X"
+      ],
+      "models": [
+        "A1458",
+        "A1459",
+        "A1460"
+      ],
+      "identifiers": [
+        "iPad3,4",
+        "iPad3,5",
+        "iPad3,6"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "000000"
+        },
+        {
+          "name": "White",
+          "hex": "F4F4F4"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/kb/SP662?locale=ja_JP",
+      "documentationDirect": true
+    },
+    {
+      "name": "iPad mini",
+      "family": "iPad",
+      "released": "2012-11-02",
+      "prices": [
+        "28,800円～",
+        "32,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "A5"
+      ],
+      "models": [
+        "A1432",
+        "A1454",
+        "A1455"
+      ],
+      "identifiers": [
+        "iPad2,5",
+        "iPad2,6",
+        "iPad2,7"
+      ],
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "404246"
+        },
+        {
+          "name": "White & Silver",
+          "hex": "A2A3A4"
+        },
+        {
+          "name": "Black & Slate",
+          "hex": "414245"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/kb/SP661?locale=ja_JP",
       "documentationDirect": true
     }
   ],
