@@ -1,5 +1,5 @@
 .feed-heading {
-  padding-bottom: 20px;
+  margin-bottom: 28px;
 }
 
 .feed-tools {
@@ -168,9 +168,13 @@
 }
 
 @media (max-width: 640px) {
+  .feed-heading {
+    margin-bottom: 24px;
+  }
+
   .feed-tools {
     display: grid;
-    grid-template-columns: auto minmax(0, 1fr);
+    grid-template-columns: minmax(0, 1fr) auto;
     width: 100%;
   }
 
