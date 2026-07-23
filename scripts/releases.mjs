@@ -171,6 +171,7 @@ function source(platform, major) {
 function displayVersion(product) {
   let version = String(product.version)
     .replace(/release candidate/gi, "RC")
+    .replace(/\bbeta$/i, "beta 1")
     .replace(/\s+/g, " ")
     .trim();
   if (product.rc && !/\brc\b/i.test(version)) version += " RC";
