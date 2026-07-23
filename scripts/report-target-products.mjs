@@ -37,7 +37,7 @@ for (const product of targets) {
 const duplicateKeys = [...keyCounts].filter(([, count]) => count > 1).map(([key, count]) => ({ key, count }));
 const missingDocs = targets.filter((product) => !product.documentationDirect || !product.documentationUrl).map(compact);
 const missingPrices = targets.filter((product) => !(product.prices || []).length).map(compact);
-const missingPriceDates = targets.filter((product) => {
+const missingPriceDates = rows.filter((product) => {
   const prices = product.prices || [];
   return prices.length > 1 && prices.slice(1).some((price) => !/\(\d{2}\/\d{1,2}\/\d{1,2}\)$/.test(String(price)));
 }).map(compact);
