@@ -44,4 +44,4 @@ jobs:
           git commit -m "Update Apple product database"
           git pull --rebase origin main
           git push origin HEAD:main
-# Product records include verified prices, normalized product lines, and Apple documentation links.
+# Final validation covers price revision dates, mobile layout, and product metadata.
