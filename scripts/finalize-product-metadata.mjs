@@ -2,8 +2,9 @@ import fs from "node:fs";
 
 const input = process.argv[2] || "data/products.json";
 const data = JSON.parse(fs.readFileSync(input, "utf8"));
-const yen = (value, tax = "税込") => `${Number(value).toLocaleString("ja-JP")}円（${tax}）～`;
-const dated = (value, date, tax = "税込") => `${yen(value, tax)}(${date})`;
+const shortDate = (value) => String(value).replace(/^20(\d{2})\//, "$1/");
+const yen = (value, tax = "") => `${Number(value).toLocaleString("ja-JP")}円${tax === "税別" ? "（税別）" : ""}～`;
+const dated = (value, date, tax = "") => `${yen(value, tax)}(${shortDate(date)})`;
 const setPrices = (product, prices, source = "Apple Newsroom（日本）・Apple Store（日本）") => {
   product.prices = prices;
   product.priceHistory = prices.length > 1;
@@ -86,9 +87,12 @@ function setMacBookPrices(product) {
 function normalizeExistingPrices(product) {
   if (!product.prices?.length) return;
   product.prices = product.prices.map((price) => {
-    const text = String(price).replace(/〜/g, "～");
+    const text = String(price)
+      .replace(/（税込）/g, "")
+      .replace(/〜/g, "～")
+      .replace(/\(20(\d{2})\/(\d{1,2})\/(\d{1,2})\)/g, "($1/$2/$3)");
     if (/～(?:\([^)]*\))?$/.test(text)) return text;
-    const dateMatch = text.match(/\((\d{4}\/\d{1,2}\/\d{1,2})\)$/);
+    const dateMatch = text.match(/\((\d{2}\/\d{1,2}\/\d{1,2})\)$/);
     if (dateMatch) return `${text.slice(0, dateMatch.index)}～(${dateMatch[1]})`;
     return `${text}～`;
   });
@@ -115,6 +119,7 @@ for (const product of data.products || []) {
   if (maxColors[name]) product.colors = maxColors[name].map(([colorName, hex]) => ({ name: colorName, hex }));
 
   normalizeExistingPrices(product);
+  if (/^(?:AirPods|AirTag)\b/.test(name)) product.priceHistory = true;
   products.push(product);
 }
 
