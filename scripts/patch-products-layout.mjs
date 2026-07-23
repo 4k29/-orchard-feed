@@ -3,34 +3,7 @@ import fs from "node:fs";
 const file = process.argv[2] || "site/products.js";
 let source = fs.readFileSync(file, "utf8");
 
-const candidates = [
-`  const facts = [
-    fact("発売日", date(product.released)),
-    fact("チップ", product.chips.join(" / ")),
-    fact("ストレージ", product.storage.join(" / ")),
-  ];
-  if (!["AirPods", "AirTag"].includes(product.category)) facts.push(fact("初期OS", product.initialOS));
-  facts.push(fact(product.priceHistory ? "価格履歴" : "発売時価格", product.prices.join(product.priceHistory ? " → " : " / ")));
-  card.querySelector(".product-facts").append(...facts);`,
-`  const facts = [
-    fact("発売日", date(product.released)),
-    fact("チップ", product.chips.join(" / ")),
-    fact("ストレージ", product.storage.join(" / ")),
-    fact("初期OS", product.initialOS),
-    fact("価格", product.prices.join(" → ")),
-  ];
-  card.querySelector(".product-facts").append(...facts);`,
-`  const facts = [
-    fact("発売日", date(product.released)),
-    fact("チップ", product.chips.join(" / ")),
-    fact("ストレージ", product.storage.join(" / ")),
-    fact("初期OS", product.initialOS),
-    fact(product.priceHistory ? "価格履歴" : "発売時価格", product.prices.join(" → ")),
-  ];
-  card.querySelector(".product-facts").append(...facts);`,
-];
-
-const desired = `  const facts = [
+const facts = `  const facts = [
     fact("発売日", date(product.released)),
     fact("チップ", product.chips.join(" / ")),
     fact("ストレージ", product.storage.join(" / ")),
@@ -38,36 +11,36 @@ const desired = `  const facts = [
   ];
   card.querySelector(".product-facts").append(...facts);`;
 
-if (!source.includes(desired)) {
-  const current = candidates.find((candidate) => source.includes(candidate));
-  if (!current) throw new Error("Product fact layout block was not found.");
-  source = source.replace(current, desired);
+if (!source.includes(facts)) {
+  const factsPattern = /  const facts = \[[\s\S]*?  card\.querySelector\("\.product-facts"\)\.append\(\.\.\.facts\);/;
+  if (!factsPattern.test(source)) throw new Error("Product fact layout block was not found.");
+  source = source.replace(factsPattern, facts);
 }
 
-const detailsLegacy = `  const details = card.querySelector(".product-details");
-  details.querySelector("dl").append(
+const details = `  const details = card.querySelector(".product-details");
+  const detailFacts = [];
+  if (!["AirPods", "AirTag"].includes(product.category)) {
+    detailFacts.push(fact("初期OS", product.initialOS));
+  }
+  detailFacts.push(
     fact("販売終了", date(product.discontinued)),
     fact("日本向けモデル番号", product.models.join(", ")),
     fact("識別子", product.identifiers.join(", ")),
-  );`;
+  );
+  details.querySelector("dl").append(...detailFacts);`;
 
-const detailsDesired = `  const details = card.querySelector(".product-details");
-  details.querySelector("dl").append(
-    fact("初期OS", product.initialOS),
-    fact("販売終了", date(product.discontinued)),
-    fact("日本向けモデル番号", product.models.join(", ")),
-    fact("識別子", product.identifiers.join(", ")),
-  );`;
-
-if (!source.includes(detailsDesired)) {
-  if (!source.includes(detailsLegacy)) throw new Error("Product details block was not found.");
-  source = source.replace(detailsLegacy, detailsDesired);
+if (!source.includes(details)) {
+  const detailsPattern = /  const details = card\.querySelector\("\.product-details"\);\n(?:  const detailFacts = \[\];\n(?:[\s\S]*?)  details\.querySelector\("dl"\)\.append\(\.\.\.detailFacts\);|  details\.querySelector\("dl"\)\.append\([\s\S]*?\n  \);)/;
+  if (!detailsPattern.test(source)) throw new Error("Product details block was not found.");
+  source = source.replace(detailsPattern, details);
 }
 
-source = source.replace(
-  'if (mode === "size") return values.sort((a, b) => Number(b) - Number(a));',
-  'if (mode === "size") return values.sort((a, b) => parseFloat(b) - parseFloat(a));',
-);
+source = source
+  .replace(
+    'if (mode === "size") return values.sort((a, b) => Number(b) - Number(a));',
+    'if (mode === "size") return values.sort((a, b) => parseFloat(b) - parseFloat(a));',
+  )
+  .replace('fetch(U, { cache: "no-store" })', "fetch(U)");
 
 fs.writeFileSync(file, source);
-console.log("Aligned product facts and moved the initial OS into product details.");
+console.log("Optimized product rendering and enabled browser caching.");
