@@ -1,6 +1,7 @@
 const osFilter = document.querySelector("#release-filter");
 const osSearch = document.querySelector("#release-search");
 const osSearchClear = document.querySelector("#release-search-clear");
+const osReleaseList = document.querySelector("#release-list");
 
 function renameAllFilter() {
   const allButton = [...osFilter.querySelectorAll("button")].find(
@@ -17,6 +18,17 @@ if (!renameAllFilter()) {
   });
   filterObserver.observe(osFilter, { childList: true });
 }
+
+function renameBetaBadges() {
+  osReleaseList.querySelectorAll(".release-badge").forEach((badge) => {
+    if (badge.textContent.trim() === "Dev β") badge.textContent = "Dev Beta";
+    if (badge.textContent.trim() === "Pub β") badge.textContent = "Pub Beta";
+  });
+}
+
+const releaseObserver = new MutationObserver(renameBetaBadges);
+releaseObserver.observe(osReleaseList, { childList: true, subtree: true });
+renameBetaBadges();
 
 function syncSearchClear() {
   osSearchClear.hidden = !osSearch.value;
