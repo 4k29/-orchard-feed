@@ -25,6 +25,10 @@
   padding-bottom: 0;
 }
 
+.product-family {
+  text-transform: none;
+}
+
 @media (max-width: 640px) {
   .filter-group {
     grid-template-columns: 1fr;
