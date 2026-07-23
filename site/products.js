@@ -26,29 +26,32 @@ function category(product) {
 function isPart(product) {
   const name = product.name || "";
   const family = product.family || "";
+  const text = `${name} ${family}`;
   if (/software|application/i.test(family)) return true;
   if (/(^|[ (])(left|right)([ )]|$)/i.test(name)) return true;
   if (/\bdock\b|raid card|superdrive|developer transition kit|virtual machine|riser|diagnostic dock|restore dock/i.test(name)) return true;
   if (!/^PowerBook\b/i.test(name) && /\bkeyboard\b/i.test(name)) return true;
   if (!/^airpods\b/i.test(name) && /charging case|smart case|battery case|\bcase\b/i.test(name)) return true;
-  return /battery|cable|adapter|charger|replacement|service part|logic board|display unit|demo unit|prototype|unreleased|unknown|module|bracelet|store panel|housing|enclosure|bumper|magic keyboard|keyboard folio|magsafe wallet|wallet with magsafe|ssd (?:kit|upgrade)|storage upgrade|upgrade kit|iphone pocket/i.test(
-    `${name} ${family}`,
-  );
+  if (/iphone/i.test(name) && /leather sleeve|\bsleeve\b|silicone case|clear case|finewoven case|smart battery case/i.test(name)) return true;
+  return /battery|cable|adapter|charger|replacement|service part|logic board|display unit|demo unit|prototype|unreleased|unknown|module|bracelet|store panel|housing|enclosure|bumper|magic keyboard|keyboard folio|magsafe wallet|wallet with magsafe|ssd (?:kit|upgrade)|storage upgrade|upgrade kit|iphone pocket/i.test(text);
+}
+
+function stripRegionalSuffixes(value) {
+  return String(value || "")
+    .replace(/\s*[（(](?:GSM|CDMA|Global|China(?: Mainland)?|Japan|Verizon|AT&T|Sprint|T-Mobile|Rest of World|ROW)(?:[^）)]*)[）)]\s*/gi, " ")
+    .replace(/\s*[-–—]\s*(?:GSM|CDMA|Global)\s*$/gi, " ");
 }
 
 function japaneseName(value, family) {
-  let name = String(value || "")
+  let name = stripRegionalSuffixes(value)
     .replace(/\s+with\s+.*charging case.*$/i, "")
-    .replace(/\s*\((?:left|right)[^)]*\)\s*/gi, " ")
+    .replace(/\s*[（(](?:left|right)[^）)]*[）)]\s*/gi, " ")
     .trim();
   name = name
     .replace(/\b(\d+)(?:st|nd|rd|th) generation\b/gi, "第$1世代")
     .replace(/\b(\d+(?:\.\d+)?)-inch\b/gi, "$1インチ");
   if (family === "Apple Watch") {
-    name = name.replace(
-      /\s*\([^)]*(?:\d+mm|GPS|Cellular|Aluminum|Titanium|Stainless|Nike|Hermès)[^)]*\)/gi,
-      "",
-    );
+    name = name.replace(/\s*[（(][^）)]*(?:\d+mm|GPS|Cellular|Aluminum|Titanium|Stainless|Nike|Hermès)[^）)]*[）)]/gi, "");
   }
   if (family === "iPad") {
     name = name.replace(/,?\s*(?:Wi[‑-]Fi(?:\s*\+\s*Cellular)?|Cellular)\s*/gi, "");
@@ -65,6 +68,7 @@ function variantRank(product) {
   const name = product.name;
   if (product.category === "iPhone") {
     if (/Pro Max/i.test(name)) return 0;
+    if (/\bMax\b/i.test(name)) return 5;
     if (/\bPro\b/i.test(name)) return 10;
     if (/\b(?:Air|Plus)\b/i.test(name)) return 20;
     if (/\bmini\b/i.test(name)) return 40;
@@ -87,6 +91,23 @@ function variantRank(product) {
   return 0;
 }
 
+function productSort(a, b) {
+  const yearOrder = (b.released || "").slice(0, 4).localeCompare((a.released || "").slice(0, 4));
+  if (yearOrder) return yearOrder;
+  if (a.category === "iPhone" && b.category === "iPhone") {
+    return (
+      variantRank(a) - variantRank(b) ||
+      (b.released || "").localeCompare(a.released || "") ||
+      a.name.localeCompare(b.name, "ja", { numeric: true })
+    );
+  }
+  return (
+    (b.released || "").localeCompare(a.released || "") ||
+    variantRank(a) - variantRank(b) ||
+    a.name.localeCompare(b.name, "ja", { numeric: true })
+  );
+}
+
 function mergeProducts(rows) {
   const grouped = new Map();
   for (const raw of rows) {
@@ -94,7 +115,7 @@ function mergeProducts(rows) {
     if (!family || isPart(raw)) continue;
     const name = japaneseName(raw.name, family);
     const year = (raw.released || "").slice(0, 4);
-    const key = [family, name, year].join("|");
+    const key = family === "iPhone" ? [family, name].join("|") : [family, name, year].join("|");
     const product = grouped.get(key) || {
       ...raw,
       name,
@@ -105,14 +126,22 @@ function mergeProducts(rows) {
       chips: [],
       models: [],
       identifiers: [],
+      initialOS: raw.initialOS || "",
+      documentationUrl: raw.documentationUrl || raw.officialSourceUrl || "",
+      documentationDirect: Boolean(raw.documentationDirect),
     };
-    product.released ||= raw.released;
-    product.discontinued ||= raw.discontinued;
+    product.released = [product.released, raw.released].filter(Boolean).sort()[0] || null;
+    product.discontinued = [product.discontinued, raw.discontinued].filter(Boolean).sort().at(-1) || null;
     product.prices = uniq([...product.prices, ...(raw.prices || [])]);
     product.storage = uniq([...product.storage, ...(raw.storage || [])]);
     product.chips = uniq([...product.chips, ...(raw.chips || [])]);
     product.models = uniq([...product.models, ...(raw.models || [])]);
     product.identifiers = uniq([...product.identifiers, ...(raw.identifiers || [])]);
+    product.initialOS ||= raw.initialOS;
+    if (raw.documentationDirect || !product.documentationUrl) {
+      product.documentationUrl = raw.documentationUrl || raw.officialSourceUrl || product.documentationUrl;
+      product.documentationDirect = Boolean(raw.documentationDirect);
+    }
     const colorMap = new Map(product.colors.map((color) => [color.name, color]));
     for (const color of raw.colors || []) {
       if (color?.name && !colorMap.has(color.name)) colorMap.set(color.name, color);
@@ -120,12 +149,7 @@ function mergeProducts(rows) {
     product.colors = [...colorMap.values()];
     grouped.set(key, product);
   }
-  return [...grouped.values()].sort(
-    (a, b) =>
-      (b.released || "").localeCompare(a.released || "") ||
-      variantRank(a) - variantRank(b) ||
-      a.name.localeCompare(b.name, "ja", { numeric: true }),
-  );
+  return [...grouped.values()].sort(productSort);
 }
 
 function date(value) {
@@ -155,6 +179,7 @@ function card(product) {
       fact("発売日", date(product.released)),
       fact("チップ", product.chips.join(" / ")),
       fact("ストレージ", product.storage.join(" / ")),
+      fact("初期OS", product.initialOS),
       fact("発売時価格", product.prices.join(" → ")),
     );
   const colors = card.querySelector(".color-list");
@@ -167,13 +192,25 @@ function card(product) {
     colors.append(item);
   });
   if (!product.colors.length) colors.hidden = true;
-  card
-    .querySelector(".product-details dl")
+  const details = card.querySelector(".product-details");
+  details
+    .querySelector("dl")
     .append(
       fact("販売終了", date(product.discontinued)),
       fact("日本向けモデル番号", product.models.join(", ")),
       fact("識別子", product.identifiers.join(", ")),
     );
+  if (product.documentationUrl) {
+    const links = document.createElement("div");
+    links.className = "release-links";
+    const link = document.createElement("a");
+    link.href = product.documentationUrl;
+    link.target = "_blank";
+    link.rel = "noopener";
+    link.textContent = product.documentationDirect ? "Appleの技術仕様を見る" : "Apple公式資料を検索";
+    links.append(link);
+    details.append(links);
+  }
   return card;
 }
 
@@ -181,6 +218,7 @@ function haystack(product) {
   return [
     product.name,
     product.family,
+    product.initialOS,
     ...product.chips,
     ...product.storage,
     ...product.models,
@@ -216,9 +254,7 @@ function buttons() {
     button.textContent = `${name} ${name === "すべて" ? S.a.length : S.a.filter((product) => product.category === name).length}`;
     button.onclick = () => {
       S.c = name;
-      F.querySelectorAll("button").forEach((item) =>
-        item.classList.toggle("active", item === button),
-      );
+      F.querySelectorAll("button").forEach((item) => item.classList.toggle("active", item === button));
       apply();
     };
     F.append(button);
