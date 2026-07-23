@@ -340,7 +340,9 @@ function card(product) {
 
   const details = card.querySelector(".product-details");
   const detailFacts = [];
-  if (!["AirPods", "AirTag"].includes(product.category)) detailFacts.push(fact("初期OS", product.initialOS));
+  if (!["AirPods", "AirTag"].includes(product.category)) {
+    detailFacts.push(fact("初期OS", product.initialOS));
+  }
   detailFacts.push(
     fact("販売終了", date(product.discontinued)),
     fact("日本向けモデル番号", product.models.join(", ")),
