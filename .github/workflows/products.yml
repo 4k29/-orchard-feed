@@ -7,6 +7,7 @@ on:
       - "scripts/apply-ipad-prices.mjs"
       - "scripts/apply-product-metadata.mjs"
       - "scripts/finalize-product-metadata.mjs"
+      - "scripts/patch-products-layout.mjs"
       - "scripts/report-target-products.mjs"
       - "site/products.js"
       - ".github/workflows/products.yml"
@@ -28,6 +29,7 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - run: node scripts/patch-products-layout.mjs site/products.js
       - run: node --check site/products.js
       - run: node scripts/products.mjs /tmp/appledb/deviceFiles data/products.json /tmp/appledb/osFiles
       - run: node scripts/apply-ipad-prices.mjs data/products.json
@@ -35,10 +37,10 @@ jobs:
       - run: node scripts/finalize-product-metadata.mjs data/products.json
       - run: node scripts/report-target-products.mjs data/products.json data/target-products-report.json
       - run: |
-          if git diff --quiet -- data/products.json data/target-products-report.json; then exit 0; fi
+          if git diff --quiet -- data/products.json data/target-products-report.json site/products.js; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/products.json data/target-products-report.json
+          git add data/products.json data/target-products-report.json site/products.js
           git commit -m "Update Apple product database"
           git pull --rebase origin main
           git push origin HEAD:main
