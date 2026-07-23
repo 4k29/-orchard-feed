@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="#0b0b0a">
-    <title>OSアップデート — Orchard</title>
+    <title>OS — Orchard</title>
+    <meta name="description" content="Apple OSの配信情報。">
     <link rel="icon" href="./icon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="./styles.css">
     <style>
@@ -37,7 +38,6 @@
       }
     </style>
     <script src="./releases.js" defer></script>
-    <script src="./release-labels.js" defer></script>
   </head>
   <body>
     <main class="site-shell">
@@ -51,9 +51,8 @@
       </header>
 
       <section class="intro">
-        <p class="eyebrow">Apple OS releases</p>
-        <h1>OSの配信日と、<br>変わったこと。</h1>
-        <p class="intro-copy">OS 26以降のDev Beta・Pub Beta・RC・正規版を、ひとつの時系列で確認できます。</p>
+        <p class="eyebrow">OS</p>
+        <h1>OS</h1>
       </section>
 
       <section>
@@ -64,14 +63,12 @@
           </div>
           <label class="search-field">
             <span class="sr-only">検索</span>
-            <input id="release-search" type="search" placeholder="OS、バージョン、新機能で検索">
+            <input id="release-search" type="search" placeholder="検索">
           </label>
         </div>
         <div class="release-filter" id="release-filter"></div>
         <div class="release-list" id="release-list"></div>
       </section>
-
-      <p class="release-note">配信日とビルドはBeta ProfilesとApple公式情報を参考にしています。ベータ版は不具合を含む場合があります。</p>
 
       <footer class="site-footer">
         <p>Orchard</p>
