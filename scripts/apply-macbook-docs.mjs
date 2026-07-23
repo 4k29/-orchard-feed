@@ -69,7 +69,6 @@ for (const product of data.products || []) {
   const url = docs.get(key);
   if (!url) {
     unmatched.push(`${product.name} [${key}]`);
-    products.push(product);
     continue;
   }
   product.documentationUrl = url;
@@ -79,12 +78,11 @@ for (const product of data.products || []) {
   updated += 1;
 }
 
-const result = {
-  updatedAt: new Date().toISOString(),
-  sources: data.sources || [],
-  count: products.length,
-  macbookDocsUnmatched: unmatched,
-  products,
-};
-fs.writeFileSync(file, `${JSON.stringify(result)}\n`);
-console.log(`MacBook links updated: ${updated}; pre-M-chip records removed: ${removed}; unmatched: ${unmatched.length}.`);
+if (unmatched.length) throw new Error(`MacBook documentation mapping missing: ${unmatched.join(" / ")}`);
+
+data.products = products;
+data.count = products.length;
+delete data.macbookDocsUnmatched;
+data.updatedAt = new Date().toISOString();
+fs.writeFileSync(file, `${JSON.stringify(data)}\n`);
+console.log(`MacBook links updated: ${updated}; pre-M-chip records removed: ${removed}.`);
