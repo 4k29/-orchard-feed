@@ -10,7 +10,6 @@ on:
       - "scripts/patch-products-layout.mjs"
       - "scripts/report-target-products.mjs"
       - "site/products.js"
-      - "site/product-data-overrides.js"
       - ".github/workflows/products.yml"
   schedule:
     - cron: "23 3 * * 1"
@@ -32,7 +31,6 @@ jobs:
       - run: npm ci
       - run: node scripts/patch-products-layout.mjs site/products.js
       - run: node --check site/products.js
-      - run: node --check site/product-data-overrides.js
       - run: node scripts/products.mjs /tmp/appledb/deviceFiles data/products.json /tmp/appledb/osFiles
       - run: node scripts/apply-ipad-prices.mjs data/products.json
       - run: node scripts/apply-product-metadata.mjs data/products.json
