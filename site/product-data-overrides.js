@@ -80,7 +80,7 @@
       return new Response(JSON.stringify(data), {
         status: response.status,
         statusText: response.statusText,
-        headers: response.headers,
+        headers: { "Content-Type": "application/json; charset=utf-8" },
       });
     } catch {
       return response;
