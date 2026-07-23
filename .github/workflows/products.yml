@@ -5,7 +5,7 @@ on:
     paths:
       - "scripts/products.mjs"
       - "scripts/apply-ipad-prices.mjs"
-      - "scripts/apply-macbook-docs.mjs"
+      - "scripts/apply-product-metadata.mjs"
       - "scripts/report-target-products.mjs"
       - ".github/workflows/products.yml"
   schedule:
@@ -28,7 +28,7 @@ jobs:
       - run: npm ci
       - run: node scripts/products.mjs /tmp/appledb/deviceFiles data/products.json /tmp/appledb/osFiles
       - run: node scripts/apply-ipad-prices.mjs data/products.json
-      - run: node scripts/apply-macbook-docs.mjs data/products.json
+      - run: node scripts/apply-product-metadata.mjs data/products.json
       - run: node scripts/report-target-products.mjs data/products.json data/target-products-report.json
       - run: |
           if git diff --quiet -- data/products.json data/target-products-report.json; then exit 0; fi
@@ -38,4 +38,4 @@ jobs:
           git commit -m "Update Apple product database"
           git pull --rebase origin main
           git push origin HEAD:main
-# Product records include verified iPad prices and Apple MacBook documentation links.
+# Product records include verified prices, normalized product lines, and Apple documentation links.
