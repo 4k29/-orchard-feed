@@ -281,7 +281,7 @@ function card(product) {
     fact("チップ", product.chips.join(" / ")),
     fact("ストレージ", product.storage.join(" / ")),
     fact("初期OS", product.initialOS),
-    fact("価格", product.prices.join(" → ")),
+    fact(product.priceHistory ? "価格履歴" : "発売時価格", product.prices.join(" → ")),
   ];
   card.querySelector(".product-facts").append(...facts);
   const colors = card.querySelector(".color-list");

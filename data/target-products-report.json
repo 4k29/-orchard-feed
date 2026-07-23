@@ -1,18 +1,60 @@
 {
-  "updatedAt": "2026-07-23T07:40:50.012Z",
+  "updatedAt": "2026-07-23T07:52:47.328Z",
   "metadataWarnings": [],
   "summary": {
     "products": 188,
-    "targets": 138,
-    "missingDocs": 0,
-    "missingPrices": 27,
+    "targets": 140,
+    "missingDocs": 2,
+    "missingPrices": 28,
+    "missingPriceDates": 16,
     "duplicateKeys": 0,
     "airPods": 12,
     "watches": 18,
     "macs": 56
   },
   "duplicateKeys": [],
-  "missingDocs": [],
+  "missingDocs": [
+    {
+      "name": "AirTag（第2世代）",
+      "family": "AirTag",
+      "released": "2026-01-28",
+      "prices": [
+        "1個 4,980円 / 4個 16,980円～"
+      ],
+      "priceHistory": true,
+      "chips": [],
+      "models": [
+        "A2937"
+      ],
+      "identifiers": [
+        "afw2,4"
+      ],
+      "colors": [],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirTag%EF%BC%88%E7%AC%AC2%E4%B8%96%E4%BB%A3%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
+      "name": "AirTag",
+      "family": "AirTag",
+      "released": "2021-04-30",
+      "prices": [],
+      "priceHistory": true,
+      "chips": [
+        "nRF52832"
+      ],
+      "models": [
+        "A2187"
+      ],
+      "identifiers": [
+        "AirTag1,1",
+        "afw1,5",
+        "Device1,21760"
+      ],
+      "colors": [],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirTag%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    }
+  ],
   "missingPrices": [
     {
       "name": "Mac Studio（M3 Ultra、2025）",
@@ -791,6 +833,27 @@
       "documentationDirect": true
     },
     {
+      "name": "AirTag",
+      "family": "AirTag",
+      "released": "2021-04-30",
+      "prices": [],
+      "priceHistory": true,
+      "chips": [
+        "nRF52832"
+      ],
+      "models": [
+        "A2187"
+      ],
+      "identifiers": [
+        "AirTag1,1",
+        "afw1,5",
+        "Device1,21760"
+      ],
+      "colors": [],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirTag%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
       "name": "Mac mini（M1、Late 2020）",
       "family": "Mac",
       "released": "2020-11-17",
@@ -812,6 +875,632 @@
         }
       ],
       "documentationUrl": "https://support.apple.com/ja-jp/111894",
+      "documentationDirect": true
+    }
+  ],
+  "missingPriceDates": [
+    {
+      "name": "MacBook Air（M2、2022）",
+      "family": "Mac",
+      "released": "2022-07-15",
+      "prices": [
+        "164,800円～",
+        "148,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "M2"
+      ],
+      "models": [
+        "A2681"
+      ],
+      "identifiers": [
+        "Mac14,2"
+      ],
+      "colors": [
+        {
+          "name": "Midnight",
+          "hex": "292E37"
+        },
+        {
+          "name": "Silver",
+          "hex": "ABABAE"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "47484A"
+        },
+        {
+          "name": "Starlight",
+          "hex": "BDB6AC"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111867",
+      "documentationDirect": true
+    },
+    {
+      "name": "iPhone SE（第3世代）",
+      "family": "iPhone",
+      "released": "2022-03-18",
+      "prices": [
+        "57,800円～",
+        "62,800円～"
+      ],
+      "priceHistory": false,
+      "chips": [
+        "A15"
+      ],
+      "models": [
+        "A2782"
+      ],
+      "identifiers": [
+        "iPhone14,6"
+      ],
+      "colors": [
+        {
+          "name": "(PRODUCT)RED",
+          "hex": "A10415"
+        },
+        {
+          "name": "Midnight",
+          "hex": "161E24"
+        },
+        {
+          "name": "Starlight",
+          "hex": "F7F2EE"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111866",
+      "documentationDirect": true
+    },
+    {
+      "name": "AirPods 3",
+      "family": "AirPods",
+      "released": "2021-10-26",
+      "prices": [
+        "23,800円～",
+        "27,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "H1"
+      ],
+      "models": [
+        "A2564",
+        "A2565"
+      ],
+      "identifiers": [
+        "AirPods1,3",
+        "Audio2,1",
+        "Device1,8211"
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "hex": "E6E7EB"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111863",
+      "documentationDirect": true
+    },
+    {
+      "name": "MacBook Pro（16インチ、M1 Max、2021）",
+      "family": "Mac",
+      "released": "2021-10-18",
+      "prices": [
+        "299,800円～",
+        "338,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "M1 Max"
+      ],
+      "models": [
+        "A2485"
+      ],
+      "identifiers": [
+        "MacBookPro18,2"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "BEBFC3"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "7F8084"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111901",
+      "documentationDirect": true
+    },
+    {
+      "name": "MacBook Pro（16インチ、M1 Pro、2021）",
+      "family": "Mac",
+      "released": "2021-10-18",
+      "prices": [
+        "299,800円～",
+        "338,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "M1 Pro"
+      ],
+      "models": [
+        "A2485"
+      ],
+      "identifiers": [
+        "MacBookPro18,1"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "BEBFC3"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "7F8084"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111901",
+      "documentationDirect": true
+    },
+    {
+      "name": "MacBook Pro（14インチ、M1 Max、2021）",
+      "family": "Mac",
+      "released": "2021-10-18",
+      "prices": [
+        "239,800円～",
+        "274,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "M1 Max"
+      ],
+      "models": [
+        "A2442"
+      ],
+      "identifiers": [
+        "MacBookPro18,4"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "BABBBD"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "6E6F73"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111902",
+      "documentationDirect": true
+    },
+    {
+      "name": "MacBook Pro（14インチ、M1 Pro、2021）",
+      "family": "Mac",
+      "released": "2021-10-18",
+      "prices": [
+        "239,800円～",
+        "274,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "M1 Pro"
+      ],
+      "models": [
+        "A2442"
+      ],
+      "identifiers": [
+        "MacBookPro18,3"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "BABBBD"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "6E6F73"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111902",
+      "documentationDirect": true
+    },
+    {
+      "name": "Apple Watch Series 7",
+      "family": "Apple Watch",
+      "released": "2021-10-15",
+      "prices": [
+        "48,800円～",
+        "58,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "S7"
+      ],
+      "models": [
+        "A2473",
+        "A2474",
+        "A2475",
+        "A2476",
+        "A2477",
+        "A2478"
+      ],
+      "identifiers": [
+        "Watch6,6",
+        "Watch6,7",
+        "Watch6,8",
+        "Watch6,9"
+      ],
+      "colors": [
+        {
+          "name": "(PRODUCT)RED",
+          "hex": "A01A45"
+        },
+        {
+          "name": "Blue",
+          "hex": "6984AD"
+        },
+        {
+          "name": "Green",
+          "hex": "75786C"
+        },
+        {
+          "name": "Midnight",
+          "hex": "161B21"
+        },
+        {
+          "name": "Starlight",
+          "hex": "A1948C"
+        },
+        {
+          "name": "Stainless Steel - Gold",
+          "hex": "DCCDB5"
+        },
+        {
+          "name": "Stainless Steel - Graphite",
+          "hex": "3C3B35"
+        },
+        {
+          "name": "Stainless Steel - Silver",
+          "hex": "686868"
+        },
+        {
+          "name": "Stainless Steel - Space Black",
+          "hex": "393734"
+        },
+        {
+          "name": "Titanium",
+          "hex": "948E8C"
+        },
+        {
+          "name": "Titanium - Space Black",
+          "hex": "58514D"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111909",
+      "documentationDirect": true
+    },
+    {
+      "name": "iPhone 13 Pro Max",
+      "family": "iPhone",
+      "released": "2021-09-24",
+      "prices": [
+        "134,800円～",
+        "159,800円～"
+      ],
+      "priceHistory": false,
+      "chips": [
+        "A15"
+      ],
+      "models": [
+        "A2641"
+      ],
+      "identifiers": [
+        "iPhone14,3"
+      ],
+      "colors": [
+        {
+          "name": "Alpine Green",
+          "hex": "546554"
+        },
+        {
+          "name": "Gold",
+          "hex": "F6E4C7"
+        },
+        {
+          "name": "Graphite",
+          "hex": "4C4C4A"
+        },
+        {
+          "name": "Sierra Blue",
+          "hex": "93A9C0"
+        },
+        {
+          "name": "Silver",
+          "hex": "F1F1E7"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111870",
+      "documentationDirect": true
+    },
+    {
+      "name": "iPhone 13 Pro",
+      "family": "iPhone",
+      "released": "2021-09-24",
+      "prices": [
+        "122,800円～",
+        "144,800円～"
+      ],
+      "priceHistory": false,
+      "chips": [
+        "A15"
+      ],
+      "models": [
+        "A2636"
+      ],
+      "identifiers": [
+        "iPhone14,2"
+      ],
+      "colors": [
+        {
+          "name": "Alpine Green",
+          "hex": "546554"
+        },
+        {
+          "name": "Gold",
+          "hex": "F6E4C7"
+        },
+        {
+          "name": "Graphite",
+          "hex": "4C4C4A"
+        },
+        {
+          "name": "Sierra Blue",
+          "hex": "93A9C0"
+        },
+        {
+          "name": "Silver",
+          "hex": "F1F1E7"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111871",
+      "documentationDirect": true
+    },
+    {
+      "name": "iPhone 13",
+      "family": "iPhone",
+      "released": "2021-09-24",
+      "prices": [
+        "98,800円～",
+        "117,800円～"
+      ],
+      "priceHistory": false,
+      "chips": [
+        "A15"
+      ],
+      "models": [
+        "A2631"
+      ],
+      "identifiers": [
+        "iPhone14,5"
+      ],
+      "colors": [
+        {
+          "name": "Green",
+          "hex": "334434"
+        },
+        {
+          "name": "(PRODUCT)RED",
+          "hex": "96060D"
+        },
+        {
+          "name": "Blue",
+          "hex": "235D7B"
+        },
+        {
+          "name": "Midnight",
+          "hex": "151D23"
+        },
+        {
+          "name": "Pink",
+          "hex": "FCDDD8"
+        },
+        {
+          "name": "Starlight",
+          "hex": "F9F4EE"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111872",
+      "documentationDirect": true
+    },
+    {
+      "name": "iPhone 13 mini",
+      "family": "iPhone",
+      "released": "2021-09-24",
+      "prices": [
+        "86,800円～",
+        "99,800円～"
+      ],
+      "priceHistory": false,
+      "chips": [
+        "A15"
+      ],
+      "models": [
+        "A2626"
+      ],
+      "identifiers": [
+        "iPhone14,4"
+      ],
+      "colors": [
+        {
+          "name": "Green",
+          "hex": "334434"
+        },
+        {
+          "name": "(PRODUCT)RED",
+          "hex": "96060D"
+        },
+        {
+          "name": "Blue",
+          "hex": "235D7B"
+        },
+        {
+          "name": "Midnight",
+          "hex": "151D23"
+        },
+        {
+          "name": "Pink",
+          "hex": "FCDDD8"
+        },
+        {
+          "name": "Starlight",
+          "hex": "F9F4EE"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111873",
+      "documentationDirect": true
+    },
+    {
+      "name": "AirPods Max 1",
+      "family": "AirPods",
+      "released": "2020-12-15",
+      "prices": [
+        "67,980円～",
+        "84,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "H1"
+      ],
+      "models": [
+        "A2096"
+      ],
+      "identifiers": [
+        "AirPodsMax1,1",
+        "iProd8,6",
+        "Device1,8202"
+      ],
+      "colors": [
+        {
+          "name": "Space Gray",
+          "hex": "6E6E73"
+        },
+        {
+          "name": "Silver",
+          "hex": "E3E4E5"
+        },
+        {
+          "name": "Sky Blue",
+          "hex": "91AAB6"
+        },
+        {
+          "name": "Green",
+          "hex": "A8C4B8"
+        },
+        {
+          "name": "Pink",
+          "hex": "E8B4B8"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111858",
+      "documentationDirect": true
+    },
+    {
+      "name": "MacBook Air（M1、2020）",
+      "family": "Mac",
+      "released": "2020-11-17",
+      "prices": [
+        "115,280円～",
+        "134,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "M1"
+      ],
+      "models": [
+        "A2337"
+      ],
+      "identifiers": [
+        "MacBookAir10,1"
+      ],
+      "colors": [
+        {
+          "name": "Gold",
+          "hex": "E7BCA9"
+        },
+        {
+          "name": "Silver",
+          "hex": "C7C8CB"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "94959B"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111883",
+      "documentationDirect": true
+    },
+    {
+      "name": "AirPods Pro 1",
+      "family": "AirPods",
+      "released": "2019-10-30",
+      "prices": [
+        "30,580円～",
+        "38,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "H1"
+      ],
+      "models": [
+        "A2083",
+        "A2084"
+      ],
+      "identifiers": [
+        "AirPodsPro1,1",
+        "AirPods2,2",
+        "iProd8,1",
+        "Device1,8206"
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "hex": "E6E7EB"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111861",
+      "documentationDirect": true
+    },
+    {
+      "name": "AirPods 2",
+      "family": "AirPods",
+      "released": "2019-03-20",
+      "prices": [
+        "17,800円（税別）～",
+        "19,800円～"
+      ],
+      "priceHistory": true,
+      "chips": [
+        "H1"
+      ],
+      "models": [
+        "A2031",
+        "A2032"
+      ],
+      "identifiers": [
+        "AirPods1,2",
+        "AirPods2,1",
+        "Device1,8207"
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "hex": "E6E7EB"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111856",
       "documentationDirect": true
     }
   ],
