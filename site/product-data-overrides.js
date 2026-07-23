@@ -86,4 +86,36 @@
       return response;
     }
   };
+
+  function organizeProductCard(card) {
+    const summary = card.querySelector(".product-details summary");
+    if (summary) summary.textContent = "製品詳細";
+
+    const detailsList = card.querySelector(".product-details dl");
+    if (!detailsList) return;
+
+    const initialOSRow = [...card.querySelectorAll(".product-facts > div")]
+      .find((row) => row.querySelector("dt")?.textContent.trim() === "初期OS");
+    if (!initialOSRow) return;
+
+    const existing = [...detailsList.children]
+      .some((row) => row.querySelector("dt")?.textContent.trim() === "初期OS");
+    if (existing) initialOSRow.remove();
+    else detailsList.prepend(initialOSRow);
+  }
+
+  function activateProductDetailsLayout() {
+    const grid = document.querySelector("#product-grid");
+    if (!grid) return;
+
+    const sync = () => grid.querySelectorAll(".product-card").forEach(organizeProductCard);
+    sync();
+    new MutationObserver(sync).observe(grid, { childList: true, subtree: true });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", activateProductDetailsLayout, { once: true });
+  } else {
+    activateProductDetailsLayout();
+  }
 })();
