@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "c83fd43ff78a9a997364",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Maps to Help Power Autonomous Driving in Ford's 2027 EV",
+      "url": "https://www.macrumors.com/2026/07/23/apple-maps-power-driving-in-ford-ev/",
+      "publishedAt": "2026-07-23T13:27:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Apple-Maps-General.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple MapsがFordのEVに搭載",
+      "summaryJa": "AppleとFordは、2027年に発売予定のUniversal Electric Vehicle (UEV)プラットフォームにApple Mapsを統合することを発表しました。この統合により、Fordの車両にApple Mapsのナビゲーション機能が直接組み込まれ、運転手は自然言語による音声検索やリアルタイムの交通情報を利用できるようになります。また、バッテリーの事前調整を含むインテリジェントなEVルーティング機能も提供され、Fordの次世代BlueCruiseの開発にも寄与します。"
+    },
+    {
+      "id": "e44a2601dc60343114cc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Ultra timing remains unclear as ‘final production adjustments’ made",
+      "url": "https://9to5mac.com/2026/07/23/iphone-ultra-timing-remains-unclear-as-final-production-adjustments-made/",
+      "publishedAt": "2026-07-23T13:21:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone Ultraの発売時期が不透明",
+      "summaryJa": "iPhone Ultraの正確な発売時期は不明で、Foxconnが製造プロセスの「最終調整」を行っているとの報道があります。以前の情報では量産が始まったとされていましたが、初期の供給が限られる可能性も指摘されています。Appleは初の折りたたみ式iPhoneの品質管理に厳格な基準を設けており、これが生産の遅延リスクを高めている可能性があります。現在のところ、iPhone 18 Proと同時に発表される見込みですが、初期の供給は限られるかもしれません。"
+    },
+    {
+      "id": "e8c58b2e27fbf583af36",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Maps is becoming Ford’s new navigation mode for select vehicles",
+      "url": "https://9to5mac.com/2026/07/23/apple-maps-is-becoming-fords-new-navigation-mode-for-select-vehicles/",
+      "publishedAt": "2026-07-23T13:19:13.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-maps-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple MapsがFordの新ナビゲーションに",
+      "summaryJa": "AppleはFordとの提携を発表し、2027年に発売されるUniversal Electric Vehicle (UEV)プラットフォームにApple Mapsを統合します。この統合により、運転手はApple Mapsを利用した直感的なナビゲーションを体験でき、リアルタイムの交通情報や自然言語による音声検索が可能になります。また、Fordの次世代BlueCruiseの開発にもApple Mapsの情報が活用され、よりスムーズな運転体験が提供される予定です。"
+    },
+    {
       "id": "cc9fcaf889899955032e",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -2641,7 +2686,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-23T13:05:44.592Z",
+  "updatedAt": "2026-07-23T13:31:52.653Z",
   "initialized": true,
   "summaryVersion": 4
 }
