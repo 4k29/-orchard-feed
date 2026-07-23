@@ -6,6 +6,7 @@ on:
       - "scripts/products.mjs"
       - "scripts/apply-ipad-prices.mjs"
       - "scripts/apply-macbook-docs.mjs"
+      - "scripts/report-target-products.mjs"
       - ".github/workflows/products.yml"
   schedule:
     - cron: "23 3 * * 1"
@@ -28,11 +29,12 @@ jobs:
       - run: node scripts/products.mjs /tmp/appledb/deviceFiles data/products.json /tmp/appledb/osFiles
       - run: node scripts/apply-ipad-prices.mjs data/products.json
       - run: node scripts/apply-macbook-docs.mjs data/products.json
+      - run: node scripts/report-target-products.mjs data/products.json data/target-products-report.json
       - run: |
-          if git diff --quiet -- data/products.json; then exit 0; fi
+          if git diff --quiet -- data/products.json data/target-products-report.json; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/products.json
+          git add data/products.json data/target-products-report.json
           git commit -m "Update Apple product database"
           git pull --rebase origin main
           git push origin HEAD:main
