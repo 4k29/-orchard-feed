@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "7cf8a803cea3e25116ea",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Two new Macs might skip M5 chips and go straight to M6",
+      "url": "https://9to5mac.com/2026/07/23/two-new-macs-might-skip-m5-chips-and-go-straight-to-m6/",
+      "publishedAt": "2026-07-23T14:13:05.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/m6_regular.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新型Mac、M5を飛ばしてM6搭載か",
+      "summaryJa": "ブルームバーグのマーク・ガーマン氏によると、Appleは新型Mac miniとiMacのモデルで、M5チップをスキップしてM6チップを搭載する計画のようです。現在テスト中のMac miniはM6とM5 Proチップを使用しており、これにより新型Macの発売が遅れている可能性があります。新しいiMacもM6チップを搭載する可能性があり、これらの新モデルは秋に登場する見込みです。"
+    },
+    {
+      "id": "b38e1a73b75656424214",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 11 GPS Models Now $100 Off on Amazon",
+      "url": "https://www.macrumors.com/2026/07/23/apple-watch-100-off-amazon/",
+      "publishedAt": "2026-07-23T13:51:42.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/apple-watch-series-11-dark.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 11がAmazonで100ドル引き",
+      "summaryJa": "AmazonでApple Watch Series 11のGPSモデルが100ドルの割引価格で販売されています。42mmモデルは299ドル、46mmモデルは329ドルとなっており、過去のセールと比較してもお得な価格です。これらのモデルは在庫が限られているため、早めの購入が推奨されます。"
+    },
+    {
       "id": "c83fd43ff78a9a997364",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -2686,7 +2716,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-23T13:31:52.653Z",
+  "updatedAt": "2026-07-23T14:26:16.934Z",
   "initialized": true,
   "summaryVersion": 4
 }
