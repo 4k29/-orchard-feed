@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T07:29:31.137Z",
+  "updatedAt": "2026-07-23T07:40:50.012Z",
   "metadataWarnings": [],
   "summary": {
     "products": 188,
@@ -821,9 +821,9 @@
       "family": "AirPods",
       "released": "2026-04-01",
       "prices": [
-        "89,800円（税込）～"
+        "89,800円～"
       ],
-      "priceHistory": false,
+      "priceHistory": true,
       "chips": [
         "H2"
       ],
@@ -865,9 +865,9 @@
       "family": "AirPods",
       "released": "2024-09-20",
       "prices": [
-        "84,800円（税込）～"
+        "84,800円～"
       ],
-      "priceHistory": false,
+      "priceHistory": true,
       "chips": [
         "H1"
       ],
@@ -908,9 +908,9 @@
       "family": "AirPods",
       "released": "2023-09-22",
       "prices": [
-        "39,800円（税込）～"
+        "39,800円～"
       ],
-      "priceHistory": false,
+      "priceHistory": true,
       "chips": [
         "H2"
       ],
@@ -938,9 +938,9 @@
       "family": "AirPods",
       "released": "2022-09-23",
       "prices": [
-        "39,800円（税込）～"
+        "39,800円～"
       ],
-      "priceHistory": false,
+      "priceHistory": true,
       "chips": [
         "H2"
       ],
@@ -970,8 +970,8 @@
       "family": "AirPods",
       "released": "2021-10-26",
       "prices": [
-        "23,800円（税込）～",
-        "27,800円（税込）～"
+        "23,800円～",
+        "27,800円～"
       ],
       "priceHistory": true,
       "chips": [
@@ -1000,8 +1000,8 @@
       "family": "AirPods",
       "released": "2020-12-15",
       "prices": [
-        "67,980円（税込）～",
-        "84,800円（税込）～"
+        "67,980円～",
+        "84,800円～"
       ],
       "priceHistory": true,
       "chips": [
@@ -1045,8 +1045,8 @@
       "family": "AirPods",
       "released": "2019-10-30",
       "prices": [
-        "30,580円（税込）～",
-        "38,800円（税込）～"
+        "30,580円～",
+        "38,800円～"
       ],
       "priceHistory": true,
       "chips": [
@@ -1077,7 +1077,7 @@
       "released": "2019-03-20",
       "prices": [
         "17,800円（税別）～",
-        "19,800円（税込）～"
+        "19,800円～"
       ],
       "priceHistory": true,
       "chips": [
@@ -1108,7 +1108,7 @@
       "prices": [
         "16,800円（税別）～"
       ],
-      "priceHistory": false,
+      "priceHistory": true,
       "chips": [
         "W1"
       ],
@@ -1134,8 +1134,8 @@
       "family": "AirPods",
       "released": "2024-09-20",
       "prices": [
-        "21,800円（税込）～",
-        "23,800円（税込）～(2026/7/18)"
+        "21,800円～",
+        "23,800円～(26/7/18)"
       ],
       "priceHistory": true,
       "chips": [
@@ -1161,8 +1161,8 @@
       "family": "AirPods",
       "released": "2024-09-20",
       "prices": [
-        "29,800円（税込）～",
-        "32,800円（税込）～(2026/7/18)"
+        "29,800円～",
+        "32,800円～(26/7/18)"
       ],
       "priceHistory": true,
       "chips": [
@@ -1188,8 +1188,8 @@
       "family": "AirPods",
       "released": "2025-09-19",
       "prices": [
-        "39,800円（税込）～",
-        "42,800円（税込）～(2026/7/18)"
+        "39,800円～",
+        "42,800円～(26/7/18)"
       ],
       "priceHistory": true,
       "chips": [
