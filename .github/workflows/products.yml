@@ -1,0 +1,27 @@
+name: Sync Apple product database
+on:
+  schedule:
+    - cron: "23 3 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          git clone --depth 1 --filter=blob:none --sparse https://github.com/littlebyteorg/appledb.git /tmp/appledb
+          git -C /tmp/appledb sparse-checkout set deviceFiles
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/products.mjs /tmp/appledb/deviceFiles data/products.json
+      - run: |
+          if git diff --quiet -- data/products.json; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/products.json
+          git commit -m "Update Apple product database"
+          git pull --rebase origin main
+          git push origin HEAD:main

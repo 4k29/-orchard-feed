@@ -1,23 +1,16 @@
 name: Deploy Orchard to GitHub Pages
-
 on:
   push:
     branches: [main]
-    paths:
-      - "site/**"
-      - "data/articles.json"
-      - ".github/workflows/pages.yml"
+    paths: ["site/**","data/articles.json","data/products.json","data/releases.json",".github/workflows/pages.yml"]
   workflow_dispatch:
-
 permissions:
   contents: read
   pages: write
   id-token: write
-
 concurrency:
   group: pages
   cancel-in-progress: true
-
 jobs:
   deploy:
     environment:
@@ -26,22 +19,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Prepare site
-        run: |
+      - run: |
           mkdir -p _site/data
           cp -R site/. _site/
-          cp data/articles.json _site/data/articles.json
-
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
+          cp data/articles.json data/products.json data/releases.json _site/data/
+      - uses: actions/configure-pages@v5
         with:
           enablement: true
-
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
-
-      - name: Deploy
-        id: deployment
+      - id: deployment
         uses: actions/deploy-pages@v4
