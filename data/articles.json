@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "f2352d92d30cfd9cf128",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27’s new Siri delivers in every single way I’d hoped for",
+      "url": "https://9to5mac.com/2026/07/23/ios-27s-new-siri-delivers-in-every-single-way-id-hoped-for/",
+      "publishedAt": "2026-07-23T18:19:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-app-ios-27-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27の新Siri、期待通りの進化",
+      "summaryJa": "iOS 27で新たに登場するSiri AIが、期待通りの機能を提供していると報告されています。特に、世界知識、会話型UI、Appleデバイス間の一貫性が強化され、ユーザーは質問に対する応答が向上したと感じています。また、SiriはAppleのアプリやサービスと深く統合されており、個別のニーズに応じたサポートが可能です。"
+    },
+    {
+      "id": "ef06e3e20b026bd32ca2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "ChatGPT's Apple Health Integration Now Rolling Out to U.S. Users",
+      "url": "https://www.macrumors.com/2026/07/23/chatgpt-apple-health-integration/",
+      "publishedAt": "2026-07-23T17:54:05.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/chatgpt-health.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "ChatGPTのApple Health統合が米国で開始",
+      "summaryJa": "ChatGPTの「Health」機能が、米国のユーザーに向けて展開されています。この機能は、Apple Healthのデータを活用し、ユーザーの健康情報をもとに医療記録を比較したり、健康状態の変化を追跡したりすることができます。ユーザーの許可を得た上で、食事制限や最近の怪我に基づいたアドバイスを提供することも可能です。"
+    },
+    {
+      "id": "aeb6569e12e0c073a443",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Emergency SOS via Satellite Expands to Two More Countries",
+      "url": "https://www.macrumors.com/2026/07/23/emergency-sos-via-satellite-two-more-countries/",
+      "publishedAt": "2026-07-23T17:50:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/11/Emergency-SOS-via-Satellite-iPhone-YT.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "緊急SOS衛星通信、2カ国に拡大",
+      "summaryJa": "Appleの緊急SOS衛星通信機能が、アンドラとアイスランドで利用可能になりました。この機能は、iPhone 14以降およびApple Watch Ultra 3で利用でき、Wi-Fiや携帯電話の接続がない状況でも緊急サービスにメッセージを送信できます。利用にはiOS 26.4およびwatchOS 26.4以降が必要です。"
+    },
+    {
       "id": "e434d60280e2ae3082f9",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -2896,7 +2941,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-23T17:47:52.804Z",
+  "updatedAt": "2026-07-23T18:57:01.814Z",
   "initialized": true,
   "summaryVersion": 4
 }
