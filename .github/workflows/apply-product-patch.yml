@@ -1,0 +1,29 @@
+name: Apply Orchard product patch
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/apply-product-patch.yml"
+permissions:
+  contents: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Decode files
+        run: |
+          base64 -d .github/product-patch/products.mjs.gz.b64 | gunzip > scripts/products.mjs
+          base64 -d .github/product-patch/products.js.gz.b64 | gunzip > site/products.js
+          base64 -d .github/product-patch/products.html.gz.b64 | gunzip > site/products.html
+          node --check scripts/products.mjs
+          node --check site/products.js
+      - name: Commit patch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm -r .github/product-patch
+          git add scripts/products.mjs site/products.js site/products.html
+          git commit -m "Normalize Apple product archive"
+          git pull --rebase origin main
+          git push origin HEAD:main
