@@ -9,7 +9,7 @@ const required = [
   "function chipTiers(product)",
   "function filterValues(product, key)",
   "candidates.flatMap((product) => filterValues(product, definition.key))",
-  'if (!["AirPods", "AirTag"].includes(product.category)) detailFacts.push(fact("初期OS", product.initialOS));',
+  'detailFacts.push(fact("初期OS", product.initialOS));',
   "fetch(U)",
 ];
 
