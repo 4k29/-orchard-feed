@@ -29,13 +29,14 @@
   text-transform: none;
 }
 
-.product-facts > div:last-child dt {
-  font-size: 0;
+.product-facts {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
 }
 
-.product-facts > div:last-child dt::after {
-  content: "価格履歴";
-  font-size: 10px;
+@media (max-width: 760px) {
+  .product-facts {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 @media (max-width: 640px) {
@@ -46,5 +47,79 @@
 
   .filter-label {
     margin-top: 0;
+  }
+
+  .database-heading {
+    padding-top: 28px;
+  }
+
+  .family-filter,
+  .subfilter-row {
+    margin-inline: -16px;
+    padding-inline: 16px;
+    scroll-padding-inline: 16px;
+  }
+
+  .product-card {
+    padding: 22px 0;
+  }
+
+  .product-card-head {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: start;
+    gap: 12px;
+  }
+
+  .product-card h2 {
+    font-size: 20px;
+    line-height: 1.4;
+  }
+
+  .product-year {
+    padding-top: 1px;
+  }
+
+  .product-facts,
+  .product-details dl {
+    display: block;
+    margin-top: 16px;
+  }
+
+  .product-facts > div,
+  .product-details dl > div {
+    display: grid;
+    grid-template-columns: 82px minmax(0, 1fr);
+    align-items: start;
+    gap: 12px;
+    padding: 10px 0;
+    border-top: 1px solid var(--line);
+  }
+
+  .product-facts > div:first-child,
+  .product-details dl > div:first-child {
+    border-top: 0;
+  }
+
+  .product-facts dt,
+  .product-details dt {
+    padding-top: 1px;
+  }
+
+  .product-facts dd,
+  .product-details dd {
+    margin: 0;
+    color: var(--foreground);
+    line-height: 1.65;
+    overflow-wrap: anywhere;
+  }
+
+  .color-list {
+    gap: 8px 12px;
+    margin-top: 12px;
+  }
+
+  .product-details {
+    margin-top: 14px;
   }
 }
