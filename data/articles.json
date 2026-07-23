@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "e3d4c10c5324899582f7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Geekbench 7 is out with overhauled performance tests for CPU and GPU workloads",
+      "url": "https://9to5mac.com/2026/07/23/geekbench-7-is-out-with-overhauled-performance-tests-for-cpu-and-gpu-workloads/",
+      "publishedAt": "2026-07-23T22:05:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/geekbench-7.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Geekbench 7が登場、CPU/GPU性能テストを刷新",
+      "summaryJa": "Primate LabsがGeekbench 7を発表しました。新しいベンチマークは、日常的なタスクやゲーム、AIワークロードにおけるデバイスの使用状況をより反映するように設計されています。特にGPUベンチマークが改良され、機械学習やコンテンツ制作に重点が置かれています。また、NvidiaのCUDAが新たにサポートされ、マルチコア性能の扱いも改善されています。"
+    },
+    {
+      "id": "1847206f2d262acc40be",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "10 iOS 27 Performance Improvements You'll Actually Notice",
+      "url": "https://www.macrumors.com/guide/ios-27-performance-improvements/",
+      "publishedAt": "2026-07-23T22:02:58.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/10-iOS-27-Performance-Improvements-Youll-Actually-Notice-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27で実感できるパフォーマンス向上",
+      "summaryJa": "AppleはiOS 27でシステムのパフォーマンスを向上させ、アプリの起動速度が最大30%向上しました。この改善はiPhone 11以降の全モデルに適用され、特にCPUスケジューラの最適化により、パフォーマンス重視のタスクが効率的に処理されます。また、Wi-Fiとセルラー接続の切り替えも改善され、接続の安定性が向上しています。"
+    },
+    {
       "id": "ce45f20e4a51de163a2d",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -3076,7 +3106,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-23T21:32:52.331Z",
+  "updatedAt": "2026-07-23T22:34:43.950Z",
   "initialized": true,
   "summaryVersion": 4
 }
