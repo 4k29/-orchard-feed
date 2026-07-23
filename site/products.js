@@ -280,9 +280,9 @@ function card(product) {
     fact("発売日", date(product.released)),
     fact("チップ", product.chips.join(" / ")),
     fact("ストレージ", product.storage.join(" / ")),
-    fact("初期OS", product.initialOS),
-    fact(product.priceHistory ? "価格履歴" : "発売時価格", product.prices.join(" → ")),
   ];
+  if (!["AirPods", "AirTag"].includes(product.category)) facts.push(fact("初期OS", product.initialOS));
+  facts.push(fact(product.priceHistory ? "価格履歴" : "発売時価格", product.prices.join(" → ")));
   card.querySelector(".product-facts").append(...facts);
   const colors = card.querySelector(".color-list");
   product.colors.slice(0, 12).forEach((color) => {
