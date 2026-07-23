@@ -1,6 +1,111 @@
 {
   "articles": [
     {
+      "id": "4961da10f204c1c4ffa5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 gives Apple Photos a very useful feature I’ve wanted for years",
+      "url": "https://9to5mac.com/2026/07/23/ios-27-gives-apple-photos-a-very-useful-feature-ive-wanted-for-years/",
+      "publishedAt": "2026-07-23T16:03:14.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-photos-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27でApple Photosが進化",
+      "summaryJa": "iOS 27では、Apple Photosに新機能が追加され、動画のフレームを写真として保存できるようになります。この機能により、スクリーンショットよりも高解像度で、簡単に動画の一瞬を切り取ることが可能になります。これまで動画からの静止画保存は難しかったため、多くのユーザーが待ち望んでいた機能です。"
+    },
+    {
+      "id": "e349e8db487b310ea411",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Opera One Browser Adds Vertical Tabs - Should Safari Follow?",
+      "url": "https://www.macrumors.com/2026/07/23/opera-one-adds-vertical-tabs-chrome-firefox/",
+      "publishedAt": "2026-07-23T15:52:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/opera-one-vertical-Tabs-HERO-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Opera Oneが縦タブを追加、Safariはどうする？",
+      "summaryJa": "Opera Oneブラウザが縦タブ機能を追加し、タブバーをウィンドウの左側に移動できるようになりました。この機能は、タブが多くなると横並びでは見づらくなる問題を解決します。Safariには専用の縦タブモードはありませんが、タブグループ機能があり、今後のアップデートでの対応が期待されています。"
+    },
+    {
+      "id": "0c53cd7fc17b16925c61",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "5 Reasons to Buy the iPhone 17 Now Instead of Waiting for iPhone 18",
+      "url": "https://www.macrumors.com/2026/07/23/5-reasons-buy-iphone-17-not-waiting-iphone-18/",
+      "publishedAt": "2026-07-23T15:26:53.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/5-Reasons-to-Buy-the-iPhone-17-Now-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 17を今買うべき理由",
+      "summaryJa": "iPhone 18の発表が近づく中、iPhone 17を今購入する理由がいくつかあります。価格上昇が予想される中、iPhone 17はまだ旧価格で販売されています。また、iPhone 18の通常モデルは来春まで待たなければならず、iPhone 17の方が早く手に入ります。さらに、iPhone 18の基本モデルはスペックがダウングレードされる可能性もあるため、今のうちにiPhone 17を選ぶのが賢明かもしれません。"
+    },
+    {
+      "id": "ebf5181911f2d5b08763",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: M5 Pro MacBook Pro $320 off, Series 11 from $299, AirPods Pro 3, Satechi 25W MagSafe stand 40% off, more",
+      "url": "https://9to5mac.com/2026/07/23/deals-macbook-pro-series-11-airpods-25w-magsafe/",
+      "publishedAt": "2026-07-23T15:25:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-deals-MacBook-Pro-25W-MagSafe-AirTag-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple製品のセール情報",
+      "summaryJa": "「ブラックフライデー・イン・ジュライ」として、Apple製品のセールが続いています。M5 Pro MacBook Proが最大320ドルオフ、AirPods Pro 3やAirPods Max 2も割引中です。また、AirTag 2の価格も過去最低となっています。これらのセールは、Apple製品をお得に購入するチャンスです。"
+    },
+    {
+      "id": "92964823c2a81358a5bd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Google introduces new ‘selfie video’ sign-in method",
+      "url": "https://9to5google.com/2026/07/23/google-account-selfie-video/",
+      "publishedAt": "2026-07-23T15:15:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Google-video-selfie-cover.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Google、‘自撮り動画’サインイン方法を導入",
+      "summaryJa": "Googleアカウントに新たに‘自撮り動画’によるサインイン方法が追加されます。この機能は、スマートフォンやパスキーを紛失した際に便利です。ユーザーは自撮り動画を使用して、より安全にアカウントにアクセスできるようになります。"
+    },
+    {
+      "id": "ba67059dce5413fed94a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: July 23, 2026 – ‘Apple Upgrade’ program coming soon",
+      "url": "https://9to5mac.com/2026/07/23/daily-july-23-2026/",
+      "publishedAt": "2026-07-23T15:11:59.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、‘Apple Upgrade’プログラムを発表か",
+      "summaryJa": "Appleが新たに‘Apple Upgrade’というリースプログラムを来週発表するとの報道があります。このプログラムは、iPhoneのアップグレードプログラムを終了する中での新たな取り組みとされています。また、iOS 27のコードからは、未払いのリースデバイスに制限をかける可能性も示唆されています。"
+    },
+    {
+      "id": "cb02220521b320607dda",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV announces new dating series: ‘The Last Person on Earth’",
+      "url": "https://9to5mac.com/2026/07/23/apple-tv-announces-its-first-dating-series-the-last-person-on-earth/",
+      "publishedAt": "2026-07-23T14:46:04.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-tvos26-screensaver-07.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、初のデーティングシリーズを発表",
+      "summaryJa": "Apple TVが初のデーティングシリーズ‘The Last Person on Earth’を発表しました。このシリーズは、著名なカップルセラピストのエスター・ペレルが関与し、対照的なカップルが冒険を通じて関係を探求する内容です。リリース日は未定ですが、2027年に放送される可能性があります。"
+    },
+    {
       "id": "7cf8a803cea3e25116ea",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -2716,7 +2821,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-23T14:26:16.934Z",
+  "updatedAt": "2026-07-23T16:11:09.047Z",
   "initialized": true,
   "summaryVersion": 4
 }
