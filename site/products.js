@@ -280,9 +280,8 @@ function card(product) {
     fact("発売日", date(product.released)),
     fact("チップ", product.chips.join(" / ")),
     fact("ストレージ", product.storage.join(" / ")),
+    fact(product.priceHistory ? "価格履歴" : "発売時価格", product.prices.join(" → ")),
   ];
-  if (!["AirPods", "AirTag"].includes(product.category)) facts.push(fact("初期OS", product.initialOS));
-  facts.push(fact(product.priceHistory ? "価格履歴" : "発売時価格", product.prices.join(" → ")));
   card.querySelector(".product-facts").append(...facts);
   const colors = card.querySelector(".color-list");
   product.colors.slice(0, 12).forEach((color) => {
@@ -295,11 +294,16 @@ function card(product) {
   });
   if (!product.colors.length) colors.hidden = true;
   const details = card.querySelector(".product-details");
-  details.querySelector("dl").append(
+  const detailFacts = [];
+  if (!["AirPods", "AirTag"].includes(product.category)) {
+    detailFacts.push(fact("初期OS", product.initialOS));
+  }
+  detailFacts.push(
     fact("販売終了", date(product.discontinued)),
     fact("日本向けモデル番号", product.models.join(", ")),
     fact("識別子", product.identifiers.join(", ")),
   );
+  details.querySelector("dl").append(...detailFacts);
   if (product.documentationUrl) {
     const links = document.createElement("div");
     links.className = "release-links";
@@ -417,7 +421,7 @@ function familyButtons() {
 
 Q.oninput = apply;
 M.onclick = () => { S.n += N; draw(); };
-fetch(U, { cache: "no-store" })
+fetch(U)
   .then((response) => response.json())
   .then((data) => {
     S.a = mergeProducts(data.products || []);
