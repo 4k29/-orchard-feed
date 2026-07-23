@@ -29,6 +29,15 @@
   text-transform: none;
 }
 
+.product-facts > div:last-child dt {
+  font-size: 0;
+}
+
+.product-facts > div:last-child dt::after {
+  content: "価格履歴";
+  font-size: 10px;
+}
+
 @media (max-width: 640px) {
   .filter-group {
     grid-template-columns: 1fr;
