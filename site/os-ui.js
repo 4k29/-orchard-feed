@@ -87,6 +87,16 @@ function formatLastCheck(value) {
 let lastCheckText = "";
 let metaLoading = false;
 
+function setLastCheck(value) {
+  const formatted = formatLastCheck(value);
+  if (!formatted) return false;
+  lastCheckText = formatted;
+  osStatus.textContent = lastCheckText;
+  return true;
+}
+
+window.setOrchardReleaseLastCheck = setLastCheck;
+
 const statusObserver = new MutationObserver(() => {
   if (
     lastCheckText &&
@@ -123,13 +133,7 @@ async function loadReleaseMeta() {
     }
 
     if (!payload) throw lastError || new Error("Release metadata could not be loaded");
-    const formatted = formatLastCheck(payload.updatedAt);
-    if (formatted) {
-      lastCheckText = formatted;
-      if (!/エラー|読み込めません/.test(osStatus.textContent)) {
-        osStatus.textContent = lastCheckText;
-      }
-    }
+    if (payload.updatedAt) setLastCheck(payload.updatedAt);
   } catch (error) {
     console.error(error);
   } finally {
@@ -140,6 +144,8 @@ async function loadReleaseMeta() {
 function refreshReleaseMeta() {
   void loadReleaseMeta();
 }
+
+window.refreshOrchardReleaseMeta = loadReleaseMeta;
 
 document.addEventListener("visibilitychange", () => {
   if (document.visibilityState === "visible") refreshReleaseMeta();
