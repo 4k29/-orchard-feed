@@ -11,7 +11,6 @@ const roots = new Map([
   ["audioOS", "HomePod"],
   ["HomePod Software", "HomePod"],
   ["visionOS", "visionOS"],
-  ["AirPods Firmware", "AirPods"],
 ]);
 
 const releaseNotes = {
@@ -168,17 +167,37 @@ function source(platform, major) {
   return "https://developer.apple.com/news/releases/";
 }
 
-function displayVersion(product) {
-  let version = String(product.version)
-    .replace(/release candidate/gi, "RC")
-    .replace(/\bbeta$/i, "beta 1")
-    .replace(/\s+/g, " ")
-    .trim();
-  if (product.rc && !/\brc\b/i.test(version)) version += " RC";
-  if (product.beta && !/\bbeta\b/i.test(version)) {
-    version += ` Beta ${Number.isFinite(Number(product.beta)) ? Number(product.beta) : 1}`;
+function releaseChannel(product) {
+  const version = String(product.version || "");
+  if (product.rc || /\b(?:rc|release candidate)\b/i.test(version)) return "rc";
+  if (product.beta || /\bbeta\b/i.test(version)) {
+    return /\b(?:public|pub)\s+beta\b/i.test(version)
+      ? "public-beta"
+      : "developer-beta";
   }
-  return version;
+  return "stable";
+}
+
+function betaNumber(product) {
+  const match = String(product.version || "").match(/\bbeta(?:\s+(\d+))?/i);
+  if (match?.[1]) return Number(match[1]);
+  const value = Number(product.beta);
+  return Number.isFinite(value) && value > 0 ? value : 1;
+}
+
+function displayVersion(product, channel) {
+  const raw = String(product.version || "").replace(/\s+/g, " ").trim();
+  const base = baseVersion(raw);
+
+  if (channel === "public-beta") return `${base} Pub Beta ${betaNumber(product)}`;
+  if (channel === "developer-beta") return `${base} Dev Beta ${betaNumber(product)}`;
+
+  if (channel === "rc") {
+    const number = raw.match(/\b(?:rc|release candidate)\s*(\d+)?/i)?.[1];
+    return `${base} RC${number ? ` ${number}` : ""}`;
+  }
+
+  return raw;
 }
 
 export function buildReleases(root) {
@@ -191,12 +210,14 @@ export function buildReleases(root) {
     ) {
       continue;
     }
+
     let product;
     try {
       product = JSON.parse(fs.readFileSync(file, "utf8"));
     } catch {
       continue;
     }
+
     const platform = roots.get(product.osStr);
     if (
       !platform ||
@@ -207,12 +228,15 @@ export function buildReleases(root) {
     ) {
       continue;
     }
+
     const major = String(product.version).match(/^(26|27)(?:\.|\b)/)?.[1];
     if (!major) continue;
-    const version = displayVersion(product);
-    const channel = product.rc ? "rc" : product.beta ? "beta" : "stable";
+
+    const channel = releaseChannel(product);
+    const version = displayVersion(product, channel);
     const key = [platform, version.toLowerCase(), product.build, product.released].join("|");
     if (output.has(key)) continue;
+
     output.set(key, {
       platform,
       version,
@@ -223,6 +247,7 @@ export function buildReleases(root) {
       sourceUrl: source(platform, major),
     });
   }
+
   return [...output.values()].sort(
     (a, b) =>
       b.releasedAt.localeCompare(a.releasedAt) ||
