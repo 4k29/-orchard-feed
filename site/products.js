@@ -10,7 +10,7 @@ const M = document.querySelector("#load-more");
 const X = document.querySelector("#product-template");
 const C = ["iPhone", "iPad", "MacBook", "Apple Watch", "Mac", "AirPods", "AirTag", "HomePod"];
 const VARIANTS = {
-  iPhone: ["Pro Max", "Max", "Pro", "Plus", "Air", "無印", "mini", "SE", "e"],
+  iPhone: ["Pro Max", "Pro", "Max", "Air", "Plus", "無印", "mini", "SE", "e"],
   iPad: ["Pro", "Air", "無印", "mini"],
   MacBook: ["Pro", "Air", "無印"],
   "Apple Watch": ["Ultra", "Series", "SE", "その他"],
@@ -26,8 +26,8 @@ function category(product) {
   if (text.includes("airpods")) return "AirPods";
   if (text.includes("airtag")) return "AirTag";
   if (text.includes("homepod")) return "HomePod";
-  if (/macbook|powerbook|ibook/.test(text)) return "MacBook";
-  if (/imac|mac mini|mac studio|mac pro|macintosh/.test(text)) return "Mac";
+  if (text.includes("macbook")) return "MacBook";
+  if (/imac|mac mini|mac studio|mac pro|macintosh|powerbook|ibook/.test(text)) return "Mac";
   return "";
 }
 
@@ -112,8 +112,8 @@ function variantRank(product) {
   const name = product.name;
   if (product.category === "iPhone") {
     if (/Pro Max/i.test(name)) return 0;
-    if (/\bMax\b/i.test(name)) return 5;
     if (/\bPro\b/i.test(name)) return 10;
+    if (/\bMax\b/i.test(name)) return 15;
     if (/\b(?:Air|Plus)\b/i.test(name)) return 20;
     if (/\bmini\b/i.test(name)) return 40;
     if (/\b(?:SE|\de)\b/i.test(name)) return 50;
@@ -182,6 +182,7 @@ function mergeProducts(rows) {
     product.models = uniq([...product.models, ...(raw.models || [])]);
     product.identifiers = uniq([...product.identifiers, ...(raw.identifiers || [])]);
     product.initialOS ||= raw.initialOS;
+    product.priceHistory ||= raw.priceHistory;
     if (raw.documentationDirect || !product.documentationUrl) {
       product.documentationUrl = raw.documentationUrl || raw.officialSourceUrl || product.documentationUrl;
       product.documentationDirect = Boolean(raw.documentationDirect);
@@ -217,6 +218,7 @@ function card(product) {
   card.querySelector(".product-family").textContent = product.category;
   card.querySelector("h2").textContent = product.name;
   card.querySelector("time").textContent = product.released?.slice(0, 4) || "年代不明";
+  const priceSeparator = product.priceHistory ? " → " : " / ";
   card
     .querySelector(".product-facts")
     .append(
@@ -224,7 +226,7 @@ function card(product) {
       fact("チップ", product.chips.join(" / ")),
       fact("ストレージ", product.storage.join(" / ")),
       fact("初期OS", product.initialOS),
-      fact(product.prices.length > 1 ? "価格履歴" : "発売時価格", product.prices.join(" → ")),
+      fact(product.priceHistory ? "価格履歴" : "発売時価格", product.prices.join(priceSeparator)),
     );
   const colors = card.querySelector(".color-list");
   product.colors.slice(0, 12).forEach((color) => {
