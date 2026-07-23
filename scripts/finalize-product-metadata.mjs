@@ -36,6 +36,37 @@ const currentPriceHistory = new Map([
   ["AirPods Max 2", [yen(89800)]],
 ]);
 
+const revisionDates = new Map([
+  ["iPad Air 13インチ（M4）", ["26/6/25"]],
+  ["iPad Air 11インチ（M4）", ["26/6/25"]],
+  ["iPad Pro 13インチ（M5）", ["26/6/25"]],
+  ["iPad Pro 11インチ（M5）", ["26/6/25"]],
+  ["iPad（A16）", ["26/6/25"]],
+  ["iPad mini（A17 Pro）", ["26/6/25"]],
+  ["MacBook Air（M2、2022）", ["24/3/5"]],
+  ["iPad Air（第5世代）", ["22/7/1", "22/10/19"]],
+  ["iPhone SE（第3世代）", ["22/7/1"]],
+  ["AirPods 3", ["22/7/1"]],
+  ["MacBook Pro（16インチ、M1 Max、2021）", ["22/6/7"]],
+  ["MacBook Pro（16インチ、M1 Pro、2021）", ["22/6/7"]],
+  ["MacBook Pro（14インチ、M1 Max、2021）", ["22/6/7"]],
+  ["MacBook Pro（14インチ、M1 Pro、2021）", ["22/6/7"]],
+  ["Apple Watch Series 7", ["22/7/1"]],
+  ["iPhone 13 Pro Max", ["22/7/1"]],
+  ["iPhone 13 Pro", ["22/7/1"]],
+  ["iPad（第9世代）", ["22/7/1"]],
+  ["iPhone 13", ["22/7/1"]],
+  ["iPad mini（第6世代）", ["22/7/1", "22/10/19"]],
+  ["iPhone 13 mini", ["22/7/1"]],
+  ["iPad Pro 12.9インチ（第5世代）", ["22/7/1"]],
+  ["iPad Pro 11インチ（第3世代）", ["22/7/1"]],
+  ["AirPods Max 1", ["22/7/1"]],
+  ["MacBook Air（M1、2020）", ["22/6/7"]],
+  ["AirPods Pro 1", ["22/7/1"]],
+  ["iPad（第4世代）", ["13/5/31"]],
+  ["iPad mini", ["13/5/31"]],
+]);
+
 const maxColors = {
   "AirPods Max 1": [
     ["Space Gray", "6E6E73"],
@@ -98,6 +129,17 @@ function normalizeExistingPrices(product) {
   });
 }
 
+function appendRevisionDates(product) {
+  const dates = revisionDates.get(product.name || "");
+  if (!dates || !product.prices?.length) return;
+  product.prices = product.prices.map((price, index) => {
+    if (index === 0 || /\(\d{2}\/\d{1,2}\/\d{1,2}\)$/.test(String(price))) return price;
+    const date = dates[index - 1];
+    return date ? `${price}(${date})` : price;
+  });
+  product.priceHistory = product.prices.length > 1;
+}
+
 const products = [];
 for (const product of data.products || []) {
   const name = product.name || "";
@@ -111,6 +153,21 @@ for (const product of data.products || []) {
   if (name === "Apple Watch SE 1") setPrices(product, [yen(29800, "税別")]);
   if (name === "Apple Watch SE 2") setPrices(product, [yen(37800)]);
 
+  if (name === "AirTag") {
+    setPrices(product, [
+      "1個 3,800円 / 4個 12,800円～",
+      "1個 4,780円 / 4個 15,980円～(22/7/1)",
+      "1個 4,980円 / 4個 16,980円～(23/9/13)",
+    ], "Apple Newsroom（日本）・Apple Store（日本）・国内価格改定記録");
+  }
+  if (name === "AirPods 2") {
+    setPrices(product, [
+      yen(17800, "税別"),
+      dated(16800, "2021/10/19"),
+      dated(19800, "2022/7/1"),
+    ]);
+  }
+
   const mapped = currentPriceHistory.get(name);
   if (mapped) setPrices(product, mapped);
   if (/MacBook/i.test(name)) setMacBookPrices(product);
@@ -119,6 +176,8 @@ for (const product of data.products || []) {
   if (maxColors[name]) product.colors = maxColors[name].map(([colorName, hex]) => ({ name: colorName, hex }));
 
   normalizeExistingPrices(product);
+  appendRevisionDates(product);
+  if ((product.prices || []).length > 1) product.priceHistory = true;
   if (/^(?:AirPods|AirTag)\b/.test(name)) product.priceHistory = true;
   products.push(product);
 }
