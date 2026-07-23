@@ -1,19 +1,44 @@
 const U = "./data/products.json";
 const N = 48;
-const S = { a: [], f: [], c: "すべて", v: "すべて", n: N };
+const FILTER_KEYS = ["series", "size", "generation", "tier", "model"];
+const S = {
+  a: [],
+  f: [],
+  c: "すべて",
+  filters: Object.fromEntries(FILTER_KEYS.map((key) => [key, "すべて"])),
+  n: N,
+};
 const G = document.querySelector("#product-grid");
 const T = document.querySelector("#product-status");
 const Q = document.querySelector("#product-search");
 const F = document.querySelector("#family-filter");
-const V = document.querySelector("#variant-filter");
+const A = document.querySelector("#advanced-filters");
 const M = document.querySelector("#load-more");
 const X = document.querySelector("#product-template");
-const C = ["iPhone", "iPad", "MacBook", "Apple Watch", "Mac", "AirPods", "AirTag", "HomePod"];
-const VARIANTS = {
-  iPhone: ["Pro Max", "Pro", "Max", "Air", "Plus", "無印", "mini", "SE", "e"],
-  iPad: ["Pro", "Air", "無印", "mini"],
-  MacBook: ["Pro", "Air", "無印"],
-  "Apple Watch": ["Ultra", "Series", "SE", "その他"],
+const C = ["iPhone", "iPad", "MacBook", "Mac", "Apple Watch", "AirPods", "AirTag", "HomePod"];
+const CONFIG = {
+  iPhone: [
+    { key: "series", label: "シリーズ", order: ["Pro Max", "Pro", "Max", "Air", "Plus", "無印", "mini", "SE", "e"] },
+  ],
+  iPad: [
+    { key: "series", label: "シリーズ", order: ["Pro", "Air", "無印", "mini"] },
+    { key: "size", label: "サイズ", sort: "size" },
+  ],
+  MacBook: [
+    { key: "series", label: "シリーズ", order: ["Pro", "Air", "無印"] },
+    { key: "size", label: "サイズ", sort: "size" },
+    { key: "generation", label: "チップ世代", sort: "generation" },
+    { key: "tier", label: "チップ種類", order: ["無印", "Pro", "Max", "Ultra"], showEmpty: true },
+  ],
+  Mac: [
+    { key: "series", label: "シリーズ", order: ["mini", "Studio", "Pro"] },
+  ],
+  "Apple Watch": [
+    { key: "series", label: "シリーズ", order: ["Ultra", "Series", "SE", "その他"] },
+  ],
+  AirPods: [
+    { key: "model", label: "モデル", sort: "airpods" },
+  ],
 };
 
 const uniq = (values) => [...new Set((values || []).filter(Boolean))];
@@ -29,6 +54,10 @@ function category(product) {
   if (text.includes("macbook")) return "MacBook";
   if (/imac|mac mini|mac studio|mac pro|macintosh|powerbook|ibook/.test(text)) return "Mac";
   return "";
+}
+
+function hasMChip(product) {
+  return /\bM\d+(?:\s+(?:Pro|Max|Ultra))?\b/i.test(`${product.name || ""} ${(product.chips || []).join(" ")}`);
 }
 
 function isPart(product) {
@@ -75,7 +104,28 @@ function japaneseName(value, family) {
     .trim();
 }
 
-function variant(product) {
+function airPodsModel(product) {
+  const name = product.name || "";
+  const proGeneration = name.match(/AirPods Pro[^\d]*第?(\d+)世代/i) || name.match(/AirPods Pro\s*(\d+)/i);
+  if (proGeneration) return `AirPods Pro ${proGeneration[1]}`;
+  if (/AirPods Max\s*2/i.test(name)) return "AirPods Max 2";
+  if (/AirPods Max.*USB-C/i.test(name)) return "AirPods Max（USB-C）";
+  if (/AirPods Max/i.test(name)) return "AirPods Max";
+  const generation = name.match(/^AirPods[^\d]*第?(\d+)世代/i) || name.match(/^AirPods\s*(\d+)/i);
+  if (generation) return `AirPods ${generation[1]}`;
+  return name;
+}
+
+function displayName(product) {
+  if (product.category !== "AirPods") return product.name;
+  return product.name
+    .replace(/AirPods Pro（第(\d+)世代）/i, "AirPods Pro $1")
+    .replace(/AirPods Pro 第(\d+)世代/i, "AirPods Pro $1")
+    .replace(/AirPods（第(\d+)世代）/i, "AirPods $1")
+    .replace(/AirPods 第(\d+)世代/i, "AirPods $1");
+}
+
+function series(product) {
   const name = product.name || "";
   if (product.category === "iPhone") {
     if (/Pro Max/i.test(name)) return "Pro Max";
@@ -89,15 +139,21 @@ function variant(product) {
     return "無印";
   }
   if (product.category === "iPad") {
+    if (/\bmini\b/i.test(name)) return "mini";
     if (/\bPro\b/i.test(name)) return "Pro";
     if (/\bAir\b/i.test(name)) return "Air";
-    if (/\bmini\b/i.test(name)) return "mini";
     return "無印";
   }
   if (product.category === "MacBook") {
-    if (/\bPro\b/i.test(name)) return "Pro";
-    if (/\bAir\b/i.test(name)) return "Air";
+    if (/MacBook Pro/i.test(name)) return "Pro";
+    if (/MacBook Air/i.test(name)) return "Air";
     return "無印";
+  }
+  if (product.category === "Mac") {
+    if (/^Mac mini\b/i.test(name)) return "mini";
+    if (/^Mac Studio\b/i.test(name)) return "Studio";
+    if (/^Mac Pro\b/i.test(name)) return "Pro";
+    return "";
   }
   if (product.category === "Apple Watch") {
     if (/\bUltra\b/i.test(name)) return "Ultra";
@@ -105,6 +161,35 @@ function variant(product) {
     if (/\bSE\b/i.test(name)) return "SE";
     return "その他";
   }
+  return "";
+}
+
+function productSize(product) {
+  const match = (product.name || "").match(/(\d+(?:\.\d+)?)インチ/);
+  if (match) return `${Number(match[1])}インチ`;
+  if (product.category === "MacBook" && /MacBook (?:Air|Pro)/i.test(product.name || "")) return "13インチ";
+  return "";
+}
+
+function chipGeneration(product) {
+  const match = `${(product.chips || []).join(" ")} ${product.name || ""}`.match(/\bM(\d+)\b/i);
+  return match ? `M${match[1]}` : "";
+}
+
+function chipTier(product) {
+  const text = `${(product.chips || []).join(" ")} ${product.name || ""}`;
+  if (/\bM\d+\s+Ultra\b/i.test(text)) return "Ultra";
+  if (/\bM\d+\s+Max\b/i.test(text)) return "Max";
+  if (/\bM\d+\s+Pro\b/i.test(text)) return "Pro";
+  return /\bM\d+\b/i.test(text) ? "無印" : "";
+}
+
+function filterValue(product, key) {
+  if (key === "series") return series(product);
+  if (key === "size") return productSize(product);
+  if (key === "generation") return chipGeneration(product);
+  if (key === "tier") return chipTier(product);
+  if (key === "model") return airPodsModel(product);
   return "";
 }
 
@@ -120,13 +205,13 @@ function variantRank(product) {
     return 30;
   }
   if (product.category === "MacBook") {
-    const size = Number(name.match(/(\d+(?:\.\d+)?)インチ/)?.[1] || 0);
-    const chip = /\bMax\b/i.test(name) ? 0 : /\bPro\b/i.test(name) ? 1 : 2;
+    const size = Number(productSize(product).replace("インチ", "") || 0);
+    const chip = chipTier(product) === "Max" ? 0 : chipTier(product) === "Pro" ? 1 : 2;
     return (20 - size) * 10 + chip;
   }
   if (product.category === "iPad") {
-    const line = /\bPro\b/i.test(name) ? 0 : /\bAir\b/i.test(name) ? 10 : /\bmini\b/i.test(name) ? 30 : 20;
-    const size = Number(name.match(/(\d+(?:\.\d+)?)インチ/)?.[1] || 0);
+    const line = series(product) === "Pro" ? 0 : series(product) === "Air" ? 10 : series(product) === "mini" ? 30 : 20;
+    const size = Number(productSize(product).replace("インチ", "") || 0);
     return line + (20 - size) / 100;
   }
   if (product.category === "Apple Watch") {
@@ -138,17 +223,10 @@ function variantRank(product) {
 function productSort(a, b) {
   const yearOrder = (b.released || "").slice(0, 4).localeCompare((a.released || "").slice(0, 4));
   if (yearOrder) return yearOrder;
-  if (a.category === "iPhone" && b.category === "iPhone") {
-    return (
-      variantRank(a) - variantRank(b) ||
-      (b.released || "").localeCompare(a.released || "") ||
-      a.name.localeCompare(b.name, "ja", { numeric: true })
-    );
-  }
   return (
-    (b.released || "").localeCompare(a.released || "") ||
     variantRank(a) - variantRank(b) ||
-    a.name.localeCompare(b.name, "ja", { numeric: true })
+    (b.released || "").localeCompare(a.released || "") ||
+    displayName(a).localeCompare(displayName(b), "ja", { numeric: true })
   );
 }
 
@@ -156,7 +234,7 @@ function mergeProducts(rows) {
   const grouped = new Map();
   for (const raw of rows) {
     const family = category(raw);
-    if (!family || isPart(raw)) continue;
+    if (!family || isPart(raw) || (family === "MacBook" && !hasMChip(raw))) continue;
     const name = japaneseName(raw.name, family);
     const year = (raw.released || "").slice(0, 4);
     const key = family === "iPhone" ? [family, name].join("|") : [family, name, year].join("|");
@@ -216,18 +294,17 @@ function fact(label, value) {
 function card(product) {
   const card = X.content.firstElementChild.cloneNode(true);
   card.querySelector(".product-family").textContent = product.category;
-  card.querySelector("h2").textContent = product.name;
+  card.querySelector("h2").textContent = displayName(product);
   card.querySelector("time").textContent = product.released?.slice(0, 4) || "年代不明";
   const priceSeparator = product.priceHistory ? " → " : " / ";
-  card
-    .querySelector(".product-facts")
-    .append(
-      fact("発売日", date(product.released)),
-      fact("チップ", product.chips.join(" / ")),
-      fact("ストレージ", product.storage.join(" / ")),
-      fact("初期OS", product.initialOS),
-      fact(product.priceHistory ? "価格履歴" : "発売時価格", product.prices.join(priceSeparator)),
-    );
+  const facts = [
+    fact("発売日", date(product.released)),
+    fact("チップ", product.chips.join(" / ")),
+    fact("ストレージ", product.storage.join(" / ")),
+  ];
+  if (!['AirPods', 'AirTag'].includes(product.category)) facts.push(fact("初期OS", product.initialOS));
+  facts.push(fact(product.priceHistory ? "価格履歴" : "発売時価格", product.prices.join(priceSeparator)));
+  card.querySelector(".product-facts").append(...facts);
   const colors = card.querySelector(".color-list");
   product.colors.slice(0, 12).forEach((color) => {
     const item = document.createElement("span");
@@ -262,11 +339,11 @@ function card(product) {
 
 function haystack(product) {
   return [
-    product.name,
+    displayName(product),
     product.family,
     product.category,
     product.initialOS,
-    variant(product),
+    ...FILTER_KEYS.map((key) => filterValue(product, key)),
     ...product.chips,
     ...product.storage,
     ...product.models,
@@ -275,6 +352,10 @@ function haystack(product) {
   ]
     .join(" ")
     .toLowerCase();
+}
+
+function matchesSelectedFilters(product) {
+  return (CONFIG[S.c] || []).every(({ key }) => S.filters[key] === "すべて" || filterValue(product, key) === S.filters[key]);
 }
 
 function draw() {
@@ -289,66 +370,95 @@ function apply() {
   S.f = S.a.filter(
     (product) =>
       (S.c === "すべて" || product.category === S.c) &&
-      (S.v === "すべて" || variant(product) === S.v) &&
+      matchesSelectedFilters(product) &&
       (!query || haystack(product).includes(query)),
   );
   S.n = N;
   draw();
 }
 
-function filterButton(name, count, active, onClick) {
-  const button = document.createElement("button");
-  button.type = "button";
-  button.className = `filter-button${active ? " active" : ""}`;
-  button.dataset.filter = name;
-  button.textContent = `${name} ${count}`;
-  button.onclick = onClick;
-  return button;
+function button(name, active, onClick, count = null) {
+  const element = document.createElement("button");
+  element.type = "button";
+  element.className = `filter-button${active ? " active" : ""}`;
+  element.dataset.filter = name;
+  element.textContent = count == null ? name : `${name} ${count}`;
+  element.onclick = onClick;
+  return element;
 }
 
-function variantButtons() {
-  V.replaceChildren();
-  const order = VARIANTS[S.c];
-  if (!order) {
-    S.v = "すべて";
-    V.hidden = true;
-    return;
+function sortOptions(values, mode) {
+  if (mode === "size") return values.sort((a, b) => Number(b) - Number(a));
+  if (mode === "generation") return values.sort((a, b) => Number(a.slice(1)) - Number(b.slice(1)));
+  if (mode === "airpods") {
+    const rank = (value) => /Pro/.test(value) ? 0 : /^AirPods \d/.test(value) ? 1 : /Max/.test(value) ? 2 : 3;
+    return values.sort((a, b) => rank(a) - rank(b) || b.localeCompare(a, "ja", { numeric: true }));
   }
-  const familyProducts = S.a.filter((product) => product.category === S.c);
-  const available = order.filter((name) => familyProducts.some((product) => variant(product) === name));
-  if (!available.length) {
-    S.v = "すべて";
-    V.hidden = true;
-    return;
-  }
-  V.hidden = false;
-  ["すべて", ...available].forEach((name) => {
-    const count = name === "すべて"
-      ? familyProducts.length
-      : familyProducts.filter((product) => variant(product) === name).length;
-    V.append(
-      filterButton(name, count, name === S.v, () => {
-        S.v = name;
-        V.querySelectorAll("button").forEach((item) => item.classList.toggle("active", item.dataset.filter === name));
-        apply();
-      }),
-    );
+  return values.sort((a, b) => a.localeCompare(b, "ja", { numeric: true }));
+}
+
+function resetFilters(fromIndex = 0, definitions = CONFIG[S.c] || []) {
+  definitions.slice(fromIndex).forEach(({ key }) => {
+    S.filters[key] = "すべて";
   });
 }
 
-function buttons() {
+function advancedFilters() {
+  A.replaceChildren();
+  const definitions = CONFIG[S.c] || [];
+  if (!definitions.length) {
+    A.hidden = true;
+    return;
+  }
+  A.hidden = false;
+  let candidates = S.a.filter((product) => product.category === S.c);
+  definitions.forEach((definition, index) => {
+    const available = uniq(candidates.map((product) => filterValue(product, definition.key)));
+    let options = definition.order
+      ? definition.order.filter((value) => definition.showEmpty || available.includes(value))
+      : sortOptions(available, definition.sort);
+    if (S.filters[definition.key] !== "すべて" && !options.includes(S.filters[definition.key])) {
+      S.filters[definition.key] = "すべて";
+      resetFilters(index + 1, definitions);
+    }
+    const group = document.createElement("div");
+    group.className = "filter-group";
+    const label = document.createElement("p");
+    label.className = "filter-label";
+    label.textContent = definition.label;
+    const row = document.createElement("div");
+    row.className = "family-filter subfilter-row";
+    ["すべて", ...options].forEach((name) => {
+      row.append(
+        button(name, name === S.filters[definition.key], () => {
+          S.filters[definition.key] = name;
+          resetFilters(index + 1, definitions);
+          advancedFilters();
+          apply();
+        }),
+      );
+    });
+    group.append(label, row);
+    A.append(group);
+    if (S.filters[definition.key] !== "すべて") {
+      candidates = candidates.filter((product) => filterValue(product, definition.key) === S.filters[definition.key]);
+    }
+  });
+}
+
+function familyButtons() {
   F.replaceChildren();
   ["すべて", ...C].forEach((name) => {
     const count = name === "すべて" ? S.a.length : S.a.filter((product) => product.category === name).length;
     if (name !== "すべて" && !count) return;
     F.append(
-      filterButton(name, count, name === S.c, () => {
+      button(name, name === S.c, () => {
         S.c = name;
-        S.v = "すべて";
+        S.filters = Object.fromEntries(FILTER_KEYS.map((key) => [key, "すべて"]));
         F.querySelectorAll("button").forEach((item) => item.classList.toggle("active", item.dataset.filter === name));
-        variantButtons();
+        advancedFilters();
         apply();
-      }),
+      }, count),
     );
   });
 }
@@ -363,8 +473,8 @@ fetch(U, { cache: "no-store" })
   .then((data) => {
     S.a = mergeProducts(data.products || []);
     S.f = S.a;
-    buttons();
-    variantButtons();
+    familyButtons();
+    advancedFilters();
     draw();
   })
   .catch(() => {
