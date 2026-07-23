@@ -1,11 +1,10 @@
 (() => {
   const button = document.querySelector("#product-manual-sync");
   const label = document.querySelector("#product-manual-sync-label");
-  const message = document.querySelector("#product-manual-sync-status");
   const tokenDialog = document.querySelector("#product-token-dialog");
   const tokenInput = document.querySelector("#product-github-token");
 
-  if (!button || !label || !message) return;
+  if (!button || !label) return;
 
   const TOKEN_STORAGE_KEY = "orchard.github-token";
   const WORKFLOW_DISPATCH_URL =
@@ -77,19 +76,17 @@
     });
   }
 
-  function setState({ isRunning, text, detail = "" }) {
+  function setState({ isRunning, text }) {
     running = isRunning;
     button.disabled = isRunning;
     button.classList.toggle("is-running", isRunning);
     label.textContent = text;
-    message.textContent = detail;
-    message.hidden = !detail;
   }
 
   function restoreButtonSoon() {
     window.setTimeout(() => {
       if (!running) setState({ isRunning: false, text: "更新" });
-    }, 4_000);
+    }, 3_000);
   }
 
   function delay(milliseconds) {
@@ -122,13 +119,7 @@
         .sort((a, b) => Date.parse(b.created_at || "") - Date.parse(a.created_at || ""))[0];
 
       if (run?.status === "completed") return run;
-      if (run) {
-        setState({
-          isRunning: true,
-          text: run.status === "queued" ? "待機中…" : "確認中…",
-          detail: "GitHub Actionsで製品データを確認しています。",
-        });
-      }
+      setState({ isRunning: true, text: "更新中…" });
       await delay(7_000);
     }
 
@@ -145,11 +136,7 @@
     if (!token) return;
 
     const startedAt = Date.now();
-    setState({
-      isRunning: true,
-      text: "開始中…",
-      detail: "GitHub Actionsを起動しています。",
-    });
+    setState({ isRunning: true, text: "更新中…" });
 
     try {
       const response = await fetch(WORKFLOW_DISPATCH_URL, {
@@ -161,20 +148,10 @@
       if (response.status === 401 || response.status === 403) throw authenticationError();
       if (response.status !== 204) throw new Error(`Workflow dispatch: HTTP ${response.status}`);
 
-      setState({
-        isRunning: true,
-        text: "待機中…",
-        detail: "手動確認を受け付けました。",
-      });
-
       const run = await waitForRun(startedAt, token);
       if (run.conclusion !== "success") throw new Error(`Workflow finished with ${run.conclusion}`);
 
-      setState({
-        isRunning: false,
-        text: "確認完了",
-        detail: "最新の製品データを確認しました。変更の反映には少しかかる場合があります。",
-      });
+      setState({ isRunning: false, text: "完了" });
       if (typeof window.refreshProductStatus === "function") {
         await window.refreshProductStatus();
       }
@@ -182,23 +159,11 @@
     } catch (error) {
       if (error.code === "AUTH") {
         removeStoredToken();
-        setState({
-          isRunning: false,
-          text: "認証エラー",
-          detail: "トークンを確認してください。次回、もう一度入力できます。",
-        });
+        setState({ isRunning: false, text: "認証エラー" });
       } else if (error.code === "TIMEOUT") {
-        setState({
-          isRunning: false,
-          text: "確認中",
-          detail: "処理は続いている可能性があります。少し後に再読み込みしてください。",
-        });
+        setState({ isRunning: false, text: "確認中" });
       } else {
-        setState({
-          isRunning: false,
-          text: "確認失敗",
-          detail: "製品データの確認に失敗しました。少し後にもう一度試してください。",
-        });
+        setState({ isRunning: false, text: "失敗" });
       }
       restoreButtonSoon();
       console.error(error);
