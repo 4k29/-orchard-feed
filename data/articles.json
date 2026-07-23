@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "56fa16d7d805932a3fa5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Do we need to worry about burn-in as Macs transition to OLED screens?",
+      "url": "https://9to5mac.com/2026/07/23/do-we-need-to-worry-about-burn-in-as-macs-transition-to-oled-screens/",
+      "publishedAt": "2026-07-23T11:12:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/macbook-pro-touch-bar-gold-glow.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacのOLED移行、バーンインの懸念は？",
+      "summaryJa": "Appleは、MacBook Proを含むデバイスのOLED技術への移行を進めています。これにより、OLED特有のバーンイン現象への懸念が高まっています。OLEDは各ピクセルが直接発光するため、色彩が鮮やかで黒が深い一方で、ピクセルの劣化が問題となる可能性があります。今後、MacBook AirやiMacもOLEDに移行する見込みです。"
+    },
+    {
+      "id": "de62ae5fea5ce6d4d18f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "macOS 27 Beta Hides Trippy Siri 'Voice Pad' Interface With 13 Voices",
+      "url": "https://www.macrumors.com/2026/07/23/macos-27-beta-hidden-siri-voice-ui/",
+      "publishedAt": "2026-07-23T10:53:38.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "macOS 27ベータに新しいSiri音声選択インターフェース",
+      "summaryJa": "macOS 27の最新ベータ版では、Siriの音声を選択するための新しいインターフェースが発見されました。この「ボイスパッド」は、黒いキャンバス上に音声を視覚的に表示し、マウスの動きに応じて色が変化します。最大13種類のカスタム音声がサポートされる可能性があり、音声の特性も変化します。現在は音声モデルが未実装ですが、将来的に多様な音声が利用可能になる見込みです。"
+    },
+    {
       "id": "eab388bdf7075c08f62f",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -2521,7 +2551,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-23T10:48:35.414Z",
+  "updatedAt": "2026-07-23T11:35:42.723Z",
   "initialized": true,
   "summaryVersion": 4
 }
