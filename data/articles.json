@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "655a4b5167544f464bbd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MacBook Neo 2: Here’s everything we know so far",
+      "url": "https://9to5mac.com/2026/07/22/macbook-neo-2-features-release-date/",
+      "publishedAt": "2026-07-23T00:55:26.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-citrus.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBook Neo 2の詳細が明らかに",
+      "summaryJa": "Appleの新型MacBook Neoが好評を博している中、次世代モデル「MacBook Neo 2」の情報が報じられています。A19 Proチップを搭載し、性能はA18 Proより10-15%向上、GPU性能は最大40%のブーストが期待されています。また、RAMは8GBから12GBに増加し、Appleの新しいAI機能にも対応する見込みです。"
+    },
+    {
       "id": "65c890eab09cf3fc4deb",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -2491,7 +2506,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-22T23:43:09.256Z",
+  "updatedAt": "2026-07-23T01:16:29.242Z",
   "initialized": true,
   "summaryVersion": 4
 }
