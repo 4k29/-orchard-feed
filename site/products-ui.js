@@ -6,7 +6,9 @@
 
   function formatSizeLabels(root) {
     root.querySelectorAll("button").forEach((button) => {
-      button.textContent = button.textContent.replace(/(\d+(?:\.\d+)?)インチ/g, '$1"');
+      const current = button.textContent;
+      const next = current.replace(/(\d+(?:\.\d+)?)インチ/g, '$1"');
+      if (next !== current) button.textContent = next;
     });
   }
 
