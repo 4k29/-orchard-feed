@@ -1,22 +1,240 @@
-const U="./data/products.json",N=48,S={a:[],f:[],c:"すべて",n:N},G=document.querySelector("#product-grid"),T=document.querySelector("#product-status"),Q=document.querySelector("#product-search"),F=document.querySelector("#family-filter"),M=document.querySelector("#load-more"),X=document.querySelector("#product-template"),C=["iPhone","iPad","Apple Watch","Mac","AirPods","AirTag","HomePod"];
-const OFFICIAL_STORAGE=new Map([
-["iPhone 17e",["256GB","512GB"]],["iPhone 17",["256GB","512GB"]],["iPhone Air",["256GB","512GB","1TB"]],["iPhone 17 Pro",["256GB","512GB","1TB"]],["iPhone 17 Pro Max",["256GB","512GB","1TB","2TB"]],
-["iPhone 16e",["128GB","256GB","512GB"]],["iPhone 16",["128GB","256GB","512GB"]],["iPhone 16 Plus",["128GB","256GB","512GB"]],["iPhone 16 Pro",["128GB","256GB","512GB","1TB"]],["iPhone 16 Pro Max",["256GB","512GB","1TB"]],
-["iPad（A16）",["128GB","256GB","512GB"]],["iPad mini（A17 Pro）",["128GB","256GB","512GB"]],
-["iPad Air 11インチ（M4）",["128GB","256GB","512GB","1TB"]],["iPad Air 13インチ（M4）",["128GB","256GB","512GB","1TB"]],["iPad Air 11インチ（M3）",["128GB","256GB","512GB","1TB"]],["iPad Air 13インチ（M3）",["128GB","256GB","512GB","1TB"]],
-["iPad Pro 11インチ（M5）",["256GB","512GB","1TB","2TB"]],["iPad Pro 13インチ（M5）",["256GB","512GB","1TB","2TB"]],["iPad Pro 11インチ（M4）",["256GB","512GB","1TB","2TB"]],["iPad Pro 13インチ（M4）",["256GB","512GB","1TB","2TB"]],
-["MacBook Air（13インチ、M5）",["512GB","1TB","2TB","4TB"]],["MacBook Air（15インチ、M5）",["512GB","1TB","2TB","4TB"]],["MacBook Pro 14インチ（M5）",["512GB","1TB"]]
-]);
-const uniq=a=>[...new Set((a||[]).filter(Boolean))];
-function category(p){const s=(p.family+" "+p.name).toLowerCase();if(s.includes("iphone"))return"iPhone";if(s.includes("ipad"))return"iPad";if(s.includes("watch"))return"Apple Watch";if(s.includes("airpods"))return"AirPods";if(s.includes("airtag"))return"AirTag";if(s.includes("homepod"))return"HomePod";if(/macbook|imac|mac mini|mac studio|mac pro|macintosh|powerbook|ibook/.test(s))return"Mac";return""}
-function isPart(p){const n=p.name||"",f=p.family||"";if(/(^|[ (])(left|right)([ )]|$)/i.test(n))return true;if(!/^airpods\b/i.test(n)&&/charging case|smart case|battery case|\bcase\b/i.test(n))return true;return /battery|cable|adapter|charger|replacement|service part|logic board|display unit|demo unit|prototype|unreleased|unknown|module|bracelet|store panel|housing|enclosure|bumper|magic keyboard|keyboard folio|magsafe wallet|wallet with magsafe|ssd (?:kit|upgrade)|storage upgrade|upgrade kit|iphone pocket/i.test(n+" "+f)}
-function japaneseName(value,cat){let n=String(value||"").replace(/\s+with\s+.*charging case.*$/i,"").replace(/\s*\((?:left|right)[^)]*\)\s*/gi," ").trim();n=n.replace(/\b(\d+)(?:st|nd|rd|th) generation\b/gi,"第$1世代").replace(/\b(\d+(?:\.\d+)?)-inch\b/gi,"$1インチ");if(cat==="Apple Watch")n=n.replace(/\s*\([^)]*(?:\d+mm|GPS|Cellular|Aluminum|Titanium|Stainless|Nike|Hermès)[^)]*\)/gi,"");if(cat==="iPad")n=n.replace(/,?\s*(?:Wi[‑-]Fi(?:\s*\+\s*Cellular)?|Cellular)\s*/gi,"");n=n.replace(/\(([^)]*)\)/g,"（$1）").replace(/\s*,\s*/g,"、").replace(/\s{2,}/g," ").trim();return n}
-function mergeProducts(rows){const m=new Map;for(const raw of rows){const c=category(raw);if(!c||isPart(raw))continue;const name=japaneseName(raw.name,c),year=(raw.released||"").slice(0,4),key=[c,name,year].join("|");const p=m.get(key)||{...raw,name,category:c,prices:[],storage:[],colors:[],chips:[],models:[],identifiers:[]};if(OFFICIAL_STORAGE.has(name)){p.storage=OFFICIAL_STORAGE.get(name);p.storageSource="Apple公式技術仕様"}p.announced||=raw.announced;p.released||=raw.released;p.discontinued||=raw.discontinued;p.prices=uniq([...p.prices,...(raw.prices||[])]);p.storage=uniq([...p.storage,...(raw.storage||[])]);p.chips=uniq([...p.chips,...(raw.chips||[])]);p.models=uniq([...p.models,...(raw.models||[])]);p.identifiers=uniq([...p.identifiers,...(raw.identifiers||[])]);const cm=new Map(p.colors.map(x=>[x.name,x]));for(const x of raw.colors||[])if(x?.name&&!cm.has(x.name))cm.set(x.name,x);p.colors=[...cm.values()];m.set(key,p)}return[...m.values()].sort((a,b)=>(b.released||"").localeCompare(a.released||"")||a.name.localeCompare(b.name,"ja"))}
-function date(v){if(!v)return"—";const m=String(v).match(/^(\d{4})-(\d{2})-(\d{2})/);return m?`${m[1]}年${+m[2]}月${+m[3]}日`:v}
-function fact(l,v){const d=document.createElement("div"),a=document.createElement("dt"),b=document.createElement("dd");a.textContent=l;b.textContent=v||"—";d.append(a,b);return d}
-function card(p){const c=X.content.firstElementChild.cloneNode(true);c.querySelector(".product-family").textContent=p.category;c.querySelector("h2").textContent=p.name;c.querySelector("time").textContent=p.released?.slice(0,4)||"年代不明";c.querySelector(".product-facts").append(fact("発売日",date(p.released)),fact("チップ",p.chips.join(" / ")),fact("ストレージ",p.storage.join(" / ")),fact("発売時価格",p.prices.join(" / ")));const z=c.querySelector(".color-list");p.colors.slice(0,12).forEach(x=>{const s=document.createElement("span"),i=document.createElement("i");s.className="color-item";if(/^[0-9a-f]{6}$/i.test(x.hex||""))i.style.backgroundColor="#"+x.hex;s.append(i,document.createTextNode(x.name));z.append(s)});if(!p.colors.length)z.hidden=true;c.querySelector(".product-details dl").append(fact("発表日",date(p.announced)),fact("販売終了",date(p.discontinued)),fact("モデル番号",p.models.join(", ")),fact("識別子",p.identifiers.join(", ")));return c}
-function hay(p){return[p.name,p.family,...p.chips,...p.storage,...p.models,...p.identifiers,...p.colors.map(x=>x.name)].join(" ").toLowerCase()}
-function draw(){G.replaceChildren(...S.f.slice(0,S.n).map(card));if(!S.f.length)G.innerHTML='<div class="empty-state">該当する製品がありません。</div>';T.textContent=S.f.length.toLocaleString("ja-JP")+"製品";M.hidden=S.n>=S.f.length}
-function apply(){const q=Q.value.trim().toLowerCase();S.f=S.a.filter(p=>(S.c==="すべて"||p.category===S.c)&&(!q||hay(p).includes(q)));S.n=N;draw()}
-function buttons(){["すべて",...C].forEach(n=>{const b=document.createElement("button");b.className="filter-button"+(n===S.c?" active":"");b.textContent=n+" "+(n==="すべて"?S.a.length:S.a.filter(p=>p.category===n).length);b.onclick=()=>{S.c=n;F.querySelectorAll("button").forEach(x=>x.classList.toggle("active",x===b));apply()};F.append(b)})}
-Q.oninput=apply;M.onclick=()=>{S.n+=N;draw()};fetch(U,{cache:"no-store"}).then(r=>r.json()).then(d=>{S.a=mergeProducts(d.products||[]);S.f=S.a;buttons();draw()}).catch(()=>{T.textContent="読み込みエラー";G.innerHTML='<div class="empty-state">製品データを読み込めませんでした。</div>'});
+const U = "./data/products.json";
+const N = 48;
+const S = { a: [], f: [], c: "すべて", n: N };
+const G = document.querySelector("#product-grid");
+const T = document.querySelector("#product-status");
+const Q = document.querySelector("#product-search");
+const F = document.querySelector("#family-filter");
+const M = document.querySelector("#load-more");
+const X = document.querySelector("#product-template");
+const C = ["iPhone", "iPad", "Apple Watch", "Mac", "AirPods", "AirTag", "HomePod"];
+
+const uniq = (values) => [...new Set((values || []).filter(Boolean))];
+
+function category(product) {
+  const text = `${product.family} ${product.name}`.toLowerCase();
+  if (text.includes("iphone")) return "iPhone";
+  if (text.includes("ipad")) return "iPad";
+  if (text.includes("watch")) return "Apple Watch";
+  if (text.includes("airpods")) return "AirPods";
+  if (text.includes("airtag")) return "AirTag";
+  if (text.includes("homepod")) return "HomePod";
+  if (/macbook|imac|mac mini|mac studio|mac pro|macintosh|powerbook|ibook/.test(text)) return "Mac";
+  return "";
+}
+
+function isPart(product) {
+  const name = product.name || "";
+  const family = product.family || "";
+  if (/(^|[ (])(left|right)([ )]|$)/i.test(name)) return true;
+  if (!/^airpods\b/i.test(name) && /charging case|smart case|battery case|\bcase\b/i.test(name)) return true;
+  return /battery|cable|adapter|charger|replacement|service part|logic board|display unit|demo unit|prototype|unreleased|unknown|module|bracelet|store panel|housing|enclosure|bumper|magic keyboard|keyboard folio|magsafe wallet|wallet with magsafe|ssd (?:kit|upgrade)|storage upgrade|upgrade kit|iphone pocket/i.test(
+    `${name} ${family}`,
+  );
+}
+
+function japaneseName(value, family) {
+  let name = String(value || "")
+    .replace(/\s+with\s+.*charging case.*$/i, "")
+    .replace(/\s*\((?:left|right)[^)]*\)\s*/gi, " ")
+    .trim();
+  name = name
+    .replace(/\b(\d+)(?:st|nd|rd|th) generation\b/gi, "第$1世代")
+    .replace(/\b(\d+(?:\.\d+)?)-inch\b/gi, "$1インチ");
+  if (family === "Apple Watch") {
+    name = name.replace(
+      /\s*\([^)]*(?:\d+mm|GPS|Cellular|Aluminum|Titanium|Stainless|Nike|Hermès)[^)]*\)/gi,
+      "",
+    );
+  }
+  if (family === "iPad") {
+    name = name.replace(/,?\s*(?:Wi[‑-]Fi(?:\s*\+\s*Cellular)?|Cellular)\s*/gi, "");
+  }
+  return name
+    .replace(/\(([^)]*)\)/g, "（$1）")
+    .replace(/\s*,\s*/g, "、")
+    .replace(/\s{2,}/g, " ")
+    .trim();
+}
+
+function variantRank(product) {
+  const name = product.name;
+  if (product.category === "iPhone") {
+    if (/Pro Max/i.test(name)) return 0;
+    if (/\bPro\b/i.test(name)) return 10;
+    if (/\b(?:Air|Plus)\b/i.test(name)) return 20;
+    if (/\bmini\b/i.test(name)) return 40;
+    if (/\b(?:SE|\de)\b/i.test(name)) return 50;
+    return 30;
+  }
+  if (product.category === "Mac" && /MacBook/i.test(name)) {
+    const size = Number(name.match(/(\d+(?:\.\d+)?)インチ/)?.[1] || 0);
+    const chip = /\bMax\b/i.test(name) ? 0 : /\bPro\b/i.test(name) ? 1 : 2;
+    return (20 - size) * 10 + chip;
+  }
+  if (product.category === "iPad") {
+    const line = /\bPro\b/i.test(name) ? 0 : /\bAir\b/i.test(name) ? 10 : /\bmini\b/i.test(name) ? 30 : 20;
+    const size = Number(name.match(/(\d+(?:\.\d+)?)インチ/)?.[1] || 0);
+    return line + (20 - size) / 100;
+  }
+  if (product.category === "Apple Watch") {
+    return /Ultra/i.test(name) ? 0 : /Series/i.test(name) ? 10 : /SE/i.test(name) ? 20 : 30;
+  }
+  return 0;
+}
+
+function mergeProducts(rows) {
+  const grouped = new Map();
+  for (const raw of rows) {
+    const family = category(raw);
+    if (!family || isPart(raw)) continue;
+    const name = japaneseName(raw.name, family);
+    const year = (raw.released || "").slice(0, 4);
+    const key = [family, name, year].join("|");
+    const product = grouped.get(key) || {
+      ...raw,
+      name,
+      category: family,
+      prices: [],
+      storage: [],
+      colors: [],
+      chips: [],
+      models: [],
+      identifiers: [],
+    };
+    product.released ||= raw.released;
+    product.discontinued ||= raw.discontinued;
+    product.prices = uniq([...product.prices, ...(raw.prices || [])]);
+    product.storage = uniq([...product.storage, ...(raw.storage || [])]);
+    product.chips = uniq([...product.chips, ...(raw.chips || [])]);
+    product.models = uniq([...product.models, ...(raw.models || [])]);
+    product.identifiers = uniq([...product.identifiers, ...(raw.identifiers || [])]);
+    const colorMap = new Map(product.colors.map((color) => [color.name, color]));
+    for (const color of raw.colors || []) {
+      if (color?.name && !colorMap.has(color.name)) colorMap.set(color.name, color);
+    }
+    product.colors = [...colorMap.values()];
+    grouped.set(key, product);
+  }
+  return [...grouped.values()].sort(
+    (a, b) =>
+      (b.released || "").localeCompare(a.released || "") ||
+      variantRank(a) - variantRank(b) ||
+      a.name.localeCompare(b.name, "ja", { numeric: true }),
+  );
+}
+
+function date(value) {
+  if (!value) return "—";
+  const match = String(value).match(/^(\d{4})-(\d{2})-(\d{2})/);
+  return match ? `${match[1]}年${+match[2]}月${+match[3]}日` : value;
+}
+
+function fact(label, value) {
+  const wrapper = document.createElement("div");
+  const term = document.createElement("dt");
+  const description = document.createElement("dd");
+  term.textContent = label;
+  description.textContent = value || "—";
+  wrapper.append(term, description);
+  return wrapper;
+}
+
+function card(product) {
+  const card = X.content.firstElementChild.cloneNode(true);
+  card.querySelector(".product-family").textContent = product.category;
+  card.querySelector("h2").textContent = product.name;
+  card.querySelector("time").textContent = product.released?.slice(0, 4) || "年代不明";
+  card
+    .querySelector(".product-facts")
+    .append(
+      fact("発売日", date(product.released)),
+      fact("チップ", product.chips.join(" / ")),
+      fact("ストレージ", product.storage.join(" / ")),
+      fact("発売時価格", product.prices.join(" → ")),
+    );
+  const colors = card.querySelector(".color-list");
+  product.colors.slice(0, 12).forEach((color) => {
+    const item = document.createElement("span");
+    const swatch = document.createElement("i");
+    item.className = "color-item";
+    if (/^[0-9a-f]{6}$/i.test(color.hex || "")) swatch.style.backgroundColor = `#${color.hex}`;
+    item.append(swatch, document.createTextNode(color.name));
+    colors.append(item);
+  });
+  if (!product.colors.length) colors.hidden = true;
+  card
+    .querySelector(".product-details dl")
+    .append(
+      fact("販売終了", date(product.discontinued)),
+      fact("日本向けモデル番号", product.models.join(", ")),
+      fact("識別子", product.identifiers.join(", ")),
+    );
+  return card;
+}
+
+function haystack(product) {
+  return [
+    product.name,
+    product.family,
+    ...product.chips,
+    ...product.storage,
+    ...product.models,
+    ...product.identifiers,
+    ...product.colors.map((color) => color.name),
+  ]
+    .join(" ")
+    .toLowerCase();
+}
+
+function draw() {
+  G.replaceChildren(...S.f.slice(0, S.n).map(card));
+  if (!S.f.length) G.innerHTML = '<div class="empty-state">該当する製品がありません。</div>';
+  T.textContent = `${S.f.length.toLocaleString("ja-JP")}製品`;
+  M.hidden = S.n >= S.f.length;
+}
+
+function apply() {
+  const query = Q.value.trim().toLowerCase();
+  S.f = S.a.filter(
+    (product) =>
+      (S.c === "すべて" || product.category === S.c) &&
+      (!query || haystack(product).includes(query)),
+  );
+  S.n = N;
+  draw();
+}
+
+function buttons() {
+  ["すべて", ...C].forEach((name) => {
+    const button = document.createElement("button");
+    button.className = `filter-button${name === S.c ? " active" : ""}`;
+    button.textContent = `${name} ${name === "すべて" ? S.a.length : S.a.filter((product) => product.category === name).length}`;
+    button.onclick = () => {
+      S.c = name;
+      F.querySelectorAll("button").forEach((item) =>
+        item.classList.toggle("active", item === button),
+      );
+      apply();
+    };
+    F.append(button);
+  });
+}
+
+Q.oninput = apply;
+M.onclick = () => {
+  S.n += N;
+  draw();
+};
+fetch(U, { cache: "no-store" })
+  .then((response) => response.json())
+  .then((data) => {
+    S.a = mergeProducts(data.products || []);
+    S.f = S.a;
+    buttons();
+    draw();
+  })
+  .catch(() => {
+    T.textContent = "読み込みエラー";
+    G.innerHTML = '<div class="empty-state">製品データを読み込めませんでした。</div>';
+  });
