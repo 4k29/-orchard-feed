@@ -1,0 +1,64 @@
+name: Finalize iPhone product cleanup
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/finalize-iphone-products.yml"
+permissions:
+  contents: write
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Exclude headset accessory
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          for file in ['scripts/products.mjs', 'site/products.js']:
+              p = Path(file)
+              s = p.read_text()
+              old = r'leather sleeve|\bsleeve\b|silicone case'
+              new = r'bluetooth headset|\bheadset\b|leather sleeve|\bsleeve\b|silicone case'
+              if old not in s:
+                  raise SystemExit(f'pattern not found in {file}')
+              p.write_text(s.replace(old, new))
+          PY
+          node --check scripts/products.mjs
+          node --check site/products.js
+      - name: Rebuild database
+        run: |
+          git clone --depth 1 --filter=blob:none --sparse https://github.com/littlebyteorg/appledb.git /tmp/appledb
+          git -C /tmp/appledb sparse-checkout set deviceFiles osFiles
+          npm ci
+          node scripts/products.mjs /tmp/appledb/deviceFiles data/products.json /tmp/appledb/osFiles
+      - name: Validate iPhones
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          const phones = JSON.parse(fs.readFileSync('data/products.json', 'utf8')).products.filter((p) => p.family === 'iPhone');
+          const order = phones.filter((p) => /^iPhone 14(?: |$)/.test(p.name)).map((p) => p.name);
+          const expected = ['iPhone 14 Pro Max', 'iPhone 14 Pro', 'iPhone 14 Plus', 'iPhone 14'];
+          const errors = phones.flatMap((p) => [
+            /[（(](GSM|CDMA|Global|China|Verizon|AT&T|Sprint|T-Mobile)/i.test(p.name) ? `${p.name}: region` : '',
+            /sleeve|case|bumper|battery|wallet|headset/i.test(p.name) ? `${p.name}: accessory` : '',
+            !p.storage?.length ? `${p.name}: storage` : '',
+            !p.prices?.length ? `${p.name}: price` : '',
+            !p.initialOS ? `${p.name}: initialOS` : '',
+            !p.documentationUrl ? `${p.name}: documentation` : '',
+            p.name !== 'iPhone' && !p.models?.length ? `${p.name}: model` : '',
+          ].filter(Boolean));
+          if (JSON.stringify(order) !== JSON.stringify(expected)) errors.push(`order: ${order.join(' > ')}`);
+          if (errors.length) throw new Error(errors.join('\n'));
+          console.log(`Validated ${phones.length} iPhones`);
+          NODE
+      - name: Commit final data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f data/product-validation.json
+          rm -f .github/workflows/apply-product-patch.yml .github/workflows/validate-product-data.yml
+          git add -A
+          git commit -m "Finalize Japanese iPhone product data"
+          git pull --rebase origin main
+          git push origin HEAD:main
