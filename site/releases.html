@@ -7,6 +7,35 @@
     <title>OSアップデート — Orchard</title>
     <link rel="icon" href="./icon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="./styles.css">
+    <style>
+      .release-platform {
+        text-transform: none;
+        letter-spacing: .06em;
+      }
+      .release-badge {
+        font-weight: 600;
+      }
+      .release-badge.developer-beta {
+        color: #f2b36f;
+        border-color: rgba(242, 179, 111, .42);
+        background: rgba(242, 179, 111, .09);
+      }
+      .release-badge.public-beta {
+        color: #7db7f4;
+        border-color: rgba(125, 183, 244, .42);
+        background: rgba(125, 183, 244, .09);
+      }
+      .release-badge.rc {
+        color: #c5a0f5;
+        border-color: rgba(197, 160, 245, .42);
+        background: rgba(197, 160, 245, .09);
+      }
+      .release-badge.stable {
+        color: #7bc995;
+        border-color: rgba(123, 201, 149, .42);
+        background: rgba(123, 201, 149, .09);
+      }
+    </style>
     <script src="./releases.js" defer></script>
   </head>
   <body>
