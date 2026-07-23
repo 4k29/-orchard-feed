@@ -165,7 +165,15 @@
         throw new Error(`Workflow finished with ${run.conclusion}`);
       }
 
+      const checkedAt = run.updated_at || run.run_started_at || run.created_at || new Date().toISOString();
+      if (typeof window.setOrchardReleaseLastCheck === "function") {
+        window.setOrchardReleaseLastCheck(checkedAt);
+      }
+
       setState({ running: false, text: "取得完了" });
+      if (typeof window.refreshOrchardReleaseMeta === "function") {
+        await window.refreshOrchardReleaseMeta();
+      }
       await delay(1_000);
       window.location.reload();
     } catch (error) {
