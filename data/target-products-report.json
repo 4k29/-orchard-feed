@@ -1,127 +1,18 @@
 {
-  "updatedAt": "2026-07-23T07:11:42.412Z",
+  "updatedAt": "2026-07-23T07:16:21.038Z",
   "metadataWarnings": [],
   "summary": {
-    "products": 191,
-    "targets": 141,
-    "missingDocs": 4,
-    "missingPrices": 31,
+    "products": 188,
+    "targets": 138,
+    "missingDocs": 0,
+    "missingPrices": 29,
     "duplicateKeys": 0,
-    "airPods": 13,
-    "watches": 20,
+    "airPods": 12,
+    "watches": 18,
     "macs": 56
   },
   "duplicateKeys": [],
-  "missingDocs": [
-    {
-      "name": "AirPods Pro Charging Case",
-      "family": "AirPods",
-      "released": "2019-10-30",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [],
-      "models": [
-        "A2190"
-      ],
-      "identifiers": [],
-      "colors": [
-        {
-          "name": "White",
-          "hex": "E6E7EB"
-        }
-      ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirPods%20Pro%20Charging%20Case%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
-    },
-    {
-      "name": "Apple Watch（第1世代）",
-      "family": "Apple Watch",
-      "released": "2015-04-24",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "S1"
-      ],
-      "models": [
-        "A1553",
-        "A1554"
-      ],
-      "identifiers": [
-        "Watch1,1",
-        "Watch1,2"
-      ],
-      "colors": [
-        {
-          "name": "Gold",
-          "hex": "F3D7C8"
-        },
-        {
-          "name": "Gold - Rose Gold",
-          "hex": "E2C2BB"
-        },
-        {
-          "name": "Gold - Yellow Gold",
-          "hex": "E6D0A0"
-        },
-        {
-          "name": "Rose Gold",
-          "hex": "A58377"
-        },
-        {
-          "name": "Silver",
-          "hex": "9C9C9E"
-        },
-        {
-          "name": "Space Gray",
-          "hex": "6C6B69"
-        },
-        {
-          "name": "Stainless Steel - Silver",
-          "hex": "686868"
-        },
-        {
-          "name": "Stainless Steel - Space Black",
-          "hex": "393734"
-        }
-      ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%EF%BC%88%E7%AC%AC1%E4%B8%96%E4%BB%A3%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
-    },
-    {
-      "name": "Apple Watch（第1世代）（Store Display Model）",
-      "family": "Apple Watch",
-      "released": "2015-04-24",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "S1"
-      ],
-      "models": [
-        "A1638"
-      ],
-      "identifiers": [
-        "Watch1,2"
-      ],
-      "colors": [],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%EF%BC%88%E7%AC%AC1%E4%B8%96%E4%BB%A3%EF%BC%89%EF%BC%88Store%20Display%20Model%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
-    },
-    {
-      "name": "Apple Watch Edition（第1世代） Charging Box",
-      "family": "Apple Watch",
-      "released": null,
-      "prices": [],
-      "priceHistory": false,
-      "chips": [],
-      "models": [
-        "A1647"
-      ],
-      "identifiers": [],
-      "colors": [],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Edition%EF%BC%88%E7%AC%AC1%E4%B8%96%E4%BB%A3%EF%BC%89%20Charging%20Box%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
-    }
-  ],
+  "missingDocs": [],
   "missingPrices": [
     {
       "name": "Mac Studio（M3 Ultra、2025）",
@@ -816,6 +707,62 @@
       "documentationDirect": true
     },
     {
+      "name": "MacBook Pro（16インチ、M1 Max、2021）",
+      "family": "Mac",
+      "released": "2021-10-18",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "M1 Max"
+      ],
+      "models": [
+        "A2485"
+      ],
+      "identifiers": [
+        "MacBookPro18,2"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "BEBFC3"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "7F8084"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111901",
+      "documentationDirect": true
+    },
+    {
+      "name": "MacBook Pro（14インチ、M1 Max、2021）",
+      "family": "Mac",
+      "released": "2021-10-18",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "M1 Max"
+      ],
+      "models": [
+        "A2442"
+      ],
+      "identifiers": [
+        "MacBookPro18,4"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "BABBBD"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "6E6F73"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/111902",
+      "documentationDirect": true
+    },
+    {
       "name": "iMac（24インチ、M1、2021、Four Ports）",
       "family": "Mac",
       "released": "2021-05-21",
@@ -922,114 +869,6 @@
       ],
       "documentationUrl": "https://support.apple.com/ja-jp/111894",
       "documentationDirect": true
-    },
-    {
-      "name": "AirPods Pro Charging Case",
-      "family": "AirPods",
-      "released": "2019-10-30",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [],
-      "models": [
-        "A2190"
-      ],
-      "identifiers": [],
-      "colors": [
-        {
-          "name": "White",
-          "hex": "E6E7EB"
-        }
-      ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirPods%20Pro%20Charging%20Case%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
-    },
-    {
-      "name": "Apple Watch（第1世代）",
-      "family": "Apple Watch",
-      "released": "2015-04-24",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "S1"
-      ],
-      "models": [
-        "A1553",
-        "A1554"
-      ],
-      "identifiers": [
-        "Watch1,1",
-        "Watch1,2"
-      ],
-      "colors": [
-        {
-          "name": "Gold",
-          "hex": "F3D7C8"
-        },
-        {
-          "name": "Gold - Rose Gold",
-          "hex": "E2C2BB"
-        },
-        {
-          "name": "Gold - Yellow Gold",
-          "hex": "E6D0A0"
-        },
-        {
-          "name": "Rose Gold",
-          "hex": "A58377"
-        },
-        {
-          "name": "Silver",
-          "hex": "9C9C9E"
-        },
-        {
-          "name": "Space Gray",
-          "hex": "6C6B69"
-        },
-        {
-          "name": "Stainless Steel - Silver",
-          "hex": "686868"
-        },
-        {
-          "name": "Stainless Steel - Space Black",
-          "hex": "393734"
-        }
-      ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%EF%BC%88%E7%AC%AC1%E4%B8%96%E4%BB%A3%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
-    },
-    {
-      "name": "Apple Watch（第1世代）（Store Display Model）",
-      "family": "Apple Watch",
-      "released": "2015-04-24",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "S1"
-      ],
-      "models": [
-        "A1638"
-      ],
-      "identifiers": [
-        "Watch1,2"
-      ],
-      "colors": [],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%EF%BC%88%E7%AC%AC1%E4%B8%96%E4%BB%A3%EF%BC%89%EF%BC%88Store%20Display%20Model%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
-    },
-    {
-      "name": "Apple Watch Edition（第1世代） Charging Box",
-      "family": "Apple Watch",
-      "released": null,
-      "prices": [],
-      "priceHistory": false,
-      "chips": [],
-      "models": [
-        "A1647"
-      ],
-      "identifiers": [],
-      "colors": [],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Edition%EF%BC%88%E7%AC%AC1%E4%B8%96%E4%BB%A3%EF%BC%89%20Charging%20Box%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
     }
   ],
   "airPods": [
@@ -1055,23 +894,23 @@
       "colors": [
         {
           "name": "Blue",
-          "hex": ""
+          "hex": "64727D"
         },
         {
           "name": "Purple",
-          "hex": ""
+          "hex": "DAD8E1"
         },
         {
           "name": "Midnight",
-          "hex": ""
+          "hex": "22252B"
         },
         {
           "name": "Starlight",
-          "hex": ""
+          "hex": "EAE1D4"
         },
         {
           "name": "Orange",
-          "hex": ""
+          "hex": "FFC09E"
         }
       ],
       "documentationUrl": "https://support.apple.com/ja-jp/126620",
@@ -1098,23 +937,23 @@
       "colors": [
         {
           "name": "Blue",
-          "hex": ""
+          "hex": "64727D"
         },
         {
           "name": "Purple",
-          "hex": ""
+          "hex": "DAD8E1"
         },
         {
           "name": "Midnight",
-          "hex": ""
+          "hex": "22252B"
         },
         {
           "name": "Starlight",
-          "hex": ""
+          "hex": "EAE1D4"
         },
         {
           "name": "Orange",
-          "hex": ""
+          "hex": "FFC09E"
         }
       ],
       "documentationUrl": "https://support.apple.com/ja-jp/121205",
@@ -1235,23 +1074,23 @@
       "colors": [
         {
           "name": "Space Gray",
-          "hex": ""
+          "hex": "6E6E73"
         },
         {
           "name": "Silver",
-          "hex": ""
+          "hex": "E3E4E5"
         },
         {
           "name": "Sky Blue",
-          "hex": ""
+          "hex": "91AAB6"
         },
         {
           "name": "Green",
-          "hex": ""
+          "hex": "A8C4B8"
         },
         {
           "name": "Pink",
-          "hex": ""
+          "hex": "E8B4B8"
         }
       ],
       "documentationUrl": "https://support.apple.com/ja-jp/111858",
@@ -1287,26 +1126,6 @@
       ],
       "documentationUrl": "https://support.apple.com/ja-jp/111861",
       "documentationDirect": true
-    },
-    {
-      "name": "AirPods Pro Charging Case",
-      "family": "AirPods",
-      "released": "2019-10-30",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [],
-      "models": [
-        "A2190"
-      ],
-      "identifiers": [],
-      "colors": [
-        {
-          "name": "White",
-          "hex": "E6E7EB"
-        }
-      ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirPods%20Pro%20Charging%20Case%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
     },
     {
       "name": "AirPods 2",
@@ -1427,7 +1246,7 @@
       ],
       "priceHistory": false,
       "chips": [
-        "H3"
+        "H2"
       ],
       "models": [
         "A3063",
