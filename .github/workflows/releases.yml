@@ -1,0 +1,39 @@
+name: Sync Apple OS beta history
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/releases.mjs"
+      - ".github/workflows/releases.yml"
+  schedule:
+    - cron: "37 3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: orchard-releases-sync
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch AppleDB OS history
+        run: |
+          git clone --depth 1 --filter=blob:none --sparse https://github.com/littlebyteorg/appledb.git /tmp/appledb
+          git -C /tmp/appledb sparse-checkout set osFiles
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Build beta history
+        run: node scripts/releases.mjs /tmp/appledb/osFiles data/releases.json
+      - name: Save beta history
+        run: |
+          if git diff --quiet -- data/releases.json; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/releases.json
+          git commit -m "Update Apple OS beta history"
+          git pull --rebase origin main
+          git push origin HEAD:main
