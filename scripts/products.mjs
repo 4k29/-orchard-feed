@@ -95,7 +95,12 @@ function category(product) {
 function isPart(product) {
   const name = product.name || "";
   const family = product.type || "";
+  if (/software|application/i.test(family)) return true;
   if (/(^|[ (])(left|right)([ )]|$)/i.test(name)) return true;
+  if (/\bdock\b|raid card|superdrive|developer transition kit|virtual machine|riser|diagnostic dock|restore dock/i.test(name)) {
+    return true;
+  }
+  if (!/^PowerBook\b/i.test(name) && /\bkeyboard\b/i.test(name)) return true;
   if (!/^airpods\b/i.test(name) && /charging case|smart case|battery case|\bcase\b/i.test(name)) {
     return true;
   }
@@ -123,6 +128,7 @@ function nameJa(value, family) {
   }
   return name
     .replace(/\(([^)]*)\)/g, "（$1）")
+    .replace(/\s+（/g, "（")
     .replace(/\s*,\s*/g, "、")
     .replace(/\s{2,}/g, " ")
     .trim();
