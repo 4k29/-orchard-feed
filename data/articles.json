@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "eab388bdf7075c08f62f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "You Can Now Recover Your Google Account With a Selfie Video",
+      "url": "https://www.macrumors.com/2026/07/23/google-account-selfie-video/",
+      "publishedAt": "2026-07-23T10:00:10.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/google-selfie-video.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Google、セルフィー動画でアカウント復旧可能に",
+      "summaryJa": "Googleは、アカウント復旧のための新しいセルフィー動画サインインオプションを導入しました。この方法では、ユーザーがカメラに向かって特定の頭の動きを行い、複数の角度からの動画を撮影します。撮影した動画はアカウントに保存され、メールアドレスや信頼できるデバイスにアクセスできない場合に使用できます。Googleは、アカウントへのアクセスを許可するために新しいセルフィー動画を既存のものと比較し、AI生成の写真や動画によるなりすましを防ぐためのセキュリティ対策を講じています。"
+    },
+    {
       "id": "655a4b5167544f464bbd",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -2506,7 +2521,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-23T01:16:29.242Z",
+  "updatedAt": "2026-07-23T10:48:35.414Z",
   "initialized": true,
   "summaryVersion": 4
 }
