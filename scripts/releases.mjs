@@ -13,6 +13,16 @@ const roots = new Map([
   ["visionOS", "visionOS"],
 ]);
 
+const publicBetaWaves = [
+  {
+    major: "27",
+    number: 1,
+    releasedAt: "2026-07-13",
+    developerBeta: 3,
+    platforms: ["iOS", "iPadOS", "macOS", "watchOS", "tvOS", "HomePod"],
+  },
+];
+
 const releaseNotes = {
   iOS: {
     "26.0": [
@@ -200,6 +210,39 @@ function displayVersion(product, channel) {
   return raw;
 }
 
+function addPublicBetaWaves(output) {
+  const releases = [...output.values()];
+  for (const wave of publicBetaWaves) {
+    for (const platform of wave.platforms) {
+      const sourceRelease = releases
+        .filter(
+          (release) =>
+            release.platform === platform &&
+            release.channel === "developer-beta" &&
+            release.version.startsWith(`${wave.major}.0 Dev Beta ${wave.developerBeta}`) &&
+            release.releasedAt <= wave.releasedAt,
+        )
+        .sort(
+          (a, b) =>
+            b.releasedAt.localeCompare(a.releasedAt) ||
+            b.build.localeCompare(a.build, undefined, { numeric: true }),
+        )[0];
+
+      if (!sourceRelease) continue;
+      const version = `${wave.major}.0 Pub Beta ${wave.number}`;
+      const key = [platform, version.toLowerCase(), sourceRelease.build, wave.releasedAt].join("|");
+      if (output.has(key)) continue;
+
+      output.set(key, {
+        ...sourceRelease,
+        version,
+        releasedAt: wave.releasedAt,
+        channel: "public-beta",
+      });
+    }
+  }
+}
+
 export function buildReleases(root) {
   const output = new Map();
   for (const file of files(root)) {
@@ -247,6 +290,8 @@ export function buildReleases(root) {
       sourceUrl: source(platform, major),
     });
   }
+
+  addPublicBetaWaves(output);
 
   return [...output.values()].sort(
     (a, b) =>
