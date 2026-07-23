@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="./manual-sync.css?v=20260723-3" />
     <script src="./products.js?v=20260723-6" defer></script>
     <script src="./products-ui.js?v=20260723-3" defer></script>
-    <script src="./product-manual-sync.js?v=20260723-1" defer></script>
+    <script src="./product-manual-sync.js?v=20260723-2" defer></script>
   </head>
   <body>
     <main class="site-shell">
@@ -60,11 +60,10 @@
                 <path d="M19 8a7.5 7.5 0 1 0 .3 7.5"></path>
                 <path d="M19 3v5h-5"></path>
               </svg>
-              <span id="product-manual-sync-label">更新</span>
+              <span id="product-manual-sync-label" aria-live="polite">更新</span>
             </button>
           </div>
         </div>
-        <p class="manual-sync-message" id="product-manual-sync-status" aria-live="polite" hidden></p>
 
         <div class="family-filter" id="family-filter" aria-label="製品カテゴリー"></div>
         <div class="advanced-filters" id="advanced-filters" aria-label="詳細な絞り込み" hidden></div>
