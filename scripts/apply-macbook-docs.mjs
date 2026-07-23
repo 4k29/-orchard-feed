@@ -50,6 +50,7 @@ function size(product) {
 const products = [];
 const unmatched = [];
 let removed = 0;
+let updated = 0;
 
 for (const product of data.products || []) {
   if (!/MacBook/i.test(product.name || "")) {
@@ -68,18 +69,22 @@ for (const product of data.products || []) {
   const url = docs.get(key);
   if (!url) {
     unmatched.push(`${product.name} [${key}]`);
+    products.push(product);
     continue;
   }
   product.documentationUrl = url;
   product.documentationDirect = true;
   product.documentationSource = "Apple公式技術仕様";
   products.push(product);
+  updated += 1;
 }
 
-if (unmatched.length) throw new Error(`MacBook documentation mapping missing: ${unmatched.join(" / ")}`);
-
-data.products = products;
-data.count = products.length;
-data.updatedAt = new Date().toISOString();
-fs.writeFileSync(file, `${JSON.stringify(data)}\n`);
-console.log(`MacBook links updated; ${removed} pre-M-chip records removed.`);
+const result = {
+  updatedAt: new Date().toISOString(),
+  sources: data.sources || [],
+  count: products.length,
+  macbookDocsUnmatched: unmatched,
+  products,
+};
+fs.writeFileSync(file, `${JSON.stringify(result)}\n`);
+console.log(`MacBook links updated: ${updated}; pre-M-chip records removed: ${removed}; unmatched: ${unmatched.length}.`);
