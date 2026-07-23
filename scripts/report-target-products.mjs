@@ -12,7 +12,8 @@ const isTarget = (product) =>
   isMacBook(product) ||
   isDesktopMac(product) ||
   product.family === "Apple Watch" ||
-  product.family === "AirPods";
+  product.family === "AirPods" ||
+  product.family === "AirTag";
 const compact = (product) => ({
   name: product.name,
   family: product.family,
@@ -36,6 +37,10 @@ for (const product of targets) {
 const duplicateKeys = [...keyCounts].filter(([, count]) => count > 1).map(([key, count]) => ({ key, count }));
 const missingDocs = targets.filter((product) => !product.documentationDirect || !product.documentationUrl).map(compact);
 const missingPrices = targets.filter((product) => !(product.prices || []).length).map(compact);
+const missingPriceDates = targets.filter((product) => {
+  const prices = product.prices || [];
+  return prices.length > 1 && prices.slice(1).some((price) => !/\(\d{2}\/\d{1,2}\/\d{1,2}\)$/.test(String(price)));
+}).map(compact);
 const airPods = targets.filter((product) => product.family === "AirPods").map(compact);
 const watches = targets.filter((product) => product.family === "Apple Watch").map(compact);
 const macs = targets.filter((product) => isMacBook(product) || isDesktopMac(product)).map(compact);
@@ -48,6 +53,7 @@ const report = {
     targets: targets.length,
     missingDocs: missingDocs.length,
     missingPrices: missingPrices.length,
+    missingPriceDates: missingPriceDates.length,
     duplicateKeys: duplicateKeys.length,
     airPods: airPods.length,
     watches: watches.length,
@@ -56,6 +62,7 @@ const report = {
   duplicateKeys,
   missingDocs,
   missingPrices,
+  missingPriceDates,
   airPods,
 };
 
