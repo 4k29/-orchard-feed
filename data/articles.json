@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "e434d60280e2ae3082f9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI relaunches Apple Health-connected ChatGPT feature with expanded access",
+      "url": "https://9to5mac.com/2026/07/23/openai-relaunches-apple-health-connected-chatgpt-feature-with-expanded-access/",
+      "publishedAt": "2026-07-23T17:28:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/chatgpt-healthwebp.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、Apple Health連携のChatGPT機能を再展開",
+      "summaryJa": "OpenAIがChatGPTのHealth機能を再展開し、Apple Healthとの接続が可能になりました。新機能は米国のユーザー向けに提供され、ユーザーは健康情報を安全に接続し、過去の結果と比較したり、変化を追跡したりできるようになります。初期のテストからのフィードバックを基に改善が施され、ChatGPTはよりパーソナライズされた会話を提供します。"
+    },
+    {
+      "id": "3a6497ab3d6407900783",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Geekbench 7 Launches With Redesigned Multi-Core and GPU Benchmarks",
+      "url": "https://www.macrumors.com/2026/07/23/geekbench-7-launch/",
+      "publishedAt": "2026-07-23T17:00:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/geekbench-7.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Geekbench 7がマルチコアとGPUベンチマークを刷新",
+      "summaryJa": "Primate LabsがGeekbench 7を発表しました。新バージョンでは、実際のアプリケーションの動作を反映したマルチコアベンチマークが導入され、GPUベンチマークも機械学習やコンテンツ制作に焦点を当てています。新しいテストでは、リアルタイムフィルターや画像処理、ゲーム物理シミュレーションなどが含まれ、より現実的なパフォーマンス評価が可能です。"
+    },
+    {
+      "id": "57392b894a01015d6062",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Pay Promo Offers Discount on Columbia Gear",
+      "url": "https://www.macrumors.com/2026/07/23/apple-pay-columbia-promo/",
+      "publishedAt": "2026-07-23T16:38:05.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/columbia-apple-pay.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Payでコロンビア製品が割引中",
+      "summaryJa": "AppleがApple Payユーザー向けに、コロンビアのスポーツウェアが120ドル以上の購入で20ドル割引になるプロモーションを開始しました。この割引はコロンビアのウェブサイトでの購入時に適用され、店舗では利用できません。プロモーションは8月7日まで有効で、特定のコレクション商品は対象外です。"
+    },
+    {
+      "id": "3997b79fba2488db00c3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "'The Morning Show' Returning to Apple TV for a Final Season Next Year",
+      "url": "https://www.macrumors.com/2026/07/23/apple-tv-the-morning-show-final-season/",
+      "publishedAt": "2026-07-23T16:32:19.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/The-Morning-Show-Hero.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple TV『The Morning Show』、最終シーズンが決定",
+      "summaryJa": "Appleが『The Morning Show』の最終シーズンが2027年に放送されることを発表しました。このシリーズは2019年のApple TVの立ち上げ時に最初に配信された作品で、ジェニファー・アニストンやリース・ウィザースプーンなどのキャストが再登場します。"
+    },
+    {
+      "id": "b3dd5b64773136bb0904",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple announces The Morning Show is ending after season 5",
+      "url": "https://9to5mac.com/2026/07/23/apple-announces-the-morning-show-is-ending-after-season-5/",
+      "publishedAt": "2026-07-23T16:16:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/the-morning-show-s4-key-art-zoom.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、The Morning Showの終了を発表",
+      "summaryJa": "Appleは、Apple TVのオリジナルシリーズ『The Morning Show』がシーズン5で終了することを発表しました。最終シーズンは2027年に放送予定で、これまでの人気を受けての決定です。シーズン5には新たにジェフ・ダニエルズやジェシー・ウィリアムズがキャストに加わります。『The Morning Show』は2019年のApple TV+の立ち上げ時からの重要な作品であり、最終シーズンも秋に放送される見込みです。"
+    },
+    {
       "id": "4961da10f204c1c4ffa5",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -2821,7 +2896,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-23T16:11:09.047Z",
+  "updatedAt": "2026-07-23T17:47:52.804Z",
   "initialized": true,
   "summaryVersion": 4
 }
