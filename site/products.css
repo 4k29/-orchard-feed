@@ -1,0 +1,37 @@
+.advanced-filters {
+  margin: -4px 0 8px;
+  padding: 4px 0 10px;
+  border-top: 1px solid var(--line);
+}
+
+.filter-group {
+  display: grid;
+  grid-template-columns: 86px minmax(0, 1fr);
+  align-items: start;
+  gap: 14px;
+  padding-top: 14px;
+}
+
+.filter-label {
+  margin: 9px 0 0;
+  color: var(--quiet);
+  font-size: 10px;
+  letter-spacing: .08em;
+  white-space: nowrap;
+}
+
+.subfilter-row {
+  min-width: 0;
+  padding-bottom: 0;
+}
+
+@media (max-width: 640px) {
+  .filter-group {
+    grid-template-columns: 1fr;
+    gap: 7px;
+  }
+
+  .filter-label {
+    margin-top: 0;
+  }
+}
