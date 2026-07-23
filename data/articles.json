@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "13de2854352943cd9cdc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "ChatGPT and Codex are currently down for some users",
+      "url": "https://9to5mac.com/2026/07/23/chatgpt-and-codex-are-currently-down-for-some-users/",
+      "publishedAt": "2026-07-23T20:05:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/chatgpt-red.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ChatGPTとCodex、一部ユーザーで障害発生中",
+      "summaryJa": "OpenAIのシステムステータスページによると、ChatGPTとCodexを利用する一部ユーザーでエラー率が上昇しているとのことです。この問題は過去4時間続いており、OpenAIは約2時間前に緩和策を講じたと報告しています。DownDetectorの報告では、エラーの発生が減少傾向にあるものの、X上では依然として問題が続いているとの声が上がっています。"
+    },
+    {
+      "id": "171bce3bd96378f105ba",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone leasing, Apple Music price increase, iOS 27 beta 4",
+      "url": "https://9to5mac.com/2026/07/23/happy-hour-600/",
+      "publishedAt": "2026-07-23T20:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの新しいリースプログラムや音楽サービスの値上げ",
+      "summaryJa": "最近のAppleニュースでは、噂の新しい「Apple Upgrade」リースプログラムやApple Musicの価格引き上げ、iOS 27ベータ4の変更点が話題になっています。また、将来のMacやiPad向けのOLEDスクリーンの計画や、交換可能なバッテリーを持つ次世代Apple Pencilについても言及されています。さらに、AppleとFordがApple Musicを車載インフォテインメントシステムに直接統合する新たなパートナーシップを発表しました。"
+    },
+    {
+      "id": "42c0d0757633e8f06500",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: iPhone Ultra set to account for 25% of foldable smartphone shipments in 2026",
+      "url": "https://9to5mac.com/2026/07/23/report-iphone-ultra-set-to-account-for-25-of-foldable-smartphone-shipments-in-2026/",
+      "publishedAt": "2026-07-23T19:49:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone Ultra、2026年に折りたたみスマホ市場で25%のシェアか",
+      "summaryJa": "Counterpoint Researchの新しい報告によると、2026年の折りたたみスマートフォン出荷台数は前年比21%の成長が見込まれ、Appleはその市場に参入することで25%のシェアを獲得する可能性があるとされています。Samsungが依然としてリーダーであるものの、AppleはHuaweiをわずかに上回るシェアで2位に入ると予測されています。Appleの参入はプレミアム折りたたみ市場の競争を激化させると見られています。"
+    },
+    {
+      "id": "27d20a71fe291ce13438",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI updating ChatGPT desktop app with GPT Voice for talking through work",
+      "url": "https://9to5mac.com/2026/07/23/openai-updating-chatgpt-desktop-app-with-gpt-voice-for-talking-through-work/",
+      "publishedAt": "2026-07-23T19:36:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-codex.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ChatGPTデスクトップアプリに音声機能が追加",
+      "summaryJa": "OpenAIはChatGPTデスクトップアプリに大規模なアップデートを行い、作業を音声で進めるためのGPT Voiceモードを導入しました。この新機能は、今月モバイル版に登場したGPT-Liveを活用しており、ユーザーは音声でタスクを管理できるようになります。Macユーザーは、アクティブウィンドウを参照するAppshots機能も利用可能です。音声機能は、OpenAIの各プランでサポートされています。"
+    },
+    {
+      "id": "c0416b6ed1c22c5e859d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Anthropic upgrades Claude voice mode with more powerful models",
+      "url": "https://9to5mac.com/2026/07/23/anthropic-upgrades-claude-voice-mode-with-more-powerful-models/",
+      "publishedAt": "2026-07-23T19:16:12.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude-voice-mode.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Claudeの音声モードがアップグレード",
+      "summaryJa": "Anthropicは、Claudeの音声モードをアップグレードし、OpusおよびSonnetモデルに対応しました。これにより、ユーザーはより高性能なモデルを利用できるようになり、音声モードの機能がテキストベースの知能と一致しました。また、音声モード中にモデルを切り替えたり、11言語に対応したりすることも可能です。このアップグレードは、モバイル、デスクトップ、ウェブアプリで利用できます。"
+    },
+    {
       "id": "f2352d92d30cfd9cf128",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -2941,7 +3016,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-23T18:57:01.814Z",
+  "updatedAt": "2026-07-23T20:18:18.901Z",
   "initialized": true,
   "summaryVersion": 4
 }
