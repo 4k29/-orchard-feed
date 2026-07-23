@@ -15,6 +15,47 @@ const CHANNEL_ORDER = {
   stable: 3,
 };
 
+const OFFICIAL_NOTES = {
+  iOS: {
+    "26.0.1": [
+      "iPhone 17、iPhone Air、iPhone 17 ProモデルでWi-FiとBluetoothの接続が切れることがある問題を修正",
+      "一部のiPhoneでモバイル通信ネットワークに接続できないことがある問題を修正",
+      "写真のアーチファクト、空白のアプリアイコン、VoiceOverの問題を修正",
+      "重要なセキュリティアップデート",
+    ],
+  },
+  iPadOS: {
+    "26.0.1": [
+      "フローティングキーボードの位置が予期せず変わることがある問題を修正",
+      "一部のユーザでVoiceOverが無効になることがある問題を修正",
+      "重要なセキュリティアップデート",
+    ],
+  },
+  macOS: {
+    "26.0.1": [
+      "Mac Studio（M3 Ultra, 2025）でmacOS Tahoeにアップグレードできないことがある問題を修正",
+      "重要なバグ修正とセキュリティアップデート",
+    ],
+  },
+  watchOS: {
+    "26.0.2": ["Apple Watch用のバグ修正", "重要なセキュリティアップデート"],
+  },
+  tvOS: {
+    "26.0.1": ["パフォーマンスと安定性の改善"],
+  },
+  HomePod: {
+    "26.0": [
+      "Apple Musicのクロスフェードに対応",
+      "AirPlayの改善",
+      "バグ修正と安定性の改善",
+    ],
+    "26.0.1": ["パフォーマンスと安定性の改善"],
+  },
+  visionOS: {
+    "26.0.1": ["重要なバグ修正", "すべてのユーザに推奨されるアップデート"],
+  },
+};
+
 const fmt = (date) =>
   new Intl.DateTimeFormat("ja-JP", {
     year: "numeric",
@@ -41,33 +82,20 @@ function channelOf(release) {
 }
 
 function channelLabel(channel) {
-  if (channel === "developer-beta") return "Dev Beta";
-  if (channel === "public-beta") return "Pub Beta";
+  if (channel === "developer-beta") return "Dev β";
+  if (channel === "public-beta") return "Pub β";
   if (channel === "rc") return "RC";
   return "正規版";
 }
 
 function releaseTitle(release) {
-  const channel = channelOf(release);
-  let value = String(release.version || "")
-    .replace(/release candidate/gi, "Release Candidate")
-    .replace(/\brc\b/gi, "Release Candidate")
+  return String(release.version || "")
+    .replace(/\b(?:developer|dev|public|pub)\s+beta\b/gi, "beta")
+    .replace(/\bbeta\b/gi, "beta")
+    .replace(/\brelease candidate\b/gi, "RC")
+    .replace(/\brc\b/gi, "RC")
     .replace(/\s+/g, " ")
     .trim();
-
-  if (channel === "public-beta") {
-    value = value
-      .replace(/\bpublic\s+beta\b/i, "Public Beta")
-      .replace(/\bpub\s+beta\b/i, "Public Beta");
-    if (!/\bPublic Beta\b/.test(value)) value = value.replace(/\bbeta\b/i, "Public Beta");
-  } else if (channel === "developer-beta") {
-    value = value
-      .replace(/\bdeveloper\s+beta\b/i, "Developer Beta")
-      .replace(/\bdev\s+beta\b/i, "Developer Beta");
-    if (!/\bDeveloper Beta\b/.test(value)) value = value.replace(/\bbeta\b/i, "Developer Beta");
-  }
-
-  return value;
 }
 
 function fullReleaseTitle(release) {
@@ -75,17 +103,26 @@ function fullReleaseTitle(release) {
   return title.startsWith(`${release.platform} `) ? title : `${release.platform} ${title}`;
 }
 
+function numericVersion(version) {
+  return String(version || "").match(/^\d+(?:\.\d+){0,2}/)?.[0] || "";
+}
+
 function majorVersion(version) {
-  return String(version || "").match(/^\d+/)?.[0] || "";
+  return numericVersion(version).split(".")[0] || "";
 }
 
 function releaseSeries(version) {
-  const parts = String(version || "").match(/^\d+(?:\.\d+){0,2}/)?.[0]?.split(".") || [];
+  const parts = numericVersion(version).split(".").filter(Boolean);
   return parts.slice(0, 2).join(".");
 }
 
 function identity(release) {
-  return [release.platform, release.version, release.build, release.releasedAt].join("|");
+  return [release.platform, release.version, release.build, release.releasedAt, channelOf(release)].join("|");
+}
+
+function completeFeatures(release) {
+  const exact = OFFICIAL_NOTES[release.platform]?.[numericVersion(release.version)];
+  return exact ? [...exact] : [...(release.features || [])];
 }
 
 function removeRepeatedFeatures(rows) {
@@ -106,9 +143,16 @@ function removeRepeatedFeatures(rows) {
   });
 
   for (const release of chronological) {
+    const channel = channelOf(release);
+    const complete = completeFeatures(release);
+
+    if (channel === "rc" || channel === "stable") {
+      changedByRelease.set(identity(release), complete);
+      continue;
+    }
+
     const key = [release.platform, releaseSeries(release.version)].join("|");
     const previous = previousBySeries.get(key) || new Set();
-    const complete = release.features || [];
     changedByRelease.set(
       identity(release),
       complete.filter((feature) => !previous.has(feature)),
