@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="./styles.css" />
     <link rel="stylesheet" href="./products.css?v=20260723-5" />
     <script src="./products.js?v=20260723-6" defer></script>
-    <script src="./products-ui.js?v=20260723-2" defer></script>
+    <script src="./products-ui.js?v=20260723-3" defer></script>
   </head>
   <body>
     <main class="site-shell">
@@ -31,7 +31,7 @@
         <div class="database-heading">
           <div>
             <p class="section-label">Products</p>
-            <p class="sync-status" id="product-status">読み込んでいます…</p>
+            <p class="sync-status" id="product-status">最終確認を取得しています…</p>
           </div>
           <label class="search-field product-search">
             <span class="sr-only">製品を検索</span>
@@ -43,7 +43,7 @@
               id="product-search"
               type="search"
               inputmode="search"
-              placeholder="製品名、OS、チップ、型番で検索"
+              placeholder="検索"
               autocomplete="off"
             />
             <button class="search-clear" id="product-search-clear" type="button" aria-label="検索をクリア" hidden>
