@@ -1,13 +1,20 @@
 const U = "./data/products.json";
 const N = 48;
-const S = { a: [], f: [], c: "すべて", n: N };
+const S = { a: [], f: [], c: "すべて", v: "すべて", n: N };
 const G = document.querySelector("#product-grid");
 const T = document.querySelector("#product-status");
 const Q = document.querySelector("#product-search");
 const F = document.querySelector("#family-filter");
+const V = document.querySelector("#variant-filter");
 const M = document.querySelector("#load-more");
 const X = document.querySelector("#product-template");
-const C = ["iPhone", "iPad", "Apple Watch", "Mac", "AirPods", "AirTag", "HomePod"];
+const C = ["iPhone", "iPad", "MacBook", "Apple Watch", "Mac", "AirPods", "AirTag", "HomePod"];
+const VARIANTS = {
+  iPhone: ["Pro Max", "Max", "Pro", "Plus", "Air", "無印", "mini", "SE", "e"],
+  iPad: ["Pro", "Air", "無印", "mini"],
+  MacBook: ["Pro", "Air", "無印"],
+  "Apple Watch": ["Ultra", "Series", "SE", "その他"],
+};
 
 const uniq = (values) => [...new Set((values || []).filter(Boolean))];
 
@@ -19,7 +26,8 @@ function category(product) {
   if (text.includes("airpods")) return "AirPods";
   if (text.includes("airtag")) return "AirTag";
   if (text.includes("homepod")) return "HomePod";
-  if (/macbook|imac|mac mini|mac studio|mac pro|macintosh|powerbook|ibook/.test(text)) return "Mac";
+  if (/macbook|powerbook|ibook/.test(text)) return "MacBook";
+  if (/imac|mac mini|mac studio|mac pro|macintosh/.test(text)) return "Mac";
   return "";
 }
 
@@ -29,6 +37,7 @@ function isPart(product) {
   const text = `${name} ${family}`;
   if (/software|application/i.test(family)) return true;
   if (/(^|[ (])(left|right)([ )]|$)/i.test(name)) return true;
+  if (/nano-sim card for ipad/i.test(name)) return true;
   if (/\bdock\b|raid card|superdrive|developer transition kit|virtual machine|riser|diagnostic dock|restore dock/i.test(name)) return true;
   if (!/^PowerBook\b/i.test(name) && /\bkeyboard\b/i.test(name)) return true;
   if (!/^airpods\b/i.test(name) && /charging case|smart case|battery case|\bcase\b/i.test(name)) return true;
@@ -38,8 +47,10 @@ function isPart(product) {
 
 function stripRegionalSuffixes(value) {
   return String(value || "")
-    .replace(/\s*[（(](?:GSM|CDMA|Global|China(?: Mainland)?|Japan|Verizon|AT&T|Sprint|T-Mobile|Rest of World|ROW)(?:[^）)]*)[）)]\s*/gi, " ")
-    .replace(/\s*[-–—]\s*(?:GSM|CDMA|Global)\s*$/gi, " ");
+    .replace(/\s*[（(](?:GSM|CDMA|Global|China(?: Mainland)?|Japan|Verizon|AT&T|Sprint|T-Mobile|Rest of World|ROW|TD-LTE|MM|VZ|1\s*or\s*2\s*TB|1TB)(?:[^）)]*)[）)]\s*/gi, " ")
+    .replace(/\s*[-–—]\s*(?:GSM|CDMA|Global)\s*$/gi, " ")
+    .replace(/\s*\+\s*3G(?:\s*[（(][^）)]*[）)])?\s*$/gi, " ")
+    .replace(/\s*[（(]Mid 2012[）)]\s*$/gi, " ");
 }
 
 function japaneseName(value, family) {
@@ -64,6 +75,39 @@ function japaneseName(value, family) {
     .trim();
 }
 
+function variant(product) {
+  const name = product.name || "";
+  if (product.category === "iPhone") {
+    if (/Pro Max/i.test(name)) return "Pro Max";
+    if (/\bMax\b/i.test(name)) return "Max";
+    if (/\bPro\b/i.test(name)) return "Pro";
+    if (/\bPlus\b/i.test(name)) return "Plus";
+    if (/\bAir\b/i.test(name)) return "Air";
+    if (/\bmini\b/i.test(name)) return "mini";
+    if (/\bSE\b/i.test(name)) return "SE";
+    if (/\b\d+e\b/i.test(name)) return "e";
+    return "無印";
+  }
+  if (product.category === "iPad") {
+    if (/\bPro\b/i.test(name)) return "Pro";
+    if (/\bAir\b/i.test(name)) return "Air";
+    if (/\bmini\b/i.test(name)) return "mini";
+    return "無印";
+  }
+  if (product.category === "MacBook") {
+    if (/\bPro\b/i.test(name)) return "Pro";
+    if (/\bAir\b/i.test(name)) return "Air";
+    return "無印";
+  }
+  if (product.category === "Apple Watch") {
+    if (/\bUltra\b/i.test(name)) return "Ultra";
+    if (/\bSeries\b/i.test(name)) return "Series";
+    if (/\bSE\b/i.test(name)) return "SE";
+    return "その他";
+  }
+  return "";
+}
+
 function variantRank(product) {
   const name = product.name;
   if (product.category === "iPhone") {
@@ -75,7 +119,7 @@ function variantRank(product) {
     if (/\b(?:SE|\de)\b/i.test(name)) return 50;
     return 30;
   }
-  if (product.category === "Mac" && /MacBook/i.test(name)) {
+  if (product.category === "MacBook") {
     const size = Number(name.match(/(\d+(?:\.\d+)?)インチ/)?.[1] || 0);
     const chip = /\bMax\b/i.test(name) ? 0 : /\bPro\b/i.test(name) ? 1 : 2;
     return (20 - size) * 10 + chip;
@@ -180,7 +224,7 @@ function card(product) {
       fact("チップ", product.chips.join(" / ")),
       fact("ストレージ", product.storage.join(" / ")),
       fact("初期OS", product.initialOS),
-      fact("発売時価格", product.prices.join(" → ")),
+      fact(product.prices.length > 1 ? "価格履歴" : "発売時価格", product.prices.join(" → ")),
     );
   const colors = card.querySelector(".color-list");
   product.colors.slice(0, 12).forEach((color) => {
@@ -218,7 +262,9 @@ function haystack(product) {
   return [
     product.name,
     product.family,
+    product.category,
     product.initialOS,
+    variant(product),
     ...product.chips,
     ...product.storage,
     ...product.models,
@@ -241,23 +287,67 @@ function apply() {
   S.f = S.a.filter(
     (product) =>
       (S.c === "すべて" || product.category === S.c) &&
+      (S.v === "すべて" || variant(product) === S.v) &&
       (!query || haystack(product).includes(query)),
   );
   S.n = N;
   draw();
 }
 
+function filterButton(name, count, active, onClick) {
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = `filter-button${active ? " active" : ""}`;
+  button.dataset.filter = name;
+  button.textContent = `${name} ${count}`;
+  button.onclick = onClick;
+  return button;
+}
+
+function variantButtons() {
+  V.replaceChildren();
+  const order = VARIANTS[S.c];
+  if (!order) {
+    S.v = "すべて";
+    V.hidden = true;
+    return;
+  }
+  const familyProducts = S.a.filter((product) => product.category === S.c);
+  const available = order.filter((name) => familyProducts.some((product) => variant(product) === name));
+  if (!available.length) {
+    S.v = "すべて";
+    V.hidden = true;
+    return;
+  }
+  V.hidden = false;
+  ["すべて", ...available].forEach((name) => {
+    const count = name === "すべて"
+      ? familyProducts.length
+      : familyProducts.filter((product) => variant(product) === name).length;
+    V.append(
+      filterButton(name, count, name === S.v, () => {
+        S.v = name;
+        V.querySelectorAll("button").forEach((item) => item.classList.toggle("active", item.dataset.filter === name));
+        apply();
+      }),
+    );
+  });
+}
+
 function buttons() {
+  F.replaceChildren();
   ["すべて", ...C].forEach((name) => {
-    const button = document.createElement("button");
-    button.className = `filter-button${name === S.c ? " active" : ""}`;
-    button.textContent = `${name} ${name === "すべて" ? S.a.length : S.a.filter((product) => product.category === name).length}`;
-    button.onclick = () => {
-      S.c = name;
-      F.querySelectorAll("button").forEach((item) => item.classList.toggle("active", item === button));
-      apply();
-    };
-    F.append(button);
+    const count = name === "すべて" ? S.a.length : S.a.filter((product) => product.category === name).length;
+    if (name !== "すべて" && !count) return;
+    F.append(
+      filterButton(name, count, name === S.c, () => {
+        S.c = name;
+        S.v = "すべて";
+        F.querySelectorAll("button").forEach((item) => item.classList.toggle("active", item.dataset.filter === name));
+        variantButtons();
+        apply();
+      }),
+    );
   });
 }
 
@@ -272,6 +362,7 @@ fetch(U, { cache: "no-store" })
     S.a = mergeProducts(data.products || []);
     S.f = S.a;
     buttons();
+    variantButtons();
     draw();
   })
   .catch(() => {
