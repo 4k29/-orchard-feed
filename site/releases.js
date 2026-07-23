@@ -50,24 +50,29 @@ function channelLabel(channel) {
 function releaseTitle(release) {
   const channel = channelOf(release);
   let value = String(release.version || "")
-    .replace(/release candidate/gi, "RC")
-    .replace(/\brc\b/gi, "RC")
+    .replace(/release candidate/gi, "Release Candidate")
+    .replace(/\brc\b/gi, "Release Candidate")
     .replace(/\s+/g, " ")
     .trim();
 
   if (channel === "public-beta") {
     value = value
-      .replace(/\bpublic\s+beta\b/i, "Pub Beta")
-      .replace(/\bpub\s+beta\b/i, "Pub Beta");
-    if (!/\bPub Beta\b/.test(value)) value = value.replace(/\bbeta\b/i, "Pub Beta");
+      .replace(/\bpublic\s+beta\b/i, "Public Beta")
+      .replace(/\bpub\s+beta\b/i, "Public Beta");
+    if (!/\bPublic Beta\b/.test(value)) value = value.replace(/\bbeta\b/i, "Public Beta");
   } else if (channel === "developer-beta") {
     value = value
-      .replace(/\bdeveloper\s+beta\b/i, "Dev Beta")
-      .replace(/\bdev\s+beta\b/i, "Dev Beta");
-    if (!/\bDev Beta\b/.test(value)) value = value.replace(/\bbeta\b/i, "Dev Beta");
+      .replace(/\bdeveloper\s+beta\b/i, "Developer Beta")
+      .replace(/\bdev\s+beta\b/i, "Developer Beta");
+    if (!/\bDeveloper Beta\b/.test(value)) value = value.replace(/\bbeta\b/i, "Developer Beta");
   }
 
   return value;
+}
+
+function fullReleaseTitle(release) {
+  const title = releaseTitle(release);
+  return title.startsWith(`${release.platform} `) ? title : `${release.platform} ${title}`;
 }
 
 function majorVersion(version) {
@@ -160,7 +165,7 @@ function detail(release) {
   element.innerHTML =
     '<div class="release-platform-head"><div><p class="release-platform"></p><h3></h3></div><div class="release-platform-meta"><span class="release-build"></span><time></time></div></div><ul class="release-features"></ul>';
   element.querySelector(".release-platform").textContent = release.platform;
-  element.querySelector("h3").textContent = releaseTitle(release);
+  element.querySelector("h3").textContent = fullReleaseTitle(release);
   element.querySelector(".release-build").textContent = release.build;
   element.querySelector("time").textContent = fmt(release.releasedAt);
 
@@ -227,8 +232,9 @@ function groupCard(group) {
   summary.className = "release-group-summary";
   summary.innerHTML =
     '<div><p class="release-platform"></p><h2></h2><div class="release-badges"><span class="release-badge"></span></div></div><div class="release-group-side"><time></time><span class="release-count"></span><span class="release-chevron" aria-hidden="true"></span></div>';
-  summary.querySelector(".release-platform").textContent = P === "すべて" ? "OS" : P;
-  summary.querySelector("h2").textContent = group.version;
+  const platformLabel = P === "すべて" ? "OS" : P;
+  summary.querySelector(".release-platform").textContent = platformLabel;
+  summary.querySelector("h2").textContent = P === "すべて" ? group.version : `${P} ${group.version}`;
 
   const badge = summary.querySelector(".release-badge");
   badge.textContent = channelLabel(group.channel);
@@ -265,6 +271,7 @@ function draw() {
 }
 
 function buttons() {
+  F.replaceChildren();
   PS.forEach((name) => {
     const button = document.createElement("button");
     button.type = "button";
@@ -282,7 +289,7 @@ function buttons() {
 }
 
 Q.oninput = draw;
-fetch("./data/releases.json", { cache: "no-store" })
+fetch("./data/releases.json")
   .then((response) => {
     if (!response.ok) throw Error(response.status);
     return response.json();
@@ -297,7 +304,8 @@ fetch("./data/releases.json", { cache: "no-store" })
     buttons();
     draw();
   })
-  .catch(() => {
+  .catch((error) => {
+    console.error(error);
     T.textContent = "読み込みエラー";
     L.innerHTML =
       '<div class="empty-state">配信情報を読み込めませんでした。</div>';
