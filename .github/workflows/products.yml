@@ -5,6 +5,7 @@ on:
     paths:
       - "scripts/products.mjs"
       - "scripts/apply-ipad-prices.mjs"
+      - "scripts/apply-macbook-docs.mjs"
       - ".github/workflows/products.yml"
   schedule:
     - cron: "23 3 * * 1"
@@ -26,6 +27,7 @@ jobs:
       - run: npm ci
       - run: node scripts/products.mjs /tmp/appledb/deviceFiles data/products.json /tmp/appledb/osFiles
       - run: node scripts/apply-ipad-prices.mjs data/products.json
+      - run: node scripts/apply-macbook-docs.mjs data/products.json
       - run: |
           if git diff --quiet -- data/products.json; then exit 0; fi
           git config user.name "github-actions[bot]"
@@ -34,4 +36,4 @@ jobs:
           git commit -m "Update Apple product database"
           git pull --rebase origin main
           git push origin HEAD:main
-# Product records include AppleDB preinstalled OS metadata and verified iPad launch prices.
+# Product records include verified iPad prices and Apple MacBook documentation links.
