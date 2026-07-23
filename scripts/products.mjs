@@ -206,6 +206,15 @@ function canonical(value) {
     .toLowerCase();
 }
 
+function officialValue(map, name) {
+  if (map.has(name)) return map.get(name);
+  const key = canonical(name);
+  for (const [candidate, value] of map) {
+    if (canonical(candidate) === key) return value;
+  }
+  return null;
+}
+
 async function scrapeAppleMetadata() {
   const result = new Map();
   for (const url of [
@@ -297,12 +306,14 @@ export function buildProducts(root) {
       ...item.storage,
       ...array(product.info).flatMap((info) => array(info?.Storage ?? info?.storage)),
     ]);
-    if (officialStorage.has(name)) {
-      item.storage = officialStorage.get(name);
+    const verifiedStorage = officialValue(officialStorage, name);
+    if (verifiedStorage) {
+      item.storage = verifiedStorage;
       item.storageSource = "Apple公式技術仕様";
     }
-    if (officialPrices.has(name)) {
-      item.prices = officialPrices.get(name);
+    const verifiedPrices = officialValue(officialPrices, name);
+    if (verifiedPrices) {
+      item.prices = verifiedPrices;
       item.priceSource = "Apple Newsroom（日本）";
     }
     item.chips = unique([...item.chips, ...array(product.soc)]);
