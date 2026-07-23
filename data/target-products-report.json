@@ -1,0 +1,6796 @@
+[
+  {
+    "name": "AirPods Max 2",
+    "family": "AirPods",
+    "released": "2026-04-01",
+    "discontinued": null,
+    "prices": [
+      "89,800円"
+    ],
+    "chips": [
+      "H2"
+    ],
+    "models": [
+      "A3454"
+    ],
+    "identifiers": [
+      "AirPodsMax1,2",
+      "AirPods3,6",
+      "Device1,8237"
+    ],
+    "colors": [
+      "Blue",
+      "Midnight",
+      "Orange",
+      "Purple",
+      "Starlight"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirPods%20Max%202%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 17e",
+    "family": "iPhone",
+    "released": "2026-03-11",
+    "discontinued": null,
+    "prices": [
+      "99,800円"
+    ],
+    "chips": [
+      "A19"
+    ],
+    "models": [
+      "A3575"
+    ],
+    "identifiers": [
+      "iPhone18,5"
+    ],
+    "colors": [
+      "Black",
+      "Soft Pink",
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/126470",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（16インチ、M5 Max）",
+    "family": "Mac",
+    "released": "2026-03-11",
+    "discontinued": null,
+    "prices": [
+      "649,800円"
+    ],
+    "chips": [
+      "M5 Max"
+    ],
+    "models": [
+      "A3429"
+    ],
+    "identifiers": [
+      "Mac17,6"
+    ],
+    "colors": [
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/126319",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（16インチ、M5 Pro）",
+    "family": "Mac",
+    "released": "2026-03-11",
+    "discontinued": null,
+    "prices": [
+      "449,800円"
+    ],
+    "chips": [
+      "M5 Pro"
+    ],
+    "models": [
+      "A3428"
+    ],
+    "identifiers": [
+      "Mac17,8"
+    ],
+    "colors": [
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/126319",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Air（15インチ、M5）",
+    "family": "Mac",
+    "released": "2026-03-11",
+    "discontinued": null,
+    "prices": [
+      "219,800円"
+    ],
+    "chips": [
+      "M5"
+    ],
+    "models": [
+      "A3448"
+    ],
+    "identifiers": [
+      "Mac17,4"
+    ],
+    "colors": [
+      "Midnight",
+      "Silver",
+      "Sky Blue",
+      "Starlight"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/126321",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（14インチ、M5 Max）",
+    "family": "Mac",
+    "released": "2026-03-11",
+    "discontinued": null,
+    "prices": [
+      "599,800円"
+    ],
+    "chips": [
+      "M5 Max"
+    ],
+    "models": [
+      "A3427"
+    ],
+    "identifiers": [
+      "Mac17,7"
+    ],
+    "colors": [
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/126318",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（14インチ、M5 Pro）",
+    "family": "Mac",
+    "released": "2026-03-11",
+    "discontinued": null,
+    "prices": [],
+    "chips": [
+      "M5 Pro"
+    ],
+    "models": [
+      "A3426"
+    ],
+    "identifiers": [
+      "Mac17,9"
+    ],
+    "colors": [
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/126318",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Air（13インチ、M5）",
+    "family": "Mac",
+    "released": "2026-03-11",
+    "discontinued": null,
+    "prices": [
+      "184,800円"
+    ],
+    "chips": [
+      "M5"
+    ],
+    "models": [
+      "A3449"
+    ],
+    "identifiers": [
+      "Mac17,3"
+    ],
+    "colors": [
+      "Midnight",
+      "Silver",
+      "Sky Blue",
+      "Starlight"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/126320",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro 14インチ（M5）",
+    "family": "Mac",
+    "released": "2025-10-22",
+    "discontinued": null,
+    "prices": [
+      "248,800円",
+      "279,800円"
+    ],
+    "chips": [
+      "M5"
+    ],
+    "models": [
+      "A3434"
+    ],
+    "identifiers": [
+      "Mac17,2"
+    ],
+    "colors": [
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/125405",
+    "documentationDirect": true
+  },
+  {
+    "name": "Apple Watch Ultra 3",
+    "family": "Apple Watch",
+    "released": "2025-09-19",
+    "discontinued": null,
+    "prices": [
+      "129,800円"
+    ],
+    "chips": [
+      "S10"
+    ],
+    "models": [
+      "A3281",
+      "A3282"
+    ],
+    "identifiers": [
+      "Watch7,12"
+    ],
+    "colors": [
+      "Titanium - Black",
+      "Titanium - Natural"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Ultra%203%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 17 Pro Max",
+    "family": "iPhone",
+    "released": "2025-09-19",
+    "discontinued": null,
+    "prices": [
+      "194,800円"
+    ],
+    "chips": [
+      "A19 Pro"
+    ],
+    "models": [
+      "A3525"
+    ],
+    "identifiers": [
+      "iPhone18,2"
+    ],
+    "colors": [
+      "Cosmic Orange",
+      "Deep Blue",
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/125091",
+    "documentationDirect": true
+  },
+  {
+    "name": "Apple Watch Series 11",
+    "family": "Apple Watch",
+    "released": "2025-09-19",
+    "discontinued": null,
+    "prices": [
+      "64,800円"
+    ],
+    "chips": [
+      "S10"
+    ],
+    "models": [
+      "A3331",
+      "A3450",
+      "A3333",
+      "A3451",
+      "A3335",
+      "A3452",
+      "A3337",
+      "A3453"
+    ],
+    "identifiers": [
+      "Watch7,17",
+      "Watch7,18",
+      "Watch7,19",
+      "Watch7,20"
+    ],
+    "colors": [
+      "Jet Black",
+      "Rose Gold",
+      "Silver",
+      "Space Gray",
+      "Titanium - Gold",
+      "Titanium - Natural",
+      "Titanium - Silver",
+      "Titanium - Slate"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Series%2011%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 17 Pro",
+    "family": "iPhone",
+    "released": "2025-09-19",
+    "discontinued": null,
+    "prices": [
+      "179,800円"
+    ],
+    "chips": [
+      "A19 Pro"
+    ],
+    "models": [
+      "A3522"
+    ],
+    "identifiers": [
+      "iPhone18,1"
+    ],
+    "colors": [
+      "Cosmic Orange",
+      "Deep Blue",
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/125090",
+    "documentationDirect": true
+  },
+  {
+    "name": "Apple Watch SE 3",
+    "family": "Apple Watch",
+    "released": "2025-09-19",
+    "discontinued": null,
+    "prices": [
+      "37,800円"
+    ],
+    "chips": [
+      "S10"
+    ],
+    "models": [
+      "A3324",
+      "A3391",
+      "A3325",
+      "A3392",
+      "A3326",
+      "A3327",
+      "A3328",
+      "A3329"
+    ],
+    "identifiers": [
+      "Watch7,13",
+      "Watch7,14",
+      "Watch7,15",
+      "Watch7,16"
+    ],
+    "colors": [
+      "Midnight",
+      "Starlight"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20SE%203%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone Air",
+    "family": "iPhone",
+    "released": "2025-09-19",
+    "discontinued": null,
+    "prices": [
+      "159,800円"
+    ],
+    "chips": [
+      "A19 Pro"
+    ],
+    "models": [
+      "A3516"
+    ],
+    "identifiers": [
+      "iPhone18,4"
+    ],
+    "colors": [
+      "Cloud White",
+      "Light Gold",
+      "Sky Blue",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/125092",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 17",
+    "family": "iPhone",
+    "released": "2025-09-19",
+    "discontinued": null,
+    "prices": [
+      "129,800円"
+    ],
+    "chips": [
+      "A19"
+    ],
+    "models": [
+      "A3519"
+    ],
+    "identifiers": [
+      "iPhone18,3"
+    ],
+    "colors": [
+      "Black",
+      "Lavender",
+      "Mist Blue",
+      "Sage",
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/125089",
+    "documentationDirect": true
+  },
+  {
+    "name": "Mac Studio（M3 Ultra、2025）",
+    "family": "Mac",
+    "released": "2025-03-12",
+    "discontinued": null,
+    "prices": [],
+    "chips": [
+      "M3 Ultra"
+    ],
+    "models": [
+      "A3389"
+    ],
+    "identifiers": [
+      "Mac15,14"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Studio%EF%BC%88M3%20Ultra%E3%80%812025%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac Studio（M4 Max、2025）",
+    "family": "Mac",
+    "released": "2025-03-12",
+    "discontinued": null,
+    "prices": [],
+    "chips": [
+      "M4 Max"
+    ],
+    "models": [
+      "A3143"
+    ],
+    "identifiers": [
+      "Mac16,9"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Studio%EF%BC%88M4%20Max%E3%80%812025%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "MacBook Air（15インチ、M4、2025）",
+    "family": "Mac",
+    "released": "2025-03-12",
+    "discontinued": "2026-03-03",
+    "prices": [],
+    "chips": [
+      "M4"
+    ],
+    "models": [
+      "A3241"
+    ],
+    "identifiers": [
+      "Mac16,13"
+    ],
+    "colors": [
+      "Midnight",
+      "Silver",
+      "Sky Blue",
+      "Starlight"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/122210",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Air（13インチ、M4、2025）",
+    "family": "Mac",
+    "released": "2025-03-12",
+    "discontinued": "2026-03-03",
+    "prices": [],
+    "chips": [
+      "M4"
+    ],
+    "models": [
+      "A3240"
+    ],
+    "identifiers": [
+      "Mac16,12"
+    ],
+    "colors": [
+      "Midnight",
+      "Silver",
+      "Sky Blue",
+      "Starlight"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/122209",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 16e",
+    "family": "iPhone",
+    "released": "2025-02-28",
+    "discontinued": "2026-03-02",
+    "prices": [
+      "99,800円"
+    ],
+    "chips": [
+      "A18"
+    ],
+    "models": [
+      "A3409"
+    ],
+    "identifiers": [
+      "iPhone17,5"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/122208",
+    "documentationDirect": true
+  },
+  {
+    "name": "iMac（24インチ、M4、2024、Four Ports）",
+    "family": "Mac",
+    "released": "2024-11-08",
+    "discontinued": null,
+    "prices": [],
+    "chips": [
+      "M4"
+    ],
+    "models": [
+      "A3137"
+    ],
+    "identifiers": [
+      "Mac16,3"
+    ],
+    "colors": [
+      "Blue",
+      "Green",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Silver",
+      "Yellow"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8824%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81M4%E3%80%812024%E3%80%81Four%20Ports%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（24インチ、M4、2024、Two Ports）",
+    "family": "Mac",
+    "released": "2024-11-08",
+    "discontinued": null,
+    "prices": [],
+    "chips": [
+      "M4"
+    ],
+    "models": [
+      "A3247"
+    ],
+    "identifiers": [
+      "Mac16,2"
+    ],
+    "colors": [
+      "Blue",
+      "Green",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Silver",
+      "Yellow"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8824%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81M4%E3%80%812024%E3%80%81Two%20Ports%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（M4 Pro、2024）",
+    "family": "Mac",
+    "released": "2024-11-08",
+    "discontinued": null,
+    "prices": [],
+    "chips": [
+      "M4 Pro"
+    ],
+    "models": [
+      "A3239"
+    ],
+    "identifiers": [
+      "Mac16,11"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88M4%20Pro%E3%80%812024%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（M4、2024）",
+    "family": "Mac",
+    "released": "2024-11-08",
+    "discontinued": null,
+    "prices": [],
+    "chips": [
+      "M4"
+    ],
+    "models": [
+      "A3238"
+    ],
+    "identifiers": [
+      "Mac16,10"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88M4%E3%80%812024%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "MacBook Pro（16インチ、M4 Max、Nov 2024）",
+    "family": "Mac",
+    "released": "2024-11-08",
+    "discontinued": "2026-03-03",
+    "prices": [],
+    "chips": [
+      "M4 Max"
+    ],
+    "models": [
+      "A3186"
+    ],
+    "identifiers": [
+      "Mac16,5"
+    ],
+    "colors": [
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/121554",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（16インチ、M4 Pro、Nov 2024）",
+    "family": "Mac",
+    "released": "2024-11-08",
+    "discontinued": "2026-03-03",
+    "prices": [],
+    "chips": [
+      "M4 Pro"
+    ],
+    "models": [
+      "A3403"
+    ],
+    "identifiers": [
+      "Mac16,7"
+    ],
+    "colors": [
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/121554",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（14インチ、M4 Max、Nov 2024）",
+    "family": "Mac",
+    "released": "2024-11-08",
+    "discontinued": "2026-03-03",
+    "prices": [],
+    "chips": [
+      "M4 Max"
+    ],
+    "models": [
+      "A3185"
+    ],
+    "identifiers": [
+      "Mac16,6"
+    ],
+    "colors": [
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/121553",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（14インチ、M4 Pro、Nov 2024）",
+    "family": "Mac",
+    "released": "2024-11-08",
+    "discontinued": "2026-03-03",
+    "prices": [],
+    "chips": [
+      "M4 Pro"
+    ],
+    "models": [
+      "A3401"
+    ],
+    "identifiers": [
+      "Mac16,8"
+    ],
+    "colors": [
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/121553",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（14インチ、M4、Nov 2024）",
+    "family": "Mac",
+    "released": "2024-11-08",
+    "discontinued": "2025-10-15",
+    "prices": [],
+    "chips": [
+      "M4"
+    ],
+    "models": [
+      "A3112"
+    ],
+    "identifiers": [
+      "Mac16,1"
+    ],
+    "colors": [
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/121552",
+    "documentationDirect": true
+  },
+  {
+    "name": "AirPods Max with USB-C",
+    "family": "AirPods",
+    "released": "2024-09-20",
+    "discontinued": null,
+    "prices": [
+      "84,800円"
+    ],
+    "chips": [
+      "H1"
+    ],
+    "models": [
+      "A3184"
+    ],
+    "identifiers": [
+      "AirPodsMax1,1",
+      "Device1,8223"
+    ],
+    "colors": [
+      "Blue",
+      "Midnight",
+      "Orange",
+      "Purple",
+      "Starlight"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirPods%20Max%20with%20USB-C%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 16 Pro Max",
+    "family": "iPhone",
+    "released": "2024-09-20",
+    "discontinued": "2025-09-09",
+    "prices": [
+      "189,800円"
+    ],
+    "chips": [
+      "A18 Pro"
+    ],
+    "models": [
+      "A3295"
+    ],
+    "identifiers": [
+      "iPhone17,2"
+    ],
+    "colors": [
+      "Black Titanium",
+      "Desert Titanium",
+      "Natural Titanium",
+      "White Titanium"
+    ],
+    "documentationUrl": "https://support.apple.com/121032",
+    "documentationDirect": true
+  },
+  {
+    "name": "Apple Watch Series 10",
+    "family": "Apple Watch",
+    "released": "2024-09-20",
+    "discontinued": "2025-09-09",
+    "prices": [
+      "59,800円"
+    ],
+    "chips": [
+      "S10"
+    ],
+    "models": [
+      "A3001",
+      "A3002",
+      "A3003",
+      "A3206",
+      "A2997",
+      "A2998",
+      "A2999",
+      "A3000"
+    ],
+    "identifiers": [
+      "Watch7,10",
+      "Watch7,11",
+      "Watch7,8",
+      "Watch7,9"
+    ],
+    "colors": [
+      "Jet Black",
+      "Rose Gold",
+      "Silver",
+      "Titanium - Gold",
+      "Titanium - Natural",
+      "Titanium - Slate"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Series%2010%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 16 Pro",
+    "family": "iPhone",
+    "released": "2024-09-20",
+    "discontinued": "2025-09-09",
+    "prices": [
+      "159,800円"
+    ],
+    "chips": [
+      "A18 Pro"
+    ],
+    "models": [
+      "A3292"
+    ],
+    "identifiers": [
+      "iPhone17,1"
+    ],
+    "colors": [
+      "Black Titanium",
+      "Desert Titanium",
+      "Natural Titanium",
+      "White Titanium"
+    ],
+    "documentationUrl": "https://support.apple.com/121031",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 16 Plus",
+    "family": "iPhone",
+    "released": "2024-09-20",
+    "discontinued": null,
+    "prices": [
+      "139,800円"
+    ],
+    "chips": [
+      "A18"
+    ],
+    "models": [
+      "A3289"
+    ],
+    "identifiers": [
+      "iPhone17,4"
+    ],
+    "colors": [
+      "Black",
+      "Pink",
+      "Teal",
+      "Ultramarine",
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/121030",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 16",
+    "family": "iPhone",
+    "released": "2024-09-20",
+    "discontinued": null,
+    "prices": [
+      "124,800円"
+    ],
+    "chips": [
+      "A18"
+    ],
+    "models": [
+      "A3286"
+    ],
+    "identifiers": [
+      "iPhone17,3"
+    ],
+    "colors": [
+      "Black",
+      "Pink",
+      "Teal",
+      "Ultramarine",
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/121029",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Air（15インチ、M3、2024）",
+    "family": "Mac",
+    "released": "2024-03-08",
+    "discontinued": "2025-03-05",
+    "prices": [],
+    "chips": [
+      "M3"
+    ],
+    "models": [
+      "A3114"
+    ],
+    "identifiers": [
+      "Mac15,13"
+    ],
+    "colors": [
+      "Midnight",
+      "Silver",
+      "Space Gray",
+      "Starlight"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/118552",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Air（13インチ、M3、2024）",
+    "family": "Mac",
+    "released": "2024-03-08",
+    "discontinued": "2025-03-05",
+    "prices": [],
+    "chips": [
+      "M3"
+    ],
+    "models": [
+      "A3113"
+    ],
+    "identifiers": [
+      "Mac15,12"
+    ],
+    "colors": [
+      "Midnight",
+      "Silver",
+      "Space Gray",
+      "Starlight"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/118551",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（16インチ、14-core M3 Max、Nov 2023）",
+    "family": "Mac",
+    "released": "2023-11-09",
+    "discontinued": "2024-10-30",
+    "prices": [],
+    "chips": [
+      "M3 Max"
+    ],
+    "models": [
+      "A2991"
+    ],
+    "identifiers": [
+      "Mac15,11"
+    ],
+    "colors": [
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/117737",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（16インチ、16-core M3 Max、Nov 2023）",
+    "family": "Mac",
+    "released": "2023-11-09",
+    "discontinued": "2024-10-30",
+    "prices": [],
+    "chips": [
+      "M3 Max"
+    ],
+    "models": [
+      "A2991"
+    ],
+    "identifiers": [
+      "Mac15,9"
+    ],
+    "colors": [
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/117737",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（14インチ、14-core M3 Max、Nov 2023）",
+    "family": "Mac",
+    "released": "2023-11-09",
+    "discontinued": "2024-10-30",
+    "prices": [],
+    "chips": [
+      "M3 Max"
+    ],
+    "models": [
+      "A2992"
+    ],
+    "identifiers": [
+      "Mac15,10"
+    ],
+    "colors": [
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/117736",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（14インチ、16-core M3 Max、Nov 2023）",
+    "family": "Mac",
+    "released": "2023-11-09",
+    "discontinued": "2024-10-30",
+    "prices": [],
+    "chips": [
+      "M3 Max"
+    ],
+    "models": [
+      "A2992"
+    ],
+    "identifiers": [
+      "Mac15,8"
+    ],
+    "colors": [
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/117736",
+    "documentationDirect": true
+  },
+  {
+    "name": "iMac（24インチ、M3、2023、Four Ports）",
+    "family": "Mac",
+    "released": "2023-11-07",
+    "discontinued": "2024-10-28",
+    "prices": [],
+    "chips": [
+      "M3"
+    ],
+    "models": [
+      "A2874"
+    ],
+    "identifiers": [
+      "Mac15,5"
+    ],
+    "colors": [
+      "Blue",
+      "Green",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Silver",
+      "Yellow"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8824%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81M3%E3%80%812023%E3%80%81Four%20Ports%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（24インチ、M3、2023、Two Ports）",
+    "family": "Mac",
+    "released": "2023-11-07",
+    "discontinued": "2024-10-28",
+    "prices": [],
+    "chips": [
+      "M3"
+    ],
+    "models": [
+      "A2873"
+    ],
+    "identifiers": [
+      "Mac15,4"
+    ],
+    "colors": [
+      "Blue",
+      "Green",
+      "Pink",
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8824%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81M3%E3%80%812023%E3%80%81Two%20Ports%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "MacBook Pro（16インチ、M3 Pro、Nov 2023）",
+    "family": "Mac",
+    "released": "2023-11-07",
+    "discontinued": "2024-10-30",
+    "prices": [],
+    "chips": [
+      "M3 Pro"
+    ],
+    "models": [
+      "A2991"
+    ],
+    "identifiers": [
+      "Mac15,7"
+    ],
+    "colors": [
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/117737",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（14インチ、M3 Pro、Nov 2023）",
+    "family": "Mac",
+    "released": "2023-11-07",
+    "discontinued": "2024-10-30",
+    "prices": [],
+    "chips": [
+      "M3 Pro"
+    ],
+    "models": [
+      "A2992"
+    ],
+    "identifiers": [
+      "Mac15,6"
+    ],
+    "colors": [
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/117736",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（14インチ、M3、Nov 2023）",
+    "family": "Mac",
+    "released": "2023-11-07",
+    "discontinued": "2024-10-30",
+    "prices": [],
+    "chips": [
+      "M3"
+    ],
+    "models": [
+      "A2918"
+    ],
+    "identifiers": [
+      "Mac15,3"
+    ],
+    "colors": [
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/117735",
+    "documentationDirect": true
+  },
+  {
+    "name": "AirPods Pro",
+    "family": "AirPods",
+    "released": "2023-09-22",
+    "discontinued": null,
+    "prices": [],
+    "chips": [
+      "H2"
+    ],
+    "models": [
+      "A3048",
+      "A3049",
+      "A3047"
+    ],
+    "identifiers": [
+      "AirPodsPro1,2",
+      "AirPods3,1",
+      "Device1,8228"
+    ],
+    "colors": [
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirPods%20Pro%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Apple Watch Ultra 2",
+    "family": "Apple Watch",
+    "released": "2023-09-22",
+    "discontinued": "2025-09-09",
+    "prices": [],
+    "chips": [
+      "S9"
+    ],
+    "models": [
+      "A2986",
+      "A2987"
+    ],
+    "identifiers": [
+      "Watch7,5"
+    ],
+    "colors": [
+      "Titanium - Black",
+      "Titanium - Natural"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Ultra%202%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "family": "iPhone",
+    "released": "2023-09-22",
+    "discontinued": "2024-09-09",
+    "prices": [
+      "189,800円"
+    ],
+    "chips": [
+      "A17 Pro"
+    ],
+    "models": [
+      "A3105"
+    ],
+    "identifiers": [
+      "iPhone16,2"
+    ],
+    "colors": [
+      "Black Titanium",
+      "Blue Titanium",
+      "Natural Titanium",
+      "White Titanium"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111828",
+    "documentationDirect": true
+  },
+  {
+    "name": "Apple Watch Series 9",
+    "family": "Apple Watch",
+    "released": "2023-09-22",
+    "discontinued": "2024-09-09",
+    "prices": [],
+    "chips": [
+      "S9"
+    ],
+    "models": [
+      "A2978",
+      "A2980",
+      "A2982",
+      "A2983",
+      "A2984",
+      "A2985"
+    ],
+    "identifiers": [
+      "Watch7,1",
+      "Watch7,2",
+      "Watch7,3",
+      "Watch7,4"
+    ],
+    "colors": [
+      "(PRODUCT)RED",
+      "Midnight",
+      "Pink",
+      "Silver",
+      "Starlight",
+      "Stainless Steel - Gold",
+      "Stainless Steel - Graphite",
+      "Stainless Steel - Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Series%209%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "family": "iPhone",
+    "released": "2023-09-22",
+    "discontinued": "2024-09-09",
+    "prices": [
+      "159,800円"
+    ],
+    "chips": [
+      "A17 Pro"
+    ],
+    "models": [
+      "A3101"
+    ],
+    "identifiers": [
+      "iPhone16,1"
+    ],
+    "colors": [
+      "Black Titanium",
+      "Blue Titanium",
+      "Natural Titanium",
+      "White Titanium"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111829",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 15 Plus",
+    "family": "iPhone",
+    "released": "2023-09-22",
+    "discontinued": "2025-09-09",
+    "prices": [
+      "139,800円"
+    ],
+    "chips": [
+      "A16"
+    ],
+    "models": [
+      "A3093"
+    ],
+    "identifiers": [
+      "iPhone15,5"
+    ],
+    "colors": [
+      "Black",
+      "Blue",
+      "Green",
+      "Pink",
+      "Yellow"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111830",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 15",
+    "family": "iPhone",
+    "released": "2023-09-22",
+    "discontinued": "2025-09-09",
+    "prices": [
+      "124,800円"
+    ],
+    "chips": [
+      "A16"
+    ],
+    "models": [
+      "A3089"
+    ],
+    "identifiers": [
+      "iPhone15,4"
+    ],
+    "colors": [
+      "Black",
+      "Blue",
+      "Green",
+      "Pink",
+      "Yellow"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111831",
+    "documentationDirect": true
+  },
+  {
+    "name": "Mac Pro（2023）",
+    "family": "Mac",
+    "released": "2023-06-13",
+    "discontinued": "2026-03-26",
+    "prices": [],
+    "chips": [
+      "M2 Ultra"
+    ],
+    "models": [
+      "A2786"
+    ],
+    "identifiers": [
+      "Mac14,8"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Pro%EF%BC%882023%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac Pro（Rack、2023）",
+    "family": "Mac",
+    "released": "2023-06-13",
+    "discontinued": "2026-03-26",
+    "prices": [],
+    "chips": [
+      "M2 Ultra"
+    ],
+    "models": [
+      "A2787"
+    ],
+    "identifiers": [
+      "Mac14,8"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Pro%EF%BC%88Rack%E3%80%812023%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac Studio（M2 Max、2023）",
+    "family": "Mac",
+    "released": "2023-06-13",
+    "discontinued": "2025-03-05",
+    "prices": [],
+    "chips": [
+      "M2 Max"
+    ],
+    "models": [
+      "A2901"
+    ],
+    "identifiers": [
+      "Mac14,13"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Studio%EF%BC%88M2%20Max%E3%80%812023%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac Studio（M2 Ultra、2023）",
+    "family": "Mac",
+    "released": "2023-06-13",
+    "discontinued": "2025-03-05",
+    "prices": [],
+    "chips": [
+      "M2 Ultra"
+    ],
+    "models": [
+      "A2901"
+    ],
+    "identifiers": [
+      "Mac14,14"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Studio%EF%BC%88M2%20Ultra%E3%80%812023%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "MacBook Air（15インチ、M2、2023）",
+    "family": "Mac",
+    "released": "2023-06-13",
+    "discontinued": "2024-03-04",
+    "prices": [],
+    "chips": [
+      "M2"
+    ],
+    "models": [
+      "A2941"
+    ],
+    "identifiers": [
+      "Mac14,15"
+    ],
+    "colors": [
+      "Midnight",
+      "Silver",
+      "Space Gray",
+      "Starlight"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111346",
+    "documentationDirect": true
+  },
+  {
+    "name": "Mac mini（M2 Pro、2023）",
+    "family": "Mac",
+    "released": "2023-01-24",
+    "discontinued": "2024-10-29",
+    "prices": [],
+    "chips": [
+      "M2 Pro"
+    ],
+    "models": [
+      "A2816"
+    ],
+    "identifiers": [
+      "Mac14,12"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88M2%20Pro%E3%80%812023%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（M2、2023）",
+    "family": "Mac",
+    "released": "2023-01-24",
+    "discontinued": "2024-10-29",
+    "prices": [],
+    "chips": [
+      "M2"
+    ],
+    "models": [
+      "A2686"
+    ],
+    "identifiers": [
+      "Mac14,3"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88M2%E3%80%812023%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "MacBook Pro（16インチ、M2 Max、2023）",
+    "family": "Mac",
+    "released": "2023-01-24",
+    "discontinued": "2023-10-30",
+    "prices": [],
+    "chips": [
+      "M2 Max"
+    ],
+    "models": [
+      "A2780"
+    ],
+    "identifiers": [
+      "Mac14,6"
+    ],
+    "colors": [
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111838",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（16インチ、M2 Pro、2023）",
+    "family": "Mac",
+    "released": "2023-01-24",
+    "discontinued": "2023-10-30",
+    "prices": [],
+    "chips": [
+      "M2 Pro"
+    ],
+    "models": [
+      "A2780"
+    ],
+    "identifiers": [
+      "Mac14,10"
+    ],
+    "colors": [
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111838",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（14インチ、M2 Max、2023）",
+    "family": "Mac",
+    "released": "2023-01-24",
+    "discontinued": "2023-10-30",
+    "prices": [],
+    "chips": [
+      "M2 Max"
+    ],
+    "models": [
+      "A2779"
+    ],
+    "identifiers": [
+      "Mac14,5"
+    ],
+    "colors": [
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111340",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（14インチ、M2 Pro、2023）",
+    "family": "Mac",
+    "released": "2023-01-24",
+    "discontinued": "2023-10-30",
+    "prices": [],
+    "chips": [
+      "M2 Pro"
+    ],
+    "models": [
+      "A2779"
+    ],
+    "identifiers": [
+      "Mac14,9"
+    ],
+    "colors": [
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111340",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 14 Pro Max",
+    "family": "iPhone",
+    "released": "2022-09-16",
+    "discontinued": "2023-09-12",
+    "prices": [
+      "164,800円"
+    ],
+    "chips": [
+      "A16"
+    ],
+    "models": [
+      "A2893"
+    ],
+    "identifiers": [
+      "iPhone15,3"
+    ],
+    "colors": [
+      "Deep Purple",
+      "Gold",
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111846",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 14 Pro",
+    "family": "iPhone",
+    "released": "2022-09-16",
+    "discontinued": "2023-09-12",
+    "prices": [
+      "149,800円"
+    ],
+    "chips": [
+      "A16"
+    ],
+    "models": [
+      "A2889"
+    ],
+    "identifiers": [
+      "iPhone15,2"
+    ],
+    "colors": [
+      "Deep Purple",
+      "Gold",
+      "Silver",
+      "Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111849",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 14 Plus",
+    "family": "iPhone",
+    "released": "2022-10-07",
+    "discontinued": "2025-02-19",
+    "prices": [
+      "134,800円"
+    ],
+    "chips": [
+      "A15"
+    ],
+    "models": [
+      "A2885"
+    ],
+    "identifiers": [
+      "iPhone14,8"
+    ],
+    "colors": [
+      "Yellow",
+      "(PRODUCT)RED",
+      "Blue",
+      "Midnight",
+      "Purple",
+      "Starlight"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111854",
+    "documentationDirect": true
+  },
+  {
+    "name": "AirPods Pro",
+    "family": "AirPods",
+    "released": "2022-09-23",
+    "discontinued": null,
+    "prices": [],
+    "chips": [
+      "H2"
+    ],
+    "models": [
+      "A2618",
+      "A2699",
+      "A2931",
+      "A2619",
+      "A2698"
+    ],
+    "identifiers": [
+      "AirPodsPro1,2",
+      "AirPods3,1",
+      "Device1,8212"
+    ],
+    "colors": [
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirPods%20Pro%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Apple Watch Ultra",
+    "family": "Apple Watch",
+    "released": "2022-09-23",
+    "discontinued": "2023-09-12",
+    "prices": [],
+    "chips": [
+      "S8"
+    ],
+    "models": [
+      "A2622",
+      "A2684",
+      "A2859"
+    ],
+    "identifiers": [
+      "Watch6,18"
+    ],
+    "colors": [
+      "Titanium - Natural"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Ultra%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Apple Watch Series 8",
+    "family": "Apple Watch",
+    "released": "2022-09-16",
+    "discontinued": "2023-09-12",
+    "prices": [],
+    "chips": [
+      "S8"
+    ],
+    "models": [
+      "A2770",
+      "A2771",
+      "A2772",
+      "A2773",
+      "A2857",
+      "A2774",
+      "A2775",
+      "A2858"
+    ],
+    "identifiers": [
+      "Watch6,14",
+      "Watch6,15",
+      "Watch6,16",
+      "Watch6,17"
+    ],
+    "colors": [
+      "(PRODUCT)RED",
+      "Midnight",
+      "Silver",
+      "Starlight",
+      "Stainless Steel - Gold",
+      "Stainless Steel - Graphite",
+      "Stainless Steel - Silver",
+      "Stainless Steel - Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Series%208%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Apple Watch SE",
+    "family": "Apple Watch",
+    "released": "2022-09-16",
+    "discontinued": "2025-09-09",
+    "prices": [],
+    "chips": [
+      "S8"
+    ],
+    "models": [
+      "A2722",
+      "A2723",
+      "A2725",
+      "A2726",
+      "A2855",
+      "A2724",
+      "A2727",
+      "A2856"
+    ],
+    "identifiers": [
+      "Watch6,10",
+      "Watch6,11",
+      "Watch6,12",
+      "Watch6,13"
+    ],
+    "colors": [
+      "Midnight",
+      "Silver",
+      "Starlight"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20SE%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 14",
+    "family": "iPhone",
+    "released": "2022-09-16",
+    "discontinued": "2025-02-19",
+    "prices": [
+      "119,800円"
+    ],
+    "chips": [
+      "A15"
+    ],
+    "models": [
+      "A2881"
+    ],
+    "identifiers": [
+      "iPhone14,7"
+    ],
+    "colors": [
+      "Yellow",
+      "(PRODUCT)RED",
+      "Blue",
+      "Midnight",
+      "Purple",
+      "Starlight"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111850",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Air（M2、2022）",
+    "family": "Mac",
+    "released": "2022-07-15",
+    "discontinued": "2025-03-05",
+    "prices": [],
+    "chips": [
+      "M2"
+    ],
+    "models": [
+      "A2681"
+    ],
+    "identifiers": [
+      "Mac14,2"
+    ],
+    "colors": [
+      "Midnight",
+      "Silver",
+      "Space Gray",
+      "Starlight"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111867",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（13インチ、M2、2022）",
+    "family": "Mac",
+    "released": "2022-06-24",
+    "discontinued": "2023-10-30",
+    "prices": [],
+    "chips": [
+      "M2"
+    ],
+    "models": [
+      "A2338"
+    ],
+    "identifiers": [
+      "Mac14,7"
+    ],
+    "colors": [
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111869",
+    "documentationDirect": true
+  },
+  {
+    "name": "Mac Studio（M1 Max）",
+    "family": "Mac",
+    "released": "2022-03-18",
+    "discontinued": "2023-06-05",
+    "prices": [],
+    "chips": [
+      "M1 Max"
+    ],
+    "models": [
+      "A2615"
+    ],
+    "identifiers": [
+      "Mac13,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Studio%EF%BC%88M1%20Max%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac Studio（M1 Ultra）",
+    "family": "Mac",
+    "released": "2022-03-18",
+    "discontinued": "2023-06-05",
+    "prices": [],
+    "chips": [
+      "M1 Ultra"
+    ],
+    "models": [
+      "A2615"
+    ],
+    "identifiers": [
+      "Mac13,2"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Studio%EF%BC%88M1%20Ultra%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone SE（第3世代）",
+    "family": "iPhone",
+    "released": "2022-03-18",
+    "discontinued": "2025-02-19",
+    "prices": [
+      "57,800円",
+      "62,800円"
+    ],
+    "chips": [
+      "A15"
+    ],
+    "models": [
+      "A2782"
+    ],
+    "identifiers": [
+      "iPhone14,6"
+    ],
+    "colors": [
+      "(PRODUCT)RED",
+      "Midnight",
+      "Starlight"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111866",
+    "documentationDirect": true
+  },
+  {
+    "name": "AirPods",
+    "family": "AirPods",
+    "released": "2021-10-26",
+    "discontinued": null,
+    "prices": [],
+    "chips": [
+      "H1"
+    ],
+    "models": [
+      "A2564",
+      "A2565"
+    ],
+    "identifiers": [
+      "AirPods1,3",
+      "Audio2,1",
+      "Device1,8211"
+    ],
+    "colors": [
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirPods%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "MacBook Pro（16インチ、M1 Max、2021）",
+    "family": "Mac",
+    "released": "2021-10-18",
+    "discontinued": "2023-01-17",
+    "prices": [],
+    "chips": [
+      "M1 Max"
+    ],
+    "models": [
+      "A2485"
+    ],
+    "identifiers": [
+      "MacBookPro18,2"
+    ],
+    "colors": [
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111901",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（16インチ、M1 Pro、2021）",
+    "family": "Mac",
+    "released": "2021-10-18",
+    "discontinued": "2023-01-17",
+    "prices": [],
+    "chips": [
+      "M1 Pro"
+    ],
+    "models": [
+      "A2485"
+    ],
+    "identifiers": [
+      "MacBookPro18,1"
+    ],
+    "colors": [
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111901",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（14インチ、M1 Max、2021）",
+    "family": "Mac",
+    "released": "2021-10-18",
+    "discontinued": "2023-01-17",
+    "prices": [],
+    "chips": [
+      "M1 Max"
+    ],
+    "models": [
+      "A2442"
+    ],
+    "identifiers": [
+      "MacBookPro18,4"
+    ],
+    "colors": [
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111902",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Pro（14インチ、M1 Pro、2021）",
+    "family": "Mac",
+    "released": "2021-10-18",
+    "discontinued": "2023-01-17",
+    "prices": [],
+    "chips": [
+      "M1 Pro"
+    ],
+    "models": [
+      "A2442"
+    ],
+    "identifiers": [
+      "MacBookPro18,3"
+    ],
+    "colors": [
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111902",
+    "documentationDirect": true
+  },
+  {
+    "name": "Apple Watch Series 7",
+    "family": "Apple Watch",
+    "released": "2021-10-15",
+    "discontinued": "2022-09-07",
+    "prices": [],
+    "chips": [
+      "S7"
+    ],
+    "models": [
+      "A2473",
+      "A2474",
+      "A2475",
+      "A2476",
+      "A2477",
+      "A2478"
+    ],
+    "identifiers": [
+      "Watch6,6",
+      "Watch6,7",
+      "Watch6,8",
+      "Watch6,9"
+    ],
+    "colors": [
+      "(PRODUCT)RED",
+      "Blue",
+      "Green",
+      "Midnight",
+      "Starlight",
+      "Stainless Steel - Gold",
+      "Stainless Steel - Graphite",
+      "Stainless Steel - Silver",
+      "Stainless Steel - Space Black",
+      "Titanium",
+      "Titanium - Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Series%207%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 13 Pro Max",
+    "family": "iPhone",
+    "released": "2021-09-24",
+    "discontinued": "2022-09-07",
+    "prices": [
+      "134,800円",
+      "159,800円"
+    ],
+    "chips": [
+      "A15"
+    ],
+    "models": [
+      "A2641"
+    ],
+    "identifiers": [
+      "iPhone14,3"
+    ],
+    "colors": [
+      "Alpine Green",
+      "Gold",
+      "Graphite",
+      "Sierra Blue",
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111870",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 13 Pro",
+    "family": "iPhone",
+    "released": "2021-09-24",
+    "discontinued": "2022-09-07",
+    "prices": [
+      "122,800円",
+      "144,800円"
+    ],
+    "chips": [
+      "A15"
+    ],
+    "models": [
+      "A2636"
+    ],
+    "identifiers": [
+      "iPhone14,2"
+    ],
+    "colors": [
+      "Alpine Green",
+      "Gold",
+      "Graphite",
+      "Sierra Blue",
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111871",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 13",
+    "family": "iPhone",
+    "released": "2021-09-24",
+    "discontinued": "2024-09-09",
+    "prices": [
+      "98,800円",
+      "117,800円"
+    ],
+    "chips": [
+      "A15"
+    ],
+    "models": [
+      "A2631"
+    ],
+    "identifiers": [
+      "iPhone14,5"
+    ],
+    "colors": [
+      "Green",
+      "(PRODUCT)RED",
+      "Blue",
+      "Midnight",
+      "Pink",
+      "Starlight"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111872",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 13 mini",
+    "family": "iPhone",
+    "released": "2021-09-24",
+    "discontinued": "2023-09-12",
+    "prices": [
+      "86,800円",
+      "99,800円"
+    ],
+    "chips": [
+      "A15"
+    ],
+    "models": [
+      "A2626"
+    ],
+    "identifiers": [
+      "iPhone14,4"
+    ],
+    "colors": [
+      "Green",
+      "(PRODUCT)RED",
+      "Blue",
+      "Midnight",
+      "Pink",
+      "Starlight"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111873",
+    "documentationDirect": true
+  },
+  {
+    "name": "iMac（24インチ、M1、2021、Four Ports）",
+    "family": "Mac",
+    "released": "2021-05-21",
+    "discontinued": "2023-10-30",
+    "prices": [],
+    "chips": [
+      "M1"
+    ],
+    "models": [
+      "A2438"
+    ],
+    "identifiers": [
+      "iMac21,1"
+    ],
+    "colors": [
+      "Blue",
+      "Green",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Silver",
+      "Yellow"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8824%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81M1%E3%80%812021%E3%80%81Four%20Ports%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（24インチ、M1、2021、Two Ports）",
+    "family": "Mac",
+    "released": "2021-05-21",
+    "discontinued": "2023-10-30",
+    "prices": [],
+    "chips": [
+      "M1"
+    ],
+    "models": [
+      "A2439"
+    ],
+    "identifiers": [
+      "iMac21,2"
+    ],
+    "colors": [
+      "Blue",
+      "Green",
+      "Pink",
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8824%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81M1%E3%80%812021%E3%80%81Two%20Ports%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "AirPods Max",
+    "family": "AirPods",
+    "released": "2020-12-15",
+    "discontinued": null,
+    "prices": [],
+    "chips": [
+      "H1"
+    ],
+    "models": [
+      "A2096"
+    ],
+    "identifiers": [
+      "AirPodsMax1,1",
+      "iProd8,6",
+      "Device1,8202"
+    ],
+    "colors": [
+      "Green",
+      "Pink",
+      "Silver",
+      "Sky Blue",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirPods%20Max%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（M1、Late 2020）",
+    "family": "Mac",
+    "released": "2020-11-17",
+    "discontinued": "2023-01-17",
+    "prices": [],
+    "chips": [
+      "M1"
+    ],
+    "models": [
+      "A2348"
+    ],
+    "identifiers": [
+      "Macmini9,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88M1%E3%80%81Late%202020%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "MacBook Pro（13インチ、M1、2020）",
+    "family": "Mac",
+    "released": "2020-11-17",
+    "discontinued": "2022-06-06",
+    "prices": [],
+    "chips": [
+      "M1"
+    ],
+    "models": [
+      "A2338"
+    ],
+    "identifiers": [
+      "MacBookPro17,1"
+    ],
+    "colors": [
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111893",
+    "documentationDirect": true
+  },
+  {
+    "name": "MacBook Air（M1、2020）",
+    "family": "Mac",
+    "released": "2020-11-17",
+    "discontinued": "2024-03-04",
+    "prices": [],
+    "chips": [
+      "M1"
+    ],
+    "models": [
+      "A2337"
+    ],
+    "identifiers": [
+      "MacBookAir10,1"
+    ],
+    "colors": [
+      "Gold",
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111883",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 12 Pro Max",
+    "family": "iPhone",
+    "released": "2020-11-13",
+    "discontinued": "2021-09-14",
+    "prices": [
+      "129,580円"
+    ],
+    "chips": [
+      "A14"
+    ],
+    "models": [
+      "A2410"
+    ],
+    "identifiers": [
+      "iPhone13,4"
+    ],
+    "colors": [
+      "Gold",
+      "Graphite",
+      "Pacific Blue",
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111874",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 12 Pro",
+    "family": "iPhone",
+    "released": "2020-10-23",
+    "discontinued": "2021-09-14",
+    "prices": [
+      "117,480円"
+    ],
+    "chips": [
+      "A14"
+    ],
+    "models": [
+      "A2406"
+    ],
+    "identifiers": [
+      "iPhone13,3"
+    ],
+    "colors": [
+      "Gold",
+      "Graphite",
+      "Pacific Blue",
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111875",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 12",
+    "family": "iPhone",
+    "released": "2020-10-23",
+    "discontinued": "2023-09-12",
+    "prices": [
+      "94,380円"
+    ],
+    "chips": [
+      "A14"
+    ],
+    "models": [
+      "A2402"
+    ],
+    "identifiers": [
+      "iPhone13,2"
+    ],
+    "colors": [
+      "Purple",
+      "(PRODUCT)RED",
+      "Black",
+      "Blue",
+      "Green",
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111876",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 12 mini",
+    "family": "iPhone",
+    "released": "2020-11-13",
+    "discontinued": "2022-09-07",
+    "prices": [
+      "82,280円"
+    ],
+    "chips": [
+      "A14"
+    ],
+    "models": [
+      "A2398"
+    ],
+    "identifiers": [
+      "iPhone13,1"
+    ],
+    "colors": [
+      "Purple",
+      "(PRODUCT)RED",
+      "Black",
+      "Blue",
+      "Green",
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111877",
+    "documentationDirect": true
+  },
+  {
+    "name": "Apple Watch Series 6",
+    "family": "Apple Watch",
+    "released": "2020-09-18",
+    "discontinued": "2021-09-14",
+    "prices": [],
+    "chips": [
+      "S6"
+    ],
+    "models": [
+      "A2291",
+      "A2292",
+      "A2293",
+      "A2375",
+      "A2294",
+      "A2376"
+    ],
+    "identifiers": [
+      "Watch6,1",
+      "Watch6,2",
+      "Watch6,3",
+      "Watch6,4"
+    ],
+    "colors": [
+      "(PRODUCT)RED",
+      "Blue",
+      "Gold",
+      "Silver",
+      "Space Gray",
+      "Stainless Steel - Gold",
+      "Stainless Steel - Graphite",
+      "Stainless Steel - Silver",
+      "Stainless Steel - Space Black",
+      "Titanium",
+      "Titanium - Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Series%206%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Apple Watch SE",
+    "family": "Apple Watch",
+    "released": "2020-09-18",
+    "discontinued": "2022-09-07",
+    "prices": [],
+    "chips": [
+      "S5"
+    ],
+    "models": [
+      "A2352",
+      "A2353",
+      "A2355",
+      "A2354",
+      "A2356",
+      "A2351"
+    ],
+    "identifiers": [
+      "Watch5,10",
+      "Watch5,11",
+      "Watch5,12",
+      "Watch5,9"
+    ],
+    "colors": [
+      "Gold",
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20SE%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（Retina 5K、27インチ、2020、RX 5700/XT）",
+    "family": "Mac",
+    "released": "2020-08-04",
+    "discontinued": "2022-03-08",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A2115"
+    ],
+    "identifiers": [
+      "iMac20,2"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%88Retina%205K%E3%80%8127%E3%82%A4%E3%83%B3%E3%83%81%E3%80%812020%E3%80%81RX%205700%2FXT%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（Retina 5K、27インチ、2020）",
+    "family": "Mac",
+    "released": "2020-08-04",
+    "discontinued": "2022-03-08",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A2115"
+    ],
+    "identifiers": [
+      "iMac20,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%88Retina%205K%E3%80%8127%E3%82%A4%E3%83%B3%E3%83%81%E3%80%812020%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "T2（iMac20、1）",
+    "family": "Mac",
+    "released": "2020-08-04",
+    "discontinued": "2022-03-08",
+    "prices": [],
+    "chips": [
+      "T2"
+    ],
+    "models": [],
+    "identifiers": [
+      "iBridge2,19"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=T2%EF%BC%88iMac20%E3%80%811%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "T2（iMac20、2）",
+    "family": "Mac",
+    "released": "2020-08-04",
+    "discontinued": "2022-03-08",
+    "prices": [],
+    "chips": [
+      "T2"
+    ],
+    "models": [],
+    "identifiers": [
+      "iBridge2,20"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=T2%EF%BC%88iMac20%E3%80%812%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone SE（第2世代）",
+    "family": "iPhone",
+    "released": "2020-04-24",
+    "discontinued": "2022-03-08",
+    "prices": [
+      "44,800円（税別）"
+    ],
+    "chips": [
+      "A13"
+    ],
+    "models": [
+      "A2296"
+    ],
+    "identifiers": [
+      "iPhone12,8"
+    ],
+    "colors": [
+      "(PRODUCT)RED",
+      "Black",
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111882",
+    "documentationDirect": true
+  },
+  {
+    "name": "Mac Pro（Rack、2019）",
+    "family": "Mac",
+    "released": "2020-01-23",
+    "discontinued": "2023-06-05",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A2304"
+    ],
+    "identifiers": [
+      "MacPro7,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Pro%EF%BC%88Rack%E3%80%812019%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac Pro（2019）",
+    "family": "Mac",
+    "released": "2019-12-10",
+    "discontinued": "2023-06-05",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1991"
+    ],
+    "identifiers": [
+      "MacPro7,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Pro%EF%BC%882019%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "AirPods Pro",
+    "family": "AirPods",
+    "released": "2019-10-30",
+    "discontinued": null,
+    "prices": [],
+    "chips": [
+      "H1"
+    ],
+    "models": [
+      "A2083",
+      "A2084"
+    ],
+    "identifiers": [
+      "AirPodsPro1,1",
+      "AirPods2,2",
+      "iProd8,1",
+      "Device1,8206"
+    ],
+    "colors": [
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirPods%20Pro%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "AirPods Pro Charging Case",
+    "family": "AirPods",
+    "released": "2019-10-30",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A2190"
+    ],
+    "identifiers": [],
+    "colors": [
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirPods%20Pro%20Charging%20Case%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 11 Pro Max",
+    "family": "iPhone",
+    "released": "2019-09-20",
+    "discontinued": "2020-10-13",
+    "prices": [
+      "119,800円（税別）"
+    ],
+    "chips": [
+      "A13"
+    ],
+    "models": [
+      "A2218"
+    ],
+    "identifiers": [
+      "iPhone12,5"
+    ],
+    "colors": [
+      "Gold",
+      "Midnight Green",
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111878",
+    "documentationDirect": true
+  },
+  {
+    "name": "Apple Watch Series 5",
+    "family": "Apple Watch",
+    "released": "2019-09-20",
+    "discontinued": "2020-09-15",
+    "prices": [],
+    "chips": [
+      "S5"
+    ],
+    "models": [
+      "A2092",
+      "A2093",
+      "A2094",
+      "A2156",
+      "A2095",
+      "A2157"
+    ],
+    "identifiers": [
+      "Watch5,1",
+      "Watch5,2",
+      "Watch5,3",
+      "Watch5,4"
+    ],
+    "colors": [
+      "Gold",
+      "Silver",
+      "Space Gray",
+      "Ceramic - White",
+      "Stainless Steel - Gold",
+      "Stainless Steel - Silver",
+      "Stainless Steel - Space Black",
+      "Titanium",
+      "Titanium - Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Series%205%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 11 Pro",
+    "family": "iPhone",
+    "released": "2019-09-20",
+    "discontinued": "2020-10-13",
+    "prices": [
+      "106,800円（税別）"
+    ],
+    "chips": [
+      "A13"
+    ],
+    "models": [
+      "A2215"
+    ],
+    "identifiers": [
+      "iPhone12,3"
+    ],
+    "colors": [
+      "Gold",
+      "Midnight Green",
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111879",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 11",
+    "family": "iPhone",
+    "released": "2019-09-20",
+    "discontinued": "2022-09-07",
+    "prices": [
+      "74,800円（税別）"
+    ],
+    "chips": [
+      "A13"
+    ],
+    "models": [
+      "A2221"
+    ],
+    "identifiers": [
+      "iPhone12,1"
+    ],
+    "colors": [
+      "(PRODUCT)RED",
+      "Black",
+      "Green",
+      "Purple",
+      "White",
+      "Yellow"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111865",
+    "documentationDirect": true
+  },
+  {
+    "name": "AirPods",
+    "family": "AirPods",
+    "released": "2019-03-20",
+    "discontinued": null,
+    "prices": [],
+    "chips": [
+      "H1"
+    ],
+    "models": [
+      "A2031",
+      "A2032"
+    ],
+    "identifiers": [
+      "AirPods1,2",
+      "AirPods2,1",
+      "Device1,8207"
+    ],
+    "colors": [
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirPods%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（Retina 4K、21.5インチ、2019）",
+    "family": "Mac",
+    "released": "2019-03-19",
+    "discontinued": "2021-04-20",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A2116"
+    ],
+    "identifiers": [
+      "iMac19,2"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%88Retina%204K%E3%80%8121.5%E3%82%A4%E3%83%B3%E3%83%81%E3%80%812019%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（Retina 5K、27インチ、2019）",
+    "family": "Mac",
+    "released": "2019-03-19",
+    "discontinued": "2020-08-04",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A2115"
+    ],
+    "identifiers": [
+      "iMac19,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%88Retina%205K%E3%80%8127%E3%82%A4%E3%83%B3%E3%83%81%E3%80%812019%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（Late 2018）",
+    "family": "Mac",
+    "released": "2018-11-07",
+    "discontinued": "2023-01-17",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1993"
+    ],
+    "identifiers": [
+      "Macmini8,1"
+    ],
+    "colors": [
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88Late%202018%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone XS Max",
+    "family": "iPhone",
+    "released": "2018-09-21",
+    "discontinued": "2019-09-10",
+    "prices": [
+      "124,800円（税別）"
+    ],
+    "chips": [
+      "A12"
+    ],
+    "models": [
+      "A2102"
+    ],
+    "identifiers": [
+      "iPhone11,4",
+      "iPhone11,6"
+    ],
+    "colors": [
+      "Gold",
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111880",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone XR",
+    "family": "iPhone",
+    "released": "2018-10-26",
+    "discontinued": "2021-09-14",
+    "prices": [
+      "84,800円（税別）"
+    ],
+    "chips": [
+      "A12"
+    ],
+    "models": [
+      "A2106"
+    ],
+    "identifiers": [
+      "iPhone11,8"
+    ],
+    "colors": [
+      "(PRODUCT)RED",
+      "Black",
+      "Blue",
+      "Coral",
+      "White",
+      "Yellow"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111868",
+    "documentationDirect": true
+  },
+  {
+    "name": "Apple Watch Series 4",
+    "family": "Apple Watch",
+    "released": "2018-09-21",
+    "discontinued": "2019-09-10",
+    "prices": [],
+    "chips": [
+      "S4"
+    ],
+    "models": [
+      "A1977",
+      "A1978",
+      "A1975",
+      "A2007",
+      "A1976",
+      "A2008"
+    ],
+    "identifiers": [
+      "Watch4,1",
+      "Watch4,2",
+      "Watch4,3",
+      "Watch4,4"
+    ],
+    "colors": [
+      "Gold",
+      "Silver",
+      "Space Gray",
+      "Stainless Steel - Gold",
+      "Stainless Steel - Silver",
+      "Stainless Steel - Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Series%204%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone XS",
+    "family": "iPhone",
+    "released": "2018-09-21",
+    "discontinued": "2019-09-10",
+    "prices": [
+      "112,800円（税別）"
+    ],
+    "chips": [
+      "A12"
+    ],
+    "models": [
+      "A2098"
+    ],
+    "identifiers": [
+      "iPhone11,2"
+    ],
+    "colors": [
+      "Gold",
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111881",
+    "documentationDirect": true
+  },
+  {
+    "name": "iMac Pro（Retina 5K、27インチ、Late 2017）",
+    "family": "Mac",
+    "released": "2017-12-14",
+    "discontinued": "2021-03-19",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1862"
+    ],
+    "identifiers": [
+      "iMacPro1,1"
+    ],
+    "colors": [
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%20Pro%EF%BC%88Retina%205K%E3%80%8127%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202017%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "T2（iMacPro1、1）",
+    "family": "Mac",
+    "released": "2017-12-14",
+    "discontinued": "2021-03-19",
+    "prices": [],
+    "chips": [
+      "T2"
+    ],
+    "models": [],
+    "identifiers": [
+      "iBridge2,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=T2%EF%BC%88iMacPro1%E3%80%811%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 8 Plus",
+    "family": "iPhone",
+    "released": "2017-09-22",
+    "discontinued": "2020-04-15",
+    "prices": [
+      "89,800円（税別）"
+    ],
+    "chips": [
+      "A11"
+    ],
+    "models": [
+      "A1898"
+    ],
+    "identifiers": [
+      "iPhone10,2",
+      "iPhone10,5"
+    ],
+    "colors": [
+      "(PRODUCT)RED",
+      "Gold",
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111950",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone X",
+    "family": "iPhone",
+    "released": "2017-11-03",
+    "discontinued": "2018-09-12",
+    "prices": [
+      "112,800円（税別）"
+    ],
+    "chips": [
+      "A11"
+    ],
+    "models": [
+      "A1902"
+    ],
+    "identifiers": [
+      "iPhone10,3",
+      "iPhone10,6"
+    ],
+    "colors": [
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111864",
+    "documentationDirect": true
+  },
+  {
+    "name": "Apple Watch Series 3",
+    "family": "Apple Watch",
+    "released": "2017-09-22",
+    "discontinued": "2022-09-07",
+    "prices": [],
+    "chips": [
+      "S3"
+    ],
+    "models": [
+      "A1860",
+      "A1889",
+      "A1890",
+      "A1957",
+      "A1969",
+      "A1970",
+      "A1861",
+      "A1891",
+      "A1892",
+      "A1958",
+      "A1972",
+      "A1973",
+      "A1858",
+      "A1959",
+      "A1859",
+      "A1960"
+    ],
+    "identifiers": [
+      "Watch3,1",
+      "Watch3,2",
+      "Watch3,3",
+      "Watch3,4"
+    ],
+    "colors": [
+      "Gold",
+      "Silver",
+      "Space Gray",
+      "Ceramic - Gray",
+      "Ceramic - White",
+      "Stainless Steel - Silver",
+      "Stainless Steel - Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Series%203%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 8",
+    "family": "iPhone",
+    "released": "2017-09-22",
+    "discontinued": "2020-04-15",
+    "prices": [
+      "78,800円（税別）"
+    ],
+    "chips": [
+      "A11"
+    ],
+    "models": [
+      "A1906"
+    ],
+    "identifiers": [
+      "iPhone10,1",
+      "iPhone10,4"
+    ],
+    "colors": [
+      "(PRODUCT)RED",
+      "Gold",
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111976",
+    "documentationDirect": true
+  },
+  {
+    "name": "iMac（21.5インチ、2017）",
+    "family": "Mac",
+    "released": "2017-06-07",
+    "discontinued": "2021-10-30",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1418"
+    ],
+    "identifiers": [
+      "iMac18,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8821.5%E3%82%A4%E3%83%B3%E3%83%81%E3%80%812017%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（Retina 4K、21.5インチ、2017）",
+    "family": "Mac",
+    "released": "2017-06-07",
+    "discontinued": "2019-03-19",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1418"
+    ],
+    "identifiers": [
+      "iMac18,2"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%88Retina%204K%E3%80%8121.5%E3%82%A4%E3%83%B3%E3%83%81%E3%80%812017%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（Retina 5K、27インチ、2017）",
+    "family": "Mac",
+    "released": "2017-06-07",
+    "discontinued": "2019-03-19",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1419"
+    ],
+    "identifiers": [
+      "iMac18,3"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%88Retina%205K%E3%80%8127%E3%82%A4%E3%83%B3%E3%83%81%E3%80%812017%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "AirPods",
+    "family": "AirPods",
+    "released": "2016-12-19",
+    "discontinued": null,
+    "prices": [],
+    "chips": [
+      "W1"
+    ],
+    "models": [
+      "A1722",
+      "A1523"
+    ],
+    "identifiers": [
+      "AirPods1,1",
+      "Device1,8194"
+    ],
+    "colors": [
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirPods%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Apple Watch Series 1",
+    "family": "Apple Watch",
+    "released": "2016-09-16",
+    "discontinued": "2018-09-12",
+    "prices": [],
+    "chips": [
+      "S1P"
+    ],
+    "models": [
+      "A1802",
+      "A1803"
+    ],
+    "identifiers": [
+      "Watch2,6",
+      "Watch2,7"
+    ],
+    "colors": [
+      "Gold",
+      "Rose Gold",
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Series%201%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Apple Watch Series 2",
+    "family": "Apple Watch",
+    "released": "2016-09-16",
+    "discontinued": "2017-09-12",
+    "prices": [],
+    "chips": [
+      "S2"
+    ],
+    "models": [
+      "A1757",
+      "A1816",
+      "A1758",
+      "A1817"
+    ],
+    "identifiers": [
+      "Watch2,3",
+      "Watch2,4"
+    ],
+    "colors": [
+      "Ceramic - White",
+      "Gold",
+      "Rose Gold",
+      "Silver",
+      "Space Gray",
+      "Stainless Steel - Silver",
+      "Stainless Steel - Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Series%202%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 7 Plus",
+    "family": "iPhone",
+    "released": "2016-09-16",
+    "discontinued": "2019-09-10",
+    "prices": [
+      "85,800円（税別）"
+    ],
+    "chips": [
+      "A10"
+    ],
+    "models": [
+      "A1785"
+    ],
+    "identifiers": [
+      "iPhone9,2",
+      "iPhone9,4"
+    ],
+    "colors": [
+      "(PRODUCT)RED",
+      "Black",
+      "Gold",
+      "Jet Black",
+      "Rose Gold",
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111953",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 7",
+    "family": "iPhone",
+    "released": "2016-09-16",
+    "discontinued": "2019-09-10",
+    "prices": [
+      "72,800円（税別）"
+    ],
+    "chips": [
+      "A10"
+    ],
+    "models": [
+      "A1779"
+    ],
+    "identifiers": [
+      "iPhone9,1",
+      "iPhone9,3"
+    ],
+    "colors": [
+      "(PRODUCT)RED",
+      "Black",
+      "Gold",
+      "Jet Black",
+      "Rose Gold",
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111943",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone SE（第1世代）",
+    "family": "iPhone",
+    "released": "2016-03-31",
+    "discontinued": "2018-09-12",
+    "prices": [
+      "52,800円（税別）"
+    ],
+    "chips": [
+      "A9"
+    ],
+    "models": [
+      "A1723"
+    ],
+    "identifiers": [
+      "iPhone8,4"
+    ],
+    "colors": [
+      "Gold",
+      "Rose Gold",
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/112005",
+    "documentationDirect": true
+  },
+  {
+    "name": "iMac（21.5インチ、Late 2015）",
+    "family": "Mac",
+    "released": "2015-10-13",
+    "discontinued": "2017-06-05",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1418"
+    ],
+    "identifiers": [
+      "iMac16,1",
+      "iMac16,2"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8821.5%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202015%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（Retina 4K、21.5インチ、Late 2015）",
+    "family": "Mac",
+    "released": "2015-10-13",
+    "discontinued": "2017-06-05",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1418"
+    ],
+    "identifiers": [
+      "iMac16,2"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%88Retina%204K%E3%80%8121.5%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202015%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（Retina 5K、27インチ、Late 2015）",
+    "family": "Mac",
+    "released": "2015-10-13",
+    "discontinued": "2017-06-05",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1419"
+    ],
+    "identifiers": [
+      "iMac17,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%88Retina%205K%E3%80%8127%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202015%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 6s Plus",
+    "family": "iPhone",
+    "released": "2015-09-25",
+    "discontinued": "2018-09-12",
+    "prices": [
+      "98,800円（税別）"
+    ],
+    "chips": [
+      "A9"
+    ],
+    "models": [
+      "A1687"
+    ],
+    "identifiers": [
+      "iPhone8,2"
+    ],
+    "colors": [
+      "Gold",
+      "Rose Gold",
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111996",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 6s",
+    "family": "iPhone",
+    "released": "2015-09-25",
+    "discontinued": "2018-09-12",
+    "prices": [
+      "86,800円（税別）"
+    ],
+    "chips": [
+      "A9"
+    ],
+    "models": [
+      "A1688"
+    ],
+    "identifiers": [
+      "iPhone8,1"
+    ],
+    "colors": [
+      "Gold",
+      "Rose Gold",
+      "Silver",
+      "Space Gray"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111952",
+    "documentationDirect": true
+  },
+  {
+    "name": "iMac（Retina 5K、27インチ、Mid 2015）",
+    "family": "Mac",
+    "released": "2015-05-19",
+    "discontinued": "2015-10-13",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1419"
+    ],
+    "identifiers": [
+      "iMac15,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%88Retina%205K%E3%80%8127%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Mid%202015%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Apple Watch（第1世代）",
+    "family": "Apple Watch",
+    "released": "2015-04-24",
+    "discontinued": "2016-09-07",
+    "prices": [],
+    "chips": [
+      "S1"
+    ],
+    "models": [
+      "A1553",
+      "A1554"
+    ],
+    "identifiers": [
+      "Watch1,1",
+      "Watch1,2"
+    ],
+    "colors": [
+      "Gold",
+      "Gold - Rose Gold",
+      "Gold - Yellow Gold",
+      "Rose Gold",
+      "Silver",
+      "Space Gray",
+      "Stainless Steel - Silver",
+      "Stainless Steel - Space Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%EF%BC%88%E7%AC%AC1%E4%B8%96%E4%BB%A3%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Apple Watch（第1世代）（Store Display Model）",
+    "family": "Apple Watch",
+    "released": "2015-04-24",
+    "discontinued": null,
+    "prices": [],
+    "chips": [
+      "S1"
+    ],
+    "models": [
+      "A1638"
+    ],
+    "identifiers": [
+      "Watch1,2"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%EF%BC%88%E7%AC%AC1%E4%B8%96%E4%BB%A3%EF%BC%89%EF%BC%88Store%20Display%20Model%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（Retina 5K、27インチ、Late 2014）",
+    "family": "Mac",
+    "released": "2014-10-16",
+    "discontinued": "2015-10-13",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1419"
+    ],
+    "identifiers": [
+      "iMac15,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%88Retina%205K%E3%80%8127%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202014%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（Late 2014）",
+    "family": "Mac",
+    "released": "2014-10-16",
+    "discontinued": "2018-10-30",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1347"
+    ],
+    "identifiers": [
+      "Macmini7,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88Late%202014%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 6 Plus",
+    "family": "iPhone",
+    "released": "2014-09-19",
+    "discontinued": "2016-09-07",
+    "prices": [
+      "79,800円（税別）"
+    ],
+    "chips": [
+      "A8"
+    ],
+    "models": [
+      "A1524"
+    ],
+    "identifiers": [
+      "iPhone7,1"
+    ],
+    "colors": [
+      "Silver",
+      "Space Gray",
+      "Gold"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111940",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 6",
+    "family": "iPhone",
+    "released": "2014-09-19",
+    "discontinued": "2018-09-12",
+    "prices": [
+      "67,800円（税別）"
+    ],
+    "chips": [
+      "A8"
+    ],
+    "models": [
+      "A1586"
+    ],
+    "identifiers": [
+      "iPhone7,2"
+    ],
+    "colors": [
+      "Silver",
+      "Space Gray",
+      "Gold"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111954",
+    "documentationDirect": true
+  },
+  {
+    "name": "iMac（21.5インチ、Mid 2014）",
+    "family": "Mac",
+    "released": "2014-06-18",
+    "discontinued": "2015-10-13",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1418"
+    ],
+    "identifiers": [
+      "iMac14,4"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8821.5%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Mid%202014%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac Pro（Late 2013）",
+    "family": "Mac",
+    "released": "2013-11-23",
+    "discontinued": "2019-12-10",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1481"
+    ],
+    "identifiers": [
+      "MacPro6,1"
+    ],
+    "colors": [
+      "Black",
+      "(PRODUCT)RED"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Pro%EF%BC%88Late%202013%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（21.5インチ、Late 2013、Dedicated Graphics）",
+    "family": "Mac",
+    "released": "2013-09-24",
+    "discontinued": "2015-10-13",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1418"
+    ],
+    "identifiers": [
+      "iMac14,3"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8821.5%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202013%E3%80%81Dedicated%20Graphics%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（21.5インチ、Late 2013、Integrated Graphics）",
+    "family": "Mac",
+    "released": "2013-09-24",
+    "discontinued": "2015-10-13",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1418"
+    ],
+    "identifiers": [
+      "iMac14,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8821.5%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202013%E3%80%81Integrated%20Graphics%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（27インチ、Late 2013）",
+    "family": "Mac",
+    "released": "2013-09-24",
+    "discontinued": "2015-10-13",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1419"
+    ],
+    "identifiers": [
+      "iMac14,2"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8827%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202013%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 5c",
+    "family": "iPhone",
+    "released": "2013-09-20",
+    "discontinued": "2015-09-09",
+    "prices": [
+      "キャリア販売（契約条件により異なる）"
+    ],
+    "chips": [
+      "A6"
+    ],
+    "models": [
+      "A1456"
+    ],
+    "identifiers": [
+      "iPhone5,3",
+      "iPhone5,4"
+    ],
+    "colors": [
+      "Blue",
+      "Green",
+      "Pink",
+      "White",
+      "Yellow"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111917",
+    "documentationDirect": true
+  },
+  {
+    "name": "iPhone 5s",
+    "family": "iPhone",
+    "released": "2013-09-20",
+    "discontinued": "2016-03-21",
+    "prices": [
+      "キャリア販売（契約条件により異なる）"
+    ],
+    "chips": [
+      "A7"
+    ],
+    "models": [
+      "A1453"
+    ],
+    "identifiers": [
+      "iPhone6,1",
+      "iPhone6,2"
+    ],
+    "colors": [
+      "Silver",
+      "Space Gray",
+      "Gold"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/111973",
+    "documentationDirect": true
+  },
+  {
+    "name": "iMac（21.5インチ、Early 2013）",
+    "family": "Mac",
+    "released": "2013-03-05",
+    "discontinued": "2014-06-18",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1418"
+    ],
+    "identifiers": [
+      "iMac13,3"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8821.5%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Early%202013%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（21.5インチ、Late 2012）",
+    "family": "Mac",
+    "released": "2012-10-23",
+    "discontinued": "2013-09-24",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1418"
+    ],
+    "identifiers": [
+      "iMac13,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8821.5%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202012%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（27インチ、Late 2012）",
+    "family": "Mac",
+    "released": "2012-10-23",
+    "discontinued": "2013-09-24",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1419"
+    ],
+    "identifiers": [
+      "iMac13,2"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8827%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202012%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini Server（Late 2012）",
+    "family": "Mac",
+    "released": "2012-10-23",
+    "discontinued": "2014-10-16",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1347"
+    ],
+    "identifiers": [
+      "Macmini6,2"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%20Server%EF%BC%88Late%202012%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（Late 2012、Core i5）",
+    "family": "Mac",
+    "released": "2012-10-23",
+    "discontinued": "2014-10-16",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1347"
+    ],
+    "identifiers": [
+      "Macmini6,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88Late%202012%E3%80%81Core%20i5%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（Late 2012、Core i7）",
+    "family": "Mac",
+    "released": "2012-10-23",
+    "discontinued": "2014-10-16",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1347"
+    ],
+    "identifiers": [
+      "Macmini6,2"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88Late%202012%E3%80%81Core%20i7%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 5",
+    "family": "iPhone",
+    "released": "2012-09-21",
+    "discontinued": "2013-09-10",
+    "prices": [
+      "キャリア販売（契約条件により異なる）"
+    ],
+    "chips": [
+      "A6"
+    ],
+    "models": [
+      "A1429"
+    ],
+    "identifiers": [
+      "iPhone5,1",
+      "iPhone5,2"
+    ],
+    "colors": [
+      "Black & Slate",
+      "White & Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/112016",
+    "documentationDirect": true
+  },
+  {
+    "name": "Mac Pro Server（Mid 2012）",
+    "family": "Mac",
+    "released": "2012-06-11",
+    "discontinued": "2013-10-23",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1289"
+    ],
+    "identifiers": [
+      "MacPro5,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Pro%20Server%EF%BC%88Mid%202012%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac Pro（Mid 2012）",
+    "family": "Mac",
+    "released": "2012-06-11",
+    "discontinued": "2013-10-23",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1289"
+    ],
+    "identifiers": [
+      "MacPro5,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Pro%EF%BC%88Mid%202012%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 4S",
+    "family": "iPhone",
+    "released": "2011-10-14",
+    "discontinued": "2014-09-09",
+    "prices": [
+      "キャリア販売（契約条件により異なる）"
+    ],
+    "chips": [
+      "A5"
+    ],
+    "models": [
+      "A1387"
+    ],
+    "identifiers": [
+      "iPhone4,1"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/112004",
+    "documentationDirect": true
+  },
+  {
+    "name": "iMac（21.5インチ、Late 2011）",
+    "family": "Mac",
+    "released": "2011-08-08",
+    "discontinued": "2013-03-05",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1311"
+    ],
+    "identifiers": [
+      "iMac12,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8821.5%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202011%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（Mid 2011、Dedicated graphics）",
+    "family": "Mac",
+    "released": "2011-07-21",
+    "discontinued": "2012-10-23",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1347"
+    ],
+    "identifiers": [
+      "Macmini5,2"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88Mid%202011%E3%80%81Dedicated%20graphics%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（Mid 2011、Integrated graphics）",
+    "family": "Mac",
+    "released": "2011-07-21",
+    "discontinued": "2012-10-23",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1347"
+    ],
+    "identifiers": [
+      "Macmini5,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88Mid%202011%E3%80%81Integrated%20graphics%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（Mid 2011、Server）",
+    "family": "Mac",
+    "released": "2011-07-21",
+    "discontinued": "2012-10-23",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1347"
+    ],
+    "identifiers": [
+      "Macmini5,3"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88Mid%202011%E3%80%81Server%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（21.5インチ、Mid 2011）",
+    "family": "Mac",
+    "released": "2011-05-03",
+    "discontinued": "2012-10-23",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1311"
+    ],
+    "identifiers": [
+      "iMac12,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8821.5%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Mid%202011%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（27インチ、Mid 2011）",
+    "family": "Mac",
+    "released": "2011-05-03",
+    "discontinued": "2012-10-23",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1312"
+    ],
+    "identifiers": [
+      "iMac12,2"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8827%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Mid%202011%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac Pro Server（Mid 2010）",
+    "family": "Mac",
+    "released": "2010-11-05",
+    "discontinued": "2012-06-11",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1289"
+    ],
+    "identifiers": [
+      "MacPro5,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Pro%20Server%EF%BC%88Mid%202010%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac Pro（Late 2010）",
+    "family": "Mac",
+    "released": "2010-08-16",
+    "discontinued": "2012-06-11",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1289"
+    ],
+    "identifiers": [
+      "MacPro5,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Pro%EF%BC%88Late%202010%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（21.5インチ、Mid 2010）",
+    "family": "Mac",
+    "released": "2010-07-27",
+    "discontinued": "2011-05-03",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1311"
+    ],
+    "identifiers": [
+      "iMac11,2"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8821.5%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Mid%202010%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（27インチ、Mid 2010）",
+    "family": "Mac",
+    "released": "2010-07-27",
+    "discontinued": "2011-05-03",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1312"
+    ],
+    "identifiers": [
+      "iMac11,3"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8827%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Mid%202010%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 4",
+    "family": "iPhone",
+    "released": "2010-06-24",
+    "discontinued": "2013-09-10",
+    "prices": [
+      "キャリア販売（契約条件により異なる）"
+    ],
+    "chips": [
+      "A4"
+    ],
+    "models": [
+      "A1332"
+    ],
+    "identifiers": [
+      "iPhone3,1",
+      "iPhone3,2",
+      "iPhone3,3"
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/112562",
+    "documentationDirect": true
+  },
+  {
+    "name": "Mac mini Server（Mid 2010）",
+    "family": "Mac",
+    "released": "2010-06-15",
+    "discontinued": "2011-07-20",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1347"
+    ],
+    "identifiers": [
+      "Macmini4,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%20Server%EF%BC%88Mid%202010%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（Mid 2010）",
+    "family": "Mac",
+    "released": "2010-06-15",
+    "discontinued": "2011-07-20",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1347"
+    ],
+    "identifiers": [
+      "Macmini4,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88Mid%202010%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（21.5インチ、Late 2009）",
+    "family": "Mac",
+    "released": "2009-10-20",
+    "discontinued": "2011-07-27",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1311"
+    ],
+    "identifiers": [
+      "iMac10,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8821.5%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202009%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（27インチ、Late 2009、Core 2 Duo）",
+    "family": "Mac",
+    "released": "2009-10-20",
+    "discontinued": "2011-07-27",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1312"
+    ],
+    "identifiers": [
+      "iMac10,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8827%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202009%E3%80%81Core%202%20Duo%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（27インチ、Late 2009、Core i5/i7）",
+    "family": "Mac",
+    "released": "2009-10-20",
+    "discontinued": "2011-05-03",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1312"
+    ],
+    "identifiers": [
+      "iMac11,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8827%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202009%E3%80%81Core%20i5%2Fi7%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（Late 2009）",
+    "family": "Mac",
+    "released": "2009-10-20",
+    "discontinued": "2010-06-15",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1283"
+    ],
+    "identifiers": [
+      "Macmini3,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88Late%202009%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（Mac OS X Server）",
+    "family": "Mac",
+    "released": "2009-10-20",
+    "discontinued": "2010-06-15",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1283"
+    ],
+    "identifiers": [
+      "Macmini3,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88Mac%20OS%20X%20Server%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 3GS",
+    "family": "iPhone",
+    "released": "2009-06-19",
+    "discontinued": "2012-09-12",
+    "prices": [
+      "キャリア販売（契約条件により異なる）"
+    ],
+    "chips": [
+      "APL0298"
+    ],
+    "models": [
+      "A1303"
+    ],
+    "identifiers": [
+      "iPhone2,1"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/112307",
+    "documentationDirect": true
+  },
+  {
+    "name": "iMac（20インチ、Mid 2009）",
+    "family": "Mac",
+    "released": "2009-04-07",
+    "discontinued": "2012-03-07",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1224"
+    ],
+    "identifiers": [
+      "iMac9,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8820%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Mid%202009%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac Pro（Early 2009）",
+    "family": "Mac",
+    "released": "2009-03-09",
+    "discontinued": "2010-08-09",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1289"
+    ],
+    "identifiers": [
+      "MacPro4,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Pro%EF%BC%88Early%202009%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（20インチ、Early 2009）",
+    "family": "Mac",
+    "released": "2009-03-03",
+    "discontinued": "2009-10-20",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1224"
+    ],
+    "identifiers": [
+      "iMac9,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8820%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Early%202009%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（24インチ、Early 2009）",
+    "family": "Mac",
+    "released": "2009-03-03",
+    "discontinued": "2009-10-20",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1225"
+    ],
+    "identifiers": [
+      "iMac9,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8824%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Early%202009%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（Early 2009）",
+    "family": "Mac",
+    "released": "2009-03-03",
+    "discontinued": "2009-10-20",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1283"
+    ],
+    "identifiers": [
+      "Macmini3,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88Early%202009%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone 3G",
+    "family": "iPhone",
+    "released": "2008-07-11",
+    "discontinued": "2010-06-07",
+    "prices": [
+      "キャリア販売（契約条件により異なる）"
+    ],
+    "chips": [
+      "APL0098"
+    ],
+    "models": [
+      "A1241"
+    ],
+    "identifiers": [
+      "iPhone1,2"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/112496",
+    "documentationDirect": true
+  },
+  {
+    "name": "iMac（20インチ、Early 2008）",
+    "family": "Mac",
+    "released": "2008-04-28",
+    "discontinued": "2009-03-03",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1224"
+    ],
+    "identifiers": [
+      "iMac8,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8820%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Early%202008%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（24インチ、Early 2008）",
+    "family": "Mac",
+    "released": "2008-04-28",
+    "discontinued": "2009-03-03",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1225"
+    ],
+    "identifiers": [
+      "iMac8,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8824%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Early%202008%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac Pro（Early 2008）",
+    "family": "Mac",
+    "released": "2008-01-08",
+    "discontinued": "2009-03-09",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1186"
+    ],
+    "identifiers": [
+      "MacPro3,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Pro%EF%BC%88Early%202008%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（20インチ、Mid 2007）",
+    "family": "Mac",
+    "released": "2007-08-07",
+    "discontinued": "2008-04-28",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1224"
+    ],
+    "identifiers": [
+      "iMac7,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8820%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Mid%202007%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（24インチ、Mid 2007）",
+    "family": "Mac",
+    "released": "2007-08-07",
+    "discontinued": "2008-04-28",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1225"
+    ],
+    "identifiers": [
+      "iMac7,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8824%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Mid%202007%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（Mid 2007）",
+    "family": "Mac",
+    "released": "2007-08-07",
+    "discontinued": "2009-03-03",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1176"
+    ],
+    "identifiers": [
+      "Macmini2,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88Mid%202007%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iPhone",
+    "family": "iPhone",
+    "released": "2007-06-29",
+    "discontinued": "2008-06-09",
+    "prices": [
+      "日本未発売"
+    ],
+    "chips": [
+      "APL0098"
+    ],
+    "models": [],
+    "identifiers": [
+      "iPhone1,1"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/112445",
+    "documentationDirect": true
+  },
+  {
+    "name": "Mac Pro（Early 2007）",
+    "family": "Mac",
+    "released": "2007-04-04",
+    "discontinued": "2008-01-08",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1186"
+    ],
+    "identifiers": [
+      "MacPro2,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Pro%EF%BC%88Early%202007%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（17インチ、Late 2006、Dedicated Graphics）",
+    "family": "Mac",
+    "released": "2006-09-06",
+    "discontinued": "2007-08-07",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1208"
+    ],
+    "identifiers": [
+      "iMac5,1"
+    ],
+    "colors": [
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8817%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202006%E3%80%81Dedicated%20Graphics%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（17インチ、Late 2006、Integrated Graphics）",
+    "family": "Mac",
+    "released": "2006-09-06",
+    "discontinued": "2009-04-07",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1195"
+    ],
+    "identifiers": [
+      "iMac5,2"
+    ],
+    "colors": [
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8817%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202006%E3%80%81Integrated%20Graphics%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（20インチ、Late 2006）",
+    "family": "Mac",
+    "released": "2006-09-06",
+    "discontinued": "2007-08-07",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1207"
+    ],
+    "identifiers": [
+      "iMac5,1"
+    ],
+    "colors": [
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8820%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202006%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（24インチ、Late 2006）",
+    "family": "Mac",
+    "released": "2006-09-06",
+    "discontinued": "2007-08-07",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1200"
+    ],
+    "identifiers": [
+      "iMac6,1"
+    ],
+    "colors": [
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8824%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Late%202006%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（Late 2006）",
+    "family": "Mac",
+    "released": "2006-09-06",
+    "discontinued": "2007-08-07",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1176"
+    ],
+    "identifiers": [
+      "Macmini1,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88Late%202006%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac Pro（Mid 2006）",
+    "family": "Mac",
+    "released": "2006-08-07",
+    "discontinued": "2008-01-08",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1186"
+    ],
+    "identifiers": [
+      "MacPro1,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Pro%EF%BC%88Mid%202006%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（17インチ、Mid 2006）",
+    "family": "Mac",
+    "released": "2006-07-05",
+    "discontinued": "2006-09-06",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1195"
+    ],
+    "identifiers": [
+      "iMac4,2"
+    ],
+    "colors": [
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8817%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Mid%202006%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（Early 2006）",
+    "family": "Mac",
+    "released": "2006-02-28",
+    "discontinued": "2006-09-06",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1176"
+    ],
+    "identifiers": [
+      "Macmini1,1"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88Early%202006%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（17インチ、Early 2006）",
+    "family": "Mac",
+    "released": "2006-01-10",
+    "discontinued": "2006-09-06",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1173"
+    ],
+    "identifiers": [
+      "iMac4,1"
+    ],
+    "colors": [
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8817%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Early%202006%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（20インチ、Early 2006）",
+    "family": "Mac",
+    "released": "2006-01-10",
+    "discontinued": "2006-09-06",
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1174"
+    ],
+    "identifiers": [
+      "iMac4,1"
+    ],
+    "colors": [
+      "White"
+    ],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8820%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81Early%202006%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G4（15インチ Double Layer SD）",
+    "family": "Mac",
+    "released": "2005-10-19",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1138"
+    ],
+    "identifiers": [
+      "PowerBook5,8"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G4%EF%BC%8815%E3%82%A4%E3%83%B3%E3%83%81%20Double%20Layer%20SD%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G4（17インチ Double Layer SD）",
+    "family": "Mac",
+    "released": "2005-10-19",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1139"
+    ],
+    "identifiers": [
+      "PowerBook5,9"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G4%EF%BC%8817%E3%82%A4%E3%83%B3%E3%83%81%20Double%20Layer%20SD%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac G5（17インチ、iSight）",
+    "family": "Mac",
+    "released": "2005-10-12",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1144"
+    ],
+    "identifiers": [
+      "PowerMac12,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%20G5%EF%BC%8817%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81iSight%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac G5（20インチ、iSight）",
+    "family": "Mac",
+    "released": "2005-10-12",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1145"
+    ],
+    "identifiers": [
+      "PowerMac12,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%20G5%EF%BC%8820%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81iSight%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（Late 2005）",
+    "family": "Mac",
+    "released": "2005-09-27",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1103"
+    ],
+    "identifiers": [
+      "PowerMac10,2"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88Late%202005%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook G4（12インチ Mid 2005）",
+    "family": "Mac",
+    "released": "2005-07-26",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1133"
+    ],
+    "identifiers": [
+      "PowerBook6,7"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%20G4%EF%BC%8812%E3%82%A4%E3%83%B3%E3%83%81%20Mid%202005%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook G4（14インチ Mid 2005）",
+    "family": "Mac",
+    "released": "2005-07-26",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1134"
+    ],
+    "identifiers": [
+      "PowerBook6,7"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%20G4%EF%BC%8814%E3%82%A4%E3%83%B3%E3%83%81%20Mid%202005%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac G5（17インチ、ALS）",
+    "family": "Mac",
+    "released": "2005-05-03",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1058"
+    ],
+    "identifiers": [
+      "PowerMac8,2"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%20G5%EF%BC%8817%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81ALS%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac G5（20インチ、ALS）",
+    "family": "Mac",
+    "released": "2005-05-03",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1076"
+    ],
+    "identifiers": [
+      "PowerMac8,2"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%20G5%EF%BC%8820%E3%82%A4%E3%83%B3%E3%83%81%E3%80%81ALS%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G4（12インチ 1.5GHz）",
+    "family": "Mac",
+    "released": "2005-01-31",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1104"
+    ],
+    "identifiers": [
+      "PowerBook6,8"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G4%EF%BC%8812%E3%82%A4%E3%83%B3%E3%83%81%201.5GHz%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G4（15インチ 1.67/1.5 GHz）",
+    "family": "Mac",
+    "released": "2005-01-31",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1106"
+    ],
+    "identifiers": [
+      "PowerBook5,6"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G4%EF%BC%8815%E3%82%A4%E3%83%B3%E3%83%81%201.67%2F1.5%20GHz%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G4（17インチ 1.67 GHz）",
+    "family": "Mac",
+    "released": "2005-01-31",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1107"
+    ],
+    "identifiers": [
+      "PowerBook5,7"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G4%EF%BC%8817%E3%82%A4%E3%83%B3%E3%83%81%201.67%20GHz%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Mac mini（Early 2005）",
+    "family": "Mac",
+    "released": "2005-01-11",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1103"
+    ],
+    "identifiers": [
+      "PowerMac10,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88Early%202005%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook G4（12インチ Late 2004）",
+    "family": "Mac",
+    "released": "2004-10-19",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1054"
+    ],
+    "identifiers": [
+      "PowerBook6,5"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%20G4%EF%BC%8812%E3%82%A4%E3%83%B3%E3%83%81%20Late%202004%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook G4（14インチ Late 2004）",
+    "family": "Mac",
+    "released": "2004-10-19",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1055"
+    ],
+    "identifiers": [
+      "PowerBook6,5"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%20G4%EF%BC%8814%E3%82%A4%E3%83%B3%E3%83%81%20Late%202004%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac G5（17インチ）",
+    "family": "Mac",
+    "released": "2004-08-31",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1058"
+    ],
+    "identifiers": [
+      "PowerMac8,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%20G5%EF%BC%8817%E3%82%A4%E3%83%B3%E3%83%81%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac G5（20インチ）",
+    "family": "Mac",
+    "released": "2004-08-31",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1076"
+    ],
+    "identifiers": [
+      "PowerMac8,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%20G5%EF%BC%8820%E3%82%A4%E3%83%B3%E3%83%81%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook G4（12インチ Early 2004）",
+    "family": "Mac",
+    "released": "2004-04-19",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1054"
+    ],
+    "identifiers": [
+      "PowerBook6,5"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%20G4%EF%BC%8812%E3%82%A4%E3%83%B3%E3%83%81%20Early%202004%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook G4（14インチ Early 2004）",
+    "family": "Mac",
+    "released": "2004-04-19",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1055"
+    ],
+    "identifiers": [
+      "PowerBook6,5"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%20G4%EF%BC%8814%E3%82%A4%E3%83%B3%E3%83%81%20Early%202004%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G4（12インチ 1.33GHz）",
+    "family": "Mac",
+    "released": "2004-04-19",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1010"
+    ],
+    "identifiers": [
+      "PowerBook6,4"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G4%EF%BC%8812%E3%82%A4%E3%83%B3%E3%83%81%201.33GHz%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G4（15インチ 1.5/1.33 GHz）",
+    "family": "Mac",
+    "released": "2004-04-19",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1095"
+    ],
+    "identifiers": [
+      "PowerBook5,4"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G4%EF%BC%8815%E3%82%A4%E3%83%B3%E3%83%81%201.5%2F1.33%20GHz%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G4（17インチ 1.5GHz）",
+    "family": "Mac",
+    "released": "2004-04-19",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1085"
+    ],
+    "identifiers": [
+      "PowerBook5,5"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G4%EF%BC%8817%E3%82%A4%E3%83%B3%E3%83%81%201.5GHz%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（20インチ USB 2.0）",
+    "family": "Mac",
+    "released": "2003-11-01",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1065"
+    ],
+    "identifiers": [
+      "PowerMac6,3"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8820%E3%82%A4%E3%83%B3%E3%83%81%20USB%202.0%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook G4（12インチ 1 GHz）",
+    "family": "Mac",
+    "released": "2003-10-22",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1054"
+    ],
+    "identifiers": [
+      "PowerBook6,3"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%20G4%EF%BC%8812%E3%82%A4%E3%83%B3%E3%83%81%201%20GHz%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook G4（12インチ 800 MHz）",
+    "family": "Mac",
+    "released": "2003-10-22",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1054"
+    ],
+    "identifiers": [
+      "PowerBook6,3"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%20G4%EF%BC%8812%E3%82%A4%E3%83%B3%E3%83%81%20800%20MHz%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook G4（14インチ 1 GHz）",
+    "family": "Mac",
+    "released": "2003-10-22",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1055"
+    ],
+    "identifiers": [
+      "PowerBook6,3"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%20G4%EF%BC%8814%E3%82%A4%E3%83%B3%E3%83%81%201%20GHz%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook G4（14インチ 800 MHz）",
+    "family": "Mac",
+    "released": "2003-10-22",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1055"
+    ],
+    "identifiers": [
+      "PowerBook6,3"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%20G4%EF%BC%8814%E3%82%A4%E3%83%B3%E3%83%81%20800%20MHz%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G4（12インチ DVI）",
+    "family": "Mac",
+    "released": "2003-09-16",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1010"
+    ],
+    "identifiers": [
+      "PowerBook6,2"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G4%EF%BC%8812%E3%82%A4%E3%83%B3%E3%83%81%20DVI%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G4（15インチ FW800）",
+    "family": "Mac",
+    "released": "2003-09-16",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1046"
+    ],
+    "identifiers": [
+      "PowerBook5,2"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G4%EF%BC%8815%E3%82%A4%E3%83%B3%E3%83%81%20FW800%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G4（17インチ 1.33GHz）",
+    "family": "Mac",
+    "released": "2003-09-16",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1052"
+    ],
+    "identifiers": [
+      "PowerBook5,3"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G4%EF%BC%8817%E3%82%A4%E3%83%B3%E3%83%81%201.33GHz%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（15インチ USB 2.0）",
+    "family": "Mac",
+    "released": "2003-09-08",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M6498"
+    ],
+    "identifiers": [
+      "PowerMac6,3"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8815%E3%82%A4%E3%83%B3%E3%83%81%20USB%202.0%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（17インチ USB 2.0）",
+    "family": "Mac",
+    "released": "2003-09-08",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M6498"
+    ],
+    "identifiers": [
+      "PowerMac6,3"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8817%E3%82%A4%E3%83%B3%E3%83%81%20USB%202.0%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook（14.1インチ、32 VRAM）",
+    "family": "Mac",
+    "released": "2003-04-22",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1007"
+    ],
+    "identifiers": [
+      "PowerBook4,3"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%EF%BC%8814.1%E3%82%A4%E3%83%B3%E3%83%81%E3%80%8132%20VRAM%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook（32 VRAM）",
+    "family": "Mac",
+    "released": "2003-04-22",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1005"
+    ],
+    "identifiers": [
+      "PowerBook4,3"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%EF%BC%8832%20VRAM%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（15インチ Early 2003）",
+    "family": "Mac",
+    "released": "2003-02-04",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M6498"
+    ],
+    "identifiers": [
+      "PowerMac4,2"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8815%E3%82%A4%E3%83%B3%E3%83%81%20Early%202003%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（17インチ）",
+    "family": "Mac",
+    "released": "2003-02-04",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M6498"
+    ],
+    "identifiers": [
+      "PowerMac6,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8817%E3%82%A4%E3%83%B3%E3%83%81%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G4（12インチ）",
+    "family": "Mac",
+    "released": "2003-01-07",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1010"
+    ],
+    "identifiers": [
+      "PowerBook6,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G4%EF%BC%8812%E3%82%A4%E3%83%B3%E3%83%81%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G4（17インチ）",
+    "family": "Mac",
+    "released": "2003-01-07",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1013"
+    ],
+    "identifiers": [
+      "PowerBook5,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G4%EF%BC%8817%E3%82%A4%E3%83%B3%E3%83%81%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook（14.1インチ、32 VRAM）",
+    "family": "Mac",
+    "released": "2002-11-06",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1007"
+    ],
+    "identifiers": [
+      "PowerBook4,3"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%EF%BC%8814.1%E3%82%A4%E3%83%B3%E3%83%81%E3%80%8132%20VRAM%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook（32 VRAM）",
+    "family": "Mac",
+    "released": "2002-11-06",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1005"
+    ],
+    "identifiers": [
+      "PowerBook4,3"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%EF%BC%8832%20VRAM%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook（Opaque 16 VRAM）",
+    "family": "Mac",
+    "released": "2002-11-06",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1005"
+    ],
+    "identifiers": [
+      "PowerBook4,3"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%EF%BC%88Opaque%2016%20VRAM%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G4（1GHz/867MHz）",
+    "family": "Mac",
+    "released": "2002-11-06",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1025"
+    ],
+    "identifiers": [
+      "PowerBook3,5"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G4%EF%BC%881GHz%2F867MHz%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（17インチ Flat Panel）",
+    "family": "Mac",
+    "released": "2002-07-18",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M6498"
+    ],
+    "identifiers": [
+      "PowerMac4,5"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%8817%E3%82%A4%E3%83%B3%E3%83%81%20Flat%20Panel%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook（14.1インチ、16 VRAM）",
+    "family": "Mac",
+    "released": "2002-05-20",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1007"
+    ],
+    "identifiers": [
+      "PowerBook4,3"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%EF%BC%8814.1%E3%82%A4%E3%83%B3%E3%83%81%E3%80%8116%20VRAM%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook（16 VRAM）",
+    "family": "Mac",
+    "released": "2002-05-20",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1005"
+    ],
+    "identifiers": [
+      "PowerBook4,3"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%EF%BC%8816%20VRAM%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G4",
+    "family": "Mac",
+    "released": "2002-04-29",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1001"
+    ],
+    "identifiers": [
+      "PowerBook3,4"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G4%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook（14.1インチ）",
+    "family": "Mac",
+    "released": "2002-01-07",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M8413"
+    ],
+    "identifiers": [
+      "PowerBook4,2"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%EF%BC%8814.1%E3%82%A4%E3%83%B3%E3%83%81%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（Flat Panel）",
+    "family": "Mac",
+    "released": "2002-01-07",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M6498"
+    ],
+    "identifiers": [
+      "PowerMac4,2"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%88Flat%20Panel%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook（Late 2001）",
+    "family": "Mac",
+    "released": "2001-10-16",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M6497"
+    ],
+    "identifiers": [
+      "PowerBook4,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%EF%BC%88Late%202001%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G4（Gigabit Ethernet）",
+    "family": "Mac",
+    "released": "2001-10-16",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M8407"
+    ],
+    "identifiers": [
+      "PowerBook3,3"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G4%EF%BC%88Gigabit%20Ethernet%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（Summer 2001）",
+    "family": "Mac",
+    "released": "2001-07-18",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M5521"
+    ],
+    "identifiers": [
+      "PowerMac4,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%88Summer%202001%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook（Dual USB）",
+    "family": "Mac",
+    "released": "2001-05-01",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M6497"
+    ],
+    "identifiers": [
+      "PowerBook4,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%EF%BC%88Dual%20USB%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（Early 2001）",
+    "family": "Mac",
+    "released": "2001-02-22",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M5521"
+    ],
+    "identifiers": [
+      "PowerMac4,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%88Early%202001%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G4",
+    "family": "Mac",
+    "released": "2001-01-09",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M5884"
+    ],
+    "identifiers": [
+      "PowerBook3,2"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G4%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook（FireWire）",
+    "family": "Mac",
+    "released": "2000-09-13",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M6411"
+    ],
+    "identifiers": [
+      "PowerBook2,2"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%EF%BC%88FireWire%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（Summer 2000）",
+    "family": "Mac",
+    "released": "2000-07-19",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M5521"
+    ],
+    "identifiers": [
+      "PowerMac2,2"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%88Summer%202000%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook SE",
+    "family": "Mac",
+    "released": "2000-02-16",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M2453"
+    ],
+    "identifiers": [
+      "PowerBook2,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%20SE%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook（FireWire）",
+    "family": "Mac",
+    "released": "2000-02-16",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M7572"
+    ],
+    "identifiers": [
+      "PowerBook3,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%EF%BC%88FireWire%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（Slot Loading）",
+    "family": "Mac",
+    "released": "1999-10-05",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M5521"
+    ],
+    "identifiers": [
+      "PowerMac2,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%88Slot%20Loading%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iBook",
+    "family": "Mac",
+    "released": "1999-07-21",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M2453"
+    ],
+    "identifiers": [
+      "PowerBook2,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iBook%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G3（Bronze Keyboard）",
+    "family": "Mac",
+    "released": "1999-05-10",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M5343"
+    ],
+    "identifiers": [
+      "PowerBook1,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G3%EF%BC%88Bronze%20Keyboard%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（1999）",
+    "family": "Mac",
+    "released": "1999-01-05",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M4984"
+    ],
+    "identifiers": [
+      "iMac,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%881999%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Power Macintosh G3（Blue & White）",
+    "family": "Mac",
+    "released": "1999-01-05",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M5183"
+    ],
+    "identifiers": [
+      "PowerMac1,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Power%20Macintosh%20G3%EF%BC%88Blue%20%26%20White%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（Revision B）",
+    "family": "Mac",
+    "released": "1998-10-01",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M4984"
+    ],
+    "identifiers": [
+      "iMac,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%88Revision%20B%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G3（2nd Series）",
+    "family": "Mac",
+    "released": "1998-09-01",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M4753"
+    ],
+    "identifiers": [
+      "406"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G3%EF%BC%882nd%20Series%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "iMac（Revision A）",
+    "family": "Mac",
+    "released": "1998-08-15",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M4984"
+    ],
+    "identifiers": [
+      "iMac,1"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=iMac%EF%BC%88Revision%20A%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G3（1st Series、Mainstreet）",
+    "family": "Mac",
+    "released": "1998-05-06",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M4753"
+    ],
+    "identifiers": [
+      "314"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G3%EF%BC%881st%20Series%E3%80%81Mainstreet%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G3（1st Series、Wallstreet）",
+    "family": "Mac",
+    "released": "1998-05-06",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M4753"
+    ],
+    "identifiers": [
+      "312"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G3%EF%BC%881st%20Series%E3%80%81Wallstreet%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Power Macintosh G3（All-in-One）",
+    "family": "Mac",
+    "released": "1998-03-31",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M4787"
+    ],
+    "identifiers": [
+      "510"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Power%20Macintosh%20G3%EF%BC%88All-in-One%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Power Macintosh G3（Desktop）",
+    "family": "Mac",
+    "released": "1997-11-10",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M3979"
+    ],
+    "identifiers": [
+      "510"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Power%20Macintosh%20G3%EF%BC%88Desktop%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Power Macintosh G3（Mini Tower）",
+    "family": "Mac",
+    "released": "1997-11-10",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M4405"
+    ],
+    "identifiers": [
+      "510"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Power%20Macintosh%20G3%EF%BC%88Mini%20Tower%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "PowerBook G3",
+    "family": "Mac",
+    "released": "1997-11-10",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M3553"
+    ],
+    "identifiers": [
+      "313"
+    ],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=PowerBook%20G3%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh LC 580",
+    "family": "Mac",
+    "released": "1995-04-03",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M3872"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20LC%20580%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh LC 630",
+    "family": "Mac",
+    "released": "1994-07-18",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M3076"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20LC%20630%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Quadra 630",
+    "family": "Mac",
+    "released": "1994-07-15",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M1476"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Quadra%20630%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh LC 550",
+    "family": "Mac",
+    "released": "1994-02-02",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M1640"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20LC%20550%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh LC 575",
+    "family": "Mac",
+    "released": "1994-02-02",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M1640"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20LC%20575%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh TV",
+    "family": "Mac",
+    "released": "1993-10-25",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M1580"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20TV%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh LC 475",
+    "family": "Mac",
+    "released": "1993-10-21",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M1476"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20LC%20475%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Quadra 605",
+    "family": "Mac",
+    "released": "1993-10-21",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M1476"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Quadra%20605%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh LC III+",
+    "family": "Mac",
+    "released": "1993-10-18",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M1254"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20LC%20III%2B%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Color Classic II",
+    "family": "Mac",
+    "released": "1993-10-01",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M1600"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Color%20Classic%20II%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Centris 660AV",
+    "family": "Mac",
+    "released": "1993-07-29",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M9040"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Centris%20660AV%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Quadra 660AV",
+    "family": "Mac",
+    "released": "1993-07-29",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M9040"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Quadra%20660AV%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Quadra 840AV",
+    "family": "Mac",
+    "released": "1993-07-29",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M9020"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Quadra%20840AV%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh LC 520",
+    "family": "Mac",
+    "released": "1993-06-28",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M1640"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20LC%20520%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Centris 610",
+    "family": "Mac",
+    "released": "1993-02-10",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M1444"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Centris%20610%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Centris 650",
+    "family": "Mac",
+    "released": "1993-02-10",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M1205"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Centris%20650%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Color Classic",
+    "family": "Mac",
+    "released": "1993-02-10",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M1600"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Color%20Classic%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh LC III",
+    "family": "Mac",
+    "released": "1993-02-10",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M1254"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20LC%20III%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Quadra 610",
+    "family": "Mac",
+    "released": "1993-02-10",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M2113"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Quadra%20610%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Quadra 650",
+    "family": "Mac",
+    "released": "1993-02-09",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M2118"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Quadra%20650%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Quadra 800",
+    "family": "Mac",
+    "released": "1993-02-09",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M1206"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Quadra%20800%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh IIvi",
+    "family": "Mac",
+    "released": "1992-10-19",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M1350"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20IIvi%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh IIvx",
+    "family": "Mac",
+    "released": "1992-10-19",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M1350"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20IIvx%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Quadra 950",
+    "family": "Mac",
+    "released": "1992-05-18",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M4300"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Quadra%20950%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh LC II",
+    "family": "Mac",
+    "released": "1992-03-23",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M1700"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20LC%20II%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Classic II",
+    "family": "Mac",
+    "released": "1991-10-21",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M4150"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Classic%20II%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Quadra 700",
+    "family": "Mac",
+    "released": "1991-10-21",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M5920"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Quadra%20700%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Quadra 900",
+    "family": "Mac",
+    "released": "1991-10-21",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M4200"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Quadra%20900%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Classic",
+    "family": "Mac",
+    "released": "1990-10-15",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M0420",
+      "M1420"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Classic%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh IIsi",
+    "family": "Mac",
+    "released": "1990-10-15",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M0360"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20IIsi%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh LC",
+    "family": "Mac",
+    "released": "1990-10-15",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M0350"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20LC%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh IIfx",
+    "family": "Mac",
+    "released": "1990-03-19",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M5525"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20IIfx%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh IIci",
+    "family": "Mac",
+    "released": "1989-09-20",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M5780"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20IIci%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh SE FDHD",
+    "family": "Mac",
+    "released": "1989-08-01",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M5011"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20SE%20FDHD%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh IIcx",
+    "family": "Mac",
+    "released": "1989-03-07",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M5650"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20IIcx%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh IIx",
+    "family": "Mac",
+    "released": "1988-09-19",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M5840"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20IIx%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh II",
+    "family": "Mac",
+    "released": "1987-03-02",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M5000"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20II%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh SE",
+    "family": "Mac",
+    "released": "1987-03-02",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20SE%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh SE/30",
+    "family": "Mac",
+    "released": "1987-03-02",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M5119"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20SE%2F30%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh 512Ke",
+    "family": "Mac",
+    "released": "1986-04-14",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M0001E"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20512Ke%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Plus",
+    "family": "Mac",
+    "released": "1986-01-16",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M0001A"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Plus%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Plus ED",
+    "family": "Mac",
+    "released": "1986-01-16",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M0001A"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Plus%20ED%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh XL",
+    "family": "Mac",
+    "released": "1985-01-25",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20XL%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh 512K",
+    "family": "Mac",
+    "released": "1984-09-12",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M0001W"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20512K%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh 128K",
+    "family": "Mac",
+    "released": "1984-01-24",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M0001"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20128K%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh Numeric Keypad",
+    "family": "Mac",
+    "released": "1984",
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M0120"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20Numeric%20Keypad%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Macintosh ED",
+    "family": "Mac",
+    "released": null,
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "M0001D",
+      "M0001ED"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Macintosh%20ED%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  },
+  {
+    "name": "Apple Watch Edition（第1世代） Charging Box",
+    "family": "Apple Watch",
+    "released": null,
+    "discontinued": null,
+    "prices": [],
+    "chips": [],
+    "models": [
+      "A1647"
+    ],
+    "identifiers": [],
+    "colors": [],
+    "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Edition%EF%BC%88%E7%AC%AC1%E4%B8%96%E4%BB%A3%EF%BC%89%20Charging%20Box%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+    "documentationDirect": false
+  }
+]
