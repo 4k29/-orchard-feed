@@ -30,6 +30,12 @@ const releaseNotes = {
       "電話・メッセージ・CarPlayの機能拡張",
       "Apple GamesとApple Intelligenceの強化",
     ],
+    "26.0.1": [
+      "iPhone 17、iPhone Air、iPhone 17 ProモデルでWi-FiとBluetoothの接続が切れることがある問題を修正",
+      "一部のiPhoneでモバイル通信ネットワークに接続できないことがある問題を修正",
+      "写真のアーチファクト、空白のアプリアイコン、VoiceOverの問題を修正",
+      "重要なセキュリティアップデート",
+    ],
     "26.1": [
       "Liquid Glassの色合いを選べる設定",
       "ライブ翻訳の対応拡大",
@@ -40,23 +46,34 @@ const releaseNotes = {
       "Podcastの自動チャプター",
       "ロック画面・リマインダー・AirDropの改善",
     ],
+    "26.2.1": ["AirTag（第2世代）への対応", "バグ修正"],
     "26.3": ["不具合修正とセキュリティアップデート"],
+    "26.3.1": ["Studio Display（2026）とStudio Display XDRへの対応", "バグ修正"],
     "26.4": [
-      "プレイリスト作成機能とコンサート情報の強化",
-      "新しい絵文字とアクセシビリティ機能",
-      "AirPods Max 2への対応",
+      "Apple Musicのコンサート機能を追加",
+      "8個の新しい絵文字",
+      "その他の機能強化、バグ修正、セキュリティアップデート",
     ],
+    "26.4.1": ["バグ修正"],
+    "26.4.2": ["バグ修正とセキュリティアップデート"],
     "26.5": [
       "RCSのエンドツーエンド暗号化（ベータ）",
       "Pride Luminance壁紙",
-      "マップの候補の場所",
+      "機能向上、バグ修正、セキュリティアップデート",
     ],
+    "26.5.1": ["一部のiPhone AirとiPhone 17モデルで有線充電できないことがある問題を修正"],
+    "26.5.2": ["セキュリティ修正"],
   },
   iPadOS: {
     "26.0": [
       "新しいウインドウシステムとメニューバー",
       "Liquid Glassによる新しいデザイン",
       "プレビュー、ジャーナル、バックグラウンドタスク",
+    ],
+    "26.0.1": [
+      "フローティングキーボードの位置が予期せず変わることがある問題を修正",
+      "一部のユーザでVoiceOverが無効になることがある問題を修正",
+      "重要なセキュリティアップデート",
     ],
     "26.1": [
       "Slide Overの復活",
@@ -68,13 +85,18 @@ const releaseNotes = {
       "Apple Musicのオフライン歌詞",
       "Podcast・ゲーム・リマインダーの改善",
     ],
+    "26.2.1": ["AirTag（第2世代）への対応", "バグ修正"],
     "26.3": ["外部ディスプレイ対応の改善", "不具合修正とセキュリティ更新"],
+    "26.3.1": ["Studio Display（2026）とStudio Display XDRへの対応", "バグ修正"],
     "26.4": [
       "新しい絵文字とアクセシビリティ機能",
       "Safariのコンパクトタブバー",
       "フリーボードの機能拡張",
     ],
+    "26.4.1": ["バグ修正"],
+    "26.4.2": ["バグ修正とセキュリティアップデート"],
     "26.5": ["Pride Luminance壁紙", "マップの候補の場所", "不具合修正"],
+    "26.5.2": ["セキュリティ修正"],
   },
   macOS: {
     "26.0": [
@@ -82,15 +104,24 @@ const releaseNotes = {
       "Spotlightの大幅な機能強化",
       "電話アプリとライブアクティビティ",
     ],
+    "26.0.1": [
+      "Mac Studio（M3 Ultra, 2025）でmacOS Tahoeにアップグレードできないことがある問題を修正",
+      "重要なバグ修正とセキュリティアップデート",
+    ],
     "26.1": ["Liquid Glassの色合い設定", "Apple Music AutoMixのAirPlay対応", "不具合修正"],
-    "26.2": ["Apple Musicのオフライン歌詞", "Podcastとリマインダーの改善", "不具合修正"],
+    "26.2": ["Edge Light", "Podcast・ゲーム・AirDrop・フリーボードの機能強化", "不具合修正"],
     "26.3": ["不具合修正とセキュリティアップデート"],
+    "26.3.1": ["Studio Display（2026）とStudio Display XDRへの対応", "バグ修正"],
+    "26.3.2": ["Macのバグ修正"],
     "26.4": [
       "AirPods Max 2への対応",
-      "新しい絵文字とSafariのコンパクトタブバー",
+      "8個の新しい絵文字とSafariのコンパクトタブバー",
       "フリーボードとリマインダーの機能拡張",
     ],
-    "26.5": ["安定性・互換性・セキュリティの改善"],
+    "26.4.1": ["Macのバグ修正"],
+    "26.5": ["機能強化、バグ修正、セキュリティアップデート"],
+    "26.5.1": ["一部のネットワーク機能拡張使用時にM5搭載Macが予期せず終了する問題を修正"],
+    "26.5.2": ["セキュリティ修正"],
   },
   watchOS: {
     "26.0": [
@@ -98,11 +129,13 @@ const releaseNotes = {
       "Workout Buddyとワークアウト機能の強化",
       "睡眠スコアと高血圧通知",
     ],
-    "26.1": ["通知と操作性の改善", "不具合修正とセキュリティ更新"],
-    "26.2": ["睡眠・ワークアウト・メッセージの改善", "不具合修正"],
-    "26.3": ["不具合修正とセキュリティアップデート"],
-    "26.4": ["新しい絵文字", "アクセシビリティとシステムの改善"],
-    "26.5": ["安定性とセキュリティの改善"],
+    "26.0.2": ["Apple Watch用のバグ修正", "重要なセキュリティアップデート"],
+    "26.1": ["改善とバグ修正"],
+    "26.2": ["睡眠スコアの通知コントロールと分類機能の改善", "ミュージックの問題を修正"],
+    "26.2.1": ["AirTag（第2世代）への対応", "バグ修正"],
+    "26.3": ["重要なバグ修正"],
+    "26.4": ["AirPods Max 2への対応", "ワークアウト開始操作の改善", "8個の新しい絵文字"],
+    "26.5": ["Pride Luminance文字盤", "メッセージとワークアウトの問題を修正"],
   },
   tvOS: {
     "26.0": [
@@ -110,9 +143,16 @@ const releaseNotes = {
       "プロフィール選択とApple Music Singの改善",
       "FaceTimeとスクリーンセーバーの機能拡張",
     ],
+    "26.0.1": ["パフォーマンスと安定性の改善"],
   },
   HomePod: {
-    "26.0": ["再生、ホーム連携、安定性の改善"],
+    "26.0": ["Apple Musicのクロスフェードに対応", "AirPlayの改善", "バグ修正と安定性の改善"],
+    "26.0.1": ["パフォーマンスと安定性の改善"],
+    "26.1": ["パフォーマンスと安定性の改善"],
+    "26.2": ["パフォーマンスと安定性の改善"],
+    "26.3": ["パフォーマンスと安定性の改善"],
+    "26.4": ["パフォーマンスと安定性の改善"],
+    "26.5": ["パフォーマンスと安定性の改善"],
   },
   visionOS: {
     "26.0": [
@@ -120,6 +160,7 @@ const releaseNotes = {
       "PersonaとSafariの機能強化",
       "新しい共有・入力体験",
     ],
+    "26.0.1": ["重要なバグ修正", "すべてのユーザに推奨されるアップデート"],
     "26.1": ["iPadのApple Vision Proアプリ", "Spatial Galleryの機能拡張"],
     "26.2": [
       "自動車・バスでのトラベルモード",
@@ -137,6 +178,8 @@ const sourceUrls = {
   iPadOS: "https://support.apple.com/ja-jp/123074",
   macOS: "https://support.apple.com/ja-jp/122868",
   watchOS: "https://support.apple.com/ja-jp/123002",
+  tvOS: "https://support.apple.com/ja-jp/106336",
+  HomePod: "https://support.apple.com/ja-jp/108045",
   visionOS: "https://support.apple.com/ja-jp/123024",
 };
 
@@ -151,10 +194,10 @@ function files(root) {
 }
 
 function baseVersion(version) {
-  return String(version).match(/^\d+(?:\.\d+){1,2}/)?.[0] || String(version);
+  return String(version).match(/^\d+(?:\.\d+){0,2}/)?.[0] || String(version);
 }
 
-function features(platform, version) {
+function features(platform, version, channel) {
   const base = baseVersion(version);
   if (base.startsWith("27.")) {
     return [
@@ -162,14 +205,16 @@ function features(platform, version) {
       "安定性、互換性、不具合の改善",
     ];
   }
+
   const notes = releaseNotes[platform] || {};
-  return (
-    notes[base] ||
-    notes[base.split(".").slice(0, 2).join(".")] || [
-      "安定性とセキュリティの改善",
-      "前バージョンからの不具合修正",
-    ]
-  );
+  if (notes[base]) return notes[base];
+
+  if (channel !== "stable") {
+    const series = base.split(".").slice(0, 2).join(".");
+    if (notes[series]) return notes[series];
+  }
+
+  return ["安定性とセキュリティの改善", "前バージョンからの不具合修正"];
 }
 
 function source(platform, major) {
@@ -199,15 +244,18 @@ function displayVersion(product, channel) {
   const raw = String(product.version || "").replace(/\s+/g, " ").trim();
   const base = baseVersion(raw);
 
-  if (channel === "public-beta") return `${base} Pub Beta ${betaNumber(product)}`;
-  if (channel === "developer-beta") return `${base} Dev Beta ${betaNumber(product)}`;
+  if (channel === "public-beta" || channel === "developer-beta") {
+    const number = betaNumber(product);
+    const explicitNumber = /\bbeta\s+\d+\b/i.test(raw);
+    return `${base} beta${explicitNumber || number > 1 ? ` ${number}` : ""}`;
+  }
 
   if (channel === "rc") {
     const number = raw.match(/\b(?:rc|release candidate)\s*(\d+)?/i)?.[1];
     return `${base} RC${number ? ` ${number}` : ""}`;
   }
 
-  return raw;
+  return base;
 }
 
 function addPublicBetaWaves(output) {
@@ -219,7 +267,7 @@ function addPublicBetaWaves(output) {
           (release) =>
             release.platform === platform &&
             release.channel === "developer-beta" &&
-            release.version.startsWith(`${wave.major}.0 Dev Beta ${wave.developerBeta}`) &&
+            release.version.startsWith(`${wave.major}.0 beta ${wave.developerBeta}`) &&
             release.releasedAt <= wave.releasedAt,
         )
         .sort(
@@ -229,8 +277,14 @@ function addPublicBetaWaves(output) {
         )[0];
 
       if (!sourceRelease) continue;
-      const version = `${wave.major}.0 Pub Beta ${wave.number}`;
-      const key = [platform, version.toLowerCase(), sourceRelease.build, wave.releasedAt].join("|");
+      const version = `${wave.major}.0 beta ${wave.number}`;
+      const key = [
+        platform,
+        version.toLowerCase(),
+        sourceRelease.build,
+        wave.releasedAt,
+        "public-beta",
+      ].join("|");
       if (output.has(key)) continue;
 
       output.set(key, {
@@ -277,7 +331,7 @@ export function buildReleases(root) {
 
     const channel = releaseChannel(product);
     const version = displayVersion(product, channel);
-    const key = [platform, version.toLowerCase(), product.build, product.released].join("|");
+    const key = [platform, version.toLowerCase(), product.build, product.released, channel].join("|");
     if (output.has(key)) continue;
 
     output.set(key, {
@@ -286,7 +340,7 @@ export function buildReleases(root) {
       build: String(product.build),
       releasedAt: product.released,
       channel,
-      features: features(platform, version),
+      features: features(platform, version, channel),
       sourceUrl: source(platform, major),
     });
   }
