@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "ec1f26e298b14dc7c0c4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Samsung has just given us a preview of the creaseless iPhone Ultra display",
+      "url": "https://9to5mac.com/2026/07/23/samsung-has-just-given-us-a-preview-of-the-creaseless-iphone-ultra-display/",
+      "publishedAt": "2026-07-23T11:46:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Samsung-has-just-given-us-a-preview-of-the-creaseless-iPhone-Ultra-display.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、折りたたみiPhoneのディスプレイに期待",
+      "summaryJa": "Appleが折りたたみiPhoneの導入を遅らせている理由の一つは、以前のフレキシブルディスプレイの目立つ折り目と脆弱性に不満があったためです。Samsungが新たに発表したGalaxy Z Fold 8のディスプレイは、Appleが求める基準を満たし、iPhone Ultraのディスプレイに期待が寄せられています。Appleは、フレキシブルディスプレイ技術が成熟するのを待っていたとされ、今後の展開に注目が集まります。"
+    },
+    {
       "id": "56fa16d7d805932a3fa5",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -2551,7 +2566,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-23T11:35:42.723Z",
+  "updatedAt": "2026-07-23T11:56:27.486Z",
   "initialized": true,
   "summaryVersion": 4
 }
