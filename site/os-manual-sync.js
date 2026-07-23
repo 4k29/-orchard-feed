@@ -1,11 +1,11 @@
 (() => {
   const button = document.querySelector("#os-manual-sync");
   const label = document.querySelector("#os-manual-sync-label");
-  const message = document.querySelector("#os-manual-sync-status");
+  const status = document.querySelector("#os-manual-sync-status");
   const tokenDialog = document.querySelector("#os-token-dialog");
   const tokenInput = document.querySelector("#os-github-token");
 
-  if (!button || !label || !message) return;
+  if (!button || !label) return;
 
   const TOKEN_STORAGE_KEY = "orchard.github-token";
   const DISPATCH_URL =
@@ -48,7 +48,7 @@
     };
   }
 
-  function authError() {
+  function authenticationError() {
     const error = new Error("Authentication failed");
     error.code = "AUTH";
     return error;
@@ -58,13 +58,15 @@
     return new Promise((resolve) => window.setTimeout(resolve, milliseconds));
   }
 
-  function setState({ running, text, status = "" }) {
+  function setState({ running, text }) {
     syncing = running;
     button.disabled = running;
     button.classList.toggle("is-running", running);
     label.textContent = text;
-    message.textContent = status;
-    message.hidden = !status;
+    if (status) {
+      status.textContent = "";
+      status.hidden = true;
+    }
   }
 
   function restoreButtonSoon() {
@@ -108,7 +110,7 @@
       headers: headers(token),
       cache: "no-store",
     });
-    if (response.status === 401 || response.status === 403) throw authError();
+    if (response.status === 401 || response.status === 403) throw authenticationError();
     if (!response.ok) throw new Error(`GitHub Actions: HTTP ${response.status}`);
     const payload = await response.json();
     return Array.isArray(payload.workflow_runs) ? payload.workflow_runs : [];
@@ -126,8 +128,7 @@
       if (run) {
         setState({
           running: true,
-          text: run.status === "queued" ? "待機中…" : "確認中…",
-          status: "Apple OSの配信情報を確認しています。",
+          text: run.status === "queued" ? "待機中…" : "取得中…",
         });
       }
       await delay(7_000);
@@ -146,7 +147,7 @@
     if (!token) return;
 
     const startedAt = Date.now();
-    setState({ running: true, text: "開始中…", status: "GitHub Actionsを起動しています。" });
+    setState({ running: true, text: "開始中…" });
 
     try {
       const response = await fetch(DISPATCH_URL, {
@@ -155,38 +156,26 @@
         body: JSON.stringify({ ref: "main" }),
       });
 
-      if (response.status === 401 || response.status === 403) throw authError();
+      if (response.status === 401 || response.status === 403) throw authenticationError();
       if (response.status !== 204) throw new Error(`Workflow dispatch: HTTP ${response.status}`);
 
-      setState({ running: true, text: "待機中…", status: "手動確認を受け付けました。" });
+      setState({ running: true, text: "待機中…" });
       const run = await waitForRun(startedAt, token);
       if (run.conclusion !== "success") {
         throw new Error(`Workflow finished with ${run.conclusion}`);
       }
 
-      setState({ running: false, text: "確認完了", status: "最新のOS配信情報を確認しました。" });
-      await delay(1_200);
+      setState({ running: false, text: "取得完了" });
+      await delay(1_000);
       window.location.reload();
     } catch (error) {
       if (error.code === "AUTH") {
         removeToken();
-        setState({
-          running: false,
-          text: "認証エラー",
-          status: "トークンを確認してください。次回、もう一度入力できます。",
-        });
+        setState({ running: false, text: "認証エラー" });
       } else if (error.code === "TIMEOUT") {
-        setState({
-          running: false,
-          text: "確認中",
-          status: "処理が続いている可能性があります。少し後に再読み込みしてください。",
-        });
+        setState({ running: false, text: "確認中" });
       } else {
-        setState({
-          running: false,
-          text: "確認失敗",
-          status: "OS配信情報を確認できませんでした。少し後にもう一度試してください。",
-        });
+        setState({ running: false, text: "取得失敗" });
       }
       restoreButtonSoon();
       console.error(error);
