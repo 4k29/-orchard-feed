@@ -310,7 +310,7 @@ function isPart(product) {
   if (/\bdock\b|raid card|superdrive|developer transition kit|virtual machine|riser|diagnostic dock|restore dock/i.test(name)) return true;
   if (!/^PowerBook\b/i.test(name) && /\bkeyboard\b/i.test(name)) return true;
   if (!/^airpods\b/i.test(name) && /charging case|smart case|battery case|\bcase\b/i.test(name)) return true;
-  if (/iphone/i.test(name) && /leather sleeve|\bsleeve\b|silicone case|clear case|finewoven case|smart battery case/i.test(name)) return true;
+  if (/iphone/i.test(name) && /bluetooth headset|\bheadset\b|leather sleeve|\bsleeve\b|silicone case|clear case|finewoven case|smart battery case/i.test(name)) return true;
   return /battery|cable|adapter|charger|replacement|service part|logic board|display unit|demo unit|prototype|unreleased|unknown|module|bracelet|store panel|housing|enclosure|bumper|magic keyboard|keyboard folio|magsafe wallet|wallet with magsafe|ssd (?:kit|upgrade)|storage upgrade|upgrade kit|iphone pocket/i.test(text);
 }
 
