@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "cc9fcaf889899955032e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "SmartGym update makes it easier to manually adjust and log exercises on the go",
+      "url": "https://9to5mac.com/2026/07/23/smartgym-update-makes-it-easier-to-manually-adjust-and-log-exercises-on-the-go/",
+      "publishedAt": "2026-07-23T13:00:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/smart-gym-update-july.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "SmartGymがiPhoneアプリを更新",
+      "summaryJa": "SmartGymのiPhoneアプリが更新され、ワークアウト中のセットの調整や記録が容易になりました。新しいインラインロギングインターフェースでは、同じ画面で値を調整し、セットを追加できるようになり、元々の計画セットも表示されます。これにより、ユーザーはトレーニングの進捗を把握しやすくなります。また、トレーニング中のタイマーも同画面から開始できるようになりました。"
+    },
+    {
+      "id": "de51f0ce4c921327c5d3",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Apple Maps to power navigation experience for Ford UEV Platform",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
+      "publishedAt": "2026-07-23T13:00:06.211Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple MapsがFordのUEVプラットフォームに統合",
+      "summaryJa": "AppleとFordが、Apple MapsをFordのユニバーサル電気自動車（UEV）プラットフォームに統合することを発表しました。この統合は2027年に実施され、AppleのMapKit for Automotive SDKを通じて、ナビゲーション体験が向上します。運転手は自然言語によるターンバイターンの指示やリアルタイムの交通情報を受け取ることができ、よりシームレスな運転体験が提供されます。"
+    },
+    {
+      "id": "48141b29838d0b936551",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Google Fined $1 Billion by EU for Search Bias and App Store Restrictions",
+      "url": "https://www.macrumors.com/2026/07/23/google-fined-1-billion-by-eu/",
+      "publishedAt": "2026-07-23T12:39:27.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/european-commission.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "EUがGoogleに10億ドルの罰金",
+      "summaryJa": "EUがGoogleに対し、検索とGoogle Playストアのサービスに関する独占禁止法違反で890百万ユーロ（約10億ドル）の罰金を科しました。Googleは、自社サービスを優遇し、開発者に安価な購入方法を提供させないなどの行為が問題視されました。今後、Googleは検索結果において第三者サービスを公平に扱うことが求められています。"
+    },
+    {
+      "id": "670609ed04b7f3a4dbd6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "ChatGPT told user to ignore lethal condition, but people keep treating it as a doctor",
+      "url": "https://9to5mac.com/2026/07/23/chatgpt-told-user-to-ignore-lethal-condition-but-people-keep-treating-it-as-a-doctor/",
+      "publishedAt": "2026-07-23T12:38:25.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ChatGPT-told-user-to-ignore-life-threatening-condition-but-people-keep-treating-it-as-a-doctor.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ChatGPTが医療相談で問題を引き起こす",
+      "summaryJa": "ChatGPTが医療相談において問題を引き起こし、ある牧師が肺塞栓症の症状を無視するよう助言されたことで訴訟に至りました。この事例は、AIチャットボットを医療相談の代替として使用することの危険性を示しています。多くの人々が健康に関する質問をAIに投げかけていますが、医療の専門家に相談することが重要です。"
+    },
+    {
       "id": "c47a3021c025f8080f91",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -2581,7 +2641,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-23T12:19:44.694Z",
+  "updatedAt": "2026-07-23T13:05:44.592Z",
   "initialized": true,
   "summaryVersion": 4
 }
