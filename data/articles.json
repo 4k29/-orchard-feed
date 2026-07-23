@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "ce45f20e4a51de163a2d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Driver's Licenses May Soon Expand to New State",
+      "url": "https://www.macrumors.com/2026/07/23/iphone-drivers-licenses-utah/",
+      "publishedAt": "2026-07-23T20:58:38.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/04/apple-wallet-drivers-license-feature-iPhone-15-pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Wallet、ユタ州の運転免許証対応か",
+      "summaryJa": "Apple Walletにユタ州の運転免許証やIDが追加される可能性が報じられています。Appleのバックエンドにユタ州のIDに関する情報が見つかり、実装が進んでいることが示唆されています。ユタ州ではすでに独自のアプリでモバイル運転免許証を提供していますが、Apple Walletとの統合はまだ実現していません。2021年にAppleがこの機能を発表した際、ユタ州は最初に挙げられた州の一つです。"
+    },
+    {
+      "id": "c5eb295fd61602e7b5b0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Opera One browser joins the vertical tab club, expands Google Lens integration",
+      "url": "https://9to5mac.com/2026/07/23/opera-one-browser-joins-the-vertical-tab-club-expands-google-lens-integration/",
+      "publishedAt": "2026-07-23T20:35:12.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/opera-one-vertical-tabs.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Opera One、縦型タブとGoogle Lens統合を強化",
+      "summaryJa": "Operaがデスクトップブラウザ「Opera One」に新機能を追加しました。新たに縦型タブがオプションとして導入され、タブのフルタイトルを表示できるようになりました。また、Google Lensの統合も強化され、ホームページから直接画像検索が可能になりました。これにより、ユーザーはローカルファイルやクリップボードから画像を使用して検索できるようになります。"
+    },
+    {
+      "id": "7755071d8f5ae6553e56",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s everything new for Messages in iOS 27",
+      "url": "https://9to5mac.com/2026/07/23/heres-everything-new-for-messages-in-ios-27/",
+      "publishedAt": "2026-07-23T20:34:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27のMessages機能が進化",
+      "summaryJa": "iOS 27では、Messagesアプリに新機能が追加されます。Apple Intelligenceを活用した「ワンタップ提案」が導入され、会話の文脈に基づいてリマインダーやメモを簡単に作成できるようになります。また、新たに「描画」iMessageアプリが追加され、特にiPhone Ultraの大画面での利用が期待されています。RCSメッセージングにも改善が加えられ、インライン返信が可能になります。"
+    },
+    {
+      "id": "3a274dab9aafd4c72728",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro: Three reasons you might want to upgrade from iPhone 17 Pro",
+      "url": "https://9to5mac.com/2026/07/23/iphone-18-pro-three-reasons-you-might-want-to-upgrade-from-iphone-17-pro/",
+      "publishedAt": "2026-07-23T20:22:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iPhone-18-Pro-reportedly-enters-test-production.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro、アップグレードの理由はこれだ",
+      "summaryJa": "iPhone 18 Proが数ヶ月後に登場予定で、iPhone 17 Proからのアップグレードを考える理由が3つあります。まず、バッテリー寿命の向上が期待されており、効率的なA20 Proチップや大容量バッテリーが搭載される見込みです。次に、カメラ機能の大幅な改善が予想され、特にメインカメラと望遠カメラに注力されるとのことです。最後に、デザインの見直しも行われる可能性があります。"
+    },
+    {
       "id": "13de2854352943cd9cdc",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -3016,7 +3076,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-23T20:18:18.901Z",
+  "updatedAt": "2026-07-23T21:32:52.331Z",
   "initialized": true,
   "summaryVersion": 4
 }
