@@ -4,23 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="theme-color" content="#0b0b0a" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-    <meta name="apple-mobile-web-app-title" content="Orchard" />
-    <meta
-      name="description"
-      content="Apple関連のニュースを日本語で確認するための個人用フィード。"
-    />
-    <meta property="og:title" content="Orchard" />
-    <meta
-      property="og:description"
-      content="Apple関連の新着記事を日本語でまとめています。"
-    />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://4k29.github.io/-orchard-feed/" />
-    <meta name="twitter:card" content="summary" />
     <title>Orchard</title>
-    <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="icon" href="./icon.svg" type="image/svg+xml" />
     <link rel="stylesheet" href="./styles.css" />
     <link rel="stylesheet" href="./manual-sync.css" />
@@ -37,7 +21,11 @@
       <section class="intro" id="top">
         <p class="eyebrow">Apple news</p>
         <h1>Appleのニュースを、<br class="mobile-break" />まとめて。</h1>
-        <div class="intro-status" aria-label="監視中の配信元"><span class="status-dot" aria-hidden="true"></span>5 feeds</div>
+        <div class="intro-status" aria-label="監視中の配信元">
+          <span class="status-dot" aria-hidden="true"></span>
+          <span>5 feeds</span>
+          <span style="margin-left: 8px; color: var(--quiet); font-size: 10px; font-weight: 400; letter-spacing: 0; text-transform: none;">要約と原文リンク</span>
+        </div>
       </section>
 
       <section class="feed" aria-labelledby="feed-title">
@@ -47,13 +35,6 @@
             <p class="sync-status" id="sync-status">最終確認を取得しています…</p>
           </div>
           <div class="feed-tools">
-            <button class="manual-sync" id="manual-sync" type="button">
-              <svg aria-hidden="true" viewBox="0 0 24 24">
-                <path d="M19 8a7.5 7.5 0 1 0 .3 7.5"></path>
-                <path d="M19 3v5h-5"></path>
-              </svg>
-              <span id="manual-sync-label">今すぐ取得</span>
-            </button>
             <label class="search-field">
               <span class="sr-only">記事を検索</span>
               <svg class="search-icon" aria-hidden="true" viewBox="0 0 24 24">
@@ -67,27 +48,28 @@
                 </svg>
               </button>
             </label>
+            <button class="manual-sync" id="manual-sync" type="button">
+              <svg aria-hidden="true" viewBox="0 0 24 24">
+                <path d="M19 8a7.5 7.5 0 1 0 .3 7.5"></path>
+                <path d="M19 3v5h-5"></path>
+              </svg>
+              <span id="manual-sync-label">更新</span>
+            </button>
           </div>
         </div>
-        <p class="manual-sync-message" id="manual-sync-status" aria-live="polite"></p>
+        <p class="manual-sync-message" id="manual-sync-status" aria-live="polite" hidden></p>
 
         <div class="article-list" id="article-list" aria-live="polite" aria-busy="true">
           <div class="loading-state">記事を読み込んでいます…</div>
         </div>
       </section>
-
-      <footer class="site-footer">
-        <p>Orchardは各記事の要約と原文へのリンクを掲載しています。</p>
-      </footer>
     </main>
 
     <dialog class="token-dialog" id="token-dialog">
       <form class="token-form" method="dialog">
         <p class="token-eyebrow">GitHub authentication</p>
         <h2>手動取得を有効にする</h2>
-        <p class="token-description">
-          GitHubのFine-grained personal access tokenを入力してください。トークンはこの端末内だけに保存されます。
-        </p>
+        <p class="token-description">GitHubトークンを入力してください。この端末内だけに保存されます。</p>
         <label class="token-field">
           <span>Token</span>
           <input
@@ -100,7 +82,7 @@
             required
           />
         </label>
-        <p class="token-hint">対象をこのリポジトリだけにして、Actionsの読み書き権限を付けてください。</p>
+        <p class="token-hint">このリポジトリのActions権限だけを付けてください。</p>
         <div class="token-actions">
           <button class="token-cancel" type="submit" value="cancel" formnovalidate>キャンセル</button>
           <button class="token-save" type="submit" value="save">保存して取得</button>
