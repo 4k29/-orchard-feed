@@ -1,5 +1,10 @@
 name: Sync Apple product database
 on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/products.mjs"
+      - ".github/workflows/products.yml"
   schedule:
     - cron: "23 3 * * 1"
   workflow_dispatch:
