@@ -17,13 +17,13 @@ jobs:
       - uses: actions/checkout@v4
       - run: |
           git clone --depth 1 --filter=blob:none --sparse https://github.com/littlebyteorg/appledb.git /tmp/appledb
-          git -C /tmp/appledb sparse-checkout set deviceFiles
+          git -C /tmp/appledb sparse-checkout set deviceFiles osFiles
       - uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
       - run: npm ci
-      - run: node scripts/products.mjs /tmp/appledb/deviceFiles data/products.json
+      - run: node scripts/products.mjs /tmp/appledb/deviceFiles data/products.json /tmp/appledb/osFiles
       - run: |
           if git diff --quiet -- data/products.json; then exit 0; fi
           git config user.name "github-actions[bot]"
