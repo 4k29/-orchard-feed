@@ -6,7 +6,9 @@ on:
       - "scripts/products.mjs"
       - "scripts/apply-ipad-prices.mjs"
       - "scripts/apply-product-metadata.mjs"
+      - "scripts/finalize-product-metadata.mjs"
       - "scripts/report-target-products.mjs"
+      - "site/products.js"
       - ".github/workflows/products.yml"
   schedule:
     - cron: "23 3 * * 1"
@@ -26,9 +28,11 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - run: node --check site/products.js
       - run: node scripts/products.mjs /tmp/appledb/deviceFiles data/products.json /tmp/appledb/osFiles
       - run: node scripts/apply-ipad-prices.mjs data/products.json
       - run: node scripts/apply-product-metadata.mjs data/products.json
+      - run: node scripts/finalize-product-metadata.mjs data/products.json
       - run: node scripts/report-target-products.mjs data/products.json data/target-products-report.json
       - run: |
           if git diff --quiet -- data/products.json data/target-products-report.json; then exit 0; fi
