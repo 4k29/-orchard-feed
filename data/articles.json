@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "fc4bfaac003d73663a08",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27: All the New iCloud Features",
+      "url": "https://www.macrumors.com/guide/ios-27-icloud/",
+      "publishedAt": "2026-07-24T22:54:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-All-the-New-iCloud-Features.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27で新しいiCloud機能が登場",
+      "summaryJa": "iOS 27では、Apple HomeやSiri、Photosなどのアプリで新しいiCloud機能が追加されました。特にHomeKit Secure Videoカメラに関する新機能があり、動きがあった際にテキストで通知される機能が搭載されています。これにより、家の中での動きを把握しやすくなります。これらの機能を利用するには、2TB以上のiCloud+プランが必要です。"
+    },
+    {
+      "id": "50e1a0ccbe1cfe193cb9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Tapbots launches Pastebot 3 with improved organization and automation tools",
+      "url": "https://9to5mac.com/2026/07/24/tapbots-launches-pastebot-3-with-improved-organization-and-automation-tools/",
+      "publishedAt": "2026-07-24T22:18:26.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/pastebot-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Pastebot 3が登場、機能が強化",
+      "summaryJa": "人気のクリップボード管理アプリPastebotが、約10年ぶりにPastebot 3としてアップデートされました。新バージョンはmacOS 26 Tahoe以降が必要で、14日間の無料トライアルが提供されます。ユーザーは直接購入するか、App Storeでサブスクリプションを選択できます。新機能にはクリップボード履歴やカスタムペーストビンなどがあり、使いやすさが向上しています。"
+    },
+    {
       "id": "8f6b39bb79fd5ec5db26",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -3601,7 +3631,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-24T22:14:35.086Z",
+  "updatedAt": "2026-07-24T23:27:41.705Z",
   "initialized": true,
   "summaryVersion": 4
 }
