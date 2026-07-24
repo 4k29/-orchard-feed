@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "2acebd7f010dbcc65677",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Trump Vows to Reverse EU Fines Against Apple and Other Tech Companies, Threatens Tariffs",
+      "url": "https://www.macrumors.com/2026/07/24/trump-eu-fine-investigation/",
+      "publishedAt": "2026-07-24T19:37:08.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/12/european-union-eu.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "トランプ氏、EUのApple罰金撤回を表明",
+      "summaryJa": "アメリカのドナルド・トランプ大統領が、EUがAppleやGoogle、Metaに課した罰金に対する調査を開始する意向を示しました。トランプ氏はEUの行動を「違法かつ非倫理的」とし、罰金の撤回と大規模な関税の導入を約束しました。Appleは過去に150億ドルの罰金を科せられたことがあり、今後の動向が注目されます。"
+    },
+    {
+      "id": "a8755b8e707e3beaadc9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases seventh RCs for macOS Sonoma 14.8.8 and macOS Sequoia 15.7.8",
+      "url": "https://9to5mac.com/2026/07/24/apple-releases-seventh-rcs-for-macos-sonoma-14-8-8-and-macos-sequoia-15-7-8/",
+      "publishedAt": "2026-07-24T19:20:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/09/macOS-Sequoia-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOSの新RCを公開",
+      "summaryJa": "Appleは、macOS Sonoma 14.8.8およびmacOS Sequoia 15.7.8の第7回リリース候補を公開しました。これにより、両システムのテストが続いており、重要なセキュリティ修正が含まれているとされています。正式リリースは来週の早い段階で行われる見込みで、古いシステムを使用しているユーザーは迅速なアップデートが推奨されます。"
+    },
+    {
+      "id": "049ab27973ec26b9973b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 adds new Phone app feature that’s an instant favorite",
+      "url": "https://9to5mac.com/2026/07/24/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/",
+      "publishedAt": "2026-07-24T18:53:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/phone-app-icon-fi-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27に新機能「コールコンテキスト」登場",
+      "summaryJa": "iOS 27には、電話アプリに新機能「コールコンテキスト」が追加され、ビジネスとの通話中に関連情報を画面に表示します。この機能は、例えば航空会社に電話した際に、予約情報や確認コードを自動的に表示するもので、ユーザーから好評を得ることが期待されています。初期段階では英語のみ対応し、Appleの各デバイスで利用可能です。"
+    },
+    {
       "id": "b730b062e6ddbc8b36e9",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -3496,7 +3541,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-24T18:18:39.027Z",
+  "updatedAt": "2026-07-24T19:52:42.830Z",
   "initialized": true,
   "summaryVersion": 4
 }
