@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "7bf567a73ed5e384350a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s trade secrets lawsuit against OpenAI reassigned to new judge",
+      "url": "https://9to5mac.com/2026/07/23/apples-trade-secrets-lawsuit-against-openai-reassigned-to-new-judge/",
+      "publishedAt": "2026-07-24T00:33:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-vs-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、OpenAIに対する訴訟が新判事に移管",
+      "summaryJa": "AppleがOpenAIに対して提起した営業秘密に関する訴訟が、エドワード・ダビラ米国地方裁判官に移管されました。元々はマグレート判事に割り当てられていましたが、Appleがその判事の管轄を拒否したため、移管が行われました。この結果、10月13日に予定されていた初回のケース管理会議はキャンセルされ、ダビラ判事のもとで再調整が必要となります。"
+    },
+    {
       "id": "e3d4c10c5324899582f7",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -3106,7 +3121,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-23T22:34:43.950Z",
+  "updatedAt": "2026-07-24T00:56:08.094Z",
   "initialized": true,
   "summaryVersion": 4
 }
