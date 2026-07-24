@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "6a70dd222eaf7436ae35",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "The MacRumors Show: Can OpenAI Really Beat the iPhone?",
+      "url": "https://www.macrumors.com/2026/07/24/the-macrumors-show-can-openai-beat-the-iphone/",
+      "publishedAt": "2026-07-24T16:17:27.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、OpenAIに訴訟を提起",
+      "summaryJa": "AppleがOpenAIに対し、機密情報の不正取得を巡る訴訟をカリフォルニア州北部地区で提起しました。訴状では、OpenAIのハードウェア責任者がAppleの元社員であり、退職面談のセキュリティ手続きを回避する方法を教えたとされています。また、OpenAIはAppleの許可を偽ってサプライヤーに金属仕上げ技術を適用させたと主張されています。この訴訟は、AppleとOpenAIの関係が悪化している中で発生しました。"
+    },
+    {
+      "id": "3e4f00d20ae5428754ba",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s $250 million Siri settlement just got approved, here’s who gets paid",
+      "url": "https://9to5mac.com/2026/07/24/apples-250-million-siri-settlement-just-got-approved-heres-who-gets-paid/",
+      "publishedAt": "2026-07-24T16:14:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/08/apple-intelligence-when.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Siri訴訟で2.5億ドルの和解",
+      "summaryJa": "AppleがSiriとApple Intelligenceの遅延に関する集団訴訟で2.5億ドルの和解に合意しました。この訴訟は、Appleが発表したAI機能が実際には存在しなかったことを理由に提起されました。和解条件は5月に発表され、Appleは不正を認めていません。裁判所は先週、和解提案に対する初期承認を与えました。"
+    },
+    {
+      "id": "6e377fa460b356d4b305",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "macOS 27 Beta Reworks Mail's Compose Window Around Siri AI",
+      "url": "https://www.macrumors.com/2026/07/24/macos-27-beta-siri-mail-compose-window/",
+      "publishedAt": "2026-07-24T15:57:06.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/apple-working-on-redesigned-formatting-bar-for-mail-2.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "macOS 27ベータ版、Mailアプリに新機能",
+      "summaryJa": "macOS 27のベータ版では、Mailアプリの作成ウィンドウにApple IntelligenceのWriting ToolsとSiri AIを強調する新しいフォーマットバーがテストされています。このバーは、Siriを使った執筆機能を目立たせるように設計されており、提案された返信をプレビューする機能も追加されています。現在はデフォルトで有効ではなく、内部の機能フラグの下に隠れています。"
+    },
+    {
+      "id": "afc6571555673418b904",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: M5 Pro MacBook Pro $500 off, Apple Watch Series 11 $150 off, AirPods, AirTag 2, MagSafe Battery, more",
+      "url": "https://9to5mac.com/2026/07/24/deals-m5-pro-macbook-pro-apple-watch-airpods-airtag-2/",
+      "publishedAt": "2026-07-24T15:21:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-deals-Black-Friday-July-MacBook-Pro-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "M5 Pro MacBook Proが500ドル値下げ",
+      "summaryJa": "AmazonでM5 Pro MacBook Proが500ドルの大幅値下げで販売されています。特に2TBモデルが2499ドルに値下げされ、これはAppleの通常価格2999ドルからの大きな割引です。また、Apple Watch Series 11やAirPodsなどもセール中で、特にAirPods Pro 3が50ドルオフとなっています。"
+    },
+    {
+      "id": "3127b2e1a539e572eff2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 26.6 is coming next week for iPhone, here’s what’s new",
+      "url": "https://9to5mac.com/2026/07/24/ios-26-6-is-coming-next-week-for-iphone-heres-whats-new/",
+      "publishedAt": "2026-07-24T15:15:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 26.6、来週登場予定",
+      "summaryJa": "iOS 26.6が来週、iPhoneユーザー向けにリリースされる予定です。このアップデートは、iOS 27への準備としてSpotlightの最適化やセキュリティ、バグ修正を含みます。Appleはすでに開発者向けにRC版を配布しており、正式なリリースは7月27日頃と予想されています。新機能の追加はなく、安定性とセキュリティの向上が主な目的です。"
+    },
+    {
+      "id": "3176b5d55a64e509e5d6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Siri Settlement Approved: Apple to Pay Owners of Some iPhone Models",
+      "url": "https://www.macrumors.com/2026/07/24/apple-to-pay-owners-of-these-iphone-models/",
+      "publishedAt": "2026-07-24T15:10:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/09/iphone-16-teal.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Siri訴訟和解、Appleが支払いへ",
+      "summaryJa": "Appleは、Siriの遅延した発売に関する米国の集団訴訟を250百万ドルで和解することに合意しました。対象となるiPhoneユーザーは最大95ドルの支払いを受ける可能性があります。和解は裁判所からの仮承認を受けましたが、請求手続きはまだ始まっておらず、数ヶ月かかる見込みです。Appleは訴訟の理由として、Siriの新機能の遅延を挙げており、最新の「Siri AI」はiOS 27の開発者ベータ版でテスト可能です。"
+    },
+    {
       "id": "6976ad6eeaaf774e3b23",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -3361,7 +3451,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-24T15:04:44.891Z",
+  "updatedAt": "2026-07-24T16:54:46.778Z",
   "initialized": true,
   "summaryVersion": 4
 }
