@@ -1,6 +1,156 @@
 {
   "articles": [
     {
+      "id": "6976ad6eeaaf774e3b23",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Unpatchable iPhone 11 Exploit Sparks Legal Battle",
+      "url": "https://www.macrumors.com/2026/07/24/unpatchable-iphone-11-exploit-sparks-legal-battle/",
+      "publishedAt": "2026-07-24T14:58:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/06/iPhone-11-Pro-Feature-Green.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 11の脆弱性が法廷闘争に",
+      "summaryJa": "サイバーセキュリティ企業Paradigm Shiftが、AppleのA12およびA13チップに関するブートROMの脆弱性を公開した後、デジタルフォレンジック企業Magnet Forensicsから訴訟を受けました。Magnet Forensicsは、Paradigm Shiftが開示した脆弱性が自社の元従業員が関与したものと同様であると主張し、商業秘密の漏洩を訴えています。この脆弱性は、iOSのアップデートでは修正できないため、影響が大きいとされています。"
+    },
+    {
+      "id": "a23788f438807f488904",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: July 24, 2026 – Apple and Ford partnership, more",
+      "url": "https://9to5mac.com/2026/07/24/daily-july-24-2026/",
+      "publishedAt": "2026-07-24T14:55:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AppleとFordの提携など最新ニュース",
+      "summaryJa": "9to5Macのポッドキャストで、AppleとFordの提携やiOS 27の新機能についての最新情報が紹介されています。iOS 27では、リースデバイスの制限やApple MapsがFordのナビゲーションモードに採用される可能性があることが報じられています。また、Apple Cardに新機能が追加されることや、Apple StoreアプリにAIショッピングアシスタントが導入される可能性もあります。"
+    },
+    {
+      "id": "752ab758a0cc8a2b642c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Best ‘Black Friday in July’ Apple deals: $500 off MacBook Pro, $100 off AirPods, more",
+      "url": "https://9to5mac.com/2026/07/24/best-black-friday-in-july-apple-deals-50-off-airpods-pro-400-off-macbook-pro-more/",
+      "publishedAt": "2026-07-24T14:38:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-Black-Friday-in-July-deals-AirPods-MacBook-AirTag.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "7月のブラックフライデーセールでApple製品が特価",
+      "summaryJa": "Amazonが「ブラックフライデー in July」として、MacBook ProやAirPodsなどの大幅割引を実施中です。特に14インチのM5 Pro MacBook Proが500ドル引きで2499ドル、AirPods Pro 3が50ドル引き、AirPods Max 2が100ドル引きなど、注目のセールが展開されています。これにより、Apple製品の購入を検討しているユーザーにとって、良い機会となっています。"
+    },
+    {
+      "id": "7f323cf7fe9b5ba875ba",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Facebook announces face scanning to confirm you’re a human",
+      "url": "https://9to5mac.com/2026/07/24/facebook-announces-face-scanning-to-confirm-youre-a-human/",
+      "publishedAt": "2026-07-24T14:09:17.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/facebook-verified-setup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Facebookが顔認証による本人確認を発表",
+      "summaryJa": "Metaが新たに「Facebook Verified」を発表し、ユーザーが顔認証を通じて本人確認を行う仕組みを導入しました。このバッジは、ユーザーが実在の人物であることを証明するためのもので、AIによる偽情報の増加に対抗する目的があります。顔認証は簡単なセルフィー動画を用いて行われ、確認が取れればプロフィールに表示されます。"
+    },
+    {
+      "id": "535de8cbb0e5f7ab7b3d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Meta Launches Free 'Facebook Verified' Badge to Confirm Real Users",
+      "url": "https://www.macrumors.com/2026/07/24/meta-launches-free-facebook-verified-badge/",
+      "publishedAt": "2026-07-24T13:55:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/03/Facebook-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Meta、無料の「Facebook Verified」バッジを導入",
+      "summaryJa": "Metaは、実在のユーザーを確認するための無料バッジ「Facebook Verified」を発表しました。この機能は、ユーザーが短いビデオセルフィーを録画し、既存のプロフィール写真と照合することで本人確認を行います。バッジは18歳以上のユーザーに提供され、詐欺や不正行為の証拠がないことが条件です。バッジはMarketplaceやDating、Groups、Profileに表示され、今後Feed投稿にも拡大予定です。"
+    },
+    {
+      "id": "3302e3aa3608eeca9c76",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s everything new Apple TV has coming in August",
+      "url": "https://9to5mac.com/2026/07/24/heres-everything-new-apple-tv-has-coming-in-august-2026/",
+      "publishedAt": "2026-07-24T13:44:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-tv-sunset-mountains.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、8月の新作ラインアップ発表",
+      "summaryJa": "Apple TVでは、8月に待望の『テッド・ラッソ』シーズン4が登場します。さらに、SFシリーズ『ダークマター』の新シーズンや『サイロ』の新エピソードなども配信予定です。『テッド・ラッソ』は8月5日から放送開始で、女性サッカーチームのコーチとしての挑戦が描かれます。その他の新作も続々とラインアップされており、視聴者に楽しみを提供します。"
+    },
+    {
+      "id": "01204b9af1c151bff74e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Fire Reported Near Apple Park",
+      "url": "https://www.macrumors.com/2026/07/24/fire-reported-near-apple-park/",
+      "publishedAt": "2026-07-24T13:30:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apple-Forge-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Park近くで火災報告",
+      "summaryJa": "カリフォルニア州クパチーノのApple Park近くで、Appleが賃貸する建物で火災が発生しました。現地時間の午後5時30分頃、消防が出動し、約45分後に事態は収束しました。SNSでは被害が「巨大」と報告されましたが、写真ではフェンスの損傷が見られるのみで、負傷者の有無は不明です。Appleにはコメントを求めています。"
+    },
+    {
+      "id": "7289bd92d4df711f9624",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Meta just released a brand-new Facebook Seller app for iPhone",
+      "url": "https://9to5mac.com/2026/07/24/meta-just-released-a-brand-new-facebook-seller-app-for-iphone/",
+      "publishedAt": "2026-07-24T13:28:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sell-facebook-app.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Meta、iPhone向け新アプリ「Seller」を発表",
+      "summaryJa": "Metaが新たにiPhone専用のアプリ「Seller」をリリースしました。このアプリはFacebook Marketplaceでの出品管理に特化しており、出品の管理やバイヤーとのメッセージのやり取りが一元化されています。AIを活用して出品情報を迅速に入力できる機能もあり、出品者にとって便利なツールとなっています。アプリは無料でApp Storeからダウンロード可能です。"
+    },
+    {
+      "id": "bd0a8d5bb1d51463ec83",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Wallet driver’s licenses coming to two more states soon: report",
+      "url": "https://9to5mac.com/2026/07/24/apple-wallet-drivers-licenses-coming-to-two-more-states-soon-report/",
+      "publishedAt": "2026-07-24T13:27:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/apple-wallet-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Wallet、運転免許証を2州で導入か",
+      "summaryJa": "Apple Walletが運転免許証やデジタルIDのサポートを拡大する可能性があり、ユタ州とバージニア州が新たに対応する見込みです。MacRumorsのアーロン・ペリス氏によると、Appleのバックエンドに両州の情報が確認されており、導入準備が進んでいるとのことです。具体的な導入時期は未定ですが、両州の住民がApple Walletを通じて運転免許証を取得できる日が近づいていると考えられます。"
+    },
+    {
+      "id": "71f2a7a69ff1e51824b7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New Macs are coming soon, here’s everything we know",
+      "url": "https://9to5mac.com/2026/07/24/new-macs-are-coming-soon-heres-everything-we-know/",
+      "publishedAt": "2026-07-24T13:19:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/macbook-pro-m5-14-inch.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新型Mac、年内に登場予定",
+      "summaryJa": "Appleが年内に複数の新型Macを発表する予定で、初のタッチスクリーンMacBookやM6チップ搭載モデルが含まれています。特に注目されるのは、タッチスクリーンとOLEDディスプレイを搭載したMacBook Ultraで、デザインも大幅に変更される見込みです。また、M6チップを搭載した新型MacBook Proも計画されており、性能向上が期待されています。新型iMacも秋に登場する可能性があり、M6チップが搭載されるとされています。"
+    },
+    {
       "id": "703c5e97670852cf7824",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -3211,7 +3361,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-24T13:04:47.445Z",
+  "updatedAt": "2026-07-24T15:04:44.891Z",
   "initialized": true,
   "summaryVersion": 4
 }
