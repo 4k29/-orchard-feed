@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "703c5e97670852cf7824",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Claude Voice Mode Gains Opus and Sonnet Model Support",
+      "url": "https://www.macrumors.com/2026/07/24/claude-voice-mode-opus-sonnet-model-support/",
+      "publishedAt": "2026-07-24T12:10:49.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/claude-voice.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Claudeの音声モードが新モデルに対応",
+      "summaryJa": "AnthropicはClaudeの音声モードをアップデートし、より強力なOpusおよびSonnetモデルをサポートしました。これにより、ユーザーは従来のHaikuモデルに加え、より長く複雑な会話を行えるようになります。また、音声モードはGmailやGoogleカレンダーなどのツールとも連携可能で、ユーザーは音声で情報を取得できます。音声モードはiOS、Android、デスクトップ、ウェブで利用可能ですが、特にスマートフォンでの使用が推奨されています。"
+    },
+    {
+      "id": "4cd4b0c7019757b3908b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "PSA: Check your banking app for a potentially important setting",
+      "url": "https://9to5mac.com/2026/07/24/psa-check-your-banking-app-for-a-potentially-important-setting/",
+      "publishedAt": "2026-07-24T12:04:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Check-your-banking-app-for-a-potentially-important-setting.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Cardの新機能に注意",
+      "summaryJa": "iOS 27でのApple Cardの新機能に関連して、銀行アプリの設定を確認する重要性が指摘されています。特に自動的に繰り返されるカード支払いに関する設定がデフォルトで無効になっている場合があるため、注意が必要です。最近のフィンテックの進展により、銀行アプリは取引通知を迅速に提供しますが、繰り返しの取引に関しては通知が漏れることもあるため、定期的な確認が推奨されています。"
+    },
+    {
       "id": "f27e57e60bbe124b4d6e",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -3181,7 +3211,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-24T11:26:10.988Z",
+  "updatedAt": "2026-07-24T13:04:47.445Z",
   "initialized": true,
   "summaryVersion": 4
 }
