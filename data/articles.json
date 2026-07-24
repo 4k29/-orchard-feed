@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "5247523b348735625281",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Pickleball comedy ‘The Dink’ premieres on Apple TV",
+      "url": "https://9to5mac.com/2026/07/23/pickleball-comedy-the-dink-premieres-on-apple-tv/",
+      "publishedAt": "2026-07-24T01:01:04.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-tv-the-dink.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVでコメディ映画『The Dink』配信開始",
+      "summaryJa": "Apple TVで新たにベン・スティラー製作のスポーツコメディ映画『The Dink』が配信されました。主演はジェイク・ジョンソンやメアリー・スティーンバージェンなどの豪華キャストが揃い、テニスの元天才選手がピクルボールに挑戦するストーリーです。映画は、父親の承認を得るために奮闘する主人公が過去の失敗と向き合う様子を描いています。Apple TVのスポーツコンテンツはますます充実しており、他にも多くの作品がラインアップされています。"
+    },
+    {
       "id": "7bf567a73ed5e384350a",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -3121,7 +3136,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-24T00:56:08.094Z",
+  "updatedAt": "2026-07-24T01:04:33.811Z",
   "initialized": true,
   "summaryVersion": 4
 }
