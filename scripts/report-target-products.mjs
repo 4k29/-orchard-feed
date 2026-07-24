@@ -13,7 +13,6 @@ const isTarget = (product) =>
   isDesktopMac(product) ||
   product.family === "Apple Watch" ||
   product.family === "AirPods" ||
-  product.family === "Beats" ||
   product.family === "AirTag";
 const compact = (product) => ({
   name: product.name,
@@ -43,7 +42,6 @@ const missingPriceDates = rows.filter((product) => {
   return prices.length > 1 && prices.slice(1).some((price) => !/\(\d{2}\/\d{1,2}\/\d{1,2}\)$/.test(String(price)));
 }).map(compact);
 const airPods = targets.filter((product) => product.family === "AirPods").map(compact);
-const beats = targets.filter((product) => product.family === "Beats").map(compact);
 const watches = targets.filter((product) => product.family === "Apple Watch").map(compact);
 const macs = targets.filter((product) => isMacBook(product) || isDesktopMac(product)).map(compact);
 
@@ -58,7 +56,6 @@ const report = {
     missingPriceDates: missingPriceDates.length,
     duplicateKeys: duplicateKeys.length,
     airPods: airPods.length,
-    beats: beats.length,
     watches: watches.length,
     macs: macs.length,
   },
@@ -67,7 +64,6 @@ const report = {
   missingPrices,
   missingPriceDates,
   airPods,
-  beats,
 };
 
 fs.writeFileSync(output, `${JSON.stringify(report, null, 2)}\n`);
