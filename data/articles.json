@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "b730b062e6ddbc8b36e9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Anthropic's New Claude Opus 5 Nearly Matches Flagship Fable 5 at Half the Cost",
+      "url": "https://www.macrumors.com/2026/07/24/anthropic-opus-5/",
+      "publishedAt": "2026-07-24T17:43:35.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/claude-opus-5.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Anthropic、Claude Opus 5を発表",
+      "summaryJa": "Anthropicが新しいAIモデル「Claude Opus 5」を発表しました。これは、前モデルのOpus 4.8からのアップグレードで、Fable 5に近い性能を半額で提供します。Opus 5は、科学研究においても「意味のある改善」が見られ、視覚出力の質も向上しています。新モデルはすべてのプラットフォームで利用可能で、Claude Maxのデフォルトモデルとしても採用されています。"
+    },
+    {
+      "id": "c7b61b5004c9a0aa202e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Anthropic upgrades Claude with new Opus 5 model, details here",
+      "url": "https://9to5mac.com/2026/07/24/anthropic-upgrades-claude-with-new-opus-5-model-details-here/",
+      "publishedAt": "2026-07-24T17:16:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Claude Opus 5、AIモデルを強化",
+      "summaryJa": "Anthropicが「Claude Opus 5」をリリースしました。この新モデルは、前のOpusモデルから約2ヶ月後に登場し、Fable 5に近い知能を半額で提供します。Opus 5は日常使用に最適化されており、Claude Maxのデフォルトモデルとしても機能します。また、APIにおける自動フォールバック機能も追加され、ユーザーは安全性が懸念されるリクエストを別のモデルに自動的にルーティングできるようになります。"
+    },
+    {
+      "id": "3ec0d2632c6352d73353",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "watchOS 27 adds new feature to improve your Apple Watch battery life",
+      "url": "https://9to5mac.com/2026/07/24/watchos-27-adds-new-feature-to-improve-your-apple-watch-battery-life/",
+      "publishedAt": "2026-07-24T17:02:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/watchos-27-watch-face-red.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "watchOS 27、Apple Watchのバッテリー寿命を延ばす機能",
+      "summaryJa": "watchOS 27が今秋に登場し、Apple Watchのバッテリー寿命を改善する新機能「プロアクティブバッテリー延長通知」を搭載します。この機能は、使用していない機能を自動的に無効にすることでバッテリーを節約します。通知を受け取ることで、無効にされる機能を確認し、必要に応じて設定を変更できます。Appleは具体的なバッテリー寿命の延長量を明示していませんが、効果が期待される機能です。"
+    },
+    {
       "id": "6a70dd222eaf7436ae35",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -3451,7 +3496,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-24T16:54:46.778Z",
+  "updatedAt": "2026-07-24T18:18:39.027Z",
   "initialized": true,
   "summaryVersion": 4
 }
