@@ -4,7 +4,7 @@ import { fileURLToPath } from "node:url";
 import { load } from "cheerio";
 
 const wanted =
-  /iphone|ipad|apple watch|airpods|airtag|homepod|macbook|imac|mac mini|mac studio|mac pro|macintosh|powerbook|ibook/i;
+  /iphone|ipad|apple watch|airpods|beats|airtag|homepod|macbook|imac|mac mini|mac studio|mac pro|macintosh|powerbook|ibook/i;
 
 const iPhoneStorage = new Map([
   ["iPhone", ["4GB", "8GB", "16GB"]],
@@ -295,6 +295,7 @@ function category(product) {
   if (text.includes("ipad")) return "iPad";
   if (text.includes("watch")) return "Apple Watch";
   if (text.includes("airpods")) return "AirPods";
+  if (text.includes("beats")) return "Beats";
   if (text.includes("airtag")) return "AirTag";
   if (text.includes("homepod")) return "HomePod";
   if (/macbook|imac|mac mini|mac studio|mac pro|macintosh|powerbook|ibook/.test(text)) return "Mac";
@@ -488,6 +489,7 @@ function softwareLabel(os) {
     audioOS: "HomePodソフトウェア",
     "HomePod Software": "HomePodソフトウェア",
     "AirPods Firmware": "AirPodsファームウェア",
+    "Beats Firmware": "Beatsファームウェア",
   };
   return `${labels[os.osStr] || os.osStr} ${os.version}`.trim();
 }
@@ -568,6 +570,7 @@ function fallbackInitialOS(product) {
   }
   if (product.family === "HomePod") return "HomePodソフトウェア（初期版）";
   if (product.family === "AirPods") return "AirPodsファームウェア（初期版）";
+  if (product.family === "Beats") return "Beatsファームウェア（初期版）";
   if (product.family === "AirTag") return "AirTagファームウェア（初期版）";
   return "初期ソフトウェア（版不明）";
 }
