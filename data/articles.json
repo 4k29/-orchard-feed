@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "8f6b39bb79fd5ec5db26",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Pay is getting even better with four new features",
+      "url": "https://9to5mac.com/2026/07/24/apple-pay-is-getting-even-better-with-four-new-features/",
+      "publishedAt": "2026-07-24T21:24:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/apple-pay-header.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Pay、4つの新機能を発表",
+      "summaryJa": "AppleはApple Payの新機能を4つ発表しました。iOS 27では、チェックアウト画面が再設計され、カード間の切り替えが簡単になります。また、American ExpressのポイントをApple Payで利用できる新機能も追加され、オンラインやアプリでの買い物時にポイントを使えるようになります。さらに、店舗での購入をスムーズにする「Tap to Share」機能も導入される予定です。これらの機能は今秋に一般公開される予定です。"
+    },
+    {
+      "id": "f6130dfac7b1ecee3e1f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Trump vows retaliation over EU fines against Apple and other ‘GREAT’ US tech giants",
+      "url": "https://9to5mac.com/2026/07/24/trump-vows-retaliation-over-eu-fines-against-apple-and-other-great-us-tech-giants/",
+      "publishedAt": "2026-07-24T21:20:17.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/04/tim-cook-trump.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "トランプ氏、EUのAppleへの罰金に報復を宣言",
+      "summaryJa": "トランプ前大統領は、Appleなどの米国のテクノロジー企業に対するEUの罰金に対し、報復を行うと表明しました。彼は、EUが不当な罰金を課していると主張し、EUに対して「相当な」関税を課す意向を示しました。トランプ氏は、Appleに対する150億ドルの罰金を含む過去の罰金を挙げ、EUの行為を「違法で非倫理的」と非難しました。"
+    },
+    {
       "id": "296a02ab80823f998739",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -3571,7 +3601,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-24T20:58:04.430Z",
+  "updatedAt": "2026-07-24T22:14:35.086Z",
   "initialized": true,
   "summaryVersion": 4
 }
