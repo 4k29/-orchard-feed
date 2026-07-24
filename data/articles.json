@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "f27e57e60bbe124b4d6e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp Rolls Out Redesigned Message Bubbles for iOS",
+      "url": "https://www.macrumors.com/2026/07/24/whatsapp-redesigned-message-bubbles-ios/",
+      "publishedAt": "2026-07-24T11:19:25.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "WhatsApp、iOS向けメッセージバブルを刷新",
+      "summaryJa": "WhatsAppがiOS向けにメッセージバブルのデザインを変更しました。新しいバブルは以前よりも丸みを帯び、iMessageに似た柔らかい形状になっています。また、共有メディアファイルは元の境界線がなくなり、よりクリーンな印象を与えています。このデザイン変更は、先月のLiquid Glassを基にしたチャットインターフェースの改良に続くものです。"
+    },
+    {
+      "id": "16c5e198e359c1eaa6a1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeking 20% OLED Panel Price Cut for iPhone 18 Pro Max",
+      "url": "https://www.macrumors.com/2026/07/24/oled-panel-price-cut-iphone-18-pro-max/",
+      "publishedAt": "2026-07-24T10:31:42.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iPhone-18-Pro-and-Pro-Max-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhone 18 Pro Max用OLEDパネルの価格引き下げを要求",
+      "summaryJa": "AppleがiPhone 18 Pro Max用のOLEDパネルの価格を約20%引き下げるようサプライヤーに求めていると報じられています。AppleはOLEDパネルに約70ドルを提案していますが、実際には66.50ドル程度になる可能性があります。これは、iPhone 17 Pro Max用のパネル価格からの大幅な減少です。iPhone 18のOLEDパネルは製造が複雑になると予想されており、AppleはSamsung Displayの最新M16 OLED素材を使用する予定です。"
+    },
+    {
       "id": "7693f0a50ec63a214d2d",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -3151,7 +3181,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-24T03:01:54.163Z",
+  "updatedAt": "2026-07-24T11:26:10.988Z",
   "initialized": true,
   "summaryVersion": 4
 }
