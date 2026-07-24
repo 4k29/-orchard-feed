@@ -19,7 +19,7 @@ const A = document.querySelector("#advanced-filters");
 const M = document.querySelector("#load-more");
 const X = document.querySelector("#product-template");
 
-const C = ["iPhone", "iPad", "MacBook", "Mac", "Apple Watch", "AirPods", "Beats", "AirTag", "HomePod"];
+const C = ["iPhone", "iPad", "MacBook", "Mac", "Apple Watch", "AirPods", "AirTag", "HomePod"];
 const CONFIG = {
   iPhone: [{ key: "series", label: "シリーズ", order: ["Pro Max", "Pro", "Max", "Air", "Plus", "無印", "mini", "SE", "e"] }],
   iPad: [
@@ -52,7 +52,6 @@ function category(product) {
   if (text.includes("ipad")) return "iPad";
   if (text.includes("watch")) return "Apple Watch";
   if (text.includes("airpods")) return "AirPods";
-  if (text.includes("beats")) return "Beats";
   if (text.includes("airtag")) return "AirTag";
   if (text.includes("homepod")) return "HomePod";
   if (text.includes("macbook")) return "MacBook";
