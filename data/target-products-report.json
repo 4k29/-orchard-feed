@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T06:39:27.614Z",
+  "updatedAt": "2026-07-24T06:40:23.371Z",
   "metadataWarnings": [],
   "summary": {
     "products": 188,
@@ -9,7 +9,6 @@
     "missingPriceDates": 0,
     "duplicateKeys": 0,
     "airPods": 12,
-    "beats": 0,
     "watches": 18,
     "macs": 56
   },
@@ -1259,6 +1258,5 @@
       "documentationUrl": "https://support.apple.com/ja-jp/125135",
       "documentationDirect": true
     }
-  ],
-  "beats": []
+  ]
 }
