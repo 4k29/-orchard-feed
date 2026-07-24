@@ -5,7 +5,7 @@
 .feed-tools {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 16px;
 }
 
 .manual-sync {
@@ -199,6 +199,7 @@
   .feed-tools {
     display: grid;
     grid-template-columns: minmax(0, 1fr) auto;
+    gap: 12px;
     width: 100%;
   }
 
