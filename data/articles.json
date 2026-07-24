@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "7693f0a50ec63a214d2d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple art director shares early sketches and prototype of Lil’ Finder Guy",
+      "url": "https://9to5mac.com/2026/07/23/apple-art-director-shares-early-sketches-and-prototype-of-lil-finder-guy/",
+      "publishedAt": "2026-07-24T02:36:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/Apple-creates-adorable-little-Finder-guy-to-promote-its-adorable-little-Mac.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Lil’ Finder Guyの制作過程を公開",
+      "summaryJa": "Appleのアートディレクター、ソフィア・コエーリョがLil’ Finder Guyの初期スケッチやプロトタイプを公開しました。彼女はLinkedInで、MacBook Neoキャンペーンのマスコット制作の裏側を紹介し、同プロジェクトを「夢のデザインプロジェクト」と表現。Lil’ Finder Guyはキャンペーンで大きな役割を果たし、インターネットミームとしても人気を博しました。"
+    },
+    {
       "id": "5247523b348735625281",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -3136,7 +3151,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-24T01:04:33.811Z",
+  "updatedAt": "2026-07-24T03:01:54.163Z",
   "initialized": true,
   "summaryVersion": 4
 }
