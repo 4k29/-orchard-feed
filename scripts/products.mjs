@@ -306,6 +306,7 @@ function isPart(product) {
   const name = product.name || "";
   const family = product.type || "";
   const text = `${name} ${family}`;
+  if (/beats/i.test(text) && (/\bEdition\b|\bCollection\b|\bCustom\b|\bCosmophone\b|\s-\sJENNIE\b/i.test(name) || /Earpads|Headband|MicroUSB|character|bike mount|sleeve|RemoteTalk|Pretty Sweet Pill/i.test(name))) return true;
   if (/software|application/i.test(family)) return true;
   if (/(^|[ (])(left|right)([ )]|$)/i.test(name)) return true;
   if (/\bdock\b|raid card|superdrive|developer transition kit|virtual machine|riser|diagnostic dock|restore dock/i.test(name)) return true;
@@ -585,7 +586,7 @@ export function buildProducts(root) {
     if (!family) continue;
     const name = nameJa(product.name, family);
     const released = dates(product.released);
-    const key = family === "iPhone" ? [family, name].join("|") : [family, name, (released[0] || "").slice(0, 4)].join("|");
+    const key = ["iPhone", "Beats"].includes(family) ? [family, name].join("|") : [family, name, (released[0] || "").slice(0, 4)].join("|");
     const item = grouped.get(key) || {
       name,
       family,
