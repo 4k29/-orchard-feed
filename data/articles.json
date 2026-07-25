@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "8bb09f0eecef6f6fc1ea",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work: Apple TV proves to be more reliable than Android in new digital signage report",
+      "url": "https://9to5mac.com/2026/07/25/apple-tv-proves-to-be-more-reliable-than-android-in-new-digital-signage-report/",
+      "publishedAt": "2026-07-25T10:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-tvos-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、デジタルサイネージで信頼性を証明",
+      "summaryJa": "Kitcastの新しい「State of Digital Signage 2026」レポートによると、企業や小売環境でのデジタルサイネージ導入において、Apple TVがAndroidデバイスよりも優れた信頼性を示す結果が出ています。ITチームは高品質なApple TVへの投資と、安価なAndroidデバイスの選択に直面していますが、Apple TVは特に大規模な展開において信頼性が高いとされています。"
+    },
+    {
       "id": "1b3db83e081af9ad2445",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -3676,7 +3691,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-25T04:29:23.027Z",
+  "updatedAt": "2026-07-25T10:44:52.933Z",
   "initialized": true,
   "summaryVersion": 4
 }
