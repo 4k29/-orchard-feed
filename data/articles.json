@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "82edeff0f49897edaae0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Indie App Spotlight: ‘NeoCam’ brings a retro video game style look to your iPhone photos",
+      "url": "https://9to5mac.com/2026/07/25/indie-app-spotlight-neocam-brings-a-retro-video-game-style-look-to-your-iphone-photos/",
+      "publishedAt": "2026-07-25T19:30:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/NeoCam-app.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "NeoCam、レトロゲーム風カメラアプリ登場",
+      "summaryJa": "NeoCamは、iPhoneとiPad向けの新しいカメラアプリで、Game Boyスタイルのフィルターを使って写真を撮影できます。リアルタイムで調整可能なフィルターには、GamePalやMermaidなどがあり、独自のフィルター作成も可能です。アプリは無料でダウンロードでき、動画撮影や異なるアスペクト比の写真を撮るためにはNeoCam Plus（$5.99）が必要です。"
+    },
+    {
+      "id": "33b523f1bf51aebe1b37",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Overtime 074: Apple’s foldable iPhone",
+      "url": "https://9to5mac.com/2026/07/25/9to5mac-overtime-074-apples-foldable-iphone/",
+      "publishedAt": "2026-07-25T19:13:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/9to5Mac-Overtime-074.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの折りたたみiPhoneに関する議論",
+      "summaryJa": "9to5Macのポッドキャストで、FernandoとJeffがSamsungのGalaxy Z Fold8イベントについて詳しく議論しました。新しい4:3アスペクト比の利点や折り目の問題への対策が話題に上り、これがAppleの折りたたみiPhoneに与える影響についても考察されています。リスナーはApple PodcastsやYouTubeでこのエピソードを視聴できます。"
+    },
+    {
+      "id": "e6f590568b7c16279375",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "HomeKit Weekly: The Amazon Basics Matter plug delivers Apple Home support for under $10",
+      "url": "https://9to5mac.com/2026/07/25/the-amazon-basics-matter-plug-delivers-apple-home-control-for-under-10/",
+      "publishedAt": "2026-07-25T18:57:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Amazon-plug-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Amazon Basicsのスマートプラグ、Apple Home対応",
+      "summaryJa": "Amazon BasicsのスマートプラグがMatter対応で10ドル未満という価格で登場しました。これにより、Apple HomeユーザーはAmazonのデバイスを気にせずに利用でき、HomePod miniやApple TV 4Kと直接接続可能です。このプラグは、スマートホームの基本的な要素として、さまざまな家電を自動化するのに役立ちます。"
+    },
+    {
       "id": "ccc2536c562a0d98b329",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -3781,7 +3826,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-25T18:42:33.679Z",
+  "updatedAt": "2026-07-25T20:00:11.391Z",
   "initialized": true,
   "summaryVersion": 4
 }
