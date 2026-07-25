@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "ca9b79e27b30439d6736",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Hands-on: The Meirro Pro 6K might be the best Apple Studio Display alternative yet [Video]",
+      "url": "https://9to5mac.com/2026/07/25/hands-on-the-meirro-pro-6k-might-be-the-best-apple-studio-display-alternative-yet-video/",
+      "publishedAt": "2026-07-25T14:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/display.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Meirro Pro 6K、Apple Studio Displayの代替品か",
+      "summaryJa": "AppleはPro Display XDRを完全に廃止し、現在はStudio DisplayとStudio Display XDRの27インチ5Kモデルを提供しています。これに対抗する形で、Meirro Proが登場しました。32インチの6Kモニターで、アルミニウム製の筐体と調整可能なスタンドを備え、価格は1,199ドルです。デザインはAppleのスタジオディスプレイに似ており、Macユーザーにとって魅力的な選択肢となる可能性があります。"
+    },
+    {
       "id": "e050acfe2eaab5fd76a7",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -3721,7 +3736,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-25T13:16:31.115Z",
+  "updatedAt": "2026-07-25T14:44:08.177Z",
   "initialized": true,
   "summaryVersion": 4
 }
