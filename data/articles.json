@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "1b3db83e081af9ad2445",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: Apple and Micron clash before Trump over Chinese memory chips",
+      "url": "https://9to5mac.com/2026/07/24/report-apple-and-micron-clash-before-trump-over-chinese-memory-chips/",
+      "publishedAt": "2026-07-25T02:03:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、中国製メモリチップ使用で対立か",
+      "summaryJa": "ウォール・ストリート・ジャーナルによると、Micronがトランプ政権に対し、Appleが中国のサプライヤーからメモリチップを使用する計画を阻止するよう働きかけています。Appleは中国のChangXin Memory Technologies（CXMT）やYangtze Memory Technologies（YMTC）からのチップ購入を進めており、これに対してMicronが反対しています。特に、CXMTとYMTCは米国政府により軍事企業と見なされており、Appleの計画は政治的に敏感な状況にあります。"
+    },
+    {
       "id": "b15c446eb5170deb60d6",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -3661,7 +3676,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-25T01:05:24.670Z",
+  "updatedAt": "2026-07-25T04:29:23.027Z",
   "initialized": true,
   "summaryVersion": 4
 }
