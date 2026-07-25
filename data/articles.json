@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "e050acfe2eaab5fd76a7",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Top Stories: 'Apple Upgrade' Program, Apple Music Price Hike, and More",
+      "url": "https://www.macrumors.com/2026/07/25/top-stories-apple-upgrade-program/",
+      "publishedAt": "2026-07-25T13:00:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/top-stories-2026-07-25.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、デバイスリースプログラムを発表",
+      "summaryJa": "Appleは新たに「Apple Upgrade」プログラムを発表し、7月28日から米国で開始します。このプログラムでは、iPhoneやiPad、Mac、Apple Watchの大部分を24か月または36か月でリース可能です。また、Apple Musicの価格が全プランで引き上げられ、iCloud+の価格も8か国で上昇しました。さらに、Appleは今後2年間で全てのMacを刷新する計画を進めています。"
+    },
+    {
+      "id": "d4666e9815345257cc7a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple weekend deals: MacBook Pro $500 off, AirPods Pro 3, AirTag 2, iPhone Air, Series 11, more",
+      "url": "https://9to5mac.com/2026/07/25/apple-weekend-deals-macbook-pro-airpods-airtag-2/",
+      "publishedAt": "2026-07-25T12:10:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-deals-AirPods-iPhone-AirTag-MacBook.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple製品が週末セール中",
+      "summaryJa": "今週末、AmazonやBest BuyでApple製品の大規模セールが行われています。M5 Pro MacBook Proが最大500ドル引き、AirPods Pro 3やiPhone 17 Proも割引価格で提供されています。特に、AirPods Pro Maxが100ドル引き、Apple Watch Series 11やiPhone Airもお得な価格で購入可能です。充電器やFind My関連商品も割引中です。"
+    },
+    {
       "id": "8bb09f0eecef6f6fc1ea",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -3691,7 +3721,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-25T10:44:52.933Z",
+  "updatedAt": "2026-07-25T13:16:31.115Z",
   "initialized": true,
   "summaryVersion": 4
 }
