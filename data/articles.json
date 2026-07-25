@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "ebd8e0838b0f65d3f046",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirPods, AirTag 2, and iPads Hit Low Prices This Week",
+      "url": "https://www.macrumors.com/2026/07/25/best-apple-deals-of-the-week-7-25-26/",
+      "publishedAt": "2026-07-25T14:53:02.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Orange.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirPodsやAirTag 2が特価販売中",
+      "summaryJa": "今週、AirPods全モデルやAirTag 2、iPadが特価で販売されています。AirPods 4は99ドル、AirPods Pro 3は199.99ドル、AirPods Max 2は449ドルに値下げされています。また、AirTag 2の4パックは89ドルで、過去最低価格となっています。さらに、iPadも50ドル引きで、128GBモデルが399ドルから購入可能です。"
+    },
+    {
       "id": "ca9b79e27b30439d6736",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -3736,7 +3751,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-25T14:44:08.177Z",
+  "updatedAt": "2026-07-25T15:49:56.281Z",
   "initialized": true,
   "summaryVersion": 4
 }
