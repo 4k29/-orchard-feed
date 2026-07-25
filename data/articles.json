@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "ccc2536c562a0d98b329",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Sued by Customers Who Lost Combined $1.8 Million Through Fake Bitcoin Wallet in App Store",
+      "url": "https://www.macrumors.com/2026/07/25/apple-app-store-fake-bitcoin-wallet-lawsuit/",
+      "publishedAt": "2026-07-25T18:08:31.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/03/apple-bitcoin-app-scam.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、偽のビットコインウォレットで訴訟",
+      "summaryJa": "Appleは、App Storeで偽のビットコインウォレットアプリに騙され、合計180万ドルを失った顧客3人から訴訟を起こされました。訴状では、Appleがアプリの適切な審査を怠り、消費者の信頼を利用したと主張されています。被害者は、実際には存在しないSparrow Walletアプリをダウンロードし、資金を詐取されたとのことです。訴訟はカリフォルニアの連邦裁判所に提出され、Appleが詐欺報告に対して十分な対応をしなかったとされています。"
+    },
+    {
       "id": "5d331f63cb25a9b3da72",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -3766,7 +3781,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-25T17:44:20.323Z",
+  "updatedAt": "2026-07-25T18:42:33.679Z",
   "initialized": true,
   "summaryVersion": 4
 }
