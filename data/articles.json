@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "a68bf7cd18e488c9cf85",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV announces streaming date for its epic Neuromancer adaptation, new Dark Matter and Matchbox trailers",
+      "url": "https://9to5mac.com/2026/07/25/apple-tv-neuromancer-adaptation-trailers/",
+      "publishedAt": "2026-07-25T22:33:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-tv-neuromancer.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、Neuromancerの配信日を発表",
+      "summaryJa": "Apple TVはサンディエゴ・コミコンでの発表で、ウィリアム・ギブソンの小説を基にした新作SFシリーズ『Neuromancer』の配信日を2027年1月22日に決定したと発表しました。また、シーズン2のトレーラーが公開された『Dark Matter』は8月末に配信予定で、映画『Matchbox』も10月に公開される予定です。Appleのコミコンでの出展は過去最大規模で、初めて2時間のパネルを開催しました。"
+    },
+    {
       "id": "82edeff0f49897edaae0",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -3826,7 +3841,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-25T20:00:11.391Z",
+  "updatedAt": "2026-07-25T23:13:33.100Z",
   "initialized": true,
   "summaryVersion": 4
 }
