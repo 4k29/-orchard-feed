@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "a40e886db8f34b92990f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Planning to Unveil Privacy-Focused Smart Glasses at WWDC 2027",
+      "url": "https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/",
+      "publishedAt": "2026-07-26T16:26:47.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Meta-Ray-Ban-Lens.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、プライバシー重視のスマートグラスを発表か",
+      "summaryJa": "Appleは2027年6月のWWDCで初のスマートグラスを発表する計画があると報じられています。これらのグラスは、現在の製品にはない新しいプライバシー機能を搭載する予定で、特に競合製品と比較してプライバシー対策が強調される見込みです。カメラ機能を持つが、写真や動画の撮影はできない設計も検討されているとのことです。Appleは2027年末に顧客への出荷を開始することを目指しています。"
+    },
+    {
       "id": "9e9fb38c96474864ef3c",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -3901,7 +3916,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-26T16:11:09.568Z",
+  "updatedAt": "2026-07-26T17:17:32.680Z",
   "initialized": true,
   "summaryVersion": 4
 }
