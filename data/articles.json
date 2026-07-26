@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "9e9fb38c96474864ef3c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "'Apple Upgrade' Program Launching on Tuesday",
+      "url": "https://www.macrumors.com/2026/07/26/apple-upgrade-program-launching-tuesday/",
+      "publishedAt": "2026-07-26T15:20:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iPhone-18-Pro-and-Pro-Max-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新「Apple Upgrade」プログラム、28日開始",
+      "summaryJa": "Appleは、7月28日に新しい「Apple Upgrade」プログラムを米国で開始することを発表しました。このプログラムでは、iPhone、iPad、Mac、Apple Watchのほとんどのモデルをリースでき、iPhoneとApple Watchは24ヶ月、iPadとMacは36ヶ月の契約が可能です。既存のiPhone Upgrade Programの新規受付は停止されますが、既存の顧客は当面プログラムに留まることができます。なお、AppleCare+は月額料金に含まれないとのことです。"
+    },
+    {
+      "id": "03b718899a649f97f129",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "What to Expect From Apple Watch Series 12 and Apple Watch Ultra 4",
+      "url": "https://www.macrumors.com/2026/07/26/apple-watch-series-12-ultra-4-features-rumors/",
+      "publishedAt": "2026-07-26T15:07:27.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/05/Apple-Watch-Ultra-2-Black-Titanium.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 12とUltra 4の展望",
+      "summaryJa": "Bloombergのマーク・ガーマン氏が、Apple Watch Series 12とApple Watch Ultra 4についての予想を発表しました。デザインの大きな変更は期待できず、Touch IDの搭載も難しいとのことです。性能向上や健康・フィットネストラッキングの改善が見込まれていますが、Apple Watch SE 4は今年は登場しないとされています。大きな変更は今後1～2年以内に予定されているとのことです。"
+    },
+    {
       "id": "fcf35936cbf740a8b80b",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -3871,7 +3901,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-26T04:04:12.193Z",
+  "updatedAt": "2026-07-26T16:11:09.568Z",
   "initialized": true,
   "summaryVersion": 4
 }
