@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "fcf35936cbf740a8b80b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here are the best MacBook deals right now: July 2026 Buyer’s Guide",
+      "url": "https://9to5mac.com/2026/07/25/best-macbook-deals-currently-july-2026/",
+      "publishedAt": "2026-07-26T02:13:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/macbook-pro-side-angle-ports.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBookの価格上昇、割引情報も",
+      "summaryJa": "最近、AppleのMacBookの価格が大幅に上昇しましたが、依然としていくつかの割引が存在しています。特にMacBook Airは、エントリーモデルとしての魅力を保っており、13インチと15インチのバリエーションが用意されています。現在、Amazonでは特定のモデルが割引価格で販売されており、新しいコンピュータを探している人には依然として良い選択肢とされています。"
+    },
+    {
+      "id": "2b11a485497e4759bf89",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's First Water-Resistant iPad to Launch Later This Year",
+      "url": "https://www.macrumors.com/2026/07/25/first-water-resistant-ipad/",
+      "publishedAt": "2026-07-26T01:00:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/ipad-mini-water-resistance.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple初の防水iPad、年内登場か",
+      "summaryJa": "Appleの次期iPad miniは、初の防水設計を採用する見込みで、10月までに発売されると報じられています。新しい筐体は、iPhoneと同等の防水性能を持ち、浴室やプールなどの湿気のある環境でも使用可能です。音を出すための新しい振動式スピーカーシステムが採用され、従来のスピーカー穴が不要になることで、防水性能が向上します。"
+    },
+    {
       "id": "a68bf7cd18e488c9cf85",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -3841,7 +3871,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-25T23:13:33.100Z",
+  "updatedAt": "2026-07-26T04:04:12.193Z",
   "initialized": true,
   "summaryVersion": 4
 }
