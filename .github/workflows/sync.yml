@@ -1,7 +1,17 @@
 name: Appleニュースを更新
-run-name: ${{ github.event_name == 'schedule' && 'RSS自動取得' || inputs.trigger_source == 'fallback' && 'RSS自動補完' || 'RSS手動取得' }}
+run-name: ${{ github.event_name == 'schedule' && 'RSS自動取得' || github.event_name == 'push' && 'RSS更新確認' || inputs.trigger_source == 'fallback' && 'RSS自動補完' || 'RSS手動取得' }}
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/sync.mjs"
+      - "scripts/feed.mjs"
+      - "scripts/article.mjs"
+      - "tests/**"
+      - "package.json"
+      - "package-lock.json"
+      - ".github/workflows/sync.yml"
   schedule:
     - cron: "5,15,25,35,45,55 * * * *"
       timezone: "Asia/Tokyo"
@@ -32,7 +42,7 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
