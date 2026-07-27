@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "c5f55f057cff30edd982",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Glasses just won’t be useful without video recording",
+      "url": "https://9to5mac.com/2026/07/27/apple-glasses-just-wont-be-useful-without-video-recording/",
+      "publishedAt": "2026-07-27T11:40:01.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-glasses-light.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Glasses、動画撮影機能なしの可能性",
+      "summaryJa": "Bloombergの報道によると、Apple Glassesは写真や動画を撮影する機能なしで発売される可能性があるとされています。この決定はプライバシーへの懸念に対処するためのもので、Appleはこの選択肢を検討している模様です。しかし、動画撮影機能はスマートグラスにとって重要な機能であり、過去の事例からもプライバシー問題が大きな課題であることが示されています。"
+    },
+    {
       "id": "0693999230325cf03372",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -3991,7 +4006,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-27T08:48:27.428Z",
+  "updatedAt": "2026-07-27T12:09:46.645Z",
   "initialized": true,
   "summaryVersion": 4
 }
