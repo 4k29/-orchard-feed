@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "f1ebea10f51f709fd9cb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Here's What the 'iPhone 20' is Expected to Look Like",
+      "url": "https://www.macrumors.com/2026/07/26/what-iphone-20-is-expected-to-look-like/",
+      "publishedAt": "2026-07-27T01:00:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "「iPhone 20」のデザイン予想",
+      "summaryJa": "Appleの20周年記念モデル「iPhone 20」は、2027年秋に登場する見込みです。iPhone X以来の大幅なデザイン変更が予想され、全ガラスの曲面ディスプレイが特徴となる模様です。新モデルは、iPhoneのデザイン言語を一新し、今後の基準となる可能性があります。また、同時期に第2世代の折りたたみ式iPhoneも発表されるとのことです。"
+    },
+    {
+      "id": "6c22308e2b9be2fbe9ad",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "PSA: Apple TV, Apple Music, and more are currently down for some users",
+      "url": "https://9to5mac.com/2026/07/26/psa-apple-tv-apple-music-and-more-are-currently-down-for-some-users/",
+      "publishedAt": "2026-07-27T00:52:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-tv-logo-ocean-sunset.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleのサービスが一時的にダウン",
+      "summaryJa": "Appleは、Apple TVやApple Musicなどのサービスが一時的にダウンしていると発表しました。現在、App Storeの一部機能やApple Podcastsにも影響が出ており、メンテナンスが行われています。Appleは問題の解決に向けて作業中で、具体的な修復のタイムラインは未定です。ユーザーからの報告も受け付けています。"
+    },
+    {
       "id": "079a9dcd028ee58b0145",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -3946,7 +3976,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-26T23:45:06.689Z",
+  "updatedAt": "2026-07-27T01:22:08.398Z",
   "initialized": true,
   "summaryVersion": 4
 }
