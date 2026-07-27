@@ -6,6 +6,8 @@ const DATA_PATH = new URL("../data/articles.json", import.meta.url);
 const MODEL_ENDPOINT = "https://models.github.ai/inference/chat/completions";
 const MODEL = process.env.GITHUB_MODEL || "openai/gpt-4o-mini";
 const SUMMARY_VERSION = 4;
+const MAX_NEW_ARTICLES_PER_RUN = 12;
+const MAX_REFRESH_ARTICLES_PER_RUN = 20;
 const ARTICLE_HOSTS = new Set([
   "www.apple.com",
   "developer.apple.com",
@@ -127,11 +129,11 @@ async function translateBatch(items, attempt = 0) {
     signal: AbortSignal.timeout(45_000),
   });
 
-  if (response.status === 429 && attempt < 4) {
+  if (response.status === 429 && attempt < 2) {
     const retryAfter = Number.parseInt(response.headers.get("retry-after") ?? "", 10);
     const waitSeconds = Number.isFinite(retryAfter)
-      ? Math.min(90, Math.max(10, retryAfter))
-      : 60;
+      ? Math.min(60, Math.max(10, retryAfter))
+      : 30;
     console.warn(`GitHub Models rate limit reached; retrying in ${waitSeconds}s.`);
     await new Promise((resolve) => setTimeout(resolve, waitSeconds * 1000));
     return translateBatch(items, attempt + 1);
@@ -145,6 +147,7 @@ async function translateBatch(items, attempt = 0) {
 
 async function translate(items) {
   const byId = new Map();
+  const failedBatchIds = new Set();
 
   const batches = [];
   let batch = [];
@@ -167,34 +170,49 @@ async function translate(items) {
   if (batch.length) batches.push(batch);
 
   for (const translationBatch of batches) {
-    for (const translated of await translateBatch(translationBatch)) {
-      if (translated?.id) byId.set(translated.id, translated);
+    try {
+      for (const translated of await translateBatch(translationBatch)) {
+        if (translated?.id) byId.set(translated.id, translated);
+      }
+    } catch (error) {
+      translationBatch.forEach((item) => failedBatchIds.add(item.id));
+      console.error(
+        `Translation batch failed (${translationBatch.map((item) => item.id).join(", ")}):`,
+        error,
+      );
     }
   }
 
   const missing = items.filter((item) => {
     const translated = byId.get(item.id);
-    return !translated?.titleJa || !translated?.summaryJa;
+    return !failedBatchIds.has(item.id) && (!translated?.titleJa || !translated?.summaryJa);
   });
   if (missing.length) {
     console.warn(`Retrying ${missing.length} incomplete translation(s) individually.`);
     for (const item of missing) {
-      for (const translated of await translateBatch([item])) {
-        if (translated?.id) byId.set(translated.id, translated);
+      try {
+        for (const translated of await translateBatch([item])) {
+          if (translated?.id) byId.set(translated.id, translated);
+        }
+      } catch (error) {
+        console.error(`Translation retry failed (${item.id}):`, error);
       }
     }
   }
 
-  return items.map(({ summaryOriginal, ...item }) => {
+  return items.flatMap(({ summaryOriginal, ...item }) => {
     const translated = byId.get(item.id);
     if (!translated?.titleJa || !translated?.summaryJa) {
-      throw new Error(`Translation missing for ${item.id}`);
+      console.warn(`Translation deferred until the next run: ${item.id}`);
+      return [];
     }
-    return {
-      ...item,
-      titleJa: String(translated.titleJa).trim().slice(0, 250),
-      summaryJa: String(translated.summaryJa).trim().slice(0, 800),
-    };
+    return [
+      {
+        ...item,
+        titleJa: String(translated.titleJa).trim().slice(0, 250),
+        summaryJa: String(translated.summaryJa).trim().slice(0, 800),
+      },
+    ];
   });
 }
 
@@ -224,52 +242,65 @@ function discordNotificationContent(article) {
     .slice(0, 1900);
 }
 
-async function notifyDiscord(articles) {
+async function notifyDiscord(articles, { strict = false } = {}) {
   const webhook = process.env.DISCORD_WEBHOOK_URL;
   if (!webhook) {
     console.log("DISCORD_WEBHOOK_URL is not set; skipping notifications.");
     return;
   }
 
+  let failures = 0;
   for (const article of articles) {
-    const embed = {
-      title: article.titleJa,
-      url: article.url,
-      description: article.summaryJa,
-      color: colorFor(article.sourceId),
-      author: { name: article.source },
-      fields: [{ name: "原題", value: article.titleOriginal.slice(0, 1024) }],
-      timestamp: article.publishedAt,
-      ...(article.imageUrl ? { thumbnail: { url: article.imageUrl } } : {}),
-    };
-    const response = await fetch(webhook, {
-      method: "POST",
-      headers: { "content-type": "application/json" },
-      body: JSON.stringify({
-        username: "Orchard",
-        content: discordNotificationContent(article),
-        embeds: [embed],
-        allowed_mentions: { parse: [] },
-      }),
-      signal: AbortSignal.timeout(20_000),
-    });
-    if (!response.ok) throw new Error(`Discord webhook: HTTP ${response.status}`);
+    try {
+      const embed = {
+        title: article.titleJa,
+        url: article.url,
+        description: article.summaryJa,
+        color: colorFor(article.sourceId),
+        author: { name: article.source },
+        fields: [{ name: "原題", value: article.titleOriginal.slice(0, 1024) }],
+        timestamp: article.publishedAt,
+        ...(article.imageUrl ? { thumbnail: { url: article.imageUrl } } : {}),
+      };
+      const response = await fetch(webhook, {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({
+          username: "Orchard",
+          content: discordNotificationContent(article),
+          embeds: [embed],
+          allowed_mentions: { parse: [] },
+        }),
+        signal: AbortSignal.timeout(20_000),
+      });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    } catch (error) {
+      failures += 1;
+      console.error(`Discord notification failed (${article.id ?? article.url}):`, error);
+    }
+  }
+
+  if (strict && failures) {
+    throw new Error(`${failures} Discord notification(s) failed`);
   }
 }
 
 async function sendTestNotification() {
-  await notifyDiscord([
-    {
-      source: "Orchard",
-      sourceId: "apple-newsroom",
-      titleJa: "Orchardの通知テストに成功しました",
-      summaryJa: "Apple関連RSSの新着記事は、今後このチャンネルへ日本語で届きます。",
-      titleOriginal: "Orchard notification test",
-      url: "https://orchard-news.brisk-joy-8941.chatgpt.site",
-      publishedAt: new Date().toISOString(),
-      imageUrl: null,
-    },
-  ]);
+  await notifyDiscord(
+    [
+      {
+        source: "Orchard",
+        sourceId: "apple-newsroom",
+        titleJa: "Orchardの通知テストに成功しました",
+        summaryJa: "Apple関連RSSの新着記事は、今後このチャンネルへ日本語で届きます。",
+        titleOriginal: "Orchard notification test",
+        url: "https://orchard-news.brisk-joy-8941.chatgpt.site",
+        publishedAt: new Date().toISOString(),
+        imageUrl: null,
+      },
+    ],
+    { strict: true },
+  );
 }
 
 async function main() {
@@ -286,13 +317,15 @@ async function main() {
   const unseenCandidates = raw
     .filter((article) => !knownUrls.has(article.url))
     .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
-  const unseen = state.initialized ? unseenCandidates.slice(0, 40) : unseenCandidates;
+  const unseen = state.initialized
+    ? unseenCandidates.slice(0, MAX_NEW_ARTICLES_PER_RUN)
+    : unseenCandidates;
   const needsSummaryRefresh = state.summaryVersion !== SUMMARY_VERSION;
   const refreshCandidates = needsSummaryRefresh
     ? raw
         .filter((article) => knownUrls.has(article.url))
         .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
-        .slice(0, 80)
+        .slice(0, MAX_REFRESH_ARTICLES_PER_RUN)
     : [];
 
   if (!unseen.length && !needsSummaryRefresh) {
@@ -312,11 +345,20 @@ async function main() {
     refreshed = await translate(await enrichArticles(refreshCandidates));
   }
 
+  if (!translated.length && !refreshed.length && (unseen.length || refreshCandidates.length)) {
+    console.warn("No article translations completed. The remaining articles will be retried next run.");
+    return;
+  }
+
+  const refreshCompleted =
+    !needsSummaryRefresh ||
+    !refreshCandidates.length ||
+    refreshed.length === refreshCandidates.length;
   const payload = {
     articles: mergeArticles(state.articles ?? [], [...translated, ...refreshed]),
     updatedAt: new Date().toISOString(),
     initialized: true,
-    summaryVersion: SUMMARY_VERSION,
+    summaryVersion: refreshCompleted ? SUMMARY_VERSION : state.summaryVersion,
   };
   await fs.writeFile(DATA_PATH, `${JSON.stringify(payload, null, 2)}\n`);
 
