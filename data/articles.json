@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "0693999230325cf03372",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AppleCare One launching in the UK as theft and loss coverage expands",
+      "url": "https://9to5mac.com/2026/07/26/applecare-one-launching-in-the-uk-as-theft-and-loss-coverage-expands/",
+      "publishedAt": "2026-07-27T06:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/AppleCare-One-UK.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AppleCare One、英国で提供開始",
+      "summaryJa": "Appleは、複数の製品を一つの月額料金で保護できるAppleCare Oneを英国で提供開始します。また、AppleCare+の盗難・紛失保護がiPhoneからiPadやApple Watchにも拡大されます。AppleCare Oneは月額16.99ポンドで3つの製品をカバーし、追加のデバイスは月額4.99ポンドで追加可能です。既存のAppleCare+プランからの移行もスムーズに行え、デバイスの状態確認は自宅で行える場合が多いです。"
+    },
+    {
       "id": "f1ebea10f51f709fd9cb",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -3976,7 +3991,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-27T01:22:08.398Z",
+  "updatedAt": "2026-07-27T08:48:27.428Z",
   "initialized": true,
   "summaryVersion": 4
 }
