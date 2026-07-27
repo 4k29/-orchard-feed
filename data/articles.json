@@ -181,6 +181,187 @@
       "summaryJa": "Amazonは、iPhoneの衛星機能を強化するために、5,105基の低軌道衛星を展開する計画を発表しました。このプロジェクトは、Appleが使用しているGlobalstarのスペクトルを利用し、音声やデータ、緊急サービスを提供します。AmazonはGlobalstarを買収中で、両社は今後の衛星サービスに関して協力する予定です。衛星は2028年から展開される見込みです。"
     },
     {
+      "id": "98ff2dbd9e8b7b939280",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 26.6 now available, here’s what’s new",
+      "url": "https://9to5mac.com/2026/07/27/macos-26-6-now-available-heres-whats-new/",
+      "publishedAt": "2026-07-27T17:51:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/macOS-26.6-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "macOS 26.6が登場、セキュリティ修正多数",
+      "summaryJa": "Appleは、macOS 26.6を全ユーザー向けにリリースしました。このアップデートでは、150以上のセキュリティ脆弱性の修正や、Intel専用アプリの非推奨通知の誤表示、HealthKitやMessagesのHDRスクリーンショットに関するバグ修正が含まれています。また、macOS 27へのアップデートに向けたインデックス作成が始まる可能性があり、これにより新しいSiri AIやアプリの機能が強化される見込みです。"
+    },
+    {
+      "id": "6dca98d0dd795911c7c2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS Sonoma 14.8.8 and macOS Sequoia 15.7.8 now available",
+      "url": "https://9to5mac.com/2026/07/27/macos-sonoma-14-8-8-and-macos-sequoia-15-7-8-now-available/",
+      "publishedAt": "2026-07-27T17:49:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/09/macOS-Sequoia-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "macOS Sonoma 14.8.8とSequoia 15.7.8がリリース",
+      "summaryJa": "Appleは、macOS Sonoma 14.8.8とmacOS Sequoia 15.7.8を正式にリリースしました。これらのアップデートは、重要なセキュリティ修正を提供し、すべてのユーザーに推奨されています。リリースノートによると、両システムで138以上の脆弱性が修正されており、特にWebKitの脆弱性がユーザーデータに影響を与える可能性があったため、早めのアップデートが推奨されています。"
+    },
+    {
+      "id": "8c0a25ae33ff82baa425",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases macOS Tahoe 26.6",
+      "url": "https://www.macrumors.com/2026/07/27/apple-releases-macos-tahoe-26-6/",
+      "publishedAt": "2026-07-27T17:48:57.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/06/macOS-Tahoe-26-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、macOS Tahoe 26.6をリリース",
+      "summaryJa": "Appleは、macOS Tahoe 26.6をリリースしました。このアップデートは、セキュリティ修正を含み、macOS 27のリリースに向けてSpotlightの最適化が行われています。ユーザーは、システム設定アプリからソフトウェアアップデートを通じてダウンロード可能です。前回のアップデートから約1か月後のリリースとなります。"
+    },
+    {
+      "id": "1e542d07faf52d393663",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "watchOS 26.6 available now for Apple Watch, here’s what’s new",
+      "url": "https://9to5mac.com/2026/07/27/watchos-26-6-available-now-for-apple-watch-heres-whats-new/",
+      "publishedAt": "2026-07-27T17:29:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-watch-series-10-gold.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "watchOS 26.6がApple Watch向けに登場",
+      "summaryJa": "Appleは、Apple Watch向けにwatchOS 26.6をリリースしました。このアップデートは、最新のセキュリティ修正とパフォーマンス向上を提供します。watchOS 27の大規模なリリースを控え、安定性とセキュリティの向上が優先されています。新機能は少ないものの、バグ修正が含まれており、ユーザーは公式サイトで詳細を確認できます。"
+    },
+    {
+      "id": "beaf74608dd48758758b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases iOS 26.6 and iPadOS 26.6 With iOS 27 Optimizations",
+      "url": "https://www.macrumors.com/2026/07/27/apple-releases-ios-26-6/",
+      "publishedAt": "2026-07-27T17:27:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iOS 26.6とiPadOS 26.6を公開",
+      "summaryJa": "AppleはiOS 26.6とiPadOS 26.6をリリースしました。これらの更新は、セキュリティ修正やSpotlightインデックスの最適化を含み、iOS 27およびiPadOS 27に向けた準備が整えられています。iOS 26.6は、iOS 26シリーズの最後の更新の一つとなる見込みで、今後の新しいiPhoneモデルと共にiOS 27が登場する予定です。"
+    },
+    {
+      "id": "d68358a4768f3f46b02d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases tvOS 26.6 and HomePod 26.6",
+      "url": "https://9to5mac.com/2026/07/27/apple-releases-tvos-26-6-and-homepod-26-6/",
+      "publishedAt": "2026-07-27T17:26:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/apple-tv-homepod-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、tvOS 26.6とHomePod 26.6をリリース",
+      "summaryJa": "AppleはtvOS 26.6、HomePod 26.6、visionOS 26.6などの新しいソフトウェアアップデートを公開しました。これらの更新は、パフォーマンスと安定性の向上を目的としており、セキュリティの改善も含まれています。新機能は追加されていないものの、これによりApple TV 4KやHomePod、Vision Proの動作がよりスムーズになると期待されています。次期tvOS 27は、人気のApple TVモデルのサポートを終了するため、対応機種に注意が必要です。"
+    },
+    {
+      "id": "8bfa44e96ff33f9ce3ee",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 26.6 now available for iPhone with these changes",
+      "url": "https://9to5mac.com/2026/07/27/ios-26-6-now-available-whats-new/",
+      "publishedAt": "2026-07-27T17:26:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 26.6がiPhone向けに登場",
+      "summaryJa": "AppleはiPhone向けにiOS 26.6を正式にリリースしました。このアップデートは新機能が少ないものの、重要なバグ修正やセキュリティ更新が含まれています。また、iOS 27に向けたSpotlightインデックスの最適化も行われています。特に、ブロックした連絡先の制限に達した際の通知機能が追加され、ユーザーにとっての利便性が向上しています。"
+    },
+    {
+      "id": "bf64b16648b707af56e7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases iPadOS 26.6, here’s what’s new",
+      "url": "https://9to5mac.com/2026/07/27/apple-releases-ipados-26-6-heres-whats-new/",
+      "publishedAt": "2026-07-27T17:26:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iPadOS-26.6-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPadOS 26.6をリリース",
+      "summaryJa": "AppleはiPad向けにiPadOS 26.6をリリースしました。このアップデートはセキュリティ修正やバグ修正を含み、今秋のiPadOS 27に向けた準備が整えられています。iPadOS 26.6では、Spotlightインデックスの最適化が行われ、iPadOS 27の新機能をスムーズに利用できるようにすることが目的です。新機能は含まれていませんが、安定性の向上が期待されています。"
+    },
+    {
+      "id": "8bd419e0eab6c71a8591",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases watchOS 26.6 With Security Updates",
+      "url": "https://www.macrumors.com/2026/07/27/apple-releases-watchos-26-6-with-security-updates/",
+      "publishedAt": "2026-07-27T17:25:25.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/06/watchos-26-gradient-light.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、watchOS 26.6を公開",
+      "summaryJa": "Appleは、watchOS 26の6回目のアップデートであるwatchOS 26.6をリリースしました。このアップデートは、バグ修正やセキュリティ更新を含んでおり、iPhoneのApple Watchアプリからダウンロード可能です。インストールには、Apple Watchのバッテリーが50％以上で、充電器に置く必要があります。"
+    },
+    {
+      "id": "1dd2811b70fc4ee24e79",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases tvOS 26.6",
+      "url": "https://www.macrumors.com/2026/07/27/apple-releases-tvos-26-6/",
+      "publishedAt": "2026-07-27T17:24:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/05/tvOS-26-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、tvOS 26.6を公開",
+      "summaryJa": "Appleは、tvOS 26の6回目のアップデートであるtvOS 26.6をリリースしました。このアップデートは、Apple TV 4K向けで、バグ修正やパフォーマンス向上に焦点を当てていると考えられています。設定アプリからダウンロード可能で、自動更新が有効な場合は自動的にアップグレードされます。"
+    },
+    {
+      "id": "34f676a62d135a8e3181",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases visionOS 26.6",
+      "url": "https://www.macrumors.com/2026/07/27/apple-releases-visionos-26-6/",
+      "publishedAt": "2026-07-27T17:23:02.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/05/visionOS-26-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、visionOS 26.6を公開",
+      "summaryJa": "Appleは、visionOS 26の6回目のアップデートであるvisionOS 26.6をリリースしました。このアップデートは、バグ修正やセキュリティ改善を含んでおり、Spotlightインデックスの最適化も行われています。Vision Proヘッドセットの設定アプリからダウンロード可能で、インストール時にはヘッドセットを外す必要があります。"
+    },
+    {
+      "id": "f0b4721e3e75750526ed",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "iOS 26.6 (23G71)",
+      "url": "https://developer.apple.com/news/releases/?id=07272026a",
+      "publishedAt": "2026-07-27T17:00:00.000Z",
+      "imageUrl": null,
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "iOS 26.6のリリース情報",
+      "summaryJa": "AppleはiOS 26.6のリリースノートを公開しました。詳細なダウンロード情報は、Appleの開発者向けサイトで確認できます。"
+    },
+    {
       "id": "c5f55f057cff30edd982",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4186,7 +4367,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-27T23:17:37.010Z",
+  "updatedAt": "2026-07-27T23:47:40.708Z",
   "initialized": true,
   "summaryVersion": 4
 }
