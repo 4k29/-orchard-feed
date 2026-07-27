@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "5fea5bf991f9088a295c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's 2026 and 2027 Mac Roadmap: Every Model and When It Ships",
+      "url": "https://www.macrumors.com/2026/07/27/mac-roadmap-2026/",
+      "publishedAt": "2026-07-27T22:48:41.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apples-2026-andd-2027-Roadmap-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、2026年と2027年のMac計画を発表",
+      "summaryJa": "Appleは2026年と2027年に向けたMacのラインアップを刷新する計画を発表しました。メモリチップの不足が影響を及ぼす中、Mac miniやMac Studioなどの需要が高まっています。2026年秋にはM6チップを搭載した14インチMacBook Proや更新された24インチiMacが登場予定で、OLEDディスプレイを持つMacBook Proも2026年末から2027年初頭にかけて発売される可能性があります。"
+    },
+    {
+      "id": "6e7fbd3847a872d11de0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "PSA: T-Mobile is down, iPhones showing ‘SOS’ mode",
+      "url": "https://9to5mac.com/2026/07/27/psa-t-mobile-is-down-iphones-forced-into-sos-mode/",
+      "publishedAt": "2026-07-27T22:07:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/tmo-sos.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "T-Mobileの障害でiPhoneが‘SOS’表示",
+      "summaryJa": "アメリカ全土でT-Mobileのサービス障害が発生し、多くのiPhoneユーザーが‘SOS’表示を確認しています。障害は午後4時（ET）頃に始まり、通話やデータ通信ができないとの報告が相次いでいます。T-Mobileからの公式なコメントはまだなく、復旧の見通しも不明です。"
+    },
+    {
+      "id": "357fe57e05cd01d64b51",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Three customers sue Apple after fake wallet app wipes out their Bitcoin",
+      "url": "https://9to5mac.com/2026/07/27/three-customers-sue-apple-after-fake-wallet-app-wipes-out-their-bitcoin/",
+      "publishedAt": "2026-07-27T21:34:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2022/12/apple-app-store-fined.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、詐欺的な暗号通貨アプリで訴訟に直面",
+      "summaryJa": "Appleは、App Storeで詐欺的な暗号通貨アプリが承認され、ユーザーが約200万ドルを失ったとして訴えられています。原告は、AppleがApp Storeの安全性を保つために多額の投資をしているにもかかわらず、アプリのレビューが不十分であると主張しています。この問題は過去にも繰り返されており、Appleは詐欺アプリの排除に苦慮しています。"
+    },
+    {
+      "id": "d205c06ad12c96514fae",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Claude, Codex, and other AI tools credited in today’s Apple security releases",
+      "url": "https://9to5mac.com/2026/07/27/claude-codex-and-other-ai-tools-credited-in-todays-apple-security-releases/",
+      "publishedAt": "2026-07-27T20:29:58.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-security.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、AIツールを活用したセキュリティ更新を実施",
+      "summaryJa": "Appleは、最新のOSアップデートにおいてAIツールを活用したセキュリティ修正を行ったことを発表しました。今回の更新では、WebKitやカーネルの脆弱性に関する修正が含まれており、複数の研究者が貢献しています。特に、AnthropicのClaudeが関与した修正が注目されており、AI技術が脆弱性研究において重要な役割を果たしていることが示されています。"
+    },
+    {
+      "id": "e8156a44d5a66235df73",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple on Verge of Becoming $5 Trillion Company",
+      "url": "https://www.macrumors.com/2026/07/27/apple-nearly-5-trillion-dollar-company/",
+      "publishedAt": "2026-07-27T20:10:17.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/04/Stocks-App-Icon-and-Apple-Logo-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、時価総額5兆ドルに迫る",
+      "summaryJa": "Appleの時価総額が約4.94兆ドルに達し、5兆ドルに迫っています。株価は336.91ドルで、6月末から約22.5%上昇しました。Appleは再び世界で最も価値のある公開企業となり、Nvidiaを超えました。"
+    },
+    {
+      "id": "6a62c7fa3f68eacf3ebb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Ted Lasso season 4: Here’s who’s new and everyone not returning",
+      "url": "https://9to5mac.com/2026/07/27/ted-lasso-season-4-heres-whos-new-and-everyone-not-returning/",
+      "publishedAt": "2026-07-27T19:19:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ted-lasso-s4-coaches.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "テッド・ラッソシーズン4、キャスト発表",
+      "summaryJa": "テッド・ラッソのシーズン4が来週放送開始され、新たに女性チームが中心となります。新キャストには、アリス・チルトン役のタニア・レイノルズが登場し、彼女の成長が描かれます。シーズン4では、以前の人気キャラクターは少なく、新しいメンバーに焦点が当てられます。"
+    },
+    {
+      "id": "d0fbf690bc74653b3a97",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MagSafe Monday: ESR FlickLock solved my biggest complaints with the AirPods Pro 3",
+      "url": "https://9to5mac.com/2026/07/27/esr-flicklock/",
+      "publishedAt": "2026-07-27T18:57:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ESR-FlickLock-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPods Pro 3用新ケース登場",
+      "summaryJa": "ESRが新たに発表したFlickLockマグネットケースは、AirPods Pro 3用に設計されており、落下時に蓋が開かないように工夫されています。強力なマグネットとロック機構を備え、充電時の接続も安定しています。軽量でスタイリッシュなデザインが特徴です。"
+    },
+    {
+      "id": "749a7f41e2e83bffef6c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Update Now: iOS 26.6 and macOS Tahoe 26.6 Patch Hundreds of Security Flaws",
+      "url": "https://www.macrumors.com/2026/07/27/ios-26-6-security-fixes/",
+      "publishedAt": "2026-07-27T18:55:46.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 26.6とmacOS Tahoe 26.6がリリース",
+      "summaryJa": "AppleはiOS 26.6、iPadOS 26.6、macOS Tahoe 26.6をリリースし、数百のセキュリティ脆弱性を修正しました。特にiOSとiPadOSでは約90件、macOS Tahoeでは130件以上の脆弱性が修正されています。これらのアップデートを行うことで、デバイスの安全性が向上します。"
+    },
+    {
+      "id": "b7140b4beb3daeb30869",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "X Money officially launches in the US with Apple Wallet support after invite-only beta",
+      "url": "https://9to5mac.com/2026/07/27/x-money-apple-wallet/",
+      "publishedAt": "2026-07-27T18:51:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/xmoney.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "X Moneyが米国で正式ローンチ、Apple Wallet対応",
+      "summaryJa": "XがX Moneyを正式にローンチし、Apple Walletに対応しました。これにより、招待制ベータ版を経て、米国のプレミアムおよびプレミアム+サブスクライバー向けにサービスが開始されます。X Moneyは預金口座、P2P送金、Visaデビットカードを統合し、手数料なしで即座に送金や受取が可能です。プレミアム+ユーザーは最大6%の利息を得られ、物理的な金属カードも注文可能です。"
+    },
+    {
+      "id": "d15ee64323679eff6464",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple teases Severance season 3 in new update",
+      "url": "https://9to5mac.com/2026/07/27/apple-teases-severance-season-3-in-new-update/",
+      "publishedAt": "2026-07-27T18:23:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/severance-s2-finale.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVが『Severance』シーズン3の撮影開始を発表",
+      "summaryJa": "Apple TVが『Severance』シーズン3の撮影が開始されたと発表しました。シーズン2から約18ヶ月が経過し、シーズン3の公開は2027年秋になる可能性があります。制作の進行は遅れていますが、Ben Stillerからの更新により、撮影が進行中であることが確認されました。シーズン2の最後の展開を受け、シーズン3では新たなストーリーが展開されることが期待されています。"
+    },
+    {
+      "id": "d37e9397bf70e2b46e5c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple fixes over 75 security issues with your iPhone and 150+ for Mac, update now",
+      "url": "https://9to5mac.com/2026/07/27/ios-26-6-fixes-over-75-security-issues-with-your-iphone-update-now/",
+      "publishedAt": "2026-07-27T18:12:48.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPhoneとMacの75以上のセキュリティ問題を修正",
+      "summaryJa": "AppleはiOS 26.6およびiPadOS 26.6のリリースに伴い、75以上のセキュリティ問題を修正したと発表しました。これには、アプリがルート権限を取得する可能性や、悪意のあるアプリがサンドボックスを回避する問題などが含まれています。特に、KernelやWebKitに関する脆弱性も修正されており、ユーザーは最新のアップデートを適用することが推奨されています。"
+    },
+    {
+      "id": "5b37e73383b9077f5a13",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Amazon Files for 5,105-Satellite Network That Will Power iPhone Satellite Features",
+      "url": "https://www.macrumors.com/2026/07/27/amazon-iphone-satellite-network/",
+      "publishedAt": "2026-07-27T18:12:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/11/iPhone-Satellite-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazon、iPhone向け衛星ネットワークを計画中",
+      "summaryJa": "Amazonは、iPhoneの衛星機能を強化するために、5,105基の低軌道衛星を展開する計画を発表しました。このプロジェクトは、Appleが使用しているGlobalstarのスペクトルを利用し、音声やデータ、緊急サービスを提供します。AmazonはGlobalstarを買収中で、両社は今後の衛星サービスに関して協力する予定です。衛星は2028年から展開される見込みです。"
+    },
+    {
       "id": "c5f55f057cff30edd982",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4006,7 +4186,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-27T12:09:46.645Z",
+  "updatedAt": "2026-07-27T23:17:37.010Z",
   "initialized": true,
   "summaryVersion": 4
 }
