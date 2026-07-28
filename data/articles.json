@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "3bf187aa592c1238ae13",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Shares 'Ted Lasso' Season 4 Trailer",
+      "url": "https://www.macrumors.com/2026/07/28/ted-lasso-season-four-trailer/",
+      "publishedAt": "2026-07-28T17:20:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Ted-Lasso-16x9.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、ドラマ「テッド・ラッソ」シーズン4予告公開",
+      "summaryJa": "Appleは人気シリーズ「テッド・ラッソ」のシーズン4のフル予告を公開しました。シーズン4は8月5日に初回放送され、その後は毎週水曜日に新エピソードが配信されます。テッド・ラッソは、カンザス出身のサッカーコーチがイギリスの女子サッカーチームを指導するストーリーで、ファンに愛されるキャラクターたちが再登場します。"
+    },
+    {
+      "id": "30cccc0df552d4946c5b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: July 28, 2026 – Apple Upgrade is here",
+      "url": "https://9to5mac.com/2026/07/28/daily-july-28-2026/",
+      "publishedAt": "2026-07-28T17:17:58.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Upgrade、月額プランの詳細発表",
+      "summaryJa": "Appleは新しいリースプログラム「Apple Upgrade」を発表し、iPhoneやMac、iPad、Apple Watchの月額料金を公開しました。例えば、iPhone 17 Proは月額31.99ドルから利用可能で、他の製品も様々なプランが用意されています。このプログラムは、低コストでApple製品を手に入れる手段として注目されています。"
+    },
+    {
+      "id": "59406fbcbde37a7ccb3a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Announces 'Silo' Season 4 is Coming Summer 2027",
+      "url": "https://www.macrumors.com/2026/07/28/apple-tv-silo-season-4-release-date/",
+      "publishedAt": "2026-07-28T17:15:18.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Apple-TV-Silo.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、SFドラマ「サイロ」シーズン4を発表",
+      "summaryJa": "Appleは人気SFシリーズ「サイロ」のシーズン4が2027年夏に放送されることを発表しました。このシリーズは、外の有毒な環境から逃れるために地下シェルターで生活する人々の物語を描いています。最終シーズンとなるこの作品に期待が寄せられています。"
+    },
+    {
+      "id": "b5e9b73dcae47754f058",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Upgrade: Here’s the monthly subscription cost for every product",
+      "url": "https://9to5mac.com/2026/07/28/apple-upgrade-heres-the-monthly-subscription-cost-for-every-product/",
+      "publishedAt": "2026-07-28T17:11:33.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Upgrade、製品ごとの月額料金を公開",
+      "summaryJa": "Appleは「Apple Upgrade」プログラムの詳細を発表し、各製品の月額料金を明らかにしました。iPhone 17 Proは月額31.99ドル、iPad Airは月額15.99ドルなど、様々なプランが用意されています。このプログラムは、Apple製品を手軽に利用する新しい方法として注目されています。"
+    },
+    {
       "id": "3ac86e8bbcd11d6bf3c0",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4482,72 +4542,9 @@
       ],
       "titleJa": "Apple、新しいアプリ開発支援ツールを発表",
       "summaryJa": "Appleは、新しいインテリジェンス機能とXcodeの拡張機能を発表し、アプリ開発を加速させる取り組みを強化しています。新しいAPIにより、デベロッパはAIモデルをアプリに統合しやすくなり、アプリの機能を向上させることができます。Appleは、デベロッパがより良いアイデアを形にするための最高のツールを提供することを目指しています。"
-    },
-    {
-      "id": "f640593f861373f605ad",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple aids app development with new intelligence frameworks and advanced tools",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "publishedAt": "2026-06-08T21:00:15.643Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、アプリ開発を加速する新機能を発表",
-      "summaryJa": "Appleは、アプリ開発を加速するための新しいインテリジェンス機能やXcodeの生産性向上機能を発表しました。新しいAPIにより、開発者はAIモデルを統合し、Xcode 27でのエージェンティックコーディングを活用して、アプリをより迅速かつ柔軟に構築できるようになります。Appleは、開発者が革新的なアイデアを実現するための最良のツールを提供することを目指しています。"
-    },
-    {
-      "id": "256e9fe21d9c973f7368",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple Intelligence、パワフルなAI機能を日々の体験に",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
-      "publishedAt": "2026-06-08T18:32:48.923Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple IntelligenceがAI機能を強化",
-      "summaryJa": "Appleは、次世代のApple Intelligenceを発表し、iPhoneやiPad、MacにパワフルなAI機能を統合しました。この新しいアーキテクチャにより、ユーザーは日常の体験をよりパーソナルで便利に利用できるようになります。新機能には、写真編集やブラウジングのインテリジェントなツールが含まれ、開発者向けのテストが開始され、今年秋に一般ユーザー向けに提供される予定です。"
-    },
-    {
-      "id": "8cd3ba10e281009049b9",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、次世代のApple IntelligenceやSiri AIなどを発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "publishedAt": "2026-06-08T18:32:48.418Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、次世代のApple Intelligenceを発表",
-      "summaryJa": "AppleはWWDC26で次世代のApple Intelligenceと新しいSiri AIを発表しました。これにより、ユーザーはより賢く、豊富な知識を持つアシスタントを利用できるようになります。また、子どものための安全機能や、iOSやmacOSなどのソフトウェア機能強化も行われ、今後のアップデートで提供される予定です。"
-    },
-    {
-      "id": "7b0b315d6b2509f43c2d",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、これまでよりはるかに有能でパーソナルなアシスタントであるSiri AIを発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
-      "publishedAt": "2026-06-08T18:32:48.146Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、パーソナルなSiri AIを発表",
-      "summaryJa": "Appleは、Apple Intelligenceを基にした新しいSiri AIを発表しました。このアシスタントは、パーソナルコンテキストの理解やオンスクリーン認識を活用し、ユーザーが必要な情報を迅速に見つける手助けをします。新機能は開発者向けにテストが開始され、年内にベータ版として一般ユーザーに提供される予定です。"
     }
   ],
-  "updatedAt": "2026-07-28T16:47:53.011Z",
+  "updatedAt": "2026-07-28T18:07:44.267Z",
   "initialized": true,
   "summaryVersion": 4
 }
