@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "3ac86e8bbcd11d6bf3c0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "All-New Apple Home Hub Reportedly Launching as Soon as October",
+      "url": "https://www.macrumors.com/2026/07/28/apple-home-hub-as-soon-as-october/",
+      "publishedAt": "2026-07-28T16:31:43.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型Apple Home Hub、10月にも登場か",
+      "summaryJa": "Appleが新しいスマートホームハブを10月から来年初めの間に発売する計画を立てていると報じられています。このデバイスは、HomePodのスピーカーと7インチのディスプレイを組み合わせたもので、Siri AIが中心機能となります。テーブル設置型と壁掛け型が用意され、顔認識機能やFaceTime、HomeKitの管理など多彩な機能を搭載する見込みです。"
+    },
+    {
+      "id": "9bf2239ccbb2c4ba6f59",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro could be a no-brainer upgrade for lots of users",
+      "url": "https://9to5mac.com/2026/07/28/iphone-18-pro-could-be-a-no-brainer-upgrade-for-lots-of-users/",
+      "publishedAt": "2026-07-28T15:58:12.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro、人気のアップグレード候補に",
+      "summaryJa": "iPhone 18 Proが近く登場し、多くのユーザーにとって魅力的なアップグレード選択肢となる可能性があります。新デザイン、優れたバッテリー寿命、カメラの進化が期待されており、特にiOS 27のAI機能が新たな魅力を加えるとされています。また、Appleは新しいiPhoneのラインナップを縮小し、購入のハードルを下げる方針です。"
+    },
+    {
+      "id": "2150e2403f15e2e15ed9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: 24GB M5 MacBook Air $200 off, MacBook Pro $500 off, AirTag 2, AirPods, Beats cable $18, more",
+      "url": "https://9to5mac.com/2026/07/28/deals-macbook-air-airtag-2-airpods-beats-cable/",
+      "publishedAt": "2026-07-28T15:26:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-deals-MacBook-Air-iPhone-17-Pro-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBook AirやProが大幅値下げ中",
+      "summaryJa": "現在、24GBのM5 MacBook Airが200ドル引き、M5 Pro MacBook Proが500ドル引きで販売されています。さらに、AirPods Pro 3やAirPods Max 2も割引中で、特にM5 MacBook Airの値下げは最近では珍しいとされています。これらのセールは、Apple製品をお得に手に入れる良い機会となっています。"
+    },
+    {
       "id": "87149115bbf10e34a882",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -179,6 +224,111 @@
       ],
       "titleJa": "Apple TVで『テッド・ラッソ』シーズン4予告公開",
       "summaryJa": "Apple TVで人気コメディ『テッド・ラッソ』のシーズン4が来週放送されることが発表され、公式予告が公開されました。新シーズンでは、AFCリッチモンドの男子チームから新たに結成された女子チームに焦点が移ります。予告編では、懐かしいキャラクターたちが登場し、感情を揺さぶる音楽が流れています。シーズン4は8月5日に配信開始されます。"
+    },
+    {
+      "id": "c8d5af8df38e1ac1f0d6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Indie App Sales promotion now live, featuring hundreds of exclusive discounts",
+      "url": "https://9to5mac.com/2026/07/28/indie-app-sales-promotion-now-live-featuring-hundreds-of-exclusive-discounts/",
+      "publishedAt": "2026-07-28T13:34:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/indie-apps-july-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "インディアプリセールが開催中、特別割引多数",
+      "summaryJa": "インディアプリセールが再び開催され、iOSやmacOSなどのアプリが特別割引で提供されています。850以上のアプリが対象で、教育やゲーム、健康など30のカテゴリーにわたる割引が行われています。このセールはインディー開発者を支援する良い機会であり、隠れた名作を見つけるチャンスでもあります。"
+    },
+    {
+      "id": "2f4eecd991a64fe4b4be",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV may be losing $1B a year but its future is safe under Ternus",
+      "url": "https://9to5mac.com/2026/07/28/apple-tv-may-be-losing-1b-a-year-but-its-future-is-safe-under-ternus/",
+      "publishedAt": "2026-07-28T13:06:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-TV-may-be-losing-1B-a-year-but-its-future-is-safe-under-Ternus.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVの未来は安泰、Ternus新CEOが発言",
+      "summaryJa": "Appleの新CEOジョン・ターナス氏は、Apple TVのストリーミングサービスが今後も継続されることを明言しました。ターナス氏は、エンターテインメントビジネスの勢いを維持し、素晴らしい番組やキャラクターをさらに増やしていく意向を示しています。前CEOのティム・クック氏も、成功したF1映画の続編に期待を寄せており、Apple TVのコンテンツ拡充が進む見込みです。"
+    },
+    {
+      "id": "bb4befc6698c27d551e5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple shuts down iPhone Upgrade Program, here’s what’s next",
+      "url": "https://9to5mac.com/2026/07/28/apple-shuts-down-iphone-upgrade-program-heres-whats-next/",
+      "publishedAt": "2026-07-28T12:22:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-upgrade-program.jpg.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPhoneアップグレードプログラムを終了",
+      "summaryJa": "Appleは新たにApple Upgradeというハードウェアリースプログラムを開始し、これに伴いiPhoneアップグレードプログラムを終了しました。既存のユーザーは、リース、Apple Cardによる分割払い、またはキャリアファイナンスなどの選択肢が提供されます。iPhoneアップグレードプログラムは2015年に開始され、今後は新しい購入方法に移行する必要があります。"
+    },
+    {
+      "id": "5a98a1b91b439c2f86f4",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Apple Upgrade launches in the United States",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
+      "publishedAt": "2026-07-28T12:20:23.616Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple Upgradeが米国で開始",
+      "summaryJa": "Appleは新しいハードウェアリースプログラム「Apple Upgrade」を発表し、iPhone、Apple Watch、Mac、iPadが対象となります。このプログラムは、月額17.99ドルから利用可能で、顧客はリース期間中にデバイスをトレードインすることで月額料金をさらに下げることができます。Apple Upgradeは、オンラインおよび店舗での柔軟な支払いオプションを提供し、顧客の利便性を向上させることを目指しています。"
+    },
+    {
+      "id": "e6a5ac2a5a41655f8a4f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Retires iPhone Upgrade Program for Klarna-Backed Leases",
+      "url": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-klarna/",
+      "publishedAt": "2026-07-28T12:20:10.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/apple-upgrade-program.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、Klarnaと提携し新リースプログラム開始",
+      "summaryJa": "Appleは新たに「Apple Upgrade」を開始し、iPhone、iPad、Mac、Apple Watchのリースを提供します。このプログラムはKlarnaと提携しており、月額料金はiPhoneが17.99ドルから、Apple Watchが11.99ドルからとなっています。リース期間は12ヶ月または24ヶ月のオプションがあり、トレードインを利用することで月額料金を下げることも可能です。"
+    },
+    {
+      "id": "1e30cc95f0a300e7deef",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Upgrade leasing program launches for iPhone, Mac, iPad, and Apple Watch",
+      "url": "https://9to5mac.com/2026/07/28/apple-upgrade-leasing-program-debuts-how-it-works/",
+      "publishedAt": "2026-07-28T12:20:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-Upgrade-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、製品リースプログラムを開始",
+      "summaryJa": "Appleは、iPhone、Apple Watch、Mac、iPad向けの新しい製品リースプログラム「Apple Upgrade」を発表しました。このプログラムは、ユーザーがリース期間終了時に簡単にアップグレードできるオプションを提供します。iPhoneやApple Watchは12か月または24か月のリースが可能で、MacやiPadは24か月または36か月のリースが選べます。リース料金はiPhone 17eが月額17.99ドルから、Apple Watch Series 11が月額11.99ドルから始まります。ユーザーは既存のデバイスを下取りに出すことで、リース料金を軽減することもできます。"
+    },
+    {
+      "id": "300edc01e2aaa52ec0da",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Claude chats exposed in Google searches – another endorsement of Apple’s privacy approach",
+      "url": "https://9to5mac.com/2026/07/28/claude-chats-exposed-in-google-searches-another-endorsement-of-apples-privacy-approach/",
+      "publishedAt": "2026-07-28T12:16:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Claude-chats-exposed-in-Google-searches-–-another-endorsement-of-Apples-privacy-approach.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Claude AIチャットのプライバシー問題が浮上",
+      "summaryJa": "AIチャットボットClaudeのセッションがGoogle検索で簡単にアクセス可能であることが発覚しました。ユーザーがチャットを共有する際に生成されるリンクが必要ないことが明らかになり、誰でも検索でチャット内容を閲覧できる状態になっています。これにより、個人情報が漏洩するリスクが高まっており、プライバシーの重要性が再認識されています。この問題は、AIチャットボットの利用における個人データの取り扱いに対する警鐘となっています。"
     },
     {
       "id": "da9fcec7053749ceea41",
@@ -4395,165 +4545,9 @@
       ],
       "titleJa": "Apple、パーソナルなSiri AIを発表",
       "summaryJa": "Appleは、Apple Intelligenceを基にした新しいSiri AIを発表しました。このアシスタントは、パーソナルコンテキストの理解やオンスクリーン認識を活用し、ユーザーが必要な情報を迅速に見つける手助けをします。新機能は開発者向けにテストが開始され、年内にベータ版として一般ユーザーに提供される予定です。"
-    },
-    {
-      "id": "5d64be008d58448444f8",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、子どもの安全の新しい機能をプレビュー",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-previews-new-child-safety-features/",
-      "publishedAt": "2026-06-08T18:32:46.190Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、子どもの安全機能を強化",
-      "summaryJa": "Appleは、保護者が子どものデジタル体験を管理できる新しい安全機能を発表しました。これにより、子どもがアクセスできるコンテンツやコミュニケーションを保護者が簡単に管理できるようになります。新機能は今秋のソフトウェアアップデートで提供され、Appleのペアレンタルコントロールをさらに強化するものです。"
-    },
-    {
-      "id": "116f465a1a0e9cb28985",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、デベロッパの成長と新たなユーザーへのリーチを支援するためにApp Storeの機能を拡大",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-expands-app-store-capabilities-to-help-developers-grow-and-reach-new-users/",
-      "publishedAt": "2026-06-08T18:32:43.402Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、App Store機能を拡大",
-      "summaryJa": "Appleは、デベロッパの成長を支援するためにApp Storeの新機能を発表しました。これにより、デベロッパはアプリのマーケティングやユーザー獲得において柔軟性を高めることができます。新しいクリエイティブアセットを活用し、製品ページのカスタマイズやアプリ内課金の新しいビジネスモデルも導入されます。また、ユーザー向けにはパーソナライズされたアプリのおすすめ機能が追加され、より多くのユーザーにアプローチできるようになります。"
-    },
-    {
-      "id": "d6851121993b10b5e651",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "デジタル市場法の影響により、EU域内ではiOS 27とiPadOS 27へのSiri AIの提供が延期されます",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
-      "publishedAt": "2026-06-08T18:32:42.033Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "EUでiOS 27のSiri AI提供が延期",
-      "summaryJa": "Appleは、デジタル市場法の影響により、EUでのiOS 27およびiPadOS 27にSiri AIを提供できないことを発表しました。EUの規制当局が提案された解決策を受け入れなかったため、EU域内のユーザーは新しいSiri AIの機能にアクセスできません。Appleは、プライバシーとセキュリティを保護するための協議を続ける意向を示していますが、現時点では解決策が見つかっていない状況です。"
-    },
-    {
-      "id": "5b2cbd45c044283cb577",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Find out what's new for Apple developers",
-      "url": "https://developer.apple.com/news/?id=8rgqj83s",
-      "publishedAt": "2026-06-08T18:20:01.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/94DF67FE-06BF-4349-85B7-819CF5DB7613/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple開発者向けの新機能をチェック",
-      "summaryJa": "Appleプラットフォーム全体での最新の進展を発見し、アプリやゲームにユニークでインテリジェントな体験を創出するための大幅な強化が行われています。最新のSDKには、プラットフォームデザインの改善やApple Intelligence機能、新しいAI開発フレームワークが含まれています。"
-    },
-    {
-      "id": "bb29841f38e3f6968488",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Introducing Time Allowances",
-      "url": "https://developer.apple.com/news/?id=0d2gpmml",
-      "publishedAt": "2026-06-08T18:19:33.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/5799005A-1399-42D8-81F9-593CA4841F77/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "タイムアローワンスの導入",
-      "summaryJa": "iOS 27、iPadOS 27、macOS 27以降で新たに導入されるタイムアローワンスは、親が子供のアプリ使用時間を柔軟に管理できる機能です。エンターテインメント、ゲーム、ソーシャルメディアなどのカテゴリーに基づいて設定され、親は子供の年齢に応じて調整可能です。2026年7月からは、アプリがソーシャルメディア機能を持つかどうかを示す年齢評価の質問票が更新され、該当するアプリはソーシャルメディアのタイムアローワンスカテゴリーに分類されます。"
-    },
-    {
-      "id": "abdf9b68ed98d3d4f7dd",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
-      "publishedAt": "2026-06-08T18:18:43.157Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、次世代のApple IntelligenceとSiri AIを発表",
-      "summaryJa": "AppleはWWDC26で、次世代のApple Intelligenceと新しいSiri AIを発表しました。新しいSiriは、より知識豊富で能力の高いアシスタントとして、iOSやmacOSなどの各プラットフォームに新機能をもたらします。また、子供向けの安全機能も強化され、ユーザーのデジタル体験を向上させることを目指しています。"
-    },
-    {
-      "id": "b146df94c0b71f5d99ef",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Updated Apple Developer Program License Agreement and App Review Guidelines now available",
-      "url": "https://developer.apple.com/news/?id=a233fmpw",
-      "publishedAt": "2026-06-08T18:18:33.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple Developer Programライセンス契約とアプリレビューガイドラインの更新",
-      "summaryJa": "Apple Developer Programのライセンス契約とアプリレビューガイドラインが改訂され、新機能やポリシーの更新が反映されました。開発者の身元に関する情報提供や、センシティブコンテンツ分析フレームワークの使用に関する要件が明確化されています。開発者は、更新された条件に同意するためにアカウントにサインインする必要があります。"
-    },
-    {
-      "id": "2edc936bcd88299cce92",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
-      "publishedAt": "2026-06-08T18:17:44.449Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple Intelligenceが日常体験を向上",
-      "summaryJa": "Appleは、次世代のApple Intelligenceを発表し、iPhoneやiPad、Macに強力なAI機能を統合しました。これにより、ユーザーの日常的な体験がよりパーソナルで役立つものになります。新機能には、写真編集やSafariのブラウジング支援、セキュリティ強化などが含まれ、開発者向けのテストが開始され、秋には一般ユーザー向けに提供される予定です。"
-    },
-    {
-      "id": "5d578a1f3773f8fc1a31",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple introduces Siri AI, a profoundly more capable and personal assistant",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
-      "publishedAt": "2026-06-08T18:15:52.996Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、より高機能なSiri AIを導入",
-      "summaryJa": "Appleは、Apple Intelligenceを活用した新しいSiri AIを発表しました。このSiriは、個人の文脈理解や広範な知識を持ち、ユーザーが必要な情報を瞬時に見つける手助けをします。新機能には、会話の履歴を確認できる専用アプリや、執筆支援ツールが含まれ、プライバシーを重視した設計がされています。これらの機能は開発者向けにテストが開始され、年内にベータ版が提供される予定です。"
-    },
-    {
-      "id": "6b9d1ff211e04f45a868",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple previews new child safety features",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-previews-new-child-safety-features/",
-      "publishedAt": "2026-06-08T18:14:04.568Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、子供向け安全機能を発表",
-      "summaryJa": "Appleは新たな子供向け安全機能を発表しました。この機能により、親は子供のコンテンツ、コミュニケーション、デバイスの使用時間をより簡単に管理できるようになります。秋に予定されているソフトウェアアップデートでは、簡単な設定体験や新しいアプリの推奨、閲覧許可、時間制限、再設計されたスクリーンタイムなどが含まれます。これにより、Appleは業界をリードする親の管理機能をさらに強化し、子供たちの安全なデジタル体験を提供することを目指しています。"
     }
   ],
-  "updatedAt": "2026-07-28T14:56:34.180Z",
+  "updatedAt": "2026-07-28T16:47:53.011Z",
   "initialized": true,
   "summaryVersion": 4
 }
