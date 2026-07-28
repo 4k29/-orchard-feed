@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "6f11961b4f0d884b5703",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Twelve South debuts smaller Valet tray with 25W MagSafe charging",
+      "url": "https://9to5mac.com/2026/07/28/twelve-south-debuts-smaller-valet-tray-with-25w-magsafe-charging/",
+      "publishedAt": "2026-07-28T19:49:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/TS_Valet_4.25in_TaupeEcru_LS2_WebRes.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Twelve South、25W MagSafe充電の新型Valetを発表",
+      "summaryJa": "Twelve Southが新たに小型のValetトレイを発表しました。このトレイは、MagSafeおよびQi2.2による最大25Wのワイヤレス充電に対応しており、サイズは4.25インチとコンパクトです。デザインは高級感があり、レザー製のトレイと重みのある亜鉛合金ベースが特徴です。価格は129.99ドルで、現在3色のバリエーションが販売されています。"
+    },
+    {
+      "id": "054cc929f2094c196d00",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AppleCare+ Changes Introduced in Canada",
+      "url": "https://www.macrumors.com/2026/07/28/applecare-changes-in-canada/",
+      "publishedAt": "2026-07-28T19:33:24.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/AppleCare-Bright-Red.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "カナダでAppleCare+の変更が導入",
+      "summaryJa": "カナダにおいて、AppleCare+の月額および年額サブスクリプションオプションが、iPhoneやiPad、Macなどの幅広いApple製品に対応しました。ただし、従来の一括払いプランと比較して、長期的にはコストが高くなる可能性があるため注意が必要です。"
+    },
+    {
+      "id": "d15909517b253fb2d0eb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s everything new for Apple Wallet in iOS 27",
+      "url": "https://9to5mac.com/2026/07/28/heres-everything-new-for-apple-wallet-in-ios-27/",
+      "publishedAt": "2026-07-28T18:58:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27でApple Walletに新機能追加",
+      "summaryJa": "iOS 27が今秋にリリース予定で、Apple Walletアプリに新機能が追加されます。新たに「パス作成」機能が導入され、物理的なパスをスキャンするか、手動で作成できます。また、Apple Cashを使った「割り勘」機能や、Apple Cardの定期取引を管理する新しいハブも追加されます。これにより、Walletアプリがより便利なツールとなることが期待されています。"
+    },
+    {
+      "id": "252ee139cc58a537796f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 includes smarter Find My location sharing for Apple Watch users",
+      "url": "https://9to5mac.com/2026/07/28/ios-27-smarter-find-my-location-sharing-apple-watch/",
+      "publishedAt": "2026-07-28T18:53:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/find-my-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27、Apple Watch向けFind My機能を強化",
+      "summaryJa": "iOS 27では、Find Myアプリの機能が強化され、Apple Watchユーザーがよりスマートに位置情報を共有できるようになります。これにより、iPhoneを持たずにApple Watchだけで散歩する際にも、Watchの位置情報が自動的に反映されるようになります。また、Apple Watch用のFind Myアプリも統合され、新しいユーザーインターフェースが導入されます。"
+    },
+    {
+      "id": "57d0f1e04727ce56fb42",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Man credits Apple Watch with saving his life after collapsing at home",
+      "url": "https://9to5mac.com/2026/07/28/man-credits-apple-watch-with-saving-his-life-after-collapsing-at-home/",
+      "publishedAt": "2026-07-28T18:49:59.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-watch-fall-detection.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watchが命を救った男性の体験",
+      "summaryJa": "オハイオ州シンシナティの男性が、Apple Watchの転倒検知機能によって命を救われたと報じられています。彼は数週間前に自宅の外で倒れ、Apple Watchが自動的に緊急サービスに連絡しました。医師によると、彼は肺に血栓が見つかり、迅速な対応がなければ危険な状況だった可能性があります。この機能はApple Watch Series 4以降で利用可能で、65歳未満の場合はデフォルトでオフになっていますが、設定でオンにすることができます。"
+    },
+    {
+      "id": "e38013ad17425cc04066",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Tim Cook, John Ternus talk Apple CEO transition and more in new interview",
+      "url": "https://9to5mac.com/2026/07/28/tim-cook-john-ternus-talk-apple-ceo-transition-and-more-in-new-interview/",
+      "publishedAt": "2026-07-28T18:38:49.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/tim-cook-john-ternus.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ティム・クック氏とジョン・ターナス氏がCEO交代について語る",
+      "summaryJa": "Appleの現CEOティム・クック氏と次期CEOジョン・ターナス氏が、CEO交代やApple TVについてのインタビューを受けました。クック氏は15年間のCEOとしての経験に感謝し、ターナス氏がこの役割に最適であると述べました。ターナス氏はAppleで25年のキャリアを持ち、この機会に興奮していると語りました。彼は9月1日にCEOに就任予定で、Apple TVのコンテンツについても期待を寄せています。"
+    },
+    {
       "id": "3bf187aa592c1238ae13",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4447,104 +4537,9 @@
       ],
       "titleJa": "ブラジルにおけるiOSの変更",
       "summaryJa": "Appleは、ブラジルの競争規制機関CADEとの合意に基づき、iOSに新たな変更を導入します。これにより、開発者は代替アプリマーケットでのアプリ配布や、Appleのアプリ内購入以外での支払い処理が可能になります。新たなリスクに対処するため、Appleは子供の安全を重視した保護策を導入し、すべてのApple Developer Programのメンバーは2026年7月6日までに最新のライセンス契約に同意する必要があります。"
-    },
-    {
-      "id": "b96b97925a8262d3f6ff",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "チェロキー語学習者がiPadとMacで世代をつなぐ",
-      "url": "https://www.apple.com/jp/newsroom/2026/05/cherokee-language-learners-bridge-generations-with-ipad-and-mac/",
-      "publishedAt": "2026-06-18T01:41:40.770Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "チェロキー語学習者にiPadとMac提供",
-      "summaryJa": "Appleは、Community Education Initiativeを通じて、オクラホマ州のチェロキー・ネイションと連携し、若い学習者にiPadとMacを提供しています。チェロキー語を学ぶ生徒たちは、これらのデバイスを使って言語を学び、文化を継承するための活動を行っています。Appleの支援により、教育者たちは新しい技術を活用し、次世代のチェロキー語話者を育成する取り組みを進めています。"
-    },
-    {
-      "id": "176c8633de95a5f2e034",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "New domain for Sign in with Apple and iCloud+ Hide My Email",
-      "url": "https://developer.apple.com/news/?id=sus6t6ab",
-      "publishedAt": "2026-06-15T22:00:28.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple IDとiCloud+の新しいドメイン",
-      "summaryJa": "Appleは今夏、Sign in with AppleとiCloud+ Hide My Emailで使用されるメールドメインをprivate.icloud.comに統一します。新しいアドレスはこのドメインで発行され、既存のアドレスは引き続き機能します。開発者は、アカウントシステムやメール検証ロジックが新しいドメインを受け入れるように更新する必要があります。メールサービスプロバイダーも、ドメインベースのフィルタリングを更新する必要があります。"
-    },
-    {
-      "id": "2ea244aa0d8146e694b5",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "WWDC26 survey",
-      "url": "https://developer.apple.com/news/?id=15wishue",
-      "publishedAt": "2026-06-11T14:00:32.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/34CD5814-E0E4-4327-826F-29879CBAAFD2/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "WWDC26 アンケート",
-      "summaryJa": "WWDC26に関する意見を共有するためのアンケートが実施されています。参加者は、今年のカンファレンスについての感想を述べることができます。"
-    },
-    {
-      "id": "147321f065033942364c",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、様々なサービスに導入される革新的な機能とインテリジェンス体験を発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "publishedAt": "2026-06-09T13:04:11.879Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、サービス向け新機能を発表",
-      "summaryJa": "Appleは、2027年のソフトウェアリリースで新機能を導入すると発表しました。新機能には、Appleマップの強化されたFlyover体験や、位置情報共有の柔軟なオプション、Apple Cashでの割り勘機能などが含まれます。これにより、ユーザーはより便利で楽しい体験を享受できるようになります。Appleは、これらのアップデートを通じて、ユーザーの生活を変えることを目指しています。"
-    },
-    {
-      "id": "5fb6fed545cc0fd28b0a",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple unveils innovative features and intelligence experiences across services",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
-      "publishedAt": "2026-06-09T13:00:15.876Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、サービスの新機能を発表",
-      "summaryJa": "Appleは2027年のソフトウェアリリースに向けて、サービスに新しい機能を追加すると発表しました。Apple MapsのFlyover機能の強化や、Find Myの柔軟な共有オプション、Apple Cashでの請求書分割機能などが含まれます。これらの更新は、ユーザーの体験をより便利で楽しいものにすることを目指しています。"
-    },
-    {
-      "id": "7febb57f26b14cb690e4",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、新しいインテリジェンスフレームワークと先進的なツールでアプリ開発を支援",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
-      "publishedAt": "2026-06-08T21:04:53.899Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、新しいアプリ開発支援ツールを発表",
-      "summaryJa": "Appleは、新しいインテリジェンス機能とXcodeの拡張機能を発表し、アプリ開発を加速させる取り組みを強化しています。新しいAPIにより、デベロッパはAIモデルをアプリに統合しやすくなり、アプリの機能を向上させることができます。Appleは、デベロッパがより良いアイデアを形にするための最高のツールを提供することを目指しています。"
     }
   ],
-  "updatedAt": "2026-07-28T18:07:44.267Z",
+  "updatedAt": "2026-07-28T19:54:05.378Z",
   "initialized": true,
   "summaryVersion": 4
 }
