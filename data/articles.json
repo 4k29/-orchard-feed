@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "a226f67a9ca1c82117e0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27: All the New Phone and FaceTime Features",
+      "url": "https://www.macrumors.com/guide/ios-27-phone-facetime/",
+      "publishedAt": "2026-07-28T22:36:25.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-All-the-New-Phone-and-FaceTime-Features.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27での新機能、電話とFaceTime",
+      "summaryJa": "iOS 27では、電話アプリに新機能「Call Context」が追加され、企業への電話時に関連情報を表示します。FaceTimeでは、iPhone 17シリーズで前後のカメラを同時に使用できる「Dual Capture」が導入され、受信者は双方の映像を同時に見ることが可能です。また、接続品質の改善も行われ、より良い通話体験が提供されます。これらの機能は、iPhone 15 Pro以降のモデルで利用可能です。"
+    },
+    {
       "id": "3bd825cd6a88af918166",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4517,25 +4532,9 @@
       ],
       "titleJa": "macOS 26.5.2がリリース",
       "summaryJa": "AppleがmacOS 26.5.2をリリースしました。詳細なダウンロード情報はApple Developerのサイトで確認できます。"
-    },
-    {
-      "id": "1d470c83a5318f9ee55b",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "App Store Connect Update",
-      "url": "https://developer.apple.com/news/releases/?id=06252026b",
-      "publishedAt": "2026-06-25T22:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "App Store Connectの更新",
-      "summaryJa": "AppleがApp Store Connectの更新を発表しました。リリースノートの詳細は、Apple Developerのサイトで確認できます。"
     }
   ],
-  "updatedAt": "2026-07-28T22:17:52.995Z",
+  "updatedAt": "2026-07-28T23:28:17.033Z",
   "initialized": true,
   "summaryVersion": 4
 }
