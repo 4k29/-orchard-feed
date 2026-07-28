@@ -547,6 +547,96 @@
       "summaryJa": "iOS 27が今秋に登場し、Appleのカレンダーアプリに自然言語サポートが追加されます。これにより、ユーザーはイベントを自然な言葉で入力することで、時間や場所、参加者を自動的に設定できるようになります。この機能は、長年のユーザーの要望に応えるもので、カレンダーの使い勝手が大幅に向上します。"
     },
     {
+      "id": "7bd08184b721c5b827e1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: M5 Pro MacBook Pro 24GB $500 off, 48GB $400 off, Find My charger $40, AirPods, more",
+      "url": "https://9to5mac.com/2026/07/27/deals-macbook-pro-find-my-charger-airpods/",
+      "publishedAt": "2026-07-27T15:37:12.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-deals-MacBok-Pro-AirPods-Find-My-charger.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "M5 Pro MacBook Proが最大500ドルオフ",
+      "summaryJa": "現在、M5 Pro MacBook Proの24GBモデルが500ドルオフ、48GBモデルが400ドルオフで販売中です。また、AirPods Pro 3やAirPods Max 2もそれぞれ100ドルオフの特価で提供されています。さらに、Find My機能付きの充電器やApple Watch Series 11も割引価格で購入可能です。これらのセールは、ブラックフライデーにちなんだ特別価格として継続中です。"
+    },
+    {
+      "id": "118f7b7f1b486f680dce",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "2026 MacBook Pro Now Up to $500 Off on Amazon Following Recent Price Increase",
+      "url": "https://www.macrumors.com/2026/07/27/macbook-pro-prices-up-to-500/",
+      "publishedAt": "2026-07-27T14:18:39.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/macbook-pro-2026-pink.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "2026年モデルMacBook Proが最大500ドルオフ",
+      "summaryJa": "2026年モデルのMacBook Proが、最近の価格上昇にもかかわらず、Amazonで最大500ドルオフのセールを実施中です。特に、24GB/1TBの14インチM5 Proモデルが2,299ドル、15-Core/24GB/2TBモデルが2,499ドルで販売されています。これらの割引は、価格引き上げ後の新たな低価格として注目されています。"
+    },
+    {
+      "id": "f4fd207dce4b6c2b70ee",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts - Ed Zitron",
+      "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
+      "publishedAt": "2026-07-27T14:11:41.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Apple-Intelligence-Comes-Under-Fire-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AIバブル崩壊時のAppleの影響について",
+      "summaryJa": "エド・ジトロン氏は、AIバブルが崩壊した場合、Appleがどのような影響を受けるかについて警鐘を鳴らしています。彼は、AIサービスのコストが消費者の支払い意欲に反していると指摘し、特に大規模言語モデル（LLM）の経済モデルに問題があると述べています。これにより、Appleが直面する可能性のある課題が浮き彫りになっています。"
+    },
+    {
+      "id": "d07e4d1926ca39044ead",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AppleCare+ With Theft and Loss Coverage for iPad and Apple Watch Launching in More Countries",
+      "url": "https://www.macrumors.com/2026/07/27/applecare-with-theft-and-loss-expanding/",
+      "publishedAt": "2026-07-27T14:02:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/AppleCare-Bright-Red.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AppleCare+の盗難・紛失補償が拡大",
+      "summaryJa": "AppleCare+の盗難・紛失補償プランが、オーストラリア、フランス、ドイツ、イギリスの4カ国で8月4日から利用可能になります。このプランでは、年間最大2回の盗難または紛失に対する補償が提供され、各インシデントにはサービス料がかかります。これにより、iPadやApple Watchのユーザーにも安心が広がります。"
+    },
+    {
+      "id": "c2a60916e258c8e17c05",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "'AppleCare One' Expanding to Four More Countries",
+      "url": "https://www.macrumors.com/2026/07/27/applecare-one-four-more-countries/",
+      "publishedAt": "2026-07-27T13:46:07.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/07/Apple-AppleCare-One-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AppleCare One、4カ国で提供開始",
+      "summaryJa": "Appleは、AppleCare Oneをオーストラリア、フランス、ドイツ、イギリスで8月4日から提供開始すると発表しました。AppleCare Oneは、最大3台のデバイスをカバーする月額サブスクリプションで、複数のAppleCare+プランよりもコストが抑えられる場合があります。例えば、イギリスでは、3つのAppleCare+プランを利用するよりも月額最大£11.48の節約が可能です。加入はApple.comまたはApple Storeで行え、既存のAppleCare+プランを持つユーザーは設定アプリからも申し込むことができます。"
+    },
+    {
+      "id": "758c15c4c21032b5b0e6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Responds to Lawsuit Over Fake Bitcoin Wallet Scam in App Store",
+      "url": "https://www.macrumors.com/2026/07/27/apple-app-store-fake-bitcoin-wallet-lawsuit/",
+      "publishedAt": "2026-07-27T13:00:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/03/apple-bitcoin-app-scam.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、偽ビットコインウォレット訴訟に対応",
+      "summaryJa": "Appleは、App Storeでの偽ビットコインウォレットアプリにより、顧客が合計180万ドルを失ったとして訴えられています。訴状では、Appleがアプリの適切な審査を行わず、消費者に安全な環境を提供すると宣伝していたことが問題視されています。被害者は、ダウンロードしたアプリが実際には詐欺であったため、資金を奪われたと主張しています。訴訟は、Appleが報告された詐欺に対して適切な対応を取らなかったことも指摘しています。"
+    },
+    {
       "id": "c5f55f057cff30edd982",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4470,89 +4560,9 @@
       ],
       "titleJa": "最新のベータ版リリースの準備を",
       "summaryJa": "iOS 26.6、iPadOS 26.6、macOS 26.6、tvOS 26.6、visionOS 26.6、watchOS 26.6のベータ版が利用可能になりました。アプリがこれらのリリースで期待通りに動作するか確認し、最新のSDKの利点を活かすためにXcode 26.5でビルドとテストを行うことが推奨されています。"
-    },
-    {
-      "id": "8be2b7751d52e48b3b94",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Upcoming changes to age ratings in Australia and Vietnam",
-      "url": "https://developer.apple.com/news/?id=yrrb45pw",
-      "publishedAt": "2026-05-21T20:01:22.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "オーストラリアとベトナムの年齢評価の変更",
-      "summaryJa": "2026年6月18日から、オーストラリアとベトナムのApp Storeで年齢評価が更新されます。オーストラリアでは15+の評価が廃止され、特定のコンテンツを含むアプリは16+に変更されます。ベトナムでは、地域特有の年齢評価が必要となり、アプリは00+、12+、16+、または18+のいずれかの評価を受けることになります。"
-    },
-    {
-      "id": "40c17ee1f0bcf2353a03",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Introducing the 2026 Apple Design Award finalists",
-      "url": "https://developer.apple.com/news/?id=8t3j66i7",
-      "publishedAt": "2026-05-18T15:50:09.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/60EB2FB9-36EB-4CA6-B129-EB28AF262739/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "2026年Appleデザイン賞のファイナリストを発表",
-      "summaryJa": "毎年、Appleデザイン賞はアプリやゲームデザインにおける革新や技術的成果を認識します。今年のファイナリストが発表され、Apple開発者コミュニティの成果を祝う機会となっています。"
-    },
-    {
-      "id": "30a83bc1bb1d62b2393e",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Coming bright up",
-      "url": "https://developer.apple.com/news/?id=7lcnqgxp",
-      "publishedAt": "2026-05-18T15:00:22.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/54AF41EF-A8BB-43D2-8D76-062999BA1B20/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "WWDC26の開催が決定",
-      "summaryJa": "WWDC26がオンラインで無料開催されることが発表され、技術、創造性、コミュニティに関する様々な内容が予定されています。詳細は今後発表される予定です。"
-    },
-    {
-      "id": "f54d5d97dcdc34859f3e",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Hello Developer: May 2026",
-      "url": "https://developer.apple.com/news/?id=qtzr82f0",
-      "publishedAt": "2026-05-12T16:00:16.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/98FDE867-F7F3-44DE-AF8A-C9620F3E2139/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "開発者向けの最新情報：2026年5月",
-      "summaryJa": "2026年5月の号では、インスピレーションを与える開発者や教育者との出会いや、アプリのアクセシビリティ栄養ラベルへの対応方法が紹介されています。また、Appleシリコンへの移行に関する情報も含まれています。"
-    },
-    {
-      "id": "58fa36d4176c3ae8240b",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Get the most out of your Apple Developer account",
-      "url": "https://developer.apple.com/news/?id=sw8ldfjk",
-      "publishedAt": "2026-05-12T13:00:26.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/258E13F2-ABA3-4CED-9195-EDA014B63972/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple Developerアカウントの活用法",
-      "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-28T01:25:25.918Z",
+  "updatedAt": "2026-07-28T04:43:17.689Z",
   "initialized": true,
   "summaryVersion": 4
 }
