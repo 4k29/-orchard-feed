@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "52734381f5b1a532c637",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Everything We Know About MacBook Ultra's All-New Design",
+      "url": "https://www.macrumors.com/2026/07/27/macbook-ultra-all-new-design/",
+      "publishedAt": "2026-07-28T01:00:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/10/M5-MacBook-Pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "MacBook Ultraの新デザインが明らかに",
+      "summaryJa": "Appleの次期ハイエンドノートパソコン、MacBook Ultraは、2021年以来の大幅なデザイン変更が予想されています。OLEDディスプレイと薄型設計を採用し、従来の14インチおよび16インチMacBook Proよりも薄く軽くなる見込みです。また、ノッチが穴あきカメラに置き換わるとの報道もあり、これによりメニューバーが一続きのデザインになるとされています。2027年にはエントリーモデルの14インチMacBook Proもこのデザインを踏襲する可能性があります。"
+    },
+    {
+      "id": "f99bf929950f394cecaa",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "LM Studio Bionic adds support for Moonshot AI’s Kimi K3 model",
+      "url": "https://9to5mac.com/2026/07/27/lm-studio-bionic-adds-support-for-moonshot-ais-kimi-k3-model/",
+      "publishedAt": "2026-07-28T00:21:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/lm-studio-bionic.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "LM Studio BionicがKimi K3モデルをサポート",
+      "summaryJa": "LM Studioの新アプリBionicが、Moonshot AIの2.8兆パラメータを持つKimi K3モデルのサポートを開始しました。Bionicはコーディングや研究、文書作成などの複雑な作業を行うためのプラットフォームで、ユーザーはローカルモデルとクラウドベースのオープンソースモデルを使い分けることができます。クラウドモデルは米国のサーバーで処理され、データは保存されないため、プライバシーも保護されています。"
+    },
+    {
       "id": "5fea5bf991f9088a295c",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -346,6 +376,86 @@
       "summaryJa": "Appleは、visionOS 26の6回目のアップデートであるvisionOS 26.6をリリースしました。このアップデートは、バグ修正やセキュリティ改善を含んでおり、Spotlightインデックスの最適化も行われています。Vision Proヘッドセットの設定アプリからダウンロード可能で、インストール時にはヘッドセットを外す必要があります。"
     },
     {
+      "id": "aaa41847c793e6988cb2",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "iPadOS 26.6 (23G71)",
+      "url": "https://developer.apple.com/news/releases/?id=07272026b",
+      "publishedAt": "2026-07-27T17:00:00.000Z",
+      "imageUrl": null,
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "iPadOS 26.6がリリース",
+      "summaryJa": "AppleがiPadOS 26.6 (23G71)をリリースしました。詳細なリリースノートやダウンロード情報はAppleの開発者向けサイトで確認できます。"
+    },
+    {
+      "id": "ecbbb8f2c00ce6d59bbd",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "macOS 26.6 (25G72)",
+      "url": "https://developer.apple.com/news/releases/?id=07272026c",
+      "publishedAt": "2026-07-27T17:00:00.000Z",
+      "imageUrl": null,
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "macOS 26.6がリリース",
+      "summaryJa": "AppleがmacOS 26.6 (25G72)をリリースしました。詳細なリリースノートやダウンロード情報はAppleの開発者向けサイトで確認できます。"
+    },
+    {
+      "id": "ff7a25ceffdda28ac30a",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "tvOS 26.6 (23L773)",
+      "url": "https://developer.apple.com/news/releases/?id=07272026d",
+      "publishedAt": "2026-07-27T17:00:00.000Z",
+      "imageUrl": null,
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "tvOS 26.6がリリース",
+      "summaryJa": "AppleがtvOS 26.6 (23L773)をリリースしました。詳細なリリースノートやダウンロード情報はApple Developerサイトで確認できます。"
+    },
+    {
+      "id": "2030e0c96a156566a033",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "visionOS 26.6 (23O770)",
+      "url": "https://developer.apple.com/news/releases/?id=07272026e",
+      "publishedAt": "2026-07-27T17:00:00.000Z",
+      "imageUrl": null,
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "visionOS 26.6が登場",
+      "summaryJa": "AppleがvisionOS 26.6 (23O770)を発表しました。リリースノートやダウンロード情報はApple Developerで確認可能です。"
+    },
+    {
+      "id": "f66fece10909e92da817",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "watchOS 26.6 (23U67)",
+      "url": "https://developer.apple.com/news/releases/?id=07272026f",
+      "publishedAt": "2026-07-27T17:00:00.000Z",
+      "imageUrl": null,
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "watchOS 26.6が公開",
+      "summaryJa": "AppleがwatchOS 26.6 (23U67)をリリースしました。詳細はApple Developerサイトでリリースノートやダウンロード情報を確認できます。"
+    },
+    {
       "id": "f0b4721e3e75750526ed",
       "source": "Apple Developer",
       "sourceId": "apple-developer",
@@ -360,6 +470,81 @@
       ],
       "titleJa": "iOS 26.6のリリース情報",
       "summaryJa": "AppleはiOS 26.6のリリースノートを公開しました。詳細なダウンロード情報は、Appleの開発者向けサイトで確認できます。"
+    },
+    {
+      "id": "142c12245d7a8743ffa5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Pocket Casts just released a brand-new Apple TV app",
+      "url": "https://9to5mac.com/2026/07/27/pocket-casts-just-released-a-brand-new-apple-tv-app/",
+      "publishedAt": "2026-07-27T16:45:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/pocket-casts.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Pocket CastsがApple TVアプリを発表",
+      "summaryJa": "Pocket Castsが新たにApple TV向けのアプリをリリースしました。このアプリでは、ポッドキャストのキューや再生位置を同期させて、リビングで快適に視聴できます。Android TV版も近日中に登場予定です。tvOS 27ではAppleの公式ポッドキャストアプリが動画ポッドキャストに対応するアップデートが予定されています。"
+    },
+    {
+      "id": "8a124575ee4f3c0b6c3a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: July 27, 2026 – Apple Glasses rumors, more",
+      "url": "https://9to5mac.com/2026/07/27/daily-july-27-2026/",
+      "publishedAt": "2026-07-27T16:40:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AppleのAIメガネ、WWDC27で発表か",
+      "summaryJa": "AppleのAIメガネがWWDC27で発表されるとの報道があります。また、2026年にはiPhone Ultraが折りたたみスマートフォンの出荷の25%を占める見込みで、Apple Watch Series 12やUltra 4についても期待が高まっています。これらの新製品は、Appleのエコシステムにおける重要な進展を示しています。"
+    },
+    {
+      "id": "746e44329b53b54616f6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Threads adds private Meta AI chats without cluttering your feed",
+      "url": "https://9to5mac.com/2026/07/27/threads-adds-private-meta-ai-chats-without-cluttering-your-feed/",
+      "publishedAt": "2026-07-27T16:20:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/meta-ai-threads-dms.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ThreadsにMeta AIチャット機能追加",
+      "summaryJa": "Meta AIがThreadsのダイレクトメッセージに追加され、ユーザーはプライベートにアシスタントと会話できるようになります。この機能により、トレンドの理解やコンテンツの要約が容易になり、アプリ内での利便性が向上します。Threadsは、メッセージ機能を拡充しており、ユーザー体験の向上を図っています。"
+    },
+    {
+      "id": "de461defd2dc5663e159",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Pocket Casts Now Available on Apple TV",
+      "url": "https://www.macrumors.com/2026/07/27/pocket-casts-apple-tv/",
+      "publishedAt": "2026-07-27T15:58:54.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Pocket-Casts-Apple-TV.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Pocket CastsがApple TVに対応",
+      "summaryJa": "人気のポッドキャストプラットフォームPocket Castsが、Apple TV 4KおよびApple TV HDモデルで利用可能になりました。このアプリは、iPhoneやiPad、Apple Watchでも利用でき、ユーザーはデバイス間でシームレスにポッドキャストを楽しむことができます。これにより、視聴体験がさらに向上します。"
+    },
+    {
+      "id": "9ea6950025fc57d0c3cd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 gives Apple’s Calendar app new feature I’ve wanted for years",
+      "url": "https://9to5mac.com/2026/07/27/ios-27-gives-apples-calendar-app-new-feature-ive-wanted-for-years/",
+      "publishedAt": "2026-07-27T15:50:05.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27でカレンダーに自然言語機能追加",
+      "summaryJa": "iOS 27が今秋に登場し、Appleのカレンダーアプリに自然言語サポートが追加されます。これにより、ユーザーはイベントを自然な言葉で入力することで、時間や場所、参加者を自動的に設定できるようになります。この機能は、長年のユーザーの要望に応えるもので、カレンダーの使い勝手が大幅に向上します。"
     },
     {
       "id": "c5f55f057cff30edd982",
@@ -4367,7 +4552,7 @@
       "summaryJa": "無料のApple Developerアカウントを作成することで、アプリやゲームの開発・テストに必要なツールやリソースにアクセスできます。このアカウントは有料のApple Developer Programメンバーシップとは別で、ベータ版のXcodeやOSを利用して新機能をテストすることが可能です。開発者イベントやフォーラムへの参加も促されています。"
     }
   ],
-  "updatedAt": "2026-07-27T23:47:40.708Z",
+  "updatedAt": "2026-07-28T01:25:25.918Z",
   "initialized": true,
   "summaryVersion": 4
 }
