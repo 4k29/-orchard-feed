@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "5ab7d7f0bd6dbcf7d7ca",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work Podcast: Remember Postini?",
+      "url": "https://9to5mac.com/2026/07/28/apple-work-podcast-remember-postini/",
+      "publishedAt": "2026-07-28T10:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple @ Workポッドキャスト：フィッシング攻撃の増加",
+      "summaryJa": "Apple @ Workの最新エピソードでは、Sublime Securityのルーク・ウェスコットがゲストとして参加し、自動通知や確認、アラートを悪用したコールバックフィッシング攻撃の急増について議論しました。このポッドキャストは、Appleデバイスの管理と保護に特化したMosyleが提供しています。Mosyleは、45,000以上の組織に信頼されており、Appleデバイスを簡単に作業可能にするソリューションを提供しています。"
+    },
+    {
+      "id": "b7092d8de133fff0288f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "MacBook Ultra OLED Touch Panel to Be Exclusively Supplied by Samsung",
+      "url": "https://www.macrumors.com/2026/07/28/macbook-ultra-oled-touch-panel-samsung/",
+      "publishedAt": "2026-07-28T09:16:08.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/macbook-ultra.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "MacBook UltraのOLEDタッチパネル、サムスンが独占供給",
+      "summaryJa": "Appleは、次期MacBook ProモデルのOLEDタッチパネルをサムスンディスプレイに独占的に依存することが報じられています。14インチと16インチのパネルは、韓国のアサンにあるサムスンの工場で生産され、初期供給は約25万パネルと見込まれています。量産は2026年から2027年初頭にかけて開始される予定で、OLEDタッチパネルは高性能MacBook Proの大幅な刷新の一環とされています。"
+    },
+    {
+      "id": "f5740ce1cb6e8f3cbc90",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Security Bite Podcast: Data brokers are breaking the internet",
+      "url": "https://9to5mac.com/2026/07/28/security-bite-podcast-data-brokers-are-breaking-the-internet/",
+      "publishedAt": "2026-07-28T09:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Security Biteポッドキャスト：データブローカーの脅威",
+      "summaryJa": "9to5MacのSecurity Biteポッドキャストでは、データブローカーが私たちの詳細なプロフィールを構築している現状について、Incogniのミゲル・フォルネスがゲストとして参加し、情報の出所や購入者、AIの影響による脅威の増大について語りました。このポッドキャストも、Appleデバイスの管理とセキュリティに特化したMosyleが提供しています。"
+    },
+    {
       "id": "52734381f5b1a532c637",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4513,56 +4558,9 @@
       ],
       "titleJa": "2026年Appleデザインアワード受賞者の紹介",
       "summaryJa": "2026年のAppleデザインアワードの受賞者を祝うイベントが開催されます。受賞したアプリやゲームの詳細が発表され、開発者たちの素晴らしい成果が紹介される予定です。"
-    },
-    {
-      "id": "e4f64f2dcfe971293576",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "All systems glow",
-      "url": "https://developer.apple.com/news/?id=q7tgn1rr",
-      "publishedAt": "2026-06-01T14:00:22.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/5E343C1F-6774-4D7D-8277-BB78D2416D2A/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "全システムが点灯",
-      "summaryJa": "WWDC26が1週間後に迫っています。5日間にわたるオンラインイベントでは、技術、創造性、コミュニティがテーマとなり、参加は無料です。詳細が発表される予定です。"
-    },
-    {
-      "id": "52db4e1ca16e01d487c3",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Detroit’s rising developers are supported by the Apple Developer Academy",
-      "url": "https://www.apple.com/newsroom/2026/05/detroits-rising-developers-are-supported-by-the-apple-developer-academy/",
-      "publishedAt": "2026-05-29T15:59:14.435Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "デトロイトの開発者を支えるApple Developer Academy",
-      "summaryJa": "デトロイトのApple Developer Academyが設立5周年を迎え、1,800人以上の学生がアプリ開発やビジネススキルを学んでいます。このプログラムは、ミシガン州立大学とギルバートファミリー財団との協力により運営されており、地域の学生に無料で提供されています。デトロイトは北米で唯一のこのようなアカデミーがある都市で、学生たちは地元の文化に触発されています。"
-    },
-    {
-      "id": "e986b06494b75a9891be",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Get ready with the latest beta releases",
-      "url": "https://developer.apple.com/news/?id=tu7pk9oy",
-      "publishedAt": "2026-05-26T18:00:14.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "最新のベータ版リリースの準備を",
-      "summaryJa": "iOS 26.6、iPadOS 26.6、macOS 26.6、tvOS 26.6、visionOS 26.6、watchOS 26.6のベータ版が利用可能になりました。アプリがこれらのリリースで期待通りに動作するか確認し、最新のSDKの利点を活かすためにXcode 26.5でビルドとテストを行うことが推奨されています。"
     }
   ],
-  "updatedAt": "2026-07-28T04:43:17.689Z",
+  "updatedAt": "2026-07-28T10:11:58.296Z",
   "initialized": true,
   "summaryVersion": 4
 }
