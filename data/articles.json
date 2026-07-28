@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "9446cbb483f5fe5b4af4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Instapaper update adds Liquid Glass, Home Screen widgets, new fonts, more",
+      "url": "https://9to5mac.com/2026/07/28/instapaper-update-adds-liquid-glass-home-screen-widgets-new-fonts-more/",
+      "publishedAt": "2026-07-28T20:44:12.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/instapaper.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Instapaperがバージョン10を公開",
+      "summaryJa": "InstapaperがiPhoneとiPad向けにバージョン10をリリースしました。新機能としてLiquid Glassのサポートや4種類のフォント、ホーム画面ウィジェットが追加され、マルチタスク機能も改善されています。また、ウェブプラットフォームも大幅にリデザインされ、記事のダウンロード時間が短縮されるなど、ユーザー体験が向上しています。"
+    },
+    {
+      "id": "36f24150789c2241b3dc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Upgrade: 20 Things to Know Before Leasing an iPhone, iPad, or Mac",
+      "url": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-tidbits/",
+      "publishedAt": "2026-07-28T20:19:52.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/apple-upgrade-program-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhoneなどの新しいリースプログラムを発表",
+      "summaryJa": "Appleは新たにApple Upgradeというリースプログラムを発表しました。これにより、iPhoneやiPad、Macを従来よりも安価に利用できるようになりますが、アメリカ国内のみの提供で、契約にはいくつかの条件があります。リース終了時に端末を所有するには最終支払いが必要で、未払いがあっても端末の機能には影響がないとのことです。"
+    },
+    {
+      "id": "d6a3c3ebdaf27a54a763",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple says iOS 27 ‘Restricted Mode’ isn’t for new Upgrade program leases",
+      "url": "https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/",
+      "publishedAt": "2026-07-28T20:08:13.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/restricted-locked-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iOS 27の制限モードについて説明",
+      "summaryJa": "Appleは、iOS 27で開発中の「制限モード」が新しいリースプログラムの未払いに関連しないことを明らかにしました。この制限モードは、契約が不履行になった際に特定のアプリの起動を制限する機能を持つとされていますが、詳細は不明です。新しいシステムは、認可されたファイナンスプロバイダーのアプリがデバイスを管理するためのもので、特定のアプリのみが利用可能になる仕組みです。"
+    },
+    {
+      "id": "0e79896cf3988ba10f6b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "'Granola' Launches on Apple Watch",
+      "url": "https://www.macrumors.com/2026/07/28/granola-launches-on-apple-watch/",
+      "publishedAt": "2026-07-28T20:07:18.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Granola-Apple-Watch.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch向けアプリ「Granola」が登場",
+      "summaryJa": "「Granola」というアプリがApple Watchに対応しました。このアプリはZoomミーティングを文字起こしし、AIが生成した要点をまとめる機能を持っています。iOSやiPadOS、macOSでも利用可能でしたが、Apple Watchでの利用により、手首から簡単にミーティングの文字起こしを開始できるようになりました。"
+    },
+    {
       "id": "6f11961b4f0d884b5703",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,72 +4534,9 @@
       ],
       "titleJa": "iOS、iPadOS、macOS 27用のデザインキットが登場",
       "summaryJa": "Appleは、iOS、iPadOS、macOS 27用のFigmaおよびSketch用デザインキットを公開しました。これには、Liquid Glassの更新やコンポーネントの拡張、コードとの整合性を高めるための名称変更、リサイズ機能の改善、macOS用のダークモードの追加が含まれています。デザインキットはApple Design Resourcesからダウンロード可能です。"
-    },
-    {
-      "id": "f5427b53943799166fb9",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、ブラジルでのiOSにおける変更を発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "publishedAt": "2026-06-18T15:01:38.210Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、ブラジルでのiOS変更を発表",
-      "summaryJa": "Appleは、ブラジルの競争規制当局CADEとの合意に基づき、iOSアプリに関する新たな変更を発表しました。これにより、デベロッパは代替アプリマーケットプレイスでの配信や、Appleのアプリ内購入以外の決済処理が可能になります。Appleは新たなプライバシーとセキュリティの保護策を導入し、ユーザーを守るための取り組みを強化しています。これらの変更は、ブラジルのiOSユーザーにとってより安全な体験を提供することを目的としています。"
-    },
-    {
-      "id": "ab5c4a5d4242ad33f6ad",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple announces changes to iOS in Brazil",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "publishedAt": "2026-06-18T14:59:41.587Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "ブラジル向けiOSの変更を発表",
-      "summaryJa": "Appleはブラジルの競争規制当局との合意に基づき、iOSアプリに関する変更を発表しました。新たに開発者がアプリを代替マーケットプレイスで配布し、Appleのアプリ内課金を介さずにデジタル商品の支払いを処理できるオプションが追加されます。これに伴い、プライバシーやセキュリティのリスクを軽減するための保護策も導入され、特に未成年者を守るための対策が強化されます。"
-    },
-    {
-      "id": "342cfd54017cdaafbf0d",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Updated Apple Developer Program License Agreement now available",
-      "url": "https://developer.apple.com/news/?id=umq9wxmm",
-      "publishedAt": "2026-06-18T14:30:54.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple Developer Programライセンス契約の更新",
-      "summaryJa": "Apple Developer Programライセンス契約の添付文書12が改訂され、ブラジルにおけるiOSアプリの代替配布や代替支払い、アプリ外オファーに関する条件が明記されました。開発者は変更を確認し、アカウントにサインインして更新された条件を受け入れる必要があります。更新された契約の翻訳は、Apple Developerウェブサイトで1か月以内に提供される予定です。"
-    },
-    {
-      "id": "a3225ac1f2bbcc7777ce",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Changes to iOS in Brazil",
-      "url": "https://developer.apple.com/news/?id=dhwadr2x",
-      "publishedAt": "2026-06-18T14:30:05.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "ブラジルにおけるiOSの変更",
-      "summaryJa": "Appleは、ブラジルの競争規制機関CADEとの合意に基づき、iOSに新たな変更を導入します。これにより、開発者は代替アプリマーケットでのアプリ配布や、Appleのアプリ内購入以外での支払い処理が可能になります。新たなリスクに対処するため、Appleは子供の安全を重視した保護策を導入し、すべてのApple Developer Programのメンバーは2026年7月6日までに最新のライセンス契約に同意する必要があります。"
     }
   ],
-  "updatedAt": "2026-07-28T19:54:05.378Z",
+  "updatedAt": "2026-07-28T21:05:49.362Z",
   "initialized": true,
   "summaryVersion": 4
 }
