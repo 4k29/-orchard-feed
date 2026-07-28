@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "3bd825cd6a88af918166",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iyO’s trademark lawsuit against OpenAI and Jony Ive paused over settlement talks",
+      "url": "https://9to5mac.com/2026/07/28/iyos-trademark-lawsuit-against-openai-and-jony-ive-paused-over-settlement-talks/",
+      "publishedAt": "2026-07-28T21:43:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ive-altman-powell-jobs.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iyO、OpenAIとジョニー・アイブとの訴訟を一時停止",
+      "summaryJa": "iyOは、OpenAIとジョニー・アイブに対する商標訴訟を一時停止しました。これは、両者が和解に向けた最終調整を行うための7日間の猶予を求めた結果です。訴訟は、OpenAIがアイブのスタートアップを買収した後に提起され、商標侵害や企業秘密の漏洩が主な争点となっていました。今後、和解が成立すれば、訴訟は終了する見込みです。"
+    },
+    {
       "id": "9446cbb483f5fe5b4af4",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4518,25 +4533,9 @@
       ],
       "titleJa": "App Store Connectの更新",
       "summaryJa": "AppleがApp Store Connectの更新を発表しました。リリースノートの詳細は、Apple Developerのサイトで確認できます。"
-    },
-    {
-      "id": "23ea6efbbfe4facc9822",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Design kits for iOS, iPadOS, and macOS 27 are here",
-      "url": "https://developer.apple.com/news/?id=e2lxw9l1",
-      "publishedAt": "2026-06-23T21:00:01.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/5903ECCD-08EE-4974-ACF6-141C8B5AAEB2/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "iOS、iPadOS、macOS 27用のデザインキットが登場",
-      "summaryJa": "Appleは、iOS、iPadOS、macOS 27用のFigmaおよびSketch用デザインキットを公開しました。これには、Liquid Glassの更新やコンポーネントの拡張、コードとの整合性を高めるための名称変更、リサイズ機能の改善、macOS用のダークモードの追加が含まれています。デザインキットはApple Design Resourcesからダウンロード可能です。"
     }
   ],
-  "updatedAt": "2026-07-28T21:05:49.362Z",
+  "updatedAt": "2026-07-28T22:17:52.995Z",
   "initialized": true,
   "summaryVersion": 4
 }
