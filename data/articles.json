@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "da9fcec7053749ceea41",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Touchscreen decision may push MacBook Ultra price even higher",
+      "url": "https://9to5mac.com/2026/07/28/touchscreen-decision-may-push-macbook-ultra-price-even-higher/",
+      "publishedAt": "2026-07-28T11:16:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/macbook-ultra-mockup-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBook Ultra、価格上昇の可能性",
+      "summaryJa": "新型MacBook Ultraは、スリムなデザインとOLED、タッチスクリーンを搭載し、高価格が予想されています。最新の報道によると、Appleはディスプレイ供給をSamsungに一本化する決定を下したため、製造コストがさらに上昇する可能性があります。LGはAppleの求める生産量に達しておらず、Samsungの8.6世代OLEDラインが選ばれた背景があります。これにより、MacBook Ultraの価格が一層高くなることが懸念されています。"
+    },
+    {
       "id": "5ab7d7f0bd6dbcf7d7ca",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4542,25 +4557,9 @@
       ],
       "titleJa": "2026年Appleデザイン賞の受賞者発表",
       "summaryJa": "Appleは2026年のAppleデザイン賞の受賞者を発表し、12の優れたアプリとゲームが選ばれました。受賞作品は、革新性や芸術性、技術的達成を示すもので、36のグローバルファイナリストから選ばれました。受賞者は、ユーザー体験を向上させるための直感的な機能やエキサイティングなゲームプレイを提供しています。"
-    },
-    {
-      "id": "9417eee5be0d0f193558",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Introducing the 2026 Apple Design Award winners",
-      "url": "https://developer.apple.com/news/?id=vbvsocwh",
-      "publishedAt": "2026-06-02T15:50:09.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/DDF74A34-A01C-4F0C-933E-11075B933F45/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "2026年Appleデザインアワード受賞者の紹介",
-      "summaryJa": "2026年のAppleデザインアワードの受賞者を祝うイベントが開催されます。受賞したアプリやゲームの詳細が発表され、開発者たちの素晴らしい成果が紹介される予定です。"
     }
   ],
-  "updatedAt": "2026-07-28T10:11:58.296Z",
+  "updatedAt": "2026-07-28T12:15:41.328Z",
   "initialized": true,
   "summaryVersion": 4
 }
