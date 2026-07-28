@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "87149115bbf10e34a882",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "5 Reasons to Buy a MacBook Air Now Instead of Waiting",
+      "url": "https://www.macrumors.com/2026/07/28/5-reasons-buy-macbook-air-now-no-waiting/",
+      "publishedAt": "2026-07-28T14:53:31.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/m5-macbook-air-orange.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "今買うべきMacBook Airの理由",
+      "summaryJa": "Appleの次期MacBook Airは数ヶ月先ですが、今が購入の良いタイミングかもしれません。現行モデルは価格が$1,299から$1,199に下がり、16GBのRAMを搭載しているため、コストパフォーマンスが非常に高いです。また、部品不足の影響で価格が上昇する可能性があるため、今のうちに購入することで次回の値上げを回避できるかもしれません。次期モデルは来年初めの発売が予想されていますが、大きな変更はない見込みです。"
+    },
+    {
+      "id": "4ec291fe528997aee042",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "'Apple Upgrade' Pricing: You Can Lease an iPhone Starting at $18/Month",
+      "url": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-pricing/",
+      "publishedAt": "2026-07-28T14:41:02.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apple-Upgrade-iPhone.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Upgradeプログラムが開始",
+      "summaryJa": "Appleが新たに「Apple Upgrade」プログラムを発表し、アメリカでiPhoneやApple Watch、iPad、Macのリースが可能になりました。このプログラムでは、月々の支払いでデバイスを利用でき、リース終了後には新しいデバイスにアップグレードするか、所有権を得ることができます。iPhoneは月$17.99からリース可能で、Apple WatchやiPad、Macのリース料金も設定されています。対象外のデバイスもあるため、詳細はAppleの公式サイトで確認できます。"
+    },
+    {
+      "id": "00913f5d0b5bce20bd7a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27’s Siri gets one thing very right that other AI assistants get wrong",
+      "url": "https://9to5mac.com/2026/07/28/ios-27s-siri-gets-one-thing-very-right-that-other-ai-assistants-get-wrong/",
+      "publishedAt": "2026-07-28T14:24:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27のSiriが進化",
+      "summaryJa": "iOS 27でのSiriは大幅なアップグレードが施され、他のAIアシスタントとは異なる点が際立っています。新しいSiriは人間のように振る舞わず、ツールとしての役割を明確にしています。これにより、ユーザーはSiriがAIであることを常に意識しながら利用でき、より実用的なアシスタントとして機能しています。競合のAIツールに比べて、Siriは過剰な人間らしさを排除し、シンプルで効果的な応答を提供しています。"
+    },
+    {
+      "id": "61340fd9f7f6c9a0012d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Best Back to School Accessory Deals on Anker, Sony, Samsung and More This Week",
+      "url": "https://www.macrumors.com/2026/07/28/sonos-sony-anker-more-school-deals/",
+      "publishedAt": "2026-07-28T14:21:52.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/samsung-sony-amazon-sale.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazonでのアクセサリーセール情報",
+      "summaryJa": "今週、Amazonで大規模なアクセサリーセールが開催されており、AnkerやSony、Samsungなどの製品が特価で販売されています。特に、SonosのヘッドフォンやSonyのノイズキャンセリングヘッドフォンが大幅に値下げされています。また、Samsungのスマートモニターやテレビもお得な価格で提供されており、特に55インチのThe Frame TVが新記録の低価格で販売されています。多様なアクセサリーがセール対象となっているため、チェックする価値があります。"
+    },
+    {
+      "id": "1de0fcb110e2e1eee438",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s how to avoid being trapped in never-ending Apple Upgrade leases",
+      "url": "https://9to5mac.com/2026/07/28/heres-how-to-avoid-being-trapped-in-never-ending-apple-upgrade-leases/",
+      "publishedAt": "2026-07-28T14:21:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Heres-how-to-avoid-being-trapped-in-never-ending-Apple-Upgrade-leases.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの新しいアップグレードプログラムのリスク",
+      "summaryJa": "Appleが新たに発表した「Apple Upgrade」リースプログラムは、月々の支払いを抑える一方で、利用者が無限のリースサイクルに陥るリスクを抱えています。このプログラムでは、契約終了時にデバイスを完全に所有することができず、最終的にバルーンペイメントを行わなければなりません。例えば、MacBook Proを36か月リースした場合、総支払額は約1,403ドルとなり、所有権を得るには追加で585ドルが必要です。"
+    },
+    {
+      "id": "65b14412ade6599b794a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Apple TV and HomePod Mini Reportedly 'Nearly Ready to Launch'",
+      "url": "https://www.macrumors.com/2026/07/28/new-apple-tv-homepod-mini-nearly-ready/",
+      "publishedAt": "2026-07-28T14:14:45.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/homepod-apple-tv-nearly-ready.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型Apple TVとHomePod mini、発売間近",
+      "summaryJa": "新型Apple TVとHomePod miniが「発売間近」との報道があり、Appleは今秋にリリースを計画している模様です。これらのデバイスは、Siri AIをサポートする高速プロセッサを搭載し、Apple TVにはA17 Proチップが搭載されるとのことです。また、HomePod miniにはS9チップが使用される見込みで、音質の向上や新色の追加も期待されています。デザインに大きな変更はないとされています。"
+    },
+    {
+      "id": "429073832a6a576ef064",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp Web rolls out audio and video calling, with call transfer support",
+      "url": "https://9to5mac.com/2026/07/28/whatsapp-web-rolls-out-audio-and-video-calling-with-call-transfer-support/",
+      "publishedAt": "2026-07-28T14:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/whatsapp-web-calls.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp Webに音声・ビデオ通話機能追加",
+      "summaryJa": "WhatsAppがWeb版に音声およびビデオ通話機能を追加し、ユーザーは個別およびグループ通話を行えるようになりました。これにより、デバイス間での通話転送や待機室機能も利用可能になり、よりスムーズな通話体験が提供されます。WhatsAppは、通話品質向上のためにQuickHD機能も改善しており、初めての数秒間で高画質のビデオを楽しめるようになっています。"
+    },
+    {
+      "id": "7b6d9b7e100a12606c42",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Granola meeting notepad comes to watchOS as Apple Watch becomes an AI device",
+      "url": "https://9to5mac.com/2026/07/28/granola-meeting-notepad-comes-to-watchos-as-apple-watch-becomes-an-ai-device/",
+      "publishedAt": "2026-07-28T14:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Granola-Apple-Watch.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch向けのAIノートアプリ「Granola」登場",
+      "summaryJa": "AI搭載の会議ノートアプリ「Granola」がApple Watchに対応しました。このアプリは、コンピュータから離れた会話の記録を目的としており、簡単なタップでノートを開始できます。Granolaは、ZoomやGoogle Meetなどの音声をキャプチャし、ユーザーが入力した内容と統合してノートを作成します。Apple Watchの登場により、ユーザーはより手軽にノートを取ることができ、AI機能の活用が進んでいます。"
+    },
+    {
+      "id": "3ded0e69c385b4a41f3b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple has three new smart home products ‘nearly ready to launch,’ per report",
+      "url": "https://9to5mac.com/2026/07/28/apple-has-three-new-smart-home-products-nearly-ready-to-launch-per-report/",
+      "publishedAt": "2026-07-28T13:46:59.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/homepod-siri-ai-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、スマートホーム製品を発表か",
+      "summaryJa": "Appleが新たなスマートホーム製品を発表する準備を進めているとの報道があります。Bloombergによると、Appleは新型Apple TVとHomePod miniのアップデート版を今秋にも発売予定で、これらは現行モデルに似たデザインながら、より高速なチップを搭載しています。また、注目のスマートホームハブも開発中で、10月から来年初頭にかけて登場する見込みです。新しいハブは7インチのディスプレイを持ち、Siri AIを中心に設計されているとのことです。"
+    },
+    {
+      "id": "c3a6fa4ca91e65dc84f4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Just Became a $5 Trillion Company",
+      "url": "https://www.macrumors.com/2026/07/28/apple-just-became-a-5-trillion-company/",
+      "publishedAt": "2026-07-28T13:39:52.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/04/Stocks-App-Icon-and-Apple-Logo-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、時価総額5兆ドルを達成",
+      "summaryJa": "Appleが一時的に時価総額5兆ドルを超え、世界で2番目の企業としてこの大台に到達しました。株価が340ドルを超えたことで、Appleの市場価値は初めて5兆ドルを突破しました。これにより、Appleは再び世界で最も価値のある公開企業となり、Nvidiaを上回りました。"
+    },
+    {
+      "id": "fab5f1bf9574a5c86cec",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple just hit $5 trillion market cap for first time",
+      "url": "https://9to5mac.com/2026/07/28/apple-just-hit-5-trillion-market-cap-for-first-time/",
+      "publishedAt": "2026-07-28T13:37:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/tim-cook-apple-park-rainbow-night-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、初の5兆ドル市場価値を記録",
+      "summaryJa": "Appleが火曜日の取引中に初めて時価総額5兆ドルを超えました。これは公開企業としては2社目の快挙で、AppleはNvidiaに続いてこの記録を達成しました。市場価値は株価と発行済み株式数の積で計算され、Appleは過去に1兆ドル、2兆ドル、3兆ドル、4兆ドルを達成した実績があります。"
+    },
+    {
+      "id": "7eeb5f34b2fab282c9ca",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple unveils Ted Lasso season 4 trailer, series returns next week",
+      "url": "https://9to5mac.com/2026/07/28/apple-unveils-ted-lasso-season-4-trailer-series-returns-next-week/",
+      "publishedAt": "2026-07-28T13:35:40.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ted-lasso-s4-key-art-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVで『テッド・ラッソ』シーズン4予告公開",
+      "summaryJa": "Apple TVで人気コメディ『テッド・ラッソ』のシーズン4が来週放送されることが発表され、公式予告が公開されました。新シーズンでは、AFCリッチモンドの男子チームから新たに結成された女子チームに焦点が移ります。予告編では、懐かしいキャラクターたちが登場し、感情を揺さぶる音楽が流れています。シーズン4は8月5日に配信開始されます。"
+    },
+    {
       "id": "da9fcec7053749ceea41",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4371,195 +4551,9 @@
       ],
       "titleJa": "Apple、子供向け安全機能を発表",
       "summaryJa": "Appleは新たな子供向け安全機能を発表しました。この機能により、親は子供のコンテンツ、コミュニケーション、デバイスの使用時間をより簡単に管理できるようになります。秋に予定されているソフトウェアアップデートでは、簡単な設定体験や新しいアプリの推奨、閲覧許可、時間制限、再設計されたスクリーンタイムなどが含まれます。これにより、Appleは業界をリードする親の管理機能をさらに強化し、子供たちの安全なデジタル体験を提供することを目指しています。"
-    },
-    {
-      "id": "67c0df076bbca4b9272d",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27",
-      "url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
-      "publishedAt": "2026-06-08T18:13:26.639Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "EUでSiri AIの提供が遅延",
-      "summaryJa": "Appleは、デジタル市場法（DMA）の影響で、iOS 27およびiPadOS 27におけるSiri AIの提供をEUで行えないことを発表しました。新しいSiri AIはmacOS 27およびvisionOS 27では利用可能ですが、iPhoneやiPadでは利用できません。AppleはEUの規制当局との対話を続け、将来的にSiri AIをEUに導入することを目指していますが、現時点では具体的なタイムラインは示されていません。"
-    },
-    {
-      "id": "29de6ec144d5dd3901f5",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple expands App Store capabilities to help developers grow and reach new users",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-expands-app-store-capabilities-to-help-developers-grow-and-reach-new-users/",
-      "publishedAt": "2026-06-08T18:13:03.084Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、App Store機能を拡充",
-      "summaryJa": "Appleは、開発者がアプリを効果的にマーケティングし、新しいユーザーを獲得できるようにApp Storeの機能を拡充すると発表しました。新機能には、アプリのプロモーションに使えるクリエイティブアセットや、カスタム商品ページの最適化が含まれます。これにより、開発者はアプリの魅力を高め、ユーザーの発見を促進することが期待されています。Appleは引き続き開発者の成功を支援するための投資を行っていく方針です。"
-    },
-    {
-      "id": "b8a5efff77eb6966c413",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "「Mini Football Legends」「Family Feud Pocket」のほか、7つのヒット作がApple Arcadeに登場",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/mini-football-legends-family-feud-pocket-and-seven-more-hits-join-apple-arcade/",
-      "publishedAt": "2026-06-05T09:29:48.783Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple Arcadeに新作ゲーム9本登場",
-      "summaryJa": "Apple Arcadeに新たに9本のゲームが追加され、プレイヤーは「Mini Football Legends」や「Family Feud Pocket」などを楽しむことができます。これにより、200以上のゲームが提供されるApple Arcadeのカタログがさらに充実します。新作は広告やアプリ内課金なしでプレイ可能で、特に「Family Feud Pocket」は人気のクイズ番組を再現した内容となっています。"
-    },
-    {
-      "id": "8482607d4eab45cdc07b",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "AppleとMajor League Baseball、「フライデーナイト ベースボール」の7月のスケジュールを発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-and-major-league-baseball-announce-july-friday-night-baseball-schedule/",
-      "publishedAt": "2026-06-04T16:01:05.893Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "AppleとMLB、7月の試合スケジュール発表",
-      "summaryJa": "Appleとメジャーリーグベースボール（MLB）は、Apple TVで配信される「フライデーナイト ベースボール」の7月の試合スケジュールを発表しました。毎週金曜日に注目の試合が放送され、特にボストン・レッドソックス対ニューヨーク・メッツの試合などが含まれています。視聴者は、専門家による解説とともに、地域の制約を超えて試合を楽しむことができます。"
-    },
-    {
-      "id": "d2b68ab338b98132530d",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple and Major League Baseball announce July “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-and-major-league-baseball-announce-july-friday-night-baseball-schedule/",
-      "publishedAt": "2026-06-04T15:59:08.921Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、7月の「Friday Night Baseball」スケジュール発表",
-      "summaryJa": "Appleとメジャーリーグベースボール（MLB）は、7月の「Friday Night Baseball」スケジュールを発表しました。毎週金曜日にApple TVで配信されるこのダブルヘッダーは、60カ国以上で視聴可能です。7月のスケジュールには、ボストン・レッドソックス対ニューヨーク・メッツなどの注目の試合が含まれ、MLBファンにとって魅力的な内容となっています。特定の条件を満たすファンは、Apple TVの1ヶ月間の無料トライアルを利用できるキャンペーンも実施中です。"
-    },
-    {
-      "id": "1ebf7be32d59e1bd92a6",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Mini Football Legends, Family Feud Pocket, and seven more hits join Apple Arcade",
-      "url": "https://www.apple.com/newsroom/2026/06/mini-football-legends-family-feud-pocket-and-seven-more-hits-join-apple-arcade/",
-      "publishedAt": "2026-06-04T13:59:28.283Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple Arcadeに新作9タイトルが追加",
-      "summaryJa": "Apple Arcadeに新たに9つのゲームが追加され、特に『Mini Football Legends』や『Family Feud Pocket』が注目されています。これにより、プレイヤーはサッカーやクイズゲームを楽しむことができ、さらに『My Talking Tom 2+』や『Coffee Inc 2+』なども登場します。これらのゲームは、広告やアプリ内購入なしで楽しめるのが特徴です。"
-    },
-    {
-      "id": "5bebab6bd00205b82f32",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "App Storeのエコシステムが1.4兆ドル規模に到達、世界中のデベロッパが引き続き躍進",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/app-store-ecosystem-reaches-1-point-4-trillion-usd-as-developers-thrive-globally/",
-      "publishedAt": "2026-06-04T13:03:37.281Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "App Storeエコシステムが1.4兆ドルに",
-      "summaryJa": "Appleは、2025年に世界のApp Storeエコシステムが1.4兆ドルを超える売上を達成したと発表しました。この成長は、特にAIを搭載したアプリの売上が4倍に増加したことが寄与しています。App Storeは、デベロッパーにとって安全で最適なプラットフォームであり、90%以上の売上が手数料なしで発生しています。Appleは引き続きデベロッパーを支援し、ユーザーの生活を豊かにするアプリの開発を促進しています。"
-    },
-    {
-      "id": "bbf53dd8404f1ec17c11",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "App Store ecosystem reaches $1.4 trillion as developers thrive globally",
-      "url": "https://www.apple.com/newsroom/2026/06/app-store-ecosystem-reaches-1-point-4-trillion-usd-as-developers-thrive-globally/",
-      "publishedAt": "2026-06-04T13:00:48.679Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "App Storeエコシステムが1.4兆ドルに到達",
-      "summaryJa": "Appleは、2025年にApp Storeエコシステムが開発者の売上や請求額で1.4兆ドルを超えたと発表しました。この成長は、特に消費者向けAIを搭載したアプリが大きく貢献しており、売上が4倍に増加しています。App Storeは、開発者にとって安全で信頼性の高いプラットフォームとして機能し続けています。"
-    },
-    {
-      "id": "c84c89fa20ce32116f4c",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Update for Apps Distributed in Texas",
-      "url": "https://developer.apple.com/news/?id=sg176nne",
-      "publishedAt": "2026-06-03T17:00:22.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "テキサス州で配布されるアプリの更新",
-      "summaryJa": "最近の裁判所の判決により、テキサス州の新しい法律SB 2420が適用され、新しいAppleアカウントは年齢確認要件の対象となります。これにより、18歳未満の未成年者がアプリをダウンロードする際には、親または保護者の同意が必要になります。この変更は2026年6月4日から施行され、開発者は年齢カテゴリーデータを取得するためのAPIを利用することが求められます。"
-    },
-    {
-      "id": "9fb350bae1602b71d884",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Apple Developer Centers are expanding to Berlin",
-      "url": "https://developer.apple.com/news/?id=f0jfy9py",
-      "publishedAt": "2026-06-03T12:00:13.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/D3C42DD9-F0C7-46CC-B1DB-2773F6889DBB/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple Developerセンターがベルリンに拡大",
-      "summaryJa": "Appleは、ベルリンに新たなDeveloper Centerを開設することを発表しました。このセンターは、開発者向けの対面セッションやワークショップを提供し、欧州の開発者にAppleの専門家やイベントへのアクセスを向上させることを目的としています。既存のセンターはクパチーノ、上海、バンガロール、シンガポールにあり、ベルリンは5番目の拠点となります。"
-    },
-    {
-      "id": "ec671bcf890614bccf76",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、2026年Apple Design Awardsの受賞者を発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-reveals-winners-of-the-2026-apple-design-awards/",
-      "publishedAt": "2026-06-02T17:07:01.810Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "2026年Apple Design Awards受賞者発表",
-      "summaryJa": "Appleは2026年のApple Design Awardsの受賞者を発表し、12の優れたアプリとゲームが選ばれました。受賞作品は、イノベーションや芸術性を示し、ユーザーに比類のない体験を提供しています。受賞者はWWDC26で表彰され、各カテゴリーでの受賞作が紹介されました。Appleは、デベロッパーの努力を称え、彼らが提供する体験がいかに素晴らしいものであるかを強調しています。"
-    },
-    {
-      "id": "f9af878244fcb6ece0c2",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple reveals winners of the 2026 Apple Design Awards",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-reveals-winners-of-the-2026-apple-design-awards/",
-      "publishedAt": "2026-06-02T17:00:46.240Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "2026年Appleデザイン賞の受賞者発表",
-      "summaryJa": "Appleは2026年のAppleデザイン賞の受賞者を発表し、12の優れたアプリとゲームが選ばれました。受賞作品は、革新性や芸術性、技術的達成を示すもので、36のグローバルファイナリストから選ばれました。受賞者は、ユーザー体験を向上させるための直感的な機能やエキサイティングなゲームプレイを提供しています。"
     }
   ],
-  "updatedAt": "2026-07-28T12:15:41.328Z",
+  "updatedAt": "2026-07-28T14:56:34.180Z",
   "initialized": true,
   "summaryVersion": 4
 }
