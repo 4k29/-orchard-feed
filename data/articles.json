@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "c9011bb5fe59ec5955ca",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "OpenAI's First Devices: Speaker, Smartphone, and More",
+      "url": "https://www.macrumors.com/2026/07/28/openai-first-devices/",
+      "publishedAt": "2026-07-29T01:00:10.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/05/OpenAI-Smartphone-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "OpenAI、初のスマートスピーカーを発表",
+      "summaryJa": "OpenAIが初のハードウェアとして、画面のないポータブルスマートスピーカーを発表しました。このデバイスは、元Appleデザイン責任者のジョニー・アイブと共同開発され、家庭内での個人的なコンパニオンとして機能します。2027年初頭に200〜300ドルで発売予定で、AIを活用してスマートホームの制御やメディア再生を行うことができます。さらに、OpenAIはAIスマートフォンの開発も進めており、来年の発売が期待されています。"
+    },
+    {
+      "id": "108902281324f783e06f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 26.6: Everything you need to know",
+      "url": "https://9to5mac.com/2026/07/28/ios-26-6-new-features-release-date-more/",
+      "publishedAt": "2026-07-28T23:37:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26.6-guide.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 26.6がリリース、重要な最適化を含む",
+      "summaryJa": "iOS 26.6がiPhoneユーザー向けにリリースされました。このアップデートは、主にiOS 27に向けたSpotlightインデックスの最適化を行い、今後のアップデートをスムーズにすることを目的としています。新機能は少ないものの、セキュリティ修正やバグ修正が含まれており、連絡先のブロックに関する新しいアラートも追加されています。iOS 27は秋にリリース予定です。"
+    },
+    {
       "id": "a226f67a9ca1c82117e0",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4500,41 +4530,9 @@
       ],
       "titleJa": "iOS 26.5.2がリリース",
       "summaryJa": "AppleはiOS 26.5.2をリリースしました。詳細なダウンロード情報は開発者向けのページで確認できます。"
-    },
-    {
-      "id": "10b821ba975dc95530ca",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "iPadOS 26.5.2 (23F84)",
-      "url": "https://developer.apple.com/news/releases/?id=06292026b",
-      "publishedAt": "2026-06-29T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "iPadOS 26.5.2がリリース",
-      "summaryJa": "AppleはiPadOS 26.5.2をリリースしました。詳細なダウンロード情報は開発者向けのページで確認できます。"
-    },
-    {
-      "id": "356c0daa1a3cc3588980",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "macOS 26.5.2 (25F84)",
-      "url": "https://developer.apple.com/news/releases/?id=06292026c",
-      "publishedAt": "2026-06-29T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "macOS 26.5.2がリリース",
-      "summaryJa": "AppleがmacOS 26.5.2をリリースしました。詳細なダウンロード情報はApple Developerのサイトで確認できます。"
     }
   ],
-  "updatedAt": "2026-07-28T23:28:17.033Z",
+  "updatedAt": "2026-07-29T01:03:37.580Z",
   "initialized": true,
   "summaryVersion": 4
 }
