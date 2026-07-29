@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d49e68d21b598fd037f4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases Safari Technology Preview 249 With Bug Fixes and Performance Improvements",
+      "url": "https://www.macrumors.com/2026/07/29/apple-releases-safari-technology-preview-249/",
+      "publishedAt": "2026-07-29T22:03:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Safari Technology Preview 249が公開",
+      "summaryJa": "Appleは、実験的なブラウザ「Safari Technology Preview」の新しいアップデート249をリリースしました。このアップデートには、アクセシビリティ、アニメーション、CSS、JavaScriptなどのバグ修正やパフォーマンス向上が含まれています。最新のmacOSに対応しており、Appleのウェブサイトからダウンロードしたユーザーは、システム設定を通じてアップデートを受け取ることができます。"
+    },
+    {
+      "id": "ba28f27ea96926f3a562",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple pushes back against UK proposal to loosen App Store payment rules",
+      "url": "https://9to5mac.com/2026/07/29/apple-pushes-back-against-uk-proposal-to-loosen-app-store-payment-rules/",
+      "publishedAt": "2026-07-29T21:43:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/01/Apple-faces-1.8B-lawsuit-claiming-UK-App-Store-users-were-overcharged.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、英国のApp Store規制案に反対",
+      "summaryJa": "Appleは、英国の競争市場庁が提案したApp Store手数料に関する新しい規制案に対し、価格規制にあたると反発しています。この規制案は、アプリ開発者が代替の支払いオプションにリンクできるようにするもので、Appleはこれがイノベーションや投資を損なうと警告しています。Appleは、提案された規制が競争を促進する以上のものであり、ビジネス管理において過度に干渉するものだと主張しています。"
+    },
+    {
       "id": "67bf10c96e835691936b",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4478,40 +4508,9 @@
       ],
       "titleJa": "iOS 27 Beta 4の新機能",
       "summaryJa": "AppleがiOS 27の開発者向けベータ版4をリリースしました。新機能として、Apple TVアプリに自動ダウンロード機能が追加され、設定で次の2エピソードを自動的にダウンロード可能に。写真設定に「ズームしてフィル」オプションが追加され、Siriの音声選択インターフェースも変更されました。これらの変更は、正式リリースに向けた調整の一環です。"
-    },
-    {
-      "id": "394742808a6e53431369",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 Launching in September With These New Features",
-      "url": "https://www.macrumors.com/2026/07/20/apple-watch-series-12-rumored-features/",
-      "publishedAt": "2026-07-20T20:00:38.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Apple-Watch-Series-10-Jet-Black-Touch-ID.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Series 12、9月に新機能で登場か",
-      "summaryJa": "Apple Watch Series 12が9月に発売予定で、新機能の噂が浮上しています。新しいチップの搭載や、バッテリー寿命の延長が期待されています。一方で、Touch IDの搭載については不確実性があり、信頼できる情報源からの確認は得られていません。新しいバンドに健康センサーが搭載される可能性も報じられています。"
-    },
-    {
-      "id": "1642175742260e699f44",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Xcode 27 beta 4 (27A5228h)",
-      "url": "https://developer.apple.com/news/releases/?id=07202026m",
-      "publishedAt": "2026-07-20T20:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Xcode 27 Beta 4が公開",
-      "summaryJa": "AppleがXcode 27のベータ版4を公開しました。詳細なリリースノートやダウンロードが可能です。"
     }
   ],
-  "updatedAt": "2026-07-29T21:10:11.207Z",
+  "updatedAt": "2026-07-29T22:14:07.895Z",
   "initialized": true,
   "summaryVersion": 4
 }
