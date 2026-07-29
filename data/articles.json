@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "03812be5506fe8798afa",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Best Buy's Back to School Sale Brings Big Savings on AirPods, MacBooks, Headphones, and More",
+      "url": "https://www.macrumors.com/2026/07/29/best-buys-school-sale/",
+      "publishedAt": "2026-07-29T14:32:54.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Back-To-School-Deals-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Best Buy、学期開始セールでApple製品割引",
+      "summaryJa": "Best Buyが学期開始シーズンに合わせてセールを開催中で、AirPodsやMacBookなどのApple製品が大幅に割引されています。AirPods Max 2は449ドル（100ドルオフ）、M5 Proの14インチMacBook Proは2299ドルから（200ドルオフ）で購入可能です。このセールは今週末まで続き、会員登録なしで利用できます。"
+    },
+    {
+      "id": "a8246d3c1eae0a9d0649",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Upgrade: Is Leasing Your Next iPhone Worth It?",
+      "url": "https://www.macrumors.com/2026/07/29/is-apple-upgrade-program-worth-it/",
+      "publishedAt": "2026-07-29T14:29:37.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apple-Upgrade-Is-It-Worth-It.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleの新しいiPhoneリースプログラムの価値は？",
+      "summaryJa": "Appleの新しいリースプログラムでは、iPhoneを月額45.99ドルでリース可能ですが、総コストは551.88ドルとなり、初期購入の1099ドルよりも安くなります。ただし、リース終了後はiPhoneを返却する必要があり、再販できないため、長期的なコストを考慮する必要があります。選択肢には、返却、アップグレード、または購入があります。"
+    },
+    {
+      "id": "62de373355a4efe36bca",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 adds three new iPhone features you’ll use all the time",
+      "url": "https://9to5mac.com/2026/07/29/ios-27-adds-three-new-iphone-features-youll-use-all-the-time/",
+      "publishedAt": "2026-07-29T14:07:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-iphone-side-angle-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27、日常で使える新機能を追加",
+      "summaryJa": "iOS 27が今秋に登場し、SiriのAI機能が大幅に強化され、より多くのアクションが可能になります。また、文法チェック機能が追加され、誤字だけでなく文法の提案も行います。さらに、SpotlightやPhotos、Mailの検索機能も改善され、ユーザーにとって便利なアップデートとなるでしょう。"
+    },
+    {
+      "id": "68ec6ff66d7ee539f6c0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone driver’s license looks set to roll out to a 15th US state",
+      "url": "https://9to5mac.com/2026/07/29/iphone-drivers-license-looks-set-to-roll-out-to-a-15th-us-state/",
+      "publishedAt": "2026-07-29T13:52:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iPhone-driving-license-looks-set-to-roll-out-to-a-15th-US-state.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhoneに運転免許証を追加できる州が増加中",
+      "summaryJa": "iPhoneにデジタル運転免許証を追加できる州が15番目に増える見込みです。現在、14州でこの機能がサポートされており、Oklahoma州が新たに加わると報じられています。この機能により、物理的な身分証明書を持ち歩かずに済む可能性が高まりますが、完全な代替にはならないため、注意が必要です。"
+    },
+    {
+      "id": "9143f65a956e321b0b41",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Driver's Licenses May Soon Expand to Another US State",
+      "url": "https://www.macrumors.com/2026/07/29/iphone-drivers-license-another-state-soon/",
+      "publishedAt": "2026-07-29T13:15:09.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/04/apple-wallet-drivers-license-feature-iPhone-15-pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Wallet、オクラホマ州で運転免許証対応か",
+      "summaryJa": "Apple Walletにオクラホマ州の運転免許証やIDが追加される可能性があります。AppleのバックエンドでオクラホマIDの兆候が発見され、2026年3月に州のデジタルID発行を許可する法案が通過しました。これにより、物理的な免許証を保持しつつ、デジタル版を「補完オプション」として利用できるようになります。Apple Walletの運転免許証対応を計画している他の州には、コネチカット州、ケンタッキー州、ミシシッピ州、ユタ州、バージニア州などがあります。"
+    },
+    {
       "id": "14bebfbfd825bbc0e446",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4449,87 +4524,9 @@
       ],
       "titleJa": "Madden NFL 27 Arcade Edition、Apple Arcadeに登場",
       "summaryJa": "EA SPORTSのMadden NFL 27 Arcade Editionが、8月6日にApple Arcadeに登場します。この新作は、現行のNFLチームを用いたリアルなシミュレーションゲームで、プレイヤーはシーズンベースの体験を楽しむことができます。Apple Arcadeは、NFL Retro BowlやNBA 2Kなどの人気スポーツゲームを含む充実したラインアップを提供し、様々なファンに対応しています。"
-    },
-    {
-      "id": "89e67b832517f8160f35",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、エミー賞で記録的な89のノミネートを獲得",
-      "url": "https://www.apple.com/jp/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
-      "publishedAt": "2026-07-10T11:05:30.821Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、エミー賞で89のノミネート獲得",
-      "summaryJa": "Appleは第78回プライムタイム・エミー賞で、15作品から89のノミネートを獲得し、過去最高の記録を樹立しました。特にコメディ「ウィドウズ・ベイ」が19ノミネート、ドラマ「プルリブス」が18ノミネートを記録しています。受賞者は9月14日に発表される予定で、Appleのオリジナル作品が再び注目を集めています。"
-    },
-    {
-      "id": "be6e662d05e0588b357a",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Age rating questionnaire now includes social media questions",
-      "url": "https://developer.apple.com/news/?id=tlur8uvi",
-      "publishedAt": "2026-07-09T22:00:01.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "年齢評価アンケートにソーシャルメディアに関する質問が追加",
-      "summaryJa": "iOS 27、iPadOS 27、macOS 27以降の新しい時間制限機能により、親は子供のアプリ使用時間を柔軟に管理できるようになります。これに伴い、App Store Connectの年齢評価アンケートにソーシャルメディア機能に関する質問が追加されました。アプリがソーシャルメディア機能を持つ場合、App Storeの製品ページに新しいコンテンツ記述子が表示されます。2026年9月からは、新しいアプリやアップデートの提出時にこの質問への回答が必須となります。"
-    },
-    {
-      "id": "bfec6030fc63cc2e7e6e",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "AppleとMajor League Baseball、「フライデーナイト ベースボール」の8月のスケジュールを発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "publishedAt": "2026-07-09T16:00:18.580Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "「フライデーナイト ベースボール」8月のスケジュール発表",
-      "summaryJa": "AppleとMLBは、Apple TVで毎週金曜日に放送される「フライデーナイト ベースボール」の8月のスケジュールを発表しました。注目の試合として、8月14日にカージナルス対カブス、8月29日にヤンキース対レッドソックスが予定されています。視聴者は、地域の放送制約を超えて、質の高い試合を楽しむことができます。"
-    },
-    {
-      "id": "e50f20d1842e5c5a5a01",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
-      "publishedAt": "2026-07-09T15:59:17.613Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、MLBの8月「Friday Night Baseball」スケジュール発表",
-      "summaryJa": "Appleとメジャーリーグベースボール（MLB）は、8月の「Friday Night Baseball」スケジュールを発表しました。毎週金曜日にApple TVで配信されるこのダブルヘッダーでは、60か国以上のサブスクライバーが注目の試合を楽しめます。8月の注目試合には、セントルイス・カーディナルス対シカゴ・カブスやニューヨーク・ヤンキース対ボストン・レッドソックスなどが含まれ、特別な制作品質と専門的な解説が提供されます。"
-    },
-    {
-      "id": "e8c4514a269fdb14ca5f",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple scores record 89 Emmy Award nominations",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
-      "publishedAt": "2026-07-09T00:42:00.573Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、エミー賞で89ノミネートの快挙",
-      "summaryJa": "Appleは、第78回プライムタイムエミー賞で歴史的な89ノミネートを獲得しました。特にコメディ「Widow’s Bay」が19ノミネート、ドラマ「Pluribus」が18ノミネートされ、主要なドラマとコメディ部門で最も多くのノミネートを誇ります。Appleは、FoundationやThe Morning Showなど、15のオリジナル作品でもノミネートを受けており、エミー賞での成功が続いています。"
     }
   ],
-  "updatedAt": "2026-07-29T12:22:19.009Z",
+  "updatedAt": "2026-07-29T14:39:39.457Z",
   "initialized": true,
   "summaryVersion": 4
 }
