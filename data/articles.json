@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "fc288f14ba8a6f384c07",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Here Are All the Changes to AppleCare+ This Month",
+      "url": "https://www.macrumors.com/2026/07/29/applecare-changes-made-this-month/",
+      "publishedAt": "2026-07-29T19:32:45.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/AppleCare-Bright-Red.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AppleCare+の変更点をまとめて紹介",
+      "summaryJa": "7月はAppleCare+に関する重要な変更がありました。アメリカでは、MacとiPad向けの月額および年額プランがそれぞれ0.50ドルと5ドル値上げされました。また、カナダと日本でもAppleCare+の対象製品が拡大し、iPadとApple Watch向けの盗難・紛失プランが日本を含む5カ国で利用可能になりました。さらに、AppleCare Oneがオーストラリア、フランス、ドイツ、イギリスでも提供開始され、複数デバイスを一つのプランでカバーできるようになります。"
+    },
+    {
+      "id": "7709e892092f2ad51ac8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Runna now automatically adapts training paces based on heat and humidity",
+      "url": "https://9to5mac.com/2026/07/29/runna-now-automatically-adapts-training-paces-based-on-heat-and-humidity/",
+      "publishedAt": "2026-07-29T19:28:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/runna-heat.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Runnaが気温に応じたトレーニング機能を追加",
+      "summaryJa": "Runnaは新機能「Adapt for Heat」を発表し、気温や湿度に基づいてトレーニングペースを自動調整します。この機能により、ユーザーは快適なランニング時間を見つけやすくなり、トレーニングの安全性が向上します。また、レース後の回復プラン機能も再導入され、長期的なトレーニング計画を簡単に管理できる新機能も8月に登場予定です。"
+    },
+    {
+      "id": "6b7edaf512a724c0a8c1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Galaxy Z Fold8 Review: What Samsung's New Foldable Tells Us About the iPhone Ultra",
+      "url": "https://www.macrumors.com/2026/07/29/galaxy-z-fold8-review/",
+      "publishedAt": "2026-07-29T19:13:46.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Galaxy Z Fold8がiPhone Ultraの参考に",
+      "summaryJa": "Samsungが新しい折りたたみスマートフォンGalaxy Z Fold8を発表し、そのデザインが今後のiPhone Ultraに影響を与える可能性があります。Z Fold8は広い4:3のディスプレイを持ち、アプリの同時使用や動画視聴に適しています。Appleはアプリの自動リサイズ機能を開発中で、ソフトウェア面での優位性が期待されています。カメラ性能については、iPhone Ultraも同様の制約があると見られています。"
+    },
+    {
+      "id": "50f262188723f2d9bb7d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Support for school cellphone bans reaches new high, where do you stand?",
+      "url": "https://9to5mac.com/2026/07/29/school-phone-ban-survey/",
+      "publishedAt": "2026-07-29T18:59:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iPhone-17e-8.jpg?quality=82&#038;strip=all&#038;w=1501",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "学校での携帯電話禁止支持が増加",
+      "summaryJa": "新学期が始まる中、アメリカでは学生の携帯電話使用禁止に対する支持が高まっています。最近の調査によると、77%の成人が中高生の授業中の携帯電話使用を禁止することに賛成しており、これは2024年の68%から増加しています。全日禁止に賛成する意見も増えており、教育現場でのスマートフォン使用に対する規制が強化される可能性があります。"
+    },
+    {
       "id": "0e7f7d91d338fa5b35c3",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4451,73 +4511,9 @@
       ],
       "titleJa": "Apple、macOS Golden Gateベータ4をリリース",
       "summaryJa": "Appleは、macOS Golden Gateの第4ベータ版を開発者向けに提供しました。このアップデートは、デザインの改善や新しいSiri AI機能を含んでおり、ユーザーの個人データを活用して質問に答えることができます。また、AIによる写真編集ツールやSafariのタブ整理機能も追加されています。開発者は、システム設定からベータ版をダウンロードできます。"
-    },
-    {
-      "id": "7c066fd6f4e169764373",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "iOS 27.0 beta 4 (24A5390f)",
-      "url": "https://developer.apple.com/news/releases/?id=07202026g",
-      "publishedAt": "2026-07-20T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "iOS 27.0 beta 4が公開",
-      "summaryJa": "AppleはiOS 27.0のベータ版4をリリースしました。詳細なリリースノートやダウンロードリンクが提供されています。開発者向けの新機能や修正点が含まれている可能性があります。"
-    },
-    {
-      "id": "f60609fcb425b9a780cd",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "iPadOS 27.0 beta 4 (24A5390f)",
-      "url": "https://developer.apple.com/news/releases/?id=07202026h",
-      "publishedAt": "2026-07-20T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "iPadOS 27.0ベータ4が登場",
-      "summaryJa": "AppleはiPadOS 27.0のベータ版4をリリースしました。詳細なリリースノートやダウンロードリンクが提供されています。開発者向けの新機能や改善点が含まれている可能性があります。"
-    },
-    {
-      "id": "06d5f8e049dcb026f35d",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "macOS 27.0 beta 4 (26A5388g)",
-      "url": "https://developer.apple.com/news/releases/?id=07202026i",
-      "publishedAt": "2026-07-20T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "macOS 27.0ベータ4が公開",
-      "summaryJa": "AppleはmacOS 27.0のベータ版4をリリースしました。詳細なリリースノートやダウンロードリンクが提供されています。新機能や改善点については、公式のリリースノートを参照することが推奨されます。"
-    },
-    {
-      "id": "b4ca14174f72227f2909",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "tvOS 27.0 beta 4 (24J5325d)",
-      "url": "https://developer.apple.com/news/releases/?id=07202026j",
-      "publishedAt": "2026-07-20T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "tvOS 27.0ベータ4が登場",
-      "summaryJa": "AppleはtvOS 27.0のベータ版4（ビルド24J5325d）を公開しました。開発者向けにダウンロードとリリースノートが提供されています。"
     }
   ],
-  "updatedAt": "2026-07-29T18:42:30.870Z",
+  "updatedAt": "2026-07-29T20:03:41.074Z",
   "initialized": true,
   "summaryVersion": 4
 }
