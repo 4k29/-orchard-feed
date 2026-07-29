@@ -4516,23 +4516,23 @@
       "summaryJa": "AppleはApple Creator Studioの新しいアップデートを発表しました。このアップデートにより、Final Cut Pro、Keynote、Pages、Numbersとの新しい統合が実現し、AI機能が強化されます。ユーザーは画像のカスタマイズや、Logic Proでの新しいプロジェクト作成が可能になります。Final Cut Proには新しいAIツールが追加され、クリエイティブなワークフローがさらに向上します。"
     },
     {
-      "id": "1aa97d9b043b410bd4c7",
+      "id": "10b821ba975dc95530ca",
       "source": "Apple Developer",
       "sourceId": "apple-developer",
       "category": "developer",
-      "titleOriginal": "iOS 26.5.2 (23F84)",
-      "url": "https://developer.apple.com/news/releases/?id=06292026a",
+      "titleOriginal": "iPadOS 26.5.2 (23F84)",
+      "url": "https://developer.apple.com/news/releases/?id=06292026b",
       "publishedAt": "2026-06-29T17:00:00.000Z",
       "imageUrl": null,
       "tags": [
         "Developer",
         "公式"
       ],
-      "titleJa": "iOS 26.5.2がリリース",
-      "summaryJa": "AppleはiOS 26.5.2をリリースしました。詳細なダウンロード情報は開発者向けのページで確認できます。"
+      "titleJa": "iPadOS 26.5.2が公開",
+      "summaryJa": "AppleがiPadOS 26.5.2 (23F84)を公開しました。詳細な変更点や新機能については、公式サイトでの確認が必要です。ダウンロードはAppleの開発者向けページから可能です。"
     }
   ],
-  "updatedAt": "2026-07-29T01:03:37.580Z",
+  "updatedAt": "2026-07-29T04:26:34.648Z",
   "initialized": true,
   "summaryVersion": 4
 }
