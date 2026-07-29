@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "14bebfbfd825bbc0e446",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Online scams cost Americans almost $150B last year – 7x more than reported",
+      "url": "https://9to5mac.com/2026/07/29/online-scams-cost-americans-almost-150b-last-year-7x-more-than-reported/",
+      "publishedAt": "2026-07-29T12:21:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Online-scams-cost-Americans-almost-150B-last-year-–-7x-more-than-reported.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "オンライン詐欺、米国で1500億ドルの損失",
+      "summaryJa": "アメリカ消費者連盟（CFA）の推計によると、昨年のオンライン詐欺による損失は約1500億ドルに達し、FBIに報告された額の7倍に上るとされています。特に暗号通貨関連の詐欺が多く、被害者の多くは警察に報告しないため、実際の損失はさらに大きい可能性があります。AI技術の進化により、詐欺手法も巧妙化しており、特に家族を装ったディープフェイクが使われることが増えています。"
+    },
+    {
+      "id": "0c0e7b3b32623f72a188",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "HBO Max Shorts being tested on iPhone users in latest vertical video offensive",
+      "url": "https://9to5mac.com/2026/07/29/hbo-max-shorts-being-tested-on-iphone-users-in-latest-vertical-video-offensive/",
+      "publishedAt": "2026-07-29T11:39:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/HBO-Max-Shorts-being-tested-on-iPhone-users-in-latest-vertical-video-offensive.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "HBO Max Shorts、iPhoneユーザー向けにテスト中",
+      "summaryJa": "ワーナー・ブラザースが、選ばれたアメリカのiPhoneユーザー向けに新しい動画フォーマット「HBO Max Shorts」のテストを開始しました。この短編動画はAIツールによって選ばれ、ユーザーの視聴履歴に基づいてカスタマイズされます。動画は縦型で、HBO Maxのライブラリから印象的なシーンを強調し、視聴者がすぐに視聴を開始できるように設計されています。今後、他のデバイスや市場にも展開される見込みです。"
+    },
+    {
+      "id": "00ccf797e7c4e1d7a6b4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Prototype smart ring cracks the holy grail of non-invasive blood sugar measurement",
+      "url": "https://9to5mac.com/2026/07/29/prototype-smart-ring-cracks-the-holy-grail-of-non-invasive-blood-sugar-measurement/",
+      "publishedAt": "2026-07-29T11:03:40.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Prototype-smart-ring-cracks-the-holy-grail-of-non-invasive-blood-sugar-measurement.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "非侵襲的血糖測定のスマートリング試作",
+      "summaryJa": "カリフォルニア大学のエンジニアが開発した試作のスマートリングが、非侵襲的な血糖測定の実現に成功したとされています。このリングは、iPhoneと連携してデータを送信し、汗を分析することで化学バイオマーカーを追跡します。従来のスマートリングとは異なり、指の汗を利用して血糖値やケトン体などを連続的にモニタリングできる可能性があります。特に1型糖尿病の患者にとって有用なデバイスとなるでしょう。"
+    },
+    {
       "id": "288744203ba337201812",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4482,56 +4527,9 @@
       ],
       "titleJa": "Apple、エミー賞で89ノミネートの快挙",
       "summaryJa": "Appleは、第78回プライムタイムエミー賞で歴史的な89ノミネートを獲得しました。特にコメディ「Widow’s Bay」が19ノミネート、ドラマ「Pluribus」が18ノミネートされ、主要なドラマとコメディ部門で最も多くのノミネートを誇ります。Appleは、FoundationやThe Morning Showなど、15のオリジナル作品でもノミネートを受けており、エミー賞での成功が続いています。"
-    },
-    {
-      "id": "f77ffd77f710d4a74748",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "publishedAt": "2026-07-08T10:00:13.748Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、Broadcomとの契約を拡大",
-      "summaryJa": "AppleはBroadcomとの新たな6年間の契約を発表し、米国製チップの生産を増やす計画を明らかにしました。この契約は300億ドルを超える規模で、150億個以上のチップを生産し、米国の雇用を支援することを目指しています。Appleは米国でのシリコン供給チェーンの構築を進めており、Broadcomのコロラド州フォートコリンズの工場を拡張・近代化するために15億ドルを投資します。"
-    },
-    {
-      "id": "0720aeade46e397e40ed",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Hello Developer: July 2026",
-      "url": "https://developer.apple.com/news/?id=grx7lcto",
-      "publishedAt": "2026-07-07T16:00:15.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/3B6228AD-1089-4FB9-990A-0B5F3279A961/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Hello Developer: 2026年7月",
-      "summaryJa": "Apple Developerの最新号では、Apple Developerウェブサイトの新しい検索ツールの紹介や、FigmaおよびSketch用のデザインキットのダウンロードが可能です。また、WWDC26の最新情報やApple Design Award受賞者についても触れています。27のプラットフォームリリースやドキュメント、サンプルコードの最新情報も掲載されています。"
-    },
-    {
-      "id": "e4dcd2de67db5c491bb0",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple Creator Studioがよりスマートに、より高速に、連係が向上",
-      "url": "https://www.apple.com/jp/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
-      "publishedAt": "2026-06-30T17:00:26.594Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple Creator Studioがアップデート",
-      "summaryJa": "Appleは、クリエイティブアプリのコレクション「Apple Creator Studio」に大規模なアップデートを実施しました。新たにPixelmator Proとの統合が追加され、Final Cut ProやLogic Proに新機能が搭載されました。特に、AIを活用した字幕生成や編集検出機能が強化され、ユーザーはより効率的にクリエイティブな作業を行えるようになります。"
     }
   ],
-  "updatedAt": "2026-07-29T10:08:21.003Z",
+  "updatedAt": "2026-07-29T12:22:19.009Z",
   "initialized": true,
   "summaryVersion": 4
 }
