@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "0e7f7d91d338fa5b35c3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27 adds five new Mac features I’ve been loving",
+      "url": "https://9to5mac.com/2026/07/29/macos-27-adds-five-new-mac-features-ive-been-loving/",
+      "publishedAt": "2026-07-29T18:30:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "macOS 27の新機能を紹介",
+      "summaryJa": "macOS 27（ゴールデンゲート）が今秋登場し、ファイル名提案やスワイプでのリフレッシュ機能など5つの新機能が追加されます。特に、ファイルの内容に基づいて名前を提案する機能や、iPhoneミラーリングの改善が注目されています。また、Apple Podcastsでは動画ポッドキャストの再生機能も強化され、Macでも快適に利用できるようになります。これらの新機能は、ユーザーの利便性を向上させることが期待されています。"
+    },
+    {
       "id": "b692840dc63ccc1bed60",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4500,25 +4515,9 @@
       ],
       "titleJa": "tvOS 27.0ベータ4が登場",
       "summaryJa": "AppleはtvOS 27.0のベータ版4（ビルド24J5325d）を公開しました。開発者向けにダウンロードとリリースノートが提供されています。"
-    },
-    {
-      "id": "06271f0394d5312d78d4",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "iOS 26.6 RC (23G71)",
-      "url": "https://developer.apple.com/news/releases/?id=07202026a",
-      "publishedAt": "2026-07-20T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "iOS 26.6 RCが公開",
-      "summaryJa": "AppleはiOS 26.6のリリース候補（RC、ビルド23G71）を発表しました。開発者向けにダウンロードとリリースノートが利用可能です。"
     }
   ],
-  "updatedAt": "2026-07-29T17:39:50.313Z",
+  "updatedAt": "2026-07-29T18:42:30.870Z",
   "initialized": true,
   "summaryVersion": 4
 }
