@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "67bf10c96e835691936b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Almost all future robot vacuums were just banned by the US government",
+      "url": "https://9to5mac.com/2026/07/29/almost-all-future-robot-vacuums-were-just-banned-by-the-us-government/",
+      "publishedAt": "2026-07-29T21:01:01.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/robot-vacuum-unsplash-image.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "米国、ロボット掃除機の輸入を禁止",
+      "summaryJa": "米国政府は、外国製の「高度なロボットデバイス」を禁止するリストを更新し、ロボット掃除機も対象となることを確認しました。この禁止措置は、RoombaやRoborockなどの人気ブランドに影響を与えますが、既存の製品は引き続き使用可能です。政府は、将来の外国製ロボットが国家安全保障上のリスクをもたらすと主張しており、ロボット掃除機市場に大きな影響を与える可能性があります。"
+    },
+    {
+      "id": "a4163cde48b82532168e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "DOJ fights Apple’s bid for records from 14 federal agencies in antitrust case",
+      "url": "https://9to5mac.com/2026/07/29/doj-fights-apples-bid-for-records-from-14-federal-agencies-in-antitrust-case/",
+      "publishedAt": "2026-07-29T21:00:33.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/sjt-tim-cook.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "米司法省、Appleの記録取得を阻止",
+      "summaryJa": "米国司法省は、Appleが14の連邦機関から記録を取得することを認める最近の裁定の再考を求めています。Appleは、これらの記録がプライバシーやセキュリティに関する情報を示す可能性があり、司法省の独占禁止法の主張を弱める助けになると主張しています。政府は、Appleの要求が不適切であると反論しており、今後の裁判での展開が注目されます。"
+    },
+    {
+      "id": "f39d6bf56d110515a730",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "OpenAI President on Apple Lawsuit: We Don't Need Your Secrets",
+      "url": "https://www.macrumors.com/2026/07/29/openai-president-apple-lawsuit/",
+      "publishedAt": "2026-07-29T20:45:58.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "OpenAI、Appleの訴訟に反論",
+      "summaryJa": "OpenAIの社長グレッグ・ブロックマンは、Appleからの訴訟に関して、他社の機密情報には興味がないと述べました。AppleはOpenAIが従業員から情報を盗んでいると主張していますが、ブロックマンはOpenAIが独自の製品計画に注力していると強調しました。OpenAIは、近くハードウェアデバイスを発表する予定で、AI時代に適した製品を開発中です。"
+    },
+    {
+      "id": "30e560cf331760042e2d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Maps in iOS 27 makes my favorite recent feature even better",
+      "url": "https://9to5mac.com/2026/07/29/apple-maps-in-ios-27-makes-my-favorite-recent-feature-even-better/",
+      "publishedAt": "2026-07-29T20:33:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-maps-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27でApple Mapsが進化",
+      "summaryJa": "Apple Mapsは、iOS 26.5で追加された「おすすめの場所」機能をiOS 27でさらに改善します。この機能は、最近の検索履歴に基づいておすすめの場所を提案し、ユーザーが横にスクロールすることで最大10件の推薦を表示できるようになります。これにより、旅行計画や新しい場所の発見がより便利になります。iOS 27では他にもいくつかのApple Mapsの改善が行われています。"
+    },
+    {
+      "id": "889ea2fbe74c3d47ae83",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI president admits new ChatGPT desktop app is ‘kind of a mess,’ teases tab-free design",
+      "url": "https://9to5mac.com/2026/07/29/openai-president-admits-new-chatgpt-desktop-app-is-kind-of-a-mess-teases-tab-free-design/",
+      "publishedAt": "2026-07-29T20:28:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、ChatGPTデスクトップアプリの混乱を認める",
+      "summaryJa": "OpenAIの社長グレッグ・ブロックマンが、ChatGPTデスクトップアプリの最近の変更についてインタビューで言及しました。新しいタブなしのインターフェースを目指しているものの、現在のUIは「混乱している」と認め、ユーザーからのフィードバックを基に改善を進める方針を示しました。アプリは現在、WorkとChatのタブが追加されており、ナビゲーションは改善されたものの、依然として複雑さが残っています。"
+    },
+    {
+      "id": "75d9022f590cc6cd5fe0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Begins Selling Refurbished Studio Display XDR at a Discount",
+      "url": "https://www.macrumors.com/2026/07/29/apple-refurbished-studio-display-xdr/",
+      "publishedAt": "2026-07-29T20:14:57.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/Studio-Display-XDR-Dark.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、リファービッシュ版Studio Display XDRを販売開始",
+      "summaryJa": "Appleは今月、Studio Display XDRの認定リファービッシュモデルを米国で初めて販売開始しました。価格は通常の新モデルから15%割引され、VESAマウントアダプタ付きで2,459ドル、チルト・高さ調整可能なスタンド付きで2,799ドルとなっています。リファービッシュ製品は、Appleによる完全な機能テストと徹底的なクリーニングを経ており、1年間の限定保証が付いています。"
+    },
+    {
       "id": "fc288f14ba8a6f384c07",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4419,101 +4509,9 @@
       ],
       "titleJa": "Xcode 27 Beta 4が公開",
       "summaryJa": "AppleがXcode 27のベータ版4を公開しました。詳細なリリースノートやダウンロードが可能です。"
-    },
-    {
-      "id": "521231b0fbf39cef987b",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "visionOS 27.0 beta 4 (24M5326g)",
-      "url": "https://developer.apple.com/news/releases/?id=07202026k",
-      "publishedAt": "2026-07-20T20:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "visionOS 27.0ベータ4が登場",
-      "summaryJa": "Appleは開発者向けにvisionOS 27の第4ベータ版を提供しました。このベータ版は、前回のリリースから2週間後に登場し、SiriのAI機能や新しい環境設定が追加されています。特に、ユーザーが見ているものに基づいて質問に答える新しいSiriが搭載され、パノラマ写真を空間環境に変換する機能もあります。"
-    },
-    {
-      "id": "c8f9a9e53d92585abe33",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "watchOS 27.0 beta 4 (24R5325h)",
-      "url": "https://developer.apple.com/news/releases/?id=07202026l",
-      "publishedAt": "2026-07-20T20:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "watchOS 27.0ベータ4が公開",
-      "summaryJa": "AppleはwatchOS 27の第4ベータ版を開発者向けにリリースしました。詳細なリリースノートやダウンロードはApple Developerサイトで確認できます。"
-    },
-    {
-      "id": "53c1e2fbe3a402bbf840",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds Fourth visionOS 27 Beta to Developers",
-      "url": "https://www.macrumors.com/2026/07/20/apple-seeds-visionos-27-beta-4/",
-      "publishedAt": "2026-07-20T19:24:21.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/curved_windows_visionos-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、visionOS 27の第4ベータを提供",
-      "summaryJa": "Appleは、visionOS 27の第4ベータ版を開発者に提供しました。このアップデートでは、Siriの新機能や360度環境のサポートが追加され、ユーザー体験が向上しています。特に、ユーザーが見ているものに基づいて質問に答えるSiriが新たに搭載され、仮想空間での操作がより直感的になっています。"
-    },
-    {
-      "id": "5677cc63c092091634b6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 Code References iPhone With Two Batteries",
-      "url": "https://www.macrumors.com/2026/07/20/ios-27-dual-battery-iphone/",
-      "publishedAt": "2026-07-20T19:10:35.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27に二つのバッテリーの記述",
-      "summaryJa": "iOS 27の第4ベータ版には、二つのバッテリーを搭載したiPhoneに関する記述が含まれています。この内容は、Appleが開発中の折りたたみ式iPhone Ultraに関連していると考えられています。新しいバッテリー管理機能により、バッテリーの健康状態を個別に確認できる可能性があり、修理コストの削減にも寄与するかもしれません。"
-    },
-    {
-      "id": "ec13f695373a55f4683f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds watchOS 27 Beta 4 to Developers",
-      "url": "https://www.macrumors.com/2026/07/20/apple-seeds-watchos-27-beta-4/",
-      "publishedAt": "2026-07-20T18:15:01.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、watchOS 27ベータ4を開発者向けに配信",
-      "summaryJa": "Appleは、watchOS 27の第4ベータ版を開発者向けにリリースしました。これは第3ベータ版から2週間後の更新で、Apple Watchを充電器に接続し、Wi-Fiに接続し、バッテリーが50％以上である必要があります。新しいSiri AIが導入され、会話が可能になり、個人データを利用して情報を提供します。また、Find Myアプリの改善や、Workout Buddyの新機能も追加されています。"
-    },
-    {
-      "id": "a540a1caaac63d36c95a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases macOS Golden Gate Beta 4",
-      "url": "https://www.macrumors.com/2026/07/20/apple-releases-macos-27-beta-4/",
-      "publishedAt": "2026-07-20T17:10:42.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、macOS Golden Gateベータ4をリリース",
-      "summaryJa": "Appleは、macOS Golden Gateの第4ベータ版を開発者向けに提供しました。このアップデートは、デザインの改善や新しいSiri AI機能を含んでおり、ユーザーの個人データを活用して質問に答えることができます。また、AIによる写真編集ツールやSafariのタブ整理機能も追加されています。開発者は、システム設定からベータ版をダウンロードできます。"
     }
   ],
-  "updatedAt": "2026-07-29T20:03:41.074Z",
+  "updatedAt": "2026-07-29T21:10:11.207Z",
   "initialized": true,
   "summaryVersion": 4
 }
