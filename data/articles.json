@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "288744203ba337201812",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp Rolls Out Web Calling, Call Transfer Across Devices, and More",
+      "url": "https://www.macrumors.com/2026/07/29/whatsapp-web-calling-waiting-room-features/",
+      "publishedAt": "2026-07-29T10:05:53.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/whatsapp-web-calls.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "WhatsApp、ウェブ通話機能を追加",
+      "summaryJa": "WhatsAppがグループ通話の機能を強化し、ウェブ通話機能を追加しました。これにより、WhatsApp Webから直接音声・ビデオ通話が可能になり、デバイス間での通話転送も実現。新たに待機室機能や背景ノイズ除去機能も追加され、ユーザーはより快適に通話を楽しめるようになります。これらの機能は徐々に展開され、すぐに全ユーザーが利用可能になる見込みです。"
+    },
+    {
+      "id": "432e9f811ee14e744d94",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "The Outsiders adds more detailed performance metrics, workout sharing, more",
+      "url": "https://9to5mac.com/2026/07/29/the-outsiders-adds-more-detailed-performance-metrics-workout-sharing-more/",
+      "publishedAt": "2026-07-29T08:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/the-outsiders.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "The Outsiders、パフォーマンス指標を強化",
+      "summaryJa": "Gentler Storiesが高性能アスリート向けの運動追跡アプリ「The Outsiders」をアップデートしました。新機能では、ランナーやサイクリスト向けに詳細なトレーニングデータ分析が可能になり、シェア機能も強化。ユーザーはトレーニングセッションをカスタマイズして共有できるようになり、視覚的に魅力的なスタイルで結果を発信できます。これにより、より多くのユーザーが自分の成果を表現しやすくなります。"
+    },
+    {
       "id": "c9011bb5fe59ec5955ca",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4499,40 +4529,9 @@
       ],
       "titleJa": "Apple Creator Studioがアップデート",
       "summaryJa": "Appleは、クリエイティブアプリのコレクション「Apple Creator Studio」に大規模なアップデートを実施しました。新たにPixelmator Proとの統合が追加され、Final Cut ProやLogic Proに新機能が搭載されました。特に、AIを活用した字幕生成や編集検出機能が強化され、ユーザーはより効率的にクリエイティブな作業を行えるようになります。"
-    },
-    {
-      "id": "c8e3fcf6cdeb1dc9177d",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple Creator Studio gets smarter, faster, and more connected",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
-      "publishedAt": "2026-06-30T16:59:24.233Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple Creator Studioがアップデート",
-      "summaryJa": "AppleはApple Creator Studioの新しいアップデートを発表しました。このアップデートにより、Final Cut Pro、Keynote、Pages、Numbersとの新しい統合が実現し、AI機能が強化されます。ユーザーは画像のカスタマイズや、Logic Proでの新しいプロジェクト作成が可能になります。Final Cut Proには新しいAIツールが追加され、クリエイティブなワークフローがさらに向上します。"
-    },
-    {
-      "id": "1aa97d9b043b410bd4c7",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "iOS 26.5.2 (23F84)",
-      "url": "https://developer.apple.com/news/releases/?id=06292026a",
-      "publishedAt": "2026-06-29T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "iOS 26.5.2がリリース",
-      "summaryJa": "AppleがiOS 26.5.2 (23F84)をリリースしました。詳細な変更点や新機能については、公式サイトで確認できます。ユーザーは最新のアップデートをダウンロードして、デバイスのパフォーマンス向上を図ることができます。"
     }
   ],
-  "updatedAt": "2026-07-29T07:24:29.269Z",
+  "updatedAt": "2026-07-29T10:08:21.003Z",
   "initialized": true,
   "summaryVersion": 4
 }
