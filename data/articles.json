@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "b692840dc63ccc1bed60",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirPods Pro 3 Still Available for Best Price Since Prime Day at $199.99",
+      "url": "https://www.macrumors.com/2026/07/29/airpods-pro-3-prime-day-199-99/",
+      "publishedAt": "2026-07-29T17:24:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/airpods-pro-3-tips.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirPods Pro 3が199.99ドルで販売中",
+      "summaryJa": "AmazonでAirPods Pro 3が249ドルから199.99ドルに値下げされており、プライムデー以降の最安値となっています。このモデルは2025年9月に発売され、アクティブノイズキャンセリングが2倍向上し、音質やフィット感も改善されています。最新のディール情報は、Deals Roundupで確認できます。"
+    },
+    {
+      "id": "01ba683b364590402463",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Review: This Asus ProArt 4K display has several features that separate it from the pack [Video]",
+      "url": "https://9to5mac.com/2026/07/29/asus-pa27ucge-review-160hz-colorimeter-monitor-hood-display/",
+      "publishedAt": "2026-07-29T17:00:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Asus-ProArt-4K-160Hz-PA27UCGE-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Asus ProArt 4Kディスプレイのレビュー",
+      "summaryJa": "Asusの27インチ4Kディスプレイ、ProArt PA27UCGEは、最大160Hzの高フレームレートをサポートし、ウェブブラウジングやゲーム、動画編集に最適です。オプションのモニターフードや内蔵のモーター式カラーメーターも搭載されており、Macユーザーにとって魅力的な選択肢となっています。詳細は動画レビューで確認できます。"
+    },
+    {
+      "id": "33d9d5456a9916d995b3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Gemini for Mac Adds System-Wide Voice Dictation and Screen-Aware Commands",
+      "url": "https://www.macrumors.com/2026/07/29/gemini-for-mac-dictation/",
+      "publishedAt": "2026-07-29T16:46:53.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/gemini-for-mac-app-google.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Gemini for Macが音声入力機能を追加",
+      "summaryJa": "GoogleはGemini for Macをアップデートし、デスクトップの任意のウィンドウで音声モードを起動できる新しいショートカットを追加しました。ユーザーは自然な言葉で話すことで、Geminiが音声をテキストに変換します。また、画面を認識してタスクを実行する機能も搭載されており、ユーザーがハイライトした内容を編集・要約することが可能です。"
+    },
+    {
+      "id": "55868cf52e4963965597",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple One’s high-end tier is getting harder to resist in iOS 27",
+      "url": "https://9to5mac.com/2026/07/29/apple-ones-high-end-tier-is-getting-harder-to-resist-in-ios-27/",
+      "publishedAt": "2026-07-29T16:34:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-One-ios-27-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Oneのプレミアプランが強化",
+      "summaryJa": "Apple OneのプレミアプランがiOS 27で新たな特典を得ることが報じられています。新機能にはApple HomeのAI機能や画像生成の使用制限の引き上げが含まれ、特にiCloud+の2TBプランが必要です。これにより、HomeKit Secure Videoの機能も強化される見込みです。"
+    },
+    {
       "id": "b59fdc01b150b378de48",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4456,73 +4516,9 @@
       ],
       "titleJa": "iOS 26.6 RCが公開",
       "summaryJa": "AppleはiOS 26.6のリリース候補（RC、ビルド23G71）を発表しました。開発者向けにダウンロードとリリースノートが利用可能です。"
-    },
-    {
-      "id": "26332dd904e0036b32c0",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "iPadOS 26.6 RC (23G71)",
-      "url": "https://developer.apple.com/news/releases/?id=07202026b",
-      "publishedAt": "2026-07-20T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "iPadOS 26.6 RCが登場",
-      "summaryJa": "AppleはiPadOS 26.6のリリース候補（RC、ビルド23G71）を公開しました。開発者向けにダウンロードとリリースノートが提供されています。"
-    },
-    {
-      "id": "25a0d59c267279ed569c",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "macOS 26.6 RC (25G70)",
-      "url": "https://developer.apple.com/news/releases/?id=07202026c",
-      "publishedAt": "2026-07-20T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "macOS 26.6 RCが発表",
-      "summaryJa": "AppleはmacOS 26.6のリリース候補（RC、ビルド25G70）を公開しました。開発者向けにダウンロードとリリースノートが利用可能です。"
-    },
-    {
-      "id": "4e1e53720773bd6b2929",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "tvOS 26.6 RC (23L772)",
-      "url": "https://developer.apple.com/news/releases/?id=07202026d",
-      "publishedAt": "2026-07-20T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "tvOS 26.6 RCが登場",
-      "summaryJa": "AppleがtvOS 26.6のリリース候補版（RC）を公開しました。ダウンロードやリリースノートが利用可能です。"
-    },
-    {
-      "id": "7b3dcf6fbf515e65d2ff",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "visionOS 26.6 RC (23O770)",
-      "url": "https://developer.apple.com/news/releases/?id=07202026e",
-      "publishedAt": "2026-07-20T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "visionOS 26.6 RCが登場",
-      "summaryJa": "AppleがvisionOS 26.6のリリース候補版（RC）を発表しました。ダウンロードやリリースノートが提供されています。"
     }
   ],
-  "updatedAt": "2026-07-29T16:11:25.687Z",
+  "updatedAt": "2026-07-29T17:39:50.313Z",
   "initialized": true,
   "summaryVersion": 4
 }
