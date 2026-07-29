@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "38dfc2109c56f27dbef5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Says UK App Store Steering Rules Would Be 'Highly Intrusive'",
+      "url": "https://www.macrumors.com/2026/07/29/app-store-uk-rules-highly-intrusive/",
+      "publishedAt": "2026-07-29T22:43:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/06/app-store-blue-banner-uk-fixed.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、英国のApp Store規制に反対",
+      "summaryJa": "Appleは、英国の競争市場庁（CMA）が提案している新しいApp Store規制が「非常に侵入的」であると反発しています。CMAは、開発者がApp Store外の支払いオプションにリンクできるようにすることを求めており、これにより手数料が削減され競争が促進されると主張しています。Appleは、提案された規制がイノベーションを損ない、価格規制に等しいと警告しています。CMAは、AppleとGoogleの手数料が公正であるべきだと述べていますが、最終決定はまだ下されていません。"
+    },
+    {
+      "id": "f46f3dc4eb0911faa235",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Qualcomm says supply constraints are shrinking its Apple business faster than expected",
+      "url": "https://9to5mac.com/2026/07/29/qualcomm-says-supply-constraints-are-shrinking-its-apple-business-faster-than-expected/",
+      "publishedAt": "2026-07-29T22:30:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Heres-how-Apple-kind-of-shot-an-MLS-game-entirely-with-iPhones.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Qualcomm、Apple向け収益が予想以上に減少か",
+      "summaryJa": "QualcommのCEOは、供給制約によりApple向けの収益が予想以上に早く減少すると警告しています。Appleは独自のモデム技術を開発しており、Qualcommのシェアが次期iPhoneの部品供給で20%を下回る見込みです。Qualcommは、Appleのビジネス喪失に対応するためデータセンター事業に注力しており、2027年度には50億ドルの収益を見込んでいます。Appleとの関係は特許ライセンス収入も含まれており、これらは今後も続く見込みです。"
+    },
+    {
+      "id": "e5151701738cdc118a04",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Pastebot 3 for Mac Adds Rule-Based Organization, Powerful Paste Filters",
+      "url": "https://www.macrumors.com/2026/07/29/tapbots-pastebot-3/",
+      "publishedAt": "2026-07-29T22:14:30.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/pastebot-3.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Pastebot 3、Mac向けに新機能追加",
+      "summaryJa": "Tapbotsが新たにPastebot 3を発表しました。このバージョンでは、クリップボード管理機能が強化され、ルールに基づく自動整理や強力なペーストフィルターが追加されています。ユーザーは、クリップをカテゴリ別に整理したり、複数のフィルターを組み合わせて詳細な検索が可能です。また、iCloudを通じて複数のMac間でデータを同期でき、最大1,500件のクリップを保存できます。Appleのユニバーサルクリップボード機能にも対応しています。"
+    },
+    {
       "id": "d49e68d21b598fd037f4",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4463,54 +4508,9 @@
       ],
       "titleJa": "TSMC、2027年に最大10%の価格引き上げ計画",
       "summaryJa": "Appleの主要チップメーカーであるTSMCが、2027年から5〜10%の価格引き上げを計画していると報じられています。この価格改定は、材料費や製造設備のコスト上昇を反映しており、Appleが依存するAシリーズやMシリーズのチップにも影響を及ぼす可能性があります。Appleがこのコストを吸収するか、顧客に転嫁するかは不明です。"
-    },
-    {
-      "id": "13e65198d091bd826098",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Testing 7-Inch Display for Largest 20th Anniversary iPhone Model",
-      "url": "https://www.macrumors.com/2026/07/21/iphone-20-pro-max-7-inch-display/",
-      "publishedAt": "2026-07-21T09:08:23.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、20周年記念iPhone用の7インチディスプレイを試作中",
-      "summaryJa": "Appleが約6.96インチの大画面iPhoneディスプレイを試作しているとの情報があります。このディスプレイは、来年の20周年記念iPhoneに使用される可能性があります。現在のiPhone 17 Pro Maxと同じ画面比率を持つとされ、エッジツーエッジのデザインが期待されています。"
-    },
-    {
-      "id": "44ca13c30fadd44619b4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Samsung Debuts Galaxy Card With 5% Cash Back to Take On Apple Card",
-      "url": "https://www.macrumors.com/2026/07/20/samsung-galaxy-card/",
-      "publishedAt": "2026-07-20T23:39:33.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/samsung-galaxy-card.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Samsung、Apple Card対抗のGalaxy Card発表",
-      "summaryJa": "Samsungが米国で初のクレジットカード「Galaxy Card」を発表しました。Visaカードとして機能し、Samsung製品購入時の特別なファイナンスオプションを提供。年会費は無料で、Samsungでの購入に対して5%のキャッシュバックを提供します。Apple CardはApple製品購入時に3%のキャッシュバックを提供しており、Samsungはより高い還元率を打ち出しています。"
-    },
-    {
-      "id": "208f2027213d8bd8bd2e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Everything New in iOS 27 Beta 4",
-      "url": "https://www.macrumors.com/2026/07/20/ios-27-beta-4-everything-new/",
-      "publishedAt": "2026-07-20T21:50:52.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Warm-Dark.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27 Beta 4の新機能",
-      "summaryJa": "AppleがiOS 27の開発者向けベータ版4をリリースしました。新機能として、Apple TVアプリに自動ダウンロード機能が追加され、設定で次の2エピソードを自動的にダウンロード可能に。写真設定に「ズームしてフィル」オプションが追加され、Siriの音声選択インターフェースも変更されました。これらの変更は、正式リリースに向けた調整の一環です。"
     }
   ],
-  "updatedAt": "2026-07-29T22:14:07.895Z",
+  "updatedAt": "2026-07-29T23:17:43.321Z",
   "initialized": true,
   "summaryVersion": 4
 }
