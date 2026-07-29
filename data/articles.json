@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "b59fdc01b150b378de48",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 Lets You Hide the Messages Button Everyone Hits by Mistake",
+      "url": "https://www.macrumors.com/how-to/ios-hide-dictation-messages-button/",
+      "publishedAt": "2026-07-29T16:10:46.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/messages-dictation-ios.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27でメッセージボタンを非表示に可能",
+      "summaryJa": "iOS 27およびiPadOS 27では、メッセージアプリ内の音声入力や音声メッセージのアイコンを非表示にできる新機能が追加されます。これにより、誤ってアイコンをタップして音楽が一時停止する問題が解消される見込みです。設定からアイコンの表示を選択でき、必要に応じて音声メッセージや音声入力を利用することも可能です。iOS 27は現在ベータ版で、一般公開は9月を予定しています。"
+    },
+    {
+      "id": "801933245f751b249921",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Gemini for macOS rolling out voice control and Gboard Rambler-level transcription",
+      "url": "https://9to5google.com/2026/07/29/gemini-mac-voice-control/",
+      "publishedAt": "2026-07-29T15:36:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Gemini-Mac-voice-upgrade.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Gemini for macOSが音声制御機能を追加",
+      "summaryJa": "Gemini for macOSが、I/O 2026でのプレビューを経て、音声制御機能を正式に展開しています。この新機能により、ユーザーはより直感的に操作できるようになります。詳細な機能については今後のアップデートで明らかになるでしょう。"
+    },
+    {
+      "id": "d7f642268d34dfe0cde6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: M5 MacBook Pro $320 off, base MacBook Air $170 off, AirPods Pro 3, TechWoven case 32% off, Apple cables, more",
+      "url": "https://9to5mac.com/2026/07/29/deals-m5-macbook-pro-macbook-air-airpods-techwoven/",
+      "publishedAt": "2026-07-29T15:26:54.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-deals-MacBook-Pro-AirPods-TechWoven.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "M5 MacBook Proが320ドルオフで登場",
+      "summaryJa": "現在、M5 MacBook Proが320ドルオフで販売されており、特に注目されています。また、2TBのM5 Pro MacBook Proは500ドルの値下げが行われています。さらに、AirPods Pro 3やAppleのUSB-Cケーブルも割引価格で提供中です。これらのセールは、夏の特別価格として継続しています。"
+    },
+    {
+      "id": "d050dd6a02831bc78a8b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Wallet Support Coming to Manchester's Bee Card",
+      "url": "https://www.macrumors.com/2026/07/29/bee-card-apple-wallet-support-in-works/",
+      "publishedAt": "2026-07-29T15:20:18.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Bee-Card.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple WalletにマンチェスターのBee Card対応予定",
+      "summaryJa": "Appleは、マンチェスターのBee CardをWalletアプリに追加する準備を進めていると報じられています。この機能が実装されると、ユーザーはiPhoneやApple WatchでBee Cardを使ってトラムやバスの運賃を支払えるようになりますが、具体的な提供時期はまだ不明です。"
+    },
+    {
+      "id": "fedea8564d1d8cb950f4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro vs iPhone Ultra: Here are the biggest differences",
+      "url": "https://9to5mac.com/2026/07/29/iphone-18-pro-vs-iphone-ultra-here-are-biggest-differences/",
+      "publishedAt": "2026-07-29T15:18:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 ProとUltraの違い",
+      "summaryJa": "Appleの新しいiPhoneラインナップでは、iPhone 18 ProとiPhone Ultraが登場する見込みです。主な違いは、iPhone 18 Proが従来のデザインを維持するのに対し、iPhone Ultraは初の折りたたみ式モデルとなる点です。また、カメラ機能では、Ultraには望遠レンズが搭載されない一方、Proモデルには搭載される予定です。両モデルはA20 Proチップを搭載しますが、デザインや素材によってパフォーマンスに差が出る可能性があります。"
+    },
+    {
+      "id": "2fc2ae824e63ef852f6b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Upgrade is a really great deal for one reason",
+      "url": "https://9to5mac.com/2026/07/29/apple-upgrade-is-a-really-great-deal-for-one-reason/",
+      "publishedAt": "2026-07-29T14:49:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/mac-apple-upgrade-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Upgrade、魅力的な新プログラム",
+      "summaryJa": "Appleが新たに導入した「Apple Upgrade」は、iPhoneやiPad、Mac、Apple Watchのリースプログラムです。このプログラムでは、製品のリスト価格を超えることなく、低月額で新しいApple製品を利用できるのが特徴です。リース期間終了後には、リース料を差し引いた金額で製品を購入するオプションもあり、ユーザーにとっては魅力的な選択肢となるでしょう。"
+    },
+    {
       "id": "03812be5506fe8798afa",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4430,103 +4520,9 @@
       ],
       "titleJa": "visionOS 26.6 RCが登場",
       "summaryJa": "AppleがvisionOS 26.6のリリース候補版（RC）を発表しました。ダウンロードやリリースノートが提供されています。"
-    },
-    {
-      "id": "7916b203d77427ac8e14",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "watchOS 26.6 RC (23U67)",
-      "url": "https://developer.apple.com/news/releases/?id=07202026f",
-      "publishedAt": "2026-07-20T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "watchOS 26.6 RCが登場",
-      "summaryJa": "AppleがwatchOS 26.6のリリース候補版（RC）を公開しました。ダウンロードやリリースノートが確認できます。"
-    },
-    {
-      "id": "90d973401a89c6bcdc0d",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "App Store Connect API 4.4.1",
-      "url": "https://developer.apple.com/news/releases/?id=07152026a",
-      "publishedAt": "2026-07-15T21:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "App Store Connect API 4.4.1が公開",
-      "summaryJa": "AppleがApp Store Connect APIのバージョン4.4.1をリリースしました。ダウンロードやリリースノートが利用可能です。"
-    },
-    {
-      "id": "13c90fb69325d33f024e",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "メジャーリーグサッカーが明日Apple TVに帰ってきます",
-      "url": "https://www.apple.com/jp/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
-      "publishedAt": "2026-07-15T15:00:12.535Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "メジャーリーグサッカーがApple TVに帰還",
-      "summaryJa": "メジャーリーグサッカー（MLS）が、FIFAワールドカップによる中断を経て、7月16日からApple TVでレギュラーシーズンを再開します。サブスクリプション登録者は、地域制限なしで全試合を視聴でき、特別コンテンツや分析も楽しめます。注目の試合が組まれており、MLS選手たちがワールドカップでの活躍を経て、再びクラブに戻ることが期待されています。"
-    },
-    {
-      "id": "583a306f1b614edb0313",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Major League Soccer returns to Apple TV tomorrow",
-      "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
-      "publishedAt": "2026-07-15T14:59:11.792Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "メジャーリーグサッカー、Apple TVで再開",
-      "summaryJa": "メジャーリーグサッカー（MLS）が、FIFAワールドカップのための1か月の休止を経て、7月16日にApple TVで再開します。全30クラブが活動を再開し、6試合の注目対決が予定されています。Apple TVのサブスクライバーは、全試合を視聴でき、リーグカップやMLSオールスターゲームなどの特別コンテンツも楽しめます。ワールドカップに参加した選手たちも多く戻り、リーグの再開が期待されています。"
-    },
-    {
-      "id": "b85a4957f97117cd14e9",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "8月6日、アメリカンフットボールのプレイを楽しめる「Madden NFL 27 Arcade Edition」がApple Arcadeに登場",
-      "url": "https://www.apple.com/jp/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "publishedAt": "2026-07-14T14:01:34.108Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "「Madden NFL 27 Arcade Edition」が登場",
-      "summaryJa": "Apple Arcadeに新たに「EA SPORTS Madden NFL 27 Arcade Edition」が8月6日に追加されます。このゲームは、実在のNFLチームを使用したリアルなシミュレーション体験を提供し、プレイヤーはアメリカンフットボールの戦略を楽しむことができます。また、「NFL Retro Bowl ’27」や「Retro Bowl College+」も同時に登場し、Apple Arcadeのスポーツゲームのラインナップが強化されます。"
-    },
-    {
-      "id": "1379385f82fe0f520def",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
-      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
-      "publishedAt": "2026-07-14T13:59:25.392Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Madden NFL 27 Arcade Edition、Apple Arcadeに登場",
-      "summaryJa": "EA SPORTSのMadden NFL 27 Arcade Editionが、8月6日にApple Arcadeに登場します。この新作は、現行のNFLチームを用いたリアルなシミュレーションゲームで、プレイヤーはシーズンベースの体験を楽しむことができます。Apple Arcadeは、NFL Retro BowlやNBA 2Kなどの人気スポーツゲームを含む充実したラインアップを提供し、様々なファンに対応しています。"
     }
   ],
-  "updatedAt": "2026-07-29T14:39:39.457Z",
+  "updatedAt": "2026-07-29T16:11:25.687Z",
   "initialized": true,
   "summaryVersion": 4
 }
