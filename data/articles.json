@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "25d88c9786f7803893e2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple pledges support for earthquake relief efforts in Japan",
+      "url": "https://9to5mac.com/2026/07/30/apple-pledges-support-for-earthquake-relief-efforts-in-japan/",
+      "publishedAt": "2026-07-30T19:58:50.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、日本の地震救援に支援を表明",
+      "summaryJa": "Appleのティム・クックCEOは、熊本地震の救援活動に寄付することを発表しました。地震は7.1のマグニチュードで、34人が死亡し、数千人が避難を余儀なくされています。クック氏は、日本が特別な場所であると述べ、救援活動を支援する意向を示しました。Appleは、自然災害時に支援を行う伝統を持っており、今回もその一環として寄付を行います。"
+    },
+    {
+      "id": "0dc381868875fb6b16d8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s how to listen live to Tim Cook’s last earnings call as Apple CEO",
+      "url": "https://9to5mac.com/2026/07/30/heres-how-to-listen-live-to-tim-cooks-last-earnings-call-as-apple-ceo/",
+      "publishedAt": "2026-07-30T19:34:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-financial-q3-call.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ティム・クックCEO最後の決算発表をライブ配信",
+      "summaryJa": "Appleは2026年度第3四半期の決算を発表し、ティム・クックCEOの最後の決算発表が行われます。クック氏は90回目の決算発表に参加し、Appleの今後についての見通しを語る予定です。市場の閉鎖後30分で発表され、コンポーネント不足や価格上昇の影響についても言及される見込みです。ライブ配信は午後2時（PT）から行われます。"
+    },
+    {
+      "id": "8c54bf8a379ee452d78a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Senators Demand Apple Commit to Not Buying Chinese Memory Chips",
+      "url": "https://www.macrumors.com/2026/07/30/apple-chinese-chips-senator-letter/",
+      "publishedAt": "2026-07-30T19:29:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "米上院、Appleに中国メモリーチップ購入中止を要求",
+      "summaryJa": "米国の上院議員チャック・シューマー氏が、Appleに対し中国企業のメモリーチップを購入しないよう求めています。Appleは、メモリ不足により製品価格を引き上げており、CXMTやYMTCとの取引を検討していますが、これらの企業は中国軍との関係が疑われています。シューマー氏は、Appleがこれらのチップを使用することが米国の半導体供給網に悪影響を及ぼすと警告しています。"
+    },
+    {
+      "id": "00d036ed86bba147615e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro could introduce new Apple solution for cellular, hints report",
+      "url": "https://9to5mac.com/2026/07/30/iphone-18-pro-could-introduce-new-apple-solution-for-cellular-hints-report/",
+      "publishedAt": "2026-07-30T19:13:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered-dark.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro、Apple設計のC2チップ搭載か",
+      "summaryJa": "iPhone 18 Proは、QualcommのモデムからApple設計のC2チップに移行する可能性があります。Appleは一部のiPhoneに自社製の通信チップを搭載しており、今秋の新モデルではC2チップが採用されるとの噂があります。最近のQualcommの決算発表では、Apple製品からの収益が減少する見込みが示されており、iPhone 18 ProがQualcommを排除する可能性が高まっています。"
+    },
+    {
+      "id": "1e5474853dff437d1274",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "FCC Bans New Foreign-Made Robot Vacuums, Threatening Future Matter and HomeKit Models",
+      "url": "https://www.macrumors.com/2026/07/30/foreign-made-robot-vacuums-ban/",
+      "publishedAt": "2026-07-30T18:55:53.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/11/ecovacs-black-friday.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "FCC、外国製ロボット掃除機を禁止",
+      "summaryJa": "FCCは今週、国家安全保障のリスクを理由に新たな外国製ロボット掃除機を禁止しました。この禁止令は、ネットワーク接続されたロボットシステムが悪用される可能性を指摘しています。これにより、MatterやHomeKit対応のロボット掃除機の販売が影響を受ける可能性があり、企業は米国での製造を約束しない限り新モデルを販売できなくなる見込みです。"
+    },
+    {
+      "id": "0df825d845e336804291",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "This MacBook Pro just fell below its pre-price-hike MSRP (Save $500)",
+      "url": "https://9to5mac.com/2026/07/30/this-macbook-pro-just-fell-below-its-pre-price-hike-msrp-save-500/",
+      "publishedAt": "2026-07-30T18:45:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/MacBook-Pro-M5-Pro.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "M5 Pro MacBook Proが500ドル値下げ",
+      "summaryJa": "AmazonでM5 Pro MacBook Proが500ドルの割引で販売中です。現在、14インチモデルが2,499ドルで提供されており、これは最近の価格引き上げ前の最安値を下回っています。この割引は、夏のセールの一環として、他のApple製品の割引とともに行われています。今後もこの価格が続くかは不透明ですが、今が購入のチャンスかもしれません。"
+    },
+    {
       "id": "dd9867d2aac7c294b398",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4415,99 +4505,9 @@
       ],
       "titleJa": "AppleCare+、iPadとApple Watchに対応",
       "summaryJa": "Appleは、日本でiPadとApple Watch向けに盗難・紛失補償付きのAppleCare+を提供開始しました。これにより、これまでiPhoneに限定されていたサービスが拡大されました。また、月額および年額のAppleCare+プランも、より多くのApple製品に対応するようになりました。"
-    },
-    {
-      "id": "b9625c1bd08e4136d4f0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple promotes ‘Nido de Villanas,’ a Mexican microdrama shot on iPhone 17 Pro",
-      "url": "https://9to5mac.com/2026/07/21/apple-promotes-nido-de-villanas-a-mexican-microdrama-shot-on-iphone-17-pro/",
-      "publishedAt": "2026-07-22T01:37:01.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/nido-de-villanas.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPhone 17 Proで撮影した短編を公開",
-      "summaryJa": "Appleは、iPhone 17 Proで撮影されたメキシコのマイクロドラマ『Nido de Villanas』の先行映像を公開しました。この作品は14本のショートから成り、iPhoneのカメラ機能を活かした内容となっています。ドラマは、4人の女性が遺産を巡って争う様子を描いており、YouTubeで視聴可能です。"
-    },
-    {
-      "id": "aae9339569128f8d936e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Claude Code brings live iOS app testing into its Mac app",
-      "url": "https://9to5mac.com/2026/07/21/claude-code-brings-live-ios-app-testing-into-its-mac-app/",
-      "publishedAt": "2026-07-22T00:52:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Claude Code、iOSアプリのテスト機能を追加",
-      "summaryJa": "Claude CodeのMacアプリが、iOSアプリをインタラクティブなシミュレーターでテストできる機能を追加しました。この機能は、XcodeがインストールされているMacで利用可能で、ユーザーはアプリを実行しながら直接インタラクションできます。現在、パブリックベータ版として提供されており、開発者はアプリの開発とテストを同時に行うことができます。"
-    },
-    {
-      "id": "e6f960b29c9c8ddf8def",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Claude Code Can Now Build and Test iOS Apps in Apple's Simulator",
-      "url": "https://www.macrumors.com/2026/07/21/claude-code-ios-simulator/",
-      "publishedAt": "2026-07-21T23:46:44.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/claude-code-ios-simulator.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Claude CodeがiOSシミュレーターに対応",
-      "summaryJa": "Anthropicは、Claude CodeがiOSシミュレーターと統合されたことを発表しました。この機能により、ユーザーはアプリをビルドし、実行しながらシミュレーターでの動作を確認できます。Claudeはシミュレーターを直接操作でき、開発者は通常通りiOSシミュレーターを使用し続けることが可能です。"
-    },
-    {
-      "id": "fda5071b382afac46754",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "This ergonomic office chair packs premium comfort features for under $500",
-      "url": "https://9to5mac.com/2026/07/21/ergonomic-office-chair-packs-premium-comfort-features-under-500/",
-      "publishedAt": "2026-07-21T23:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sihoo-doro-c300-pro-v2-3.webp?w=1024",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "SIHOOの新エルゴノミックチェア登場",
-      "summaryJa": "SIHOOが新たに発表したDoro C300 Pro V2は、500ドル以下で購入できるエルゴノミックオフィスチェアです。このチェアは、DynaCoreシステムやSyncroFlexバックレストシステムを搭載し、個々の体型に合わせた快適なサポートを提供します。特に、Dynamic Lumbar Support 2.0は、体の動きに合わせて自然に調整されるため、長時間の使用でも快適さを保ちます。"
-    },
-    {
-      "id": "ed22ae6a0c551f0780f2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple loses bid to overturn $634 million Masimo patent verdict, new trial also denied",
-      "url": "https://9to5mac.com/2026/07/21/apple-loses-bid-to-overturn-634-million-masimo-patent-verdict-new-trial-also-denied/",
-      "publishedAt": "2026-07-21T22:19:01.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/apple-watch-health-sensors-blood-glucose.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、Masimoとの特許訴訟で敗訴",
-      "summaryJa": "Appleは、Masimoとの長期にわたる特許訴訟で634百万ドルの賠償命令を覆す試みが却下され、新たな裁判も認められませんでした。MasimoはAppleがパルスオキシメトリ技術に関する特許を侵害したと訴え、2023年にはApple Watchの血中酸素モニタリング機能に対する米国の輸入禁止が出されました。Appleは一時的に販売を停止しましたが、機能を無効にしたモデルの販売を再開し、2025年には新しい機能を導入しました。"
-    },
-    {
-      "id": "67efcc689ba7e43d93f0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple shares true story video on how Apple Watch helped rescue an injured cyclist",
-      "url": "https://9to5mac.com/2026/07/21/apple-shares-true-story-video-on-how-apple-watch-helped-rescue-an-injured-cyclist/",
-      "publishedAt": "2026-07-21T21:27:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-watch-rescue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watchが負傷したサイクリストを救助",
-      "summaryJa": "Appleは、Apple Watchの安全機能が負傷したサイクリストを救助した実話を紹介する新しい動画を公開しました。この動画では、山道での事故により意識を失ったサイクリストが、Apple Watchの転倒検知機能と緊急SOSを通じて救助された様子が描かれています。Appleは過去にもApple Watchの安全機能を強調するキャンペーンを行っており、今回の動画はその一環です。"
     }
   ],
-  "updatedAt": "2026-07-30T18:39:53.626Z",
+  "updatedAt": "2026-07-30T20:06:46.853Z",
   "initialized": true,
   "summaryVersion": 4
 }
