@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "2b1fd6de0f3c1a3e38af",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple faces bipartisan Senate pushback over plans to buy Chinese memory chips",
+      "url": "https://9to5mac.com/2026/07/29/apple-faces-bipartisan-senate-pushback-over-plans-to-buy-chinese-memory-chips/",
+      "publishedAt": "2026-07-30T00:41:49.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Mac-hardware-is-great-but-macOS-26-is-a-disaster-say-pundits.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、中国製メモリーチップ購入計画に反発",
+      "summaryJa": "アメリカの上院議員がAppleのティム・クックCEOに対し、中国のCXMTおよびYMTCからのメモリーチップ購入を8月21日までに中止するよう求めています。Appleはメモリ不足を解消するためにこれらの企業からの調達を模索していましたが、ペンタゴンによって軍事企業と見なされているため、政治的な影響を懸念しています。過去にもAppleはYMTCからの調達を試みたことがあります。"
+    },
+    {
+      "id": "89cae9ddf07bb71295ab",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Qualcomm Expects Apple Modem Revenue to Drop Faster Than Expected",
+      "url": "https://www.macrumors.com/2026/07/29/qualcomm-apple-modem-revenue-dropping/",
+      "publishedAt": "2026-07-30T00:13:43.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/03/Apple-5G-Modem-Feature-16x9.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Qualcomm、Apple向けモデム収益の急減を予測",
+      "summaryJa": "QualcommのCEO、クリスティアーノ・アモン氏は、Apple向けの収益が予想以上に早く減少すると述べました。これは供給制約が原因で、次期iPhoneのQualcomm部品のシェアが20%を下回る見込みです。Appleは独自のモデムチップの開発を進めており、iPhone 18からは自社製チップの使用が増える可能性があります。"
+    },
+    {
+      "id": "3c7a8667a5723c9aba40",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Studio Display XDR hits Apple’s refurb store, saving you up to $540",
+      "url": "https://9to5mac.com/2026/07/29/studio-display-xdr-hits-apples-refurb-store-saving-you-up-to-540/",
+      "publishedAt": "2026-07-30T00:09:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/studio-display-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Studio Display XDRのリファービッシュ品を販売開始",
+      "summaryJa": "Appleがリファービッシュ品としてStudio Display XDRを販売開始しました。これにより、最大540ドルの割引が受けられます。27インチの5Kディスプレイを搭載し、Thunderbolt 5接続が可能なこの製品は、Macユーザーに最適です。リファービッシュ品はAppleの厳しい検査を経て販売され、1年の保証が付いています。"
+    },
+    {
+      "id": "f6a62d1719d8a73fd87d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: July 29, 2026 – iOS 26.6, Apple’s smart home plans",
+      "url": "https://9to5mac.com/2026/07/29/daily-july-29-2026/",
+      "publishedAt": "2026-07-29T23:27:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "9to5Mac Daily: iOS 26.6とAppleのスマートホーム計画",
+      "summaryJa": "9to5Mac Dailyでは、iOS 26.6のリリースやAppleの新しいスマートホーム製品がほぼ発売準備完了であるとの報道が紹介されました。また、AppleはiPhoneやMacのセキュリティ問題を修正したことも報告されています。新エピソードは毎日配信されており、ポッドキャストで視聴可能です。"
+    },
+    {
       "id": "38dfc2109c56f27dbef5",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4448,69 +4508,9 @@
       ],
       "titleJa": "このmacOS 27の変更が私の生活の質を向上させるトップの改善です",
       "summaryJa": "macOS 27 Golden Gateでは、バグ修正とパフォーマンス向上に力を入れており、特にMessagesのログイン時の改善が注目されています。"
-    },
-    {
-      "id": "68a27239889b172a11fa",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Rumor Reality Check: 20 Claims Ranked by Likelihood",
-      "url": "https://www.macrumors.com/2026/07/21/ranked-best-features-rumored-iphone-18/",
-      "publishedAt": "2026-07-21T14:32:19.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iPhone-18-Rumor-Check-20-Claims-Ranked-by-Likelihood-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18の噂、信憑性を評価",
-      "summaryJa": "AppleのiPhone 18 Proモデルと初の折りたたみiPhoneが2ヶ月以内に発表される見込みです。iPhone Air 2は、ウルトラワイドカメラを搭載し、デザインはほぼ変更なしで進行中とのこと。また、iPhone 18 Proには新色や可変絞りレンズが追加される可能性があり、RAMも増加する見込みです。これらの情報は、信憑性の高い噂として評価されています。"
-    },
-    {
-      "id": "57c1ba6b67980987b0f7",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Score the A16 iPad for Its Best Price Since June's Hike",
-      "url": "https://www.macrumors.com/2026/07/21/get-the-a16-ipad-for-399/",
-      "publishedAt": "2026-07-21T14:15:29.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/10/ipad-blue-prime-day.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "第11世代iPadが特価で登場",
-      "summaryJa": "AmazonがAppleの第11世代iPadのWi-Fiモデルを50ドル引きで販売中です。128GBモデルは399ドル、256GBモデルは499ドル、512GBモデルは699ドルとなっており、6月の価格引き上げ以降の最安値です。多くのモデルは7月26日頃に無料配送予定ですが、プライム会員は当日配送が可能です。"
-    },
-    {
-      "id": "4f3c5ca0360f6690c364",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 26.6 Prepares Your iPhone for iOS 27",
-      "url": "https://www.macrumors.com/2026/07/21/ios-26-6-prepares-for-ios-27/",
-      "publishedAt": "2026-07-21T13:19:01.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Ask-Siri-iOS-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 26.6がiOS 27の準備を進める",
-      "summaryJa": "iOS 26.6がリリースされ、iOS 27に向けたSpotlightインデックスの最適化が行われます。このアップデートは、バグ修正やセキュリティ脆弱性の修正も含まれており、来週のリリースが予想されています。iOS 27のベータ版をスキップしたユーザーにとって、インデックスの再構築が早まる効果があります。"
-    },
-    {
-      "id": "4c8874d88baccfc1d686",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Chipmaker TSMC Plans Price Hikes of Up to 10% in 2027",
-      "url": "https://www.macrumors.com/2026/07/21/apple-tsmc-price-hikes-2027/",
-      "publishedAt": "2026-07-21T11:01:47.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2020/08/tsmc_semiconductor_chip_inspection_678x452.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "TSMC、2027年に最大10%の価格引き上げ計画",
-      "summaryJa": "Appleの主要チップメーカーであるTSMCが、2027年から5〜10%の価格引き上げを計画していると報じられています。この価格改定は、材料費や製造設備のコスト上昇を反映しており、Appleが依存するAシリーズやMシリーズのチップにも影響を及ぼす可能性があります。Appleがこのコストを吸収するか、顧客に転嫁するかは不明です。"
     }
   ],
-  "updatedAt": "2026-07-29T23:17:43.321Z",
+  "updatedAt": "2026-07-30T00:52:37.383Z",
   "initialized": true,
   "summaryVersion": 4
 }
