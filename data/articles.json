@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "bbb0e67bcc459cff5438",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Yahoo Weather iOS app overhauled with new features and enhanced radar and maps",
+      "url": "https://9to5mac.com/2026/07/30/yahoo-weather-ios-update/",
+      "publishedAt": "2026-07-30T15:59:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/yahoo-weather-iOS-app.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Yahoo Weatherアプリが大幅リニューアル",
+      "summaryJa": "Yahoo WeatherがiPhoneとiPad向けに大幅なアップデートを実施しました。新機能として、強化されたレーダーやインタラクティブな地図、分単位の降水予報が追加され、ユーザーは突然の雨に備えやすくなります。また、空気質や花粉レベル、月の相に関する詳細情報も提供され、日々の天気をわかりやすくまとめた新しいナラティブも導入されています。新しいYahoo WeatherアプリはApp Storeで無料アップデートとして利用可能です。"
+    },
+    {
+      "id": "61ba2c2c7620a2615490",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s everything new for Apple Notes in iOS 27",
+      "url": "https://9to5mac.com/2026/07/30/heres-everything-new-for-apple-notes-in-ios-27/",
+      "publishedAt": "2026-07-30T15:55:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/notes-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27でApple Notesが進化",
+      "summaryJa": "iOS 27では、Apple Notesに新機能が追加されました。新たに区切り線を挿入できる機能や、セクションリンクを作成する機能が導入され、長文のノートを整理しやすくなります。また、Siriを使ってノートに情報を追加する新しいAI機能も実装され、ユーザーは音声で簡単にノートを作成できます。これにより、Apple Notesの使い勝手が大幅に向上しました。"
+    },
+    {
+      "id": "e7260edd7c80eeee2750",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Spotify Adds Running Mode to iOS App With Tempo-Matched Music",
+      "url": "https://www.macrumors.com/2026/07/30/spotify-adds-running-mode-iphone/",
+      "publishedAt": "2026-07-30T15:49:15.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/spotify-running-mode@2x-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "SpotifyがiOSアプリにランニングモードを追加",
+      "summaryJa": "Spotifyが新たにランニングモードをiOSアプリに追加しました。この機能は、ユーザーが選択したワークアウトタイプやテンポに基づいてプレイリストを構成し、音楽を提供します。ランニング中に音声ガイドを利用することも可能ですが、現時点では英語のみ対応しています。この新機能は、フィットネスコンテンツの一環として提供され、プレミアム会員向けに利用可能です。"
+    },
+    {
+      "id": "dde1e1f6d4a81a57b2f5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: MacBook Pro $500 off, rare MacBook Air discounts, AirTag 2, charging gear, MagSage Battery, more",
+      "url": "https://9to5mac.com/2026/07/30/deals-macbook-pro-macbook-air-airtag-2-airpods/",
+      "publishedAt": "2026-07-30T15:38:48.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-deals-MacBook-Pro-Air-AirTag-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBook Proが最大500ドルオフのセール",
+      "summaryJa": "現在、MacBook ProやAirPodsのセールが行われています。特に、20コアの2TB M5 Pro MacBook Proが300ドルオフ、16コアモデルは500ドルオフで販売中です。また、AirPods Pro 3やAirPods Max 2もそれぞれ50ドル、100ドルの割引が適用されています。これらのセールは、Apple製品をお得に購入する絶好の機会です。"
+    },
+    {
       "id": "d57bd0f00b41f36593b4",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4447,70 +4507,9 @@
       ],
       "titleJa": "TestFlightのアップデート情報",
       "summaryJa": "TestFlightの最新リリースノートが公開されました。詳細はアプリ内で確認できます。"
-    },
-    {
-      "id": "2579b2baedd798bb6dce",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "TestFlight 4.3",
-      "url": "https://developer.apple.com/news/releases/?id=07212026b",
-      "publishedAt": "2026-07-21T20:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "TestFlight 4.3がリリース",
-      "summaryJa": "TestFlight 4.3がリリースされ、アプリのダウンロードが可能です。リリースノートの詳細はアプリ内で確認できます。"
-    },
-    {
-      "id": "e5ded01c22d5c45752ed",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Invites App Updated With Two New Features",
-      "url": "https://www.macrumors.com/2026/07/21/apple-invites-app-two-new-features/",
-      "publishedAt": "2026-07-21T19:55:31.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/02/General-Apple-Invites-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Invitesが新機能を追加",
-      "summaryJa": "Apple Invitesアプリが更新され、ホストとゲストがイベントへの返信に絵文字で反応できる機能と、返信時にコンフェッティアニメーションが表示される機能が追加されました。バージョン1.10にはバグ修正やパフォーマンス向上も含まれています。このアプリは、iCloud+プランに加入することでイベントを作成でき、誰でも無料でイベントリンクにRSVPできます。"
-    },
-    {
-      "id": "67ba77706da916ebf05d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro release date: Here’s when Apple’s new model is coming",
-      "url": "https://9to5mac.com/2026/07/21/iphone-18-release-date-when-apples-new-model-is-coming/",
-      "publishedAt": "2026-07-21T19:48:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの発表時期は9月か",
-      "summaryJa": "Appleの新型iPhone 18 Proが今年の秋に発表される見込みです。過去の傾向から、発表は9月の第2週になると予想されていますが、労働の日が遅いため、9月14日になる可能性があります。今年の新モデルはiPhone 18 Pro、iPhone 18 Pro Max、iPhone Ultraが含まれると報じられています。"
-    },
-    {
-      "id": "1217742efdb84189b04f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Updates TestFlight",
-      "url": "https://www.macrumors.com/2026/07/21/apple-updates-testflight/",
-      "publishedAt": "2026-07-21T19:32:30.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/06/testflight-redesign.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "TestFlightが新機能を追加",
-      "summaryJa": "AppleがTestFlightアプリを更新し、ベータテスト中のアプリを迅速に検索できる検索フィールドを追加しました。バージョン4.3にはバグ修正やパフォーマンス向上も含まれています。更新はApp Storeで利用可能です。"
     }
   ],
-  "updatedAt": "2026-07-30T15:23:55.032Z",
+  "updatedAt": "2026-07-30T16:59:33.577Z",
   "initialized": true,
   "summaryVersion": 4
 }
