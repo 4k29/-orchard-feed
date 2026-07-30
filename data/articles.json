@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "dd9867d2aac7c294b398",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: July 30, 2026 – iOS 26.6, Apple’s smart home plans",
+      "url": "https://9to5mac.com/2026/07/30/daily-july-30-2026/",
+      "publishedAt": "2026-07-30T18:35:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 26.6が登場、Appleのスマートホーム計画",
+      "summaryJa": "iOS 26.6がiPhone向けにリリースされ、75以上のセキュリティ問題が修正されました。また、Appleは新たに3つのスマートホーム製品を発表する準備が整っているとの報道があります。これらの製品は、Appleのホームエコシステムの拡大に寄与することが期待されています。"
+    },
+    {
+      "id": "7525756a094bb4edff24",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Fortnite returns to iPhone in Brazil with Epic Games Store launch",
+      "url": "https://9to5mac.com/2026/07/30/fortnite-returns-to-iphone-in-brazil-with-epic-games-store-launch/",
+      "publishedAt": "2026-07-30T17:47:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/epic-store-brazil-iphone.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ブラジルでFortniteがiPhoneに復活、Epic Games Store登場",
+      "summaryJa": "Epic Games StoreがブラジルでiPhone向けにローンチされ、Fortniteが再登場しました。しかし、Epic Gamesはアクセスに9ステップを要するプロセスに対して不満を表明しています。Appleのポリシーが競争を妨げていると主張し、今後の改善を求めています。"
+    },
+    {
+      "id": "f091b7cb96de0b6a4a83",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple is about to launch Home product overhaul I’ve wanted for years",
+      "url": "https://9to5mac.com/2026/07/30/apple-is-about-to-launch-home-product-overhaul-ive-wanted-for-years/",
+      "publishedAt": "2026-07-30T17:29:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、スマートホーム製品の大幅改良を計画か",
+      "summaryJa": "Bloombergの報道によると、Appleはスマートホーム製品の大幅な改良を近日中に発表する予定です。新しいApple TV 4KやHomePodなど、7つの新製品が開発中とされ、秋には新しいSiriと共に登場する見込みです。Appleのスマートホームへの本格的な取り組みが期待されています。"
+    },
+    {
+      "id": "a687f1a542b7a9e652d9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Donating to Japan Earthquake Relief Efforts",
+      "url": "https://www.macrumors.com/2026/07/30/apple-japan-earthquake-donation/",
+      "publishedAt": "2026-07-30T17:26:39.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Apple-Logo-Red.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、日本の地震救援活動に寄付",
+      "summaryJa": "Appleのティム・クックCEOは、九州地方で発生した6.8の地震に対する救援活動を支援するために寄付を行うと発表しました。この地震で34人以上が死亡し、Appleは自然災害時にしばしば寄付を行っています。クック氏は、日本の人々への思いを語り、救援活動を支援する意向を示しました。"
+    },
+    {
+      "id": "1083dc2a729c502db9f5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI makes two GPT-5.6 models cheaper, expanding usage in ChatGPT",
+      "url": "https://9to5mac.com/2026/07/30/openai-makes-two-gpt-5-6-models-cheaper-expanding-usage-in-chatgpt/",
+      "publishedAt": "2026-07-30T17:25:37.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-green.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、GPT-5.6モデルの価格を引き下げ",
+      "summaryJa": "OpenAIは、GPT-5.6モデルのうち2つの価格を引き下げ、API顧客以外にも恩恵が及ぶと発表しました。中型のTerraモデルは20%、小型のLunaモデルは80%の値下げが行われ、API顧客向けの新価格はそれぞれ$2と$0.20となります。また、ChatGPT WorkやCodexユーザー向けにも、使用トークンのカウントが調整され、より多くのタスクを実行できるようになります。"
+    },
+    {
       "id": "bbb0e67bcc459cff5438",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4430,86 +4505,9 @@
       ],
       "titleJa": "Apple Watchが負傷したサイクリストを救助",
       "summaryJa": "Appleは、Apple Watchの安全機能が負傷したサイクリストを救助した実話を紹介する新しい動画を公開しました。この動画では、山道での事故により意識を失ったサイクリストが、Apple Watchの転倒検知機能と緊急SOSを通じて救助された様子が描かれています。Appleは過去にもApple Watchの安全機能を強調するキャンペーンを行っており、今回の動画はその一環です。"
-    },
-    {
-      "id": "819de0d25c26900674ea",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "AppleCare+が日本で拡大、新しい盗難・紛失に対する保証とプランのオプションが追加に",
-      "url": "https://www.apple.com/jp/newsroom/2026/07/applecareplus-expands-in-japan-with-new-theft-and-loss-coverage-and-plan-options/",
-      "publishedAt": "2026-07-21T20:58:28.538Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "AppleCare+が日本で拡大、盗難・紛失保証を追加",
-      "summaryJa": "Appleは、日本においてAppleCare+の盗難・紛失に対する保証をiPadとApple Watchに拡大し、新しいサブスクリプションプランを導入しました。これにより、ユーザーは月払いまたは1年プランから選択でき、柔軟に保証を受けることが可能になります。新プランでは、盗難・紛失に対する保証を年間2回まで受けられるようになり、Apple製品のサポートが強化されます。"
-    },
-    {
-      "id": "cf827e1ad8f76f4d9f89",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Air 2 is coming, here’s everything we know so far",
-      "url": "https://9to5mac.com/2026/07/21/iphone-air-2-is-coming-heres-everything-we-know-so-far/",
-      "publishedAt": "2026-07-21T20:47:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-air0000.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone Air 2の情報が明らかに",
-      "summaryJa": "Appleは第二世代のiPhone Airを開発中で、現在のモデルのいくつかの制約を解消する可能性があります。新型iPhone Airは、デュアルカメラを搭載し、A20 Proチップを搭載することが報じられています。初代モデルの販売が期待を下回ったため、リリースは一時的に延期されましたが、開発は続いているとのことです。"
-    },
-    {
-      "id": "d9871ef2b2711f2171ee",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV drops trailer for Women in Blue’s second season",
-      "url": "https://9to5mac.com/2026/07/21/apple-tv-drops-trailer-for-women-in-blues-second-season/",
-      "publishedAt": "2026-07-21T20:45:01.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/women-in-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、ドラマ「Women in Blue」シーズン2の予告公開",
-      "summaryJa": "Apple TVは、ドラマ「Women in Blue」のシーズン2の予告編を公開しました。このシリーズは、メキシコ初の女性警察部隊に参加する4人の女性の物語を描いており、シーズン2では1968年の学生虐殺に関連する殺人事件の捜査が中心となります。新シーズンは8月12日に配信開始され、主人公マリアが真実を追求する中で直面する葛藤が描かれます。"
-    },
-    {
-      "id": "8d5fa167421f25707c21",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 code suggests Apple could restrict leased devices after missed payments",
-      "url": "https://9to5mac.com/2026/07/21/ios-27-code-suggests-apple-could-restrict-leased-devices-after-missed-payments/",
-      "publishedAt": "2026-07-21T20:28:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/restricted.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27、未払い時のデバイス制限機能を示唆",
-      "summaryJa": "iOS 27のベータ版に見つかったコードによると、Appleは顧客がリース料金を滞納した場合にデバイスを制限するシステムを構築している可能性があります。Bloombergによれば、Appleは新たな「Apple Upgrade」リースプログラムを米国で導入予定で、iPhoneやMacなどのハードウェア購入を低月額で提供する計画です。未払い時には「制限モード」に移行し、特定のアプリへのアクセスが制限される仕組みが含まれています。"
-    },
-    {
-      "id": "39f309e7d68cc18b2812",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "TestFlight Update",
-      "url": "https://developer.apple.com/news/releases/?id=07212026a",
-      "publishedAt": "2026-07-21T20:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "TestFlightのアップデート情報",
-      "summaryJa": "TestFlightの最新リリースノートが公開されました。詳細はアプリ内で確認できます。"
     }
   ],
-  "updatedAt": "2026-07-30T16:59:33.577Z",
+  "updatedAt": "2026-07-30T18:39:53.626Z",
   "initialized": true,
   "summaryVersion": 4
 }
