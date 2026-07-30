@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "40813ee3b1909d617fab",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "PSA: App Store, iTunes Store and other Apple services are currently down for some users [U: Fixed]",
+      "url": "https://9to5mac.com/2026/07/29/psa-app-store-itunes-store-and-other-apple-services-are-currently-down-for-some-users/",
+      "publishedAt": "2026-07-30T02:29:50.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleサービスが一時的にダウン",
+      "summaryJa": "AppleのApp StoreやiTunes Storeなどのサービスが一部ユーザーに影響を与える形でダウンしていましたが、現在は復旧したとのことです。問題は7月30日午後7時40分（ET）に発生し、Appleは緊急メンテナンスを行っていました。影響を受けたのは、App Store、iTunes Store、Mac App Storeなどで、購入ができないユーザーがいた模様です。"
+    },
+    {
+      "id": "1c8800cb033c533c4628",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple pledges support for communities affected by southern Europe wildfires",
+      "url": "https://9to5mac.com/2026/07/29/apple-pledges-support-for-communities-affected-by-southern-europe-wildfires/",
+      "publishedAt": "2026-07-30T02:14:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、南欧の森林火災支援を表明",
+      "summaryJa": "Appleのティム・クックCEOが、南欧の森林火災の被害者を支援するために寄付を行うと発表しました。ポルトガル、スペイン、フランスでの火災により30万人以上が避難を余儀なくされており、Appleは災害時に支援を行うことが多いです。クック氏は、被害を受けた人々への思いを述べ、現地の救助活動に感謝の意を示しました。"
+    },
+    {
+      "id": "291f12e56089dc1be6e6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "20th Anniversary iPhone Coming Next Year With These 10 Features",
+      "url": "https://www.macrumors.com/2026/07/29/20th-anniversary-iphone-10-features/",
+      "publishedAt": "2026-07-30T01:00:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "20周年記念iPhone、2027年秋に登場か",
+      "summaryJa": "Appleの20周年記念iPhoneが2027年秋に登場する見込みで、iPhone X以来の大幅なデザイン変更が予想されています。初代iPhoneの発表から20年が経つ2027年6月29日が記念日ですが、例年通り秋に発売される可能性が高いです。新しいデザインやディスプレイ技術の導入が噂されており、今後のiPhoneのデザイン方向性を決定づけるモデルになると考えられています。"
+    },
+    {
       "id": "2b1fd6de0f3c1a3e38af",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4463,54 +4508,9 @@
       ],
       "titleJa": "Apple、米国で「Apple Upgrade」プログラム開始へ",
       "summaryJa": "AppleがKlarnaと提携し、米国で「Apple Upgrade」プログラムを7月28日に開始するとの報道があります。このプログラムでは、iPhoneやiPad、Mac、Apple Watchの大部分を24ヶ月または36ヶ月で分割払いでき、早期返済や機種変更も可能です。ただし、Apple Watch SEやエントリーモデルのiPadなど一部のデバイスは対象外となります。また、AppleCare+は含まれない見込みです。新プログラム開始に伴い、従来のiPhone Upgrade Programへの新規登録は停止されるとのことです。"
-    },
-    {
-      "id": "331acbe1e7f342a72ede",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple debuting new ‘Apple Upgrade’ leasing program next week, per report",
-      "url": "https://9to5mac.com/2026/07/21/apple-debuting-new-apple-upgrade-leasing-program-next-week-per-report/",
-      "publishedAt": "2026-07-21T15:26:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-pro-max-mockup-di.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、来週「Apple Upgrade」リースプログラム開始か",
-      "summaryJa": "Appleが新たに「Apple Upgrade」リースプログラムを米国で開始するとの報道があります。このプログラムは、iPhoneやiPad、Mac、Apple Watchを対象にしたもので、月々の支払いが低く抑えられる仕組みです。リース期間はiPhoneとApple Watchが24ヶ月、Macが36ヶ月で、早期返済や機種変更も可能ですが、AppleCareは含まれません。Appleは新プログラムの開始に伴い、従来のiPhone Upgrade Programの新規登録を停止する計画です。"
-    },
-    {
-      "id": "7fd13619548b0793a407",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Meta testing StoryKit, an AI iPhone app that creates ‘personalized children’s stories’",
-      "url": "https://9to5mac.com/2026/07/21/meta-testing-storykit-an-ai-iphone-app-that-creates-personalized-childrens-stories/",
-      "publishedAt": "2026-07-21T15:24:38.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/storykit-meta.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Meta、AIで子供向け物語を作成するアプリをテスト中",
-      "summaryJa": "Metaが新しいiPhoneアプリ「StoryKit」を発表しました。このアプリはAIを利用して、ユーザーが選んだキャラクターや設定、価値観に基づいてオリジナルの子供向け物語を生成します。現在、メキシコのApp Storeでのみ利用可能で、米国では未発売のため、地域限定でのテストが行われている模様です。StoryKitは、絵本やオーディオブック、印刷可能なPDFなど、様々な形式で物語を提供します。MetaはAIの取り組みを広げており、今後の展開に注目が集まります。"
-    },
-    {
-      "id": "b957f11d96836f9f231f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "This macOS 27 change is my top quality-of-life improvement",
-      "url": "https://9to5mac.com/2026/07/21/this-macos-27-change-is-my-top-quality-of-life-improvement/",
-      "publishedAt": "2026-07-21T15:11:29.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-golden-gate-wallpaper-bridge.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "このmacOS 27の変更が私の生活の質を向上させるトップの改善です",
-      "summaryJa": "macOS 27 Golden Gateでは、バグ修正とパフォーマンス向上に力を入れており、特にMessagesのログイン時の改善が注目されています。"
     }
   ],
-  "updatedAt": "2026-07-30T00:52:37.383Z",
+  "updatedAt": "2026-07-30T03:53:04.597Z",
   "initialized": true,
   "summaryVersion": 4
 }
