@@ -1,6 +1,141 @@
 {
   "articles": [
     {
+      "id": "d57bd0f00b41f36593b4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Upgrade vs iPhone Upgrade Program: Here are the key differences",
+      "url": "https://9to5mac.com/2026/07/30/apple-upgrade-vs-iphone-upgrade-program-here-are-the-key-differences/",
+      "publishedAt": "2026-07-30T15:08:26.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple UpgradeとiPhone Upgrade Programの違い",
+      "summaryJa": "Appleは新たにApple Upgradeを発表し、iPhone Upgrade Programを終了しました。Apple Upgradeはリースプログラムで、月額料金が低く設定されていますが、AppleCareは含まれていません。一方、iPhone Upgrade Programは所有権があり、月額料金は高めでした。これにより、ユーザーは新しいiPhoneをより手軽に手に入れられる一方で、最終的に所有するためには追加費用が必要になります。"
+    },
+    {
+      "id": "eee8e2ab1aa2fd2566e8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 will bring five new features not yet announced, per rumors",
+      "url": "https://9to5mac.com/2026/07/30/ios-27-will-bring-five-new-features-not-yet-announced-per-rumors/",
+      "publishedAt": "2026-07-30T14:35:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-lock-screen-jb.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27に未発表の新機能が5つ登場か",
+      "summaryJa": "iOS 27がベータ版でテスト中で、今秋に正式リリースされる予定です。Bloombergのマーク・ガーマン氏によると、未発表の新機能が5つ存在する可能性があります。これには、Siriに外部チャットボットの統合や、Apple HealthアプリのAI機能の強化が含まれます。これらの機能は、初回リリースには含まれない見込みですが、将来的なアップデートで追加される可能性があります。"
+    },
+    {
+      "id": "b554ac2b7a67d8a56851",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirTag 2 Available for Record Low Price of $89 for 4-Pack",
+      "url": "https://www.macrumors.com/2026/07/30/airtag-2-price-of-89/",
+      "publishedAt": "2026-07-30T13:46:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Second-Generation-AirTag-Feature-Purple.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirTag 2が4個パックで特価89ドル",
+      "summaryJa": "AppleのAirTag 2が4個パックで89ドルに値下げされ、過去最低価格となっています。これはプライムデーで見られた価格と同じです。また、1個パックも27ドルに値下げされています。新しいAirTagは第2世代のウルトラワイドバンドチップを搭載し、精密探知機能が向上しています。お得なApple関連のセール情報も随時更新されています。"
+    },
+    {
+      "id": "3022972f5b75dbdbae31",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "You Can Listen to Tim Cook's Final Earnings Call as Apple CEO Today",
+      "url": "https://www.macrumors.com/2026/07/30/tim-cook-final-earnings-call-as-apple-ceo/",
+      "publishedAt": "2026-07-30T13:45:43.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/04/Stocks-App-Icon-and-Apple-Logo-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "ティム・クックの最後の決算発表を聴取可能",
+      "summaryJa": "ティム・クックがAppleのCEOとして最後の決算発表に参加します。発表は太平洋時間の午後2時から行われ、誰でもAppleの投資家向けサイトで無料で視聴可能です。クック氏は9月1日からCEOを退任し、次回の決算発表には出席しません。発表後は録音も公開される予定です。"
+    },
+    {
+      "id": "88209e0800239daa5159",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Donating to European Wildfire Relief Efforts",
+      "url": "https://www.macrumors.com/2026/07/30/apple-donating-to-european-wildfire-relief-efforts/",
+      "publishedAt": "2026-07-30T13:43:37.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/09/Apple-Logo-Top-Half.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、欧州の森林火災支援に寄付",
+      "summaryJa": "AppleのCEOティム・クック氏が水曜日に発表したところによると、Appleはフランス、スペイン、ギリシャなどで発生した森林火災の被害を受けた地域への支援に寄付を行うとのことです。過去にも赤十字に寄付を行っており、具体的な金額は公表されていません。"
+    },
+    {
+      "id": "2fe5e2c2dd7a647361a1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 Finally Unlinks Alarm Volume From Your iPhone Ringer",
+      "url": "https://www.macrumors.com/how-to/ios-27-unlinks-alarm-volume-iphone-ringer/",
+      "publishedAt": "2026-07-30T13:40:30.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/06/apple-alarm-app.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27でアラーム音量が独立",
+      "summaryJa": "iOS 27では、iPhoneのアラーム音量が着信音の音量と連動しなくなります。新たに「アラームとタイマー」セクションが追加され、音量を個別に設定できるようになりました。これにより、着信音を消してもアラーム音量はそのまま維持されます。iOS 27は現在パブリックベータ版が利用可能で、9月に正式リリース予定です。"
+    },
+    {
+      "id": "b4990a4f328f22d8066e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Microsoft will launch new ‘super app’ for Copilot soon",
+      "url": "https://9to5mac.com/2026/07/30/microsoft-will-launch-new-super-app-for-copilot-soon/",
+      "publishedAt": "2026-07-30T13:29:41.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/11/microsoft-copilot-pro.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Microsoft、Copilot用の新しい「スーパーアプリ」を発表予定",
+      "summaryJa": "MicrosoftのCEOサティア・ナデラ氏が、Copilot用の「スーパーアプリ」を近日中に発表することを確認しました。このアプリはチャットやコーディング機能を統合し、消費者向けと商業向けの体験を提供する予定です。Appleはこの「スーパーアプリ」アプローチには移行しておらず、今後の動向が注目されます。"
+    },
+    {
+      "id": "4e77f3a20dd1ef9ec8b2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Spotify for iOS adds new music feature that can improve your running game",
+      "url": "https://9to5mac.com/2026/07/30/spotify-ios-running-mode/",
+      "publishedAt": "2026-07-30T13:20:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/Spotify.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Spotify、iOS向けに新しいランニング機能を追加",
+      "summaryJa": "Spotifyが新たに「ランニングモード」機能を導入し、ユーザーのランニング目標や音楽の好みに応じたプレイリストを提供します。この機能は、アメリカ、カナダ、イギリスなどのプレミアムユーザー向けに展開され、カスタマイズ可能なトレーニングタイプや音楽のテンポに基づいて音楽が選ばれます。"
+    },
+    {
+      "id": "7f34b2e2723d7c8aa77c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "No surprises expected from today’s AAPL earnings report, but one huge question",
+      "url": "https://9to5mac.com/2026/07/30/no-surprises-expected-from-todays-aapl-earnings-report-but-one-huge-question/",
+      "publishedAt": "2026-07-30T13:19:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-logo-wwdc-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Q3決算発表へ",
+      "summaryJa": "Appleは本日、6月末で終了した2023年度第3四半期の決算を発表します。アナリストとのQ&Aも行われ、特に新しいApple Upgradeプログラムの影響についての見通しが注目されています。市場では、売上高が前年同期比で約15.64%増加するとの予想があり、Appleがこの期待を上回るかどうかが焦点です。また、ティム・クックCEOによる最後の決算発表となります。"
+    },
+    {
       "id": "74f9754fe92ab886312a",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4373,144 +4508,9 @@
       ],
       "titleJa": "TestFlightが新機能を追加",
       "summaryJa": "AppleがTestFlightアプリを更新し、ベータテスト中のアプリを迅速に検索できる検索フィールドを追加しました。バージョン4.3にはバグ修正やパフォーマンス向上も含まれています。更新はApp Storeで利用可能です。"
-    },
-    {
-      "id": "8b77ea79d0ac043f657e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Invites app updated with two new invitation features for hosts and guests",
-      "url": "https://9to5mac.com/2026/07/21/apple-invites-app-updated-with-two-new-invitation-features-for-hosts-and-guests/",
-      "publishedAt": "2026-07-21T19:28:41.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-invites.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Invitesが招待機能を強化",
-      "summaryJa": "Apple Invitesアプリが更新され、ホストとゲストのやり取りを向上させる新機能が追加されました。返信に絵文字で反応できる機能と、返信時にコンフェッティアニメーションが表示される機能が新たに実装されています。このアプリはiCloud+加入者向けで、誰でも無料でイベントにRSVPできます。"
-    },
-    {
-      "id": "3c14cb880c22a5fe0cbc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s new hardware subscription sounds great, except for one limitation",
-      "url": "https://9to5mac.com/2026/07/21/apples-new-hardware-subscription-sounds-great-except-for-one-limitation/",
-      "publishedAt": "2026-07-21T19:17:04.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-rear-hold.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、月額サブスクリプション「Apple Upgrade」を発表か",
-      "summaryJa": "Appleが新たに「Apple Upgrade」というハードウェアのリースプログラムを発表するとの報道があります。このプログラムでは、Apple製品を月額料金で購入できるようになりますが、エントリーモデルが対象外となる可能性があります。これにより、より高価な製品へのアクセスが容易になる一方で、手頃な価格の製品が利用できないのは残念です。来週にはオンラインストアや実店舗での購入が可能になる見込みです。"
-    },
-    {
-      "id": "9b435f94dc33c4b06493",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Best Buy Offers $160 Off All iPhone Air Models During Black Friday in July",
-      "url": "https://www.macrumors.com/2026/07/21/best-buy-iphone-air-models/",
-      "publishedAt": "2026-07-21T18:47:16.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/iphone-air-silver.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Best Buy、iPhone Air全モデルをブラックフライデー価格で提供",
-      "summaryJa": "Best Buyが「ブラックフライデー・イン・ジュライ」イベントの一環として、すべてのiPhone Airモデルを160ドル引きで販売しています。256GBモデルは839.99ドル、512GBモデルは1,039.99ドル、1TBモデルは1,239.99ドルで提供され、いずれもアンロック版です。また、iPhone Air用のMagSafeバッテリーも特別価格で販売中です。"
-    },
-    {
-      "id": "d17256c76769a8b787b5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple just improved TestFlight for users with a lot of beta apps",
-      "url": "https://9to5mac.com/2026/07/21/apple-just-improved-testflight-for-users-with-a-lot-of-beta-apps/",
-      "publishedAt": "2026-07-21T18:28:58.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/testflight-app.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、TestFlightをアップデートし検索機能を追加",
-      "summaryJa": "AppleがTestFlightの最新バージョン4.3をリリースし、多くのベータアプリを持つユーザー向けに検索機能を追加しました。これにより、アプリを迅速に見つけることが可能になり、特に多数のベータアプリを使用しているユーザーにとって便利な改善です。さらに、以前にテストしたアプリがより多く表示されるようになり、全体的なパフォーマンス向上も期待されています。"
-    },
-    {
-      "id": "71c86546c9997fb624d1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV’s new comedy from Ben Stiller is almost here, and reviews are in",
-      "url": "https://9to5mac.com/2026/07/21/apple-tvs-new-comedy-from-ben-stiller-is-almost-here-and-reviews-are-in/",
-      "publishedAt": "2026-07-21T18:07:04.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/the-dink-johnson-chen.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVの新作コメディ「The Dink」が登場",
-      "summaryJa": "Ben Stillerがプロデュースする新作映画「The Dink」が今週金曜日にApple TVでプレミア上映されます。初期のレビューでは、軽快で楽しい夏のコメディとして評価されており、2000年代のスポーツコメディの伝統を引き継いでいるとのことです。物語は、元テニスの天才がピクルボールに挑戦する様子を描いており、視聴者に笑いを提供する作品となっています。"
-    },
-    {
-      "id": "783ce4c56d4cb841abf8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI launches small business program as it touts 10M ChatGPT Work and Codex users",
-      "url": "https://9to5mac.com/2026/07/21/openai-launches-small-business-program-as-it-touts-10m-chatgpt-work-and-codex-users/",
-      "publishedAt": "2026-07-21T17:50:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/openai.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI、小規模ビジネス向けプログラムを発表",
-      "summaryJa": "OpenAIは「ChatGPT for small business」という新しいプログラムを発表しました。このプログラムは、小規模ビジネスの生産性向上を目的としており、バーチャルトレーニングやAIアカデミーへの参加、ChatGPTの利用ガイドなどが提供されます。また、OpenAIはChatGPT WorkとCodexのユーザー数が1000万人に達したことも発表しました。これは、Codexのユーザー数が倍増したことを示しています。"
-    },
-    {
-      "id": "8235010b2c27cc371687",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple fixes iCloud+ vulnerability that exposed ‘hidden’ user emails",
-      "url": "https://9to5mac.com/2026/07/21/apple-fixes-icloud-vulnerability-that-exposed-hidden-user-emails/",
-      "publishedAt": "2026-07-21T17:38:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/icloud-icon-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iCloud+の脆弱性を修正",
-      "summaryJa": "Appleは、iCloud+の「Hide My Email」機能に存在した脆弱性を修正したと発表しました。この脆弱性により、ユーザーの本来のメールアドレスが外部に漏れる可能性がありました。問題は2025年6月に報告され、Appleは7月3日にパッチを適用したとしています。これにより、ユーザーは引き続きプライバシーを保護しながらサービスを利用できるようになります。"
-    },
-    {
-      "id": "2152cd0ed539badc1185",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Patches Hide My Email Flaw More Than a Year After It Was Reported",
-      "url": "https://www.macrumors.com/2026/07/21/apple-patches-hide-my-email-flaw/",
-      "publishedAt": "2026-07-21T17:11:08.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2023/06/General-macOS-Mail-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、Hide My Emailの脆弱性を修正",
-      "summaryJa": "Appleは「Hide My Email」機能の脆弱性を修正したと報じられています。この問題は2025年6月に報告され、7月3日にパッチが適用されました。脆弱性は、スパムとして拒否されたメールが原因でユーザーの本来のメールアドレスが漏れる可能性がありました。報告者はAppleの対応に疑念を抱き、メディアに公表した結果、修正が実施されたとのことです。"
-    },
-    {
-      "id": "7ed6307f383ec381aba3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Shares Apple Watch SOS Success Story",
-      "url": "https://www.macrumors.com/2026/07/21/apple-watch-sos-success-story/",
-      "publishedAt": "2026-07-21T16:26:32.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple WatchのSOS機能が救命事例を紹介",
-      "summaryJa": "AppleはApple WatchのSOS機能に関する成功事例を紹介しました。山 biking中に事故に遭った男性が、Apple Watchの自動検出機能により緊急サービスに通報され、迅速に救助されました。彼は鎖骨と7本の肋骨を骨折しましたが、Watchが位置情報を提供したおかげで助けを得ることができました。この事例は、Apple Watchの安全機能の重要性を示しています。"
     }
   ],
-  "updatedAt": "2026-07-30T13:06:15.585Z",
+  "updatedAt": "2026-07-30T15:23:55.032Z",
   "initialized": true,
   "summaryVersion": 4
 }
