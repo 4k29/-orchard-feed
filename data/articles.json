@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "08d7d2f55fddc9ff391d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Jony Ive’s first OpenAI hardware device sounds rather like … a HomePad",
+      "url": "https://9to5mac.com/2026/07/30/jony-ives-first-openai-hardware-device-sounds-rather-like-a-homepad/",
+      "publishedAt": "2026-07-30T11:13:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/homepod-with-screen-mockup-03.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Jony IveのAIデバイスはHomePadに似る？",
+      "summaryJa": "Jony IveとSam Altmanが開発中のAIハードウェアデバイスについて、具体的な形状は未だ不明ですが、最近のインタビューでHomePadに似たデザインの可能性が示唆されています。OpenAIはこのデバイスの詳細を曖昧にしており、来年の発売が予想されています。一方、Appleは新しいスマートホームデバイスの発表を控えており、これもHomePodとiPadの融合を目指しています。"
+    },
+    {
+      "id": "7912fdb277c0fa4139ea",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro: Twelve Changes Coming to Apple's Next Flagship",
+      "url": "https://www.macrumors.com/2026/07/30/reasons-to-wait-iphone-18-pro/",
+      "publishedAt": "2026-07-30T10:43:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proに12の変更点",
+      "summaryJa": "Appleの次世代スマートフォン、iPhone 18 Proシリーズの発売が近づいており、機能面での大きな変化はないものの、いくつかの改良が噂されています。今年はiPhoneのリリースサイクルが変更され、iPhone 18 ProとiPhone 18 Pro Maxが2026年9月に登場予定です。デザインはiPhone 17 Proと似たスタイルを維持しつつ、カメラシステムや背面の美観が改善される可能性があります。"
+    },
+    {
       "id": "40813ee3b1909d617fab",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4478,39 +4508,9 @@
       ],
       "titleJa": "9to5Mac Daily: AppleとOpenAIの最新情報",
       "summaryJa": "9to5Mac Dailyでは、AppleがGenius Barセッションを記録するためのAIシステム「Live Notes」をテストしているとの報道や、Appleが日本でiPhoneの価格を最大11%引き上げたことなど、最新のニュースを紹介しています。ポッドキャストは毎日更新され、Apple Podcastsなどで配信されています。"
-    },
-    {
-      "id": "f521f1ce9c03c8fae0bc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: AirTag 2, M5 MacBook Pro $320 off, Philips Hue Bridge Pro, Satechi CubeDock $100 off, more",
-      "url": "https://9to5mac.com/2026/07/21/deals-airtag-2-m5-macbook-pro-philips-hue-bridge-pro/",
-      "publishedAt": "2026-07-21T15:31:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-deals-MacBook-AirPods-AirTag-2-MagSafe.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Deals: M5 MacBook Proが320ドルオフ",
-      "summaryJa": "M5 MacBook Proが320ドルオフで販売されており、AirPods Pro 3やAirPods Max 2もそれぞれ100ドルオフの特価で提供されています。また、Philips Hue Bridge ProやSatechiの充電ステーションも割引中です。特にAirTag 2はプライムデーの最安値に戻っており、注目のセールとなっています。"
-    },
-    {
-      "id": "7697dabfd5dd21b0f314",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "'Apple Upgrade' Program Reportedly Launching Next Week",
-      "url": "https://www.macrumors.com/2026/07/21/apple-upgrade-program-launching-next-week/",
-      "publishedAt": "2026-07-21T15:30:09.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iPhone-18-Pro-and-Pro-Max-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、米国で「Apple Upgrade」プログラム開始へ",
-      "summaryJa": "AppleがKlarnaと提携し、米国で「Apple Upgrade」プログラムを7月28日に開始するとの報道があります。このプログラムでは、iPhoneやiPad、Mac、Apple Watchの大部分を24ヶ月または36ヶ月で分割払いでき、早期返済や機種変更も可能です。ただし、Apple Watch SEやエントリーモデルのiPadなど一部のデバイスは対象外となります。また、AppleCare+は含まれない見込みです。新プログラム開始に伴い、従来のiPhone Upgrade Programへの新規登録は停止されるとのことです。"
     }
   ],
-  "updatedAt": "2026-07-30T09:13:50.221Z",
+  "updatedAt": "2026-07-30T11:23:27.310Z",
   "initialized": true,
   "summaryVersion": 4
 }
