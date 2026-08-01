@@ -7,6 +7,7 @@ on:
       - "scripts/apply-ipad-prices.mjs"
       - "scripts/apply-product-metadata.mjs"
       - "scripts/finalize-product-metadata.mjs"
+      - "scripts/enrich-product-displays.mjs"
       - "scripts/patch-products-layout.mjs"
       - "scripts/report-target-products.mjs"
       - "site/products.js"
@@ -35,6 +36,7 @@ jobs:
       - run: node scripts/apply-ipad-prices.mjs data/products.json
       - run: node scripts/apply-product-metadata.mjs data/products.json
       - run: node scripts/finalize-product-metadata.mjs data/products.json
+      - run: node scripts/enrich-product-displays.mjs data/products.json
       - run: node scripts/report-target-products.mjs data/products.json data/target-products-report.json
       - run: |
           if git diff --quiet -- data/products.json data/target-products-report.json site/products.js; then exit 0; fi
