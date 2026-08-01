@@ -282,6 +282,17 @@ function displayInfo(product) {
   );
 }
 
+function hasBuiltInDisplay(product) {
+  const family = category(product);
+  const name = String(product.name || "");
+  return (
+    family === "iPhone" ||
+    family === "iPad" ||
+    family === "Apple Watch" ||
+    (family === "Mac" && /^(?:MacBook|iMac)\b/i.test(name))
+  );
+}
+
 function displayName(product, display) {
   const declared =
     display?.Display_Type ||
@@ -726,10 +737,10 @@ export function buildProducts(root) {
     item.models = unique([...item.models, ...array(product.model)]);
     item.identifiers = unique([...item.identifiers, ...array(product.identifier)]);
     const display = displayInfo(product);
-    if (display) {
+    if (display || hasBuiltInDisplay(product)) {
       item.hasDisplay = true;
       item.displayType ||= displayName(product, display);
-      const brightness = maximumBrightness(display.Peak_Brightness);
+      const brightness = maximumBrightness(display?.Peak_Brightness);
       if (brightnessNumber(brightness) > brightnessNumber(item.maxBrightness)) {
         item.maxBrightness = brightness;
       }
