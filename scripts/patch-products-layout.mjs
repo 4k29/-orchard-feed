@@ -10,6 +10,8 @@ const required = [
   "function filterValues(product, key)",
   "candidates.flatMap((product) => filterValues(product, definition.key))",
   'detailFacts.push(fact("初期OS", product.initialOS));',
+  'fact("ディスプレイの種類", product.displayType)',
+  'fact("最大輝度", product.maxBrightness)',
   "fetch(U)",
 ];
 
