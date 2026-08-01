@@ -90,6 +90,23 @@ function maximumBrightness(section) {
   return `${peak.value.toLocaleString("ja-JP")} nits${qualifier}`;
 }
 
+function refreshRate(section) {
+  const text = clean(section);
+  const range = text.match(/(\d{1,3})\s*Hz\s*[〜～-]\s*(\d{1,3})\s*Hz/i);
+  if (range) {
+    return `${range[1]}〜${range[2]}Hz${/ProMotion/i.test(text) ? "（ProMotion）" : "（可変）"}`;
+  }
+  const maximum = text.match(/最大\s*(\d{1,3})\s*Hz/i);
+  if (maximum) return `最大${maximum[1]}Hz${/ProMotion/i.test(text) ? "（ProMotion）" : ""}`;
+  const fixed = text.match(/(\d{1,3})\s*Hz(?:の)?(?:固定)?リフレッシュレート/i);
+  return fixed ? `${fixed[1]}Hz` : "";
+}
+
+function refreshRateValue(value) {
+  const numbers = String(value || "").match(/\d+(?:\.\d+)?/g)?.map(Number) || [];
+  return numbers.length ? Math.max(...numbers) : 0;
+}
+
 const screenProducts = (data.products || []).filter(hasBuiltInDisplay);
 for (const product of screenProducts) product.hasDisplay = true;
 
@@ -120,9 +137,13 @@ async function worker() {
       const section = displaySection($);
       if (!section) continue;
       const brightness = maximumBrightness(section);
+      const rate = refreshRate(section);
       for (const product of products) {
         product.displayType = displayType(section, product.displayType);
         if (brightness) product.maxBrightness = brightness;
+        if (refreshRateValue(rate) > refreshRateValue(product.displayRefreshRate)) {
+          product.displayRefreshRate = rate;
+        }
         product.displaySource = "Apple公式技術仕様";
         enriched += 1;
       }
@@ -137,6 +158,7 @@ await Promise.all(Array.from({ length: Math.min(8, entries.length || 1) }, () =>
 for (const product of screenProducts) {
   product.displayType ||= "ディスプレイ";
   product.maxBrightness ||= "";
+  product.displayRefreshRate ||= "";
 }
 
 data.updatedAt = new Date().toISOString();

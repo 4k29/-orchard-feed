@@ -260,6 +260,11 @@ function brightnessValue(value) {
   return numbers.length ? Math.max(...numbers) : 0;
 }
 
+function refreshRateValue(value) {
+  const numbers = String(value || "").match(/\d+(?:\.\d+)?/g)?.map(Number) || [];
+  return numbers.length ? Math.max(...numbers) : 0;
+}
+
 function mergeProducts(rows) {
   const grouped = new Map();
   for (const raw of rows) {
@@ -280,9 +285,10 @@ function mergeProducts(rows) {
       chips: [],
       models: [],
       identifiers: [],
-      hasDisplay: Boolean(raw.hasDisplay || raw.displayType || raw.maxBrightness),
+      hasDisplay: Boolean(raw.hasDisplay || raw.displayType || raw.maxBrightness || raw.displayRefreshRate),
       displayType: raw.displayType || "",
       maxBrightness: raw.maxBrightness || "",
+      displayRefreshRate: raw.displayRefreshRate || "",
       initialOS: raw.initialOS || "",
       documentationUrl: raw.documentationUrl || raw.officialSourceUrl || "",
       documentationDirect: Boolean(raw.documentationDirect),
@@ -294,10 +300,13 @@ function mergeProducts(rows) {
     product.chips = uniq([...product.chips, ...(raw.chips || [])]);
     product.models = uniq([...product.models, ...(raw.models || [])]);
     product.identifiers = uniq([...product.identifiers, ...(raw.identifiers || [])]);
-    product.hasDisplay ||= Boolean(raw.hasDisplay || raw.displayType || raw.maxBrightness);
+    product.hasDisplay ||= Boolean(raw.hasDisplay || raw.displayType || raw.maxBrightness || raw.displayRefreshRate);
     product.displayType ||= raw.displayType;
     if (brightnessValue(raw.maxBrightness) > brightnessValue(product.maxBrightness)) {
       product.maxBrightness = raw.maxBrightness;
+    }
+    if (refreshRateValue(raw.displayRefreshRate) > refreshRateValue(product.displayRefreshRate)) {
+      product.displayRefreshRate = raw.displayRefreshRate;
     }
     product.initialOS ||= raw.initialOS;
     product.priceHistory ||= raw.priceHistory;
@@ -361,6 +370,7 @@ function card(product) {
   if (product.hasDisplay) {
     detailFacts.push(
       fact("ディスプレイの種類", product.displayType),
+      fact("リフレッシュレート", product.displayRefreshRate),
       fact("最大輝度", product.maxBrightness),
     );
   }
@@ -392,6 +402,7 @@ function haystack(product) {
     product.category,
     product.initialOS,
     product.displayType,
+    product.displayRefreshRate,
     product.maxBrightness,
     ...FILTER_KEYS.flatMap((key) => filterValues(product, key)),
     ...product.chips,

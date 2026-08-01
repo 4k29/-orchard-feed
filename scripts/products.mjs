@@ -444,6 +444,46 @@ function officialBrightness(product) {
   return "";
 }
 
+function officialRefreshRate(product) {
+  const family = category(product);
+  const name = nameJa(product.name, family);
+  const chip = `${array(product.soc).join(" ")} ${name}`;
+
+  if (family === "iPhone") {
+    if (/^iPhone 13 Pro(?: Max)?$/i.test(name)) return "10〜120Hz（ProMotion）";
+    if (/^iPhone (?:1[4-7] Pro(?: Max)?|17$|Air$)/i.test(name)) {
+      return "1〜120Hz（ProMotion）";
+    }
+    return "60Hz";
+  }
+
+  if (family === "iPad") {
+    if (/^iPad Pro/i.test(name)) {
+      if (/\bM[45]\b/i.test(chip)) return "10〜120Hz（ProMotion）";
+      if (/11インチ|13インチ|10\.5インチ|12\.9インチ.*第(?:[2-6]世代)/i.test(name)) {
+        return "最大120Hz（ProMotion）";
+      }
+    }
+    return "60Hz";
+  }
+
+  if (family === "Apple Watch") {
+    if (/\bUltra\b|Series (?:5|6|7|8|9|10|11)\b/i.test(name)) {
+      return "1〜60Hz（可変）";
+    }
+    return "60Hz";
+  }
+
+  if (family === "Mac") {
+    if (/^MacBook Pro/i.test(name) && /(?:14|16)インチ/i.test(name)) {
+      return "最大120Hz（ProMotion）";
+    }
+    return "60Hz";
+  }
+
+  return "";
+}
+
 const dates = (value) =>
   unique(array(value).map((item) => (typeof item === "string" ? item : item?.date)));
 
@@ -766,6 +806,7 @@ export function buildProducts(root) {
       hasDisplay: false,
       displayType: "",
       maxBrightness: "",
+      displayRefreshRate: "",
       initialOS: "",
       documentationUrl: appleSearchUrl(name),
       documentationDirect: false,
@@ -792,6 +833,7 @@ export function buildProducts(root) {
     if (display || hasBuiltInDisplay(product)) {
       item.hasDisplay = true;
       item.displayType ||= displayName(product, display);
+      item.displayRefreshRate ||= officialRefreshRate(product) || String(display?.Refresh_Rate || "").replace(/\s*Hz/i, "Hz");
       const verifiedBrightness = officialBrightness(product);
       const brightness = verifiedBrightness || maximumBrightness(display?.Peak_Brightness);
       if (brightnessNumber(brightness) > brightnessNumber(item.maxBrightness)) {
