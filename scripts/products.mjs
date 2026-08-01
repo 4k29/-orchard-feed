@@ -275,6 +275,112 @@ const array = (value) =>
   value == null || value === "" ? [] : Array.isArray(value) ? value : [value];
 const unique = (values) =>
   [...new Set(values.filter(Boolean).map((value) => String(value).trim()))];
+
+function displayInfo(product) {
+  return array(product.info).find(
+    (item) => item && String(item.type || "").toLowerCase() === "display",
+  );
+}
+
+function displayName(product, display) {
+  const declared =
+    display?.Display_Type ||
+    display?.Display_Name ||
+    display?.Technology ||
+    display?.Panel_Type;
+  if (declared) return String(declared).trim();
+
+  const name = String(product.name || "");
+  const family = category(product);
+  const released = String(product.released || "");
+  const year = Number(released.slice(0, 4));
+  const chip = `${array(product.soc).join(" ")} ${name}`;
+
+  if (family === "iPhone") {
+    if (
+      /^iPhone (?:X(?:S(?: Max)?)?|11 Pro(?: Max)?|(?:12|13|14|15|16|17)(?:$|\s)|Air)/i.test(name) &&
+      !/^iPhone XR/i.test(name)
+    ) {
+      return /^iPhone X(?:S(?: Max)?)?$/i.test(name)
+        ? "Super Retina HD（OLED）"
+        : "Super Retina XDR（OLED）";
+    }
+    if (/^iPhone (?:XR|11)$/i.test(name)) return "Liquid Retina HD（LCD）";
+    if (/^iPhone (?:6|6s|7|8|SE)/i.test(name)) return "Retina HD（LCD）";
+    if (/^iPhone (?:4|5)/i.test(name)) return "Retina（LCD）";
+    return "Multi-Touch LCD";
+  }
+
+  if (family === "iPad") {
+    if (/iPad Pro/i.test(name) && /\bM[45]\b/i.test(chip)) {
+      return "Ultra Retina XDR（タンデムOLED）";
+    }
+    if (
+      /iPad Pro/i.test(name) &&
+      /12\.9(?:-inch|インチ)/i.test(name) &&
+      (year >= 2021 || /\bM[12]\b/i.test(chip))
+    ) {
+      return "Liquid Retina XDR（mini-LEDバックライトLCD）";
+    }
+    const liquid =
+      (/iPad Pro/i.test(name) && year >= 2018) ||
+      (/iPad Air/i.test(name) && year >= 2020) ||
+      (/iPad mini/i.test(name) && year >= 2021) ||
+      /^iPad \((?:10th generation|A16)\)/i.test(name);
+    if (liquid) return "Liquid Retina（IPS LCD）";
+    if (
+      (/^iPad$/i.test(name) && year <= 2010) ||
+      /^iPad 2$/i.test(name) ||
+      (/^iPad mini$/i.test(name) && year <= 2012)
+    ) {
+      return "IPS LCD";
+    }
+    return "Retina（IPS LCD）";
+  }
+
+  if (family === "Apple Watch") {
+    if (/\bUltra\b/i.test(name) || /Series (?:5|6|7|8|9|10|11)\b/i.test(name)) {
+      return "LTPO OLED常時表示Retina";
+    }
+    if (/Series 4\b/i.test(name)) return "LTPO OLED Retina";
+    return "OLED Retina";
+  }
+
+  if (family === "Mac") {
+    if (/MacBook Pro/i.test(name) && /(?:14|16)(?:\.\d+)?-inch/i.test(name)) {
+      return "Liquid Retina XDR（mini-LEDバックライトLCD）";
+    }
+    if (/MacBook Air/i.test(name) && (/\bM[2-9]\b/i.test(chip) || /MacBook Neo/i.test(name))) {
+      return "Liquid Retina（IPS LCD）";
+    }
+    if (/^iMac\b/i.test(name)) return "Retina 4.5K（IPS LCD）";
+    if (/MacBook/i.test(name)) return "Retina（IPS LCD）";
+  }
+
+  return "ディスプレイ";
+}
+
+function brightnessNumber(value) {
+  const numbers = [...String(value || "").matchAll(/\d[\d,.]*/g)]
+    .map((match) => Number(match[0].replace(/,/g, "")))
+    .filter(Number.isFinite);
+  return numbers.length ? Math.max(...numbers) : 0;
+}
+
+function maximumBrightness(value) {
+  const candidates = array(value).map(String).filter(Boolean);
+  if (!candidates.length) return "";
+  const best = candidates.sort((a, b) => brightnessNumber(b) - brightnessNumber(a))[0];
+  const peak = brightnessNumber(best);
+  return best
+    .replace(/\d[\d,.]*\s*nits?/i, `${peak.toLocaleString("ja-JP")}ニト`)
+    .replace(/\s*\(outdoor\)/i, "（屋外）")
+    .replace(/\s*\(HDR(?: content only)?\)/i, "（HDR）")
+    .replace(/\s*\(typical\)/i, "（標準）")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 const dates = (value) =>
   unique(array(value).map((item) => (typeof item === "string" ? item : item?.date)));
 
@@ -594,6 +700,9 @@ export function buildProducts(root) {
       chips: [],
       models: [],
       identifiers: [],
+      hasDisplay: false,
+      displayType: "",
+      maxBrightness: "",
       initialOS: "",
       documentationUrl: appleSearchUrl(name),
       documentationDirect: false,
@@ -616,6 +725,15 @@ export function buildProducts(root) {
     item.chips = unique([...item.chips, ...array(product.soc)]);
     item.models = unique([...item.models, ...array(product.model)]);
     item.identifiers = unique([...item.identifiers, ...array(product.identifier)]);
+    const display = displayInfo(product);
+    if (display) {
+      item.hasDisplay = true;
+      item.displayType ||= displayName(product, display);
+      const brightness = maximumBrightness(display.Peak_Brightness);
+      if (brightnessNumber(brightness) > brightnessNumber(item.maxBrightness)) {
+        item.maxBrightness = brightness;
+      }
+    }
     item.colors = colors([...item.colors, ...colors(product.colors)]);
     grouped.set(key, item);
   }
