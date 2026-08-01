@@ -309,7 +309,7 @@ function displayName(product, display) {
 
   if (family === "iPhone") {
     if (
-      /^iPhone (?:X(?:S(?: Max)?)?|11 Pro(?: Max)?|(?:12|13|14|15|16|17)(?:$|\s)|Air)/i.test(name) &&
+      /^iPhone (?:X(?:S(?: Max)?)?|11 Pro(?: Max)?|(?:12|13|14|15|16|17)(?:e|$|\s)|Air)/i.test(name) &&
       !/^iPhone XR/i.test(name)
     ) {
       return /^iPhone X(?:S(?: Max)?)?$/i.test(name)
@@ -350,6 +350,7 @@ function displayName(product, display) {
   }
 
   if (family === "Apple Watch") {
+    if (/Series (?:10|11)\b/i.test(name)) return "LTPO3 OLED広視野角・常時表示Retina";
     if (/\bUltra\b/i.test(name) || /Series (?:5|6|7|8|9|10|11)\b/i.test(name)) {
       return "LTPO OLED常時表示Retina";
     }
@@ -361,7 +362,7 @@ function displayName(product, display) {
     if (/MacBook Pro/i.test(name) && /(?:14|16)(?:\.\d+)?-inch/i.test(name)) {
       return "Liquid Retina XDR（mini-LEDバックライトLCD）";
     }
-    if (/MacBook Air/i.test(name) && (/\bM[2-9]\b/i.test(chip) || /MacBook Neo/i.test(name))) {
+    if ((/MacBook Air/i.test(name) && /\bM[2-9]\b/i.test(chip)) || /MacBook Neo/i.test(name)) {
       return "Liquid Retina（IPS LCD）";
     }
     if (/^iMac\b/i.test(name)) return "Retina 4.5K（IPS LCD）";
@@ -384,12 +385,63 @@ function maximumBrightness(value) {
   const best = candidates.sort((a, b) => brightnessNumber(b) - brightnessNumber(a))[0];
   const peak = brightnessNumber(best);
   return best
-    .replace(/\d[\d,.]*\s*nits?/i, `${peak.toLocaleString("ja-JP")}ニト`)
+    .replace(/\d[\d,.]*\s*nits?/i, `${peak.toLocaleString("ja-JP")} nits`)
     .replace(/\s*\(outdoor\)/i, "（屋外）")
     .replace(/\s*\(HDR(?: content only)?\)/i, "（HDR）")
     .replace(/\s*\(typical\)/i, "（標準）")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function officialBrightness(product) {
+  const family = category(product);
+  const name = nameJa(product.name, family);
+  const released = String(product.released || "");
+  const year = Number(released.slice(0, 4));
+  const chip = `${array(product.soc).join(" ")} ${name}`;
+
+  if (family === "iPhone") {
+    if (/^iPhone (?:16e|17e)$/i.test(name)) return "1,200 nits（HDR）";
+    if (/^iPhone (?:17(?:$|\s)|Air$)/i.test(name)) return "3,000 nits（屋外）";
+    if (/^iPhone (?:14 Pro|15|16(?:$|\s))/i.test(name)) return "2,000 nits（屋外）";
+    if (/^iPhone (?:11 Pro|12|13|14(?:$| Plus$))/i.test(name)) return "1,200 nits（HDR）";
+    if (/^iPhone (?:7|8|X(?:R|S(?: Max)?)?|11$|SE（第[23]世代）$)/i.test(name)) return "625 nits";
+    return "500 nits";
+  }
+
+  if (family === "iPad") {
+    if (/^iPad Pro/i.test(name)) {
+      if (/\bM[45]\b/i.test(chip)) return "1,600 nits（HDR）";
+      if (/12\.9インチ.*第[56]世代/i.test(name)) return "1,600 nits（HDR）";
+      if (/9\.7インチ/i.test(name)) return "500 nits";
+      if (/12\.9インチ.*第1世代/i.test(name)) return "";
+      return "600 nits";
+    }
+    if (/^iPad Air 13インチ/i.test(name)) return "600 nits";
+    if (/^iPad Air/i.test(name) && year >= 2019) return "500 nits";
+    if (/^iPad mini/i.test(name) && (year >= 2019 || /A17 Pro/i.test(chip))) return "500 nits";
+    if (/^iPad(?:（|$)/i.test(name) && year >= 2019) return "500 nits";
+    return "";
+  }
+
+  if (family === "Apple Watch") {
+    if (/Ultra [23]\b/i.test(name)) return "3,000 nits";
+    if (/Ultra 1\b|Series (?:9|10|11)\b/i.test(name)) return "2,000 nits";
+    if (/Series (?:2|3|4|5|6|7|8)\b|SE [123]\b/i.test(name)) return "1,000 nits";
+    return "450 nits";
+  }
+
+  if (family === "Mac") {
+    if (/^iMac\b/i.test(name)) return "500 nits";
+    if (/^MacBook Neo\b/i.test(name)) return "500 nits";
+    if (/^MacBook Pro/i.test(name)) {
+      if (/(?:14|16)インチ/i.test(name)) return "1,600 nits（HDR）";
+      return "500 nits";
+    }
+    if (/^MacBook Air/i.test(name)) return /\bM1\b/i.test(chip) ? "400 nits" : "500 nits";
+  }
+
+  return "";
 }
 
 const dates = (value) =>
@@ -740,9 +792,11 @@ export function buildProducts(root) {
     if (display || hasBuiltInDisplay(product)) {
       item.hasDisplay = true;
       item.displayType ||= displayName(product, display);
-      const brightness = maximumBrightness(display?.Peak_Brightness);
+      const verifiedBrightness = officialBrightness(product);
+      const brightness = verifiedBrightness || maximumBrightness(display?.Peak_Brightness);
       if (brightnessNumber(brightness) > brightnessNumber(item.maxBrightness)) {
         item.maxBrightness = brightness;
+        item.displaySource = verifiedBrightness ? "Apple公式技術仕様" : "AppleDB";
       }
     }
     item.colors = colors([...item.colors, ...colors(product.colors)]);

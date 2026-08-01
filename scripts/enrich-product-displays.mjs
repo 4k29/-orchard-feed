@@ -77,7 +77,7 @@ function displayType(section, fallback) {
 
 function maximumBrightness(section) {
   const text = clean(section);
-  const matches = [...text.matchAll(/(\d{1,3}(?:,\d{3})*)\s*(?:ニト|cd\s*\/\s*m(?:²|2))/gi)]
+  const matches = [...text.matchAll(/(\d{1,3}(?:,\d{3})*)\s*(?:ニト|nits?|cd\s*\/\s*m(?:²|2))/gi)]
     .map((match) => ({
       value: Number(match[1].replace(/,/g, "")),
       index: match.index || 0,
@@ -87,7 +87,7 @@ function maximumBrightness(section) {
   const peak = matches.sort((a, b) => b.value - a.value)[0];
   const context = text.slice(Math.max(0, peak.index - 100), peak.index + 120);
   const qualifier = /屋外/.test(context) ? "（屋外）" : /HDR/i.test(context) ? "（HDR）" : "";
-  return `${peak.value.toLocaleString("ja-JP")}ニト${qualifier}`;
+  return `${peak.value.toLocaleString("ja-JP")} nits${qualifier}`;
 }
 
 const screenProducts = (data.products || []).filter(hasBuiltInDisplay);
