@@ -253,6 +253,13 @@ function productSort(a, b) {
   );
 }
 
+function brightnessValue(value) {
+  const numbers = [...String(value || "").matchAll(/\d[\d,.]*/g)]
+    .map((match) => Number(match[0].replace(/,/g, "")))
+    .filter(Number.isFinite);
+  return numbers.length ? Math.max(...numbers) : 0;
+}
+
 function mergeProducts(rows) {
   const grouped = new Map();
   for (const raw of rows) {
@@ -273,6 +280,9 @@ function mergeProducts(rows) {
       chips: [],
       models: [],
       identifiers: [],
+      hasDisplay: Boolean(raw.hasDisplay || raw.displayType || raw.maxBrightness),
+      displayType: raw.displayType || "",
+      maxBrightness: raw.maxBrightness || "",
       initialOS: raw.initialOS || "",
       documentationUrl: raw.documentationUrl || raw.officialSourceUrl || "",
       documentationDirect: Boolean(raw.documentationDirect),
@@ -284,6 +294,11 @@ function mergeProducts(rows) {
     product.chips = uniq([...product.chips, ...(raw.chips || [])]);
     product.models = uniq([...product.models, ...(raw.models || [])]);
     product.identifiers = uniq([...product.identifiers, ...(raw.identifiers || [])]);
+    product.hasDisplay ||= Boolean(raw.hasDisplay || raw.displayType || raw.maxBrightness);
+    product.displayType ||= raw.displayType;
+    if (brightnessValue(raw.maxBrightness) > brightnessValue(product.maxBrightness)) {
+      product.maxBrightness = raw.maxBrightness;
+    }
     product.initialOS ||= raw.initialOS;
     product.priceHistory ||= raw.priceHistory;
     if (raw.documentationDirect || !product.documentationUrl) {
@@ -343,6 +358,12 @@ function card(product) {
   if (!["AirPods", "AirTag"].includes(product.category)) {
     detailFacts.push(fact("初期OS", product.initialOS));
   }
+  if (product.hasDisplay) {
+    detailFacts.push(
+      fact("ディスプレイの種類", product.displayType),
+      fact("最大輝度", product.maxBrightness),
+    );
+  }
   detailFacts.push(
     fact("販売終了", date(product.discontinued)),
     fact("日本向けモデル番号", product.models.join(", ")),
@@ -370,6 +391,8 @@ function haystack(product) {
     product.family,
     product.category,
     product.initialOS,
+    product.displayType,
+    product.maxBrightness,
     ...FILTER_KEYS.flatMap((key) => filterValues(product, key)),
     ...product.chips,
     ...product.storage,
