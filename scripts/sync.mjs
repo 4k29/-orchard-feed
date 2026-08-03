@@ -3,8 +3,8 @@ import { extractArticleText } from "./article.mjs";
 import { FEEDS, mergeArticles, parseFeed, selectFreshNotifications } from "./feed.mjs";
 
 const DATA_PATH = new URL("../data/articles.json", import.meta.url);
-const MODEL_ENDPOINT = "https://models.github.ai/inference/chat/completions";
-const MODEL = process.env.GITHUB_MODEL || "openai/gpt-4o-mini";
+const MODEL_ENDPOINT = process.env.TRANSLATION_API_URL || "https://api.openai.com/v1/chat/completions";
+const MODEL = process.env.TRANSLATION_MODEL || "gpt-4o-mini";
 const SUMMARY_VERSION = 4;
 const MAX_NEW_ARTICLES_PER_RUN = 12;
 const MAX_REFRESH_ARTICLES_PER_RUN = 20;
@@ -90,8 +90,8 @@ function parseModelJson(content) {
 }
 
 async function translateBatch(items, attempt = 0) {
-  const token = process.env.GITHUB_TOKEN;
-  if (!token) throw new Error("GITHUB_TOKEN is required to translate new articles");
+  const token = process.env.OPENAI_API_KEY;
+  if (!token) throw new Error("OPENAI_API_KEY is required to translate new articles");
 
   const input = items.map(({ id, source, titleOriginal, summaryOriginal }) => ({
     id,
@@ -147,7 +147,23 @@ async function translateBatch(items, attempt = 0) {
 
 async function translate(items) {
   const byId = new Map();
-  const failedBatchIds = new Set();
+
+  const sourceFallback = (item) => ({
+    id: item.id,
+    titleJa: compactText(item.titleOriginal).slice(0, 250),
+    summaryJa: compactText(item.summaryOriginal).slice(0, 800),
+    translationStatus: "source",
+  });
+
+  if (!process.env.OPENAI_API_KEY) {
+    console.warn(
+      "OPENAI_API_KEY is not set; storing source-language text so feed updates can continue.",
+    );
+    return items.map(({ summaryOriginal, ...item }) => ({
+      ...item,
+      ...sourceFallback({ ...item, summaryOriginal }),
+    }));
+  }
 
   const batches = [];
   let batch = [];
@@ -175,9 +191,9 @@ async function translate(items) {
         if (translated?.id) byId.set(translated.id, translated);
       }
     } catch (error) {
-      translationBatch.forEach((item) => failedBatchIds.add(item.id));
+      translationBatch.forEach((item) => byId.set(item.id, sourceFallback(item)));
       console.error(
-        `Translation batch failed (${translationBatch.map((item) => item.id).join(", ")}):`,
+        `Translation batch failed; storing source-language text (${translationBatch.map((item) => item.id).join(", ")}):`,
         error,
       );
     }
@@ -185,7 +201,7 @@ async function translate(items) {
 
   const missing = items.filter((item) => {
     const translated = byId.get(item.id);
-    return !failedBatchIds.has(item.id) && (!translated?.titleJa || !translated?.summaryJa);
+    return !translated?.titleJa || !translated?.summaryJa;
   });
   if (missing.length) {
     console.warn(`Retrying ${missing.length} incomplete translation(s) individually.`);
@@ -196,6 +212,7 @@ async function translate(items) {
         }
       } catch (error) {
         console.error(`Translation retry failed (${item.id}):`, error);
+        byId.set(item.id, sourceFallback(item));
       }
     }
   }
@@ -211,6 +228,9 @@ async function translate(items) {
         ...item,
         titleJa: String(translated.titleJa).trim().slice(0, 250),
         summaryJa: String(translated.summaryJa).trim().slice(0, 800),
+        ...(translated.translationStatus
+          ? { translationStatus: translated.translationStatus }
+          : {}),
       },
     ];
   });
