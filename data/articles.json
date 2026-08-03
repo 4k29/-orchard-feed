@@ -1,6 +1,198 @@
 {
   "articles": [
     {
+      "id": "9df4eda75f123ef717e3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Plans iPhone-to-Windows Copy and Paste in EU After Microsoft Request",
+      "url": "https://www.macrumors.com/2026/08/03/apple-iphone-windows-copy-paste/",
+      "publishedAt": "2026-08-03T23:20:04.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-universal-clipboard-copy-paste.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Plans iPhone-to-Windows Copy and Paste in EU After Microsoft Request",
+      "summaryJa": "Apple is working on a new feature that will support cross-device copy and paste between iOS devices and Windows PCs. Microsoft asked for the feature using Apple's EU interoperability request system for developers, which Apple implemented to comply with the Digital Markets Act. Apple began evaluating the request in March, and on June 26, proposed a project plan. Microsoft described how the feature would be used: Copy text or other supported content on their iPhone and paste it directly on their Windows PC, and vice versa. Perform common productivity workflows without needing to foreground an app or take explicit repeated actions to initiate a transfer. Experience clipboard synchronization as a lightweight, continuous capability rather than a manual, app-driven operation. Apple proposed a so",
+      "translationStatus": "source"
+    },
+    {
+      "id": "c1dfd6309772ec197bfa",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple caps security bug reports amid surge in AI-generated findings",
+      "url": "https://9to5mac.com/2026/08/03/apple-caps-security-bug-reports-amid-surge-in-ai-generated-findings/",
+      "publishedAt": "2026-08-03T23:08:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-security-malware-virus-code-9to5mac.png?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple caps security bug reports amid surge in AI-generated findings",
+      "summaryJa": "As it grapples with a surge in “AI slop” security reports, Apple has recently made changes to its bug bounty program. Here are the details. As it grapples with a surge in “AI slop” security reports, Apple has recently made changes to its bug bounty program. Here are the details. Apple limits number of open vulnerability reports Apple has confirmed to The Financial Times that it has “introduced a cap and a 30-day cool-off period on submissions through its internal security portal, requiring users to submit requests for an increased quota.” Implemented in June, the changes are intended to address an industry-wide surge in bug reports, driven by increasingly powerful LLMs that can find, chain, and exploit vulnerabilities, leaving review teams struggling to keep pace with the volume of submiss",
+      "translationStatus": "source"
+    },
+    {
+      "id": "bf6e5d70a80e86d816f9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Judge greenlights multi-billion-dollar class action over Apple Photos’ face recognition",
+      "url": "https://9to5mac.com/2026/08/03/judge-greenlights-multi-billion-dollar-class-action-over-apple-photos-face-recognition/",
+      "publishedAt": "2026-08-03T22:24:54.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-Photos-app-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Judge greenlights multi-billion-dollar class action over Apple Photos’ face recognition",
+      "summaryJa": "Apple will face a class-action lawsuit alleging it violated Illinois’ Biometric Information Privacy Act (BIPA), in a case that could cost the company more than $30 billion. Here are the details. Apple will face a class-action lawsuit alleging it violated Illinois’ Biometric Information Privacy Act (BIPA), in a case that could cost the company more than $30 billion. Here are the details. Apple on the hook for up to $32.5 billion In March 2020, a group of roughly 10 Apple users filed a putative class action accusing Apple Photos’ “People” feature of violating Illinois’ BIPA, which gives citizens “the right to control their biometric information by requiring notice before collection and giving them the power to say no by withholding consent.” BIPA allows for damages of $1,000 for each neglige",
+      "translationStatus": "source"
+    },
+    {
+      "id": "81a5cd444a77030bbb24",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Will Judge Your Mustache Authenticity at Its Ted Lasso Look-Alike Contest",
+      "url": "https://www.macrumors.com/2026/08/03/apple-ted-lasso-look-alike-contest/",
+      "publishedAt": "2026-08-03T22:03:19.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-ted-lasso-look-alike.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Will Judge Your Mustache Authenticity at Its Ted Lasso Look-Alike Contest",
+      "summaryJa": "Ted Lasso season four is set to premiere Wednesday, and to celebrate the debut, Apple is hosting a Ted Lasso look-alike contest in New York. \"Think you have the stache to make fans believe? Join the fun this August 6 at Apple Fifth Avenue Plaza for a Ted Lasso Look-Alike contest,\" reads Apple's Facebook event page . Apple has a set of contest rules instructing participants to visit Apple Fifth Avenue to be judged on \"the degree to which they look and act like the character Ted Lasso.\" There will be a three-round contest with eliminations in each round. Ten semifinalists will be selected after round one, five finalists will make it past round two, and three finalists will be selected in round three. The event starts at 4:30 p.m. Eastern Time and runs until 7:00 p.m. Round One, Ted Energy - ",
+      "translationStatus": "source"
+    },
+    {
+      "id": "aaa167402e276a5e0859",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: Apple’s secrecy efforts partly undermined by lax work iCloud policy",
+      "url": "https://9to5mac.com/2026/08/03/report-apples-secrecy-efforts-partly-undermined-by-lax-work-icloud-policy/",
+      "publishedAt": "2026-08-03T21:30:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/icloud-icon-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Report: Apple’s secrecy efforts partly undermined by lax work iCloud policy",
+      "summaryJa": "A new report from The Information details how Apple’s policy of encouraging employees to mix personal and work iCloud accounts has allowed some former staffers to retain access to confidential company files long after leaving. Here are the details. A new report from The Information details how Apple’s policy of encouraging employees to mix personal and work iCloud accounts has allowed some former staffers to retain access to confidential company files long after leaving. Here are the details. Report could weaken Apple’s arguments against OpenAI Last month, Apple filed a trade secrets theft lawsuit against two former employees, OpenAI, and Jony Ive’s io Products. In the complaint, Apple outlines several steps it takes to protect confidential information and trade secrets, including contract",
+      "translationStatus": "source"
+    },
+    {
+      "id": "0ccba3dc80802fa7c3b1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s why Apple Upgrade requires AT&T, T-Mobile, or Verizon for iPhone",
+      "url": "https://9to5mac.com/2026/08/03/why-apple-upgrade-requires-att-t-mobile-or-verizon-for-iphone/",
+      "publishedAt": "2026-08-03T21:11:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Here’s why Apple Upgrade requires AT&T, T-Mobile, or Verizon for iPhone",
+      "summaryJa": "The new Apple Upgrade program has a key piece of fine print: “If you’re leasing an iPhone, you’ll need to connect to AT&T, T-Mobile, or Verizon when you enroll.” In a new post today, John Gruber at Daring Fireball has a likely explanation for this requirement. The new Apple Upgrade program has a key piece of fine print: “If you’re leasing an iPhone, you’ll need to connect to AT&T, T-Mobile, or Verizon when you enroll.” In a new post today, John Gruber at Daring Fireball has a likely explanation for this requirement. Apple Upgrade’s iPhone limitation According to a former Apple employee who worked on the company’s carrier team and emailed Gruber, this requirement largely stems from the deals Apple strikes with Verizon, AT&T, and T-Mobile in the United States. Apple negotiates deals worth “h",
+      "translationStatus": "source"
+    },
+    {
+      "id": "a66f0c56775e5466270a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Next CEO Adds Retired Hardware Executive to His Team",
+      "url": "https://www.macrumors.com/2026/08/03/apple-john-ternus-hiring-retired-vp/",
+      "publishedAt": "2026-08-03T20:49:15.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-laura-legros.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple's Next CEO Adds Retired Hardware Executive to His Team",
+      "summaryJa": "Incoming Apple CEO John Ternus is rehiring Laura Legros, a former vice president of hardware engineering who retired from Apple in 2022, reports Bloomberg . Legros previously managed product delivery, development schedules, and coordination across engineering teams. Under Ternus, she will work across different parts of the company, and report directly to him. According to Bloomberg , Legros was one of Ternus' most trusted deputies before she retired. She has presented at past Apple events, introducing the 2018 MacBook Air and the 2020 iPad Air . As he prepares to take over, Ternus has been shadowing current CEO Tim Cook and leading executive meetings. He has met with company leaders to work on product plans, and has been spending time with Apple's design teams. Ternus will take over as App",
+      "translationStatus": "source"
+    },
+    {
+      "id": "0caf9f534ef08c373129",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Photos in iOS 27 gets camera roll feature it’s long needed",
+      "url": "https://9to5mac.com/2026/08/03/apple-photos-in-ios-27-gets-camera-roll-feature-its-long-needed/",
+      "publishedAt": "2026-08-03T20:44:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27-photos-app-icon-fi-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Photos in iOS 27 gets camera roll feature it’s long needed",
+      "summaryJa": "iOS 27 is a big update for Apple’s Photos app , with improvements to slideshows, shared albums, and more. It also adds a welcome camera roll-type feature many have long been asking for: ‘Captured by Me.’ iOS 27 is a big update for Apple’s Photos app, with improvements to slideshows, shared albums, and more. It also adds a welcome camera roll-type feature many have long been asking for: ‘Captured by Me.’ ‘Captured by Me’ in iOS 27 Photos app contains only photos and videos you shot in Camera app Apple’s Photos app has steadily expanded its feature set over the years. In addition to being home to the photos and videos your iPhone captures, it also includes content that’s been shared with you, Memories, screenshots, saved media, and a lot more. The Photos app used to offer a ‘Camera Roll’ fea",
+      "translationStatus": "source"
+    },
+    {
+      "id": "b811e7865773fad027a9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s contract manufacturing tax breaks in India could be extended to 2041",
+      "url": "https://9to5mac.com/2026/08/03/apples-contract-manufacturing-tax-breaks-in-india-could-be-extended-to-2041/",
+      "publishedAt": "2026-08-03T20:30:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/More-great-wallpaper-in-the-run-up-to-two-more-Apple-Stores-in-India.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple’s contract manufacturing tax breaks in India could be extended to 2041",
+      "summaryJa": "Reuters reports that a new draft amendment would extend by 10 years a tax break for foreign companies that supply machinery and equipment to contract manufacturers in India. Here are the details. Reuters reports that a new draft amendment would extend by 10 years a tax break for foreign companies that supply machinery and equipment to contract manufacturers in India. Here are the details. Apple could get a major tax boost in India According to the report, India is moving to extend a tax break that is currently set to expire in 2031 until 2041. The exemption prevents foreign companies from becoming liable for Indian income tax simply because they own equipment used by contract manufacturers in the country. Here’s Reuters: The extended tax exemption will apply to manufacturers of mobile phon",
+      "translationStatus": "source"
+    },
+    {
+      "id": "d46dbd56dc9520e0bbad",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "John Ternus recruits key Apple hardware VP out of retirement ahead of CEO transition",
+      "url": "https://9to5mac.com/2026/08/03/john-ternus-recruits-key-apple-hardware-vp-out-of-retirement-ahead-of-ceo-transition/",
+      "publishedAt": "2026-08-03T20:30:32.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/IMG_0033.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "John Ternus recruits key Apple hardware VP out of retirement ahead of CEO transition",
+      "summaryJa": "John Ternus is officially set to take over as Apple CEO on September 1. Ahead of that, he’s shaping the team around him and has brought back a key hardware engineering executive who retired several years ago. John Ternus is officially set to take over as Apple CEO on September 1. Ahead of that, he’s shaping the team around him and has brought back a key hardware engineering executive who retired several years ago. Bloomberg reports that Ternus has hired Laura Legros to join his management team. Legros retired in 2022 after serving as a VP of hardware engineering on Ternus’s team. When she returns to the company, Legros will reportedly “act as a vice president working cross-functionally with different parts of the company.” She will report directly to Ternus when he takes over as CEO on Sep",
+      "translationStatus": "source"
+    },
+    {
+      "id": "238c88c072bd30ad2660",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Fitbit Data Can Finally Sync to Apple Health",
+      "url": "https://www.macrumors.com/2026/08/03/fitbit-apple-health-syncing/",
+      "publishedAt": "2026-08-03T20:00:08.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/04/apple-health-app.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Fitbit Data Can Finally Sync to Apple Health",
+      "summaryJa": "The latest update to the Google Health app for iOS allows Google Health data to sync to Apple Health. Google's app is used to collect data from wearables like Fitbit trackers and the Pixel Watch. Sync to Apple Health. Share your data like your exercise records, sleep, vitals, steps, and more from Google Health to Apple Health. Google Health (previously the Fitbit app) collects fitness, sleep, and wellness data from a connected wearable device. Steps, distance traveled, heart rate, sleep, and more can now be added to Apple Health. As noted on Reddit , some data such as HRV doesn't transfer over. Syncing can be enabled after downloading the update by selecting Connections, choosing Apps and services, and then adding Apple Health. Apple Health data already synced to Google Health, so the new ",
+      "translationStatus": "source"
+    },
+    {
+      "id": "3b84807b1b25a21524bf",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp beta for Mac tests flexible update schedules",
+      "url": "https://9to5mac.com/2026/08/03/whatsapp-beta-for-mac-tests-flexible-update-schedules/",
+      "publishedAt": "2026-08-03T19:54:27.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-macos-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp beta for Mac tests flexible update schedules",
+      "summaryJa": "The latest beta build of WhatsApp’s Mac app lets users choose between daily and weekly update schedules, in addition to checking manually for new updates. Here are the details. The latest beta build of WhatsApp’s Mac app lets users choose between daily and weekly update schedules, in addition to checking manually for new updates. Here are the details. WhatsApp tests customizable update schedules on the Mac app As spotted by WABetaInfo, WhatsApp is testing a new setting that lets users control how frequently the Mac app is updated, depending on whether they prioritize getting the latest changes immediately or greater stability. As the site explains, WhatsApp recently ended its TestFlight beta program for Mac. Users who want to test upcoming features must now download beta builds directly fr",
+      "translationStatus": "source"
+    },
+    {
       "id": "25d88c9786f7803893e2",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4325,189 +4517,9 @@
       ],
       "titleJa": "Apple Parkビジターセンター、一部閉鎖中",
       "summaryJa": "Apple Parkのビジターセンターで展示スペースが一時的に閉鎖されています。改善作業が行われているものの、具体的な内容は明らかにされていません。現在の展示は効率的でないとの指摘もあり、今後の改善に期待が寄せられています。"
-    },
-    {
-      "id": "e3e469d9df62b1277eab",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Adobe brings Acrobat integration directly to WhatsApp Web",
-      "url": "https://9to5mac.com/2026/07/22/adobe-brings-acrobat-integration-directly-to-whatsapp-web/",
-      "publishedAt": "2026-07-22T13:14:09.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/whatsapp-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp WebにAdobe Acrobat統合",
-      "summaryJa": "WhatsApp WebにAdobe Acrobatが統合され、ユーザーはチャット内でPDFを表示、レビュー、注釈を追加できるようになりました。これにより、PDFをダウンロードせずに直接操作でき、パスワード保護された文書にも対応しています。WhatsAppのエンドツーエンド暗号化も維持されており、安全に利用可能です。"
-    },
-    {
-      "id": "844d2a80465a31e28060",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Hands-On With Samsung's Galaxy Z Fold8, the Closest Thing Yet to a Foldable iPhone",
-      "url": "https://www.macrumors.com/2026/07/22/samsung-galaxy-z-fold8/",
-      "publishedAt": "2026-07-22T13:01:17.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Samsung、Galaxy Z Fold8を発表",
-      "summaryJa": "Samsungが新しい折りたたみデバイス、Galaxy Z Fold8を発表しました。Z Fold8は、開いた状態で7.6インチのディスプレイを持ち、デザインは今後の折りたたみiPhoneに似ているとされています。カメラは3つのレンズを搭載し、Snapdragon 8 Elite Gen 5プロセッサーを使用。Appleの折りたたみデバイスに対抗する形で、Samsungは先行して市場に投入しました。"
-    },
-    {
-      "id": "3642ace0c03c14316787",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp Announces New CarPlay Experience, iPad Sign-Up, and More",
-      "url": "https://www.macrumors.com/2026/07/22/whatsapp-announces-new-carplay/",
-      "publishedAt": "2026-07-22T13:00:07.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/English_WhatsApp_july-2026-new-feature-roundup-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "WhatsApp、CarPlayとiPad向け新機能を発表",
-      "summaryJa": "WhatsAppがCarPlayやiPad向けの新機能を発表しました。CarPlayではメッセージの確認や通話がハンズフリーで可能になり、iPadでは電話をリンクせずにWhatsAppにサインアップできるようになりました。また、PDFの編集やApple Musicからの曲の共有機能も追加され、ユーザーの利便性が向上しています。これらの機能はすでに展開中です。"
-    },
-    {
-      "id": "510c40182e588ef9ac18",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "You’re paying for 80+ iPhone and iPad games through Netflix, here’s the full catalog",
-      "url": "https://9to5mac.com/2026/07/22/youre-paying-for-80-iphone-and-ipad-games-through-netflix-heres-the-full-catalog/",
-      "publishedAt": "2026-07-22T13:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/netflix-games.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Netflix、80以上のiPhone/iPadゲームを提供中",
-      "summaryJa": "Netflixのサブスクリプションには、80以上のiPhoneおよびiPad向けゲームが含まれています。これらのゲームは広告や追加料金なしでプレイ可能で、Netflixのアプリを通じてアクセスできます。特に、Netflix Game Controllerアプリを使用することで、スマートTVでのゲームプレイも可能になります。これにより、モバイルゲームの体験が向上し、ファミリー向けの選択肢が広がります。"
-    },
-    {
-      "id": "f7a7afbf4a531cbd27fb",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Says 'Update in Progress' at Visitor Center",
-      "url": "https://www.macrumors.com/2026/07/22/apple-park-visitor-center-update-in-progress/",
-      "publishedAt": "2026-07-22T12:49:17.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apple-Park-Visitor-Center.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Parkビジターセンターで改修作業中",
-      "summaryJa": "Apple Parkのビジターセンターで改修作業が進行中との通知がAppleのウェブサイトに掲載されました。3D拡張現実モデルの展示スペースは一時的に閉鎖されていますが、センター自体は一般公開されています。訪問者はカフェでコーヒーを楽しんだり、屋上からの景色を楽しむことができます。改修の完了時期は未定です。"
-    },
-    {
-      "id": "d4b500e380f873e9dfb1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here are some discreet ways to add an AirTag to your camera",
-      "url": "https://9to5mac.com/2026/07/22/here-are-some-discreet-ways-to-add-an-airtag-to-your-camera/",
-      "publishedAt": "2026-07-22T12:42:59.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/L.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "カメラにAirTagを取り付ける方法",
-      "summaryJa": "AirTagをカメラに取り付ける方法について、目立たない方法がいくつか紹介されています。一般的なホルダーをカメラストラップに取り付けるのは簡単ですが、盗難防止には不向きです。代わりに、カメラストラップマウントや隠しAirTagホルダー付きの三脚クイックリリースプレートなど、より目立たない方法が提案されています。これにより、盗難のリスクを減らしつつ、所有物を追跡することが可能になります。"
-    },
-    {
-      "id": "c39e81adfababe6ef01b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro reportedly enters mass production ahead of September launch",
-      "url": "https://9to5mac.com/2026/07/22/iphone-18-pro-reportedly-enters-mass-production-ahead-of-september-launch/",
-      "publishedAt": "2026-07-22T11:42:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-pro-max-mockup-di.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proが量産開始、9月発売へ",
-      "summaryJa": "iPhone 18 ProおよびPro Maxモデルが量産に入ったとの報道があります。組立パートナーのFoxconnは、労働者の募集を強化するために大幅なボーナスを提供しており、特にピークシーズンに向けての準備を進めています。新モデルは、より強力なチップやディスプレイのアップグレードが期待される一方で、厚みや重さの増加、人気のない色の選択肢が続く可能性が指摘されています。"
-    },
-    {
-      "id": "d744adcbc40cd0f05826",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "The reported Apple Upgrade program raises a very big concern",
-      "url": "https://9to5mac.com/2026/07/22/the-reported-apple-upgrade-program-raises-a-very-big-concern/",
-      "publishedAt": "2026-07-22T11:19:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/The-reported-Apple-Upgrade-program-raises-a-very-big-concern.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの新しいアップグレードプログラムに懸念",
-      "summaryJa": "Bloombergの報道によると、AppleはiPhoneアップグレードプログラムに代わる新しいAppleアップグレードリース契約を導入する可能性があります。この新プログラムは、従来のプログラムとは異なり、リース期間中の製品の減価償却分のみを支払う形になるとされ、契約終了時には製品を所有できない可能性があります。これにより月々の支払いは低くなるものの、ユーザーが製品を返却するか、追加の支払いを行う必要が生じるかもしれません。Appleからの公式な発表はまだありません。"
-    },
-    {
-      "id": "797caa3e48f22c2c5d52",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Foxconn Ramps Up Hiring as iPhone 18 Pro Enters Mass Production",
-      "url": "https://www.macrumors.com/2026/07/22/iphone-18-pro-enters-mass-production/",
-      "publishedAt": "2026-07-22T11:16:33.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proが量産開始、Foxconnが採用を強化",
-      "summaryJa": "AppleのiPhone 18 Proモデルが量産に入り、Foxconnは大規模生産に向けて採用を強化しています。新型iPhoneは、前面カメラとFace IDセンサー用のダイナミックアイランドのサイズを縮小し、画面占有率を約94.7%に向上させる見込みです。また、A20 Proチップや可変絞り技術を搭載した新しいメインカメラも期待されています。中国の証券会社は、iPhone 17の販売が好調で、Appleのイノベーションサイクルが上向いていると報じています。"
-    },
-    {
-      "id": "80005d76d59f93cc002b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: July 22, 2026 – iOS 27 beta 4 and iOS 26.6 RC",
-      "url": "https://9to5mac.com/2026/07/22/daily-july-22-2026/",
-      "publishedAt": "2026-07-22T11:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27ベータ4と26.6 RCが登場",
-      "summaryJa": "9to5Macのポッドキャストで、iOS 27ベータ4とiOS 26.6 RCに関する最新情報が紹介されました。iOS 27ベータ4ではApple TVアプリの新機能や、マルチバッテリー機能を持つ新しいiPhoneモデルの言及があります。また、iOS 26.6はiOS 27への準備を整える重要な機能を含んでいます。さらに、TSMCによるチップコストの引き上げがAppleの価格に悪影響を及ぼす可能性が指摘されています。"
-    },
-    {
-      "id": "0b4ce786f8f7f3cdef59",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "The iPhone 18 Pro's Rumored Camera Upgrade, Explained",
-      "url": "https://www.macrumors.com/2026/07/22/the-iphone-18-pro-variable-camera-aperture/",
-      "publishedAt": "2026-07-22T09:15:05.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/iphone-17-cameras-zoom.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Pro、可変絞りカメラ搭載か",
-      "summaryJa": "Appleの次期iPhone 18 ProおよびiPhone 18 Pro Maxには、可変絞りカメラが搭載されるとの噂があります。この機能により、カメラが光の量を機械的に調整できるようになり、特に屋外での動画撮影時に滑らかな映像が期待されます。現在のiPhoneカメラは固定絞りのため、明るい環境では動きが不自然に見えることがありますが、可変絞りにより自然なボケ感やシャープな画像が得られる可能性があります。ユーザーが絞りを手動で調整できるか、自動で調整されるかはまだ不明です。"
-    },
-    {
-      "id": "63cc88d2e29f2f7e1922",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AppleCare+ Changes Announced in Japan",
-      "url": "https://www.macrumors.com/2026/07/21/applecare-changes-in-japan/",
-      "publishedAt": "2026-07-22T02:34:53.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/12/applecare-apple-care-banner.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AppleCare+、iPadとApple Watchに対応",
-      "summaryJa": "Appleは、日本でiPadとApple Watch向けに盗難・紛失補償付きのAppleCare+を提供開始しました。これにより、これまでiPhoneに限定されていたサービスが拡大されました。また、月額および年額のAppleCare+プランも、より多くのApple製品に対応するようになりました。"
     }
   ],
-  "updatedAt": "2026-07-30T20:06:46.853Z",
+  "updatedAt": "2026-08-03T23:59:43.091Z",
   "initialized": true,
   "summaryVersion": 4
 }
