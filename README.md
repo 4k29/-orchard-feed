@@ -17,4 +17,4 @@ Apple関連の4つのRSSを5分ごとに確認し、新着だけを日本語へ�
 
 初回は過去記事を一覧へ取り込むだけで、Discordへ大量通知しません。2回目以降に見つかった新着だけを通知します。
 
-翻訳にはGitHub Actionsの `GITHUB_TOKEN` とGitHub Modelsを使うため、別の翻訳APIキーは不要です。Webhook URLは必ずRepository secretに保存し、ファイルへ直接書かないでください。
+日本語への翻訳を有効にする場合は、Repository secretに `OPENAI_API_KEY` を追加してください。必要に応じてRepository variableの `TRANSLATION_MODEL` でモデル名を変更できます。キーが未設定、または翻訳APIが一時的に失敗した場合も、RSSの更新自体は止めず、原文のタイトルと要約を保存します。Webhook URLとAPIキーは必ずRepository secretに保存し、ファイルへ直接書かないでください。
