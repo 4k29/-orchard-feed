@@ -12,9 +12,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Russia escalates dispute with Apple over mandatory app preinstallation",
-      "summaryJa": "Reuters reports that Russia’s antitrust regulator has opened a formal case against Apple over the company’s failure to preinstall the state-backed MAX messenger and Russia’s RuStore app marketplace on its devices. Here are the details. Reuters reports that Russia’s antitrust regulator has opened a formal case against Apple over the company’s failure to preinstall the state-backed MAX messenger and Russia’s RuStore app marketplace on its devices. Here are the details. Russia opens antitrust proceedings against Apple Since 2019, when Russia passed a law requiring device makers to offer domestic apps on products sold in the country, Apple and Russian authorities have been locked in a slow-boiling battle. In 2021, when the law went into effect, Apple reached an arrangement under which users se",
-      "translationStatus": "source"
+      "titleJa": "ロシア、Appleに対する反トラスト法違反の訴訟を開始",
+      "summaryJa": "ロシア当局が、国内での必須アプリのプリインストール義務付けやアプリストア「RuStore」の提供要件にAppleが従わなかったとして、正式な訴訟手続きを開始したと報じられています。ロシアは2019年に国内向け端末での自国製アプリの提供を義務付ける法律を可決しており、制裁措置やアプリ削除を巡る両者の対立が続いていました。ロシアの連邦反トラスト局はAppleに対し、国内製ソフトウェアに対する不当な扱いへの対応を求めていました。"
     },
     {
       "id": "9df4eda75f123ef717e3",
@@ -28,9 +27,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Plans iPhone-to-Windows Copy and Paste in EU After Microsoft Request",
-      "summaryJa": "Apple is working on a new feature that will support cross-device copy and paste between iOS devices and Windows PCs. Microsoft asked for the feature using Apple's EU interoperability request system for developers, which Apple implemented to comply with the Digital Markets Act. Apple began evaluating the request in March, and on June 26, proposed a project plan. Microsoft described how the feature would be used: Copy text or other supported content on their iPhone and paste it directly on their Windows PC, and vice versa. Perform common productivity workflows without needing to foreground an app or take explicit repeated actions to initiate a transfer. Experience clipboard synchronization as a lightweight, continuous capability rather than a manual, app-driven operation. Apple proposed a so",
-      "translationStatus": "source"
+      "titleJa": "Apple、EUでiPhoneとWindows間のコピー＆ペースト機能導入へ",
+      "summaryJa": "AppleがMicrosoftからの要請を受け、EUのデジタル市場法に基づく相互運用性リクエストに対応する形で、iOSデバイスとWindows PCの間でクロスデバイスのコピー＆ペーストを可能にする新機能を開発中であると伝えられています。Microsoftの要望に基づき、Appleはペアリングされたアクセサリ間でペーストボードを共有・インポートするソリューションを提案しました。ユーザーはアクセサリセットアップキットを用いて、ペアリングされたデバイスへのアクセス許可を一度だけ行うことで、シームレスなクリップボード同期を利用できるようになります。"
     },
     {
       "id": "c1dfd6309772ec197bfa",
@@ -44,9 +42,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple caps security bug reports amid surge in AI-generated findings",
-      "summaryJa": "As it grapples with a surge in “AI slop” security reports, Apple has recently made changes to its bug bounty program. Here are the details. As it grapples with a surge in “AI slop” security reports, Apple has recently made changes to its bug bounty program. Here are the details. Apple limits number of open vulnerability reports Apple has confirmed to The Financial Times that it has “introduced a cap and a 30-day cool-off period on submissions through its internal security portal, requiring users to submit requests for an increased quota.” Implemented in June, the changes are intended to address an industry-wide surge in bug reports, driven by increasingly powerful LLMs that can find, chain, and exploit vulnerabilities, leaving review teams struggling to keep pace with the volume of submiss",
-      "translationStatus": "source"
+      "titleJa": "Apple、AIによるセキュリティ脆弱性報告の急増を受け制限を導入",
+      "summaryJa": "強力な大規模言語モデル（LLM）の普及に伴い、自動生成された脆弱性報告が急増している問題に対処するため、Appleがバグ報奨金プログラムに制限を導入したと報じられています。Appleは内部セキュリティポータルからの提出件数に上限と30日間のクーリングオフ期間を設け、追加の割当を求める場合は申請が必要とする変更を行いました。業界全体でAIを活用した脆弱性発見が増加する中、レビューチームの負担軽減を図る動きが広がっています。"
     },
     {
       "id": "bf6e5d70a80e86d816f9",
@@ -60,9 +57,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Judge greenlights multi-billion-dollar class action over Apple Photos’ face recognition",
-      "summaryJa": "Apple will face a class-action lawsuit alleging it violated Illinois’ Biometric Information Privacy Act (BIPA), in a case that could cost the company more than $30 billion. Here are the details. Apple will face a class-action lawsuit alleging it violated Illinois’ Biometric Information Privacy Act (BIPA), in a case that could cost the company more than $30 billion. Here are the details. Apple on the hook for up to $32.5 billion In March 2020, a group of roughly 10 Apple users filed a putative class action accusing Apple Photos’ “People” feature of violating Illinois’ BIPA, which gives citizens “the right to control their biometric information by requiring notice before collection and giving them the power to say no by withholding consent.” BIPA allows for damages of $1,000 for each neglige",
-      "translationStatus": "source"
+      "titleJa": "Apple、写真アプリの顔認識機能を巡る巨額集団訴訟に直面",
+      "summaryJa": "Appleの写真アプリにおける「ピープル」機能がイリノイ州の生体情報プライバシー法（BIPA）に違反しているとして、数千億円規模に及ぶ集団訴訟の継続が認められたと報じられています。2020年に原告グループが提訴して以来、数年にわたる審理や棄却の申し立てを経て、裁判所がクラス認定を下しました。原告側は、同意なしに生体データを収集・保存されたとして、州内の数百万人のユーザーを代表して巨額の損害賠償を求めています。"
     },
     {
       "id": "81a5cd444a77030bbb24",
@@ -76,9 +72,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Will Judge Your Mustache Authenticity at Its Ted Lasso Look-Alike Contest",
-      "summaryJa": "Ted Lasso season four is set to premiere Wednesday, and to celebrate the debut, Apple is hosting a Ted Lasso look-alike contest in New York. \"Think you have the stache to make fans believe? Join the fun this August 6 at Apple Fifth Avenue Plaza for a Ted Lasso Look-Alike contest,\" reads Apple's Facebook event page . Apple has a set of contest rules instructing participants to visit Apple Fifth Avenue to be judged on \"the degree to which they look and act like the character Ted Lasso.\" There will be a three-round contest with eliminations in each round. Ten semifinalists will be selected after round one, five finalists will make it past round two, and three finalists will be selected in round three. The event starts at 4:30 p.m. Eastern Time and runs until 7:00 p.m. Round One, Ted Energy - ",
-      "translationStatus": "source"
+      "titleJa": "Apple、ニューヨークで「テッド・ラッソ」そっくりさんコンテストを開催へ",
+      "summaryJa": "Appleは、「テッド・ラッソ」シーズン4の配信を記念して、ニューヨークのApple Fifth Avenueでそっくりさんコンテストを開催すると報じられています。参加者は、外見や振る舞い、ヒゲの完成度などを競い合い、優勝者にはカスタム仕様のBeats製ヘッドホンなどが贈られます。イベントは3ラウンド制で行われ、ユーモアや作品への愛着が審査される予定です。"
     },
     {
       "id": "aaa167402e276a5e0859",
@@ -92,9 +87,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Report: Apple’s secrecy efforts partly undermined by lax work iCloud policy",
-      "summaryJa": "A new report from The Information details how Apple’s policy of encouraging employees to mix personal and work iCloud accounts has allowed some former staffers to retain access to confidential company files long after leaving. Here are the details. A new report from The Information details how Apple’s policy of encouraging employees to mix personal and work iCloud accounts has allowed some former staffers to retain access to confidential company files long after leaving. Here are the details. Report could weaken Apple’s arguments against OpenAI Last month, Apple filed a trade secrets theft lawsuit against two former employees, OpenAI, and Jony Ive’s io Products. In the complaint, Apple outlines several steps it takes to protect confidential information and trade secrets, including contract",
-      "translationStatus": "source"
+      "titleJa": "Appleの社内iCloudポリシー、機密保持対策の弱点になっているとの報道",
+      "summaryJa": "Appleが従業員に対して個人用と仕事用のiCloudアカウントを混同して使用することを推奨してきた方針により、退職後も一部の元従業員が社内機密ファイルにアクセスし続けられる状態になっていたと報じられています。この内部事情に関する報道は、Appleが他社を相手取って起こしている営業秘密侵害の訴訟における同社の主張に影響を与える可能性があります。"
     },
     {
       "id": "0ccba3dc80802fa7c3b1",
@@ -108,9 +102,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Here’s why Apple Upgrade requires AT&T, T-Mobile, or Verizon for iPhone",
-      "summaryJa": "The new Apple Upgrade program has a key piece of fine print: “If you’re leasing an iPhone, you’ll need to connect to AT&T, T-Mobile, or Verizon when you enroll.” In a new post today, John Gruber at Daring Fireball has a likely explanation for this requirement. The new Apple Upgrade program has a key piece of fine print: “If you’re leasing an iPhone, you’ll need to connect to AT&T, T-Mobile, or Verizon when you enroll.” In a new post today, John Gruber at Daring Fireball has a likely explanation for this requirement. Apple Upgrade’s iPhone limitation According to a former Apple employee who worked on the company’s carrier team and emailed Gruber, this requirement largely stems from the deals Apple strikes with Verizon, AT&T, and T-Mobile in the United States. Apple negotiates deals worth “h",
-      "translationStatus": "source"
+      "titleJa": "新しいApple Upgradeプログラムで大手キャリア契約が必須である理由",
+      "summaryJa": "新しく提供されたApple Upgradeプログラムでは、iPhoneのリース契約時に主要3キャリアへの接続が必須条件となっています。元Apple従業員らの見解によると、これは米国の巨大キャリアとの間で結ばれている巨額の協定や譲歩に基づくパッケージの一部であり、小売店舗での不正利用や詐欺リスクを軽減する狙いもあると伝えられています。"
     },
     {
       "id": "a66f0c56775e5466270a",
@@ -124,9 +117,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple's Next CEO Adds Retired Hardware Executive to His Team",
-      "summaryJa": "Incoming Apple CEO John Ternus is rehiring Laura Legros, a former vice president of hardware engineering who retired from Apple in 2022, reports Bloomberg . Legros previously managed product delivery, development schedules, and coordination across engineering teams. Under Ternus, she will work across different parts of the company, and report directly to him. According to Bloomberg , Legros was one of Ternus' most trusted deputies before she retired. She has presented at past Apple events, introducing the 2018 MacBook Air and the 2020 iPad Air . As he prepares to take over, Ternus has been shadowing current CEO Tim Cook and leading executive meetings. He has met with company leaders to work on product plans, and has been spending time with Apple's design teams. Ternus will take over as App",
-      "translationStatus": "source"
+      "titleJa": "次期CEOジョン・ターナス氏、引退した元ハードウェア幹部をチームに起用か",
+      "summaryJa": "次期Apple CEOに就任予定のジョン・ターナス氏が、2022年に引退した元ハードウェアエンジニアリング担当副社長のローラ・レグロス氏を復帰させると報じられています。レグロス氏はターナス氏の信頼厚い人物であり、同氏の直属として社内の異なる部門を横断的にサポートする役割を担うことになります。ターナス氏は9月1日のCEO就任に向けて準備を進めています。"
     },
     {
       "id": "0caf9f534ef08c373129",
@@ -140,9 +132,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple Photos in iOS 27 gets camera roll feature it’s long needed",
-      "summaryJa": "iOS 27 is a big update for Apple’s Photos app , with improvements to slideshows, shared albums, and more. It also adds a welcome camera roll-type feature many have long been asking for: ‘Captured by Me.’ iOS 27 is a big update for Apple’s Photos app, with improvements to slideshows, shared albums, and more. It also adds a welcome camera roll-type feature many have long been asking for: ‘Captured by Me.’ ‘Captured by Me’ in iOS 27 Photos app contains only photos and videos you shot in Camera app Apple’s Photos app has steadily expanded its feature set over the years. In addition to being home to the photos and videos your iPhone captures, it also includes content that’s been shared with you, Memories, screenshots, saved media, and a lot more. The Photos app used to offer a ‘Camera Roll’ fea",
-      "translationStatus": "source"
+      "titleJa": "iOSの「写真」アプリに待望のカメラロール機能が追加",
+      "summaryJa": "iOSの「写真」アプリでは、スライドショーや共有アルバムの改善に加え、長年求められていた「自分が撮影した写真」のみを表示する機能が追加されました。これまではスクリーンショットや保存画像が混在していましたが、カメラアプリで撮影した写真や動画だけを絞り込んで確認できるようになります。"
     },
     {
       "id": "b811e7865773fad027a9",
@@ -156,9 +147,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple’s contract manufacturing tax breaks in India could be extended to 2041",
-      "summaryJa": "Reuters reports that a new draft amendment would extend by 10 years a tax break for foreign companies that supply machinery and equipment to contract manufacturers in India. Here are the details. Reuters reports that a new draft amendment would extend by 10 years a tax break for foreign companies that supply machinery and equipment to contract manufacturers in India. Here are the details. Apple could get a major tax boost in India According to the report, India is moving to extend a tax break that is currently set to expire in 2031 until 2041. The exemption prevents foreign companies from becoming liable for Indian income tax simply because they own equipment used by contract manufacturers in the country. Here’s Reuters: The extended tax exemption will apply to manufacturers of mobile phon",
-      "translationStatus": "source"
+      "titleJa": "インドのApple向け製造税制優遇、2041年まで延長か",
+      "summaryJa": "インド政府が、契約メーカーに機械や設備を供給する外国企業向けの税制優遇措置を2041年まで10年間延長する法案を検討していると報じられています。この動きは、中国からのサプライチェーン分散を進めるAppleにとって大きな追い風となり、インドでのiPhone生産割合はさらに高まると予想されています。"
     },
     {
       "id": "d46dbd56dc9520e0bbad",
@@ -172,9 +162,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "John Ternus recruits key Apple hardware VP out of retirement ahead of CEO transition",
-      "summaryJa": "John Ternus is officially set to take over as Apple CEO on September 1. Ahead of that, he’s shaping the team around him and has brought back a key hardware engineering executive who retired several years ago. John Ternus is officially set to take over as Apple CEO on September 1. Ahead of that, he’s shaping the team around him and has brought back a key hardware engineering executive who retired several years ago. Bloomberg reports that Ternus has hired Laura Legros to join his management team. Legros retired in 2022 after serving as a VP of hardware engineering on Ternus’s team. When she returns to the company, Legros will reportedly “act as a vice president working cross-functionally with different parts of the company.” She will report directly to Ternus when he takes over as CEO on Sep",
-      "translationStatus": "source"
+      "titleJa": "次期CEO就任を控えるジョン・ターナス氏、元幹部を復帰へ",
+      "summaryJa": "9月1日のApple最高経営責任者（CEO）就任を前に、ジョン・ターナス氏が経営陣の体制固めを進めています。数年前に退職していたハードウェアエンジニアリング担当の元副社長ローラ・レグロス氏を再び呼び戻し、CEO直属のクロスファンクショナルな役割を担う幹部として起用する方針です。"
     },
     {
       "id": "238c88c072bd30ad2660",
@@ -188,9 +177,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Fitbit Data Can Finally Sync to Apple Health",
-      "summaryJa": "The latest update to the Google Health app for iOS allows Google Health data to sync to Apple Health. Google's app is used to collect data from wearables like Fitbit trackers and the Pixel Watch. Sync to Apple Health. Share your data like your exercise records, sleep, vitals, steps, and more from Google Health to Apple Health. Google Health (previously the Fitbit app) collects fitness, sleep, and wellness data from a connected wearable device. Steps, distance traveled, heart rate, sleep, and more can now be added to Apple Health. As noted on Reddit , some data such as HRV doesn't transfer over. Syncing can be enabled after downloading the update by selecting Connections, choosing Apps and services, and then adding Apple Health. Apple Health data already synced to Google Health, so the new ",
-      "translationStatus": "source"
+      "titleJa": "FitbitなどのデータをAppleヘルスケアに同期可能に",
+      "summaryJa": "iOS向けGoogle Healthアプリの最新アップデートにより、Fitbitなどのウェアラブル端末で収集したフィットネスや睡眠データをAppleヘルスケアへ直接同期できるようになりました。これまで非公式なサードパーティ製アプリを利用する必要がありましたが、今回のアップデートで双方向のデータ連携が実現しています。"
     },
     {
       "id": "3b84807b1b25a21524bf",
@@ -204,9 +192,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "WhatsApp beta for Mac tests flexible update schedules",
-      "summaryJa": "The latest beta build of WhatsApp’s Mac app lets users choose between daily and weekly update schedules, in addition to checking manually for new updates. Here are the details. The latest beta build of WhatsApp’s Mac app lets users choose between daily and weekly update schedules, in addition to checking manually for new updates. Here are the details. WhatsApp tests customizable update schedules on the Mac app As spotted by WABetaInfo, WhatsApp is testing a new setting that lets users control how frequently the Mac app is updated, depending on whether they prioritize getting the latest changes immediately or greater stability. As the site explains, WhatsApp recently ended its TestFlight beta program for Mac. Users who want to test upcoming features must now download beta builds directly fr",
-      "translationStatus": "source"
+      "titleJa": "Mac版WhatsApp、ベータ版で柔軟なアップデート頻度のテストを開始",
+      "summaryJa": "Mac版WhatsAppの最新ベータビルドにおいて、ユーザーがアップデートの頻度を選択できる新機能のテストが開始されました。最新の機能をいち早く受け取る日次アップデートと、安定性を重視した週次アップデートのどちらかを選べるようになります。この機能は段階的にロールアウトされており、正式な提供時期についてはまだ発表されていません。"
     },
     {
       "id": "5c841014e8ed2eb9f197",
@@ -220,9 +207,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple announces Ted Lasso look-alike contest happening in NYC",
-      "summaryJa": "Ted Lasso returns for season 4 this week ( watch here ), and Apple has just announced a clever marketing event: a Ted look-alike contest happening at Apple Fifth Avenue in New York City. Ted Lasso returns for season 4 this week (watch here), and Apple has just announced a clever marketing event: a Ted look-alike contest happening at Apple Fifth Avenue in New York City. ‘Gathering of the Teds’ coming to Apple Fifth Avenue this week for three-round competition Apple TV’s biggest debut of the year is happening this week. Ted Lasso season 4 premieres Tuesday night, August 4 at 9:00 p.m. ET / 6:00 p.m. PT. You can watch Ted Lasso here with an active Apple TV subscription. To celebrate the show’s return, Apple’s marketing team has cooked up something special: a Ted look-alike contest happening i",
-      "translationStatus": "source"
+      "titleJa": "Apple、ニューヨークで「テッド・ラッソ」そっくりさんコンテストを開催",
+      "summaryJa": "Appleは人気ドラマ「テッド・ラッソ」シーズン4の配信開始を記念し、ニューヨークのApple Fifth Avenueで特別なお祭りイベントを開催することを発表しました。会場では主人公のそっくりさんを競う3ラウンドのコンテストが行われ、参加者は演技力やトリビア、スピーチなどで競い合います。優勝者には特製の賞品が贈られる予定で、ファンにとって見逃せないマーケティングイベントとなっています。"
     },
     {
       "id": "a6fc48e742c18113ccb3",
@@ -236,9 +222,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Pay Launches in the Philippines",
-      "summaryJa": "Apple Pay expanded to the Philippines today, which means iPhone and Apple Watch owners in the country can add supported debit and credit cards to the Wallet app for contactless payments. Credit and debit cards can be added by opening the Wallet app and tapping on the \"+\" button. According to users on Reddit , supported banks include UnionBank, GoTyme, Metrobank, and Chinabank. Cards are verified using SMS or phone call. Once an eligible card is added to the Wallet app, it can be used at retail locations that support &zwnj;Apple Pay&zwnj;. Reddit users have been able to add their cards to Apple Wallet and make &zwnj;Apple Pay&zwnj; purchases at stores like Starbucks and 7-Eleven. &zwnj;Apple Pay&zwnj; is available in a long list of countries around the world, with details on supported banks",
-      "translationStatus": "source"
+      "titleJa": "フィリピンでApple Payが利用可能に",
+      "summaryJa": "フィリピンにおいてApple Payのサービスが新たに開始されました。これにより、同国のiPhoneおよびApple Watchユーザーは、対応するクレジットカードやデビットカードをウォレットアプリに追加して非接触決済を利用できるようになります。現時点では複数の主要銀行が対応しており、対応店舗での買い物や交通機関などでスムーズな支払いが可能になります。"
     },
     {
       "id": "7899ea7f8d17cda50dd8",
@@ -252,9 +237,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "MagSafe Monday: The LISEN Qi2.2 MagSafe battery brings the most unique lanyard on the market",
-      "summaryJa": "The new LISEN Qi2.2 MagSafe battery strikes a nice balance between size and design, bringing some very interesting features to the lanyard. On the spec side, the key feature is supporting the Qi2.2 standard for much faster MagSafe charging. To me, the most unique feature is a really clever lanyard system for the included cable. The new LISEN Qi2.2 MagSafe battery strikes a nice balance between size and design, bringing some very interesting features to the lanyard. On the spec side, the key feature is supporting the Qi2.2 standard for much faster MagSafe charging. To me, the most unique feature is a really clever lanyard system for the included cable. MagSafe Monday: Every Monday, Bradley Chambers looks at the latest and greatest in the MagSafe and wireless charging industry to help you ge",
-      "translationStatus": "source"
+      "titleJa": "LISEN、ユニークなストラップを備えたQi2.2対応MagSafeバッテリーを発売",
+      "summaryJa": "LISENから、サイズとデザインのバランスに優れた新しいQi2.2対応のMagSafeバッテリーが登場しました。最新のQi2.2規格をサポートすることで高速ワイヤレス充電を実現し、発熱を抑えるアクティブ温度制御も搭載されています。また、付属のUSB-Cケーブルを収納できる巧妙な織り込みストラップを採用しており、持ち運びや通勤時にも便利に使えるのが大きな特徴です。"
     },
     {
       "id": "129151d425d552239aa5",
@@ -268,9 +252,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "9to5Mac Daily: August 3, 2026 – Apple’s Q3 earnings",
-      "summaryJa": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily. New episodes of 9to5Mac Daily are recorded every weekday. Subscribe to our podcast in Apple Podcast or your favorite podcast player to guarantee new episodes are delivered as so",
-      "translationStatus": "source"
+      "titleJa": "Apple、2026年第3四半期決算を発表",
+      "summaryJa": "Appleは2026年第3四半期の決算を発表し、売上高は前年同期比16%増の1094億ドルを記録しました。しかし、混合的な結果や供給制約の懸念から株価は下落しています。また、ティム・クックCEOにとって最後の決算説明会となり、今後はターナス氏が引き継ぐことが確認されました。"
     },
     {
       "id": "f6c93771efdc250270b6",
@@ -284,9 +267,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Wikipedia for iOS just added a fun, new app widget for your Home Screen",
-      "summaryJa": "If you’re anything like me, you can relate to spending way too much time going down the rabbit hole of random articles on Wikipedia. Now there’s officially an app, err, widget for that. If you’re anything like me, you can relate to spending way too much time going down the rabbit hole of random articles on Wikipedia. Now there’s officially an app, err, widget for that. Finally, a button that opens random Wikipedia articles Today’s Wikipedia iOS app update introduces a very fun and useful new thing: a random articles widget for your iPhone and iPad Home Screen. It comes in two sizes (small and medium) and includes one friendly little mascot. Tapping the widget launches you into a completely random Wikipedia article, plus it puts you in randomizer mode. No need to leave the app and tap the w",
-      "translationStatus": "source"
+      "titleJa": "iOS版Wikipedia、ホーム画面用の新しいランダム記事ウィジェットを追加",
+      "summaryJa": "iOS版Wikipediaアプリの最新アップデートにより、ホーム画面用のランダム記事ウィジェットが追加されました。小と中の2つのサイズが用意されており、タップするだけで全く新しいWikipediaの記事へとジャンプできます。ウィジェット内には専用のランダマイザーボタンも搭載されており、アプリを開かなくても次々と興味深い記事を探索可能です。"
     },
     {
       "id": "d8fef8b2b30960f0d54c",
@@ -300,9 +282,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Disney+ might soon launch free tier for users, per report",
-      "summaryJa": "Hollywood increasingly sees YouTube as its major competition, and per a new report , free tiers from streamers like Disney+ and Paramount+ might be the answer. Hollywood increasingly sees YouTube as its major competition, and per a new report, free tiers from streamers like Disney+ and Paramount+ might be the answer. Streamers like Disney+, Paramount+, and Netflix exploring free tiers in various ways James Faris writes at Business Insider: Hollywood giants Disney and Paramount Skydance are exploring adding free tiers to their subscription services to build audiences, grow advertising revenue, and turn curious newcomers into customers…Netflix co-CEO Greg Peters said in mid-July that “a free offering could make sense in some markets.” Recently, Disney’s Chief Product & Technology Officer Ada",
-      "translationStatus": "source"
+      "titleJa": "Disney+やParamount+が無料プランの導入を検討か",
+      "summaryJa": "ハリウッドでYouTubeが主要な競争相手として意識される中、Disney+やParamount+などのストリーミングサービスが無料プランの導入を検討していると報じられています。有料の壁を取り除くことで新規顧客を引き付け、将来的な有料プランへのアップセルにつなげる狙いです。Netflixについても、一部の市場での無料提供の可能性が言及されています。"
     },
     {
       "id": "799a06e0a76aecdb6939",
@@ -316,9 +297,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple's iCloud File Sharing Left Ex-Employees With Access to Secret Documents",
-      "summaryJa": "The way Apple combines work and personal iCloud accounts left some employees able to access confidential documents after departing the company, reports The Information . The site spoke to more than half a dozen former Apple employees who were unknowingly left with access to sensitive content. The former employees said many Apple files they had been shared on over their careers at the company—including planning documents for product launch events—continued to sync to their personal devices through the iCloud storage service after they left Apple. In some cases, they even received notifications about fresh updates to the documents. Some former employees said they were petrified to delete the files for fear that doing so would attract Apple's attention. Apple files get mixed in with employees",
-      "translationStatus": "source"
+      "titleJa": "AppleのiCloud共有仕様により、退職後も機密文書へアクセス可能に",
+      "summaryJa": "Appleが仕事用と個人のiCloudアカウントを組み合わせる仕様を採用しているため、一部の元従業員が退職後も機密文書にアクセスできる状態になっていたと報じられています。製品発表イベントの計画文書などが個人の端末に同期され続け、中には更新通知を受け取るケースもありました。仕事用アカウントの管理フォルダ以外の共有ファイルが個人のコンテンツと混ざることが原因とされています。"
     },
     {
       "id": "f510cf5931f69cfa5ceb",
@@ -4554,7 +4534,7 @@
       "summaryJa": "Appleが折りたたみiPhoneの導入を遅らせている理由の一つは、以前のフレキシブルディスプレイの目立つ折り目と脆弱性に不満があったためです。Samsungが新たに発表したGalaxy Z Fold 8のディスプレイは、Appleが求める基準を満たし、iPhone Ultraのディスプレイに期待が寄せられています。Appleは、フレキシブルディスプレイ技術が成熟するのを待っていたとされ、今後の展開に注目が集まります。"
     }
   ],
-  "updatedAt": "2026-08-04T01:08:39.198Z",
+  "updatedAt": "2026-08-04T01:13:13.803Z",
   "initialized": true,
   "summaryVersion": 4
 }
