@@ -4,7 +4,7 @@ import { FEEDS, mergeArticles, parseFeed, selectFreshNotifications } from "./fee
 
 const DATA_PATH = new URL("../data/articles.json", import.meta.url);
 const GEMINI_API_BASE = "https://generativelanguage.googleapis.com/v1beta";
-const MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash-lite";
+const MODEL = process.env.GEMINI_MODEL || "gemini-3.5-flash-lite";
 const SUMMARY_VERSION = 4;
 const MAX_NEW_ARTICLES_PER_RUN = 12;
 const MAX_REFRESH_ARTICLES_PER_RUN = 20;
@@ -118,7 +118,6 @@ async function translateBatch(items, attempt = 0) {
         },
         contents: [{ role: "user", parts: [{ text: JSON.stringify(input) }] }],
         generationConfig: {
-          temperature: 0.2,
           maxOutputTokens: 4096,
           responseMimeType: "application/json",
           responseSchema: {
@@ -387,7 +386,7 @@ async function main() {
   }
 
   let refreshed = [];
-  if (needsSummaryRefresh && refreshCandidates.length) {
+  if (refreshCandidates.length) {
     console.log(`Refreshing ${refreshCandidates.length} article summary or summaries.`);
     refreshed = await translate(await enrichArticles(refreshCandidates));
   }
