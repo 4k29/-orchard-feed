@@ -1,6 +1,126 @@
 {
   "articles": [
     {
+      "id": "3fc131479309eb263f9b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases New AirPods Beta Firmware With iOS 27 Features",
+      "url": "https://www.macrumors.com/2026/08/04/airpods-beta-firmware-ios-27/",
+      "publishedAt": "2026-08-04T18:43:38.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/06/AirPods-Pro-Beta-Firmware-2.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、AirPods向けの新ベータファームウェアを公開",
+      "summaryJa": "Appleは、AirPodsシリーズ向けに新しいベータ版ファームウェアを開発者向けにリリースしました。このアップデートにより、今秋登場予定のOSで追加される新しいAirPodsインターフェイス、アダプティブモードの調整スライダー、カスタムイコライザーなどの機能がサポートされます。対応デバイスの設定画面からベータアップデートを有効にすることで、条件を満たした環境で自動的にインストールが進みます。"
+    },
+    {
+      "id": "afb8a44d557a78cacfe5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Starts Preparing for September iPhone Event",
+      "url": "https://www.macrumors.com/2026/08/04/apple-september-iphone-event-preparation/",
+      "publishedAt": "2026-08-04T18:36:46.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/iPhone-18-Pro-Rumored-Colors.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、9月のiPhoneイベントに向けた準備を開始か",
+      "summaryJa": "Appleは9月前半に開催されるとみられる新型iPhone発表イベントに向けた準備を進めています。全米の直営店スタッフを対象に、Apple Parkでのメディア対応などをサポートするプログラムの抽選応募が開始されました。新型のiPhone 18 Proシリーズや折りたたみモデルの登場が期待される中、イベントの日程は9月8日火曜日または9日水曜日になる可能性が報じられています。"
+    },
+    {
+      "id": "dd90c6d5ec910a9ad364",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AirPods Pro 3 just got new firmware release in beta, more models too",
+      "url": "https://9to5mac.com/2026/08/04/airpods-pro-3-just-got-new-firmware-release-in-beta-more-models-too/",
+      "publishedAt": "2026-08-04T18:33:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airpods-pro-3-upside-down.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPods Pro 3などの新型モデル向けに新ベータファームウェアが登場",
+      "summaryJa": "Appleは、AirPods Pro 3やその他のモデル向けに新しいベータ版ファームウェアの配信を開始しました。このアップデートは来月予定されている次期OSの一般リリースに合わせて全ユーザー向けに展開される見通しです。設定アプリからベータ版へのオプトインが可能となっており、適用することで秋以降に利用可能になる様々な新機能への対応準備が進められます。"
+    },
+    {
+      "id": "ccd7180fe7edcffe312b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Hands-on: GAMEBABY’s new translucent case turns your iPhone into a Game Boy with real buttons",
+      "url": "https://9to5mac.com/2026/08/04/hands-on-gamebabys-new-translucent-case-turns-your-iphone-into-a-game-boy-with-real-buttons/",
+      "publishedAt": "2026-08-04T18:30:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/GAMEBABY-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhoneをゲームボーイ風に変える透明ケースが登場",
+      "summaryJa": "BitmoLabの人気iPhone用ケース「GAMEBABY」に、新しい半透明モデルが登場しました。このケースはバッテリーやBluetooth接続を一切使用せず、ケースの下半分を回転させることで物理的な十字キーやボタンとして使えるユニークな設計が特徴です。レトロゲームのエミュレーションを楽しむ際に、充電不要で手軽に心地よい操作感を実現しています。"
+    },
+    {
+      "id": "44389e84151214bce81a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch ‘National Fitness Day’ challenge returns this weekend",
+      "url": "https://9to5mac.com/2026/08/04/apple-watch-national-fitness-day-challenge-returns-this-weekend/",
+      "publishedAt": "2026-08-04T18:28:14.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-challenge-2026.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch、中国で「国民フィットネスデー」の挑戦イベントを開催",
+      "summaryJa": "Apple Watchユーザー向けの中国限定のアクティビティチャレンジが今週末に実施されます。8月8日に20分以上のワークアウトを記録すると、フィットネスアプリ内で仮想メダルと4つのアニメーションステッカーが獲得できます。Appleは、ユーザーに様々なワークアウトを体験してもらうため、世界各地で定期的にこうしたイベントを開催しています。"
+    },
+    {
+      "id": "321aa7bfbc7fd0aff686",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Signal’s latest iOS update expands multi-device feature for iPhone users",
+      "url": "https://9to5mac.com/2026/08/04/signals-latest-ios-update-expands-multi-device-feature-for-iphone-users/",
+      "publishedAt": "2026-08-04T18:15:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/signal-link-iphone.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Signal、iOS向けに別のiPhoneをリンクできるマルチデバイス機能を拡大",
+      "summaryJa": "暗号化メッセージングサービスのSignalがアップデートされ、iPadに加えて別のiPhoneを既存のアカウントにリンクできるようになりました。追加のiPhoneをリンクする際、完全なメッセージ履歴や過去45日間のメディアの転送も選択可能です。この機能により、仕事用と個人用で複数のデバイスを使い分けるユーザーの利便性が大幅に向上します。"
+    },
+    {
+      "id": "0aba7c839933ccc7ca6f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Spotify reaches huge subscriber milestone as Apple Music readies iOS 27 upgrades",
+      "url": "https://9to5mac.com/2026/08/04/spotify-reaches-huge-subscriber-milestone-as-apple-music-readies-ios-27-upgrades/",
+      "publishedAt": "2026-08-04T17:42:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/spotify-disco-ball.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Spotifyが有料会員3億人を突破、Apple Musicとの競合続く",
+      "summaryJa": "オーディオ配信サービスのSpotifyが、四半期決算で有料プレミアム会員が3億人を突破したことを発表しました。音声番組やオーディオブックなどでサービスを拡大する一方、競合するApple Musicも有料プランの価格改定や新機能の追加を進めています。両社は音楽ストリーミング市場において激しいシェア争いを繰り広げています。"
+    },
+    {
+      "id": "3aa5aac91009aa7eee01",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple just revealed a clue about its September iPhone event date",
+      "url": "https://9to5mac.com/2026/08/04/apple-just-revealed-a-clue-about-its-september-iphone-event-date/",
+      "publishedAt": "2026-08-04T17:24:17.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-domain-northside-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、9月のiPhone発表会に向けた社内メモで日程の手がかりを公開",
+      "summaryJa": "Appleが全米の直営店スタッフを対象に、9月上旬にカリフォルニアで開催されるスペシャルイベントの支援スタッフを募集するプログラムを開始しました。社内メモによるとイベントは9月前半の開催予定で、過去の傾向から水曜日の開催が有力視されています。選ばれたスタッフは会場での案内やセキュリティなどの運営をサポートします。"
+    },
+    {
       "id": "137ae201bd20dd9beef2",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4387,129 +4507,9 @@
       ],
       "titleJa": "iOS 27のMessages機能が進化",
       "summaryJa": "iOS 27では、Messagesアプリに新機能が追加されます。Apple Intelligenceを活用した「ワンタップ提案」が導入され、会話の文脈に基づいてリマインダーやメモを簡単に作成できるようになります。また、新たに「描画」iMessageアプリが追加され、特にiPhone Ultraの大画面での利用が期待されています。RCSメッセージングにも改善が加えられ、インライン返信が可能になります。"
-    },
-    {
-      "id": "3a274dab9aafd4c72728",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro: Three reasons you might want to upgrade from iPhone 17 Pro",
-      "url": "https://9to5mac.com/2026/07/23/iphone-18-pro-three-reasons-you-might-want-to-upgrade-from-iphone-17-pro/",
-      "publishedAt": "2026-07-23T20:22:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iPhone-18-Pro-reportedly-enters-test-production.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Pro、アップグレードの理由はこれだ",
-      "summaryJa": "iPhone 18 Proが数ヶ月後に登場予定で、iPhone 17 Proからのアップグレードを考える理由が3つあります。まず、バッテリー寿命の向上が期待されており、効率的なA20 Proチップや大容量バッテリーが搭載される見込みです。次に、カメラ機能の大幅な改善が予想され、特にメインカメラと望遠カメラに注力されるとのことです。最後に、デザインの見直しも行われる可能性があります。"
-    },
-    {
-      "id": "13de2854352943cd9cdc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "ChatGPT and Codex are currently down for some users",
-      "url": "https://9to5mac.com/2026/07/23/chatgpt-and-codex-are-currently-down-for-some-users/",
-      "publishedAt": "2026-07-23T20:05:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/chatgpt-red.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ChatGPTとCodex、一部ユーザーで障害発生中",
-      "summaryJa": "OpenAIのシステムステータスページによると、ChatGPTとCodexを利用する一部ユーザーでエラー率が上昇しているとのことです。この問題は過去4時間続いており、OpenAIは約2時間前に緩和策を講じたと報告しています。DownDetectorの報告では、エラーの発生が減少傾向にあるものの、X上では依然として問題が続いているとの声が上がっています。"
-    },
-    {
-      "id": "171bce3bd96378f105ba",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone leasing, Apple Music price increase, iOS 27 beta 4",
-      "url": "https://9to5mac.com/2026/07/23/happy-hour-600/",
-      "publishedAt": "2026-07-23T20:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの新しいリースプログラムや音楽サービスの値上げ",
-      "summaryJa": "最近のAppleニュースでは、噂の新しい「Apple Upgrade」リースプログラムやApple Musicの価格引き上げ、iOS 27ベータ4の変更点が話題になっています。また、将来のMacやiPad向けのOLEDスクリーンの計画や、交換可能なバッテリーを持つ次世代Apple Pencilについても言及されています。さらに、AppleとFordがApple Musicを車載インフォテインメントシステムに直接統合する新たなパートナーシップを発表しました。"
-    },
-    {
-      "id": "42c0d0757633e8f06500",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Report: iPhone Ultra set to account for 25% of foldable smartphone shipments in 2026",
-      "url": "https://9to5mac.com/2026/07/23/report-iphone-ultra-set-to-account-for-25-of-foldable-smartphone-shipments-in-2026/",
-      "publishedAt": "2026-07-23T19:49:23.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone Ultra、2026年に折りたたみスマホ市場で25%のシェアか",
-      "summaryJa": "Counterpoint Researchの新しい報告によると、2026年の折りたたみスマートフォン出荷台数は前年比21%の成長が見込まれ、Appleはその市場に参入することで25%のシェアを獲得する可能性があるとされています。Samsungが依然としてリーダーであるものの、AppleはHuaweiをわずかに上回るシェアで2位に入ると予測されています。Appleの参入はプレミアム折りたたみ市場の競争を激化させると見られています。"
-    },
-    {
-      "id": "27d20a71fe291ce13438",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI updating ChatGPT desktop app with GPT Voice for talking through work",
-      "url": "https://9to5mac.com/2026/07/23/openai-updating-chatgpt-desktop-app-with-gpt-voice-for-talking-through-work/",
-      "publishedAt": "2026-07-23T19:36:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-codex.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ChatGPTデスクトップアプリに音声機能が追加",
-      "summaryJa": "OpenAIはChatGPTデスクトップアプリに大規模なアップデートを行い、作業を音声で進めるためのGPT Voiceモードを導入しました。この新機能は、今月モバイル版に登場したGPT-Liveを活用しており、ユーザーは音声でタスクを管理できるようになります。Macユーザーは、アクティブウィンドウを参照するAppshots機能も利用可能です。音声機能は、OpenAIの各プランでサポートされています。"
-    },
-    {
-      "id": "c0416b6ed1c22c5e859d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Anthropic upgrades Claude voice mode with more powerful models",
-      "url": "https://9to5mac.com/2026/07/23/anthropic-upgrades-claude-voice-mode-with-more-powerful-models/",
-      "publishedAt": "2026-07-23T19:16:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude-voice-mode.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Claudeの音声モードがアップグレード",
-      "summaryJa": "Anthropicは、Claudeの音声モードをアップグレードし、OpusおよびSonnetモデルに対応しました。これにより、ユーザーはより高性能なモデルを利用できるようになり、音声モードの機能がテキストベースの知能と一致しました。また、音声モード中にモデルを切り替えたり、11言語に対応したりすることも可能です。このアップグレードは、モバイル、デスクトップ、ウェブアプリで利用できます。"
-    },
-    {
-      "id": "f2352d92d30cfd9cf128",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27’s new Siri delivers in every single way I’d hoped for",
-      "url": "https://9to5mac.com/2026/07/23/ios-27s-new-siri-delivers-in-every-single-way-id-hoped-for/",
-      "publishedAt": "2026-07-23T18:19:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-app-ios-27-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27の新Siri、期待通りの進化",
-      "summaryJa": "iOS 27で新たに登場するSiri AIが、期待通りの機能を提供していると報告されています。特に、世界知識、会話型UI、Appleデバイス間の一貫性が強化され、ユーザーは質問に対する応答が向上したと感じています。また、SiriはAppleのアプリやサービスと深く統合されており、個別のニーズに応じたサポートが可能です。"
-    },
-    {
-      "id": "ef06e3e20b026bd32ca2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "ChatGPT's Apple Health Integration Now Rolling Out to U.S. Users",
-      "url": "https://www.macrumors.com/2026/07/23/chatgpt-apple-health-integration/",
-      "publishedAt": "2026-07-23T17:54:05.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/chatgpt-health.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "ChatGPTのApple Health統合が米国で開始",
-      "summaryJa": "ChatGPTの「Health」機能が、米国のユーザーに向けて展開されています。この機能は、Apple Healthのデータを活用し、ユーザーの健康情報をもとに医療記録を比較したり、健康状態の変化を追跡したりすることができます。ユーザーの許可を得た上で、食事制限や最近の怪我に基づいたアドバイスを提供することも可能です。"
     }
   ],
-  "updatedAt": "2026-08-04T17:00:06.079Z",
+  "updatedAt": "2026-08-04T18:45:38.441Z",
   "initialized": true,
   "summaryVersion": 4
 }
