@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "d328d6dde1b03e6d4c13",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI rebuts Apple trade secrets allegations in new response with receipts",
+      "url": "https://9to5mac.com/2026/08/03/openai-rebuts-apple-trade-secrets-allegations-in-new-response-and-evidence/",
+      "publishedAt": "2026-08-04T06:05:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、Appleからの機密情報窃盗の訴えに対し詳細に反論",
+      "summaryJa": "OpenAIは、Appleがハードウェア開発に関する営業秘密を盗んだとして提起した訴訟に対し、ブログ記事を通じて詳細な反論を公開しました。この中でOpenAIは、Apple側の主張には根拠がなく不適切な訴訟であると批判し、これまでの経緯や通知をめぐる齟齬について独自の主張を展開しています。両社の間で法的な争いが表面化しており、今後の動向が注目されています。"
+    },
+    {
       "id": "44c98f436a776c983531",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4492,24 +4507,9 @@
       ],
       "titleJa": "Apple MapsがFordのUEVプラットフォームに統合",
       "summaryJa": "AppleとFordが、Apple MapsをFordのユニバーサル電気自動車（UEV）プラットフォームに統合することを発表しました。この統合は2027年に実施され、AppleのMapKit for Automotive SDKを通じて、ナビゲーション体験が向上します。運転手は自然言語によるターンバイターンの指示やリアルタイムの交通情報を受け取ることができ、よりシームレスな運転体験が提供されます。"
-    },
-    {
-      "id": "48141b29838d0b936551",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Google Fined $1 Billion by EU for Search Bias and App Store Restrictions",
-      "url": "https://www.macrumors.com/2026/07/23/google-fined-1-billion-by-eu/",
-      "publishedAt": "2026-07-23T12:39:27.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/european-commission.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "EUがGoogleに10億ドルの罰金",
-      "summaryJa": "EUがGoogleに対し、検索とGoogle Playストアのサービスに関する独占禁止法違反で890百万ユーロ（約10億ドル）の罰金を科しました。Googleは、自社サービスを優遇し、開発者に安価な購入方法を提供させないなどの行為が問題視されました。今後、Googleは検索結果において第三者サービスを公平に扱うことが求められています。"
     }
   ],
-  "updatedAt": "2026-08-04T04:31:59.730Z",
+  "updatedAt": "2026-08-04T07:21:49.992Z",
   "initialized": true,
   "summaryVersion": 4
 }
