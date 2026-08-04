@@ -352,11 +352,6 @@ async function main() {
   if (!raw.length) throw new Error("All RSS feeds failed");
 
   const knownUrls = new Set((state.articles ?? []).map((article) => article.url));
-  const sourceFallbackUrls = new Set(
-    (state.articles ?? [])
-      .filter((article) => article.translationStatus === "source")
-      .map((article) => article.url),
-  );
   const unseenCandidates = raw
     .filter((article) => !knownUrls.has(article.url))
     .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
@@ -364,13 +359,23 @@ async function main() {
     ? unseenCandidates.slice(0, MAX_NEW_ARTICLES_PER_RUN)
     : unseenCandidates;
   const needsSummaryRefresh = state.summaryVersion !== SUMMARY_VERSION;
-  const refreshCandidates = raw
-    .filter(
-      (article) =>
-        knownUrls.has(article.url) &&
-        (needsSummaryRefresh ||
-          (process.env.GEMINI_API_KEY && sourceFallbackUrls.has(article.url))),
-    )
+  const refreshByUrl = new Map();
+  if (needsSummaryRefresh) {
+    raw
+      .filter((article) => knownUrls.has(article.url))
+      .forEach((article) => refreshByUrl.set(article.url, article));
+  }
+  if (process.env.GEMINI_API_KEY) {
+    (state.articles ?? [])
+      .filter((article) => article.translationStatus === "source")
+      .forEach((article) =>
+        refreshByUrl.set(article.url, {
+          ...article,
+          summaryOriginal: article.summaryOriginal ?? article.summaryJa ?? "",
+        }),
+      );
+  }
+  const refreshCandidates = [...refreshByUrl.values()]
     .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
     .slice(0, MAX_REFRESH_ARTICLES_PER_RUN);
 
