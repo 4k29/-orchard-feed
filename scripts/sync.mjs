@@ -235,7 +235,7 @@ async function translate(items) {
     }
   }
 
-  return items.flatMap(({ summaryOriginal, ...item }) => {
+  return items.flatMap(({ summaryOriginal, translationStatus: _translationStatus, ...item }) => {
     const translated = byId.get(item.id);
     if (!translated?.titleJa || !translated?.summaryJa) {
       console.warn(`Translation deferred until the next run: ${item.id}`);
