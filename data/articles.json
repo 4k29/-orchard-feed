@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "5194a41578be2274773a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Limits Bug Bounty Submissions After Flood of AI Slop",
+      "url": "https://www.macrumors.com/2026/08/04/aple-bug-bounty-limits-ai/",
+      "publishedAt": "2026-08-04T19:53:37.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、AI生成の誤報告急増でバグ報奨金の提出数に制限を導入",
+      "summaryJa": "Appleは、AIツールを用いて生成された低品質な偽の脆弱性報告が急増している問題を受け、セキュリティ研究者によるバグ報奨金プログラムへの提出数に制限を設けました。アマチュアハンターなどがAIを使って見つけたとする不正確なレポートが殺到したため、本物の脆弱性報告が埋もれる事態となっていました。Appleは現在、研究者ごとのオープンな提出数に上限を設定しつつも、重大な問題が見落とされないよう制限の引き上げ申請を受け付けています。"
+    },
+    {
+      "id": "93173751dc7720f24668",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Telegram CEO says extortionist planted illegal content that triggered App Store removal",
+      "url": "https://9to5mac.com/2026/08/04/telegram-ceo-says-extortionist-planted-illegal-content-that-triggered-app-store-removal/",
+      "publishedAt": "2026-08-04T19:33:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/Telegram.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Telegram一時削除、恐喝者が違法コンテンツを仕込んだとCEOが説明",
+      "summaryJa": "TelegramがApp Storeから一時的に削除された件について、同社のパヴェル・ドゥーロフCEOが詳細を明らかにしました。攻撃者が過去のメッセージを編集してAIで加工した児童性的虐待素材を隠し、削除を求める恐喝スキームを仕掛けたことが原因だとしています。Telegram側が即座にコンテンツを削除してユーザーをBANしたことでアプリは復旧しましたが、不審な手口への警戒が呼びかけられています。"
+    },
+    {
+      "id": "4407168882f0012e6e71",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "RevenueCat Shipaton mobile hackathon is back with $1 million worth of prizes",
+      "url": "https://9to5mac.com/2026/08/04/revenuecat-shipaton-mobile-hackathon-is-back-with-1-million-worth-of-prizes/",
+      "publishedAt": "2026-08-04T19:19:59.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/revenuecat-shipaton-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "総額100万ドル規模のモバイルハッカソン「Shipaton」が開催",
+      "summaryJa": "RevenueCat主催による世界最大級のモバイルアプリ開発ハッカソン「Shipaton」が再び開催されることになりました。AIコーディングツールの普及により誰でもアプリ開発が可能になった背景を受け、8月1日から9月30日までの期間に新たなアプリをリリースして収益化SDKを導入した開発者を対象に、総額100万ドル相当の豪華な賞品が授与されます。"
+    },
+    {
+      "id": "76e941ab580de1166fb5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "These Apple products are likely getting more expensive next month",
+      "url": "https://9to5mac.com/2026/08/04/these-apple-products-are-likely-getting-more-expensive-next-month/",
+      "publishedAt": "2026-08-04T19:06:12.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-17-pro-silver-airpods-pro-3-watch-ultra-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18やApple Watch、来月さらなる値上げの可能性と報道",
+      "summaryJa": "今夏にMacやiPadなどの幅広い製品群で価格引き上げを実施したAppleですが、来月のイベントに向けてiPhoneやApple Watchなどの主力製品でもさらなる値上げが行われると報じられています。AI関連の需要に伴うメモリコストの高騰などが影響しているとみられ、新型のiPhone 18シリーズやApple Watchの新モデルを対象に価格が引き上げられる可能性が指摘されています。"
+    },
+    {
       "id": "3fc131479309eb263f9b",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4447,69 +4507,9 @@
       ],
       "titleJa": "Geekbench 7が登場、CPU/GPU性能テストを刷新",
       "summaryJa": "Primate LabsがGeekbench 7を発表しました。新しいベンチマークは、日常的なタスクやゲーム、AIワークロードにおけるデバイスの使用状況をより反映するように設計されています。特にGPUベンチマークが改良され、機械学習やコンテンツ制作に重点が置かれています。また、NvidiaのCUDAが新たにサポートされ、マルチコア性能の扱いも改善されています。"
-    },
-    {
-      "id": "1847206f2d262acc40be",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "10 iOS 27 Performance Improvements You'll Actually Notice",
-      "url": "https://www.macrumors.com/guide/ios-27-performance-improvements/",
-      "publishedAt": "2026-07-23T22:02:58.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/10-iOS-27-Performance-Improvements-Youll-Actually-Notice-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27で実感できるパフォーマンス向上",
-      "summaryJa": "AppleはiOS 27でシステムのパフォーマンスを向上させ、アプリの起動速度が最大30%向上しました。この改善はiPhone 11以降の全モデルに適用され、特にCPUスケジューラの最適化により、パフォーマンス重視のタスクが効率的に処理されます。また、Wi-Fiとセルラー接続の切り替えも改善され、接続の安定性が向上しています。"
-    },
-    {
-      "id": "ce45f20e4a51de163a2d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Driver's Licenses May Soon Expand to New State",
-      "url": "https://www.macrumors.com/2026/07/23/iphone-drivers-licenses-utah/",
-      "publishedAt": "2026-07-23T20:58:38.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/04/apple-wallet-drivers-license-feature-iPhone-15-pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Wallet、ユタ州の運転免許証対応か",
-      "summaryJa": "Apple Walletにユタ州の運転免許証やIDが追加される可能性が報じられています。Appleのバックエンドにユタ州のIDに関する情報が見つかり、実装が進んでいることが示唆されています。ユタ州ではすでに独自のアプリでモバイル運転免許証を提供していますが、Apple Walletとの統合はまだ実現していません。2021年にAppleがこの機能を発表した際、ユタ州は最初に挙げられた州の一つです。"
-    },
-    {
-      "id": "c5eb295fd61602e7b5b0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Opera One browser joins the vertical tab club, expands Google Lens integration",
-      "url": "https://9to5mac.com/2026/07/23/opera-one-browser-joins-the-vertical-tab-club-expands-google-lens-integration/",
-      "publishedAt": "2026-07-23T20:35:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/opera-one-vertical-tabs.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Opera One、縦型タブとGoogle Lens統合を強化",
-      "summaryJa": "Operaがデスクトップブラウザ「Opera One」に新機能を追加しました。新たに縦型タブがオプションとして導入され、タブのフルタイトルを表示できるようになりました。また、Google Lensの統合も強化され、ホームページから直接画像検索が可能になりました。これにより、ユーザーはローカルファイルやクリップボードから画像を使用して検索できるようになります。"
-    },
-    {
-      "id": "7755071d8f5ae6553e56",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s everything new for Messages in iOS 27",
-      "url": "https://9to5mac.com/2026/07/23/heres-everything-new-for-messages-in-ios-27/",
-      "publishedAt": "2026-07-23T20:34:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27のMessages機能が進化",
-      "summaryJa": "iOS 27では、Messagesアプリに新機能が追加されます。Apple Intelligenceを活用した「ワンタップ提案」が導入され、会話の文脈に基づいてリマインダーやメモを簡単に作成できるようになります。また、新たに「描画」iMessageアプリが追加され、特にiPhone Ultraの大画面での利用が期待されています。RCSメッセージングにも改善が加えられ、インライン返信が可能になります。"
     }
   ],
-  "updatedAt": "2026-08-04T18:45:38.441Z",
+  "updatedAt": "2026-08-04T20:17:41.602Z",
   "initialized": true,
   "summaryVersion": 4
 }
