@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "c1daff95f0e65a72b098",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Russia escalates dispute with Apple over mandatory app preinstallation",
+      "url": "https://9to5mac.com/2026/08/03/russia-escalates-dispute-with-apple-over-mandatory-app-preinstallation/",
+      "publishedAt": "2026-08-04T00:59:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/Latest-Apple-antitrust-case-in-Russia.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Russia escalates dispute with Apple over mandatory app preinstallation",
+      "summaryJa": "Reuters reports that Russia’s antitrust regulator has opened a formal case against Apple over the company’s failure to preinstall the state-backed MAX messenger and Russia’s RuStore app marketplace on its devices. Here are the details. Reuters reports that Russia’s antitrust regulator has opened a formal case against Apple over the company’s failure to preinstall the state-backed MAX messenger and Russia’s RuStore app marketplace on its devices. Here are the details. Russia opens antitrust proceedings against Apple Since 2019, when Russia passed a law requiring device makers to offer domestic apps on products sold in the country, Apple and Russian authorities have been locked in a slow-boiling battle. In 2021, when the law went into effect, Apple reached an arrangement under which users se",
+      "translationStatus": "source"
+    },
+    {
       "id": "9df4eda75f123ef717e3",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4536,24 +4552,9 @@
       ],
       "titleJa": "Apple、折りたたみiPhoneのディスプレイに期待",
       "summaryJa": "Appleが折りたたみiPhoneの導入を遅らせている理由の一つは、以前のフレキシブルディスプレイの目立つ折り目と脆弱性に不満があったためです。Samsungが新たに発表したGalaxy Z Fold 8のディスプレイは、Appleが求める基準を満たし、iPhone Ultraのディスプレイに期待が寄せられています。Appleは、フレキシブルディスプレイ技術が成熟するのを待っていたとされ、今後の展開に注目が集まります。"
-    },
-    {
-      "id": "56fa16d7d805932a3fa5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Do we need to worry about burn-in as Macs transition to OLED screens?",
-      "url": "https://9to5mac.com/2026/07/23/do-we-need-to-worry-about-burn-in-as-macs-transition-to-oled-screens/",
-      "publishedAt": "2026-07-23T11:12:18.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/macbook-pro-touch-bar-gold-glow.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "MacのOLED移行、バーンインの懸念は？",
-      "summaryJa": "Appleは、MacBook Proを含むデバイスのOLED技術への移行を進めています。これにより、OLED特有のバーンイン現象への懸念が高まっています。OLEDは各ピクセルが直接発光するため、色彩が鮮やかで黒が深い一方で、ピクセルの劣化が問題となる可能性があります。今後、MacBook AirやiMacもOLEDに移行する見込みです。"
     }
   ],
-  "updatedAt": "2026-08-04T00:12:31.818Z",
+  "updatedAt": "2026-08-04T01:08:39.198Z",
   "initialized": true,
   "summaryVersion": 4
 }
