@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "137ae201bd20dd9beef2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV’s most popular show this year was just revealed",
+      "url": "https://9to5mac.com/2026/08/04/apple-tvs-most-popular-show-this-year-was-just-revealed/",
+      "publishedAt": "2026-08-04T16:39:26.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-tv-logo-mountains.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、今年最も視聴された作品が判明",
+      "summaryJa": "ニールセンが発表した2026年上半期のデータによると、Apple TVのオリジナルシリーズ「シュリンキング：悩めるセラピスト」が、全配信サービスの中でトップ20にランクインしました。テッド・ラッソの共同クリエイターが手掛けた同作は、期間中に52億分の視聴時間を記録し、今年Apple TVで最も人気を集めた作品となりました。公式な視聴者数が非公開である中、サードパーティのデータによってその好調ぶりが裏付けられています。"
+    },
+    {
+      "id": "8ed617298d711cbfdcde",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI explains what will happen when ChatGPT Atlas shuts down this weekend",
+      "url": "https://9to5mac.com/2026/08/04/openai-explains-what-will-happen-when-chatgpt-atlas-shuts-down-this-weekend/",
+      "publishedAt": "2026-08-04T16:12:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/open-ai-browser.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、Mac向けブラウザ終了に伴う対応を解説",
+      "summaryJa": "OpenAIは、Mac向け専用ウェブブラウザ「ChatGPT Atlas」が週末に提供を終了することに伴い、今後の対応について詳細を説明しました。今後はスタンドアロンブラウザを廃止し、新しいChatGPTデスクトップアプリに統合されたブラウザ機能への移行を促しています。終了前にブックマークを手動でエクスポートする必要があるほか、クッキーや履歴の扱いについても注意が呼びかけられています。"
+    },
+    {
+      "id": "b76e8db653dac2894332",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: M5 MacBook Air up to $300 off, AirPods Max 2 $100 off, Beats Solo Buds from $41, AirTag 2, more",
+      "url": "https://9to5mac.com/2026/08/04/deals-m5-macbook-air-airpods-max-2-beats-solo-buds/",
+      "publishedAt": "2026-08-04T15:35:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-MacBook-Air-Anker-charger-AirTag-2-Beats.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "M5搭載MacBook Airが最大300ドル引きのセール中",
+      "summaryJa": "Appleの公式整備済みストアにおいて、M5チップを搭載したMacBook Airが最大300ドル引きとなるなど、魅力的な割引価格で販売されています。15インチモデルや24GBメモリを搭載した構成などが対象となっており、通常よりも手頃な価格で購入可能です。さらに、AirPods ProやAirPods Maxなど、人気のオーディオ製品も値引きの対象となっています。"
+    },
+    {
+      "id": "5d8346da1942b000353a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro will have three upgrades that have been rumored for years",
+      "url": "https://9to5mac.com/2026/08/04/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
+      "publishedAt": "2026-08-04T15:28:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proに長年噂された3つの機能強化か",
+      "summaryJa": "まもなく登場すると噂されるiPhone 18 Proには、長年取り沙汰されてきた3つの主要なアップグレードが搭載される見込みです。メインカメラへの可変絞りの採用をはじめ、従来より約35%小型化された新しいDynamic Island、そしてクアルコム製に代わるApple独自の次世代「C2」モデムの搭載が予想されています。いよいよ数週間後に迫った発表会で、その全貌が明らかになる見通しです。"
+    },
+    {
       "id": "181d1720b020d8644050",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4447,69 +4507,9 @@
       ],
       "titleJa": "ChatGPTのApple Health統合が米国で開始",
       "summaryJa": "ChatGPTの「Health」機能が、米国のユーザーに向けて展開されています。この機能は、Apple Healthのデータを活用し、ユーザーの健康情報をもとに医療記録を比較したり、健康状態の変化を追跡したりすることができます。ユーザーの許可を得た上で、食事制限や最近の怪我に基づいたアドバイスを提供することも可能です。"
-    },
-    {
-      "id": "aeb6569e12e0c073a443",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Emergency SOS via Satellite Expands to Two More Countries",
-      "url": "https://www.macrumors.com/2026/07/23/emergency-sos-via-satellite-two-more-countries/",
-      "publishedAt": "2026-07-23T17:50:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2022/11/Emergency-SOS-via-Satellite-iPhone-YT.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "緊急SOS衛星通信、2カ国に拡大",
-      "summaryJa": "Appleの緊急SOS衛星通信機能が、アンドラとアイスランドで利用可能になりました。この機能は、iPhone 14以降およびApple Watch Ultra 3で利用でき、Wi-Fiや携帯電話の接続がない状況でも緊急サービスにメッセージを送信できます。利用にはiOS 26.4およびwatchOS 26.4以降が必要です。"
-    },
-    {
-      "id": "e434d60280e2ae3082f9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI relaunches Apple Health-connected ChatGPT feature with expanded access",
-      "url": "https://9to5mac.com/2026/07/23/openai-relaunches-apple-health-connected-chatgpt-feature-with-expanded-access/",
-      "publishedAt": "2026-07-23T17:28:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/chatgpt-healthwebp.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI、Apple Health連携のChatGPT機能を再展開",
-      "summaryJa": "OpenAIがChatGPTのHealth機能を再展開し、Apple Healthとの接続が可能になりました。新機能は米国のユーザー向けに提供され、ユーザーは健康情報を安全に接続し、過去の結果と比較したり、変化を追跡したりできるようになります。初期のテストからのフィードバックを基に改善が施され、ChatGPTはよりパーソナライズされた会話を提供します。"
-    },
-    {
-      "id": "3a6497ab3d6407900783",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Geekbench 7 Launches With Redesigned Multi-Core and GPU Benchmarks",
-      "url": "https://www.macrumors.com/2026/07/23/geekbench-7-launch/",
-      "publishedAt": "2026-07-23T17:00:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/geekbench-7.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Geekbench 7がマルチコアとGPUベンチマークを刷新",
-      "summaryJa": "Primate LabsがGeekbench 7を発表しました。新バージョンでは、実際のアプリケーションの動作を反映したマルチコアベンチマークが導入され、GPUベンチマークも機械学習やコンテンツ制作に焦点を当てています。新しいテストでは、リアルタイムフィルターや画像処理、ゲーム物理シミュレーションなどが含まれ、より現実的なパフォーマンス評価が可能です。"
-    },
-    {
-      "id": "57392b894a01015d6062",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Pay Promo Offers Discount on Columbia Gear",
-      "url": "https://www.macrumors.com/2026/07/23/apple-pay-columbia-promo/",
-      "publishedAt": "2026-07-23T16:38:05.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/columbia-apple-pay.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Payでコロンビア製品が割引中",
-      "summaryJa": "AppleがApple Payユーザー向けに、コロンビアのスポーツウェアが120ドル以上の購入で20ドル割引になるプロモーションを開始しました。この割引はコロンビアのウェブサイトでの購入時に適用され、店舗では利用できません。プロモーションは8月7日まで有効で、特定のコレクション商品は対象外です。"
     }
   ],
-  "updatedAt": "2026-08-04T14:57:36.777Z",
+  "updatedAt": "2026-08-04T17:00:06.079Z",
   "initialized": true,
   "summaryVersion": 4
 }
