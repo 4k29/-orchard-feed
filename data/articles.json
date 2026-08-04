@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "371ab319e4f941228e12",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Bingers, a new TV-tracking app from the founder of TV Time, is now available to download",
+      "url": "https://9to5mac.com/2026/08/04/bingers-a-new-tv-tracking-app-from-the-founder-of-tv-time-is-now-available-to-download/",
+      "publishedAt": "2026-08-04T20:33:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/bingers.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "人気のテレビ番組追跡アプリ「TV Time」の元創業者による新アプリ「Bingers」が登場",
+      "summaryJa": "先月のTV Timeのサービス終了を受け、共同創業者のアントニオ・ピント氏がコミュニティ機能を重視した新しいテレビ・映画追跡アプリ「Bingers」を発表しました。現在iOSおよびAndroid向けに配信されており、ユーザーは以前のデータをインポートして引き継ぐことが可能です。プロフィールや投票機能といったコミュニティ機能が充実しているほか、視聴履歴や今後のエピソードカレンダーなども無料で利用できます。"
+    },
+    {
+      "id": "d5b492c18e95eddf4be1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Telegram CEO Says Extortionist Manipulated Apple Into App Store Removal",
+      "url": "https://www.macrumors.com/2026/08/04/telegram-extortionist-app-store-removal/",
+      "publishedAt": "2026-08-04T20:21:53.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/08/telegram-app-icon.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Telegram、悪質な攻撃者がAppleを操作してApp Storeから一時削除させたと主張",
+      "summaryJa": "Telegramのパーヴェル・ドゥーロフCEOは、AIで改変された児童性的虐待素材をグループチャットに意図的に植え付け、Appleを騙してアプリを一時削除させた脅迫者が存在すると明らかにしました。攻撃者は古いメッセージを隠れて編集する技術的なトリックを用いてモデレーションを回避したとされています。Appleは約40分後にTelegramを再承認しましたが、今回の件はユーザー生成コンテンツをホストするあらゆるアプリにとって潜在的なリスクになると警告しています。"
+    },
+    {
       "id": "5194a41578be2274773a",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4477,39 +4507,9 @@
       ],
       "titleJa": "Apple TVでコメディ映画『The Dink』配信開始",
       "summaryJa": "Apple TVで新たにベン・スティラー製作のスポーツコメディ映画『The Dink』が配信されました。主演はジェイク・ジョンソンやメアリー・スティーンバージェンなどの豪華キャストが揃い、テニスの元天才選手がピクルボールに挑戦するストーリーです。映画は、父親の承認を得るために奮闘する主人公が過去の失敗と向き合う様子を描いています。Apple TVのスポーツコンテンツはますます充実しており、他にも多くの作品がラインアップされています。"
-    },
-    {
-      "id": "7bf567a73ed5e384350a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s trade secrets lawsuit against OpenAI reassigned to new judge",
-      "url": "https://9to5mac.com/2026/07/23/apples-trade-secrets-lawsuit-against-openai-reassigned-to-new-judge/",
-      "publishedAt": "2026-07-24T00:33:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-vs-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、OpenAIに対する訴訟が新判事に移管",
-      "summaryJa": "AppleがOpenAIに対して提起した営業秘密に関する訴訟が、エドワード・ダビラ米国地方裁判官に移管されました。元々はマグレート判事に割り当てられていましたが、Appleがその判事の管轄を拒否したため、移管が行われました。この結果、10月13日に予定されていた初回のケース管理会議はキャンセルされ、ダビラ判事のもとで再調整が必要となります。"
-    },
-    {
-      "id": "e3d4c10c5324899582f7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Geekbench 7 is out with overhauled performance tests for CPU and GPU workloads",
-      "url": "https://9to5mac.com/2026/07/23/geekbench-7-is-out-with-overhauled-performance-tests-for-cpu-and-gpu-workloads/",
-      "publishedAt": "2026-07-23T22:05:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/geekbench-7.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Geekbench 7が登場、CPU/GPU性能テストを刷新",
-      "summaryJa": "Primate LabsがGeekbench 7を発表しました。新しいベンチマークは、日常的なタスクやゲーム、AIワークロードにおけるデバイスの使用状況をより反映するように設計されています。特にGPUベンチマークが改良され、機械学習やコンテンツ制作に重点が置かれています。また、NvidiaのCUDAが新たにサポートされ、マルチコア性能の扱いも改善されています。"
     }
   ],
-  "updatedAt": "2026-08-04T20:17:41.602Z",
+  "updatedAt": "2026-08-04T21:46:17.277Z",
   "initialized": true,
   "summaryVersion": 4
 }
