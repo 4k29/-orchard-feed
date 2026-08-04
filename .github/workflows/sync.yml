@@ -57,8 +57,8 @@ jobs:
       - name: RSSを取得・翻訳・通知
         run: npm run sync
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          TRANSLATION_MODEL: ${{ vars.TRANSLATION_MODEL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           DISCORD_USER_ID: "1305762049338642552"
           SEND_TEST_NOTIFICATION: ${{ inputs.send_test }}
