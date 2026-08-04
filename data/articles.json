@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "181d1720b020d8644050",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Bigger Displays Rumored for Next Year's iPhone Models",
+      "url": "https://www.macrumors.com/2026/08/04/bigger-displays-rumored-for-next-year-iphones/",
+      "publishedAt": "2026-08-04T14:40:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "次期iPhoneに大型ディスプレイ搭載の可能性",
+      "summaryJa": "中国のリーク情報によると、Appleは20周年を迎えるiPhoneに向けて、約6.4インチと約7インチの2種類の新しいディスプレイパネルを試作していると伝えられています。画面全体がわずかに拡大される一方でアスペクト比は維持され、4辺が湾曲したボーダレスな新デザインが採用される可能性があると報じられています。"
+    },
+    {
+      "id": "71a6737ea2c8f5cf3d94",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 gives FaceTime huge upgrade with this powerful new feature",
+      "url": "https://9to5mac.com/2026/08/04/ios-27-gives-facetime-huge-upgrade-with-this-powerful-new-feature/",
+      "publishedAt": "2026-08-04T14:30:17.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/facetime-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27のFaceTimeにデュアルキャプチャ機能が追加か",
+      "summaryJa": "iOS 27では、iPhone 17以降の対応モデル向けにFaceTimeで強力な新しいデュアルキャプチャ機能が利用できるようになると伝えられています。これにより、通話中にフロントカメラとリアカメラの映像を同時に表示することが可能になり、対応するデバイス同士であればお互いの映像を共有できるようになります。"
+    },
+    {
+      "id": "1e7fa4b4b258d9adb9de",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Card Now Fast-Tracks Booking.com Perks With Just One Trip",
+      "url": "https://www.macrumors.com/2026/08/04/apple-card-booking-com-loyalty/",
+      "publishedAt": "2026-08-04T14:13:40.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-card-booking-genius.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Card、Booking.comで上級会員資格を即時付与",
+      "summaryJa": "Apple Cardユーザーを対象に、Booking.comでの特典が強化され、1回滞在またはレンタカーを利用するだけで通常よりも早くGeniusレベル2に自動アップグレードされるようになりました。これにより、対象の宿泊施設などで10%から15%の割引や無料朝食などの特典が受けられるようになります。"
+    },
+    {
+      "id": "4a78e9dfeec1b15287d8",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp Adds '@ all' Mentions and Poll Upgrades to Group Chats",
+      "url": "https://www.macrumors.com/2026/08/04/whatsapp-adds-all-mentions-and-poll-upgrades/",
+      "publishedAt": "2026-08-04T14:00:22.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "WhatsApp、グループチャットに「@all」メンション機能などを追加",
+      "summaryJa": "WhatsAppはグループチャット向けに、一斉通知が可能な「@all」メンション機能や、投票機能の改良、既存グループから新しいグループを簡単に作成できる新機能の提供を開始しました。「@all」は緊急の連絡などに便利で、投票機能では終了時刻の設定や投票者の非表示が可能になっています。"
+    },
+    {
+      "id": "6f2d3c899bf11af8b192",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp launches three new features to upgrade group chats",
+      "url": "https://9to5mac.com/2026/08/04/whatsapp-launches-new-features-to-upgrade-group-chats/",
+      "publishedAt": "2026-08-04T14:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-green.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp、投票機能の改善や一斉通知などの新機能を提供開始",
+      "summaryJa": "WhatsAppはグループチャット向けに3つの新しい機能の提供を開始しました。投票機能では投票者名の非表示設定や締め切り日時の設定、投稿後15分以内の編集が可能になり、さらにグループ全員に通知を送る「@all」メンションや、既存グループから簡単に新しいチャットを作成する機能が追加されています。"
+    },
+    {
+      "id": "3aa7a1e9e68b4d7b439f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Amazon Discounts New M4 iPad Air Models by Up to $69",
+      "url": "https://www.macrumors.com/2026/08/04/amazon-m4-ipad-air-models/",
+      "publishedAt": "2026-08-04T13:59:09.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/m4-ipad-air-spring.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazon、M4搭載iPad Airを最大69ドル引きでセール販売",
+      "summaryJa": "Amazonにて、新型のM4 iPad Airモデルを対象とした割引セールが実施されています。11インチおよび13インチの各モデルが最大69ドル引きとなっており、対象にはM4チップやWi-Fi 7などを搭載した最新のタブレットが含まれています。"
+    },
+    {
+      "id": "164b11db9bdbda987db3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Next year’s iPhone Pro models will have larger screen sizes, per leak",
+      "url": "https://9to5mac.com/2026/08/04/next-years-iphone-pro-models-will-have-larger-screen-sizes-per-leak/",
+      "publishedAt": "2026-08-04T13:34:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "来年のiPhone Proモデルは画面サイズがさらに大型化か",
+      "summaryJa": "来年のiPhone登場20周年に向け、iPhone Proモデルの大幅なデザイン刷新や画面サイズの大型化に関する噂が浮上しています。リーク情報によると、iPhone Proは6.4インチ、iPhone Pro Maxは7インチのディスプレイを搭載し、ベゼルレスの曲面ディスプレイを採用する可能性があると報じられています。"
+    },
+    {
+      "id": "0dd90a289713f8cfeb55",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "T-Mobile outage could see you snag $10 to $80 in compensation",
+      "url": "https://9to5mac.com/2026/08/04/t-mobile-outage-could-see-you-snag-10-to-80-in-compensation/",
+      "publishedAt": "2026-08-04T13:19:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/tmo-sos.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "T-Mobileの大規模通信障害、利用者へ補償として10〜80ドルが適用か",
+      "summaryJa": "先週アメリカ国内で発生したT-Mobileの大規模な通信障害により、多くのiPhoneユーザーが数時間にわたりサービスを利用できない状態となりました。公式からの自動的な補償はないものの、カスタマーサポートに連絡したユーザーの間では、10ドルから80ドルの利用料金クレジットを獲得できたという報告が相次いでいます。"
+    },
+    {
+      "id": "4290a13901096ad2f89f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple moves for preliminary injunction in OpenAI trade secrets lawsuit",
+      "url": "https://9to5mac.com/2026/08/04/apple-preliminary-injunction-openai/",
+      "publishedAt": "2026-08-04T12:47:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、OpenAIを訴えた営業秘密侵害訴訟で仮処分を申請",
+      "summaryJa": "Appleは、OpenAIに対する営業秘密侵害を巡る訴訟で、裁判所に予備的差止命令（仮処分）の適用を申請した。Appleは、OpenAIが機密情報の使用を継続すれば回復不可能な損害を受けると主張している。両社間で機密情報の削除やフォレンジック検査を巡る協議が不調に終わり、裁判所による即時介入を求める事態となった。"
+    },
+    {
+      "id": "794ca2fd6be2d4af2b1d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Annual India Sales Surpass $10 Billion for First Time",
+      "url": "https://www.macrumors.com/2026/08/04/apple-annual-india-sales-surpass-10-billion/",
+      "publishedAt": "2026-08-04T12:37:22.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2020/08/apple-india.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleのインド年間売上高が初の100億ドルを突破",
+      "summaryJa": "関係者の話としてBloombergが報じたところによると、3月末までの事業年度におけるAppleのインド年間売上高が初めて100億ドルを突破した。同国内での直営店舗の展開拡大やリテール拠点の強化が寄与し、2ケタ台の成長を記録した。iPhoneが売上の大部分を占めるほか、iPadやMacBookの需要も高まっている。"
+    },
+    {
+      "id": "ff2c2a42918d602b2a78",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "No, Apple Photos face recognition is not a privacy threat – quite the opposite",
+      "url": "https://9to5mac.com/2026/08/04/no-apple-photos-face-recognition-is-not-a-privacy-threat-quite-the-opposite/",
+      "publishedAt": "2026-08-04T12:31:14.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/No-Apple-Photos-face-recognition-is-not-a-privacy-threat-–-quite-the-opposite.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの写真アプリにおける顔認識機能とプライバシー保護",
+      "summaryJa": "Appleの写真アプリにおける顔認識機能が州のプライバシー法に違反しているとして、多額の損害賠償を求める訴訟の進行が許可された。Metaのサーバー側で行われる顔認識とは異なり、Appleのアルゴリズムは完全にデバイス上で処理されており、生体データを収集していない。裁判所の判断は機能の仕組みを誤解していると指摘されている。"
+    },
+    {
+      "id": "89bf8295925e88e74e62",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "OpenAI Posts Public Rebuttal to Apple's Trade Secrets Lawsuit",
+      "url": "https://www.macrumors.com/2026/08/04/openai-posts-public-rebuttal-to-apple/",
+      "publishedAt": "2026-08-04T12:27:07.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/05/OpenAI-vs-Apple-Feature-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "OpenAI、Appleからの営業秘密侵害訴訟に対して詳細な反論を公開",
+      "summaryJa": "AppleがOpenAIを相手取って起こした営業秘密侵害訴訟をめぐり、OpenAI側が詳細な公的反論を公開した。Appleは元従業員による機密情報の流出を主張して仮処分を求めているが、OpenAI側は法的対応や事前協議の経緯に不備があったと主張している。両社の法廷闘争は激しさを増しており、今後の裁判所の判断が注目される。"
+    },
+    {
       "id": "93165ace592c7d8fbd8e",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4327,189 +4507,9 @@
       ],
       "titleJa": "Apple Payでコロンビア製品が割引中",
       "summaryJa": "AppleがApple Payユーザー向けに、コロンビアのスポーツウェアが120ドル以上の購入で20ドル割引になるプロモーションを開始しました。この割引はコロンビアのウェブサイトでの購入時に適用され、店舗では利用できません。プロモーションは8月7日まで有効で、特定のコレクション商品は対象外です。"
-    },
-    {
-      "id": "3997b79fba2488db00c3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "'The Morning Show' Returning to Apple TV for a Final Season Next Year",
-      "url": "https://www.macrumors.com/2026/07/23/apple-tv-the-morning-show-final-season/",
-      "publishedAt": "2026-07-23T16:32:19.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/The-Morning-Show-Hero.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple TV『The Morning Show』、最終シーズンが決定",
-      "summaryJa": "Appleが『The Morning Show』の最終シーズンが2027年に放送されることを発表しました。このシリーズは2019年のApple TVの立ち上げ時に最初に配信された作品で、ジェニファー・アニストンやリース・ウィザースプーンなどのキャストが再登場します。"
-    },
-    {
-      "id": "b3dd5b64773136bb0904",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple announces The Morning Show is ending after season 5",
-      "url": "https://9to5mac.com/2026/07/23/apple-announces-the-morning-show-is-ending-after-season-5/",
-      "publishedAt": "2026-07-23T16:16:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/the-morning-show-s4-key-art-zoom.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、The Morning Showの終了を発表",
-      "summaryJa": "Appleは、Apple TVのオリジナルシリーズ『The Morning Show』がシーズン5で終了することを発表しました。最終シーズンは2027年に放送予定で、これまでの人気を受けての決定です。シーズン5には新たにジェフ・ダニエルズやジェシー・ウィリアムズがキャストに加わります。『The Morning Show』は2019年のApple TV+の立ち上げ時からの重要な作品であり、最終シーズンも秋に放送される見込みです。"
-    },
-    {
-      "id": "4961da10f204c1c4ffa5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 gives Apple Photos a very useful feature I’ve wanted for years",
-      "url": "https://9to5mac.com/2026/07/23/ios-27-gives-apple-photos-a-very-useful-feature-ive-wanted-for-years/",
-      "publishedAt": "2026-07-23T16:03:14.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-photos-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27でApple Photosが進化",
-      "summaryJa": "iOS 27では、Apple Photosに新機能が追加され、動画のフレームを写真として保存できるようになります。この機能により、スクリーンショットよりも高解像度で、簡単に動画の一瞬を切り取ることが可能になります。これまで動画からの静止画保存は難しかったため、多くのユーザーが待ち望んでいた機能です。"
-    },
-    {
-      "id": "e349e8db487b310ea411",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Opera One Browser Adds Vertical Tabs - Should Safari Follow?",
-      "url": "https://www.macrumors.com/2026/07/23/opera-one-adds-vertical-tabs-chrome-firefox/",
-      "publishedAt": "2026-07-23T15:52:03.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/opera-one-vertical-Tabs-HERO-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Opera Oneが縦タブを追加、Safariはどうする？",
-      "summaryJa": "Opera Oneブラウザが縦タブ機能を追加し、タブバーをウィンドウの左側に移動できるようになりました。この機能は、タブが多くなると横並びでは見づらくなる問題を解決します。Safariには専用の縦タブモードはありませんが、タブグループ機能があり、今後のアップデートでの対応が期待されています。"
-    },
-    {
-      "id": "0c53cd7fc17b16925c61",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "5 Reasons to Buy the iPhone 17 Now Instead of Waiting for iPhone 18",
-      "url": "https://www.macrumors.com/2026/07/23/5-reasons-buy-iphone-17-not-waiting-iphone-18/",
-      "publishedAt": "2026-07-23T15:26:53.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/5-Reasons-to-Buy-the-iPhone-17-Now-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 17を今買うべき理由",
-      "summaryJa": "iPhone 18の発表が近づく中、iPhone 17を今購入する理由がいくつかあります。価格上昇が予想される中、iPhone 17はまだ旧価格で販売されています。また、iPhone 18の通常モデルは来春まで待たなければならず、iPhone 17の方が早く手に入ります。さらに、iPhone 18の基本モデルはスペックがダウングレードされる可能性もあるため、今のうちにiPhone 17を選ぶのが賢明かもしれません。"
-    },
-    {
-      "id": "ebf5181911f2d5b08763",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: M5 Pro MacBook Pro $320 off, Series 11 from $299, AirPods Pro 3, Satechi 25W MagSafe stand 40% off, more",
-      "url": "https://9to5mac.com/2026/07/23/deals-macbook-pro-series-11-airpods-25w-magsafe/",
-      "publishedAt": "2026-07-23T15:25:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-deals-MacBook-Pro-25W-MagSafe-AirTag-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple製品のセール情報",
-      "summaryJa": "「ブラックフライデー・イン・ジュライ」として、Apple製品のセールが続いています。M5 Pro MacBook Proが最大320ドルオフ、AirPods Pro 3やAirPods Max 2も割引中です。また、AirTag 2の価格も過去最低となっています。これらのセールは、Apple製品をお得に購入するチャンスです。"
-    },
-    {
-      "id": "92964823c2a81358a5bd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Google introduces new ‘selfie video’ sign-in method",
-      "url": "https://9to5google.com/2026/07/23/google-account-selfie-video/",
-      "publishedAt": "2026-07-23T15:15:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Google-video-selfie-cover.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Google、‘自撮り動画’サインイン方法を導入",
-      "summaryJa": "Googleアカウントに新たに‘自撮り動画’によるサインイン方法が追加されます。この機能は、スマートフォンやパスキーを紛失した際に便利です。ユーザーは自撮り動画を使用して、より安全にアカウントにアクセスできるようになります。"
-    },
-    {
-      "id": "ba67059dce5413fed94a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: July 23, 2026 – ‘Apple Upgrade’ program coming soon",
-      "url": "https://9to5mac.com/2026/07/23/daily-july-23-2026/",
-      "publishedAt": "2026-07-23T15:11:59.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、‘Apple Upgrade’プログラムを発表か",
-      "summaryJa": "Appleが新たに‘Apple Upgrade’というリースプログラムを来週発表するとの報道があります。このプログラムは、iPhoneのアップグレードプログラムを終了する中での新たな取り組みとされています。また、iOS 27のコードからは、未払いのリースデバイスに制限をかける可能性も示唆されています。"
-    },
-    {
-      "id": "cb02220521b320607dda",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV announces new dating series: ‘The Last Person on Earth’",
-      "url": "https://9to5mac.com/2026/07/23/apple-tv-announces-its-first-dating-series-the-last-person-on-earth/",
-      "publishedAt": "2026-07-23T14:46:04.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-tvos26-screensaver-07.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、初のデーティングシリーズを発表",
-      "summaryJa": "Apple TVが初のデーティングシリーズ‘The Last Person on Earth’を発表しました。このシリーズは、著名なカップルセラピストのエスター・ペレルが関与し、対照的なカップルが冒険を通じて関係を探求する内容です。リリース日は未定ですが、2027年に放送される可能性があります。"
-    },
-    {
-      "id": "7cf8a803cea3e25116ea",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Two new Macs might skip M5 chips and go straight to M6",
-      "url": "https://9to5mac.com/2026/07/23/two-new-macs-might-skip-m5-chips-and-go-straight-to-m6/",
-      "publishedAt": "2026-07-23T14:13:05.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/m6_regular.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新型Mac、M5を飛ばしてM6搭載か",
-      "summaryJa": "ブルームバーグのマーク・ガーマン氏によると、Appleは新型Mac miniとiMacのモデルで、M5チップをスキップしてM6チップを搭載する計画のようです。現在テスト中のMac miniはM6とM5 Proチップを使用しており、これにより新型Macの発売が遅れている可能性があります。新しいiMacもM6チップを搭載する可能性があり、これらの新モデルは秋に登場する見込みです。"
-    },
-    {
-      "id": "b38e1a73b75656424214",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 11 GPS Models Now $100 Off on Amazon",
-      "url": "https://www.macrumors.com/2026/07/23/apple-watch-100-off-amazon/",
-      "publishedAt": "2026-07-23T13:51:42.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/apple-watch-series-11-dark.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Series 11がAmazonで100ドル引き",
-      "summaryJa": "AmazonでApple Watch Series 11のGPSモデルが100ドルの割引価格で販売されています。42mmモデルは299ドル、46mmモデルは329ドルとなっており、過去のセールと比較してもお得な価格です。これらのモデルは在庫が限られているため、早めの購入が推奨されます。"
-    },
-    {
-      "id": "c83fd43ff78a9a997364",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Maps to Help Power Autonomous Driving in Ford's 2027 EV",
-      "url": "https://www.macrumors.com/2026/07/23/apple-maps-power-driving-in-ford-ev/",
-      "publishedAt": "2026-07-23T13:27:55.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Apple-Maps-General.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple MapsがFordのEVに搭載",
-      "summaryJa": "AppleとFordは、2027年に発売予定のUniversal Electric Vehicle (UEV)プラットフォームにApple Mapsを統合することを発表しました。この統合により、Fordの車両にApple Mapsのナビゲーション機能が直接組み込まれ、運転手は自然言語による音声検索やリアルタイムの交通情報を利用できるようになります。また、バッテリーの事前調整を含むインテリジェントなEVルーティング機能も提供され、Fordの次世代BlueCruiseの開発にも寄与します。"
     }
   ],
-  "updatedAt": "2026-08-04T12:20:08.505Z",
+  "updatedAt": "2026-08-04T14:57:36.777Z",
   "initialized": true,
   "summaryVersion": 4
 }
