@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "44c98f436a776c983531",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple sued over alleged lack of age checks for casino games in Brazil",
+      "url": "https://9to5mac.com/2026/08/03/apple-sued-over-alleged-lack-of-age-checks-for-casino-games-in-brazil/",
+      "publishedAt": "2026-08-04T03:13:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/App-Store-fraud.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ブラジルでAppleがカジノゲームの年齢確認巡り提訴される",
+      "summaryJa": "ブラジルの消費者団体や人権センターが、App Storeにおけるカジノ風ゲームの不十分な年齢確認を理由にAppleを提訴しました。子どもが年齢制限のあるゲームに簡単にアクセスできる状態であるとして、約3億レアルの損害賠償を求めています。同国では数ヶ月前からアプリの審査や未成年への対応を巡る懸念が高まっていました。"
+    },
+    {
+      "id": "eae2aef5019ef7fd177f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Telegram briefly pulled from the App Store over child sexual abuse material availability [U: Apple statement ]",
+      "url": "https://9to5mac.com/2026/08/03/telegram-appears-to-have-been-pulled-from-the-app-store-worldwide/",
+      "publishedAt": "2026-08-04T02:19:33.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/Telegram.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "TelegramがApp Storeから一時削除、規約違反コンテンツが原因",
+      "summaryJa": "メッセージングアプリのTelegramが、児童性的虐待素材に関する厳格なガイドラインに違反するコンテンツが見つかったとして、App Storeから一時削除されました。開発元が速やかに問題のコンテンツを削除し、投稿したユーザーを排除したことを受け、アプリはまもなく復旧しました。Appleは詳細な経緯について声明を発表し、厳正な対処を行っています。"
+    },
+    {
+      "id": "09a853364234662acaf9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple plans to open iPhone clipboard access to Windows PCs",
+      "url": "https://9to5mac.com/2026/08/03/apple-plans-to-open-iphone-clipboard-access-to-windows-pcs/",
+      "publishedAt": "2026-08-04T01:43:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/Even-Windows-fans-see-the-MacBook-Neo-as-a-winner.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Windows PCとのクリップボード共有を欧州で計画",
+      "summaryJa": "Appleは欧州連合（EU）での相互運用性の要求に対応し、iPhoneとWindows PCの間でコピー＆ペーストを行える仕組みの構築を計画しています。Microsoftからの要請を受け、デバイス間のシームレスな同期を実現する拡張機能の開発を進める方針です。EU地域を対象に、生産性向上に向けた機能強化が行われる見通しです。"
+    },
+    {
       "id": "c1daff95f0e65a72b098",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4462,54 +4507,9 @@
       ],
       "titleJa": "EUがGoogleに10億ドルの罰金",
       "summaryJa": "EUがGoogleに対し、検索とGoogle Playストアのサービスに関する独占禁止法違反で890百万ユーロ（約10億ドル）の罰金を科しました。Googleは、自社サービスを優遇し、開発者に安価な購入方法を提供させないなどの行為が問題視されました。今後、Googleは検索結果において第三者サービスを公平に扱うことが求められています。"
-    },
-    {
-      "id": "670609ed04b7f3a4dbd6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "ChatGPT told user to ignore lethal condition, but people keep treating it as a doctor",
-      "url": "https://9to5mac.com/2026/07/23/chatgpt-told-user-to-ignore-lethal-condition-but-people-keep-treating-it-as-a-doctor/",
-      "publishedAt": "2026-07-23T12:38:25.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ChatGPT-told-user-to-ignore-life-threatening-condition-but-people-keep-treating-it-as-a-doctor.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ChatGPTが医療相談で問題を引き起こす",
-      "summaryJa": "ChatGPTが医療相談において問題を引き起こし、ある牧師が肺塞栓症の症状を無視するよう助言されたことで訴訟に至りました。この事例は、AIチャットボットを医療相談の代替として使用することの危険性を示しています。多くの人々が健康に関する質問をAIに投げかけていますが、医療の専門家に相談することが重要です。"
-    },
-    {
-      "id": "c47a3021c025f8080f91",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Foldable iPhone Still Faces Production Hurdles, Report Says",
-      "url": "https://www.macrumors.com/2026/07/23/foldable-iphone-still-faces-production-hurdles/",
-      "publishedAt": "2026-07-23T12:18:17.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみiPhone、製造に課題か",
-      "summaryJa": "Appleの折りたたみiPhoneは、製造上の課題に直面しており、正確な発売時期が未定との報道があります。Foxconnが最終的な量産調整を行っているものの、エンジニアリング検証段階での遅れが1〜2ヶ月生じている可能性が指摘されています。折りたたみiPhoneは、iPhone 18 Proモデルと同時に9月に発表される見込みで、7.7〜7.8インチの内蔵ディスプレイと5.5インチのカバー画面を備え、価格は2,000ドル以上になるとされています。"
-    },
-    {
-      "id": "ec1f26e298b14dc7c0c4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Samsung has just given us a preview of the creaseless iPhone Ultra display",
-      "url": "https://9to5mac.com/2026/07/23/samsung-has-just-given-us-a-preview-of-the-creaseless-iphone-ultra-display/",
-      "publishedAt": "2026-07-23T11:46:22.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Samsung-has-just-given-us-a-preview-of-the-creaseless-iPhone-Ultra-display.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、折りたたみiPhoneのディスプレイに期待",
-      "summaryJa": "Appleが折りたたみiPhoneの導入を遅らせている理由の一つは、以前のフレキシブルディスプレイの目立つ折り目と脆弱性に不満があったためです。Samsungが新たに発表したGalaxy Z Fold 8のディスプレイは、Appleが求める基準を満たし、iPhone Ultraのディスプレイに期待が寄せられています。Appleは、フレキシブルディスプレイ技術が成熟するのを待っていたとされ、今後の展開に注目が集まります。"
     }
   ],
-  "updatedAt": "2026-08-04T01:20:51.124Z",
+  "updatedAt": "2026-08-04T04:31:59.730Z",
   "initialized": true,
   "summaryVersion": 4
 }
