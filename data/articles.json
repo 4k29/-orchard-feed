@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "bd7810abff3c77fe00ef",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple CarPlay expands to select pontoon boats with on-water navigation",
+      "url": "https://9to5mac.com/2026/08/04/apple-carplay-expands-to-select-pontoon-boats-with-on-water-navigation/",
+      "publishedAt": "2026-08-05T01:38:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/carplay-boats.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple CarPlay、一部のポンツーンボートに対応拡大へ",
+      "summaryJa": "Appleの車載インターフェイスであるCarPlayが、ついに水上の船舶へも展開されることになりました。マスタートーク傘下のCrestやBaliseなどのブランドが、2027年モデルの新型ポンツーンボートにCarPlayとAndroid Autoを標準搭載すると発表しました。航海アプリ「Savvy Navvy」との連携により、操舵席のディスプレイから直接スマートなルート案内や周辺のボート交通情報の確認などが可能になり、ボート愛好者により快適な航海体験を提供します。"
+    },
+    {
+      "id": "294b10bc7b40732a127d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Ted Lasso’s season 4 premiere now available to stream on Apple TV",
+      "url": "https://9to5mac.com/2026/08/04/ted-lassos-season-4-premiere-now-available-to-stream-on-apple-tv/",
+      "publishedAt": "2026-08-05T01:00:48.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ted-lasso-s4-key-art-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "「テッド・ラッソ：破天荒コーチがゆく」シーズン4、Apple TVで配信開始",
+      "summaryJa": "長年待ち望まれていた人気ドラマ「テッド・ラッソ：破天荒コーチがゆく」の待望のシーズン4がついにApple TVでの配信を開始しました。シーズン3のフィナーレから3年以上を経ての復活となり、主人公テッドはリッチモンドに戻り、2部リーグの女子サッカーチームを指導するというこれまでで最大の挑戦に挑みます。全10話構成となる新シーズンは10月7日まで順次配信され、おなじみのキャストに加え新たな顔ぶれも登場して物語を盛り上げます。"
+    },
+    {
       "id": "02c275fdb9afa712560e",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4477,39 +4507,9 @@
       ],
       "titleJa": "Claudeの音声モードが新モデルに対応",
       "summaryJa": "AnthropicはClaudeの音声モードをアップデートし、より強力なOpusおよびSonnetモデルをサポートしました。これにより、ユーザーは従来のHaikuモデルに加え、より長く複雑な会話を行えるようになります。また、音声モードはGmailやGoogleカレンダーなどのツールとも連携可能で、ユーザーは音声で情報を取得できます。音声モードはiOS、Android、デスクトップ、ウェブで利用可能ですが、特にスマートフォンでの使用が推奨されています。"
-    },
-    {
-      "id": "4cd4b0c7019757b3908b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "PSA: Check your banking app for a potentially important setting",
-      "url": "https://9to5mac.com/2026/07/24/psa-check-your-banking-app-for-a-potentially-important-setting/",
-      "publishedAt": "2026-07-24T12:04:18.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Check-your-banking-app-for-a-potentially-important-setting.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Cardの新機能に注意",
-      "summaryJa": "iOS 27でのApple Cardの新機能に関連して、銀行アプリの設定を確認する重要性が指摘されています。特に自動的に繰り返されるカード支払いに関する設定がデフォルトで無効になっている場合があるため、注意が必要です。最近のフィンテックの進展により、銀行アプリは取引通知を迅速に提供しますが、繰り返しの取引に関しては通知が漏れることもあるため、定期的な確認が推奨されています。"
-    },
-    {
-      "id": "f27e57e60bbe124b4d6e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp Rolls Out Redesigned Message Bubbles for iOS",
-      "url": "https://www.macrumors.com/2026/07/24/whatsapp-redesigned-message-bubbles-ios/",
-      "publishedAt": "2026-07-24T11:19:25.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "WhatsApp、iOS向けメッセージバブルを刷新",
-      "summaryJa": "WhatsAppがiOS向けにメッセージバブルのデザインを変更しました。新しいバブルは以前よりも丸みを帯び、iMessageに似た柔らかい形状になっています。また、共有メディアファイルは元の境界線がなくなり、よりクリーンな印象を与えています。このデザイン変更は、先月のLiquid Glassを基にしたチャットインターフェースの改良に続くものです。"
     }
   ],
-  "updatedAt": "2026-08-05T00:50:03.442Z",
+  "updatedAt": "2026-08-05T02:19:29.754Z",
   "initialized": true,
   "summaryVersion": 4
 }
