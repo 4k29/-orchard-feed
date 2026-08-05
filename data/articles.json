@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "707c84902a7c6befdb84",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 adds four new ways to customize your iPhone’s Lock Screen",
+      "url": "https://9to5mac.com/2026/08/05/ios-27-lock-screen-customization/",
+      "publishedAt": "2026-08-05T17:34:37.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/extend-lock-screen.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27、ロック画面のカスタマイズ機能や時計の配置変更など新機能を追加",
+      "summaryJa": "iOS 27では、iPhoneのロック画面デザインの自由度がさらに向上し、新しいカスタマイズや壁紙設定機能が追加されます。写真アプリの編集機能や「Image Playground」を活用したAIによる壁紙生成に対応するほか、ロック画面上で時計の位置移動や縮小ができるようになります。"
+    },
+    {
+      "id": "e208cb0637465eb8aa6f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Ultra 3 Deals Return: Grab $99 Off Before They're Gone",
+      "url": "https://www.macrumors.com/2026/08/05/apple-watch-ultra-3-deals/",
+      "publishedAt": "2026-08-05T17:16:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/apple-watch-ultra-3-blue.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Ultra 3がAmazonで99ドル引きのセール中",
+      "summaryJa": "Amazonにて、Apple Watch Ultra 3の一部モデルを対象とした99ドルの割引セールが実施されています。ナチュラルやブラックの本体カラーに加え、ミラネーゼループモデルなども割引価格の対象となっており、在庫限りの提供となります。"
+    },
+    {
       "id": "6a17a8beebb68f071ab2",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4477,39 +4507,9 @@
       ],
       "titleJa": "Apple、OpenAIに訴訟を提起",
       "summaryJa": "AppleがOpenAIに対し、機密情報の不正取得を巡る訴訟をカリフォルニア州北部地区で提起しました。訴状では、OpenAIのハードウェア責任者がAppleの元社員であり、退職面談のセキュリティ手続きを回避する方法を教えたとされています。また、OpenAIはAppleの許可を偽ってサプライヤーに金属仕上げ技術を適用させたと主張されています。この訴訟は、AppleとOpenAIの関係が悪化している中で発生しました。"
-    },
-    {
-      "id": "3e4f00d20ae5428754ba",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s $250 million Siri settlement just got approved, here’s who gets paid",
-      "url": "https://9to5mac.com/2026/07/24/apples-250-million-siri-settlement-just-got-approved-heres-who-gets-paid/",
-      "publishedAt": "2026-07-24T16:14:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/08/apple-intelligence-when.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、Siri訴訟で2.5億ドルの和解",
-      "summaryJa": "AppleがSiriとApple Intelligenceの遅延に関する集団訴訟で2.5億ドルの和解に合意しました。この訴訟は、Appleが発表したAI機能が実際には存在しなかったことを理由に提起されました。和解条件は5月に発表され、Appleは不正を認めていません。裁判所は先週、和解提案に対する初期承認を与えました。"
-    },
-    {
-      "id": "6e377fa460b356d4b305",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "macOS 27 Beta Reworks Mail's Compose Window Around Siri AI",
-      "url": "https://www.macrumors.com/2026/07/24/macos-27-beta-siri-mail-compose-window/",
-      "publishedAt": "2026-07-24T15:57:06.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/apple-working-on-redesigned-formatting-bar-for-mail-2.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "macOS 27ベータ版、Mailアプリに新機能",
-      "summaryJa": "macOS 27のベータ版では、Mailアプリの作成ウィンドウにApple IntelligenceのWriting ToolsとSiri AIを強調する新しいフォーマットバーがテストされています。このバーは、Siriを使った執筆機能を目立たせるように設計されており、提案された返信をプレビューする機能も追加されています。現在はデフォルトで有効ではなく、内部の機能フラグの下に隠れています。"
     }
   ],
-  "updatedAt": "2026-08-05T16:53:43.071Z",
+  "updatedAt": "2026-08-05T18:19:33.562Z",
   "initialized": true,
   "summaryVersion": 4
 }
