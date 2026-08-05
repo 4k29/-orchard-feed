@@ -1,6 +1,126 @@
 {
   "articles": [
     {
+      "id": "691773568fc552d8909b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp channel admins will soon get the ability to flag AI-generated media",
+      "url": "https://9to5mac.com/2026/08/05/whatsapp-channel-admins-will-soon-get-the-ability-to-flag-ai-generated-media/",
+      "publishedAt": "2026-08-05T20:00:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp、チャンネル管理者にAI生成コンテンツのラベル付け機能を提供へ",
+      "summaryJa": "WhatsAppは、EUの新要件であるAI生成コンテンツの透明性確保に向け、チャンネル管理者がAIによる画像や動画などのメディアにラベルを追加できる機能を準備しています。Androidベータ版のコードから判明したもので、管理者がメッセージを長押しして「AIコンテンツの追加」を選択できるようになります。これによりフォロワーは投稿されたメディアがAI製であるかを視覚的に確認可能となり、今後の正式展開が期待されています。"
+    },
+    {
+      "id": "ef39be6f6425a2d2a085",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Sunbird's iMessage for Android App Returns to the Google Play Store",
+      "url": "https://www.macrumors.com/2026/08/05/sunbird-imessage-for-android/",
+      "publishedAt": "2026-08-05T19:43:38.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/sunbird-app.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Android向けiMessageアプリ「Sunbird」がGoogle Playストアに再登場",
+      "summaryJa": "AndroidでiMessageを利用できるようにするアプリ「Sunbird」が、Google Playストアに再び登場しました。過去にはセキュリティ上の懸念からサービス停止に追い込まれましたが、今回は暗号化の仕組みを刷新し、デバイス側と転送時に暗号化が行われるとしています。AppleがRCSに対応した現在、主要な機能はバブルの色を青にする点などが中心となりますが、14日間の無料トライアルや月額サブスクリプションとして提供されています。"
+    },
+    {
+      "id": "815bc4c3ac47c864edf3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's iCloud Private Relay is Leaking Users' Real IP Addresses",
+      "url": "https://www.macrumors.com/2026/08/05/icloud-private-relay-ip-address-leak/",
+      "publishedAt": "2026-08-05T19:41:47.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AppleのiCloudプライベートリレーにユーザーの実際IPアドレスが漏洩する脆弱性",
+      "summaryJa": "セキュリティ研究者により、AppleのiCloudプライベートリレーがパスキーを使用するWebサイトに対してユーザーの実際のIPアドレスを露呈させてしまう問題が指摘されました。WebKitがWebAuthnの処理をOSの認証サービスに引き渡す際、リレーを経由せずに直接HTTPSリクエストが送信されることが原因とされています。DNSプリフェッチやWebTransport機能に関する問題も合わせて報告されており、Appleはこの調査結果について現在対応を進めています。"
+    },
+    {
+      "id": "a824c866e9efb0d4589d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Meta launches Muse Code AI coding agent for macOS and Linux",
+      "url": "https://9to5mac.com/2026/08/05/meta-launches-muse-code-ai-coding-agent-for-macos-and-linux/",
+      "publishedAt": "2026-08-05T19:25:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/meta-ai.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Meta、macOSおよびLinux向けのターミナル型AIコーディングエージェント「Muse Code」を発表",
+      "summaryJa": "Metaは、大規模なソフトウェア開発作業を支援する新しいターミナル型AIコーディングツール「Muse Code」のベータ版をmacOSとLinux向けにリリースしました。新しい「Muse Spark 1.2」モデルを搭載し、コードの計画立案や記述、検証をバックグラウンドのエージェントと協調して行うことができます。Macユーザーはシンプルなコマンドでインストール可能であり、開発者のワークフロー効率化に貢献します。"
+    },
+    {
+      "id": "e9763f369e8834b0ae10",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Siri AI is coming to newer Apple devices only, here’s the full list",
+      "url": "https://9to5mac.com/2026/08/05/siri-ai-is-coming-to-newer-apple-devices-only-heres-the-full-list/",
+      "publishedAt": "2026-08-05T19:22:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AppleのAI対応Siri、対応ハードウェアの全リストが判明",
+      "summaryJa": "iOS 27やmacOS Golden Gateなどで導入される新機能「Siri AI」に対応するApple製品の全リストが明らかになりました。iPhoneは15 Pro以降、iPadはM1以降を搭載したモデル、MacはAppleシリコン搭載モデルなどが対象となります。なお、音声のカスタマイズや高度なオンデバイスAIモデルなど、一部の機能はさらに新しい特定のハードウェアに制限される見込みです。"
+    },
+    {
+      "id": "e32695a162fc7c9b729b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro event date: When Apple announced its event over the last six years",
+      "url": "https://9to5mac.com/2026/08/05/iphone-18-pro-event-date-when-announcement/",
+      "publishedAt": "2026-08-05T19:10:13.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro発表イベントは9月9日水曜日か、過去の傾向から分析",
+      "summaryJa": "Appleの次期iPhoneイベントの開催時期と正式発表のタイミングについて、過去6年間のデータをもとに予測されています。近年のAppleは、イベントの2週間前に日程を正式発表する傾向が一貫しており、今年は労働節の休日を考慮して9月9日の水曜日に開催される可能性が指摘されています。"
+    },
+    {
+      "id": "31e323052617cd771595",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iCloud Private Relay might be leaking your real IP address, researchers say",
+      "url": "https://9to5mac.com/2026/08/05/icloud-private-relay-leaking-your-ip-address/",
+      "publishedAt": "2026-08-05T18:42:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/07/how-to-turn-on-off-icloud-private-relay.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iCloudプライベートリレーに実際のIPアドレスが漏洩する脆弱性か",
+      "summaryJa": "セキュリティ研究者が、Appleの「iCloudプライベートリレー」に問題を発見したと報告しました。パスキーをサポートするウェブサイトを訪れた際、オペレーティングシステムの認証サービスによるリクエストがプライベートリレーをバイパスし、ユーザーの実際のIPアドレスが露出してしまう可能性があるとされています。"
+    },
+    {
+      "id": "2d0d5ed4c2a2034707bc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPadOS 27 adds two new iPad features I’ve been loving",
+      "url": "https://9to5mac.com/2026/08/05/ipados-27-adds-two-new-ipad-features-ive-been-loving/",
+      "publishedAt": "2026-08-05T18:21:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27-ipad-keyboard-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPadOS 27で追加されるMacライクな2つの便利機能",
+      "summaryJa": "来月リリース予定のiPadOS 27では、システム全体にわたる新機能が追加されます。メニューバー常時表示オプションやステータスバーでのアクティブアプリ名表示など、Macに近い操作性を実現する改善が含まれています。また、キーボードショートカット「CMD + Space」でアクセスできる新しいSpotlightにSiri AIの機能が統合され、より便利に利用できるようになります。"
+    },
+    {
       "id": "707c84902a7c6befdb84",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4387,129 +4507,9 @@
       ],
       "titleJa": "WhatsApp、iOS向けの新しいメッセージバブルをテスト中",
       "summaryJa": "WhatsAppは、iOSユーザー向けにLiquid Glassデザインを正式に展開した後、チャットバブルのビジュアル変更をテストしています。新しいバブルは角がより丸みを帯びており、iMessageのスタイルに近づいています。また、メディアやリンクの表示方法も変更され、緑のアウトラインが取り除かれ、よりクリーンな見た目になっています。現在、この新デザインはTestFlightを利用している一部のユーザーに提供されていますが、一般展開の時期は未定です。"
-    },
-    {
-      "id": "4a7ef5bc002e05ff91fb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Ultra is coming: Six new features in Apple’s top-tier model",
-      "url": "https://9to5mac.com/2026/07/24/iphone-ultra-is-coming-six-new-features-in-apples-top-tier-model/",
-      "publishedAt": "2026-07-24T20:25:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone Ultra登場か、6つの新機能が期待される",
-      "summaryJa": "Appleの初の折りたたみ式iPhoneが今秋登場すると噂されており、その名はiPhone Ultraになる可能性があります。新モデルは、書籍のように折りたためるデザインで、外部ディスプレイは短く幅広い形状、内部ディスプレイはiPad miniに似たサイズになるとされています。また、48MPのメインカメラとウルトラワイドカメラを搭載し、前面には2つのカメラが配置される見込みです。"
-    },
-    {
-      "id": "2acebd7f010dbcc65677",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Trump Vows to Reverse EU Fines Against Apple and Other Tech Companies, Threatens Tariffs",
-      "url": "https://www.macrumors.com/2026/07/24/trump-eu-fine-investigation/",
-      "publishedAt": "2026-07-24T19:37:08.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/12/european-union-eu.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "トランプ氏、EUのApple罰金撤回を表明",
-      "summaryJa": "アメリカのドナルド・トランプ大統領が、EUがAppleやGoogle、Metaに課した罰金に対する調査を開始する意向を示しました。トランプ氏はEUの行動を「違法かつ非倫理的」とし、罰金の撤回と大規模な関税の導入を約束しました。Appleは過去に150億ドルの罰金を科せられたことがあり、今後の動向が注目されます。"
-    },
-    {
-      "id": "a8755b8e707e3beaadc9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases seventh RCs for macOS Sonoma 14.8.8 and macOS Sequoia 15.7.8",
-      "url": "https://9to5mac.com/2026/07/24/apple-releases-seventh-rcs-for-macos-sonoma-14-8-8-and-macos-sequoia-15-7-8/",
-      "publishedAt": "2026-07-24T19:20:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/09/macOS-Sequoia-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOSの新RCを公開",
-      "summaryJa": "Appleは、macOS Sonoma 14.8.8およびmacOS Sequoia 15.7.8の第7回リリース候補を公開しました。これにより、両システムのテストが続いており、重要なセキュリティ修正が含まれているとされています。正式リリースは来週の早い段階で行われる見込みで、古いシステムを使用しているユーザーは迅速なアップデートが推奨されます。"
-    },
-    {
-      "id": "049ab27973ec26b9973b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 adds new Phone app feature that’s an instant favorite",
-      "url": "https://9to5mac.com/2026/07/24/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/",
-      "publishedAt": "2026-07-24T18:53:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/phone-app-icon-fi-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27に新機能「コールコンテキスト」登場",
-      "summaryJa": "iOS 27には、電話アプリに新機能「コールコンテキスト」が追加され、ビジネスとの通話中に関連情報を画面に表示します。この機能は、例えば航空会社に電話した際に、予約情報や確認コードを自動的に表示するもので、ユーザーから好評を得ることが期待されています。初期段階では英語のみ対応し、Appleの各デバイスで利用可能です。"
-    },
-    {
-      "id": "b730b062e6ddbc8b36e9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Anthropic's New Claude Opus 5 Nearly Matches Flagship Fable 5 at Half the Cost",
-      "url": "https://www.macrumors.com/2026/07/24/anthropic-opus-5/",
-      "publishedAt": "2026-07-24T17:43:35.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/claude-opus-5.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Anthropic、Claude Opus 5を発表",
-      "summaryJa": "Anthropicが新しいAIモデル「Claude Opus 5」を発表しました。これは、前モデルのOpus 4.8からのアップグレードで、Fable 5に近い性能を半額で提供します。Opus 5は、科学研究においても「意味のある改善」が見られ、視覚出力の質も向上しています。新モデルはすべてのプラットフォームで利用可能で、Claude Maxのデフォルトモデルとしても採用されています。"
-    },
-    {
-      "id": "c7b61b5004c9a0aa202e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Anthropic upgrades Claude with new Opus 5 model, details here",
-      "url": "https://9to5mac.com/2026/07/24/anthropic-upgrades-claude-with-new-opus-5-model-details-here/",
-      "publishedAt": "2026-07-24T17:16:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Claude Opus 5、AIモデルを強化",
-      "summaryJa": "Anthropicが「Claude Opus 5」をリリースしました。この新モデルは、前のOpusモデルから約2ヶ月後に登場し、Fable 5に近い知能を半額で提供します。Opus 5は日常使用に最適化されており、Claude Maxのデフォルトモデルとしても機能します。また、APIにおける自動フォールバック機能も追加され、ユーザーは安全性が懸念されるリクエストを別のモデルに自動的にルーティングできるようになります。"
-    },
-    {
-      "id": "3ec0d2632c6352d73353",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "watchOS 27 adds new feature to improve your Apple Watch battery life",
-      "url": "https://9to5mac.com/2026/07/24/watchos-27-adds-new-feature-to-improve-your-apple-watch-battery-life/",
-      "publishedAt": "2026-07-24T17:02:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/watchos-27-watch-face-red.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "watchOS 27、Apple Watchのバッテリー寿命を延ばす機能",
-      "summaryJa": "watchOS 27が今秋に登場し、Apple Watchのバッテリー寿命を改善する新機能「プロアクティブバッテリー延長通知」を搭載します。この機能は、使用していない機能を自動的に無効にすることでバッテリーを節約します。通知を受け取ることで、無効にされる機能を確認し、必要に応じて設定を変更できます。Appleは具体的なバッテリー寿命の延長量を明示していませんが、効果が期待される機能です。"
-    },
-    {
-      "id": "6a70dd222eaf7436ae35",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "The MacRumors Show: Can OpenAI Really Beat the iPhone?",
-      "url": "https://www.macrumors.com/2026/07/24/the-macrumors-show-can-openai-beat-the-iphone/",
-      "publishedAt": "2026-07-24T16:17:27.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、OpenAIに訴訟を提起",
-      "summaryJa": "AppleがOpenAIに対し、機密情報の不正取得を巡る訴訟をカリフォルニア州北部地区で提起しました。訴状では、OpenAIのハードウェア責任者がAppleの元社員であり、退職面談のセキュリティ手続きを回避する方法を教えたとされています。また、OpenAIはAppleの許可を偽ってサプライヤーに金属仕上げ技術を適用させたと主張されています。この訴訟は、AppleとOpenAIの関係が悪化している中で発生しました。"
     }
   ],
-  "updatedAt": "2026-08-05T18:19:33.562Z",
+  "updatedAt": "2026-08-05T20:02:05.943Z",
   "initialized": true,
   "summaryVersion": 4
 }
