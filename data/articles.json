@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "d4fee2f8fc48415ce899",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Ted Lasso Season 4 Now Streaming on Apple TV",
+      "url": "https://www.macrumors.com/2026/08/05/ted-lasso-season-4/",
+      "publishedAt": "2026-08-05T21:17:33.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Ted-Lasso-16x9.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple TV、人気コメディドラマ「テッド・ラッソ」シーズン4の配信を開始",
+      "summaryJa": "人気コメディシリーズ「テッド・ラッソ」シーズン4の第1話がApple TVで配信開始されました。今シーズンでは主人公テッド・ラッソがリッチモンドに戻り、2部リーグの女子サッカーチームのコーチを務めます。第1話の公開後、新エピソードが毎週水曜日に順次配信される予定で、Appleはニューヨークの店舗で記念イベントも開催します。"
+    },
+    {
+      "id": "d72ad32e701cb26c605a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "These are my favorite Apple Watch accessories of 2026 (so far)",
+      "url": "https://9to5mac.com/2026/08/05/these-are-my-favorite-apple-watch-accessories-of-2026-so-far/",
+      "publishedAt": "2026-08-05T20:18:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/IMG_5544_99cc38-e1785341066193.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "長年の愛用者が語る、お気に入りのApple Watchアクセサリ",
+      "summaryJa": "初代モデルの発売以来Apple Watchを愛用し続けているユーザーが、日々の生活に欠かせないお気に入りのアクセサリについて紹介しています。バンドや充電器、ケースなど多様なエコシステムが存在し、2015年に購入したバンドが最新モデルでもそのまま使える点が大きな魅力として挙げられています。"
+    },
+    {
+      "id": "b78aa901d48b896a88b1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Ultra 4: Three new features that already have me excited",
+      "url": "https://9to5mac.com/2026/08/05/apple-watch-ultra-4-three-new-features-that-already-have-me-excited/",
+      "publishedAt": "2026-08-05T20:04:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-3-4-green.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch Ultra 4に期待が高まる3つの新機能の噂",
+      "summaryJa": "来月登場すると噂されるApple Watch Ultra 4に関して、注目を集めている3つの新機能が報じられています。SiriのAI機能に向けた処理性能の向上や、センサー部品の大幅な刷新によるヘルスケア機能の強化などが期待されています。"
+    },
+    {
       "id": "691773568fc552d8909b",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -194,6 +239,38 @@
       ],
       "titleJa": "MacBook Neoや各種Apple製品が割引価格で登場",
       "summaryJa": "Apple認定整備済ストアにおいて、MacBook Neoが定価より最大120ドル引きの価格で販売されているほか、M5 Pro搭載MacBook ProやApple Watchシリーズの大幅な割引が実施されています。AirPods Pro 3やAirTag 2などもお得な価格で購入可能となっています。整備済製品には通常のApple製品と同様の保証と品質基準が適用されるため、コストを抑えて購入したいユーザーにとって魅力的な選択肢となります。"
+    },
+    {
+      "id": "b5fe598057c3a7f9a630",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Get ready for new creative assets on the App Store",
+      "url": "https://developer.apple.com/news/?id=kug6m2ea",
+      "publishedAt": "2026-08-05T15:00:58.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/3F230FCC-4673-4A74-9BDA-2EF27C6C7D39/2048.jpeg",
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "Apple、App Storeでの新しいクリエイティブアセットの活用を準備",
+      "summaryJa": "Appleは6月に発表した、App Storeでのアプリやゲームの新しいマーケティング手法に向けて準備を進めています。開発者は製品ページのヘッダーや検索結果などで、ブランドや季節ごとの魅力を伝える新しい画像や動画を活用できるようになり、秋のローンチに向けたベストプラクティスやデザインテンプレートが公開されています。"
+    },
+    {
+      "id": "ef4a68311fa3b436cd5a",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Hello Developer: August 2026",
+      "url": "https://developer.apple.com/news/?id=vrvvlonn",
+      "publishedAt": "2026-08-05T15:00:51.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/B7D69EB9-6F36-4838-A396-8E72F1B6EBD7/2048.jpeg",
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "Apple、開発者向け情報誌「Hello Developer」2026年8月号を公開",
+      "summaryJa": "Appleは、WWDC26の主要なアップデートを振り返るクパチーノからの最新動画や、iOS 27向けApp Storeアセット用テンプレートの提供を開始しました。また、アプリへのビジュアルインテリジェンス統合に関するベストプラクティスや、Xcode Cloudワークフローを活用したビルド高速化の手法も紹介されています。"
     },
     {
       "id": "85c4220e1d53a0e4f7d1",
@@ -4432,84 +4509,9 @@
       ],
       "titleJa": "Appleチップの脆弱性、訴訟に発展",
       "summaryJa": "Magnet ForensicsがParadigm Shift Technologyを提訴し、AppleのA12およびA13チップに影響を与える修正不可能な脆弱性「usbliter8」が元エンジニアの盗用した技術情報を基に開発されたと主張しています。この脆弱性は、特定のデータを用いてデバイスのUSBコントローラーを混乱させ、攻撃者がデバイスの起動プロセスを制御できるようにします。影響を受けるのは2018年と2019年に登場した古いAppleチップに限られています。"
-    },
-    {
-      "id": "fc4bfaac003d73663a08",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27: All the New iCloud Features",
-      "url": "https://www.macrumors.com/guide/ios-27-icloud/",
-      "publishedAt": "2026-07-24T22:54:55.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-All-the-New-iCloud-Features.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27で新しいiCloud機能が登場",
-      "summaryJa": "iOS 27では、Apple HomeやSiri、Photosなどのアプリで新しいiCloud機能が追加されました。特にHomeKit Secure Videoカメラに関する新機能があり、動きがあった際にテキストで通知される機能が搭載されています。これにより、家の中での動きを把握しやすくなります。これらの機能を利用するには、2TB以上のiCloud+プランが必要です。"
-    },
-    {
-      "id": "50e1a0ccbe1cfe193cb9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Tapbots launches Pastebot 3 with improved organization and automation tools",
-      "url": "https://9to5mac.com/2026/07/24/tapbots-launches-pastebot-3-with-improved-organization-and-automation-tools/",
-      "publishedAt": "2026-07-24T22:18:26.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/pastebot-3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Pastebot 3が登場、機能が強化",
-      "summaryJa": "人気のクリップボード管理アプリPastebotが、約10年ぶりにPastebot 3としてアップデートされました。新バージョンはmacOS 26 Tahoe以降が必要で、14日間の無料トライアルが提供されます。ユーザーは直接購入するか、App Storeでサブスクリプションを選択できます。新機能にはクリップボード履歴やカスタムペーストビンなどがあり、使いやすさが向上しています。"
-    },
-    {
-      "id": "8f6b39bb79fd5ec5db26",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Pay is getting even better with four new features",
-      "url": "https://9to5mac.com/2026/07/24/apple-pay-is-getting-even-better-with-four-new-features/",
-      "publishedAt": "2026-07-24T21:24:36.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/apple-pay-header.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Pay、4つの新機能を発表",
-      "summaryJa": "AppleはApple Payの新機能を4つ発表しました。iOS 27では、チェックアウト画面が再設計され、カード間の切り替えが簡単になります。また、American ExpressのポイントをApple Payで利用できる新機能も追加され、オンラインやアプリでの買い物時にポイントを使えるようになります。さらに、店舗での購入をスムーズにする「Tap to Share」機能も導入される予定です。これらの機能は今秋に一般公開される予定です。"
-    },
-    {
-      "id": "f6130dfac7b1ecee3e1f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Trump vows retaliation over EU fines against Apple and other ‘GREAT’ US tech giants",
-      "url": "https://9to5mac.com/2026/07/24/trump-vows-retaliation-over-eu-fines-against-apple-and-other-great-us-tech-giants/",
-      "publishedAt": "2026-07-24T21:20:17.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/04/tim-cook-trump.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "トランプ氏、EUのAppleへの罰金に報復を宣言",
-      "summaryJa": "トランプ前大統領は、Appleなどの米国のテクノロジー企業に対するEUの罰金に対し、報復を行うと表明しました。彼は、EUが不当な罰金を課していると主張し、EUに対して「相当な」関税を課す意向を示しました。トランプ氏は、Appleに対する150億ドルの罰金を含む過去の罰金を挙げ、EUの行為を「違法で非倫理的」と非難しました。"
-    },
-    {
-      "id": "296a02ab80823f998739",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp testing new message bubbles on iOS",
-      "url": "https://9to5mac.com/2026/07/24/whatsapp-testing-new-message-bubbles-on-ios/",
-      "publishedAt": "2026-07-24T20:25:32.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp、iOS向けの新しいメッセージバブルをテスト中",
-      "summaryJa": "WhatsAppは、iOSユーザー向けにLiquid Glassデザインを正式に展開した後、チャットバブルのビジュアル変更をテストしています。新しいバブルは角がより丸みを帯びており、iMessageのスタイルに近づいています。また、メディアやリンクの表示方法も変更され、緑のアウトラインが取り除かれ、よりクリーンな見た目になっています。現在、この新デザインはTestFlightを利用している一部のユーザーに提供されていますが、一般展開の時期は未定です。"
     }
   ],
-  "updatedAt": "2026-08-05T20:02:05.943Z",
+  "updatedAt": "2026-08-05T21:22:14.922Z",
   "initialized": true,
   "summaryVersion": 4
 }
