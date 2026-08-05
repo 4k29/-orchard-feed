@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "7da61b03ccc503448349",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "TikTok is telling people to put their phones into the fridge, and repair shops are happy",
+      "url": "https://9to5mac.com/2026/08/05/tiktok-is-telling-people-to-put-their-phones-into-the-fridge-and-repair-shops-are-happy/",
+      "publishedAt": "2026-08-05T12:32:58.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/TikTok-is-telling-people-to-put-their-phones-into-the-fridge.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhoneの冷却に冷蔵庫を使う危険なトレンド、修理店で被害が急増",
+      "summaryJa": "TikTokなどで拡散された、熱くなったiPhoneを冷蔵庫に入れて冷やすという誤ったアドバイスにより、修理店で端末の故障が急増していると報じられています。内部での結露発生やリチウム電池への熱ショックで重大な故障につながる恐れがあります。Appleは、自動車の車内などを避け、日陰の涼しい場所で自然冷却するよう推奨しています。"
+    },
+    {
+      "id": "5f2ea1e1a46e1f22c138",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "As iPhones get more expensive, T-Mobile launches new 3-year plan",
+      "url": "https://9to5mac.com/2026/08/05/as-iphones-get-more-expensive-t-mobile-launches-new-3-year-plan/",
+      "publishedAt": "2026-08-05T11:47:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/As-iPhones-get-more-expensive-T-Mobile-launches-new-3-year-plan.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "T-Mobileが3年分割払いの新プランを発表、端末価格の高騰に対応",
+      "summaryJa": "T-Mobileは、高価格化が進む新型iPhoneの購入負担を軽減するため、新しい3年間の分割払いプラン「EIP Flex 36」を発表しました。端末代金や税金、手数料などを36ヶ月に分散して支払うことが可能で、初期費用を抑えた購入を支援します。メモリ価格の高騰などを背景に端末の値上がりが確実視される中、各社はユーザーの支払い負担を和らげる取り組みを進めています。"
+    },
+    {
+      "id": "0a7b522fa9a6ee5351a8",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Foldable Smartphone Sales to Rise 20% This Year Due to 'iPhone Ultra'",
+      "url": "https://www.macrumors.com/2026/08/05/foldable-smartphone-sales-to-rise-this-year/",
+      "publishedAt": "2026-08-05T11:45:05.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみスマホ市場、Appleの参入期待で2026年は拡大へ",
+      "summaryJa": "業界関係者の情報によると、2026年の世界折りたたみスマートフォン出荷台数は前年比で20%増加すると予測されています。Appleが初めて投入すると噂される折りたたみ対応端末の存在が、市場全体を押し上げる大きな要因として挙げられています。サムスンがリードを維持する一方で、Appleやファーウェイの参入により第4四半期の販売競争がさらに活発化する見通しです。"
+    },
+    {
+      "id": "836ff8502e4e02ae7aa5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple lawsuit against OpenAI says iCloud mess didn’t play a role",
+      "url": "https://9to5mac.com/2026/08/05/apple-lawsuit-against-openai-says-icloud-mess-didnt-play-a-role/",
+      "publishedAt": "2026-08-05T11:14:32.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/icloud-search-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、OpenAI訴訟でiCloud管理不備説を否定",
+      "summaryJa": "元従業員による機密文書の不正アクセスをめぐり、AppleがOpenAIに対して起こした訴訟において、iCloudの管理不備が原因であるとする説が裁判所の提出書類で否定されました。OpenAI側は従業員退職時のシステム管理体制に問題があったと主張していましたが、Apple側はこれを退けています。本件はハードウェア関連の企業秘密をめぐる法的紛争として注目を集めています。"
+    },
+    {
       "id": "408b93ff92f194c70dbb",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4447,69 +4507,9 @@
       ],
       "titleJa": "Apple TV、8月の新作ラインアップ発表",
       "summaryJa": "Apple TVでは、8月に待望の『テッド・ラッソ』シーズン4が登場します。さらに、SFシリーズ『ダークマター』の新シーズンや『サイロ』の新エピソードなども配信予定です。『テッド・ラッソ』は8月5日から放送開始で、女性サッカーチームのコーチとしての挑戦が描かれます。その他の新作も続々とラインアップされており、視聴者に楽しみを提供します。"
-    },
-    {
-      "id": "01204b9af1c151bff74e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Fire Reported Near Apple Park",
-      "url": "https://www.macrumors.com/2026/07/24/fire-reported-near-apple-park/",
-      "publishedAt": "2026-07-24T13:30:29.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apple-Forge-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Park近くで火災報告",
-      "summaryJa": "カリフォルニア州クパチーノのApple Park近くで、Appleが賃貸する建物で火災が発生しました。現地時間の午後5時30分頃、消防が出動し、約45分後に事態は収束しました。SNSでは被害が「巨大」と報告されましたが、写真ではフェンスの損傷が見られるのみで、負傷者の有無は不明です。Appleにはコメントを求めています。"
-    },
-    {
-      "id": "7289bd92d4df711f9624",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Meta just released a brand-new Facebook Seller app for iPhone",
-      "url": "https://9to5mac.com/2026/07/24/meta-just-released-a-brand-new-facebook-seller-app-for-iphone/",
-      "publishedAt": "2026-07-24T13:28:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sell-facebook-app.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Meta、iPhone向け新アプリ「Seller」を発表",
-      "summaryJa": "Metaが新たにiPhone専用のアプリ「Seller」をリリースしました。このアプリはFacebook Marketplaceでの出品管理に特化しており、出品の管理やバイヤーとのメッセージのやり取りが一元化されています。AIを活用して出品情報を迅速に入力できる機能もあり、出品者にとって便利なツールとなっています。アプリは無料でApp Storeからダウンロード可能です。"
-    },
-    {
-      "id": "bd0a8d5bb1d51463ec83",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Wallet driver’s licenses coming to two more states soon: report",
-      "url": "https://9to5mac.com/2026/07/24/apple-wallet-drivers-licenses-coming-to-two-more-states-soon-report/",
-      "publishedAt": "2026-07-24T13:27:09.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/apple-wallet-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Wallet、運転免許証を2州で導入か",
-      "summaryJa": "Apple Walletが運転免許証やデジタルIDのサポートを拡大する可能性があり、ユタ州とバージニア州が新たに対応する見込みです。MacRumorsのアーロン・ペリス氏によると、Appleのバックエンドに両州の情報が確認されており、導入準備が進んでいるとのことです。具体的な導入時期は未定ですが、両州の住民がApple Walletを通じて運転免許証を取得できる日が近づいていると考えられます。"
-    },
-    {
-      "id": "71f2a7a69ff1e51824b7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New Macs are coming soon, here’s everything we know",
-      "url": "https://9to5mac.com/2026/07/24/new-macs-are-coming-soon-heres-everything-we-know/",
-      "publishedAt": "2026-07-24T13:19:36.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/macbook-pro-m5-14-inch.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新型Mac、年内に登場予定",
-      "summaryJa": "Appleが年内に複数の新型Macを発表する予定で、初のタッチスクリーンMacBookやM6チップ搭載モデルが含まれています。特に注目されるのは、タッチスクリーンとOLEDディスプレイを搭載したMacBook Ultraで、デザインも大幅に変更される見込みです。また、M6チップを搭載した新型MacBook Proも計画されており、性能向上が期待されています。新型iMacも秋に登場する可能性があり、M6チップが搭載されるとされています。"
     }
   ],
-  "updatedAt": "2026-08-05T10:45:32.540Z",
+  "updatedAt": "2026-08-05T12:46:23.888Z",
   "initialized": true,
   "summaryVersion": 4
 }
