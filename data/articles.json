@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "408b93ff92f194c70dbb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Wispr Flow takes on AI meeting assistants with Notetaker, its first product beyond dictation",
+      "url": "https://9to5mac.com/2026/08/05/wispr-flow-takes-on-ai-meeting-assistants-with-notetaker-its-first-product-beyond-dictation/",
+      "publishedAt": "2026-08-05T07:01:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/wispr-notetaker.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Mac向け音声入力「Wispr Flow」、AI会議アシスタント機能を追加",
+      "summaryJa": "音声入力ツール「Wispr Flow」のMac向けアプリに、AIを活用した会議アシスタント「Notetaker」が追加されました。カレンダーや外部アプリと連携し、会議の文字起こしや要約、議事録の作成をサポートします。散らかった発話を整理する従来の機能に加え、重要な決定事項やアクションアイテムの抽出を効率化します。"
+    },
+    {
       "id": "bd7810abff3c77fe00ef",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4492,24 +4507,9 @@
       ],
       "titleJa": "新型Mac、年内に登場予定",
       "summaryJa": "Appleが年内に複数の新型Macを発表する予定で、初のタッチスクリーンMacBookやM6チップ搭載モデルが含まれています。特に注目されるのは、タッチスクリーンとOLEDディスプレイを搭載したMacBook Ultraで、デザインも大幅に変更される見込みです。また、M6チップを搭載した新型MacBook Proも計画されており、性能向上が期待されています。新型iMacも秋に登場する可能性があり、M6チップが搭載されるとされています。"
-    },
-    {
-      "id": "703c5e97670852cf7824",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Claude Voice Mode Gains Opus and Sonnet Model Support",
-      "url": "https://www.macrumors.com/2026/07/24/claude-voice-mode-opus-sonnet-model-support/",
-      "publishedAt": "2026-07-24T12:10:49.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/claude-voice.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Claudeの音声モードが新モデルに対応",
-      "summaryJa": "AnthropicはClaudeの音声モードをアップデートし、より強力なOpusおよびSonnetモデルをサポートしました。これにより、ユーザーは従来のHaikuモデルに加え、より長く複雑な会話を行えるようになります。また、音声モードはGmailやGoogleカレンダーなどのツールとも連携可能で、ユーザーは音声で情報を取得できます。音声モードはiOS、Android、デスクトップ、ウェブで利用可能ですが、特にスマートフォンでの使用が推奨されています。"
     }
   ],
-  "updatedAt": "2026-08-05T05:27:35.515Z",
+  "updatedAt": "2026-08-05T08:05:03.265Z",
   "initialized": true,
   "summaryVersion": 4
 }
