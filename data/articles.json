@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "6a17a8beebb68f071ab2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Vision Pro Speeds Up Surgery by Almost 20%",
+      "url": "https://www.macrumors.com/2026/08/05/apple-vision-pro-speeds-up-surgery/",
+      "publishedAt": "2026-08-05T15:47:58.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/vision-pro-surgeon.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Vision Proで手術時間が約20％短縮、米大学の調査",
+      "summaryJa": "カリフォルニア大学サンディエゴ校による査読付き研究により、Apple Vision Proを主要なディスプレイとして使用して涙道の外科手術を行った医師は、従来のモニターを使用した医師と比較して手術を19％早く完了したことが明らかになりました。Vision Proを装着することで、医師は視野内に直接映像をストリーミングしながら自然な前向き姿勢を維持でき、身体的および精神的な負担の軽減も報告されています。研究チームは小規模な初期段階の調査であるとしつつも、今後のさらなる臨床試験の必要性を呼びかけています。"
+    },
+    {
+      "id": "4ab3958a1e7409805df8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Ultra sounds truly deserving of the ‘Ultra’ name",
+      "url": "https://9to5mac.com/2026/08/05/iphone-ultra-sounds-truly-deserving-of-the-ultra-name/",
+      "publishedAt": "2026-08-05T15:41:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "折りたたみ式iPhoneの名称は「iPhone Ultra」になる可能性",
+      "summaryJa": "Appleの初となる折りたたみ式iPhoneがまもなく登場すると噂されており、その名称として「iPhone Ultra」がふさわしいのではないかと報じられています。ハードウェアの仕様面ではProモデルとの違いがあるものの、過去最大となるディスプレイを備えた独自のソフトウェア体験やマルチタスク性能がその理由に挙げられています。ポケットに収まるコンパクトさを維持しながら、動画やゲーム、生産性向上アプリなどでの優れた操作性を提供すると期待されています。"
+    },
+    {
+      "id": "f78f79460624c01eea08",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: MacBook Neo up to $120 off, MacBook Pro $500 off, Apple Watch SE 3/Ultra 3 $130 off, AirPods, more",
+      "url": "https://9to5mac.com/2026/08/05/deals-macbook-neo-macbook-pro-apple-watch-ultra-3/",
+      "publishedAt": "2026-08-05T15:30:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-MacBook-Neo-Apple-Watch-Ultra-3-AirPods-Pro-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBook Neoや各種Apple製品が割引価格で登場",
+      "summaryJa": "Apple認定整備済ストアにおいて、MacBook Neoが定価より最大120ドル引きの価格で販売されているほか、M5 Pro搭載MacBook ProやApple Watchシリーズの大幅な割引が実施されています。AirPods Pro 3やAirTag 2などもお得な価格で購入可能となっています。整備済製品には通常のApple製品と同様の保証と品質基準が適用されるため、コストを抑えて購入したいユーザーにとって魅力的な選択肢となります。"
+    },
+    {
       "id": "85c4220e1d53a0e4f7d1",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4462,54 +4507,9 @@
       ],
       "titleJa": "macOS 27ベータ版、Mailアプリに新機能",
       "summaryJa": "macOS 27のベータ版では、Mailアプリの作成ウィンドウにApple IntelligenceのWriting ToolsとSiri AIを強調する新しいフォーマットバーがテストされています。このバーは、Siriを使った執筆機能を目立たせるように設計されており、提案された返信をプレビューする機能も追加されています。現在はデフォルトで有効ではなく、内部の機能フラグの下に隠れています。"
-    },
-    {
-      "id": "afc6571555673418b904",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: M5 Pro MacBook Pro $500 off, Apple Watch Series 11 $150 off, AirPods, AirTag 2, MagSafe Battery, more",
-      "url": "https://9to5mac.com/2026/07/24/deals-m5-pro-macbook-pro-apple-watch-airpods-airtag-2/",
-      "publishedAt": "2026-07-24T15:21:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-deals-Black-Friday-July-MacBook-Pro-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "M5 Pro MacBook Proが500ドル値下げ",
-      "summaryJa": "AmazonでM5 Pro MacBook Proが500ドルの大幅値下げで販売されています。特に2TBモデルが2499ドルに値下げされ、これはAppleの通常価格2999ドルからの大きな割引です。また、Apple Watch Series 11やAirPodsなどもセール中で、特にAirPods Pro 3が50ドルオフとなっています。"
-    },
-    {
-      "id": "3127b2e1a539e572eff2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 26.6 is coming next week for iPhone, here’s what’s new",
-      "url": "https://9to5mac.com/2026/07/24/ios-26-6-is-coming-next-week-for-iphone-heres-whats-new/",
-      "publishedAt": "2026-07-24T15:15:02.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 26.6、来週登場予定",
-      "summaryJa": "iOS 26.6が来週、iPhoneユーザー向けにリリースされる予定です。このアップデートは、iOS 27への準備としてSpotlightの最適化やセキュリティ、バグ修正を含みます。Appleはすでに開発者向けにRC版を配布しており、正式なリリースは7月27日頃と予想されています。新機能の追加はなく、安定性とセキュリティの向上が主な目的です。"
-    },
-    {
-      "id": "3176b5d55a64e509e5d6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Siri Settlement Approved: Apple to Pay Owners of Some iPhone Models",
-      "url": "https://www.macrumors.com/2026/07/24/apple-to-pay-owners-of-these-iphone-models/",
-      "publishedAt": "2026-07-24T15:10:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/09/iphone-16-teal.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Siri訴訟和解、Appleが支払いへ",
-      "summaryJa": "Appleは、Siriの遅延した発売に関する米国の集団訴訟を250百万ドルで和解することに合意しました。対象となるiPhoneユーザーは最大95ドルの支払いを受ける可能性があります。和解は裁判所からの仮承認を受けましたが、請求手続きはまだ始まっておらず、数ヶ月かかる見込みです。Appleは訴訟の理由として、Siriの新機能の遅延を挙げており、最新の「Siri AI」はiOS 27の開発者ベータ版でテスト可能です。"
     }
   ],
-  "updatedAt": "2026-08-05T15:06:51.557Z",
+  "updatedAt": "2026-08-05T16:53:43.071Z",
   "initialized": true,
   "summaryVersion": 4
 }
