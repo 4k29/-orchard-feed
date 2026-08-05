@@ -27,9 +27,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "9to5Mac Daily: August 4, 2026 – The latest Apple vs OpenAI drama",
-      "summaryJa": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily. New episodes of 9to5Mac Daily are recorded every weekday. Subscribe to our podcast in Apple Podcast or your favorite podcast player to guarantee new episodes are delivered as so",
-      "translationStatus": "source"
+      "titleJa": "9to5Mac Daily：AppleとOpenAIの対立や新製品の噂",
+      "summaryJa": "AppleとOpenAIの間における営業秘密を巡る訴訟の動向をはじめ、iPhone Air 2のDynamic Islandに関する噂、iPhone 18 Proの価格に関する報道、さらにはCEO移行に向けた社内人事の動きについてポッドキャストで詳しく振り返っています。"
     },
     {
       "id": "1c05aa67cd38a50a5985",
@@ -43,9 +42,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Everything Apple Is Expected to Announce in September",
-      "summaryJa": "Apple is going to announce at least five new devices next month at its annual iPhone-centric event, though it's possible we'll also get devices that were waiting on Siri AI. Here's what's coming. iPhone 18 Pro Rumors suggest the iPhone 18 Pro is going to look a lot like the iPhone 17 Pro , but with a smaller Dynamic Island . It's getting a new Wide camera with a variable aperture for more control over lighting and background blur, plus a faster A20 Pro chip. Battery life could improve with the new chip and an upgraded LTPO+ OLED display, plus Apple might launch a new C2 modem and an N2 networking chip. Dark Cherry is supposed to be this year's special color. iPhone 18 Pro Max The &zwnj;iPhone 18 Pro&zwnj; Max is just like the &zwnj;iPhone 18 Pro&zwnj;, but bigger. It'll get all the 18 Pro",
-      "translationStatus": "source"
+      "titleJa": "9月のAppleイベントで発表が期待される新製品の噂まとめ",
+      "summaryJa": "Appleが来月の恒例イベントで少なくとも5つの新製品を発表すると予想されています。iPhone 18 ProやPro Maxでは、より小型化したDynamic Island、可変絞り付きの新しい広角カメラ、A20 Proチップなどの搭載が噂されており、一部モデルでは価格改定の可能性も報じられています。"
     },
     {
       "id": "371ab319e4f941228e12",
@@ -4511,7 +4509,7 @@
       "summaryJa": "WhatsAppがiOS向けにメッセージバブルのデザインを変更しました。新しいバブルは以前よりも丸みを帯び、iMessageに似た柔らかい形状になっています。また、共有メディアファイルは元の境界線がなくなり、よりクリーンな印象を与えています。このデザイン変更は、先月のLiquid Glassを基にしたチャットインターフェースの改良に続くものです。"
     }
   ],
-  "updatedAt": "2026-08-04T23:54:19.078Z",
+  "updatedAt": "2026-08-05T00:50:03.442Z",
   "initialized": true,
   "summaryVersion": 4
 }
