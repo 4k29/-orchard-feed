@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "4c94a149b64562a7b3ec",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 hints at all-new Home product launching soon",
+      "url": "https://9to5mac.com/2026/08/06/ios-27-hints-at-all-new-home-product-launching-soon/",
+      "publishedAt": "2026-08-06T14:33:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-home-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、独自スマートホーム向けセキュリティカメラを準備中か",
+      "summaryJa": "iOSのコードから、Appleが開発を進めていると噂される独自のホームセキュリティカメラに関連するヒントが見つかりました。顔認識や赤外線センサーを搭載し、自動化と連携して動作すると見られています。また、HomeKitセキュアビデオに4K解像度やAIを活用した検索機能などの大型アップデートが追加される可能性が報じられています。"
+    },
+    {
+      "id": "b9cb480b1a0e3daff940",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Raises Trade-In Values for iPhone, Mac, and More",
+      "url": "https://www.macrumors.com/2026/08/06/apple-raises-trade-in-values/",
+      "publishedAt": "2026-08-06T14:17:59.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/05/apple-trade-in-2024.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、米国でiPhoneやMacなどの下取り額を引き上げ",
+      "summaryJa": "Appleは米国の公式下取りプログラムを更新し、多くのiPhone、iPad、Mac、Apple Watchモデルの推定下取り額を引き上げました。一部のデバイスでは前回更新時から約30%近く価値が上昇しており、初めて一部のAndroidスマートフォンも対象リストに追加されています。"
+    },
+    {
+      "id": "ee5928a8a809195dc053",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Launching Next Month With These 12 New Features",
+      "url": "https://www.macrumors.com/2026/08/06/iphone-18-pro-next-month-12-features/",
+      "publishedAt": "2026-08-06T14:03:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの発売に向け噂される12の新機能",
+      "summaryJa": "今年9月の発表が期待されるiPhone 18 ProおよびPro Maxについて、数多くの新機能の噂が浮上しています。画面下のFace IDセンサー配置によるDynamic Islandの小型化や、バッテリー持ちを改善するLTPO+ディスプレイの採用などが含まれています。また、メインカメラへの可変絞りの搭載なども予想されています。"
+    },
+    {
+      "id": "f689fbd28cef30a9a810",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro could have limited availability right after launch: report",
+      "url": "https://9to5mac.com/2026/08/06/iphone-18-pro-could-have-limited-availability-right-after-launch-report/",
+      "publishedAt": "2026-08-06T13:47:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered-dark.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro、発売直後は品薄になる可能性との報道",
+      "summaryJa": "DRAM不足の影響により、発売が迫るiPhone 18 Proの生産が遅れ、発売直後は品薄になる可能性があると報じられています。プロセッサのパッケージング工程でメモリ待ちが発生している状態です。秋に登場する新型がプロモデル中心になる見込みであるため、需要が集中してオンライン注文の待ち時間が延びる懸念が持たれています。"
+    },
+    {
+      "id": "f0f0051ddedb65da84bf",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple raises trade-in values for most iPhone, iPad, Mac, and Apple Watch models",
+      "url": "https://9to5mac.com/2026/08/06/apple-raises-trade-in-values-for-most-iphone-ipad-mac-and-apple-watch-models/",
+      "publishedAt": "2026-08-06T13:35:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/apple-logo-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPhoneやiPadの下取り額を引き上げ",
+      "summaryJa": "Appleは、iPhone、iPad、Mac、Apple Watchなどの主要モデルを対象に、下取り価格を改定して引き上げました。製品によっては最大30%近く値上げされており、対象リストには新たに一部のAndroidスマートフォンも追加されています。下取り額はデバイスの状態などによって異なり、公式の買取価格テーブルが更新されました。"
+    },
+    {
+      "id": "5c5d3716b0600860d7a5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Scrambling to Secure Memory Ahead of iPhone 18 Pro Launch",
+      "url": "https://www.macrumors.com/2026/08/06/apple-scrambling-to-secure-memory/",
+      "publishedAt": "2026-08-06T13:23:02.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhone 18 Pro発売へ向けメモリ確保に奔走か",
+      "summaryJa": "今秋の新型iPhone発売を控え、Appleと製造パートナーがモバイルDRAMの確保に苦戦していると報じられています。TSMCのN2プロセスで製造されたプロセッサは順調に完成しているものの、パッケージングに必要なDRAMの到着待ちで膨大な在庫が滞留している模様です。初期需要への対応には自信を示しているものの、供給不足が店頭在庫や配送待ち期間に影響を与える懸念が指摘されています。"
+    },
+    {
+      "id": "48708b157e1ad35d2709",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Arcade just added all-new Madden NFL 27, the ultimate football game",
+      "url": "https://9to5mac.com/2026/08/06/apple-arcade-adding-the-ultimate-nfl-game-just-in-time-for-football-season/",
+      "publishedAt": "2026-08-06T13:22:27.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/madden27-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Arcadeに「Madden NFL 27」が登場",
+      "summaryJa": "Appleの定額制ゲームサービスApple Arcadeに、最新のアメリカンフットボールゲーム「Madden NFL 27 Arcade Edition」が追加されました。広告やアプリ内課金が一切ない設計で、MacやApple TVなど幅広いデバイスに対応しています。また、NFLのプレシーズン開幕を前に、ファン向けのフランチャイズモードやダイナミックな選手評価機能などを備えた本格的なプレイを楽しめます。"
+    },
+    {
+      "id": "01bdb50801adce09fabc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Biggest backdoor yet found in Chinese routers sold under multiple brand names",
+      "url": "https://9to5mac.com/2026/08/06/biggest-backdoor-yet-found-in-chinese-routers-sold-under-multiple-brand-names/",
+      "publishedAt": "2026-08-06T13:14:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Biggest-backdoor-yet-found-in-Chinese-routers-sold-under-multiple-brand-names.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "複数の中国製ルーターに深刻なバックドアが発見",
+      "summaryJa": "複数のブランド名で販売されている中国製のインターネットルーターから、これまでで最大級とされる露骨なセキュリティバックドアが発見されました。ファームウェアに仕込まれたインプラントが中国のクラウドサーバーと通信し、遠隔操作を可能にする仕組みになっています。サイバーセキュリティ企業による調査で明らかになったもので、サプライチェーンを通じた組込型マルウェアの脅威が改めて浮き彫りとなっています。"
+    },
+    {
+      "id": "d22be4dad1452eb9ee84",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Amazon Takes Up to $190 Off M5 MacBook Air With Best Deals Since Price Hike",
+      "url": "https://www.macrumors.com/2026/08/06/190-off-m5-macbook-air/",
+      "publishedAt": "2026-08-06T13:04:22.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macbook-air-prime-day-2.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazon、M5 MacBook Airが最大190ドル引きのセールを実施",
+      "summaryJa": "米Amazonにて、M5搭載のMacBook Airが最大190ドルの割引価格で販売されています。今回は13インチモデルが対象の中心となっており、6月の価格改定以降では最安値圏での販売となります。16GB/1TBモデルや24GB/1TBモデルがお得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "f58f84a3d504e4d90521",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Account Card in Wallet Now Available in Four More Countries",
+      "url": "https://www.macrumors.com/2026/08/06/apple-account-card-in-wallet-now-available-in-more-countries/",
+      "publishedAt": "2026-08-06T13:01:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/05/apple-account-card-feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "ウォレットアプリのAppleアカウントカード、新たに4カ国で利用可能に",
+      "summaryJa": "Appleは「ウォレット」アプリにおけるAppleアカウントカードのサポートを、エストニア、ラトビア、リトアニア、マルタの4カ国へと拡大しました。このカードではAppleアカウントの残高が表示され、Apple Storeやオンライン、各種アプリやサブスクリプションの支払いに使用できます。"
+    },
+    {
+      "id": "16b4831333bc366aa9d2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New Adobe plugin in ChatGPT combines Photoshop, Firefly, Premiere, Acrobat, and more",
+      "url": "https://9to5mac.com/2026/08/06/new-adobe-plugin-in-chatgpt-combines-photoshop-firefly-premiere-acrobat-and-more/",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/openai-adobe.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Adobe、PhotoshopやPremiereなど70以上のツールを統合したChatGPTプラグインを公開",
+      "summaryJa": "Adobeは、これまでの個別なChatGPT連携機能を統合した新しいプラグインを公開しました。PhotoshopやFirefly、Premiere、Acrobatなど70以上のツールが内蔵されており、チャット内での自然な対話を通じて写真編集や動画制作、PDF管理などの多様なワークフローが利用可能になります。"
+    },
+    {
+      "id": "77a359dbdf6e3552047a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirPods Pro 3 Drop to One of the Best Prices of the Year So Far at $189.99",
+      "url": "https://www.macrumors.com/2026/08/06/airpods-pro-3-189/",
+      "publishedAt": "2026-08-06T12:44:26.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/airpods-pro-3-tips.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirPods Pro 3がAmazonで今年最安値圏となる189.99ドルに割引",
+      "summaryJa": "米Amazonにて、AirPods Pro 3が通常249.00ドルのところ189.99ドルで販売されています。これはプライムデー以降で最も安く、今年に入ってから追跡している中でも最安値圏の価格となっています。AirPods Pro 3は強力なアクティブノイズキャンセリングやライブ翻訳機能などを備えています。"
+    },
+    {
       "id": "d35203a73004587982c6",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4329,189 +4509,9 @@
       ],
       "titleJa": "Appleのサービスが一時的にダウン",
       "summaryJa": "Appleは、Apple TVやApple Musicなどのサービスが一時的にダウンしていると発表しました。現在、App Storeの一部機能やApple Podcastsにも影響が出ており、メンテナンスが行われています。Appleは問題の解決に向けて作業中で、具体的な修復のタイムラインは未定です。ユーザーからの報告も受け付けています。"
-    },
-    {
-      "id": "079a9dcd028ee58b0145",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 and Ultra 4: What to expect",
-      "url": "https://9to5mac.com/2026/07/26/apple-watch-series-12-and-ultra-4-what-to-expect/",
-      "publishedAt": "2026-07-26T23:43:04.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-watch-ultra-3-4-mountain.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Series 12とUltra 4、9月発表か",
-      "summaryJa": "Appleは、Apple Watch Series 12とApple Watch Ultra 4を含む次世代Apple Watchラインアップを9月に発表する予定です。Bloombergのマーク・ガーマン氏によると、Appleは現在3つの新モデルの「最終段階のテスト」を行っており、デザインの大幅な変更はない見込みです。主に健康管理やフィットネス機能の向上、チップの性能向上に焦点を当てているとのことです。また、新しいApple Watch SEモデルは今年は計画されていないと報じられています。"
-    },
-    {
-      "id": "dbb4bdfe4db383d49891",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s AI glasses to be unveiled at WWDC27: report",
-      "url": "https://9to5mac.com/2026/07/26/apples-ai-glasses-to-be-unveiled-at-wwdc27-report/",
-      "publishedAt": "2026-07-26T18:54:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AppleのAIスマートグラス、WWDC27で発表か",
-      "summaryJa": "AppleのAIスマートグラスが2027年末に発売予定で、来年のWWDC27での発表を目指しているとの報道があります。この発表は、開発者がアプリを作成できる環境を整えるためのもので、第三者アプリとの連携も期待されています。また、プライバシー問題への対応として、カメラなしのデバイスや、撮影機能を制限したカメラシステムの検討も行われているようです。"
-    },
-    {
-      "id": "a40e886db8f34b92990f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Planning to Unveil Privacy-Focused Smart Glasses at WWDC 2027",
-      "url": "https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/",
-      "publishedAt": "2026-07-26T16:26:47.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Meta-Ray-Ban-Lens.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、プライバシー重視のスマートグラスを発表か",
-      "summaryJa": "Appleは2027年6月のWWDCで初のスマートグラスを発表する計画があると報じられています。これらのグラスは、現在の製品にはない新しいプライバシー機能を搭載する予定で、特に競合製品と比較してプライバシー対策が強調される見込みです。カメラ機能を持つが、写真や動画の撮影はできない設計も検討されているとのことです。Appleは2027年末に顧客への出荷を開始することを目指しています。"
-    },
-    {
-      "id": "9e9fb38c96474864ef3c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "'Apple Upgrade' Program Launching on Tuesday",
-      "url": "https://www.macrumors.com/2026/07/26/apple-upgrade-program-launching-tuesday/",
-      "publishedAt": "2026-07-26T15:20:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iPhone-18-Pro-and-Pro-Max-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新「Apple Upgrade」プログラム、28日開始",
-      "summaryJa": "Appleは、7月28日に新しい「Apple Upgrade」プログラムを米国で開始することを発表しました。このプログラムでは、iPhone、iPad、Mac、Apple Watchのほとんどのモデルをリースでき、iPhoneとApple Watchは24ヶ月、iPadとMacは36ヶ月の契約が可能です。既存のiPhone Upgrade Programの新規受付は停止されますが、既存の顧客は当面プログラムに留まることができます。なお、AppleCare+は月額料金に含まれないとのことです。"
-    },
-    {
-      "id": "03b718899a649f97f129",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "What to Expect From Apple Watch Series 12 and Apple Watch Ultra 4",
-      "url": "https://www.macrumors.com/2026/07/26/apple-watch-series-12-ultra-4-features-rumors/",
-      "publishedAt": "2026-07-26T15:07:27.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/05/Apple-Watch-Ultra-2-Black-Titanium.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Series 12とUltra 4の展望",
-      "summaryJa": "Bloombergのマーク・ガーマン氏が、Apple Watch Series 12とApple Watch Ultra 4についての予想を発表しました。デザインの大きな変更は期待できず、Touch IDの搭載も難しいとのことです。性能向上や健康・フィットネストラッキングの改善が見込まれていますが、Apple Watch SE 4は今年は登場しないとされています。大きな変更は今後1～2年以内に予定されているとのことです。"
-    },
-    {
-      "id": "fcf35936cbf740a8b80b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here are the best MacBook deals right now: July 2026 Buyer’s Guide",
-      "url": "https://9to5mac.com/2026/07/25/best-macbook-deals-currently-july-2026/",
-      "publishedAt": "2026-07-26T02:13:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/macbook-pro-side-angle-ports.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "MacBookの価格上昇、割引情報も",
-      "summaryJa": "最近、AppleのMacBookの価格が大幅に上昇しましたが、依然としていくつかの割引が存在しています。特にMacBook Airは、エントリーモデルとしての魅力を保っており、13インチと15インチのバリエーションが用意されています。現在、Amazonでは特定のモデルが割引価格で販売されており、新しいコンピュータを探している人には依然として良い選択肢とされています。"
-    },
-    {
-      "id": "2b11a485497e4759bf89",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's First Water-Resistant iPad to Launch Later This Year",
-      "url": "https://www.macrumors.com/2026/07/25/first-water-resistant-ipad/",
-      "publishedAt": "2026-07-26T01:00:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/ipad-mini-water-resistance.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple初の防水iPad、年内登場か",
-      "summaryJa": "Appleの次期iPad miniは、初の防水設計を採用する見込みで、10月までに発売されると報じられています。新しい筐体は、iPhoneと同等の防水性能を持ち、浴室やプールなどの湿気のある環境でも使用可能です。音を出すための新しい振動式スピーカーシステムが採用され、従来のスピーカー穴が不要になることで、防水性能が向上します。"
-    },
-    {
-      "id": "a68bf7cd18e488c9cf85",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV announces streaming date for its epic Neuromancer adaptation, new Dark Matter and Matchbox trailers",
-      "url": "https://9to5mac.com/2026/07/25/apple-tv-neuromancer-adaptation-trailers/",
-      "publishedAt": "2026-07-25T22:33:47.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-tv-neuromancer.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、Neuromancerの配信日を発表",
-      "summaryJa": "Apple TVはサンディエゴ・コミコンでの発表で、ウィリアム・ギブソンの小説を基にした新作SFシリーズ『Neuromancer』の配信日を2027年1月22日に決定したと発表しました。また、シーズン2のトレーラーが公開された『Dark Matter』は8月末に配信予定で、映画『Matchbox』も10月に公開される予定です。Appleのコミコンでの出展は過去最大規模で、初めて2時間のパネルを開催しました。"
-    },
-    {
-      "id": "82edeff0f49897edaae0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Indie App Spotlight: ‘NeoCam’ brings a retro video game style look to your iPhone photos",
-      "url": "https://9to5mac.com/2026/07/25/indie-app-spotlight-neocam-brings-a-retro-video-game-style-look-to-your-iphone-photos/",
-      "publishedAt": "2026-07-25T19:30:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/NeoCam-app.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "NeoCam、レトロゲーム風カメラアプリ登場",
-      "summaryJa": "NeoCamは、iPhoneとiPad向けの新しいカメラアプリで、Game Boyスタイルのフィルターを使って写真を撮影できます。リアルタイムで調整可能なフィルターには、GamePalやMermaidなどがあり、独自のフィルター作成も可能です。アプリは無料でダウンロードでき、動画撮影や異なるアスペクト比の写真を撮るためにはNeoCam Plus（$5.99）が必要です。"
-    },
-    {
-      "id": "33b523f1bf51aebe1b37",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Overtime 074: Apple’s foldable iPhone",
-      "url": "https://9to5mac.com/2026/07/25/9to5mac-overtime-074-apples-foldable-iphone/",
-      "publishedAt": "2026-07-25T19:13:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/9to5Mac-Overtime-074.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの折りたたみiPhoneに関する議論",
-      "summaryJa": "9to5Macのポッドキャストで、FernandoとJeffがSamsungのGalaxy Z Fold8イベントについて詳しく議論しました。新しい4:3アスペクト比の利点や折り目の問題への対策が話題に上り、これがAppleの折りたたみiPhoneに与える影響についても考察されています。リスナーはApple PodcastsやYouTubeでこのエピソードを視聴できます。"
-    },
-    {
-      "id": "e6f590568b7c16279375",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "HomeKit Weekly: The Amazon Basics Matter plug delivers Apple Home support for under $10",
-      "url": "https://9to5mac.com/2026/07/25/the-amazon-basics-matter-plug-delivers-apple-home-control-for-under-10/",
-      "publishedAt": "2026-07-25T18:57:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Amazon-plug-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Amazon Basicsのスマートプラグ、Apple Home対応",
-      "summaryJa": "Amazon BasicsのスマートプラグがMatter対応で10ドル未満という価格で登場しました。これにより、Apple HomeユーザーはAmazonのデバイスを気にせずに利用でき、HomePod miniやApple TV 4Kと直接接続可能です。このプラグは、スマートホームの基本的な要素として、さまざまな家電を自動化するのに役立ちます。"
-    },
-    {
-      "id": "ccc2536c562a0d98b329",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Sued by Customers Who Lost Combined $1.8 Million Through Fake Bitcoin Wallet in App Store",
-      "url": "https://www.macrumors.com/2026/07/25/apple-app-store-fake-bitcoin-wallet-lawsuit/",
-      "publishedAt": "2026-07-25T18:08:31.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/03/apple-bitcoin-app-scam.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、偽のビットコインウォレットで訴訟",
-      "summaryJa": "Appleは、App Storeで偽のビットコインウォレットアプリに騙され、合計180万ドルを失った顧客3人から訴訟を起こされました。訴状では、Appleがアプリの適切な審査を怠り、消費者の信頼を利用したと主張されています。被害者は、実際には存在しないSparrow Walletアプリをダウンロードし、資金を詐取されたとのことです。訴訟はカリフォルニアの連邦裁判所に提出され、Appleが詐欺報告に対して十分な対応をしなかったとされています。"
     }
   ],
-  "updatedAt": "2026-08-06T12:14:17.500Z",
+  "updatedAt": "2026-08-06T14:39:10.166Z",
   "initialized": true,
   "summaryVersion": 4
 }
