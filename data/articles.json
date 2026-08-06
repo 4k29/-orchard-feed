@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "4e2314a26dbc3a7ea033",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Abode launches new Apple Home-compatible sensors for garages, gates, more",
+      "url": "https://9to5mac.com/2026/08/05/abode-launches-new-apple-home-compatible-sensors-for-garages-gates-more/",
+      "publishedAt": "2026-08-06T00:26:32.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/abode-sensors.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Abode、Apple Homeに対応した新しいセンサー2機種を発表",
+      "summaryJa": "スマートホームセキュリティ企業のAbodeが、ガレージのドアや門、物置などの監視に最適なApple Home対応の新しいセンサー2機種を発表しました。最大10年のバッテリー寿命を持つワイヤレスのガレージチルトセンサーと、IP66の防水防塵性能を備えた屋外用コンタクトセンサーがラインナップされています。どちらもAbodeアプリを通じた即座の通知や、スマートホーム自動化エンジンCUEとの連携に対応しています。"
+    },
+    {
+      "id": "f2d8007609c28f411a7f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Meta's New Mac Coding Agent Costs Up to 20x Less If You Let Meta Train on Your Data",
+      "url": "https://www.macrumors.com/2026/08/05/meta-muse-code-for-mac/",
+      "publishedAt": "2026-08-06T00:10:28.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/muse-code-meta.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Meta、macOS向けの新しいコーディングエージェント「Muse Code」を発表",
+      "summaryJa": "MetaがmacOSとLinux向けのターミナル対応コーディングエージェント「Muse Code」を発表しました。大規模なリポジトリ全体にわたるソフトウェアエンジニアリングタスクを実行可能で、Metaの最新モデルであるMuse Spark 1.2によって駆動します。利用者のプロンプトを今後のAIモデルのトレーニングに使用することを許可するコントリビューター層を選択すると、通常よりも大幅に安い価格で利用できるようになっています。"
+    },
+    {
+      "id": "0f08b47c5bff5503f192",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Disney+ Could Get a Free Ad-Supported Tier",
+      "url": "https://www.macrumors.com/2026/08/05/disney-plus-free-tier/",
+      "publishedAt": "2026-08-05T23:34:16.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/09/disney.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Disney+、広告付き無料プランの導入を検討か",
+      "summaryJa": "Disneyの最高経営責任者であるジョシュ・ダマロ氏の最新の決算説明会での発言から、同社が将来的にDisney+へ広告付きの無料プランを導入する可能性があると報じられています。価格に敏感なユーザー層を取り込み、広告収益の成長を加速させるための施策として検討されている段階です。現時点で具体的な発売計画は発表されていませんが、今後の展開が注目されます。"
+    },
+    {
       "id": "1f9c2c58d0f731312fea",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4464,54 +4509,9 @@
       ],
       "titleJa": "Apple製品が週末セール中",
       "summaryJa": "今週末、AmazonやBest BuyでApple製品の大規模セールが行われています。M5 Pro MacBook Proが最大500ドル引き、AirPods Pro 3やiPhone 17 Proも割引価格で提供されています。特に、AirPods Pro Maxが100ドル引き、Apple Watch Series 11やiPhone Airもお得な価格で購入可能です。充電器やFind My関連商品も割引中です。"
-    },
-    {
-      "id": "8bb09f0eecef6f6fc1ea",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple @ Work: Apple TV proves to be more reliable than Android in new digital signage report",
-      "url": "https://9to5mac.com/2026/07/25/apple-tv-proves-to-be-more-reliable-than-android-in-new-digital-signage-report/",
-      "publishedAt": "2026-07-25T10:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-tvos-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、デジタルサイネージで信頼性を証明",
-      "summaryJa": "Kitcastの新しい「State of Digital Signage 2026」レポートによると、企業や小売環境でのデジタルサイネージ導入において、Apple TVがAndroidデバイスよりも優れた信頼性を示す結果が出ています。ITチームは高品質なApple TVへの投資と、安価なAndroidデバイスの選択に直面していますが、Apple TVは特に大規模な展開において信頼性が高いとされています。"
-    },
-    {
-      "id": "1b3db83e081af9ad2445",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Report: Apple and Micron clash before Trump over Chinese memory chips",
-      "url": "https://9to5mac.com/2026/07/24/report-apple-and-micron-clash-before-trump-over-chinese-memory-chips/",
-      "publishedAt": "2026-07-25T02:03:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、中国製メモリチップ使用で対立か",
-      "summaryJa": "ウォール・ストリート・ジャーナルによると、Micronがトランプ政権に対し、Appleが中国のサプライヤーからメモリチップを使用する計画を阻止するよう働きかけています。Appleは中国のChangXin Memory Technologies（CXMT）やYangtze Memory Technologies（YMTC）からのチップ購入を進めており、これに対してMicronが反対しています。特に、CXMTとYMTCは米国政府により軍事企業と見なされており、Appleの計画は政治的に敏感な状況にあります。"
-    },
-    {
-      "id": "b15c446eb5170deb60d6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "'MacBook Ultra' Coming Soon With These 12 New Features",
-      "url": "https://www.macrumors.com/2026/07/24/macbook-ultra-12-new-features/",
-      "publishedAt": "2026-07-25T01:00:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/macbook-ultra.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型「MacBook Ultra」登場か",
-      "summaryJa": "Appleが約5年ぶりに高性能MacBookのデザインを刷新する「MacBook Ultra」を発表する可能性があります。Bloombergのマーク・ガーマン氏によれば、発売は2026年末から2027年初頭になる見込みで、グローバルなメモリチップ不足が影響しています。この新モデルは、初のOLEDディスプレイやタッチスクリーン機能を搭載し、MacBook Proの上位モデルとして位置付けられる可能性があります。"
     }
   ],
-  "updatedAt": "2026-08-05T23:34:25.997Z",
+  "updatedAt": "2026-08-06T01:01:43.159Z",
   "initialized": true,
   "summaryVersion": 4
 }
