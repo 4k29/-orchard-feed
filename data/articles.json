@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "d35203a73004587982c6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Old Reddit a threat to AI data scraping, says platform, with changes coming",
+      "url": "https://9to5mac.com/2026/08/06/old-reddit-a-threat-to-ai-data-scraping-says-platform-with-changes-coming/",
+      "publishedAt": "2026-08-06T11:58:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Old-Reddit-a-threat-to-AI-data-scraping-says-platform-with-changes-coming.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Reddit、AIスクレイピング対策で「古いReddit」の仕様変更を計画",
+      "summaryJa": "Redditは、AIによるデータのスクレイピングやスパムからプラットフォームを保護するため、古いデスクトップ向けウェブインターフェースである「Old Reddit」に変更を加える計画を明らかにしました。まずはアクセス時のログイン必須化などを進める方針ですが、長年旧UIを利用してきたユーザーやモデレーターへの影響が懸念されています。"
+    },
+    {
+      "id": "eeacc8166206a98ca5ad",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Bid to Use Chinese Chipmaker as Leverage Backfires",
+      "url": "https://www.macrumors.com/2026/08/06/apples-bid-to-use-chinese-chipmaker-backfires/",
+      "publishedAt": "2026-08-06T11:53:54.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2020/10/Apple-Silicon-Teal-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、中国製メモリ活用による価格交渉が不調に終わる",
+      "summaryJa": "AppleがサムスンやSKハイニックスに対抗するため中国のYMTCやCXMT製メモリの採用を模索したものの、期待通りの価格引き下げにつながらなかったと報じられています。中国製チップは製造制約によるコスト面から値下げが難しく、さらに他の中国メーカーに大部分の供給枠が押さえられていたため、Apple側の狙いは不発に終わりました。"
+    },
+    {
+      "id": "18d3f67ac836d2a59f4d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Vision Pro is a niche product, but an incredibly valuable one in the right hands",
+      "url": "https://9to5mac.com/2026/08/06/vision-pro-is-a-niche-product-but-an-incredibly-valuable-one-in-the-right-hands/",
+      "publishedAt": "2026-08-06T11:21:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Vision-Pro-is-a-niche-product-but-an-incredibly-valuable-one-where-it-counts.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AppleのVision Pro、専門医療現場で高い価値を発揮するか",
+      "summaryJa": "ティム・クックCEOも認めるニッチ製品であるVision Proですが、一部の専門分野では極めて重要な役割を果たし始めています。内視鏡手術などの現場で外科医やスタッフに活用されており、従来の医療用モニターと比較して安価である点も含め、患者と医師の双方にとって大きなメリットをもたらす事例が報告されています。"
+    },
+    {
+      "id": "8a1f5a4c46f29ebfdb30",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "OpenAI Asks Judge to Dismiss Apple's Trade Secrets Lawsuit",
+      "url": "https://www.macrumors.com/2026/08/06/openai-asks-judge-to-dismiss-apple-lawsuit/",
+      "publishedAt": "2026-08-06T10:46:33.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/05/OpenAI-vs-Apple-Feature-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "OpenAI、Appleによる営業秘密侵害の訴訟を棄却するよう裁判所に要請",
+      "summaryJa": "OpenAIは、Appleが自社の営業秘密を盗んだとして起こした訴訟について、根拠がないとして連邦判事に棄却を求めました。元Appleの幹部やエンジニアの引き抜きと情報アクセスをめぐる疑惑に対し、通常の採用活動の範囲内であると反論し、Apple側のセキュリティ運用にも言及しています。"
+    },
+    {
+      "id": "4b844e581cfa2727367e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI asks for Apple’s trade secrets lawsuit to be dismissed, says it was filed without ‘adequate investigation’",
+      "url": "https://9to5mac.com/2026/08/06/openai-apple-thrown-out-lawsuit/",
+      "publishedAt": "2026-08-06T10:23:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-vs-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、Appleによる営業秘密侵害訴訟の棄却を申し立て",
+      "summaryJa": "OpenAIは、Appleが提起した営業秘密の盗用に関する訴訟について、連邦判事に棄却を求める申し立てを行ったと報じられています。OpenAI側は、Appleの訴えは十分な調査を行わずに通常のビジネス行為を文脈から切り離して主張したものであると主張しています。今回の申し立てにより早期の訴訟却下を目指しており、両社の法的紛争は長期化する可能性があります。"
+    },
+    {
       "id": "4e2314a26dbc3a7ea033",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4434,84 +4509,9 @@
       ],
       "titleJa": "Apple、偽のビットコインウォレットで訴訟",
       "summaryJa": "Appleは、App Storeで偽のビットコインウォレットアプリに騙され、合計180万ドルを失った顧客3人から訴訟を起こされました。訴状では、Appleがアプリの適切な審査を怠り、消費者の信頼を利用したと主張されています。被害者は、実際には存在しないSparrow Walletアプリをダウンロードし、資金を詐取されたとのことです。訴訟はカリフォルニアの連邦裁判所に提出され、Appleが詐欺報告に対して十分な対応をしなかったとされています。"
-    },
-    {
-      "id": "5d331f63cb25a9b3da72",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 won’t debut this fall, here’s why",
-      "url": "https://9to5mac.com/2026/07/25/heres-why-iphone-18-wont-launch-in-september/",
-      "publishedAt": "2026-07-25T17:35:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18、今秋の発表はなし",
-      "summaryJa": "Appleは、iPhone 18の全モデルを一度に発表するのではなく、iPhone 18 Pro、iPhone 18 Pro Max、折りたたみ式iPhoneのみを今秋に発表することを決定しました。今後のiPhoneラインナップは、秋にフラッグシップモデル、春にエントリーモデルを分けてリリースする予定です。これにより、各モデルに焦点を当てることができるとしています。"
-    },
-    {
-      "id": "ebd8e0838b0f65d3f046",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirPods, AirTag 2, and iPads Hit Low Prices This Week",
-      "url": "https://www.macrumors.com/2026/07/25/best-apple-deals-of-the-week-7-25-26/",
-      "publishedAt": "2026-07-25T14:53:02.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Orange.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AirPodsやAirTag 2が特価販売中",
-      "summaryJa": "今週、AirPods全モデルやAirTag 2、iPadが特価で販売されています。AirPods 4は99ドル、AirPods Pro 3は199.99ドル、AirPods Max 2は449ドルに値下げされています。また、AirTag 2の4パックは89ドルで、過去最低価格となっています。さらに、iPadも50ドル引きで、128GBモデルが399ドルから購入可能です。"
-    },
-    {
-      "id": "ca9b79e27b30439d6736",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Hands-on: The Meirro Pro 6K might be the best Apple Studio Display alternative yet [Video]",
-      "url": "https://9to5mac.com/2026/07/25/hands-on-the-meirro-pro-6k-might-be-the-best-apple-studio-display-alternative-yet-video/",
-      "publishedAt": "2026-07-25T14:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/display.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Meirro Pro 6K、Apple Studio Displayの代替品か",
-      "summaryJa": "AppleはPro Display XDRを完全に廃止し、現在はStudio DisplayとStudio Display XDRの27インチ5Kモデルを提供しています。これに対抗する形で、Meirro Proが登場しました。32インチの6Kモニターで、アルミニウム製の筐体と調整可能なスタンドを備え、価格は1,199ドルです。デザインはAppleのスタジオディスプレイに似ており、Macユーザーにとって魅力的な選択肢となる可能性があります。"
-    },
-    {
-      "id": "e050acfe2eaab5fd76a7",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Top Stories: 'Apple Upgrade' Program, Apple Music Price Hike, and More",
-      "url": "https://www.macrumors.com/2026/07/25/top-stories-apple-upgrade-program/",
-      "publishedAt": "2026-07-25T13:00:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/top-stories-2026-07-25.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、デバイスリースプログラムを発表",
-      "summaryJa": "Appleは新たに「Apple Upgrade」プログラムを発表し、7月28日から米国で開始します。このプログラムでは、iPhoneやiPad、Mac、Apple Watchの大部分を24か月または36か月でリース可能です。また、Apple Musicの価格が全プランで引き上げられ、iCloud+の価格も8か国で上昇しました。さらに、Appleは今後2年間で全てのMacを刷新する計画を進めています。"
-    },
-    {
-      "id": "d4666e9815345257cc7a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple weekend deals: MacBook Pro $500 off, AirPods Pro 3, AirTag 2, iPhone Air, Series 11, more",
-      "url": "https://9to5mac.com/2026/07/25/apple-weekend-deals-macbook-pro-airpods-airtag-2/",
-      "publishedAt": "2026-07-25T12:10:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-deals-AirPods-iPhone-AirTag-MacBook.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple製品が週末セール中",
-      "summaryJa": "今週末、AmazonやBest BuyでApple製品の大規模セールが行われています。M5 Pro MacBook Proが最大500ドル引き、AirPods Pro 3やiPhone 17 Proも割引価格で提供されています。特に、AirPods Pro Maxが100ドル引き、Apple Watch Series 11やiPhone Airもお得な価格で購入可能です。充電器やFind My関連商品も割引中です。"
     }
   ],
-  "updatedAt": "2026-08-06T10:02:58.864Z",
+  "updatedAt": "2026-08-06T12:14:17.500Z",
   "initialized": true,
   "summaryVersion": 4
 }
