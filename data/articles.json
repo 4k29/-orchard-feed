@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "b43883ba858643a4852e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Claude Code now lets sessions talk to each other on macOS",
+      "url": "https://9to5mac.com/2026/08/07/claude-code-now-lets-sessions-talk-to-each-other-on-macos/",
+      "publishedAt": "2026-08-07T22:29:59.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/claude-code-message.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Claude Code、macOSなどのセッション間でメッセージ共有が可能に",
+      "summaryJa": "Anthropicは、Claude Codeの最新バージョンで複数のセッション間でのメッセージ送受信機能を新たに追加しました。これにより、異なるセッション同士で発見した情報の共有や質問、作業の連携ができるようになり、並行作業の効率化が図れます。ユーザーは細かい指示を再度入力する手間が省け、AIが自動で要約を作成して他セッションへ引き渡す仕組みとなっています。"
+    },
+    {
       "id": "68fea21373acec00d9a1",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "Apple、スマートホーム製品を発表か",
       "summaryJa": "Appleが新たなスマートホーム製品を発表する準備を進めているとの報道があります。Bloombergによると、Appleは新型Apple TVとHomePod miniのアップデート版を今秋にも発売予定で、これらは現行モデルに似たデザインながら、より高速なチップを搭載しています。また、注目のスマートホームハブも開発中で、10月から来年初頭にかけて登場する見込みです。新しいハブは7インチのディスプレイを持ち、Siri AIを中心に設計されているとのことです。"
-    },
-    {
-      "id": "c3a6fa4ca91e65dc84f4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Just Became a $5 Trillion Company",
-      "url": "https://www.macrumors.com/2026/07/28/apple-just-became-a-5-trillion-company/",
-      "publishedAt": "2026-07-28T13:39:52.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/04/Stocks-App-Icon-and-Apple-Logo-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、時価総額5兆ドルを達成",
-      "summaryJa": "Appleが一時的に時価総額5兆ドルを超え、世界で2番目の企業としてこの大台に到達しました。株価が340ドルを超えたことで、Appleの市場価値は初めて5兆ドルを突破しました。これにより、Appleは再び世界で最も価値のある公開企業となり、Nvidiaを上回りました。"
     }
   ],
-  "updatedAt": "2026-08-07T21:56:35.979Z",
+  "updatedAt": "2026-08-07T22:50:35.865Z",
   "initialized": true,
   "summaryVersion": 4
 }
