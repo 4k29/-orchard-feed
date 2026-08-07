@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "f6114bb7cb996ae3a093",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 has long-awaited fix for common iPhone wireless issue",
+      "url": "https://9to5mac.com/2026/08/07/ios-27-has-long-awaited-fix-for-common-iphone-wireless-issue/",
+      "publishedAt": "2026-08-07T20:14:05.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-27-iphone-home-screen-official.jpg?quality=82&#038;strip=all&#038;w=1536",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS、Wi-Fiと携帯回線の切り替えを改善か",
+      "summaryJa": "次期ソフトウェアにて、Wi-Fiとモバイル通信のネットワーク切り替えがこれまで以上にシームレスになるよう改善されていることが分かりました。外出時にWi-Fiからモバイルデータ通信へ移行する際のラグが軽減され、手動でWi-Fiをオフにする手間が解消される見込みです。Appleはプラットフォームの改良の一環として、iPhoneの動作をより高速かつ信頼性の高いものにすることを目指しています。"
+    },
+    {
+      "id": "bd1c999e5ba6d9d0658d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "You may soon be able to create and export custom WhatsApp stickers straight from ChatGPT",
+      "url": "https://9to5mac.com/2026/08/07/you-may-soon-be-able-to-create-and-export-custom-whatsapp-stickers-straight-from-chatgpt/",
+      "publishedAt": "2026-08-07T20:10:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-green.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ChatGPT、カスタムステッカーのWhatsApp書き出しに対応か",
+      "summaryJa": "OpenAIが、ChatGPTで作成したカスタムステッカーをメッセージアプリのWhatsAppに直接エクスポートできる機能の開発を進めていると報じられています。Android向けの最新アプリから関連するコードが見つかりました。作成したステッカーをカスタムパックとして追加できるようになりますが、公式リリース時期は現時点で不明となっています。"
+    },
+    {
       "id": "b5f60eeaf5f6e6362f57",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "Apple、iPhoneアップグレードプログラムを終了",
       "summaryJa": "Appleは新たにApple Upgradeというハードウェアリースプログラムを開始し、これに伴いiPhoneアップグレードプログラムを終了しました。既存のユーザーは、リース、Apple Cardによる分割払い、またはキャリアファイナンスなどの選択肢が提供されます。iPhoneアップグレードプログラムは2015年に開始され、今後は新しい購入方法に移行する必要があります。"
-    },
-    {
-      "id": "5a98a1b91b439c2f86f4",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple Upgrade launches in the United States",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
-      "publishedAt": "2026-07-28T12:20:23.616Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple Upgradeが米国で開始",
-      "summaryJa": "Appleは新しいハードウェアリースプログラム「Apple Upgrade」を発表し、iPhone、Apple Watch、Mac、iPadが対象となります。このプログラムは、月額17.99ドルから利用可能で、顧客はリース期間中にデバイスをトレードインすることで月額料金をさらに下げることができます。Apple Upgradeは、オンラインおよび店舗での柔軟な支払いオプションを提供し、顧客の利便性を向上させることを目指しています。"
-    },
-    {
-      "id": "e6a5ac2a5a41655f8a4f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Retires iPhone Upgrade Program for Klarna-Backed Leases",
-      "url": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-klarna/",
-      "publishedAt": "2026-07-28T12:20:10.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/apple-upgrade-program.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、Klarnaと提携し新リースプログラム開始",
-      "summaryJa": "Appleは新たに「Apple Upgrade」を開始し、iPhone、iPad、Mac、Apple Watchのリースを提供します。このプログラムはKlarnaと提携しており、月額料金はiPhoneが17.99ドルから、Apple Watchが11.99ドルからとなっています。リース期間は12ヶ月または24ヶ月のオプションがあり、トレードインを利用することで月額料金を下げることも可能です。"
     }
   ],
-  "updatedAt": "2026-08-07T19:35:33.181Z",
+  "updatedAt": "2026-08-07T20:23:07.104Z",
   "initialized": true,
   "summaryVersion": 4
 }
