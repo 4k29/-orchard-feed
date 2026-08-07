@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "b59c5e7347bf58e71acc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27's New Compact Clock Gives Your Wallpaper Room to Breathe",
+      "url": "https://www.macrumors.com/how-to/ios-use-compact-lock-screen-clock/",
+      "publishedAt": "2026-08-07T10:53:08.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/ios-lock-screen-compact-clock.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27で登場するコンパクトな時計表示の切り替え方法",
+      "summaryJa": "iOS 27では、ロック画面の時計を小さく表示する新しいコンパクトモードが追加されました。時計が日付のサイズほどになり画面上部に収まるため、お気に入りの壁紙をより広く美しく見せることができます。カスタマイズ画面からフォントやカラーのパネルを開き、専用のアイコンをタップするだけで簡単に切り替えが可能です。"
+    },
+    {
       "id": "c89907174d5eaac579dc",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "macOS 26.6が登場、セキュリティ修正多数",
       "summaryJa": "Appleは、macOS 26.6を全ユーザー向けにリリースしました。このアップデートでは、150以上のセキュリティ脆弱性の修正や、Intel専用アプリの非推奨通知の誤表示、HealthKitやMessagesのHDRスクリーンショットに関するバグ修正が含まれています。また、macOS 27へのアップデートに向けたインデックス作成が始まる可能性があり、これにより新しいSiri AIやアプリの機能が強化される見込みです。"
-    },
-    {
-      "id": "6dca98d0dd795911c7c2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "macOS Sonoma 14.8.8 and macOS Sequoia 15.7.8 now available",
-      "url": "https://9to5mac.com/2026/07/27/macos-sonoma-14-8-8-and-macos-sequoia-15-7-8-now-available/",
-      "publishedAt": "2026-07-27T17:49:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/09/macOS-Sequoia-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "macOS Sonoma 14.8.8とSequoia 15.7.8がリリース",
-      "summaryJa": "Appleは、macOS Sonoma 14.8.8とmacOS Sequoia 15.7.8を正式にリリースしました。これらのアップデートは、重要なセキュリティ修正を提供し、すべてのユーザーに推奨されています。リリースノートによると、両システムで138以上の脆弱性が修正されており、特にWebKitの脆弱性がユーザーデータに影響を与える可能性があったため、早めのアップデートが推奨されています。"
     }
   ],
-  "updatedAt": "2026-08-07T10:12:19.975Z",
+  "updatedAt": "2026-08-07T11:09:05.205Z",
   "initialized": true,
   "summaryVersion": 4
 }
