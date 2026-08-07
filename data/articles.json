@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "c89907174d5eaac579dc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Security Bite Podcast: Why scammers love FaceTime now",
+      "url": "https://9to5mac.com/2026/08/07/security-bite-podcast-why-scammers-love-facetime-now/",
+      "publishedAt": "2026-08-07T10:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "FaceTimeを悪用した詐欺の増加についてAppleが注意喚起",
+      "summaryJa": "Appleがサポート記事を通じて、銀行員などを装ってFaceTimeを悪用しユーザーのデータを盗み出そうとする詐欺手口について警告を発しました。ライブ映像を利用したビデオ通話は信頼感を与えやすい傾向があり、こうした詐欺がどのように展開し、どのように防げばよいのか専門家が解説しています。"
+    },
+    {
       "id": "78450d1ac8ee20cd34a5",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "macOS Sonoma 14.8.8とSequoia 15.7.8がリリース",
       "summaryJa": "Appleは、macOS Sonoma 14.8.8とmacOS Sequoia 15.7.8を正式にリリースしました。これらのアップデートは、重要なセキュリティ修正を提供し、すべてのユーザーに推奨されています。リリースノートによると、両システムで138以上の脆弱性が修正されており、特にWebKitの脆弱性がユーザーデータに影響を与える可能性があったため、早めのアップデートが推奨されています。"
-    },
-    {
-      "id": "8c0a25ae33ff82baa425",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases macOS Tahoe 26.6",
-      "url": "https://www.macrumors.com/2026/07/27/apple-releases-macos-tahoe-26-6/",
-      "publishedAt": "2026-07-27T17:48:57.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/06/macOS-Tahoe-26-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、macOS Tahoe 26.6をリリース",
-      "summaryJa": "Appleは、macOS Tahoe 26.6をリリースしました。このアップデートは、セキュリティ修正を含み、macOS 27のリリースに向けてSpotlightの最適化が行われています。ユーザーは、システム設定アプリからソフトウェアアップデートを通じてダウンロード可能です。前回のアップデートから約1か月後のリリースとなります。"
     }
   ],
-  "updatedAt": "2026-08-07T09:11:32.728Z",
+  "updatedAt": "2026-08-07T10:12:19.975Z",
   "initialized": true,
   "summaryVersion": 4
 }
