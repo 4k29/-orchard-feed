@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "78450d1ac8ee20cd34a5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: August 6, 2026 – Potential iPhone 18 Pro shortages, more",
+      "url": "https://9to5mac.com/2026/08/06/daily-august-6-2026/",
+      "publishedAt": "2026-08-07T00:21:01.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの発売直後に品薄となる可能性か",
+      "summaryJa": "9to5Mac Dailyのポッドキャスト番組にて、iPhone 18 Proが発売直後に供給不足となる可能性や、OpenAIによるAppleの企業秘密侵害訴訟の却下要請、AppleがWindows PC向けにiPhoneのクリップボードへのアクセスを提供し始める計画などが取り上げられています。日々の主要なApple関連ニュースをコンパクトに振り返る内容となっています。"
+    },
+    {
       "id": "52f84a7e9483ff6dc0b7",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -179,6 +194,171 @@
       ],
       "titleJa": "Appleの機密リーク訴訟、被告ジョニー・プロッサー側の対応遅延を指摘",
       "summaryJa": "Appleが未発表製品の情報をリークしたとして情報提供者のジョニー・プロッサー氏を提訴している裁判において、新たな進捗状況が報告されました。共同ステータスレポートの提出により、プロッサー氏側からの回答や連絡がしばらく途絶えていることが明らかになっています。代理人側は、プロッサー氏が第二子の誕生に伴う育児に追われていることを遅延の理由として説明しています。"
+    },
+    {
+      "id": "7f085520424555681302",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
+      "url": "https://9to5mac.com/2026/08/06/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
+      "publishedAt": "2026-08-06T19:51:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-GymKit-iPhone.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27でiPhoneとAirPodsがジムでのApple Watch代わりに",
+      "summaryJa": "Apple WatchがなくてもGymKit対応のフィットネスマシンと連携できる新機能がiOS 27で提供されると報じられています。iPhoneがワークアウトのトラッキングハブとして機能し、AirPods Pro 3が心拍数を測定するセンサーの役割を果たします。これにより、時計を装着していなくても正確なワークアウトデータを取得できるようになり、ジムでの利便性が高まります。"
+    },
+    {
+      "id": "08d90a90a99ce4f481c2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "X Money FAQ: Account suspensions, 6% APY, physical cards, and more",
+      "url": "https://9to5mac.com/2026/08/06/x-money-faq-account-suspensions-6-apy-physical-cards-and-more/",
+      "publishedAt": "2026-08-06T19:37:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/xmoney.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "X Moneyの凍結ポリシーや高金利サービスの詳細",
+      "summaryJa": "先月開始された「X Money」に関して、アカウントが凍結された場合の資金の行方や、最大6%のAPY（年利）といった仕様の解説が公開されています。大半の規約違反では資金へのアクセスが維持されますが、児童安全や暴力に関する規約違反などでは残高が小切手で返金される仕組みです。Apple CardのSavings口座を上回る魅力的な金利水準も話題となっています。"
+    },
+    {
+      "id": "ae1c41a2a37cd17fcc4d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Free ChatGPT Users Get Unlimited Text Chats and GPT-5.6 Luna",
+      "url": "https://www.macrumors.com/2026/08/06/chatgpt-free-unlimited-text-chats/",
+      "publishedAt": "2026-08-06T19:27:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/ChatGPT-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "OpenAI、無料ユーザー向けにGPT-5.6 Lunaと無制限テキストチャットを提供",
+      "summaryJa": "OpenAIは、無料およびGoプランのChatGPTユーザー向けに新モデル「GPT-5.6 Luna」をデフォルトとして順次提供すると発表しました。テキストチャットが無制限で利用可能になり、推論を強化する新しい「Think」ボタンも追加されます。有料のPlusおよびProユーザー向けには、より正確で高度な「GPT-5.6 Sol」モデルが提供され、応答の調整機能も強化されます。"
+    },
+    {
+      "id": "ef546865b72610552cb3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV’s fall lineup reveals every new show and movie coming soon",
+      "url": "https://9to5mac.com/2026/08/06/apple-tvs-fall-lineup-reveals-every-new-show-and-movie-coming-soon/",
+      "publishedAt": "2026-08-06T18:58:25.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-tv-sunset-mountains.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、今秋の注目配信ラインナップを発表",
+      "summaryJa": "Apple TVは今秋に向けて配信される多数の新作映画やドラマのラインナップを公開しました。ライアン・レイノルズ主演のアクションコメディ映画『Mayday』や、パトリック・ブラムマルが出演するスリラー番組『Last Seen』、さらに人気スパイ諜報ドラマ『窓際のスパイ』シーズン6などが順次配信予定となっており、今後の追加情報にも注目が集まっています。"
+    },
+    {
+      "id": "87b5d4fd281a3278bb5c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
+      "url": "https://9to5mac.com/2026/08/06/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
+      "publishedAt": "2026-08-06T18:44:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/airpods-pro-3-in-case.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27でAirPodsにカスタムEQや新機能が登場",
+      "summaryJa": "AppleはiOS 27においてAirPods向けの新機能を多数追加し、その一部がAirPods Pro 3向けに提供されます。低音、中音、高音の周波数を自分好みに調整できるカスタムEQ機能が利用可能になるほか、GymKit機能の拡張によってAirPods Pro 3の内蔵心拍センサーデータをiPhone経由で対応フィットネス機器へ同期できるようになります。"
+    },
+    {
+      "id": "668381817a19e11411b5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV’s surprise hit series is making the jump to theaters for one night only",
+      "url": "https://9to5mac.com/2026/08/06/apple-tvs-surprise-hit-series-is-making-the-jump-to-theaters-for-one-night-only/",
+      "publishedAt": "2026-08-06T18:34:58.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/widows-bay-s1-finale-rhys-couch.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVの人気ヒットシリーズ、劇場で一夜限りの上映へ",
+      "summaryJa": "Apple TVの人気シリーズ『Widow’s Bay』が、全米の特定のAMCシアターにて一夜限りの特別上映を実施することが明らかになりました。今回のイベントでは、今夏に配信されたシーズンの最終話付近の3話分が上映され、ファン同士が一緒に作品の盛り上がりを共有できる貴重な機会となっています。"
+    },
+    {
+      "id": "0493dd8b4dfdb5cb2112",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s latest macOS updates address a serious Screen Sharing vulnerability",
+      "url": "https://9to5mac.com/2026/08/06/apples-latest-macos-updates-address-a-serious-screen-sharing-vulnerability/",
+      "publishedAt": "2026-08-06T18:21:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOSの各バージョンで画面共有の深刻な脆弱性を修正",
+      "summaryJa": "Appleは、最新のmacOS Tahoe、Sequoia、Sonoma向けにセキュリティアップデートを配信し、画面共有における深刻な脆弱性を修正しました。ネットワーク上の攻撃者が有効な資格情報なしで画面共有機能に認証できてしまう恐れがあった不具合が改善されており、ユーザーへ早めのアップデート適用が推奨されています。"
+    },
+    {
+      "id": "f79f7226176bc14d3584",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases security updates to macOS Tahoe, Sequoia, and Sonoma [U]",
+      "url": "https://9to5mac.com/2026/08/06/apple-releases-security-updates-to-macos-tahoe-sequoia-and-sonoma/",
+      "publishedAt": "2026-08-06T17:45:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/update.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOS Tahoeなどの重要セキュリティアップデートを公開",
+      "summaryJa": "AppleはmacOS Tahoe 26.6.1、macOS Sequoia 15.7.9、macOS Sonoma 14.8.9を新たに公開しました。今回のアップデートでは、有効な資格情報なしで画面共有機能へ認証できてしまう脆弱性が修正されています。ベータテストを挟まずに緊急リリースされたため、対象ユーザーは早めの適用が推奨されます。"
+    },
+    {
+      "id": "30ab4319a6a6efbd8b0b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases macOS Tahoe 26.6.1 With Security Fixes",
+      "url": "https://www.macrumors.com/2026/08/06/apple-releases-macos-tahoe-26-6-1/",
+      "publishedAt": "2026-08-06T17:34:39.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/06/macOS-Tahoe-26-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、画面共有の脆弱性を修正したmacOS Tahoe 26.6.1を配信",
+      "summaryJa": "AppleはmacOS Tahoe 26.6.1をリリースし、画面共有機能に関するセキュリティ上の脆弱性に対処しました。状態管理の改善により、不正な認証を許してしまう問題が解消されています。同等の修正を含むmacOS SequoiaおよびSonoma向けの高セキュリティ版も同時に配信が開始されました。"
+    },
+    {
+      "id": "df8d6a2754c723e70751",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple earnings, universal clipboard interoperability, iPhone event chatter",
+      "url": "https://9to5mac.com/2026/08/06/happy-hour-602/",
+      "publishedAt": "2026-08-06T17:32:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの決算やWindows向けユニバーサルクリップボードを振り返る",
+      "summaryJa": "ポッドキャスト番組にて、ティム・クック体制における最後の決算や、Windowsとの連携強化に関する話題が取り上げられました。Microsoftからの要求に応じたユニバーサルクリップボードの相互運用性や、新しい経営体制に向けた組織作りの動向が紹介されています。日々のAppleエコシステムに関する注目ニュースが多角的に振り返られました。"
+    },
+    {
+      "id": "1151f107b4b45cc9b98d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI updating ChatGPT with a smarter GPT-5.6 Sol and unlimited free chats",
+      "url": "https://9to5mac.com/2026/08/06/openai-updating-chatgpt-with-a-smarter-gpt-5-6-sol-and-unlimited-free-chats/",
+      "publishedAt": "2026-08-06T17:16:04.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、ChatGPTに賢くなった「GPT-5.6 Sol」を導入",
+      "summaryJa": "OpenAIはChatGPT向けに最適化された新しい「GPT-5.6 Sol」モデルの提供を開始しました。日常会話での回答精度やフォーマットが調整され、用途に応じて思考レベルを調整できるスライダー機能も追加されています。また、有料プラン向けの機能統合や無制限のテキストチャット提供などもあわせて発表されました。"
     },
     {
       "id": "4c94a149b64562a7b3ec",
@@ -4323,195 +4503,9 @@
       ],
       "titleJa": "Apple、iPadOS 26.6をリリース",
       "summaryJa": "AppleはiPad向けにiPadOS 26.6をリリースしました。このアップデートはセキュリティ修正やバグ修正を含み、今秋のiPadOS 27に向けた準備が整えられています。iPadOS 26.6では、Spotlightインデックスの最適化が行われ、iPadOS 27の新機能をスムーズに利用できるようにすることが目的です。新機能は含まれていませんが、安定性の向上が期待されています。"
-    },
-    {
-      "id": "8bd419e0eab6c71a8591",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases watchOS 26.6 With Security Updates",
-      "url": "https://www.macrumors.com/2026/07/27/apple-releases-watchos-26-6-with-security-updates/",
-      "publishedAt": "2026-07-27T17:25:25.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/06/watchos-26-gradient-light.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、watchOS 26.6を公開",
-      "summaryJa": "Appleは、watchOS 26の6回目のアップデートであるwatchOS 26.6をリリースしました。このアップデートは、バグ修正やセキュリティ更新を含んでおり、iPhoneのApple Watchアプリからダウンロード可能です。インストールには、Apple Watchのバッテリーが50％以上で、充電器に置く必要があります。"
-    },
-    {
-      "id": "1dd2811b70fc4ee24e79",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases tvOS 26.6",
-      "url": "https://www.macrumors.com/2026/07/27/apple-releases-tvos-26-6/",
-      "publishedAt": "2026-07-27T17:24:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/05/tvOS-26-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、tvOS 26.6を公開",
-      "summaryJa": "Appleは、tvOS 26の6回目のアップデートであるtvOS 26.6をリリースしました。このアップデートは、Apple TV 4K向けで、バグ修正やパフォーマンス向上に焦点を当てていると考えられています。設定アプリからダウンロード可能で、自動更新が有効な場合は自動的にアップグレードされます。"
-    },
-    {
-      "id": "34f676a62d135a8e3181",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases visionOS 26.6",
-      "url": "https://www.macrumors.com/2026/07/27/apple-releases-visionos-26-6/",
-      "publishedAt": "2026-07-27T17:23:02.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/05/visionOS-26-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、visionOS 26.6を公開",
-      "summaryJa": "Appleは、visionOS 26の6回目のアップデートであるvisionOS 26.6をリリースしました。このアップデートは、バグ修正やセキュリティ改善を含んでおり、Spotlightインデックスの最適化も行われています。Vision Proヘッドセットの設定アプリからダウンロード可能で、インストール時にはヘッドセットを外す必要があります。"
-    },
-    {
-      "id": "aaa41847c793e6988cb2",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "iPadOS 26.6 (23G71)",
-      "url": "https://developer.apple.com/news/releases/?id=07272026b",
-      "publishedAt": "2026-07-27T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "iPadOS 26.6がリリース",
-      "summaryJa": "AppleがiPadOS 26.6 (23G71)をリリースしました。詳細なリリースノートやダウンロード情報はAppleの開発者向けサイトで確認できます。"
-    },
-    {
-      "id": "ecbbb8f2c00ce6d59bbd",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "macOS 26.6 (25G72)",
-      "url": "https://developer.apple.com/news/releases/?id=07272026c",
-      "publishedAt": "2026-07-27T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "macOS 26.6がリリース",
-      "summaryJa": "AppleがmacOS 26.6 (25G72)をリリースしました。詳細なリリースノートやダウンロード情報はAppleの開発者向けサイトで確認できます。"
-    },
-    {
-      "id": "ff7a25ceffdda28ac30a",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "tvOS 26.6 (23L773)",
-      "url": "https://developer.apple.com/news/releases/?id=07272026d",
-      "publishedAt": "2026-07-27T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "tvOS 26.6がリリース",
-      "summaryJa": "AppleがtvOS 26.6 (23L773)をリリースしました。詳細なリリースノートやダウンロード情報はApple Developerサイトで確認できます。"
-    },
-    {
-      "id": "2030e0c96a156566a033",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "visionOS 26.6 (23O770)",
-      "url": "https://developer.apple.com/news/releases/?id=07272026e",
-      "publishedAt": "2026-07-27T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "visionOS 26.6が登場",
-      "summaryJa": "AppleがvisionOS 26.6 (23O770)を発表しました。リリースノートやダウンロード情報はApple Developerで確認可能です。"
-    },
-    {
-      "id": "f66fece10909e92da817",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "watchOS 26.6 (23U67)",
-      "url": "https://developer.apple.com/news/releases/?id=07272026f",
-      "publishedAt": "2026-07-27T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "watchOS 26.6が公開",
-      "summaryJa": "AppleがwatchOS 26.6 (23U67)をリリースしました。詳細はApple Developerサイトでリリースノートやダウンロード情報を確認できます。"
-    },
-    {
-      "id": "f0b4721e3e75750526ed",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "iOS 26.6 (23G71)",
-      "url": "https://developer.apple.com/news/releases/?id=07272026a",
-      "publishedAt": "2026-07-27T17:00:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "iOS 26.6のリリース情報",
-      "summaryJa": "AppleはiOS 26.6のリリースノートを公開しました。詳細なダウンロード情報は、Appleの開発者向けサイトで確認できます。"
-    },
-    {
-      "id": "142c12245d7a8743ffa5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Pocket Casts just released a brand-new Apple TV app",
-      "url": "https://9to5mac.com/2026/07/27/pocket-casts-just-released-a-brand-new-apple-tv-app/",
-      "publishedAt": "2026-07-27T16:45:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/pocket-casts.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Pocket CastsがApple TVアプリを発表",
-      "summaryJa": "Pocket Castsが新たにApple TV向けのアプリをリリースしました。このアプリでは、ポッドキャストのキューや再生位置を同期させて、リビングで快適に視聴できます。Android TV版も近日中に登場予定です。tvOS 27ではAppleの公式ポッドキャストアプリが動画ポッドキャストに対応するアップデートが予定されています。"
-    },
-    {
-      "id": "8a124575ee4f3c0b6c3a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: July 27, 2026 – Apple Glasses rumors, more",
-      "url": "https://9to5mac.com/2026/07/27/daily-july-27-2026/",
-      "publishedAt": "2026-07-27T16:40:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AppleのAIメガネ、WWDC27で発表か",
-      "summaryJa": "AppleのAIメガネがWWDC27で発表されるとの報道があります。また、2026年にはiPhone Ultraが折りたたみスマートフォンの出荷の25%を占める見込みで、Apple Watch Series 12やUltra 4についても期待が高まっています。これらの新製品は、Appleのエコシステムにおける重要な進展を示しています。"
-    },
-    {
-      "id": "746e44329b53b54616f6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Threads adds private Meta AI chats without cluttering your feed",
-      "url": "https://9to5mac.com/2026/07/27/threads-adds-private-meta-ai-chats-without-cluttering-your-feed/",
-      "publishedAt": "2026-07-27T16:20:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/meta-ai-threads-dms.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ThreadsにMeta AIチャット機能追加",
-      "summaryJa": "Meta AIがThreadsのダイレクトメッセージに追加され、ユーザーはプライベートにアシスタントと会話できるようになります。この機能により、トレンドの理解やコンテンツの要約が容易になり、アプリ内での利便性が向上します。Threadsは、メッセージ機能を拡充しており、ユーザー体験の向上を図っています。"
     }
   ],
-  "updatedAt": "2026-08-07T00:18:25.582Z",
+  "updatedAt": "2026-08-07T03:23:26.119Z",
   "initialized": true,
   "summaryVersion": 4
 }
