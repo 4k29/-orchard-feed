@@ -1,6 +1,111 @@
 {
   "articles": [
     {
+      "id": "250101f1dcca10d00b4c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "The MacRumors Show: iPhone Air 2 - What Changes After a Difficult First Year",
+      "url": "https://www.macrumors.com/2026/08/07/the-macrumors-show-iphone-air-2/",
+      "publishedAt": "2026-08-07T16:23:39.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "初代が苦戦したiPhone Air、次期モデルでの変更点を振り返る",
+      "summaryJa": "発売から1年を迎える初代iPhone Airは、需要の低迷や大幅な値下げ、急速な価格下落など苦しい展開となりました。単眼カメラやバッテリー駆動時間の短縮、競合機種との価格差などが主な要因として挙げられています。Bloombergなどの報道によると、次期モデルでは超広角レンズの追加など、多くの弱点を克服する改良が計画されていると伝えられています。"
+    },
+    {
+      "id": "6aee9032d29864cf48d4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: August 7, 2026 – iPhone Fold hype, macOS updates",
+      "url": "https://9to5mac.com/2026/08/07/daily-august-7-2026/",
+      "publishedAt": "2026-08-07T16:15:59.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "画面共有の脆弱性修正やiCloudの懸念、タブレット出荷台数の動向",
+      "summaryJa": "Appleの最新macOSアップデートでは、深刻な画面共有の脆弱性が修正されました。また、iCloudプライベートリレーが実際のIPアドレスを漏洩している可能性が研究者らにより指摘されています。そのほか、世界的なタブレット市場の低迷に伴う2026年第2四半期のiPad出荷台数減少についても報じられています。"
+    },
+    {
+      "id": "3785ffc3974f68ec9729",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MacBook Pro users will soon have two compelling new upgrade options",
+      "url": "https://9to5mac.com/2026/08/07/macbook-pro-users-will-soon-have-two-compelling-new-upgrade-options/",
+      "publishedAt": "2026-08-07T16:13:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/macbook-pro-m6.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "今秋登場か、M6搭載MacBook Proと新デザインのMacBook Ultra",
+      "summaryJa": "今秋のMacBook Proラインナップには、2nmプロセスを採用するM6チップ搭載モデルと、全く新しい「MacBook Ultra」の2つの選択肢が登場すると噂されています。Ultraモデルは、薄型軽量化されたデザインに有機ELディスプレイやタッチスクリーン、Dynamic Islandを搭載する可能性があります。プロセッサにはM5 ProやM5 Maxが採用され、最先端の技術を求めるユーザー向けになると報じられています。"
+    },
+    {
+      "id": "5930d6d6ebf4ef8f85c9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Flags Discovery Delays in Its Lawsuit Against Jon Prosser",
+      "url": "https://www.macrumors.com/2026/08/07/apple-flags-delays-in-its-prosser-lawsuit/",
+      "publishedAt": "2026-08-07T16:07:57.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/10/Jon-Prosser-Rainbow.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、情報リークを巡る訴訟でジョン・プロッサー氏側の対応遅れを報告",
+      "summaryJa": "Appleは、リーク情報発信者のジョン・プロッサー氏を相手取った営業秘密侵害訴訟において、連邦裁判所に証拠開示の手続きが滞っていると報告しました。プロッサー氏側からの連絡が1ヶ月途絶えていたものの、その後第2子の誕生と育児が遅れの原因であったことが弁護士より説明されています。本件は、未発表のiOS機能に関する機密情報にアクセスしたとして、2025年7月に提訴されたものです。"
+    },
+    {
+      "id": "c03b33e1d019e1a0233a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple seems to have abandoned Cinematic mode, and that’s a mistake",
+      "url": "https://9to5mac.com/2026/08/07/apple-seems-to-have-abandoned-cinematic-mode-and-thats-a-mistake/",
+      "publishedAt": "2026-08-07T16:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-seems-to-have-abandoned-Cinematic-mode-and-thats-a-mistake.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleのシネマティックモード、今後の進化に懸念の声",
+      "summaryJa": "iPhone 13で導入されたシネマティックモードは、動画版ポートレートとして注目を集めました。静止画向けのポートレートモードが長年にわたり大幅な進化を遂げたのに対し、シネマティックモードは近年あまりアップデートされていません。Appleがこの機能への関心を失っているように見える点は、将来的な動画撮影機能の発展を考えると大きな損失であると指摘されています。"
+    },
+    {
+      "id": "47d7f8b7ad33a3e57b16",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple expands refurb store with rare M5 MacBook Pro configs, Apple TV 4K, more",
+      "url": "https://9to5mac.com/2026/08/07/apple-expands-refurb-store-with-rare-m5-macbook-pro-configs-apple-tv-4k-more/",
+      "publishedAt": "2026-08-07T15:56:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/macbook-pro-m5-14-inch.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple公式整備済製品ストアにM5搭載MacBook Proなどが登場",
+      "summaryJa": "Appleの公式整備済製品ストアに、M5チップを搭載したMacBook ProやハイエンドなMacBook Airの構成、Apple TV 4Kなどの新製品が追加されました。整備済製品は厳格な品質基準をクリアし、1年間の限定保証が付いて最大15%オフで販売されます。人気のある構成はすぐに売り切れることが多く、お得に購入できる貴重な機会となっています。"
+    },
+    {
+      "id": "f494c8856f4e3e912296",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: Apple Watch Series 11 $172 off, Nike Watch bands, AirPods Pro 3, MacBook Neo discounts, more",
+      "url": "https://9to5mac.com/2026/08/07/deals-apple-watch-nike-bands-airpods-pro-macbook-neo/",
+      "publishedAt": "2026-08-07T15:32:58.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-MacBook-Neo-Apple-Watch-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPods Pro 3が25%オフなど、週末のApple製品セール情報",
+      "summaryJa": "週末に向けた最新のセール情報として、AirPods Pro 3が通常より25%オフの190ドルに値下げされているほか、AirPods Max 2やApple Watch Series 11などが割引価格で販売されています。また、公式整備済製品ストアのM5搭載MacBook Proなど、注目のハードウェアをお得に入手できる機会が揃っています。"
+    },
+    {
       "id": "19acea7cd5c313d15947",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4398,114 +4503,9 @@
       ],
       "titleJa": "Apple @ Workポッドキャスト：フィッシング攻撃の増加",
       "summaryJa": "Apple @ Workの最新エピソードでは、Sublime Securityのルーク・ウェスコットがゲストとして参加し、自動通知や確認、アラートを悪用したコールバックフィッシング攻撃の急増について議論しました。このポッドキャストは、Appleデバイスの管理と保護に特化したMosyleが提供しています。Mosyleは、45,000以上の組織に信頼されており、Appleデバイスを簡単に作業可能にするソリューションを提供しています。"
-    },
-    {
-      "id": "b7092d8de133fff0288f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "MacBook Ultra OLED Touch Panel to Be Exclusively Supplied by Samsung",
-      "url": "https://www.macrumors.com/2026/07/28/macbook-ultra-oled-touch-panel-samsung/",
-      "publishedAt": "2026-07-28T09:16:08.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/macbook-ultra.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "MacBook UltraのOLEDタッチパネル、サムスンが独占供給",
-      "summaryJa": "Appleは、次期MacBook ProモデルのOLEDタッチパネルをサムスンディスプレイに独占的に依存することが報じられています。14インチと16インチのパネルは、韓国のアサンにあるサムスンの工場で生産され、初期供給は約25万パネルと見込まれています。量産は2026年から2027年初頭にかけて開始される予定で、OLEDタッチパネルは高性能MacBook Proの大幅な刷新の一環とされています。"
-    },
-    {
-      "id": "f5740ce1cb6e8f3cbc90",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Security Bite Podcast: Data brokers are breaking the internet",
-      "url": "https://9to5mac.com/2026/07/28/security-bite-podcast-data-brokers-are-breaking-the-internet/",
-      "publishedAt": "2026-07-28T09:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Security Biteポッドキャスト：データブローカーの脅威",
-      "summaryJa": "9to5MacのSecurity Biteポッドキャストでは、データブローカーが私たちの詳細なプロフィールを構築している現状について、Incogniのミゲル・フォルネスがゲストとして参加し、情報の出所や購入者、AIの影響による脅威の増大について語りました。このポッドキャストも、Appleデバイスの管理とセキュリティに特化したMosyleが提供しています。"
-    },
-    {
-      "id": "52734381f5b1a532c637",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Everything We Know About MacBook Ultra's All-New Design",
-      "url": "https://www.macrumors.com/2026/07/27/macbook-ultra-all-new-design/",
-      "publishedAt": "2026-07-28T01:00:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/10/M5-MacBook-Pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "MacBook Ultraの新デザインが明らかに",
-      "summaryJa": "Appleの次期ハイエンドノートパソコン、MacBook Ultraは、2021年以来の大幅なデザイン変更が予想されています。OLEDディスプレイと薄型設計を採用し、従来の14インチおよび16インチMacBook Proよりも薄く軽くなる見込みです。また、ノッチが穴あきカメラに置き換わるとの報道もあり、これによりメニューバーが一続きのデザインになるとされています。2027年にはエントリーモデルの14インチMacBook Proもこのデザインを踏襲する可能性があります。"
-    },
-    {
-      "id": "f99bf929950f394cecaa",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "LM Studio Bionic adds support for Moonshot AI’s Kimi K3 model",
-      "url": "https://9to5mac.com/2026/07/27/lm-studio-bionic-adds-support-for-moonshot-ais-kimi-k3-model/",
-      "publishedAt": "2026-07-28T00:21:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/lm-studio-bionic.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "LM Studio BionicがKimi K3モデルをサポート",
-      "summaryJa": "LM Studioの新アプリBionicが、Moonshot AIの2.8兆パラメータを持つKimi K3モデルのサポートを開始しました。Bionicはコーディングや研究、文書作成などの複雑な作業を行うためのプラットフォームで、ユーザーはローカルモデルとクラウドベースのオープンソースモデルを使い分けることができます。クラウドモデルは米国のサーバーで処理され、データは保存されないため、プライバシーも保護されています。"
-    },
-    {
-      "id": "5fea5bf991f9088a295c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's 2026 and 2027 Mac Roadmap: Every Model and When It Ships",
-      "url": "https://www.macrumors.com/2026/07/27/mac-roadmap-2026/",
-      "publishedAt": "2026-07-27T22:48:41.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apples-2026-andd-2027-Roadmap-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、2026年と2027年のMac計画を発表",
-      "summaryJa": "Appleは2026年と2027年に向けたMacのラインアップを刷新する計画を発表しました。メモリチップの不足が影響を及ぼす中、Mac miniやMac Studioなどの需要が高まっています。2026年秋にはM6チップを搭載した14インチMacBook Proや更新された24インチiMacが登場予定で、OLEDディスプレイを持つMacBook Proも2026年末から2027年初頭にかけて発売される可能性があります。"
-    },
-    {
-      "id": "6e7fbd3847a872d11de0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "PSA: T-Mobile is down, iPhones showing ‘SOS’ mode",
-      "url": "https://9to5mac.com/2026/07/27/psa-t-mobile-is-down-iphones-forced-into-sos-mode/",
-      "publishedAt": "2026-07-27T22:07:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/tmo-sos.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "T-Mobileの障害でiPhoneが‘SOS’表示",
-      "summaryJa": "アメリカ全土でT-Mobileのサービス障害が発生し、多くのiPhoneユーザーが‘SOS’表示を確認しています。障害は午後4時（ET）頃に始まり、通話やデータ通信ができないとの報告が相次いでいます。T-Mobileからの公式なコメントはまだなく、復旧の見通しも不明です。"
-    },
-    {
-      "id": "357fe57e05cd01d64b51",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Three customers sue Apple after fake wallet app wipes out their Bitcoin",
-      "url": "https://9to5mac.com/2026/07/27/three-customers-sue-apple-after-fake-wallet-app-wipes-out-their-bitcoin/",
-      "publishedAt": "2026-07-27T21:34:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2022/12/apple-app-store-fined.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、詐欺的な暗号通貨アプリで訴訟に直面",
-      "summaryJa": "Appleは、App Storeで詐欺的な暗号通貨アプリが承認され、ユーザーが約200万ドルを失ったとして訴えられています。原告は、AppleがApp Storeの安全性を保つために多額の投資をしているにもかかわらず、アプリのレビューが不十分であると主張しています。この問題は過去にも繰り返されており、Appleは詐欺アプリの排除に苦慮しています。"
     }
   ],
-  "updatedAt": "2026-08-07T15:31:37.630Z",
+  "updatedAt": "2026-08-07T16:28:25.095Z",
   "initialized": true,
   "summaryVersion": 4
 }
