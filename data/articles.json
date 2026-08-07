@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "52f84a7e9483ff6dc0b7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Health is more powerful than you think; here are my top tips",
+      "url": "https://9to5mac.com/2026/08/06/apple-health-best-features/",
+      "publishedAt": "2026-08-07T00:15:48.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/04/apple-health-features.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleヘルスケアアプリを活用して健康管理を極める方法",
+      "summaryJa": "iPhoneの「ヘルスケア」アプリは、Apple Watchやサードパーティ製デバイスからのデータを一元管理できる強力なツールです。歩数や心拍数だけでなく、血圧計などの外部アクセサリとも連携して詳細な健康トレンドを追跡できます。日々のデータを網羅的に把握し、健康維持に役立てるための活用法を紹介しています。"
+    },
+    {
+      "id": "4033975f084f5392a3b6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro and Foldable iPhone Could Sell Out Fast Due to Memory Shortage",
+      "url": "https://www.macrumors.com/2026/08/06/iphone-18-pro-possible-shortages/",
+      "publishedAt": "2026-08-07T00:10:27.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proや折りたたみモデルがメモリ不足で品薄になる可能性",
+      "summaryJa": "半導体アナリストによると、DRAMの深刻な不足により、今秋登場予定のiPhone 18 Proシリーズや折りたたみ式iPhoneが供給不足に陥る可能性があります。TSMCの2nmプロセスを採用したA20 ProチップはウェハレベルでのDRAM統合が必要ですが、メモリ不足が組立工程の遅延を招いています。AIデータセンター向けメモリの優先によってコンシューマー向けデバイスへの供給が圧迫されており、発売直後は長めの待ち時間や即座の売り切れが懸念されています。"
+    },
+    {
+      "id": "2f1dffc416ab2473ef8f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro price: Here’s how much more it could cost",
+      "url": "https://9to5mac.com/2026/08/06/iphone-18-pro-price-heres-how-much-more-it-could-cost/",
+      "publishedAt": "2026-08-06T23:33:05.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proシリーズは価格が大幅に引き上げられるとの見方",
+      "summaryJa": "次期iPhone 18 Proシリーズは、継続的なRAMやストレージの部品不足に加え、新しい可変絞りカメラシステムや2nmプロセスのA20 Proチップの採用により、価格が上昇する可能性が高いと報じられています。アナリストのジェフ・プー氏によると、前モデルから250ドルから300ドルの値上げとなる見込みです。メモリ市場の高騰や高度な製造コストが価格に影響を与える最大の要因となっています。"
+    },
+    {
+      "id": "42fcaed70331849e9cfb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Original iPhone Loses Its Last Cellular Network as T-Mobile Kills 2G",
+      "url": "https://www.macrumors.com/2026/08/06/t-mobile-2g-network-disabled/",
+      "publishedAt": "2026-08-06T23:19:09.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/01/original-iphone-2007.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "初代iPhoneが通信網を完全喪失、米T-Mobileが2Gサービスを終了",
+      "summaryJa": "米T-Mobileが2G GSMネットワークを終了したことにより、米国の主要キャリアすべてが2Gサービスを停止しました。すでにAT&TやVerizonが過去に2Gを終了していたため、今回の措置で米国において2Gをサポートするキャリアは消滅しました。これにより、初代iPhoneなどのレガシーデバイスは、完全に携帯電話ネットワークへの接続ができなくなりました。"
+    },
+    {
+      "id": "ba9b49b8ada1180e8e66",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: iPad shipments fell 8% in Q2 2026 amid global tablet market decline",
+      "url": "https://9to5mac.com/2026/08/06/report-ipad-shipments-fell-8-in-q2-2026-amid-global-tablet-market-decline/",
+      "publishedAt": "2026-08-06T22:59:37.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ipad-air-m4-fernando.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "2026年第2四半期のiPad出荷台数は前年同期比で減少",
+      "summaryJa": "調査会社Omdiaの最新レポートによると、2026年第2四半期の世界タブレット出荷台数は前年同期比で約9.9%減少しました。Appleは前年同期比で売上高や出荷台数が減少したものの、37.8%のシェアを維持して市場首位をキープしています。市場全体の減速が続く中、教育現場や日常的な用途での需要は引き続き一定の支えとなっています。"
+    },
+    {
+      "id": "6dc396ce0737e541fd0d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Google Maps Can Now Order Your Dinner and Track Your Train Delays",
+      "url": "https://www.macrumors.com/2026/08/06/google-maps-ask-maps-update/",
+      "publishedAt": "2026-08-06T22:59:19.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/google-ask-maps.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Googleマップ、Geminiを活用した新機能の提供を開始",
+      "summaryJa": "Googleは、マップアプリの「Ask Maps」アシスタントにエージェント機能を新たに追加しました。食事の注文や電車の遅延情報のリアルタイム追跡など、複数のステップを伴うタスクを会話形式で完了できるようになります。さらに、Gmailとの連携機能や会話のコンテキスト記憶機能も導入され、対応地域も大幅に拡大されています。"
+    },
+    {
+      "id": "4d5a074517e505761363",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Madden NFL 27 Arcade Edition Now Available on Apple Arcade",
+      "url": "https://www.macrumors.com/2026/08/06/madden-nfl-27-apple-arcade/",
+      "publishedAt": "2026-08-06T22:26:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/madden-apple-arcade.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Arcadeに「Madden NFL 27 Arcade Edition」が登場",
+      "summaryJa": "Appleの定額制ゲームサービスApple Arcadeに、新作タイトル「Madden NFL 27 Arcade Edition」が追加されました。広告やアプリ内課金なしでフル機能のNFLゲームを楽しむことができ、モバイルデバイス向けに最適化された操作性が特徴です。また、Mac App Storeでは協力型アドベンチャーゲーム「Big Walk」の配信も開始されています。"
+    },
+    {
+      "id": "910aa7eb8324c786c41c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report shares new pricing and design details about OpenAI’s first device",
+      "url": "https://9to5mac.com/2026/08/06/report-shares-new-pricing-and-design-details-about-openais-first-device/",
+      "publishedAt": "2026-08-06T22:09:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-teal.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI初のデバイスは300ドル超か、価格とデザインが浮上",
+      "summaryJa": "Bloombergが報じたところによると、OpenAIが開発を進めている初のスマートデバイスの価格は300ドルから400ドル程度になると伝えられています。ホッケーのパックほどのサイズ感でドーナツ型の形状を採用し、高級感のある金属素材が使われる見込みです。また、自律的に動く機械式パーツを搭載し、AIを活用した自然な音声対話ができる製品になると報じられています。"
+    },
+    {
+      "id": "690cbbdf85b2e2be33a5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "BMW Owners Angry Over Spider-Man Ads Appearing on Dashboard Screens",
+      "url": "https://www.macrumors.com/2026/08/06/bmw-spider-man-ads/",
+      "publishedAt": "2026-08-06T21:25:39.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/spider-man-bmw.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "BMW製車両の画面に突然のスパイダーマン広告が表示されオーナーから不満の声",
+      "summaryJa": "BMWが一部の車両のインフォテインメントシステムに対し、映画の宣伝広告を予期なく送信したことでオーナーの間で強い反発が起きています。エンジン始動時に通知が表示され、タップすると全画面のアニメーションや音楽が再生される仕組みです。一部のユーザーからは、高価格帯の車種にふさわしくない押し付けがましい宣伝であるとして、オプトアウト機能の追加を求める声があがっています。"
+    },
+    {
+      "id": "2a9668364f2e3fe857cc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple holds 65% of the premium smartphone market as segment reaches record high",
+      "url": "https://9to5mac.com/2026/08/06/apple-holds-65-of-the-premium-smartphone-market-as-segment-reaches-record-high/",
+      "publishedAt": "2026-08-06T21:14:01.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iPhone-17-Pro-deals.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、2026年上半期のプレミアムスマホ市場で65%のシェアを維持",
+      "summaryJa": "調査会社Counterpoint Researchによると、2026年上半期のプレミアムスマートフォン市場において、Appleが65%のシェアを占めたことが明らかになりました。同市場は世界のスマホ売上の29%という過去最高の記録を達成し、Appleのシェアは前年同期から上昇しています。iPhone 17シリーズ、特にベースモデルの好調な販売が昨年の落ち込みからの回復を後押ししたと分析されています。"
+    },
+    {
+      "id": "7916b533306366362d26",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "OpenAI's ChatGPT Speaker Will Be Hockey Puck-Sized and Cost Over $300",
+      "url": "https://www.macrumors.com/2026/08/06/openai-chatgpt-speaker/",
+      "publishedAt": "2026-08-06T21:00:57.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/05/OpenAI-vs-Apple-Feature-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "OpenAIが開発中の独自AIスピーカーはホッケーパック型で300ドル超か",
+      "summaryJa": "OpenAIが、画面を持たずホッケーパックほどのサイズ感となる持ち運び可能な円盤状のスマートスピーカーを開発中であると報じられています。元Appleのデザイン担当であるジョニー・アイヴ氏が設計に関わっており、価格は300ドルから400ドル程度になる見込みです。人間のように自然に対話するChatGPTを搭載し、環境情報を捉えるカメラやセンサー、物理的な可動パーツを備えるユニークなデバイスとして計画されています。"
+    },
+    {
+      "id": "73b96fad90cc80495791",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "In new court filing, Apple flags delays in Jon Prosser’s response to leak lawsuit",
+      "url": "https://9to5mac.com/2026/08/06/in-new-court-filing-apple-flags-delays-in-jon-prossers-response-to-leak-lawsuit/",
+      "publishedAt": "2026-08-06T19:59:33.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの機密リーク訴訟、被告ジョニー・プロッサー側の対応遅延を指摘",
+      "summaryJa": "Appleが未発表製品の情報をリークしたとして情報提供者のジョニー・プロッサー氏を提訴している裁判において、新たな進捗状況が報告されました。共同ステータスレポートの提出により、プロッサー氏側からの回答や連絡がしばらく途絶えていることが明らかになっています。代理人側は、プロッサー氏が第二子の誕生に伴う育児に追われていることを遅延の理由として説明しています。"
+    },
+    {
       "id": "4c94a149b64562a7b3ec",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4329,189 +4509,9 @@
       ],
       "titleJa": "ThreadsにMeta AIチャット機能追加",
       "summaryJa": "Meta AIがThreadsのダイレクトメッセージに追加され、ユーザーはプライベートにアシスタントと会話できるようになります。この機能により、トレンドの理解やコンテンツの要約が容易になり、アプリ内での利便性が向上します。Threadsは、メッセージ機能を拡充しており、ユーザー体験の向上を図っています。"
-    },
-    {
-      "id": "de461defd2dc5663e159",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Pocket Casts Now Available on Apple TV",
-      "url": "https://www.macrumors.com/2026/07/27/pocket-casts-apple-tv/",
-      "publishedAt": "2026-07-27T15:58:54.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Pocket-Casts-Apple-TV.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Pocket CastsがApple TVに対応",
-      "summaryJa": "人気のポッドキャストプラットフォームPocket Castsが、Apple TV 4KおよびApple TV HDモデルで利用可能になりました。このアプリは、iPhoneやiPad、Apple Watchでも利用でき、ユーザーはデバイス間でシームレスにポッドキャストを楽しむことができます。これにより、視聴体験がさらに向上します。"
-    },
-    {
-      "id": "9ea6950025fc57d0c3cd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 gives Apple’s Calendar app new feature I’ve wanted for years",
-      "url": "https://9to5mac.com/2026/07/27/ios-27-gives-apples-calendar-app-new-feature-ive-wanted-for-years/",
-      "publishedAt": "2026-07-27T15:50:05.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27でカレンダーに自然言語機能追加",
-      "summaryJa": "iOS 27が今秋に登場し、Appleのカレンダーアプリに自然言語サポートが追加されます。これにより、ユーザーはイベントを自然な言葉で入力することで、時間や場所、参加者を自動的に設定できるようになります。この機能は、長年のユーザーの要望に応えるもので、カレンダーの使い勝手が大幅に向上します。"
-    },
-    {
-      "id": "7bd08184b721c5b827e1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: M5 Pro MacBook Pro 24GB $500 off, 48GB $400 off, Find My charger $40, AirPods, more",
-      "url": "https://9to5mac.com/2026/07/27/deals-macbook-pro-find-my-charger-airpods/",
-      "publishedAt": "2026-07-27T15:37:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-deals-MacBok-Pro-AirPods-Find-My-charger.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "M5 Pro MacBook Proが最大500ドルオフ",
-      "summaryJa": "現在、M5 Pro MacBook Proの24GBモデルが500ドルオフ、48GBモデルが400ドルオフで販売中です。また、AirPods Pro 3やAirPods Max 2もそれぞれ100ドルオフの特価で提供されています。さらに、Find My機能付きの充電器やApple Watch Series 11も割引価格で購入可能です。これらのセールは、ブラックフライデーにちなんだ特別価格として継続中です。"
-    },
-    {
-      "id": "118f7b7f1b486f680dce",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "2026 MacBook Pro Now Up to $500 Off on Amazon Following Recent Price Increase",
-      "url": "https://www.macrumors.com/2026/07/27/macbook-pro-prices-up-to-500/",
-      "publishedAt": "2026-07-27T14:18:39.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/macbook-pro-2026-pink.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "2026年モデルMacBook Proが最大500ドルオフ",
-      "summaryJa": "2026年モデルのMacBook Proが、最近の価格上昇にもかかわらず、Amazonで最大500ドルオフのセールを実施中です。特に、24GB/1TBの14インチM5 Proモデルが2,299ドル、15-Core/24GB/2TBモデルが2,499ドルで販売されています。これらの割引は、価格引き上げ後の新たな低価格として注目されています。"
-    },
-    {
-      "id": "f4fd207dce4b6c2b70ee",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts - Ed Zitron",
-      "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
-      "publishedAt": "2026-07-27T14:11:41.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Apple-Intelligence-Comes-Under-Fire-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AIバブル崩壊時のAppleの影響について",
-      "summaryJa": "エド・ジトロン氏は、AIバブルが崩壊した場合、Appleがどのような影響を受けるかについて警鐘を鳴らしています。彼は、AIサービスのコストが消費者の支払い意欲に反していると指摘し、特に大規模言語モデル（LLM）の経済モデルに問題があると述べています。これにより、Appleが直面する可能性のある課題が浮き彫りになっています。"
-    },
-    {
-      "id": "d07e4d1926ca39044ead",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AppleCare+ With Theft and Loss Coverage for iPad and Apple Watch Launching in More Countries",
-      "url": "https://www.macrumors.com/2026/07/27/applecare-with-theft-and-loss-expanding/",
-      "publishedAt": "2026-07-27T14:02:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/AppleCare-Bright-Red.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AppleCare+の盗難・紛失補償が拡大",
-      "summaryJa": "AppleCare+の盗難・紛失補償プランが、オーストラリア、フランス、ドイツ、イギリスの4カ国で8月4日から利用可能になります。このプランでは、年間最大2回の盗難または紛失に対する補償が提供され、各インシデントにはサービス料がかかります。これにより、iPadやApple Watchのユーザーにも安心が広がります。"
-    },
-    {
-      "id": "c2a60916e258c8e17c05",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "'AppleCare One' Expanding to Four More Countries",
-      "url": "https://www.macrumors.com/2026/07/27/applecare-one-four-more-countries/",
-      "publishedAt": "2026-07-27T13:46:07.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/07/Apple-AppleCare-One-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AppleCare One、4カ国で提供開始",
-      "summaryJa": "Appleは、AppleCare Oneをオーストラリア、フランス、ドイツ、イギリスで8月4日から提供開始すると発表しました。AppleCare Oneは、最大3台のデバイスをカバーする月額サブスクリプションで、複数のAppleCare+プランよりもコストが抑えられる場合があります。例えば、イギリスでは、3つのAppleCare+プランを利用するよりも月額最大£11.48の節約が可能です。加入はApple.comまたはApple Storeで行え、既存のAppleCare+プランを持つユーザーは設定アプリからも申し込むことができます。"
-    },
-    {
-      "id": "758c15c4c21032b5b0e6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Responds to Lawsuit Over Fake Bitcoin Wallet Scam in App Store",
-      "url": "https://www.macrumors.com/2026/07/27/apple-app-store-fake-bitcoin-wallet-lawsuit/",
-      "publishedAt": "2026-07-27T13:00:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/03/apple-bitcoin-app-scam.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、偽ビットコインウォレット訴訟に対応",
-      "summaryJa": "Appleは、App Storeでの偽ビットコインウォレットアプリにより、顧客が合計180万ドルを失ったとして訴えられています。訴状では、Appleがアプリの適切な審査を行わず、消費者に安全な環境を提供すると宣伝していたことが問題視されています。被害者は、ダウンロードしたアプリが実際には詐欺であったため、資金を奪われたと主張しています。訴訟は、Appleが報告された詐欺に対して適切な対応を取らなかったことも指摘しています。"
-    },
-    {
-      "id": "c5f55f057cff30edd982",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Glasses just won’t be useful without video recording",
-      "url": "https://9to5mac.com/2026/07/27/apple-glasses-just-wont-be-useful-without-video-recording/",
-      "publishedAt": "2026-07-27T11:40:01.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-glasses-light.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Glasses、動画撮影機能なしの可能性",
-      "summaryJa": "Bloombergの報道によると、Apple Glassesは写真や動画を撮影する機能なしで発売される可能性があるとされています。この決定はプライバシーへの懸念に対処するためのもので、Appleはこの選択肢を検討している模様です。しかし、動画撮影機能はスマートグラスにとって重要な機能であり、過去の事例からもプライバシー問題が大きな課題であることが示されています。"
-    },
-    {
-      "id": "0693999230325cf03372",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AppleCare One launching in the UK as theft and loss coverage expands",
-      "url": "https://9to5mac.com/2026/07/26/applecare-one-launching-in-the-uk-as-theft-and-loss-coverage-expands/",
-      "publishedAt": "2026-07-27T06:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/AppleCare-One-UK.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AppleCare One、英国で提供開始",
-      "summaryJa": "Appleは、複数の製品を一つの月額料金で保護できるAppleCare Oneを英国で提供開始します。また、AppleCare+の盗難・紛失保護がiPhoneからiPadやApple Watchにも拡大されます。AppleCare Oneは月額16.99ポンドで3つの製品をカバーし、追加のデバイスは月額4.99ポンドで追加可能です。既存のAppleCare+プランからの移行もスムーズに行え、デバイスの状態確認は自宅で行える場合が多いです。"
-    },
-    {
-      "id": "f1ebea10f51f709fd9cb",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Here's What the 'iPhone 20' is Expected to Look Like",
-      "url": "https://www.macrumors.com/2026/07/26/what-iphone-20-is-expected-to-look-like/",
-      "publishedAt": "2026-07-27T01:00:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "「iPhone 20」のデザイン予想",
-      "summaryJa": "Appleの20周年記念モデル「iPhone 20」は、2027年秋に登場する見込みです。iPhone X以来の大幅なデザイン変更が予想され、全ガラスの曲面ディスプレイが特徴となる模様です。新モデルは、iPhoneのデザイン言語を一新し、今後の基準となる可能性があります。また、同時期に第2世代の折りたたみ式iPhoneも発表されるとのことです。"
-    },
-    {
-      "id": "6c22308e2b9be2fbe9ad",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "PSA: Apple TV, Apple Music, and more are currently down for some users",
-      "url": "https://9to5mac.com/2026/07/26/psa-apple-tv-apple-music-and-more-are-currently-down-for-some-users/",
-      "publishedAt": "2026-07-27T00:52:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-tv-logo-ocean-sunset.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleのサービスが一時的にダウン",
-      "summaryJa": "Appleは、Apple TVやApple Musicなどのサービスが一時的にダウンしていると発表しました。現在、App Storeの一部機能やApple Podcastsにも影響が出ており、メンテナンスが行われています。Appleは問題の解決に向けて作業中で、具体的な修復のタイムラインは未定です。ユーザーからの報告も受け付けています。"
     }
   ],
-  "updatedAt": "2026-08-06T14:39:10.166Z",
+  "updatedAt": "2026-08-07T00:18:25.582Z",
   "initialized": true,
   "summaryVersion": 4
 }
