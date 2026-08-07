@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "8bfcaa45b78216a78986",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Wallet in iOS 27 adds feature that’s been on my wishlist for years",
+      "url": "https://9to5mac.com/2026/08/07/apple-wallet-in-ios-27-adds-feature-thats-been-on-my-wishlist-for-years/",
+      "publishedAt": "2026-08-07T13:21:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-red-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27のウォレットアプリ、物理パスの取り込み機能が追加へ",
+      "summaryJa": "iOS 27ではApple Walletに物理パスや会員証、イベントチケットなどを取り込める新機能が追加されます。カメラアプリのSiriモードでバーコードを読み取るかデジタル版のスクリーンショットを撮影するだけで、簡単にウォレットへ保存できるようになります。これにより、紙やカードを持ち歩く手間が省け、日常の利便性が大幅に向上します。"
+    },
+    {
+      "id": "5c321e33059f3504bcaa",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Mac Pro Turns 20 Today, Five Months After Apple Killed It",
+      "url": "https://www.macrumors.com/2026/08/07/mac-pro-turns-20-today/",
+      "publishedAt": "2026-08-07T12:39:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/Classic-Mac-Pro-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "初代Mac Pro発表から20年、販売終了から5ヶ月が経過",
+      "summaryJa": "Appleが初代Mac Proを発表してから20年が経ちました。この記念日は、同機が完全に販売終了を迎えてから5ヶ月後のタイミングとなります。2006年8月に発表された初代モデルは映像編集者や音楽制作プロフェッショナルなどの間で広く支持され、長年にわたりプロ向けフラッグシップ機の地位を担い続けました。"
+    },
+    {
       "id": "b59c5e7347bf58e71acc",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "Apple、iPhoneとMacの75以上のセキュリティ問題を修正",
       "summaryJa": "AppleはiOS 26.6およびiPadOS 26.6のリリースに伴い、75以上のセキュリティ問題を修正したと発表しました。これには、アプリがルート権限を取得する可能性や、悪意のあるアプリがサンドボックスを回避する問題などが含まれています。特に、KernelやWebKitに関する脆弱性も修正されており、ユーザーは最新のアップデートを適用することが推奨されています。"
-    },
-    {
-      "id": "5b37e73383b9077f5a13",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Amazon Files for 5,105-Satellite Network That Will Power iPhone Satellite Features",
-      "url": "https://www.macrumors.com/2026/07/27/amazon-iphone-satellite-network/",
-      "publishedAt": "2026-07-27T18:12:03.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/11/iPhone-Satellite-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Amazon、iPhone向け衛星ネットワークを計画中",
-      "summaryJa": "Amazonは、iPhoneの衛星機能を強化するために、5,105基の低軌道衛星を展開する計画を発表しました。このプロジェクトは、Appleが使用しているGlobalstarのスペクトルを利用し、音声やデータ、緊急サービスを提供します。AmazonはGlobalstarを買収中で、両社は今後の衛星サービスに関して協力する予定です。衛星は2028年から展開される見込みです。"
-    },
-    {
-      "id": "98ff2dbd9e8b7b939280",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "macOS 26.6 now available, here’s what’s new",
-      "url": "https://9to5mac.com/2026/07/27/macos-26-6-now-available-heres-whats-new/",
-      "publishedAt": "2026-07-27T17:51:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/macOS-26.6-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "macOS 26.6が登場、セキュリティ修正多数",
-      "summaryJa": "Appleは、macOS 26.6を全ユーザー向けにリリースしました。このアップデートでは、150以上のセキュリティ脆弱性の修正や、Intel専用アプリの非推奨通知の誤表示、HealthKitやMessagesのHDRスクリーンショットに関するバグ修正が含まれています。また、macOS 27へのアップデートに向けたインデックス作成が始まる可能性があり、これにより新しいSiri AIやアプリの機能が強化される見込みです。"
     }
   ],
-  "updatedAt": "2026-08-07T11:09:05.205Z",
+  "updatedAt": "2026-08-07T13:24:16.069Z",
   "initialized": true,
   "summaryVersion": 4
 }
