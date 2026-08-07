@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "8b14ff4255710da915f4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 26 Gets First Jailbreak Thanks to Dopamine",
+      "url": "https://www.macrumors.com/2026/08/07/ios-26-dopamine-jailbreak/",
+      "publishedAt": "2026-08-07T20:56:52.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/dopamine.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 26向け初の脱獄ツールがDopamineで登場",
+      "summaryJa": "人気の脱獄ツール「Dopamine」の開発者らにより、iOS 26向けの初となる脱獄ツールが公開されました。最新のDopamine 3.0では、A12およびA13チップを搭載したデバイスにおけるiOS 26.0やiOS 26.0.1などの新しいファームウェアがサポートされています。さらに、iOS 16.5.1からiOS 17.3.1を搭載したすべてのデバイスにも対応し、互換性のあるデバイスやソフトウェアの範囲が大幅に拡大されました。"
+    },
+    {
+      "id": "d9d4b312c1beb61ceaff",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 17 might get price increase next week, per new rumor",
+      "url": "https://9to5mac.com/2026/08/07/iphone-17-might-get-price-increase-next-week-per-new-rumor/",
+      "publishedAt": "2026-08-07T20:27:50.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-lineup-air.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 17の価格が来週にも値上げかとの報道",
+      "summaryJa": "Appleが次期モデルの発売にあわせて価格を引き上げると予想されている中、iPhone 17についても早ければ来週にも値上げが行われる可能性があると報じられています。Weiboの情報通によると、8月10日に価格改定が実施されるという噂が浮上しています。夏場に他の製品の価格が引き上げられた際、iPhoneは対象外となっていましたが、秋の新型発表を待たずに現行モデルの価格が変更されるのか注目されています。"
+    },
+    {
       "id": "f6114bb7cb996ae3a093",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "インディアプリセールが開催中、特別割引多数",
       "summaryJa": "インディアプリセールが再び開催され、iOSやmacOSなどのアプリが特別割引で提供されています。850以上のアプリが対象で、教育やゲーム、健康など30のカテゴリーにわたる割引が行われています。このセールはインディー開発者を支援する良い機会であり、隠れた名作を見つけるチャンスでもあります。"
-    },
-    {
-      "id": "2f4eecd991a64fe4b4be",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV may be losing $1B a year but its future is safe under Ternus",
-      "url": "https://9to5mac.com/2026/07/28/apple-tv-may-be-losing-1b-a-year-but-its-future-is-safe-under-ternus/",
-      "publishedAt": "2026-07-28T13:06:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-TV-may-be-losing-1B-a-year-but-its-future-is-safe-under-Ternus.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVの未来は安泰、Ternus新CEOが発言",
-      "summaryJa": "Appleの新CEOジョン・ターナス氏は、Apple TVのストリーミングサービスが今後も継続されることを明言しました。ターナス氏は、エンターテインメントビジネスの勢いを維持し、素晴らしい番組やキャラクターをさらに増やしていく意向を示しています。前CEOのティム・クック氏も、成功したF1映画の続編に期待を寄せており、Apple TVのコンテンツ拡充が進む見込みです。"
-    },
-    {
-      "id": "bb4befc6698c27d551e5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple shuts down iPhone Upgrade Program, here’s what’s next",
-      "url": "https://9to5mac.com/2026/07/28/apple-shuts-down-iphone-upgrade-program-heres-whats-next/",
-      "publishedAt": "2026-07-28T12:22:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-upgrade-program.jpg.webp?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPhoneアップグレードプログラムを終了",
-      "summaryJa": "Appleは新たにApple Upgradeというハードウェアリースプログラムを開始し、これに伴いiPhoneアップグレードプログラムを終了しました。既存のユーザーは、リース、Apple Cardによる分割払い、またはキャリアファイナンスなどの選択肢が提供されます。iPhoneアップグレードプログラムは2015年に開始され、今後は新しい購入方法に移行する必要があります。"
     }
   ],
-  "updatedAt": "2026-08-07T20:23:07.104Z",
+  "updatedAt": "2026-08-07T21:09:42.373Z",
   "initialized": true,
   "summaryVersion": 4
 }
