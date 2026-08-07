@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "68fea21373acec00d9a1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Overtime 076: Native retro games on iPhone",
+      "url": "https://9to5mac.com/2026/08/07/9to5mac-overtime-076-native-retro-games-on-iphone/",
+      "publishedAt": "2026-08-07T21:31:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/9to5Mac-Overtime-076-Native-retro-games-on-iPhone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhoneでのレトロゲーム動作やポッドキャストの見どころ",
+      "summaryJa": "9to5Macのポッドキャスト番組の最新エピソードについて伝えています。フェルナンドによるMacでのポケモン3Dモッドや、ジェフによるiPhone版マリオカート64のネイティブ移植の実行体験などが紹介されています。さらに、近年のテクノロジーに対する印象の変化や、同じデバイスを長期間使い続けることについての議論も展開されています。"
+    },
+    {
+      "id": "ce79e3dc0ebb1878d2b3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "OpenAI Delays Next Major AI Model 'Astra' Over Critical Hacking Concerns",
+      "url": "https://www.macrumors.com/2026/08/07/openai-astra-model-hacking-concerns/",
+      "publishedAt": "2026-08-07T21:27:43.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/12/openai-logo-word-mark.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "OpenAI、次世代AIモデル「Astra」の開発を一時停止",
+      "summaryJa": "OpenAIは、サイバー攻撃に関する重大な懸念から、次期主力AIモデル「Astra」に関連する活動を一時停止すると発表しました。最新の内部評価でエージェント型コーディングやサイバーセキュリティにおいて重大な進化が見られ、危険性が懸念されるためです。今後は厳格な安全対策や隔離されたテスト環境を整え、政府機関などと協力しながら慎重に進める方針です。"
+    },
+    {
+      "id": "c0826b23cee56dca2962",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "‘Your Friends & Neighbors’ star confirmed for his third Apple TV project",
+      "url": "https://9to5mac.com/2026/08/07/your-friends-neighbors-star-confirmed-for-his-third-apple-tv-project/",
+      "publishedAt": "2026-08-07T21:17:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ジェームズ・マースデン、Apple TVの新作プロジェクトに出演へ",
+      "summaryJa": "俳優のジェームズ・マースデンが、Apple TV向けに制作される新作ミステリーコメディシリーズ「Bad News Dads」に出演することが決定しました。同氏はすでに「Disavowed」や「Your Friends & Neighbors」にも出演しており、Apple TVの作品としては今回で3作目となります。新作ドラマは、アダム・フロストの小説を原作として現在開発が進められています。"
+    },
+    {
       "id": "8b14ff4255710da915f4",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4458,54 +4503,9 @@
       ],
       "titleJa": "Apple、時価総額5兆ドルを達成",
       "summaryJa": "Appleが一時的に時価総額5兆ドルを超え、世界で2番目の企業としてこの大台に到達しました。株価が340ドルを超えたことで、Appleの市場価値は初めて5兆ドルを突破しました。これにより、Appleは再び世界で最も価値のある公開企業となり、Nvidiaを上回りました。"
-    },
-    {
-      "id": "fab5f1bf9574a5c86cec",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple just hit $5 trillion market cap for first time",
-      "url": "https://9to5mac.com/2026/07/28/apple-just-hit-5-trillion-market-cap-for-first-time/",
-      "publishedAt": "2026-07-28T13:37:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/tim-cook-apple-park-rainbow-night-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、初の5兆ドル市場価値を記録",
-      "summaryJa": "Appleが火曜日の取引中に初めて時価総額5兆ドルを超えました。これは公開企業としては2社目の快挙で、AppleはNvidiaに続いてこの記録を達成しました。市場価値は株価と発行済み株式数の積で計算され、Appleは過去に1兆ドル、2兆ドル、3兆ドル、4兆ドルを達成した実績があります。"
-    },
-    {
-      "id": "7eeb5f34b2fab282c9ca",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple unveils Ted Lasso season 4 trailer, series returns next week",
-      "url": "https://9to5mac.com/2026/07/28/apple-unveils-ted-lasso-season-4-trailer-series-returns-next-week/",
-      "publishedAt": "2026-07-28T13:35:40.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ted-lasso-s4-key-art-3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVで『テッド・ラッソ』シーズン4予告公開",
-      "summaryJa": "Apple TVで人気コメディ『テッド・ラッソ』のシーズン4が来週放送されることが発表され、公式予告が公開されました。新シーズンでは、AFCリッチモンドの男子チームから新たに結成された女子チームに焦点が移ります。予告編では、懐かしいキャラクターたちが登場し、感情を揺さぶる音楽が流れています。シーズン4は8月5日に配信開始されます。"
-    },
-    {
-      "id": "c8d5af8df38e1ac1f0d6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Indie App Sales promotion now live, featuring hundreds of exclusive discounts",
-      "url": "https://9to5mac.com/2026/07/28/indie-app-sales-promotion-now-live-featuring-hundreds-of-exclusive-discounts/",
-      "publishedAt": "2026-07-28T13:34:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/indie-apps-july-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "インディアプリセールが開催中、特別割引多数",
-      "summaryJa": "インディアプリセールが再び開催され、iOSやmacOSなどのアプリが特別割引で提供されています。850以上のアプリが対象で、教育やゲーム、健康など30のカテゴリーにわたる割引が行われています。このセールはインディー開発者を支援する良い機会であり、隠れた名作を見つけるチャンスでもあります。"
     }
   ],
-  "updatedAt": "2026-08-07T21:09:42.373Z",
+  "updatedAt": "2026-08-07T21:56:35.979Z",
   "initialized": true,
   "summaryVersion": 4
 }
