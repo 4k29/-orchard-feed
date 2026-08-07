@@ -361,6 +361,81 @@
       "summaryJa": "OpenAIはChatGPT向けに最適化された新しい「GPT-5.6 Sol」モデルの提供を開始しました。日常会話での回答精度やフォーマットが調整され、用途に応じて思考レベルを調整できるスライダー機能も追加されています。また、有料プラン向けの機能統合や無制限のテキストチャット提供などもあわせて発表されました。"
     },
     {
+      "id": "81e0107d8e32a26be0bc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MacBook Ultra is coming, here’s the latest on release timing",
+      "url": "https://9to5mac.com/2026/08/06/macbook-ultra-is-coming-heres-the-latest-on-release-timing/",
+      "publishedAt": "2026-08-06T16:54:59.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macbook-ultra-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "有機ELとタッチ画面搭載のMacBook Ultraが今秋にも登場か",
+      "summaryJa": "アップルが開発を進めているとされる、有機ELディスプレイやタッチ画面、Dynamic Islandを搭載した新型の高級MacBookについて、名称が「MacBook Ultra」になる可能性が報じられています。内部テストではmacOS 27.1が使用されていることから今秋の発売が視野に入っていますが、メモリー不足などの影響により来年初頭へずれ込む可能性もあると伝えられています。"
+    },
+    {
+      "id": "f15cb2c7bee6b1655f6a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "GPT-5 turning one as OpenAI shares new Agent Plugins standard",
+      "url": "https://9to5mac.com/2026/08/06/gpt-5-turning-one-as-openai-shares-new-agent-plugins-standard/",
+      "publishedAt": "2026-08-06T16:30:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/openai.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAIがGPT-5の1周年を迎えて新標準「Agent Plugins」を発表",
+      "summaryJa": "OpenAIがGPT-5のリリース1周年を記念し、複数の互換製品間で動作するAIエージェント拡張機能のオープン標準「Agent Plugins」を発表しました。GPT-5は自動ルーティング機能を備えて登場し、iOSやmacOSなどのApple Intelligenceにも統合されてきました。その後も継続的なモデルのアップデートやデスクトップ向けアプリの統合が進められ、開発や作業の効率化に貢献しています。"
+    },
+    {
+      "id": "9a381fdc95333def67f0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Security Bite: Apple’s baffling bug bounty changes finally make sense",
+      "url": "https://9to5mac.com/2026/08/06/security-bite-apples-baffling-bug-bounty-changes-finally-make-sense/",
+      "publishedAt": "2026-08-06T16:24:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "アップルがバグ報奨金プログラムの制限を設けた背景と変更の狙い",
+      "summaryJa": "アップルがセキュリティのバグ報奨金プログラムにおいて、研究者が同時にオープンにできる脆弱性報告の件数に上限を設け、30日間のクールオフ期間を設定したことが明らかになりました。業界全体でAIを活用したセキュリティ脆弱性の報告が急増していることが背景にあり、同社が講じてきた一連の対応の理由が浮き彫りになっています。"
+    },
+    {
+      "id": "746d83e208abc8193d78",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Lutron Caseta expands hands-free smart home controls through Sonos",
+      "url": "https://9to5mac.com/2026/08/06/lutron-caseta-expands-hands-free-smart-home-controls-through-sonos/",
+      "publishedAt": "2026-08-06T16:06:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/lutron-sonos.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Lutron CasetaがSonos音声コントロールによるハンズフリー操作に対応",
+      "summaryJa": "LutronはCasetaとSonosの既存の統合を拡充し、Sonos Voice Controlを使用してスマートホームデバイスを操作できる機能を追加しました。対応するSonosスピーカーに向かって話しかけるだけで、照明のオンオフや明るさの調整、シェードの昇降などが可能になります。これらの音声リクエストは対応スピーカー上でローカル処理され、現在は米国英語で利用できます。"
+    },
+    {
+      "id": "b7a13214d66a19c53191",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Last Day for Up to $350 Amazon Gift Card With Samsung Galaxy Pre-Orders",
+      "url": "https://www.macrumors.com/2026/08/06/last-day-samsung-galaxy-pre-orders/",
+      "publishedAt": "2026-08-06T14:50:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/samsung-galaxy-26-phones.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "サムスン製新製品の予約で最大350ドルのギフト券が付与",
+      "summaryJa": "サムスンの最新スマートフォンやスマートウォッチの予約受付において、Amazonでの購入時に最大350ドルのギフトカードがもらえる特典の最終日を迎えています。対象となるのはGalaxy Z Fold8シリーズやGalaxy Z Flip8、さらにGalaxy Watch9などで、下取りなしでも適用されるお得な内容となっています。公式ストアの特典と比較してもAmazonのほうが手厚い還元となっており、購入を検討しているユーザーにとって見逃せない機会です。"
+    },
+    {
       "id": "4c94a149b64562a7b3ec",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4428,84 +4503,9 @@
       ],
       "titleJa": "Apple、macOS Tahoe 26.6をリリース",
       "summaryJa": "Appleは、macOS Tahoe 26.6をリリースしました。このアップデートは、セキュリティ修正を含み、macOS 27のリリースに向けてSpotlightの最適化が行われています。ユーザーは、システム設定アプリからソフトウェアアップデートを通じてダウンロード可能です。前回のアップデートから約1か月後のリリースとなります。"
-    },
-    {
-      "id": "1e542d07faf52d393663",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "watchOS 26.6 available now for Apple Watch, here’s what’s new",
-      "url": "https://9to5mac.com/2026/07/27/watchos-26-6-available-now-for-apple-watch-heres-whats-new/",
-      "publishedAt": "2026-07-27T17:29:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-watch-series-10-gold.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "watchOS 26.6がApple Watch向けに登場",
-      "summaryJa": "Appleは、Apple Watch向けにwatchOS 26.6をリリースしました。このアップデートは、最新のセキュリティ修正とパフォーマンス向上を提供します。watchOS 27の大規模なリリースを控え、安定性とセキュリティの向上が優先されています。新機能は少ないものの、バグ修正が含まれており、ユーザーは公式サイトで詳細を確認できます。"
-    },
-    {
-      "id": "beaf74608dd48758758b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases iOS 26.6 and iPadOS 26.6 With iOS 27 Optimizations",
-      "url": "https://www.macrumors.com/2026/07/27/apple-releases-ios-26-6/",
-      "publishedAt": "2026-07-27T17:27:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iOS 26.6とiPadOS 26.6を公開",
-      "summaryJa": "AppleはiOS 26.6とiPadOS 26.6をリリースしました。これらの更新は、セキュリティ修正やSpotlightインデックスの最適化を含み、iOS 27およびiPadOS 27に向けた準備が整えられています。iOS 26.6は、iOS 26シリーズの最後の更新の一つとなる見込みで、今後の新しいiPhoneモデルと共にiOS 27が登場する予定です。"
-    },
-    {
-      "id": "d68358a4768f3f46b02d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases tvOS 26.6 and HomePod 26.6",
-      "url": "https://9to5mac.com/2026/07/27/apple-releases-tvos-26-6-and-homepod-26-6/",
-      "publishedAt": "2026-07-27T17:26:36.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/apple-tv-homepod-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、tvOS 26.6とHomePod 26.6をリリース",
-      "summaryJa": "AppleはtvOS 26.6、HomePod 26.6、visionOS 26.6などの新しいソフトウェアアップデートを公開しました。これらの更新は、パフォーマンスと安定性の向上を目的としており、セキュリティの改善も含まれています。新機能は追加されていないものの、これによりApple TV 4KやHomePod、Vision Proの動作がよりスムーズになると期待されています。次期tvOS 27は、人気のApple TVモデルのサポートを終了するため、対応機種に注意が必要です。"
-    },
-    {
-      "id": "8bfa44e96ff33f9ce3ee",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 26.6 now available for iPhone with these changes",
-      "url": "https://9to5mac.com/2026/07/27/ios-26-6-now-available-whats-new/",
-      "publishedAt": "2026-07-27T17:26:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 26.6がiPhone向けに登場",
-      "summaryJa": "AppleはiPhone向けにiOS 26.6を正式にリリースしました。このアップデートは新機能が少ないものの、重要なバグ修正やセキュリティ更新が含まれています。また、iOS 27に向けたSpotlightインデックスの最適化も行われています。特に、ブロックした連絡先の制限に達した際の通知機能が追加され、ユーザーにとっての利便性が向上しています。"
-    },
-    {
-      "id": "bf64b16648b707af56e7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases iPadOS 26.6, here’s what’s new",
-      "url": "https://9to5mac.com/2026/07/27/apple-releases-ipados-26-6-heres-whats-new/",
-      "publishedAt": "2026-07-27T17:26:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iPadOS-26.6-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPadOS 26.6をリリース",
-      "summaryJa": "AppleはiPad向けにiPadOS 26.6をリリースしました。このアップデートはセキュリティ修正やバグ修正を含み、今秋のiPadOS 27に向けた準備が整えられています。iPadOS 26.6では、Spotlightインデックスの最適化が行われ、iPadOS 27の新機能をスムーズに利用できるようにすることが目的です。新機能は含まれていませんが、安定性の向上が期待されています。"
     }
   ],
-  "updatedAt": "2026-08-07T03:23:26.119Z",
+  "updatedAt": "2026-08-07T05:12:35.429Z",
   "initialized": true,
   "summaryVersion": 4
 }
