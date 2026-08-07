@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "d97bd926a2ab5f90d8e4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 26.6.1 likely coming soon as Apple speeds up iPhone updates",
+      "url": "https://9to5mac.com/2026/08/07/ios-26-6-1-likely-coming-soon-as-apple-speeds-up-iphone-updates/",
+      "publishedAt": "2026-08-07T14:31:32.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iOS 26.6.1を内部テスト中か",
+      "summaryJa": "AppleがiPhone向けにiOS 26.6.1のアップデートを内部でテストしていることがウェブのアクセスログなどから判明しました。iOS 26.6の公開から約2週間でのテストとなり、リリースされた場合はバグ修正やセキュリティ向上が中心になるとみられています。AIの進化に伴うハッキングツールの高速化への適応として、AppleはiPhoneのソフトウェア更新ペースを早める方針を示しています。"
+    },
+    {
+      "id": "05cac685164c957fa437",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
+      "url": "https://9to5mac.com/2026/08/07/which-do-you-plan-to-buy-iphone-18-pro-or-foldable-iphone-ultra-poll/",
+      "publishedAt": "2026-08-07T14:26:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "秋の新型iPhone、Proモデルと初の折りたたみ式が噂に",
+      "summaryJa": "今秋のiPhone発表イベントでは従来とは異なり、フラッグシップモデルに絞った3つのプレミアム機種が展開されると噂されています。ラインナップにはiPhone 18 Pro、iPhone 18 Pro Maxに加え、折りたたみ式のiPhone Ultraが含まれる見込みです。折りたたみモデルは約2,000ドルからの高価格帯になると予想されており、今後の動向に注目が集まっています。"
+    },
+    {
+      "id": "e3235d6af1658d39979c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Testing iOS 26.6.1 Update for iPhones",
+      "url": "https://www.macrumors.com/2026/08/07/apple-testing-ios-26-6-1/",
+      "publishedAt": "2026-08-07T14:17:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iOS-26-6-1-iPhone.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhone向けiOS 26.6.1を内部テスト中",
+      "summaryJa": "Appleのソフトウェアエンジニアが、iPhone向けのiOS 26.6.1を内部でテストしていることがアクセスログから明らかになりました。昨日には画面共有アプリの脆弱性を修正するmacOS 26.6.1が公開されており、iOS版も同様にバグ修正やセキュリティ改善が含まれる可能性があります。特にショートアプリで発生した不具合の修正などが期待されています。"
+    },
+    {
+      "id": "f17ebe0760707b15b22f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirPods Pro 3 for $189.99, $25 Best Buy Gift Card With MacBook Neo, and More Apple Deals This Week",
+      "url": "https://www.macrumors.com/2026/08/07/best-apple-deals-of-the-week-8-7-26/",
+      "publishedAt": "2026-08-07T14:06:10.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirPods Pro 3がセールで189.99ドルに値下げ",
+      "summaryJa": "今週のアメリカ市場において、Apple製品の夏のお得なセールが多数登場しています。AmazonではAirPods Pro 3が通常249.00ドルのところ189.99ドルに値下げされており、プライムデー以降で最安値を記録しています。また、Best BuyでのMacBook Neo購入時にデジタルギフトカードがもらえるキャンペーンや、MacBook Proの大幅割引なども実施されています。"
+    },
+    {
+      "id": "1248c15165cb3298bdea",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Account Card Expands Again: What It Is and What It Isn't",
+      "url": "https://www.macrumors.com/2026/08/07/apple-account-card-what-it-is-what-it-isnt/",
+      "publishedAt": "2026-08-07T13:54:05.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-account-card.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Account Card、エストニアなど4カ国で利用可能に",
+      "summaryJa": "Appleは、ウォレットアプリ内のApple Account Cardの対応地域をエストニア、ラトビア、リトアニア、マルタに拡大しました。このデジタルカードはApple Accountの残高を表示し、Apple Storeや公式サイトでの買い物、App Storeや各種サービスの支払いに利用できます。クレジットカードとは異なり、利用枠や金利、特典はなく、日本を含む複数の国や地域ですでに展開されています。"
+    },
+    {
+      "id": "ab122aa44766ffe3ffe7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro is getting even more ‘Pro’ this year in three ways",
+      "url": "https://9to5mac.com/2026/08/07/iphone-18-pro-is-getting-even-more-pro-this-year-in-three-ways/",
+      "publishedAt": "2026-08-07T13:47:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proシリーズの噂まとめ、カメラや電池性能が向上か",
+      "summaryJa": "まもなく発表されると噂されるiPhone 18 ProおよびPro Maxは、さらにプロ向けに進化すると報じられています。主な進化点として、メインカメラの可変絞りや望遠カメラの大口径化といった専用のカメラ機能が挙げられています。また、大容量バッテリーや次世代チップによる効率化で駆動時間がさらに延びる一方、価格が引き上げられる可能性が指摘されています。"
+    },
+    {
       "id": "8bfcaa45b78216a78986",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4413,99 +4503,9 @@
       ],
       "titleJa": "Apple、時価総額5兆ドルに迫る",
       "summaryJa": "Appleの時価総額が約4.94兆ドルに達し、5兆ドルに迫っています。株価は336.91ドルで、6月末から約22.5%上昇しました。Appleは再び世界で最も価値のある公開企業となり、Nvidiaを超えました。"
-    },
-    {
-      "id": "6a62c7fa3f68eacf3ebb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Ted Lasso season 4: Here’s who’s new and everyone not returning",
-      "url": "https://9to5mac.com/2026/07/27/ted-lasso-season-4-heres-whos-new-and-everyone-not-returning/",
-      "publishedAt": "2026-07-27T19:19:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/ted-lasso-s4-coaches.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "テッド・ラッソシーズン4、キャスト発表",
-      "summaryJa": "テッド・ラッソのシーズン4が来週放送開始され、新たに女性チームが中心となります。新キャストには、アリス・チルトン役のタニア・レイノルズが登場し、彼女の成長が描かれます。シーズン4では、以前の人気キャラクターは少なく、新しいメンバーに焦点が当てられます。"
-    },
-    {
-      "id": "d0fbf690bc74653b3a97",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "MagSafe Monday: ESR FlickLock solved my biggest complaints with the AirPods Pro 3",
-      "url": "https://9to5mac.com/2026/07/27/esr-flicklock/",
-      "publishedAt": "2026-07-27T18:57:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ESR-FlickLock-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirPods Pro 3用新ケース登場",
-      "summaryJa": "ESRが新たに発表したFlickLockマグネットケースは、AirPods Pro 3用に設計されており、落下時に蓋が開かないように工夫されています。強力なマグネットとロック機構を備え、充電時の接続も安定しています。軽量でスタイリッシュなデザインが特徴です。"
-    },
-    {
-      "id": "749a7f41e2e83bffef6c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Update Now: iOS 26.6 and macOS Tahoe 26.6 Patch Hundreds of Security Flaws",
-      "url": "https://www.macrumors.com/2026/07/27/ios-26-6-security-fixes/",
-      "publishedAt": "2026-07-27T18:55:46.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 26.6とmacOS Tahoe 26.6がリリース",
-      "summaryJa": "AppleはiOS 26.6、iPadOS 26.6、macOS Tahoe 26.6をリリースし、数百のセキュリティ脆弱性を修正しました。特にiOSとiPadOSでは約90件、macOS Tahoeでは130件以上の脆弱性が修正されています。これらのアップデートを行うことで、デバイスの安全性が向上します。"
-    },
-    {
-      "id": "b7140b4beb3daeb30869",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "X Money officially launches in the US with Apple Wallet support after invite-only beta",
-      "url": "https://9to5mac.com/2026/07/27/x-money-apple-wallet/",
-      "publishedAt": "2026-07-27T18:51:47.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/xmoney.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "X Moneyが米国で正式ローンチ、Apple Wallet対応",
-      "summaryJa": "XがX Moneyを正式にローンチし、Apple Walletに対応しました。これにより、招待制ベータ版を経て、米国のプレミアムおよびプレミアム+サブスクライバー向けにサービスが開始されます。X Moneyは預金口座、P2P送金、Visaデビットカードを統合し、手数料なしで即座に送金や受取が可能です。プレミアム+ユーザーは最大6%の利息を得られ、物理的な金属カードも注文可能です。"
-    },
-    {
-      "id": "d15ee64323679eff6464",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple teases Severance season 3 in new update",
-      "url": "https://9to5mac.com/2026/07/27/apple-teases-severance-season-3-in-new-update/",
-      "publishedAt": "2026-07-27T18:23:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/severance-s2-finale.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVが『Severance』シーズン3の撮影開始を発表",
-      "summaryJa": "Apple TVが『Severance』シーズン3の撮影が開始されたと発表しました。シーズン2から約18ヶ月が経過し、シーズン3の公開は2027年秋になる可能性があります。制作の進行は遅れていますが、Ben Stillerからの更新により、撮影が進行中であることが確認されました。シーズン2の最後の展開を受け、シーズン3では新たなストーリーが展開されることが期待されています。"
-    },
-    {
-      "id": "d37e9397bf70e2b46e5c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple fixes over 75 security issues with your iPhone and 150+ for Mac, update now",
-      "url": "https://9to5mac.com/2026/07/27/ios-26-6-fixes-over-75-security-issues-with-your-iphone-update-now/",
-      "publishedAt": "2026-07-27T18:12:48.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPhoneとMacの75以上のセキュリティ問題を修正",
-      "summaryJa": "AppleはiOS 26.6およびiPadOS 26.6のリリースに伴い、75以上のセキュリティ問題を修正したと発表しました。これには、アプリがルート権限を取得する可能性や、悪意のあるアプリがサンドボックスを回避する問題などが含まれています。特に、KernelやWebKitに関する脆弱性も修正されており、ユーザーは最新のアップデートを適用することが推奨されています。"
     }
   ],
-  "updatedAt": "2026-08-07T13:24:16.069Z",
+  "updatedAt": "2026-08-07T14:31:58.102Z",
   "initialized": true,
   "summaryVersion": 4
 }
