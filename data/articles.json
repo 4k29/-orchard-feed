@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "19acea7cd5c313d15947",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "watchOS 27 could make Apple Watch’s important new health feature even better",
+      "url": "https://9to5mac.com/2026/08/07/watchos-27-could-make-apple-watchs-important-new-health-feature-even-better/",
+      "publishedAt": "2026-08-07T14:51:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-health.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "watchOS 27で高血圧通知機能がさらに向上か",
+      "summaryJa": "昨年のwatchOSで導入された高血圧通知機能が、watchOS 27においてさらに強化される可能性があります。報道によると、この機能のアップグレード版は現在米国食品医薬品局の審査を受けているとされています。高血圧は心臓発作や脳卒中の主要なリスク要因であるため、この機能の拡充により多くのユーザーの健康管理に役立つことが期待されています。"
+    },
+    {
+      "id": "86b84db40db53412e8ef",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Captures 65% of Global Premium Smartphone Market",
+      "url": "https://www.macrumors.com/2026/08/07/apple-captures-65-percent-of-global-premium-market/",
+      "publishedAt": "2026-08-07T14:32:54.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Pro-and-Air-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、世界の高級スマホ市場で65%のシェアを維持",
+      "summaryJa": "調査会社Counterpoint Researchのデータによると、2026年上半期における世界の高級スマートフォン市場でAppleが65%のシェアを占めました。全体市場に占める高級セグメントの割合は過去最高の29%に達し、iPhone 17シリーズ、特にベースモデルの好調な売上が収益を押し上げました。一方で、中国市場における激しい競争などの影響により、シェア自体は数年前からわずかに低下傾向にあります。"
+    },
+    {
       "id": "d97bd926a2ab5f90d8e4",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "Apple、詐欺的な暗号通貨アプリで訴訟に直面",
       "summaryJa": "Appleは、App Storeで詐欺的な暗号通貨アプリが承認され、ユーザーが約200万ドルを失ったとして訴えられています。原告は、AppleがApp Storeの安全性を保つために多額の投資をしているにもかかわらず、アプリのレビューが不十分であると主張しています。この問題は過去にも繰り返されており、Appleは詐欺アプリの排除に苦慮しています。"
-    },
-    {
-      "id": "d205c06ad12c96514fae",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Claude, Codex, and other AI tools credited in today’s Apple security releases",
-      "url": "https://9to5mac.com/2026/07/27/claude-codex-and-other-ai-tools-credited-in-todays-apple-security-releases/",
-      "publishedAt": "2026-07-27T20:29:58.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-security.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、AIツールを活用したセキュリティ更新を実施",
-      "summaryJa": "Appleは、最新のOSアップデートにおいてAIツールを活用したセキュリティ修正を行ったことを発表しました。今回の更新では、WebKitやカーネルの脆弱性に関する修正が含まれており、複数の研究者が貢献しています。特に、AnthropicのClaudeが関与した修正が注目されており、AI技術が脆弱性研究において重要な役割を果たしていることが示されています。"
-    },
-    {
-      "id": "e8156a44d5a66235df73",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple on Verge of Becoming $5 Trillion Company",
-      "url": "https://www.macrumors.com/2026/07/27/apple-nearly-5-trillion-dollar-company/",
-      "publishedAt": "2026-07-27T20:10:17.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/04/Stocks-App-Icon-and-Apple-Logo-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、時価総額5兆ドルに迫る",
-      "summaryJa": "Appleの時価総額が約4.94兆ドルに達し、5兆ドルに迫っています。株価は336.91ドルで、6月末から約22.5%上昇しました。Appleは再び世界で最も価値のある公開企業となり、Nvidiaを超えました。"
     }
   ],
-  "updatedAt": "2026-08-07T14:31:58.102Z",
+  "updatedAt": "2026-08-07T15:31:37.630Z",
   "initialized": true,
   "summaryVersion": 4
 }
