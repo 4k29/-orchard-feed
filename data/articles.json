@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "90e86dfc13318191a655",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Why you should buy iPhone 17 Pro now instead of waiting",
+      "url": "https://9to5mac.com/2026/08/08/buy-iphone-17-pro-vs-iphone-18-pro/",
+      "publishedAt": "2026-08-08T18:13:25.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-17-pro-pro-max-orange-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 17 Proを今すぐ購入すべき理由とは",
+      "summaryJa": "来月に次期モデルの登場が予想される中、今年は新型モデルの価格が大幅に引き上げられるとの見方が強まっています。そのため、大きな機能進化が期待しにくい新型を待つよりも、現在のモデルを今購入する方が賢明であると解説されています。数年前のモデルからの買い替えであれば十分に大きな進化を実感でき、長期的なサポートも受けられます。"
+    },
+    {
       "id": "72ef71232386872ec8ad",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "Apple Upgrade、製品ごとの月額料金を公開",
       "summaryJa": "Appleは「Apple Upgrade」プログラムの詳細を発表し、各製品の月額料金を明らかにしました。iPhone 17 Proは月額31.99ドル、iPad Airは月額15.99ドルなど、様々なプランが用意されています。このプログラムは、Apple製品を手軽に利用する新しい方法として注目されています。"
-    },
-    {
-      "id": "3ac86e8bbcd11d6bf3c0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "All-New Apple Home Hub Reportedly Launching as Soon as October",
-      "url": "https://www.macrumors.com/2026/07/28/apple-home-hub-as-soon-as-october/",
-      "publishedAt": "2026-07-28T16:31:43.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型Apple Home Hub、10月にも登場か",
-      "summaryJa": "Appleが新しいスマートホームハブを10月から来年初めの間に発売する計画を立てていると報じられています。このデバイスは、HomePodのスピーカーと7インチのディスプレイを組み合わせたもので、Siri AIが中心機能となります。テーブル設置型と壁掛け型が用意され、顔認識機能やFaceTime、HomeKitの管理など多彩な機能を搭載する見込みです。"
     }
   ],
-  "updatedAt": "2026-08-08T18:04:15.185Z",
+  "updatedAt": "2026-08-08T18:54:31.775Z",
   "initialized": true,
   "summaryVersion": 4
 }
