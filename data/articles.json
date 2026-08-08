@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "7ad942c9a12944262ca0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "CarPlay connection issues? This might explain why",
+      "url": "https://9to5mac.com/2026/08/07/carplay-connection-issues/",
+      "publishedAt": "2026-08-08T00:51:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/carplay-tapbacks-ios-26.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "CarPlayの接続が途切れる原因と電波干渉の影響",
+      "summaryJa": "運転中にApple CarPlayの接続がランダムに切れてしまう現象は、iPhoneやケーブルの不具合ではなく、特定の場所における電波干渉が原因である可能性があります。ダッシュボードとiPhone間のワイヤレス通信が周囲の電波によって妨げられることで発生します。特定エリアで頻繁に接続が切れる場合は、目に見えない無線電波の干渉フィールドを通っていることが考えられます。"
+    },
+    {
       "id": "b43883ba858643a4852e",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "Apple Watch向けのAIノートアプリ「Granola」登場",
       "summaryJa": "AI搭載の会議ノートアプリ「Granola」がApple Watchに対応しました。このアプリは、コンピュータから離れた会話の記録を目的としており、簡単なタップでノートを開始できます。Granolaは、ZoomやGoogle Meetなどの音声をキャプチャし、ユーザーが入力した内容と統合してノートを作成します。Apple Watchの登場により、ユーザーはより手軽にノートを取ることができ、AI機能の活用が進んでいます。"
-    },
-    {
-      "id": "3ded0e69c385b4a41f3b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple has three new smart home products ‘nearly ready to launch,’ per report",
-      "url": "https://9to5mac.com/2026/07/28/apple-has-three-new-smart-home-products-nearly-ready-to-launch-per-report/",
-      "publishedAt": "2026-07-28T13:46:59.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/homepod-siri-ai-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、スマートホーム製品を発表か",
-      "summaryJa": "Appleが新たなスマートホーム製品を発表する準備を進めているとの報道があります。Bloombergによると、Appleは新型Apple TVとHomePod miniのアップデート版を今秋にも発売予定で、これらは現行モデルに似たデザインながら、より高速なチップを搭載しています。また、注目のスマートホームハブも開発中で、10月から来年初頭にかけて登場する見込みです。新しいハブは7インチのディスプレイを持ち、Siri AIを中心に設計されているとのことです。"
     }
   ],
-  "updatedAt": "2026-08-07T23:58:11.645Z",
+  "updatedAt": "2026-08-08T02:12:21.098Z",
   "initialized": true,
   "summaryVersion": 4
 }
