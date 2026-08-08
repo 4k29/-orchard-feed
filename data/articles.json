@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "d8f27c3969cc11853528",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Claude Code Adds Cross-Session Messaging on macOS",
+      "url": "https://www.macrumors.com/2026/08/08/claude-code-adds-cross-session-messaging/",
+      "publishedAt": "2026-08-08T10:22:46.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/anthopic-claude.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Claude CodeがmacOS向けにセッション間メッセージング機能を追加",
+      "summaryJa": "Anthropicは、Claude Codeの最新アップデートにより、個別のコーディングセッション間で直接メッセージの送受信ができるようになったと発表しました。これにより、ターミナルウィンドウ間で手動コンテキストをコピーする必要がなくなります。Mac上のローカルで動作し、会話履歴やファイルではなくテキストの要約のみが共有される仕組みです。"
+    },
+    {
       "id": "9e3140e97792e9eb5266",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "Amazonでのアクセサリーセール情報",
       "summaryJa": "今週、Amazonで大規模なアクセサリーセールが開催されており、AnkerやSony、Samsungなどの製品が特価で販売されています。特に、SonosのヘッドフォンやSonyのノイズキャンセリングヘッドフォンが大幅に値下げされています。また、Samsungのスマートモニターやテレビもお得な価格で提供されており、特に55インチのThe Frame TVが新記録の低価格で販売されています。多様なアクセサリーがセール対象となっているため、チェックする価値があります。"
-    },
-    {
-      "id": "1de0fcb110e2e1eee438",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s how to avoid being trapped in never-ending Apple Upgrade leases",
-      "url": "https://9to5mac.com/2026/07/28/heres-how-to-avoid-being-trapped-in-never-ending-apple-upgrade-leases/",
-      "publishedAt": "2026-07-28T14:21:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Heres-how-to-avoid-being-trapped-in-never-ending-Apple-Upgrade-leases.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの新しいアップグレードプログラムのリスク",
-      "summaryJa": "Appleが新たに発表した「Apple Upgrade」リースプログラムは、月々の支払いを抑える一方で、利用者が無限のリースサイクルに陥るリスクを抱えています。このプログラムでは、契約終了時にデバイスを完全に所有することができず、最終的にバルーンペイメントを行わなければなりません。例えば、MacBook Proを36か月リースした場合、総支払額は約1,403ドルとなり、所有権を得るには追加で585ドルが必要です。"
     }
   ],
-  "updatedAt": "2026-08-08T10:19:45.647Z",
+  "updatedAt": "2026-08-08T10:57:01.236Z",
   "initialized": true,
   "summaryVersion": 4
 }
