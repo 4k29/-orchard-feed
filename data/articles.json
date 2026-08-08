@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "cea6e3f5ad92c7857aa4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp makes parent-managed accounts easier to set up on iPhone",
+      "url": "https://9to5mac.com/2026/08/07/whatsapp-makes-parent-managed-accounts-easier-to-set-up-on-iphone/",
+      "publishedAt": "2026-08-08T02:58:27.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp、iPhoneでの保護者による管理機能のセットアップを簡素化",
+      "summaryJa": "WhatsAppはiPhone向けに専用の「保護者による管理」セクションの提供を開始しました。これにより、保護者は特定の連絡先やグループ参加の制限など、管理アカウントの設定やセットアップを簡単に行えるようになります。技術的な知識を必要としないシンプルなインターフェイスで、QRコードの読み取りなどを通じてスムーズに連携を完了させることができます。"
+    },
+    {
+      "id": "048eb1b3e73995cb769c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple adds nearly 45 hearing devices to its Made for iPhone compatibility list",
+      "url": "https://9to5mac.com/2026/08/07/apple-adds-nearly-45-hearing-devices-to-its-made-for-iphone-compatibility-list/",
+      "publishedAt": "2026-08-08T02:18:32.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/hearing-devices-setup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Made for iPhone補聴器の互換性リストに約45モデルを追加",
+      "summaryJa": "Appleは「Made for iPhone（MFi）」対応の補聴器リストを更新し、新たに22ブランドから43モデルを追加しました。これにより、サポートされているデバイスの総数は104ブランドの623モデルに拡大しました。双方向ストリーミングに対応した新モデルなども含まれており、ユーザーはiPhoneやiPadなどと組み合わせてハンズフリーでの音声通話や音楽ストリーミングを楽しめます。"
+    },
+    {
       "id": "7ad942c9a12944262ca0",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "新型Apple TVとHomePod mini、発売間近",
       "summaryJa": "新型Apple TVとHomePod miniが「発売間近」との報道があり、Appleは今秋にリリースを計画している模様です。これらのデバイスは、Siri AIをサポートする高速プロセッサを搭載し、Apple TVにはA17 Proチップが搭載されるとのことです。また、HomePod miniにはS9チップが使用される見込みで、音質の向上や新色の追加も期待されています。デザインに大きな変更はないとされています。"
-    },
-    {
-      "id": "429073832a6a576ef064",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp Web rolls out audio and video calling, with call transfer support",
-      "url": "https://9to5mac.com/2026/07/28/whatsapp-web-rolls-out-audio-and-video-calling-with-call-transfer-support/",
-      "publishedAt": "2026-07-28T14:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/whatsapp-web-calls.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp Webに音声・ビデオ通話機能追加",
-      "summaryJa": "WhatsAppがWeb版に音声およびビデオ通話機能を追加し、ユーザーは個別およびグループ通話を行えるようになりました。これにより、デバイス間での通話転送や待機室機能も利用可能になり、よりスムーズな通話体験が提供されます。WhatsAppは、通話品質向上のためにQuickHD機能も改善しており、初めての数秒間で高画質のビデオを楽しめるようになっています。"
-    },
-    {
-      "id": "7b6d9b7e100a12606c42",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Granola meeting notepad comes to watchOS as Apple Watch becomes an AI device",
-      "url": "https://9to5mac.com/2026/07/28/granola-meeting-notepad-comes-to-watchos-as-apple-watch-becomes-an-ai-device/",
-      "publishedAt": "2026-07-28T14:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Granola-Apple-Watch.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch向けのAIノートアプリ「Granola」登場",
-      "summaryJa": "AI搭載の会議ノートアプリ「Granola」がApple Watchに対応しました。このアプリは、コンピュータから離れた会話の記録を目的としており、簡単なタップでノートを開始できます。Granolaは、ZoomやGoogle Meetなどの音声をキャプチャし、ユーザーが入力した内容と統合してノートを作成します。Apple Watchの登場により、ユーザーはより手軽にノートを取ることができ、AI機能の活用が進んでいます。"
     }
   ],
-  "updatedAt": "2026-08-08T02:12:21.098Z",
+  "updatedAt": "2026-08-08T03:44:39.505Z",
   "initialized": true,
   "summaryVersion": 4
 }
