@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "7b34c5d56e51814248d2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Score the A16 iPad for Its Best Price Since June's Hike",
+      "url": "https://www.macrumors.com/2026/08/08/score-the-a16-ipad/",
+      "publishedAt": "2026-08-08T13:56:59.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/10/ipad-blue-prime-day.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "米Amazon、第11世代iPadのWi-Fiモデルが50ドル引きに",
+      "summaryJa": "米Amazonにて、Appleの第11世代iPadのWi-Fiモデル各種が50ドル引きとなるセールが週末限定で実施されています。128GBモデルが399ドル、256GBモデルが499ドル、512GBモデルが699ドルとなっており、6月の価格改定以降では最安値水準を記録しています。プライム会員向けには一部地域での当日配送も用意されており、お得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "bd99cfc28f62b9b41845",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work: What IDC’s latest shipments mean for the MacBook Neo and Air in the enterprise",
+      "url": "https://9to5mac.com/2026/08/08/apple-work-what-idcs-latest-shipments-mean-for-the-macbook-neo-and-air-in-the-enterprise/",
+      "publishedAt": "2026-08-08T13:36:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "IDCの最新出荷台数データから見るMacBookの法人需要",
+      "summaryJa": "IDCが発表した最新のPC出荷台数データによると、業界全体の出荷台数は減少傾向にある一方で、価格上昇に伴いメーカーの売上高は増加しています。AIデータセンターによる部品不足などの経済サイクルが影響する中、Appleは主要なPCメーカーの中で唯一、出荷台数の成長を記録している企業として注目を集めています。法人市場におけるApple製品の展開動向や、MacBookシリーズの企業向け導入の背景について考察されています。"
+    },
+    {
       "id": "283c021b6c5a9ce76d98",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "MacBook AirやProが大幅値下げ中",
       "summaryJa": "現在、24GBのM5 MacBook Airが200ドル引き、M5 Pro MacBook Proが500ドル引きで販売されています。さらに、AirPods Pro 3やAirPods Max 2も割引中で、特にM5 MacBook Airの値下げは最近では珍しいとされています。これらのセールは、Apple製品をお得に手に入れる良い機会となっています。"
-    },
-    {
-      "id": "87149115bbf10e34a882",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "5 Reasons to Buy a MacBook Air Now Instead of Waiting",
-      "url": "https://www.macrumors.com/2026/07/28/5-reasons-buy-macbook-air-now-no-waiting/",
-      "publishedAt": "2026-07-28T14:53:31.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/m5-macbook-air-orange.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "今買うべきMacBook Airの理由",
-      "summaryJa": "Appleの次期MacBook Airは数ヶ月先ですが、今が購入の良いタイミングかもしれません。現行モデルは価格が$1,299から$1,199に下がり、16GBのRAMを搭載しているため、コストパフォーマンスが非常に高いです。また、部品不足の影響で価格が上昇する可能性があるため、今のうちに購入することで次回の値上げを回避できるかもしれません。次期モデルは来年初めの発売が予想されていますが、大きな変更はない見込みです。"
-    },
-    {
-      "id": "4ec291fe528997aee042",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "'Apple Upgrade' Pricing: You Can Lease an iPhone Starting at $18/Month",
-      "url": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-pricing/",
-      "publishedAt": "2026-07-28T14:41:02.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apple-Upgrade-iPhone.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Upgradeプログラムが開始",
-      "summaryJa": "Appleが新たに「Apple Upgrade」プログラムを発表し、アメリカでiPhoneやApple Watch、iPad、Macのリースが可能になりました。このプログラムでは、月々の支払いでデバイスを利用でき、リース終了後には新しいデバイスにアップグレードするか、所有権を得ることができます。iPhoneは月$17.99からリース可能で、Apple WatchやiPad、Macのリース料金も設定されています。対象外のデバイスもあるため、詳細はAppleの公式サイトで確認できます。"
     }
   ],
-  "updatedAt": "2026-08-08T13:08:49.050Z",
+  "updatedAt": "2026-08-08T13:57:41.580Z",
   "initialized": true,
   "summaryVersion": 4
 }
