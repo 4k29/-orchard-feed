@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "283c021b6c5a9ce76d98",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Top Stories: Apple's September Announcements, MacBook Air Shortages, and More",
+      "url": "https://www.macrumors.com/2026/08/08/top-stories-apple-september-announcements/",
+      "publishedAt": "2026-08-08T13:00:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/top-stories-2026-08-08.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleの9月イベント動向やiPhone 18 Proの価格高騰の可能性",
+      "summaryJa": "Appleが9月に開催を予定している新製品発表会に向け、今年は分割での発売スケジュールになると報じられています。アナリストによると、メモリー不足などの影響によりiPhone 18 ProおよびPro Maxは価格が250ドルから300ドルほど高騰する可能性があるとされています。また、継続するメモリー不足によりMacBook Airでも供給不足が発生しているほか、iCloudプライベートリレーの重大な問題なども伝えられています。"
+    },
+    {
+      "id": "5326d4d2a124f90a4e0a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple weekend deals: AirPods Pro 3 25% off, MacBook Neo, Apple gift cards, iPhone Air, Apple TV, more",
+      "url": "https://9to5mac.com/2026/08/08/apple-weekend-deals-airpods-pro-3-discounts/",
+      "publishedAt": "2026-08-08T12:19:38.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Weekend-Apple-deals-best-Apple-discounts.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPods Pro 3などが対象となった週末のApple製品セール",
+      "summaryJa": "週末のセール情報として、AirPods Pro 3が25%オフで販売されるほか、AirPods Maxの大幅割引やApple認定整備済製品の注目すべきオファーが登場しています。さらに、M5搭載のMacBook ProやMacBook Air、Apple Watch Ultra 3、さらに未開封のSIMフリー版iPhone Airなども値引きの対象となっています。これから控える新製品の発売に向け、Appleギフトカードの割引なども含まれており、各種デバイスをお得に購入できる機会となっています。"
+    },
+    {
       "id": "d8f27c3969cc11853528",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "Apple Upgradeプログラムが開始",
       "summaryJa": "Appleが新たに「Apple Upgrade」プログラムを発表し、アメリカでiPhoneやApple Watch、iPad、Macのリースが可能になりました。このプログラムでは、月々の支払いでデバイスを利用でき、リース終了後には新しいデバイスにアップグレードするか、所有権を得ることができます。iPhoneは月$17.99からリース可能で、Apple WatchやiPad、Macのリース料金も設定されています。対象外のデバイスもあるため、詳細はAppleの公式サイトで確認できます。"
-    },
-    {
-      "id": "00913f5d0b5bce20bd7a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27’s Siri gets one thing very right that other AI assistants get wrong",
-      "url": "https://9to5mac.com/2026/07/28/ios-27s-siri-gets-one-thing-very-right-that-other-ai-assistants-get-wrong/",
-      "publishedAt": "2026-07-28T14:24:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27のSiriが進化",
-      "summaryJa": "iOS 27でのSiriは大幅なアップグレードが施され、他のAIアシスタントとは異なる点が際立っています。新しいSiriは人間のように振る舞わず、ツールとしての役割を明確にしています。これにより、ユーザーはSiriがAIであることを常に意識しながら利用でき、より実用的なアシスタントとして機能しています。競合のAIツールに比べて、Siriは過剰な人間らしさを排除し、シンプルで効果的な応答を提供しています。"
-    },
-    {
-      "id": "61340fd9f7f6c9a0012d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Best Back to School Accessory Deals on Anker, Sony, Samsung and More This Week",
-      "url": "https://www.macrumors.com/2026/07/28/sonos-sony-anker-more-school-deals/",
-      "publishedAt": "2026-07-28T14:21:52.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/samsung-sony-amazon-sale.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Amazonでのアクセサリーセール情報",
-      "summaryJa": "今週、Amazonで大規模なアクセサリーセールが開催されており、AnkerやSony、Samsungなどの製品が特価で販売されています。特に、SonosのヘッドフォンやSonyのノイズキャンセリングヘッドフォンが大幅に値下げされています。また、Samsungのスマートモニターやテレビもお得な価格で提供されており、特に55インチのThe Frame TVが新記録の低価格で販売されています。多様なアクセサリーがセール対象となっているため、チェックする価値があります。"
     }
   ],
-  "updatedAt": "2026-08-08T12:03:03.488Z",
+  "updatedAt": "2026-08-08T13:08:49.050Z",
   "initialized": true,
   "summaryVersion": 4
 }
