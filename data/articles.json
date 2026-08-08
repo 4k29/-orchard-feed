@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "635c41cdf2ed729b7f55",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s why Apple is skipping its M6 Pro and M6 Max chips to accelerate M7 launch",
+      "url": "https://9to5mac.com/2026/08/08/apple-m7-chip-heres-why-it-matters-ai/",
+      "publishedAt": "2026-08-08T14:21:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/09/Apple-Silicon-chips.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、M6チップの一部をスキップしM7の開発を加速か",
+      "summaryJa": "ブルームバーグの報道によると、AppleはM7チップの開発を急ぐため、M6のPro、Max、Ultraチップをスキップし、ベースモデルのM6のみをリリースする計画だと伝えられています。AI処理性能の大幅な向上を狙うもので、M7ファミリーはNvidiaのBlackwellクラスの専用AIアクセラレータに迫る性能を目指しているとのことです。新しいプロセッサは早ければ2027年春にも登場する可能性があります。"
+    },
+    {
       "id": "7b34c5d56e51814248d2",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "iPhone 18 Pro、人気のアップグレード候補に",
       "summaryJa": "iPhone 18 Proが近く登場し、多くのユーザーにとって魅力的なアップグレード選択肢となる可能性があります。新デザイン、優れたバッテリー寿命、カメラの進化が期待されており、特にiOS 27のAI機能が新たな魅力を加えるとされています。また、Appleは新しいiPhoneのラインナップを縮小し、購入のハードルを下げる方針です。"
-    },
-    {
-      "id": "2150e2403f15e2e15ed9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: 24GB M5 MacBook Air $200 off, MacBook Pro $500 off, AirTag 2, AirPods, Beats cable $18, more",
-      "url": "https://9to5mac.com/2026/07/28/deals-macbook-air-airtag-2-airpods-beats-cable/",
-      "publishedAt": "2026-07-28T15:26:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-deals-MacBook-Air-iPhone-17-Pro-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "MacBook AirやProが大幅値下げ中",
-      "summaryJa": "現在、24GBのM5 MacBook Airが200ドル引き、M5 Pro MacBook Proが500ドル引きで販売されています。さらに、AirPods Pro 3やAirPods Max 2も割引中で、特にM5 MacBook Airの値下げは最近では珍しいとされています。これらのセールは、Apple製品をお得に手に入れる良い機会となっています。"
     }
   ],
-  "updatedAt": "2026-08-08T14:42:33.978Z",
+  "updatedAt": "2026-08-08T15:12:20.357Z",
   "initialized": true,
   "summaryVersion": 4
 }
