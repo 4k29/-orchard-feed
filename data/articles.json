@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "44c81689126a128bf8b2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27: The easiest beta to forget about",
+      "url": "https://9to5mac.com/2026/08/08/ios-27-the-easiest-beta-to-forget-about/",
+      "publishedAt": "2026-08-08T21:23:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-light-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "高い安定性を実現したiOS 27ベータ版",
+      "summaryJa": "現在テスト中のiOS 27ベータ版は、過去のバージョンと比較して非常に優れた安定性を発揮していると報じられています。バッテリーの急激な消耗や発熱、予期せぬクラッシュなどの問題がほとんど発生せず、SiriのAI機能やAirPodsのEQ機能などの新機能が快適に利用できると高く評価されています。"
+    },
+    {
       "id": "ca7c79503e1d888a3869",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "Apple Upgrade、月額プランの詳細発表",
       "summaryJa": "Appleは新しいリースプログラム「Apple Upgrade」を発表し、iPhoneやMac、iPad、Apple Watchの月額料金を公開しました。例えば、iPhone 17 Proは月額31.99ドルから利用可能で、他の製品も様々なプランが用意されています。このプログラムは、低コストでApple製品を手に入れる手段として注目されています。"
-    },
-    {
-      "id": "59406fbcbde37a7ccb3a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Announces 'Silo' Season 4 is Coming Summer 2027",
-      "url": "https://www.macrumors.com/2026/07/28/apple-tv-silo-season-4-release-date/",
-      "publishedAt": "2026-07-28T17:15:18.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Apple-TV-Silo.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、SFドラマ「サイロ」シーズン4を発表",
-      "summaryJa": "Appleは人気SFシリーズ「サイロ」のシーズン4が2027年夏に放送されることを発表しました。このシリーズは、外の有毒な環境から逃れるために地下シェルターで生活する人々の物語を描いています。最終シーズンとなるこの作品に期待が寄せられています。"
     }
   ],
-  "updatedAt": "2026-08-08T21:48:07.388Z",
+  "updatedAt": "2026-08-08T22:16:11.754Z",
   "initialized": true,
   "summaryVersion": 4
 }
