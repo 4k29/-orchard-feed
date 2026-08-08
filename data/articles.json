@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "72ef71232386872ec8ad",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV welcomes back Ted Lasso with a clever new commercial",
+      "url": "https://9to5mac.com/2026/08/08/apple-tv-welcomes-back-ted-lasso-with-a-clever-new-commercial/",
+      "publishedAt": "2026-08-08T15:14:01.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-tv-ted-lasso-welcome-bacj.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、人気ドラマ「テッド・ラッソ」の新作CMを公開",
+      "summaryJa": "Apple TVは、シーズン4の配信開始に合わせて新たなコマーシャル映像を公開しました。今回のCMには、主人公のコーチ・ラッソが「セヴェランス」や「サイロ」など、プラットフォーム上の他の人気作品のシーンに登場するユニークな演出が取り入れられています。新シーズンの配信とともに、Apple TVの多彩なラインナップ全体の認知度を高める狙いがあります。"
+    },
+    {
       "id": "635c41cdf2ed729b7f55",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "新型Apple Home Hub、10月にも登場か",
       "summaryJa": "Appleが新しいスマートホームハブを10月から来年初めの間に発売する計画を立てていると報じられています。このデバイスは、HomePodのスピーカーと7インチのディスプレイを組み合わせたもので、Siri AIが中心機能となります。テーブル設置型と壁掛け型が用意され、顔認識機能やFaceTime、HomeKitの管理など多彩な機能を搭載する見込みです。"
-    },
-    {
-      "id": "9bf2239ccbb2c4ba6f59",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro could be a no-brainer upgrade for lots of users",
-      "url": "https://9to5mac.com/2026/07/28/iphone-18-pro-could-be-a-no-brainer-upgrade-for-lots-of-users/",
-      "publishedAt": "2026-07-28T15:58:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Pro、人気のアップグレード候補に",
-      "summaryJa": "iPhone 18 Proが近く登場し、多くのユーザーにとって魅力的なアップグレード選択肢となる可能性があります。新デザイン、優れたバッテリー寿命、カメラの進化が期待されており、特にiOS 27のAI機能が新たな魅力を加えるとされています。また、Appleは新しいiPhoneのラインナップを縮小し、購入のハードルを下げる方針です。"
     }
   ],
-  "updatedAt": "2026-08-08T15:12:20.357Z",
+  "updatedAt": "2026-08-08T15:47:51.050Z",
   "initialized": true,
   "summaryVersion": 4
 }
