@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "477e41439535999823ce",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Ceramic Case Could Return With Apple Watch Series 12",
+      "url": "https://www.macrumors.com/2026/08/09/ceramic-could-return-with-apple-watch-series-12/",
+      "publishedAt": "2026-08-09T16:21:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2019/08/Apple-Watch-series-2-ceramic.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch、セラミックケースが復活か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者がニュースレター「Power On」で報じたところによると、AppleはApple Watch向けにセラミック製ケースのオプションを早ければ今年、遅くとも2027年にも再導入する計画であるという。セラミック素材はApple Watch Series 5を最後に2020年からラインナップから姿を消していたが、中古市場などでコレクターズアイテムとして根強い人気を誇っている。また、今後のApple Watch Series 12やApple Watch Ultra 4では、内部プロセッサの性能向上など小規模なアップグレードが継続される見通しであるとも伝えられている。"
+    },
+    {
+      "id": "e3c30a4649a761e1d592",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Foldable 'iPhone Ultra 3' Rumored to Feature Larger Displays",
+      "url": "https://www.macrumors.com/2026/08/09/iphone-ultra-3-rumored-to-feature-larger-displays/",
+      "publishedAt": "2026-08-09T15:55:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみ式iPhone、第3世代で画面拡大か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者が報じたところによると、Appleは早ければ2028年の発売に向けて、第3世代となる折りたたみ式iPhoneの開発ロードマップを進めているという。第3世代モデルでは、先行するモデルに比べて内側および外側のディスプレイがわずかに大型化される見込みである。最初の折りたたみ式モデルは今年中に登場すると噂されており、ウルトラ薄型デザインの採用やTouch IDの搭載などが報じられているが、早くも将来の世代に向けた計画が動き出している。"
+    },
+    {
       "id": "df3dcf648b59252ba1e4",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "Apple、iOS 27の制限モードについて説明",
       "summaryJa": "Appleは、iOS 27で開発中の「制限モード」が新しいリースプログラムの未払いに関連しないことを明らかにしました。この制限モードは、契約が不履行になった際に特定のアプリの起動を制限する機能を持つとされていますが、詳細は不明です。新しいシステムは、認可されたファイナンスプロバイダーのアプリがデバイスを管理するためのもので、特定のアプリのみが利用可能になる仕組みです。"
-    },
-    {
-      "id": "0e79896cf3988ba10f6b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "'Granola' Launches on Apple Watch",
-      "url": "https://www.macrumors.com/2026/07/28/granola-launches-on-apple-watch/",
-      "publishedAt": "2026-07-28T20:07:18.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Granola-Apple-Watch.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch向けアプリ「Granola」が登場",
-      "summaryJa": "「Granola」というアプリがApple Watchに対応しました。このアプリはZoomミーティングを文字起こしし、AIが生成した要点をまとめる機能を持っています。iOSやiPadOS、macOSでも利用可能でしたが、Apple Watchでの利用により、手首から簡単にミーティングの文字起こしを開始できるようになりました。"
-    },
-    {
-      "id": "6f11961b4f0d884b5703",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Twelve South debuts smaller Valet tray with 25W MagSafe charging",
-      "url": "https://9to5mac.com/2026/07/28/twelve-south-debuts-smaller-valet-tray-with-25w-magsafe-charging/",
-      "publishedAt": "2026-07-28T19:49:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/TS_Valet_4.25in_TaupeEcru_LS2_WebRes.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Twelve South、25W MagSafe充電の新型Valetを発表",
-      "summaryJa": "Twelve Southが新たに小型のValetトレイを発表しました。このトレイは、MagSafeおよびQi2.2による最大25Wのワイヤレス充電に対応しており、サイズは4.25インチとコンパクトです。デザインは高級感があり、レザー製のトレイと重みのある亜鉛合金ベースが特徴です。価格は129.99ドルで、現在3色のバリエーションが販売されています。"
     }
   ],
-  "updatedAt": "2026-08-09T15:54:42.246Z",
+  "updatedAt": "2026-08-09T16:35:50.932Z",
   "initialized": true,
   "summaryVersion": 4
 }
