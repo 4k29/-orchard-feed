@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "f3d2b2b98cd0aef5b1b2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Foldable 'iPhone Ultra' Rumored to Come in These Two Colors",
+      "url": "https://www.macrumors.com/2026/08/09/iphone-ultra-rumored-to-come-in-these-two-colors/",
+      "publishedAt": "2026-08-09T11:53:44.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみ式iPhone Ultraのカラーはシルバーとダークブルーか",
+      "summaryJa": "リークされたサードパーティ製カメラ保護アクセサリーから、Apple初の折りたたみ式iPhoneであるiPhone Ultraにはシルバーとダークブルーの2色が用意されると報じられています。これまでのサプライチェーンからの情報とも一致しており、背面には2つのレンズやLiDARスキャナを搭載したデザインが採用される見込みです。"
+    },
+    {
       "id": "202e1e23507be2330c01",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "ティム・クック氏とジョン・ターナス氏がCEO交代について語る",
       "summaryJa": "Appleの現CEOティム・クック氏と次期CEOジョン・ターナス氏が、CEO交代やApple TVについてのインタビューを受けました。クック氏は15年間のCEOとしての経験に感謝し、ターナス氏がこの役割に最適であると述べました。ターナス氏はAppleで25年のキャリアを持ち、この機会に興奮していると語りました。彼は9月1日にCEOに就任予定で、Apple TVのコンテンツについても期待を寄せています。"
-    },
-    {
-      "id": "3bf187aa592c1238ae13",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Shares 'Ted Lasso' Season 4 Trailer",
-      "url": "https://www.macrumors.com/2026/07/28/ted-lasso-season-four-trailer/",
-      "publishedAt": "2026-07-28T17:20:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Ted-Lasso-16x9.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、ドラマ「テッド・ラッソ」シーズン4予告公開",
-      "summaryJa": "Appleは人気シリーズ「テッド・ラッソ」のシーズン4のフル予告を公開しました。シーズン4は8月5日に初回放送され、その後は毎週水曜日に新エピソードが配信されます。テッド・ラッソは、カンザス出身のサッカーコーチがイギリスの女子サッカーチームを指導するストーリーで、ファンに愛されるキャラクターたちが再登場します。"
     }
   ],
-  "updatedAt": "2026-08-09T11:38:43.616Z",
+  "updatedAt": "2026-08-09T12:03:46.219Z",
   "initialized": true,
   "summaryVersion": 4
 }
