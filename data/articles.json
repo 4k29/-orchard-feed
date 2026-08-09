@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "202e1e23507be2330c01",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New leak may reveal the iPhone Ultra’s two launch colors",
+      "url": "https://9to5mac.com/2026/08/08/iphone-ultra-colors-leak-rumor/",
+      "publishedAt": "2026-08-09T00:41:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.02.22.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "折りたたみiPhone Ultraの本体色はシルバーとダークブルーか",
+      "summaryJa": "次期折りたたみ式iPhoneと噂されるモデルの本体カラーについて、新たなリーク情報が報じられています。サプライチェーンの情報を元にしたアクセサリーパーツから、シルバーと非常に濃いダークブルーの2色展開になる可能性があると伝えられています。正式な発表に向けて、今後の動向に引き続き注目が集まっています。"
+    },
+    {
       "id": "44c81689126a128bf8b2",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "Apple、ドラマ「テッド・ラッソ」シーズン4予告公開",
       "summaryJa": "Appleは人気シリーズ「テッド・ラッソ」のシーズン4のフル予告を公開しました。シーズン4は8月5日に初回放送され、その後は毎週水曜日に新エピソードが配信されます。テッド・ラッソは、カンザス出身のサッカーコーチがイギリスの女子サッカーチームを指導するストーリーで、ファンに愛されるキャラクターたちが再登場します。"
-    },
-    {
-      "id": "30cccc0df552d4946c5b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: July 28, 2026 – Apple Upgrade is here",
-      "url": "https://9to5mac.com/2026/07/28/daily-july-28-2026/",
-      "publishedAt": "2026-07-28T17:17:58.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Upgrade、月額プランの詳細発表",
-      "summaryJa": "Appleは新しいリースプログラム「Apple Upgrade」を発表し、iPhoneやMac、iPad、Apple Watchの月額料金を公開しました。例えば、iPhone 17 Proは月額31.99ドルから利用可能で、他の製品も様々なプランが用意されています。このプログラムは、低コストでApple製品を手に入れる手段として注目されています。"
     }
   ],
-  "updatedAt": "2026-08-08T23:58:03.045Z",
+  "updatedAt": "2026-08-09T02:23:23.353Z",
   "initialized": true,
   "summaryVersion": 4
 }
