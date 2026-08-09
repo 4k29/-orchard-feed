@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "df3dcf648b59252ba1e4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Rethink Could See Debut of Round Model, Screenless Fitness Tracker, and More",
+      "url": "https://www.macrumors.com/2026/08/09/apple-watch-rethink/",
+      "publishedAt": "2026-08-09T15:37:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/06/Apple-Watch-Ultra-2-Complications.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watchの大規模な刷新を計画か、丸形モデルや画面非搭載トラッカーなどの可能性",
+      "summaryJa": "Appleは競争の激化に対応するため、Apple Watchの製品ラインナップの大幅な再設計を検討していると報じられています。丸形ディスプレイを採用したモデルや、スマートリングのように画面を搭載しないフィットネストラッカーなど、複数の新しいデザイン案が浮上しています。また、AI機能の強化やヘルスケアアプリの刷新も視野に入れ、ウェアラブル事業全体の再活性化を図る方針です。"
+    },
+    {
       "id": "103a43e4a8a4fd8822d8",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "Twelve South、25W MagSafe充電の新型Valetを発表",
       "summaryJa": "Twelve Southが新たに小型のValetトレイを発表しました。このトレイは、MagSafeおよびQi2.2による最大25Wのワイヤレス充電に対応しており、サイズは4.25インチとコンパクトです。デザインは高級感があり、レザー製のトレイと重みのある亜鉛合金ベースが特徴です。価格は129.99ドルで、現在3色のバリエーションが販売されています。"
-    },
-    {
-      "id": "054cc929f2094c196d00",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AppleCare+ Changes Introduced in Canada",
-      "url": "https://www.macrumors.com/2026/07/28/applecare-changes-in-canada/",
-      "publishedAt": "2026-07-28T19:33:24.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/AppleCare-Bright-Red.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "カナダでAppleCare+の変更が導入",
-      "summaryJa": "カナダにおいて、AppleCare+の月額および年額サブスクリプションオプションが、iPhoneやiPad、Macなどの幅広いApple製品に対応しました。ただし、従来の一括払いプランと比較して、長期的にはコストが高くなる可能性があるため注意が必要です。"
     }
   ],
-  "updatedAt": "2026-08-09T15:20:10.973Z",
+  "updatedAt": "2026-08-09T15:54:42.246Z",
   "initialized": true,
   "summaryVersion": 4
 }
