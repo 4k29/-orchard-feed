@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "a15012fbb31b320c5b5a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "HomeKit Weekly: Why the Eve Weather sensor is a must-have for Apple Home automations in 2026",
+      "url": "https://9to5mac.com/2026/08/09/why-the-eve-weather-sensor-is-a-must-have-for-apple-home-automations-in-2026/",
+      "publishedAt": "2026-08-09T18:26:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/07/Eve-Weather-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Homeの自動化に「Eve Weather」センサーが欠かせない理由",
+      "summaryJa": "Apple Homeのオートメーションにおいて、現地の正確な気象データは非常に重要な役割を果たします。Matterに対応したEve Weatherセンサーは、温度や湿度、気圧を1台で測定可能であり、プライバシーを重視するローカル制御に対応しています。公式アプリの天気予報とは異なる地域固有の数値を取得できるため、配管の凍結防止や散水システムの調整などに大変役立つと紹介されています。"
+    },
+    {
+      "id": "9f82d0fc497b1703c326",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Will price hikes force Apple to stop dragging its feet on certain product upgrades?",
+      "url": "https://9to5mac.com/2026/08/09/apple-price-hikes-better-value-and-more-features/",
+      "publishedAt": "2026-08-09T18:26:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-devices-lineup-liquid-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "世界的なメモリ危機による値上げでApple製品の進化が促されるか",
+      "summaryJa": "世界的なメモリ不足の影響を受け、今夏よりiPad AirやM5搭載MacBook ProなどのApple製品で大幅な価格引き上げが行われました。これにより、過去の仕様を据え置いたまま高価格化が進んだ製品群に対し、より魅力的な大型アップデートが求められるのではないかと指摘されています。中古市場との競合も踏まえ、今後は価格に見合った機能改善や低価格帯モデルでの新たなディスプレイ採用などの刷新が不可欠になる可能性があります。"
+    },
+    {
       "id": "477e41439535999823ce",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "Instapaperがバージョン10を公開",
       "summaryJa": "InstapaperがiPhoneとiPad向けにバージョン10をリリースしました。新機能としてLiquid Glassのサポートや4種類のフォント、ホーム画面ウィジェットが追加され、マルチタスク機能も改善されています。また、ウェブプラットフォームも大幅にリデザインされ、記事のダウンロード時間が短縮されるなど、ユーザー体験が向上しています。"
-    },
-    {
-      "id": "36f24150789c2241b3dc",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Upgrade: 20 Things to Know Before Leasing an iPhone, iPad, or Mac",
-      "url": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-tidbits/",
-      "publishedAt": "2026-07-28T20:19:52.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/apple-upgrade-program-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhoneなどの新しいリースプログラムを発表",
-      "summaryJa": "Appleは新たにApple Upgradeというリースプログラムを発表しました。これにより、iPhoneやiPad、Macを従来よりも安価に利用できるようになりますが、アメリカ国内のみの提供で、契約にはいくつかの条件があります。リース終了時に端末を所有するには最終支払いが必要で、未払いがあっても端末の機能には影響がないとのことです。"
-    },
-    {
-      "id": "d6a3c3ebdaf27a54a763",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple says iOS 27 ‘Restricted Mode’ isn’t for new Upgrade program leases",
-      "url": "https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/",
-      "publishedAt": "2026-07-28T20:08:13.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/restricted-locked-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iOS 27の制限モードについて説明",
-      "summaryJa": "Appleは、iOS 27で開発中の「制限モード」が新しいリースプログラムの未払いに関連しないことを明らかにしました。この制限モードは、契約が不履行になった際に特定のアプリの起動を制限する機能を持つとされていますが、詳細は不明です。新しいシステムは、認可されたファイナンスプロバイダーのアプリがデバイスを管理するためのもので、特定のアプリのみが利用可能になる仕組みです。"
     }
   ],
-  "updatedAt": "2026-08-09T17:54:27.470Z",
+  "updatedAt": "2026-08-09T18:40:33.671Z",
   "initialized": true,
   "summaryVersion": 4
 }
