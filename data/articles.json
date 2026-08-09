@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "103a43e4a8a4fd8822d8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "A new ceramic Apple Watch could go on sale soon",
+      "url": "https://9to5mac.com/2026/08/09/a-new-ceramic-apple-watch-could-go-on-sale-soon/",
+      "publishedAt": "2026-08-09T14:34:41.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/08/Ceramic.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "セラミック製Apple Watchが復活するか",
+      "summaryJa": "Appleが人気を集めたセラミック製のApple Watchを再投入する計画を進めていると報じられています。早ければ今年中にも発売される可能性があり、アルミニウムやチタニウムに続く高級素材の選択肢として復活するとみられています。セラミック素材は2019年のSeries 5を最後にラインナップから姿を消していました。"
+    },
+    {
+      "id": "a2f061e54f79e90257a4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple considers round screens and more radical designs for future Apple Watch revamp",
+      "url": "https://9to5mac.com/2026/08/09/apple-watch-revamp-redesign-round-screen/",
+      "publishedAt": "2026-08-09T14:20:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-lineup.jpg?quality=82&#038;strip=all&#038;w=1456",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "将来のApple Watchで丸型ディスプレイや根本的なデザイン刷新を検討か",
+      "summaryJa": "Appleが将来のApple Watchに向けて、丸型の円形ディスプレイや画面を持たないフィットネス機器など、根本的なデザインの刷新を検討していると報じられています。スマートリングなどの競合製品の台頭を受け、低価格帯から高価格帯まで幅広い可能性を模索している段階です。ただし、計画は初期段階であり、実際に市場に登場するにはまだ数年かかる見込みです。"
+    },
+    {
+      "id": "56df7b126264210433bf",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "This scrapped Apple Upgrade feature would’ve made setup much more seamless",
+      "url": "https://9to5mac.com/2026/08/09/this-scrapped-apple-upgrade-feature-wouldve-made-setup-much-more-seamless/",
+      "publishedAt": "2026-08-09T14:19:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhoneの初期設定を自動化する「Apple Upgrade」向けの未発売機能が存在したか",
+      "summaryJa": "Appleが以前、Apple Upgradeプログラム向けに、事前にiCloudバックアップからデータを移行した状態で新しいiPhoneを自宅に届ける機能を検討していたと報じられています。セットアップの手間を大幅に減らす狙いがありましたが、データの古さやプライバシー上の懸念から、最終的にこの機能が実装されることはありませんでした。"
+    },
+    {
       "id": "59860cfeb383555ec41f",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -12,9 +57,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Hands-on: This modular controller slides open to transform your iPhone into a mobile game console [Video]",
-      "summaryJa": "I first saw the Ohsnap MCON controller at CES last year, and I immediately fell in love with the concept. The idea was simple: give people a full-featured mobile controller that attaches to your phone via Magsafe, slides open when ready to use, and collapses into something compact that can go with you anywhere. Over the last two weeks, I have put it through its paces. I have tossed it around, pressed the launch mechanism 100s of times, used it with emulators, Apple Arcade games, and with multiple phones. Here is how it has held up, along with everything you need to know. I first saw the Ohsnap MCON controller at CES last year, and I immediately fell in love with the concept. The idea was simple: give people a full-featured mobile controller that attaches to your phone via Magsafe, slides o",
-      "translationStatus": "source"
+      "titleJa": "iPhoneを携帯ゲーム機に変える MagSafe対応モジュール式コントローラー",
+      "summaryJa": "OhsnapのMCONコントローラーは、MagSafeでiPhoneに装着し、スライドして展開することで本格的なゲームプレイを可能にするモジュール式の携帯コントローラーです。コンパクトに折りたためる設計ながら、フルサイズのジョイスティックやホールエフェクト式のアナログトリガーを備えています。Apple Arcadeのタイトルやエミュレーターでのテストでも良好なパフォーマンスを示し、Bluetooth 5.4接続や最大9時間のバッテリー駆動に対応しています。持ち運びに便利なサイズ感と実用的な機能を兼ね備え、モバイルゲーマーの選択肢を広げる注目のアクセサリーとなっています。"
     },
     {
       "id": "f3d2b2b98cd0aef5b1b2",
@@ -4459,54 +4503,9 @@
       ],
       "titleJa": "カナダでAppleCare+の変更が導入",
       "summaryJa": "カナダにおいて、AppleCare+の月額および年額サブスクリプションオプションが、iPhoneやiPad、Macなどの幅広いApple製品に対応しました。ただし、従来の一括払いプランと比較して、長期的にはコストが高くなる可能性があるため注意が必要です。"
-    },
-    {
-      "id": "d15909517b253fb2d0eb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s everything new for Apple Wallet in iOS 27",
-      "url": "https://9to5mac.com/2026/07/28/heres-everything-new-for-apple-wallet-in-ios-27/",
-      "publishedAt": "2026-07-28T18:58:29.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27でApple Walletに新機能追加",
-      "summaryJa": "iOS 27が今秋にリリース予定で、Apple Walletアプリに新機能が追加されます。新たに「パス作成」機能が導入され、物理的なパスをスキャンするか、手動で作成できます。また、Apple Cashを使った「割り勘」機能や、Apple Cardの定期取引を管理する新しいハブも追加されます。これにより、Walletアプリがより便利なツールとなることが期待されています。"
-    },
-    {
-      "id": "252ee139cc58a537796f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 includes smarter Find My location sharing for Apple Watch users",
-      "url": "https://9to5mac.com/2026/07/28/ios-27-smarter-find-my-location-sharing-apple-watch/",
-      "publishedAt": "2026-07-28T18:53:02.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/find-my-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27、Apple Watch向けFind My機能を強化",
-      "summaryJa": "iOS 27では、Find Myアプリの機能が強化され、Apple Watchユーザーがよりスマートに位置情報を共有できるようになります。これにより、iPhoneを持たずにApple Watchだけで散歩する際にも、Watchの位置情報が自動的に反映されるようになります。また、Apple Watch用のFind Myアプリも統合され、新しいユーザーインターフェースが導入されます。"
-    },
-    {
-      "id": "57d0f1e04727ce56fb42",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Man credits Apple Watch with saving his life after collapsing at home",
-      "url": "https://9to5mac.com/2026/07/28/man-credits-apple-watch-with-saving-his-life-after-collapsing-at-home/",
-      "publishedAt": "2026-07-28T18:49:59.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-watch-fall-detection.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watchが命を救った男性の体験",
-      "summaryJa": "オハイオ州シンシナティの男性が、Apple Watchの転倒検知機能によって命を救われたと報じられています。彼は数週間前に自宅の外で倒れ、Apple Watchが自動的に緊急サービスに連絡しました。医師によると、彼は肺に血栓が見つかり、迅速な対応がなければ危険な状況だった可能性があります。この機能はApple Watch Series 4以降で利用可能で、65歳未満の場合はデフォルトでオフになっていますが、設定でオンにすることができます。"
     }
   ],
-  "updatedAt": "2026-08-09T14:02:46.439Z",
+  "updatedAt": "2026-08-09T14:45:40.048Z",
   "initialized": true,
   "summaryVersion": 4
 }
