@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "59860cfeb383555ec41f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Hands-on: This modular controller slides open to transform your iPhone into a mobile game console [Video]",
+      "url": "https://9to5mac.com/2026/08/09/hands-on-this-modular-controller-slides-open-to-transform-your-iphone-into-a-mobile-game-console-video/",
+      "publishedAt": "2026-08-09T14:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/controller.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Hands-on: This modular controller slides open to transform your iPhone into a mobile game console [Video]",
+      "summaryJa": "I first saw the Ohsnap MCON controller at CES last year, and I immediately fell in love with the concept. The idea was simple: give people a full-featured mobile controller that attaches to your phone via Magsafe, slides open when ready to use, and collapses into something compact that can go with you anywhere. Over the last two weeks, I have put it through its paces. I have tossed it around, pressed the launch mechanism 100s of times, used it with emulators, Apple Arcade games, and with multiple phones. Here is how it has held up, along with everything you need to know. I first saw the Ohsnap MCON controller at CES last year, and I immediately fell in love with the concept. The idea was simple: give people a full-featured mobile controller that attaches to your phone via Magsafe, slides o",
+      "translationStatus": "source"
+    },
+    {
       "id": "f3d2b2b98cd0aef5b1b2",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4488,24 +4504,9 @@
       ],
       "titleJa": "Apple Watchが命を救った男性の体験",
       "summaryJa": "オハイオ州シンシナティの男性が、Apple Watchの転倒検知機能によって命を救われたと報じられています。彼は数週間前に自宅の外で倒れ、Apple Watchが自動的に緊急サービスに連絡しました。医師によると、彼は肺に血栓が見つかり、迅速な対応がなければ危険な状況だった可能性があります。この機能はApple Watch Series 4以降で利用可能で、65歳未満の場合はデフォルトでオフになっていますが、設定でオンにすることができます。"
-    },
-    {
-      "id": "e38013ad17425cc04066",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Tim Cook, John Ternus talk Apple CEO transition and more in new interview",
-      "url": "https://9to5mac.com/2026/07/28/tim-cook-john-ternus-talk-apple-ceo-transition-and-more-in-new-interview/",
-      "publishedAt": "2026-07-28T18:38:49.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/tim-cook-john-ternus.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ティム・クック氏とジョン・ターナス氏がCEO交代について語る",
-      "summaryJa": "Appleの現CEOティム・クック氏と次期CEOジョン・ターナス氏が、CEO交代やApple TVについてのインタビューを受けました。クック氏は15年間のCEOとしての経験に感謝し、ターナス氏がこの役割に最適であると述べました。ターナス氏はAppleで25年のキャリアを持ち、この機会に興奮していると語りました。彼は9月1日にCEOに就任予定で、Apple TVのコンテンツについても期待を寄せています。"
     }
   ],
-  "updatedAt": "2026-08-09T13:11:49.747Z",
+  "updatedAt": "2026-08-09T14:02:46.439Z",
   "initialized": true,
   "summaryVersion": 4
 }
