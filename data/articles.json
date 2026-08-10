@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "49253163f3b8dcc24af3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple is working on a way to authenticate that a photo came from an iPhone camera",
+      "url": "https://9to5mac.com/2026/08/10/apple-is-working-on-a-way-to-authenticate-that-a-photo-came-from-an-iphone-camera/",
+      "publishedAt": "2026-08-10T19:49:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPhoneの写真真贋を証明する新機能を開発中か",
+      "summaryJa": "iOS 27ベータ5のコードから、iPhoneのカメラで撮影された写真のソースを認証する新しい仕組み「Apple Reference Image」の開発が進んでいることが明らかになりました。生成AIによる偽画像が問題となる中、プライバシーに配慮したPrivate Cloud Computeを活用して元の写真データにアクセスすることなく検証を行う設計となっています。"
+    },
+    {
+      "id": "f0e8eba51300ba95afd5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 Beta 5 Brings New Icons for Siri, Safari, Settings and More",
+      "url": "https://www.macrumors.com/2026/08/10/ios-27-beta-5-icons/",
+      "publishedAt": "2026-08-10T19:18:50.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/ios-27-b5-icons.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27ベータ5、SiriやSafariなどのアイコンを刷新",
+      "summaryJa": "Appleは「iOS 27」のベータ5において、SafariやSiri、設定などのアプリデザインにさらなる微調整を加えています。リキッドグラスの美学に合わせたレイヤー感のあるデザインを採用し、半透明効果や詳細な描写へとアップデートされました。正式リリースは約1ヶ月後に迫っており、今後のベータ版でのさらなるアイコン刷新の可能性も示唆されています。"
+    },
+    {
       "id": "163469365267c784b504",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "Apple、南欧の森林火災支援を表明",
       "summaryJa": "Appleのティム・クックCEOが、南欧の森林火災の被害者を支援するために寄付を行うと発表しました。ポルトガル、スペイン、フランスでの火災により30万人以上が避難を余儀なくされており、Appleは災害時に支援を行うことが多いです。クック氏は、被害を受けた人々への思いを述べ、現地の救助活動に感謝の意を示しました。"
-    },
-    {
-      "id": "291f12e56089dc1be6e6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "20th Anniversary iPhone Coming Next Year With These 10 Features",
-      "url": "https://www.macrumors.com/2026/07/29/20th-anniversary-iphone-10-features/",
-      "publishedAt": "2026-07-30T01:00:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "20周年記念iPhone、2027年秋に登場か",
-      "summaryJa": "Appleの20周年記念iPhoneが2027年秋に登場する見込みで、iPhone X以来の大幅なデザイン変更が予想されています。初代iPhoneの発表から20年が経つ2027年6月29日が記念日ですが、例年通り秋に発売される可能性が高いです。新しいデザインやディスプレイ技術の導入が噂されており、今後のiPhoneのデザイン方向性を決定づけるモデルになると考えられています。"
-    },
-    {
-      "id": "2b1fd6de0f3c1a3e38af",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple faces bipartisan Senate pushback over plans to buy Chinese memory chips",
-      "url": "https://9to5mac.com/2026/07/29/apple-faces-bipartisan-senate-pushback-over-plans-to-buy-chinese-memory-chips/",
-      "publishedAt": "2026-07-30T00:41:49.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Mac-hardware-is-great-but-macOS-26-is-a-disaster-say-pundits.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、中国製メモリーチップ購入計画に反発",
-      "summaryJa": "アメリカの上院議員がAppleのティム・クックCEOに対し、中国のCXMTおよびYMTCからのメモリーチップ購入を8月21日までに中止するよう求めています。Appleはメモリ不足を解消するためにこれらの企業からの調達を模索していましたが、ペンタゴンによって軍事企業と見なされているため、政治的な影響を懸念しています。過去にもAppleはYMTCからの調達を試みたことがあります。"
     }
   ],
-  "updatedAt": "2026-08-10T19:12:08.368Z",
+  "updatedAt": "2026-08-10T20:04:35.887Z",
   "initialized": true,
   "summaryVersion": 4
 }
