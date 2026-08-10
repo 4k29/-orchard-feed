@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "a3075d9020e11e0758d6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple settles lawsuit over alleged discrimination against Jewish employee",
+      "url": "https://9to5mac.com/2026/08/10/apple-settles-lawsuit-over-alleged-discrimination-against-jewish-employee/",
+      "publishedAt": "2026-08-10T23:00:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/apple-logo-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、宗教的差別を巡る訴訟で和解金支払いへ",
+      "summaryJa": "米雇用機会均等委員会が昨年起こした宗教的差別に関する訴訟において、Appleが15万ドルを支払って和解することに合意しました。裁判所の書類によるとApple側は不正を否定しているものの、退職した元従業員に対して未払い賃金や損害賠償などを支払う内容となっています。"
+    },
+    {
       "id": "764da70b5eb1a653f2b1",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "Apple、Q3決算発表へ",
       "summaryJa": "Appleは本日、6月末で終了した2023年度第3四半期の決算を発表します。アナリストとのQ&Aも行われ、特に新しいApple Upgradeプログラムの影響についての見通しが注目されています。市場では、売上高が前年同期比で約15.64%増加するとの予想があり、Appleがこの期待を上回るかどうかが焦点です。また、ティム・クックCEOによる最後の決算発表となります。"
-    },
-    {
-      "id": "74f9754fe92ab886312a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event?",
-      "url": "https://www.macrumors.com/2026/07/30/when-will-apple-announce-iphone-18-pro-event/",
-      "publishedAt": "2026-07-30T11:59:18.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 ProとUltra、発表イベントはいつ？",
-      "summaryJa": "Appleの年次iPhoneイベントが近づいており、9月にiPhone 18 Pro、iPhone 18 Pro Max、折りたたみ式のiPhone Ultraが発表される見込みです。通常、Appleはイベントの2週間前に発表するため、8月25日または26日が有力とされています。過去のイベント日程を振り返ると、iPhoneの発表は例年9月に行われており、特に2020年以降は事前録画された動画が使用されています。"
     }
   ],
-  "updatedAt": "2026-08-10T22:32:15.031Z",
+  "updatedAt": "2026-08-10T23:10:05.211Z",
   "initialized": true,
   "summaryVersion": 4
 }
