@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "38357202e039ec49298c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Briefly Posts China Guide for Connecting Siri to Qwen AI",
+      "url": "https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/",
+      "publishedAt": "2026-08-10T12:21:13.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/09/apple-intelligence-black.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、中国でのSiriとQwen AI連携ガイドを一時公開",
+      "summaryJa": "Appleは中国のサポートサイトにおいて、Macユーザーがアリババの生成AI「Qwen」をSiriやライティングツールに接続する方法を説明するガイドを一時的に公開しました。この文書は公開から1日足らずで削除され、規制当局の承認プロセスに伴う調整段階にあるのではないかと報じられています。中国国内でのAI機能展開に向けた慎重な動向が注目されています。"
+    },
+    {
+      "id": "e3e5ffebb82d7e93467e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "A round Apple Watch is possible, but an Apple Ring more likely",
+      "url": "https://9to5mac.com/2026/08/10/a-round-apple-watch-is-possible-but-an-apple-ring-more-likely/",
+      "publishedAt": "2026-08-10T12:09:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/A-round-Apple-Watch-is-possible-but-an-Apple-Ring-more-likely.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "将来のApple Watchに丸型モデルが登場するか",
+      "summaryJa": "Appleが将来のApple Watchに向けて、従来の四角形ではなく円形のフォームファクターを検討している可能性が報じられています。スマートウォッチの多くは円形を採用しており、デザイン性を重視するユーザーからの需要が存在します。ただし情報量の多さでは長方形が有利であり、スマートリングの登場も含めて今後の製品展開に関心が集まっています。"
+    },
+    {
+      "id": "297aaaa60521f1791301",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Testing Chinese Memory Chips in iPhones and MacBooks",
+      "url": "https://www.macrumors.com/2026/08/10/apple-testing-chinese-memory-iphones-macs/",
+      "publishedAt": "2026-08-10T12:02:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2020/10/Apple-Silicon-Teal-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、中国CXMT製メモリチップのテストを実施か",
+      "summaryJa": "Appleが中国の長新記憶技術（CXMT）製メモリチップをiPhoneやMacBookなどの製品ラインでテストしていると報じられています。中国市場向けの供給に向けた初期段階の協議を行っているものの、米国による規制や議員からの懸念などが障壁となる可能性があります。最適なパフォーマンスを引き出すための技術的課題もあり、今後の動向が注目されます。"
+    },
+    {
       "id": "bdfe4d1296acb42b452b",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4458,54 +4503,9 @@
       ],
       "titleJa": "オンライン詐欺、米国で1500億ドルの損失",
       "summaryJa": "アメリカ消費者連盟（CFA）の推計によると、昨年のオンライン詐欺による損失は約1500億ドルに達し、FBIに報告された額の7倍に上るとされています。特に暗号通貨関連の詐欺が多く、被害者の多くは警察に報告しないため、実際の損失はさらに大きい可能性があります。AI技術の進化により、詐欺手法も巧妙化しており、特に家族を装ったディープフェイクが使われることが増えています。"
-    },
-    {
-      "id": "0c0e7b3b32623f72a188",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "HBO Max Shorts being tested on iPhone users in latest vertical video offensive",
-      "url": "https://9to5mac.com/2026/07/29/hbo-max-shorts-being-tested-on-iphone-users-in-latest-vertical-video-offensive/",
-      "publishedAt": "2026-07-29T11:39:22.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/HBO-Max-Shorts-being-tested-on-iPhone-users-in-latest-vertical-video-offensive.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "HBO Max Shorts、iPhoneユーザー向けにテスト中",
-      "summaryJa": "ワーナー・ブラザースが、選ばれたアメリカのiPhoneユーザー向けに新しい動画フォーマット「HBO Max Shorts」のテストを開始しました。この短編動画はAIツールによって選ばれ、ユーザーの視聴履歴に基づいてカスタマイズされます。動画は縦型で、HBO Maxのライブラリから印象的なシーンを強調し、視聴者がすぐに視聴を開始できるように設計されています。今後、他のデバイスや市場にも展開される見込みです。"
-    },
-    {
-      "id": "00ccf797e7c4e1d7a6b4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Prototype smart ring cracks the holy grail of non-invasive blood sugar measurement",
-      "url": "https://9to5mac.com/2026/07/29/prototype-smart-ring-cracks-the-holy-grail-of-non-invasive-blood-sugar-measurement/",
-      "publishedAt": "2026-07-29T11:03:40.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Prototype-smart-ring-cracks-the-holy-grail-of-non-invasive-blood-sugar-measurement.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "非侵襲的血糖測定のスマートリング試作",
-      "summaryJa": "カリフォルニア大学のエンジニアが開発した試作のスマートリングが、非侵襲的な血糖測定の実現に成功したとされています。このリングは、iPhoneと連携してデータを送信し、汗を分析することで化学バイオマーカーを追跡します。従来のスマートリングとは異なり、指の汗を利用して血糖値やケトン体などを連続的にモニタリングできる可能性があります。特に1型糖尿病の患者にとって有用なデバイスとなるでしょう。"
-    },
-    {
-      "id": "288744203ba337201812",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp Rolls Out Web Calling, Call Transfer Across Devices, and More",
-      "url": "https://www.macrumors.com/2026/07/29/whatsapp-web-calling-waiting-room-features/",
-      "publishedAt": "2026-07-29T10:05:53.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/whatsapp-web-calls.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "WhatsApp、ウェブ通話機能を追加",
-      "summaryJa": "WhatsAppがグループ通話の機能を強化し、ウェブ通話機能を追加しました。これにより、WhatsApp Webから直接音声・ビデオ通話が可能になり、デバイス間での通話転送も実現。新たに待機室機能や背景ノイズ除去機能も追加され、ユーザーはより快適に通話を楽しめるようになります。これらの機能は徐々に展開され、すぐに全ユーザーが利用可能になる見込みです。"
     }
   ],
-  "updatedAt": "2026-08-10T11:41:41.607Z",
+  "updatedAt": "2026-08-10T12:34:04.938Z",
   "initialized": true,
   "summaryVersion": 4
 }
