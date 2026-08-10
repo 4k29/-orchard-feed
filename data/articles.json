@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "1d4e57bc379fc8bb661a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Dropped Plan to Ship Leased iPhones Already Set Up for Users",
+      "url": "https://www.macrumors.com/2026/08/10/apple-scrapped-plan-ship-iphones-set-up-for-you/",
+      "publishedAt": "2026-08-10T09:30:40.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/apple-upgrade-program-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、端末を初期設定済みにするリース計画を見送りか",
+      "summaryJa": "Appleは新たなハードウェアリースプログラム「Apple Upgrade」の企画段階で、顧客のデータとiCloudバックアップをあらかじめ復元した状態でデバイスを出荷する仕組みを検討していたと報じられています。技術的な問題ではなく、初期設定済みの端末が届くことに対するプライバシー面の懸念や顧客の心理的抵抗が理由で、計画は断念された模様です。最終的に先月に米国で開始されたサービスにはこの機能は含まれていません。"
+    },
+    {
+      "id": "29e4d807bb37b923c5eb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New MacBook Pro and Refreshed iMacs Likely Coming in October",
+      "url": "https://www.macrumors.com/2026/08/10/new-macbook-pro-refreshed-imacs-october/",
+      "publishedAt": "2026-08-10T08:51:40.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/01/imac-pink.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型MacBook ProとiMacが10月にも登場か",
+      "summaryJa": "Appleが今年10月にも、M6チップを搭載したベースモデルの14インチMacBook Proおよび刷新されたiMacを発表する可能性が高いと報じられています。Bloombergのマーク・グールマン記者が自身のニュースレターで伝えたもので、macOSの次期アップデート時期に合わせた投入が見込まれています。なお、OLEDディスプレイを搭載した上位モデルのMacBook ProやiMacは、数年以内にかけて順次登場すると予想されています。"
+    },
+    {
       "id": "a15012fbb31b320c5b5a",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "iOS 26.6がリリース、重要な最適化を含む",
       "summaryJa": "iOS 26.6がiPhoneユーザー向けにリリースされました。このアップデートは、主にiOS 27に向けたSpotlightインデックスの最適化を行い、今後のアップデートをスムーズにすることを目的としています。新機能は少ないものの、セキュリティ修正やバグ修正が含まれており、連絡先のブロックに関する新しいアラートも追加されています。iOS 27は秋にリリース予定です。"
-    },
-    {
-      "id": "a226f67a9ca1c82117e0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27: All the New Phone and FaceTime Features",
-      "url": "https://www.macrumors.com/guide/ios-27-phone-facetime/",
-      "publishedAt": "2026-07-28T22:36:25.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-All-the-New-Phone-and-FaceTime-Features.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27での新機能、電話とFaceTime",
-      "summaryJa": "iOS 27では、電話アプリに新機能「Call Context」が追加され、企業への電話時に関連情報を表示します。FaceTimeでは、iPhone 17シリーズで前後のカメラを同時に使用できる「Dual Capture」が導入され、受信者は双方の映像を同時に見ることが可能です。また、接続品質の改善も行われ、より良い通話体験が提供されます。これらの機能は、iPhone 15 Pro以降のモデルで利用可能です。"
-    },
-    {
-      "id": "3bd825cd6a88af918166",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iyO’s trademark lawsuit against OpenAI and Jony Ive paused over settlement talks",
-      "url": "https://9to5mac.com/2026/07/28/iyos-trademark-lawsuit-against-openai-and-jony-ive-paused-over-settlement-talks/",
-      "publishedAt": "2026-07-28T21:43:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ive-altman-powell-jobs.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iyO、OpenAIとジョニー・アイブとの訴訟を一時停止",
-      "summaryJa": "iyOは、OpenAIとジョニー・アイブに対する商標訴訟を一時停止しました。これは、両者が和解に向けた最終調整を行うための7日間の猶予を求めた結果です。訴訟は、OpenAIがアイブのスタートアップを買収した後に提起され、商標侵害や企業秘密の漏洩が主な争点となっていました。今後、和解が成立すれば、訴訟は終了する見込みです。"
     }
   ],
-  "updatedAt": "2026-08-10T08:05:00.137Z",
+  "updatedAt": "2026-08-10T09:45:00.292Z",
   "initialized": true,
   "summaryVersion": 4
 }
