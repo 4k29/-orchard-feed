@@ -1,6 +1,111 @@
 {
   "articles": [
     {
+      "id": "163469365267c784b504",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AirTag 2 gets even better with this add-on accessory",
+      "url": "https://9to5mac.com/2026/08/10/airtag-2-gets-even-better-with-this-add-on-accessory/",
+      "publishedAt": "2026-08-10T19:09:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airtag-2-radiating-sound.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirTagのバッテリー寿命を最大10年以上に延ばす拡張ケース",
+      "summaryJa": "AirTagの電池寿命を飛躍的に向上させるサードパーティ製の拡張ケースが紹介されています。単3電池を使用することで、通常の約1年間から10年以上へと容量を増やすことが可能です。本体のサイズや厚みは増しますが、定期的な電池交換の手間を減らしたいユーザーにとって実用的なソリューションとなっています。"
+    },
+    {
+      "id": "6f6df5835d4f09085bc5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Latest iOS 27 Beta Expands Siri AI Voice Customization",
+      "url": "https://www.macrumors.com/2026/08/10/ios-27-siri-ai-voice-customization/",
+      "publishedAt": "2026-08-10T18:57:57.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/ios-27-siri-voice.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27ベータ5、Siri AIの音声カスタマイズ機能が拡大",
+      "summaryJa": "最新のiOS 27ベータ5において、Siri AIの音声カスタマイズオプションが拡張されました。アメリカ英語の音声に加え、新たにイギリス英語の音声でも話す速度や抑揚の調整が可能になっています。この機能は、デバイス上で処理を行うため、対応する最新のiPhoneやMac、iPadなどのハードウェアが必要となります。"
+    },
+    {
+      "id": "6e29a3d6cb813d1db3f3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Cutting Back 2026 Hardware Shipments Due to Memory Shortage",
+      "url": "https://www.macrumors.com/2026/08/10/apple-cutting-2026-hardware-shipments/",
+      "publishedAt": "2026-08-10T18:38:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/iPhone-18-Pro-Rumored-Colors.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、メモリ不足の影響で2026年のハードウェア出荷計画を縮小か",
+      "summaryJa": "アナリストの郭明錤氏によると、AppleはDRAMの供給不足により、2026年のハードウェア出荷計画を縮小していると伝えられています。AIデータセンター向けの需要が優先されていることが背景にあり、Macや新型iPhoneなどの製品供給や価格に影響を与える可能性があります。"
+    },
+    {
+      "id": "a70204d5f5546248705a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s what’s new with iOS 27 beta 5",
+      "url": "https://9to5mac.com/2026/08/10/heres-whats-new-with-ios-27-beta-5/",
+      "publishedAt": "2026-08-10T18:30:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-light-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "「iOS 27 beta 5」が登場、Liquid Glassのデザイン調整やSiri音声を拡張",
+      "summaryJa": "Appleが開発者向けに「iOS 27 beta 5」をリリースしました。今回のベータ版では、Liquid Glassデザインに基づくSafariやSiriなどのアイコンの刷新や、Siriの音声オプションの拡充が行われています。秋の正式リリースに向け、今後もバグ修正や機能の調整が順次進められる予定です。"
+    },
+    {
+      "id": "1fe0246d04e19ec090dc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "The new iOS 27 beta further expands Siri voice customization options",
+      "url": "https://9to5mac.com/2026/08/10/the-new-ios-27-beta-further-expands-siri-voice-customization-options/",
+      "publishedAt": "2026-08-10T18:21:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-voice-expressivity-pace-ios-27-beta.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27ベータ5、Siri音声のカスタマイズ範囲を拡大",
+      "summaryJa": "Appleは「iOS 27 beta 5」をリリースし、Siriの音声カスタマイズ機能を利用できる音声を大幅に拡大しました。これまでは一部のアメリカ英語の音声のみだった話速と感情表現のスライダーが、すべての米国音声および英国音声にも対応し、合計12種類の音声で細かな調整が可能になりました。この機能には最新の強力なオンデバイスモデルが必要となります。"
+    },
+    {
+      "id": "5c54ddec20b7ade07938",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 beta 5 adds new app icons for Siri, Safari, and more",
+      "url": "https://9to5mac.com/2026/08/10/ios-27-beta-5-adds-new-app-icons-for-siri-safari-and-more/",
+      "publishedAt": "2026-08-10T18:14:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27-beta-5-app-icons.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27ベータ5、SiriやSafariなどの新しいアプリアコを変更",
+      "summaryJa": "Appleは来月の正式リリースに向け、「iOS 27 beta 5」を配信開始しました。今回のベータ版では、SiriやSafari、設定などのシステムアプリで新しいアイコンが導入されています。前回のベータ版から続く「リキッドガラス」のデザイン言語のブラッシュアップの一環とみられ、細部の調整が続けられています。"
+    },
+    {
+      "id": "5e426b17acd5900fb3d0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases iOS 26.6.1 beta for iPhone, plus more",
+      "url": "https://9to5mac.com/2026/08/10/apple-releases-ios-26-6-1-beta-for-iphone/",
+      "publishedAt": "2026-08-10T17:59:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iOS 26.6.1などのベータ版を突如リリース",
+      "summaryJa": "Appleは「iOS 27 beta 5」の提供と同時に、iOS 26.6.1やmacOS 26.6.2といった既存OS向けのマイナーアップデートのベータ版を新たに公開しました。小規模なポイント更新で事前にベータ版が配布されるのは異例の対応となります。主にセキュリティの向上や不具合の修正が含まれているとみられています。"
+    },
+    {
       "id": "5e426b17acd5900fb3d0",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4399,114 +4504,9 @@
       ],
       "titleJa": "Apple、中国製メモリーチップ購入計画に反発",
       "summaryJa": "アメリカの上院議員がAppleのティム・クックCEOに対し、中国のCXMTおよびYMTCからのメモリーチップ購入を8月21日までに中止するよう求めています。Appleはメモリ不足を解消するためにこれらの企業からの調達を模索していましたが、ペンタゴンによって軍事企業と見なされているため、政治的な影響を懸念しています。過去にもAppleはYMTCからの調達を試みたことがあります。"
-    },
-    {
-      "id": "89cae9ddf07bb71295ab",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Qualcomm Expects Apple Modem Revenue to Drop Faster Than Expected",
-      "url": "https://www.macrumors.com/2026/07/29/qualcomm-apple-modem-revenue-dropping/",
-      "publishedAt": "2026-07-30T00:13:43.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/03/Apple-5G-Modem-Feature-16x9.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Qualcomm、Apple向けモデム収益の急減を予測",
-      "summaryJa": "QualcommのCEO、クリスティアーノ・アモン氏は、Apple向けの収益が予想以上に早く減少すると述べました。これは供給制約が原因で、次期iPhoneのQualcomm部品のシェアが20%を下回る見込みです。Appleは独自のモデムチップの開発を進めており、iPhone 18からは自社製チップの使用が増える可能性があります。"
-    },
-    {
-      "id": "3c7a8667a5723c9aba40",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Studio Display XDR hits Apple’s refurb store, saving you up to $540",
-      "url": "https://9to5mac.com/2026/07/29/studio-display-xdr-hits-apples-refurb-store-saving-you-up-to-540/",
-      "publishedAt": "2026-07-30T00:09:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/studio-display-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、Studio Display XDRのリファービッシュ品を販売開始",
-      "summaryJa": "Appleがリファービッシュ品としてStudio Display XDRを販売開始しました。これにより、最大540ドルの割引が受けられます。27インチの5Kディスプレイを搭載し、Thunderbolt 5接続が可能なこの製品は、Macユーザーに最適です。リファービッシュ品はAppleの厳しい検査を経て販売され、1年の保証が付いています。"
-    },
-    {
-      "id": "f6a62d1719d8a73fd87d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: July 29, 2026 – iOS 26.6, Apple’s smart home plans",
-      "url": "https://9to5mac.com/2026/07/29/daily-july-29-2026/",
-      "publishedAt": "2026-07-29T23:27:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "9to5Mac Daily: iOS 26.6とAppleのスマートホーム計画",
-      "summaryJa": "9to5Mac Dailyでは、iOS 26.6のリリースやAppleの新しいスマートホーム製品がほぼ発売準備完了であるとの報道が紹介されました。また、AppleはiPhoneやMacのセキュリティ問題を修正したことも報告されています。新エピソードは毎日配信されており、ポッドキャストで視聴可能です。"
-    },
-    {
-      "id": "38dfc2109c56f27dbef5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Says UK App Store Steering Rules Would Be 'Highly Intrusive'",
-      "url": "https://www.macrumors.com/2026/07/29/app-store-uk-rules-highly-intrusive/",
-      "publishedAt": "2026-07-29T22:43:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/06/app-store-blue-banner-uk-fixed.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、英国のApp Store規制に反対",
-      "summaryJa": "Appleは、英国の競争市場庁（CMA）が提案している新しいApp Store規制が「非常に侵入的」であると反発しています。CMAは、開発者がApp Store外の支払いオプションにリンクできるようにすることを求めており、これにより手数料が削減され競争が促進されると主張しています。Appleは、提案された規制がイノベーションを損ない、価格規制に等しいと警告しています。CMAは、AppleとGoogleの手数料が公正であるべきだと述べていますが、最終決定はまだ下されていません。"
-    },
-    {
-      "id": "f46f3dc4eb0911faa235",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Qualcomm says supply constraints are shrinking its Apple business faster than expected",
-      "url": "https://9to5mac.com/2026/07/29/qualcomm-says-supply-constraints-are-shrinking-its-apple-business-faster-than-expected/",
-      "publishedAt": "2026-07-29T22:30:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Heres-how-Apple-kind-of-shot-an-MLS-game-entirely-with-iPhones.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Qualcomm、Apple向け収益が予想以上に減少か",
-      "summaryJa": "QualcommのCEOは、供給制約によりApple向けの収益が予想以上に早く減少すると警告しています。Appleは独自のモデム技術を開発しており、Qualcommのシェアが次期iPhoneの部品供給で20%を下回る見込みです。Qualcommは、Appleのビジネス喪失に対応するためデータセンター事業に注力しており、2027年度には50億ドルの収益を見込んでいます。Appleとの関係は特許ライセンス収入も含まれており、これらは今後も続く見込みです。"
-    },
-    {
-      "id": "e5151701738cdc118a04",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Pastebot 3 for Mac Adds Rule-Based Organization, Powerful Paste Filters",
-      "url": "https://www.macrumors.com/2026/07/29/tapbots-pastebot-3/",
-      "publishedAt": "2026-07-29T22:14:30.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/pastebot-3.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Pastebot 3、Mac向けに新機能追加",
-      "summaryJa": "Tapbotsが新たにPastebot 3を発表しました。このバージョンでは、クリップボード管理機能が強化され、ルールに基づく自動整理や強力なペーストフィルターが追加されています。ユーザーは、クリップをカテゴリ別に整理したり、複数のフィルターを組み合わせて詳細な検索が可能です。また、iCloudを通じて複数のMac間でデータを同期でき、最大1,500件のクリップを保存できます。Appleのユニバーサルクリップボード機能にも対応しています。"
-    },
-    {
-      "id": "d49e68d21b598fd037f4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases Safari Technology Preview 249 With Bug Fixes and Performance Improvements",
-      "url": "https://www.macrumors.com/2026/07/29/apple-releases-safari-technology-preview-249/",
-      "publishedAt": "2026-07-29T22:03:29.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Safari Technology Preview 249が公開",
-      "summaryJa": "Appleは、実験的なブラウザ「Safari Technology Preview」の新しいアップデート249をリリースしました。このアップデートには、アクセシビリティ、アニメーション、CSS、JavaScriptなどのバグ修正やパフォーマンス向上が含まれています。最新のmacOSに対応しており、Appleのウェブサイトからダウンロードしたユーザーは、システム設定を通じてアップデートを受け取ることができます。"
     }
   ],
-  "updatedAt": "2026-08-10T18:04:14.894Z",
+  "updatedAt": "2026-08-10T19:12:08.368Z",
   "initialized": true,
   "summaryVersion": 4
 }
