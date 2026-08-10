@@ -1,6 +1,127 @@
 {
   "articles": [
     {
+      "id": "567667e2e9031d2c45bb",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "AppleとMLB、「フライデーナイト ベースボール」の9月のスケジュールを発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
+      "publishedAt": "2026-08-10T15:00:22.785Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、MLB「フライデーナイト ベースボール」の9月スケジュールとVision Pro向け没入型配信を発表",
+      "summaryJa": "AppleとMLBは、「フライデーナイト ベースボール」の9月の配信スケジュールを発表しました。さらに、Apple Vision Pro向けの「Apple Immersive」を活用したライブ中継が8月29日のレッドソックス対ヤンキース戦から開始されることも明らかになりました。8K解像度と180度の視野角を持つ3Dビデオにより、ファンはこれまでにない臨場感あふれるスタジアム体験を楽しめます。"
+    },
+    {
+      "id": "703451e1d66efa6a337a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple announces live Immersive Video MLB games for Vision Pro",
+      "url": "https://9to5mac.com/2026/08/10/apple-immersive-live-video-mlb-game-schedule/",
+      "publishedAt": "2026-08-10T15:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Friday-Night-Baseball-live-in-Apple-Immersive-16x9-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Apple Vision Pro向け「Apple Immersive Video」でMLBのライブ中継を実施",
+      "summaryJa": "Appleは、Apple Vision Pro向けの「Apple Immersive Video」として、「フライデーナイト ベースボール」のライブ中継を複数試合配信すると発表しました。今年はNBAの試合中継に続き、MLBの試合も没入感のある特別なアングルや専用の解説付きで視聴可能になります。対象となる試合はApple TVアプリを通じてライブ配信され、終了後にはオンデマンドでも視聴できるようになります。"
+    },
+    {
+      "id": "941bcec8b130f1b001e6",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Apple, MLB announce September “Friday Night Baseball” schedule",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
+      "publishedAt": "2026-08-10T14:59:21.977Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "AppleとMLB、9月の「フライデーナイト ベースボール」スケジュールと初の没入型放送を発表",
+      "summaryJa": "AppleとMLBは、Apple TVで配信される「フライデーナイト ベースボール」の9月の試合日程を公開しました。今シーズンからは、Apple Vision Pro向けに「Apple Immersive」を使用した初のライブ配信も導入されます。8Kの3D映像や空間オーディオを活用することで、世界中の対象地域のユーザーが自宅にいながら球場の熱気をそのまま体験できるようになります。"
+    },
+    {
+      "id": "8a996fc4d32e88e57a64",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Next year’s iPhone redesign with all-glass look might be canceled: report",
+      "url": "https://9to5mac.com/2026/08/10/next-years-iphone-redesign-with-all-glass-look-might-be-canceled-report/",
+      "publishedAt": "2026-08-10T14:49:14.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "次世代の全面ガラス製iPhoneデザイン、開発中止の可能性との報道",
+      "summaryJa": "Jefferiesのアナリストによると、Appleが計画していたとされる全面ガラス製のiPhoneの20周年記念モデルの開発が中止された可能性があると報じられています。サプライチェーンの調査では、歩留まりの低さが主な中止の理由とされています。もし実現していれば高価格帯モデルの牽引役となるはずでしたが、部品コストの上昇なども影響している模様です。"
+    },
+    {
+      "id": "556684cc521dafb253a2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Leaker Weighs in on Correct Shade for 'Dark Cherry' iPhone 18 Pro",
+      "url": "https://www.macrumors.com/2026/08/10/correct-iphone-18-pro-dark-cherry-shade/",
+      "publishedAt": "2026-08-10T14:49:10.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの噂の新色「ダークチェリー」の色味についてリーク情報が言及",
+      "summaryJa": "Weiboのリーク情報によると、iPhone 18 ProおよびPro Maxで噂されている新色「ダークチェリー」について、オンライン上の2つのモックアップのうちより深い色合いが正確であると伝えられています。ブルームバーグのマーク・ガーマン記者や複数の情報源もこの深みのある赤系カラーの登場を報じており、来月の発表に向けて注目が集まっています。"
+    },
+    {
+      "id": "91cc7260fc305aeba89e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Foldable iPhone Ultra Faces a Surging Samsung Galaxy Z Fold 8",
+      "url": "https://www.macrumors.com/2026/08/10/foldable-iphone-faces-surging-galaxy-z-fold-8/",
+      "publishedAt": "2026-08-10T14:41:31.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/samsung-galaxy-zfold8.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみ式iPhone Ultra、好調なサムスン製新型機と競合か",
+      "summaryJa": "9月に登場が予想されるAppleの折りたたみ式iPhoneは、好調な販売を記録しているサムスンの「Galaxy Z Fold 8」と競合することになると報じられています。サムスン製ディスプレイを採用し、同様の本の形のようなフォームファクターとアスペクト比になると噂されていますが、市場での競争が注目されています。"
+    },
+    {
+      "id": "b8ad21d5869c0131a0a9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro’s flagship new color detailed by leaker",
+      "url": "https://9to5mac.com/2026/08/10/iphone-18-pros-flagship-new-color-detailed-by-leaker/",
+      "publishedAt": "2026-08-10T14:04:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proのフラッグシップ新色に関する新たなリーク詳細",
+      "summaryJa": "昨年のiPhone 17 Proにおけるコスミックオレンジに続き、今年のiPhone 18 Proでは新しいバーガンディ系カラーが主力になると噂されています。Weiboのリーク情報では、オンラインで出回っている明るめの赤ではなく、チェリーのような紫がかった深い色合いが正確であると伝えられています。Appleは来月に新型モデルを発表すると見られており、新色の詳細に期待が高まっています。"
+    },
+    {
+      "id": "00b4e04d1b5b04967d87",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Get an Apple Watch SE 3 for Just $219 on Amazon",
+      "url": "https://www.macrumors.com/2026/08/10/get-an-apple-watch-se-3/",
+      "publishedAt": "2026-08-10T14:01:18.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/11/apple-watch-se-3-mint.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AmazonでApple Watch SE 3が30ドル引きのセールを実施中",
+      "summaryJa": "米Amazonにて、Apple Watch SE 3の40mm GPSモデルが30ドル引きの219ドルからで販売されています。また、44mm GPSモデルも同様に30ドル引きの249.00ドルで購入可能となっており、ミッドナイトやスターライトのアルミニウムケースが対象です。しばらく過去最安値圏から離れていたため、購入を検討していた人にとって良い機会となっています。"
+    },
+    {
       "id": "7ef0d09f74a58a9c8c05",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4383,129 +4504,9 @@
       ],
       "titleJa": "iOS 27でメッセージボタンを非表示に可能",
       "summaryJa": "iOS 27およびiPadOS 27では、メッセージアプリ内の音声入力や音声メッセージのアイコンを非表示にできる新機能が追加されます。これにより、誤ってアイコンをタップして音楽が一時停止する問題が解消される見込みです。設定からアイコンの表示を選択でき、必要に応じて音声メッセージや音声入力を利用することも可能です。iOS 27は現在ベータ版で、一般公開は9月を予定しています。"
-    },
-    {
-      "id": "801933245f751b249921",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Gemini for macOS rolling out voice control and Gboard Rambler-level transcription",
-      "url": "https://9to5google.com/2026/07/29/gemini-mac-voice-control/",
-      "publishedAt": "2026-07-29T15:36:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Gemini-Mac-voice-upgrade.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Gemini for macOSが音声制御機能を追加",
-      "summaryJa": "Gemini for macOSが、I/O 2026でのプレビューを経て、音声制御機能を正式に展開しています。この新機能により、ユーザーはより直感的に操作できるようになります。詳細な機能については今後のアップデートで明らかになるでしょう。"
-    },
-    {
-      "id": "d7f642268d34dfe0cde6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: M5 MacBook Pro $320 off, base MacBook Air $170 off, AirPods Pro 3, TechWoven case 32% off, Apple cables, more",
-      "url": "https://9to5mac.com/2026/07/29/deals-m5-macbook-pro-macbook-air-airpods-techwoven/",
-      "publishedAt": "2026-07-29T15:26:54.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-deals-MacBook-Pro-AirPods-TechWoven.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "M5 MacBook Proが320ドルオフで登場",
-      "summaryJa": "現在、M5 MacBook Proが320ドルオフで販売されており、特に注目されています。また、2TBのM5 Pro MacBook Proは500ドルの値下げが行われています。さらに、AirPods Pro 3やAppleのUSB-Cケーブルも割引価格で提供中です。これらのセールは、夏の特別価格として継続しています。"
-    },
-    {
-      "id": "d050dd6a02831bc78a8b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Wallet Support Coming to Manchester's Bee Card",
-      "url": "https://www.macrumors.com/2026/07/29/bee-card-apple-wallet-support-in-works/",
-      "publishedAt": "2026-07-29T15:20:18.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Bee-Card.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple WalletにマンチェスターのBee Card対応予定",
-      "summaryJa": "Appleは、マンチェスターのBee CardをWalletアプリに追加する準備を進めていると報じられています。この機能が実装されると、ユーザーはiPhoneやApple WatchでBee Cardを使ってトラムやバスの運賃を支払えるようになりますが、具体的な提供時期はまだ不明です。"
-    },
-    {
-      "id": "fedea8564d1d8cb950f4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro vs iPhone Ultra: Here are the biggest differences",
-      "url": "https://9to5mac.com/2026/07/29/iphone-18-pro-vs-iphone-ultra-here-are-biggest-differences/",
-      "publishedAt": "2026-07-29T15:18:29.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 ProとUltraの違い",
-      "summaryJa": "Appleの新しいiPhoneラインナップでは、iPhone 18 ProとiPhone Ultraが登場する見込みです。主な違いは、iPhone 18 Proが従来のデザインを維持するのに対し、iPhone Ultraは初の折りたたみ式モデルとなる点です。また、カメラ機能では、Ultraには望遠レンズが搭載されない一方、Proモデルには搭載される予定です。両モデルはA20 Proチップを搭載しますが、デザインや素材によってパフォーマンスに差が出る可能性があります。"
-    },
-    {
-      "id": "2fc2ae824e63ef852f6b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Upgrade is a really great deal for one reason",
-      "url": "https://9to5mac.com/2026/07/29/apple-upgrade-is-a-really-great-deal-for-one-reason/",
-      "publishedAt": "2026-07-29T14:49:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/mac-apple-upgrade-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Upgrade、魅力的な新プログラム",
-      "summaryJa": "Appleが新たに導入した「Apple Upgrade」は、iPhoneやiPad、Mac、Apple Watchのリースプログラムです。このプログラムでは、製品のリスト価格を超えることなく、低月額で新しいApple製品を利用できるのが特徴です。リース期間終了後には、リース料を差し引いた金額で製品を購入するオプションもあり、ユーザーにとっては魅力的な選択肢となるでしょう。"
-    },
-    {
-      "id": "03812be5506fe8798afa",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Best Buy's Back to School Sale Brings Big Savings on AirPods, MacBooks, Headphones, and More",
-      "url": "https://www.macrumors.com/2026/07/29/best-buys-school-sale/",
-      "publishedAt": "2026-07-29T14:32:54.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Back-To-School-Deals-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Best Buy、学期開始セールでApple製品割引",
-      "summaryJa": "Best Buyが学期開始シーズンに合わせてセールを開催中で、AirPodsやMacBookなどのApple製品が大幅に割引されています。AirPods Max 2は449ドル（100ドルオフ）、M5 Proの14インチMacBook Proは2299ドルから（200ドルオフ）で購入可能です。このセールは今週末まで続き、会員登録なしで利用できます。"
-    },
-    {
-      "id": "a8246d3c1eae0a9d0649",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Upgrade: Is Leasing Your Next iPhone Worth It?",
-      "url": "https://www.macrumors.com/2026/07/29/is-apple-upgrade-program-worth-it/",
-      "publishedAt": "2026-07-29T14:29:37.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apple-Upgrade-Is-It-Worth-It.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleの新しいiPhoneリースプログラムの価値は？",
-      "summaryJa": "Appleの新しいリースプログラムでは、iPhoneを月額45.99ドルでリース可能ですが、総コストは551.88ドルとなり、初期購入の1099ドルよりも安くなります。ただし、リース終了後はiPhoneを返却する必要があり、再販できないため、長期的なコストを考慮する必要があります。選択肢には、返却、アップグレード、または購入があります。"
-    },
-    {
-      "id": "62de373355a4efe36bca",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 adds three new iPhone features you’ll use all the time",
-      "url": "https://9to5mac.com/2026/07/29/ios-27-adds-three-new-iphone-features-youll-use-all-the-time/",
-      "publishedAt": "2026-07-29T14:07:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-iphone-side-angle-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27、日常で使える新機能を追加",
-      "summaryJa": "iOS 27が今秋に登場し、SiriのAI機能が大幅に強化され、より多くのアクションが可能になります。また、文法チェック機能が追加され、誤字だけでなく文法の提案も行います。さらに、SpotlightやPhotos、Mailの検索機能も改善され、ユーザーにとって便利なアップデートとなるでしょう。"
     }
   ],
-  "updatedAt": "2026-08-10T14:02:52.879Z",
+  "updatedAt": "2026-08-10T15:12:14.309Z",
   "initialized": true,
   "summaryVersion": 4
 }
