@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "764da70b5eb1a653f2b1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "ChatGPT users can now book tables and join restaurant waitlists through Yelp",
+      "url": "https://9to5mac.com/2026/08/10/chatgpt-users-can-now-book-tables-and-join-restaurant-waitlists-through-yelp/",
+      "publishedAt": "2026-08-10T22:14:59.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/yelp-chatgpt2.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ChatGPT、Yelp連携でレストラン予約や順番待ちに対応",
+      "summaryJa": "ChatGPTのユーザーが、チャット画面を離れることなくYelpを通じてレストランの予約や順番待ちリストへの登録が可能になりました。両社は以前からコンテンツ連携を行っており、今回の機能拡張により米国の数千に及ぶレストランでスムーズな手続きが実現しています。ユーザーは推薦の依頼から予約の完了までをひとつのチャット内でシームレスに行えるようになります。"
+    },
+    {
+      "id": "c17fdfb12ab84ea8fe88",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Everything New in iOS 27 Beta 5",
+      "url": "https://www.macrumors.com/2026/08/10/ios-27-beta-5-everything-new/",
+      "publishedAt": "2026-08-10T22:02:30.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Cool.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iOS 27ベータ5でアプリアイクンやSiri機能を調整",
+      "summaryJa": "Appleはリリースを控えるiOS 27のベータ5を公開し、複数のアプリコーンのデザイン変更やLiquid Glassの調整を実施しました。Siri AIでは音声カスタマイズ機能が拡張され、対応デバイスでテンポや表現力の調整が可能になっています。また、連絡先リストでの企業名表示や、米国以外の地域におけるApple Walletのパス作成機能なども追加されました。"
+    },
+    {
       "id": "57a7da7aeef64874fdee",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "iPhone 18 ProとUltra、発表イベントはいつ？",
       "summaryJa": "Appleの年次iPhoneイベントが近づいており、9月にiPhone 18 Pro、iPhone 18 Pro Max、折りたたみ式のiPhone Ultraが発表される見込みです。通常、Appleはイベントの2週間前に発表するため、8月25日または26日が有力とされています。過去のイベント日程を振り返ると、iPhoneの発表は例年9月に行われており、特に2020年以降は事前録画された動画が使用されています。"
-    },
-    {
-      "id": "285f91d492db951b004d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AI chatbots are now better than humans at romance scams – and that’s scary",
-      "url": "https://9to5mac.com/2026/07/30/ai-chatbots-are-now-better-than-humans-at-romance-scams-and-thats-scary/",
-      "publishedAt": "2026-07-30T11:59:14.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/AI-chatbots-are-now-better-than-humans-at-romance-scams-–-and-thats-scary.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AIチャットボット、恋愛詐欺で人間を上回る",
-      "summaryJa": "最近の研究によると、AIチャットボットが恋愛詐欺を実行する能力で人間を上回っていることが示されています。詐欺は通常、出会い系アプリから始まり、長期間にわたって信頼を築く手法が用いられます。AIはこのプロセスを模擬した実験で、人間よりも効果的に詐欺を行うことができるとされています。これは、詐欺の手法が進化していることを示すもので、注意が必要です。"
-    },
-    {
-      "id": "d5d512ad786f4e9f1dac",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27: Tone Down Liquid Glass Transparency",
-      "url": "https://www.macrumors.com/how-to/ios-27-tone-down-liquid-glass-transparency/",
-      "publishedAt": "2026-07-30T11:27:14.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/liquid-glass-slider.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27でLiquid Glassの透明度調整可能に",
-      "summaryJa": "iOS 27では、AppleのLiquid Glass効果の透明度を細かく調整できる新機能が追加されました。これにより、ユーザーは通知やコントロールセンターの見え方を好みに応じて変更できます。設定メニューに新たに「Appearance」セクションが設けられ、透明度をスライダーで調整できるようになっています。これにより、より個別のカスタマイズが可能になります。"
     }
   ],
-  "updatedAt": "2026-08-10T21:52:46.832Z",
+  "updatedAt": "2026-08-10T22:32:15.031Z",
   "initialized": true,
   "summaryVersion": 4
 }
