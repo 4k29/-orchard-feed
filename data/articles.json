@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "776c39da965119ccd7f9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Costing Apple 38% More to Make, TrendForce Estimates",
+      "url": "https://www.macrumors.com/2026/08/10/iphone-18-pro-build-cost-rise/",
+      "publishedAt": "2026-08-10T10:29:52.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Pro、メモリ高騰により製造コストが38%増との予測",
+      "summaryJa": "調査会社TrendForceの分析によると、メモリ価格の急激な高騰により、iPhone 18 Proの製造コストは前モデルから約38%増加する見通しです。AppleはMacBookと同様に粗利益の一部を削って価格上昇を抑えるか、他のモデルの価格を調整する可能性があります。Android端末のメーカーも同様のコスト高に直面しており、より急激な価格引き上げを行うとの見方が示されています。"
+    },
+    {
       "id": "1d4e57bc379fc8bb661a",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "OpenAI、初のスマートスピーカーを発表",
       "summaryJa": "OpenAIが初のハードウェアとして、画面のないポータブルスマートスピーカーを発表しました。このデバイスは、元Appleデザイン責任者のジョニー・アイブと共同開発され、家庭内での個人的なコンパニオンとして機能します。2027年初頭に200〜300ドルで発売予定で、AIを活用してスマートホームの制御やメディア再生を行うことができます。さらに、OpenAIはAIスマートフォンの開発も進めており、来年の発売が期待されています。"
-    },
-    {
-      "id": "108902281324f783e06f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 26.6: Everything you need to know",
-      "url": "https://9to5mac.com/2026/07/28/ios-26-6-new-features-release-date-more/",
-      "publishedAt": "2026-07-28T23:37:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26.6-guide.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 26.6がリリース、重要な最適化を含む",
-      "summaryJa": "iOS 26.6がiPhoneユーザー向けにリリースされました。このアップデートは、主にiOS 27に向けたSpotlightインデックスの最適化を行い、今後のアップデートをスムーズにすることを目的としています。新機能は少ないものの、セキュリティ修正やバグ修正が含まれており、連絡先のブロックに関する新しいアラートも追加されています。iOS 27は秋にリリース予定です。"
     }
   ],
-  "updatedAt": "2026-08-10T09:45:00.292Z",
+  "updatedAt": "2026-08-10T10:50:57.913Z",
   "initialized": true,
   "summaryVersion": 4
 }
