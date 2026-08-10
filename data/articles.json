@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "7ef0d09f74a58a9c8c05",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple has eight new products to unveil at September event: report",
+      "url": "https://9to5mac.com/2026/08/10/apple-has-eight-new-products-to-unveil-at-september-event-report/",
+      "publishedAt": "2026-08-10T13:38:54.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/john-ternus-apple-park.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、9月のイベントで8つの新製品を発表か",
+      "summaryJa": "ブルームバーグのマーク・ガーマン記者がニュースレターで、9月のイベントで発表される可能性のある8つの新製品を伝えています。折りたたみ式iPhoneや新しいiPhone 18 Proシリーズ、Apple Watch Series 12などが登場する見通しです。また、新型Apple TVやHomePod mini、スマートホームハブなどの関連製品も秋以降に展開されると報じられています。"
+    },
+    {
+      "id": "441926fb548af7403956",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple reveals how Siri AI features work in China – raising privacy questions",
+      "url": "https://9to5mac.com/2026/08/10/apple-reveals-how-siri-ai-features-work-in-china-likely-without-privacy-protections/",
+      "publishedAt": "2026-08-10T13:38:27.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "中国でのSiri AI機能の仕組みが明らかに",
+      "summaryJa": "中国における新しいSiriのAI機能が、アリババのQwenモデルを基盤にして動作することが明らかになりました。多くの国ではグーグルのGeminiモデルが活用されていますが、現地の法律により中国では国内のAIモデルを利用する必要があるためです。この仕様の違いにより、他の地域とは異なるプライバシー保護の扱いになる可能性が指摘されています。"
+    },
+    {
+      "id": "f42bf5a058a246d2ce26",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Feature Request: Do this to end the guessing game with iPhone app settings",
+      "url": "https://9to5mac.com/2026/08/10/feature-request-do-this-to-end-the-guessing-game-with-iphone-app-settings/",
+      "publishedAt": "2026-08-10T13:01:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Do-this-to-end-the-guessing-game-with-iPhone-app-settings.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhoneアプリの設定画面を巡る使い勝手の課題",
+      "summaryJa": "iPhoneのアプリ設定を変更する際、アプリ内の設定メニューから行うべきか、iOS側の「設定」アプリを開くべきか迷うというユーザビリティ上の課題について解説しています。例えば、内蔵カメラの一部機能を変更するには「設定」アプリに移動して深い階層を探す必要があり、操作が煩雑になっています。こうした設定の分散と推測を強いられる体験は、改善が求められるポイントとなっています。"
+    },
+    {
       "id": "38357202e039ec49298c",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4458,54 +4503,9 @@
       ],
       "titleJa": "iOS 27、日常で使える新機能を追加",
       "summaryJa": "iOS 27が今秋に登場し、SiriのAI機能が大幅に強化され、より多くのアクションが可能になります。また、文法チェック機能が追加され、誤字だけでなく文法の提案も行います。さらに、SpotlightやPhotos、Mailの検索機能も改善され、ユーザーにとって便利なアップデートとなるでしょう。"
-    },
-    {
-      "id": "68ec6ff66d7ee539f6c0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone driver’s license looks set to roll out to a 15th US state",
-      "url": "https://9to5mac.com/2026/07/29/iphone-drivers-license-looks-set-to-roll-out-to-a-15th-us-state/",
-      "publishedAt": "2026-07-29T13:52:57.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iPhone-driving-license-looks-set-to-roll-out-to-a-15th-US-state.webp?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhoneに運転免許証を追加できる州が増加中",
-      "summaryJa": "iPhoneにデジタル運転免許証を追加できる州が15番目に増える見込みです。現在、14州でこの機能がサポートされており、Oklahoma州が新たに加わると報じられています。この機能により、物理的な身分証明書を持ち歩かずに済む可能性が高まりますが、完全な代替にはならないため、注意が必要です。"
-    },
-    {
-      "id": "9143f65a956e321b0b41",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Driver's Licenses May Soon Expand to Another US State",
-      "url": "https://www.macrumors.com/2026/07/29/iphone-drivers-license-another-state-soon/",
-      "publishedAt": "2026-07-29T13:15:09.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/04/apple-wallet-drivers-license-feature-iPhone-15-pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Wallet、オクラホマ州で運転免許証対応か",
-      "summaryJa": "Apple Walletにオクラホマ州の運転免許証やIDが追加される可能性があります。AppleのバックエンドでオクラホマIDの兆候が発見され、2026年3月に州のデジタルID発行を許可する法案が通過しました。これにより、物理的な免許証を保持しつつ、デジタル版を「補完オプション」として利用できるようになります。Apple Walletの運転免許証対応を計画している他の州には、コネチカット州、ケンタッキー州、ミシシッピ州、ユタ州、バージニア州などがあります。"
-    },
-    {
-      "id": "14bebfbfd825bbc0e446",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Online scams cost Americans almost $150B last year – 7x more than reported",
-      "url": "https://9to5mac.com/2026/07/29/online-scams-cost-americans-almost-150b-last-year-7x-more-than-reported/",
-      "publishedAt": "2026-07-29T12:21:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Online-scams-cost-Americans-almost-150B-last-year-–-7x-more-than-reported.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "オンライン詐欺、米国で1500億ドルの損失",
-      "summaryJa": "アメリカ消費者連盟（CFA）の推計によると、昨年のオンライン詐欺による損失は約1500億ドルに達し、FBIに報告された額の7倍に上るとされています。特に暗号通貨関連の詐欺が多く、被害者の多くは警察に報告しないため、実際の損失はさらに大きい可能性があります。AI技術の進化により、詐欺手法も巧妙化しており、特に家族を装ったディープフェイクが使われることが増えています。"
     }
   ],
-  "updatedAt": "2026-08-10T12:34:04.938Z",
+  "updatedAt": "2026-08-10T14:02:52.879Z",
   "initialized": true,
   "summaryVersion": 4
 }
