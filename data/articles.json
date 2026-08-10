@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "57a7da7aeef64874fdee",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp’s latest beta for iOS adds references to an in-chat search tool",
+      "url": "https://9to5mac.com/2026/08/10/whatsapps-latest-beta-for-ios-adds-references-to-an-in-chat-search-tool/",
+      "publishedAt": "2026-08-10T21:36:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS版WhatsApp、チャット内の検索をより素早く行える機能をテスト中か",
+      "summaryJa": "iOS向けWhatsAppの最新ベータ版から、会話画面内でより素早く過去のメッセージを検索できる新しいボタンの追加に向けた準備が進められていることが明らかになりました。チャット履歴を上にスクロールした際、画面の右下に一時的に検索ボタンが表示される仕組みとなる見込みです。正式なリリースに向けて、現在はTestFlightのベータテスター向けの開発段階にあります。"
+    },
+    {
+      "id": "cea9ffcbf3c0d5785c9d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MagSafe Monday: The TESSAN AERO 5000 brings a titanium finish to an ultra thin battery",
+      "url": "https://9to5mac.com/2026/08/10/tessan-aero-5000/",
+      "publishedAt": "2026-08-10T21:20:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/TESSAN-AERO-5000-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "極薄チタン仕上げを採用したMagSafe対応モバイルバッテリーが登場",
+      "summaryJa": "TESSANの「AERO 5000」は、クレジットカード3枚分ほどの厚みとなるわずか6.9ミリの極薄設計に加え、iPhoneと同等のチタン仕上げを採用したMagSafe対応バッテリーです。半固体電池技術の採用によって発熱や熱暴走のリスクを大幅に軽減しているのが特徴です。ワイヤレスで最大15W、USB-Cポート接続で最大20Wの出力に対応し、安全性とデザイン性を両立させています。"
+    },
+    {
       "id": "6e2bb7009a475d782c32",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "iOS 27でLiquid Glassの透明度調整可能に",
       "summaryJa": "iOS 27では、AppleのLiquid Glass効果の透明度を細かく調整できる新機能が追加されました。これにより、ユーザーは通知やコントロールセンターの見え方を好みに応じて変更できます。設定メニューに新たに「Appearance」セクションが設けられ、透明度をスライダーで調整できるようになっています。これにより、より個別のカスタマイズが可能になります。"
-    },
-    {
-      "id": "08d7d2f55fddc9ff391d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Jony Ive’s first OpenAI hardware device sounds rather like … a HomePad",
-      "url": "https://9to5mac.com/2026/07/30/jony-ives-first-openai-hardware-device-sounds-rather-like-a-homepad/",
-      "publishedAt": "2026-07-30T11:13:47.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/homepod-with-screen-mockup-03.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Jony IveのAIデバイスはHomePadに似る？",
-      "summaryJa": "Jony IveとSam Altmanが開発中のAIハードウェアデバイスについて、具体的な形状は未だ不明ですが、最近のインタビューでHomePadに似たデザインの可能性が示唆されています。OpenAIはこのデバイスの詳細を曖昧にしており、来年の発売が予想されています。一方、Appleは新しいスマートホームデバイスの発表を控えており、これもHomePodとiPadの融合を目指しています。"
-    },
-    {
-      "id": "7912fdb277c0fa4139ea",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro: Twelve Changes Coming to Apple's Next Flagship",
-      "url": "https://www.macrumors.com/2026/07/30/reasons-to-wait-iphone-18-pro/",
-      "publishedAt": "2026-07-30T10:43:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proに12の変更点",
-      "summaryJa": "Appleの次世代スマートフォン、iPhone 18 Proシリーズの発売が近づいており、機能面での大きな変化はないものの、いくつかの改良が噂されています。今年はiPhoneのリリースサイクルが変更され、iPhone 18 ProとiPhone 18 Pro Maxが2026年9月に登場予定です。デザインはiPhone 17 Proと似たスタイルを維持しつつ、カメラシステムや背面の美観が改善される可能性があります。"
     }
   ],
-  "updatedAt": "2026-08-10T20:57:29.960Z",
+  "updatedAt": "2026-08-10T21:52:46.832Z",
   "initialized": true,
   "summaryVersion": 4
 }
