@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "7263f3056c4c4a02ee1b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Max's Larger Battery Capacity Allegedly Revealed",
+      "url": "https://www.macrumors.com/2026/08/10/iphone-18-pro-max-battery-capacity-rumor/",
+      "publishedAt": "2026-08-10T16:37:54.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Pro Maxのバッテリー容量、大幅増量か",
+      "summaryJa": "次期モデルのiPhone 18 Pro Maxではバッテリー容量が約12%増加し、中国向けモデルで5,391mAh、米国向けモデルでは5,567mAhに達する可能性が報じられています。規制データベースの情報や流出した写真から信憑性が高まっており、通常モデルのiPhone 18 Proでは容量の増加がわずかになる見込みです。本体の厚みや仕様の違いが、こうしたバッテリー容量の差に影響していると伝えられています。"
+    },
+    {
+      "id": "3f649cbacd43defcf4d7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s everything new for Apple Maps in iOS 27",
+      "url": "https://9to5mac.com/2026/08/10/heres-everything-new-for-apple-maps-in-ios-27/",
+      "publishedAt": "2026-08-10T16:15:41.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-maps-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27のマップアプリ、新機能の全貌が明らかに",
+      "summaryJa": "iOS 27のマップアプリには、AIを活用して都市の立体画像を詳細に表示するアップグレード版Flyover機能や、米国内向けのLocal Lists機能などが新たに導入されます。おすすめのプレイス機能の拡張や、検索画面におけるトレンドレストランの表示、ルーティング向けの自然言語検索への対応も含まれています。プライバシーに配慮した設計のもとで、日常の探索や店舗探しをより快適にするための多数の細かな改良が加えられています。"
+    },
+    {
+      "id": "917ad1c68813cfce4dbb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's All-Glass 20th Anniversary iPhone Reportedly Canceled",
+      "url": "https://www.macrumors.com/2026/08/10/all-glass-20th-anniversary-iphone-canceled/",
+      "publishedAt": "2026-08-10T16:14:52.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、20周年記念の全ガラス製iPhone開発を中止か",
+      "summaryJa": "Appleが20周年記念モデルとして2027年の発売に向けて開発を進めていたと噂される、全面ガラス製の革新的なiPhone計画が中止されたと報じられています。アナリストの調査によると、製造時の歩留まりが改善しなかったことが主な原因とされており、サプライチェーンの確認からプロジェクトの断念が判明しました。この計画中止により、高価格帯モデルの展開や今後の価格戦略に少なからず影響が及ぶ可能性があると指摘されています。"
+    },
+    {
       "id": "42c6f78fc394f5805f66",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4459,54 +4504,9 @@
       ],
       "titleJa": "学校での携帯電話禁止支持が増加",
       "summaryJa": "新学期が始まる中、アメリカでは学生の携帯電話使用禁止に対する支持が高まっています。最近の調査によると、77%の成人が中高生の授業中の携帯電話使用を禁止することに賛成しており、これは2024年の68%から増加しています。全日禁止に賛成する意見も増えており、教育現場でのスマートフォン使用に対する規制が強化される可能性があります。"
-    },
-    {
-      "id": "0e7f7d91d338fa5b35c3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "macOS 27 adds five new Mac features I’ve been loving",
-      "url": "https://9to5mac.com/2026/07/29/macos-27-adds-five-new-mac-features-ive-been-loving/",
-      "publishedAt": "2026-07-29T18:30:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "macOS 27の新機能を紹介",
-      "summaryJa": "macOS 27（ゴールデンゲート）が今秋登場し、ファイル名提案やスワイプでのリフレッシュ機能など5つの新機能が追加されます。特に、ファイルの内容に基づいて名前を提案する機能や、iPhoneミラーリングの改善が注目されています。また、Apple Podcastsでは動画ポッドキャストの再生機能も強化され、Macでも快適に利用できるようになります。これらの新機能は、ユーザーの利便性を向上させることが期待されています。"
-    },
-    {
-      "id": "b692840dc63ccc1bed60",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirPods Pro 3 Still Available for Best Price Since Prime Day at $199.99",
-      "url": "https://www.macrumors.com/2026/07/29/airpods-pro-3-prime-day-199-99/",
-      "publishedAt": "2026-07-29T17:24:01.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/airpods-pro-3-tips.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AirPods Pro 3が199.99ドルで販売中",
-      "summaryJa": "AmazonでAirPods Pro 3が249ドルから199.99ドルに値下げされており、プライムデー以降の最安値となっています。このモデルは2025年9月に発売され、アクティブノイズキャンセリングが2倍向上し、音質やフィット感も改善されています。最新のディール情報は、Deals Roundupで確認できます。"
-    },
-    {
-      "id": "01ba683b364590402463",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Review: This Asus ProArt 4K display has several features that separate it from the pack [Video]",
-      "url": "https://9to5mac.com/2026/07/29/asus-pa27ucge-review-160hz-colorimeter-monitor-hood-display/",
-      "publishedAt": "2026-07-29T17:00:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Asus-ProArt-4K-160Hz-PA27UCGE-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Asus ProArt 4Kディスプレイのレビュー",
-      "summaryJa": "Asusの27インチ4Kディスプレイ、ProArt PA27UCGEは、最大160Hzの高フレームレートをサポートし、ウェブブラウジングやゲーム、動画編集に最適です。オプションのモニターフードや内蔵のモーター式カラーメーターも搭載されており、Macユーザーにとって魅力的な選択肢となっています。詳細は動画レビューで確認できます。"
     }
   ],
-  "updatedAt": "2026-08-10T16:10:46.506Z",
+  "updatedAt": "2026-08-10T17:10:15.095Z",
   "initialized": true,
   "summaryVersion": 4
 }
