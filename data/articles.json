@@ -1,6 +1,171 @@
 {
   "articles": [
     {
+      "id": "5e426b17acd5900fb3d0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases iOS 26.6.1 beta for iPhone, plus more",
+      "url": "https://9to5mac.com/2026/08/10/apple-releases-ios-26-6-1-beta-for-iphone-more/",
+      "publishedAt": "2026-08-10T17:59:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPhone向けにiOS 26.6.1ベータなどを突如配信",
+      "summaryJa": "Appleは開発者向けにiOS 27のベータ5などを公開したのに加え、予期せぬ第2弾としてiOS 26.6.1やmacOS 26.6.2などのベータ版を新たにリリースしました。今回のアップデートは通常のテストスケジュールとは異なるタイミングでの配信となり、各OSの細かな調整や対応が進められています。"
+    },
+    {
+      "id": "a6e654f4c7f653549d8d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases macOS Golden Gate Beta 5",
+      "url": "https://www.macrumors.com/2026/08/10/apple-releases-macos-27-beta-5/",
+      "publishedAt": "2026-08-10T17:27:42.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、macOS Golden Gate ベータ5を開発者向けに公開",
+      "summaryJa": "Appleは開発者向けに「macOS Golden Gate」のベータ5をリリースしました。このアップデートには、透過度の調整機能やウィンドウの視認性向上といったデザインの改善が含まれています。また、チャットスタイルに一新されたSiri AIや、画面上の内容を認識するビジュアルインテリジェンス、写真アプリのAI編集機能など多くの新機能が導入されています。"
+    },
+    {
+      "id": "efe89c3c1061b432331a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases beta 5 for iPadOS 27, watchOS 27, and more",
+      "url": "https://9to5mac.com/2026/08/10/apple-releases-beta-5-for-ipados-27-watchos-27-and-more/",
+      "publishedAt": "2026-08-10T17:27:26.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iPadOS-27-b5.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPadOS 27やwatchOS 27などのベータ5をリリース",
+      "summaryJa": "約3週間の待機期間を経て、Appleは開発者向けにiPadOS 27やwatchOS 27などのベータ5を配信開始しました。来月の正式リリースを控え、今後のベータサイクルでは新機能の追加よりも不具合の修正やパフォーマンスの向上がメインになると見られています。通常であれば、数日以内に同様のパブリックベータ版も提供される予定です。"
+    },
+    {
+      "id": "df62c2ec01d95831dac1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases macOS Tahoe 26.6.2 Beta With Security Fixes",
+      "url": "https://www.macrumors.com/2026/08/10/apple-releases-macos-tahoe-26-6-2/",
+      "publishedAt": "2026-08-10T17:27:06.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/06/macOS-Tahoe-26-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、セキュリティ修正を含むmacOS Tahoe 26.6.2ベータを公開",
+      "summaryJa": "Appleは開発者およびパブリックベータテスター向けに、macOS Tahoe 26.6.2のベータ版をリリースしました。このベータ版にはMac向けの重要なセキュリティ修正が含まれています。先週配信されたmacOS 26.6.1では、画面共有機能に関する脆弱性が修正されており、継続してセキュリティの強化が図られています。"
+    },
+    {
+      "id": "d62c5351d584c9f78e93",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27 Golden Gate beta 5 now available to developers",
+      "url": "https://9to5mac.com/2026/08/10/macos-27-golden-gate-beta-5-now-available-to-developers/",
+      "publishedAt": "2026-08-10T17:23:49.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macOS-27-b5.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOS 27 Golden Gate ベータ5を開発者向けに配信開始",
+      "summaryJa": "Appleは今年後半の正式リリースに向けて、macOS 27 Golden Gateの開発者向けベータ5を公開しました。今回のビルドでは不具合やパフォーマンスの修正が進められており、新しいSiriアプリやAIを活用したショートカット作成機能などが含まれています。正式版は今年後半に予定されており、開発者はシステム設定からアップデートを適用できます。"
+    },
+    {
+      "id": "ef521f8461437ada0cba",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases iOS 26.6.1 and iPadOS 26.6.1 Betas With Security Fixes",
+      "url": "https://www.macrumors.com/2026/08/10/apple-releases-ios-26-6-1/",
+      "publishedAt": "2026-08-10T17:23:38.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iOS-26-6-1-iPhone.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、セキュリティ修正を含むiOS 26.6.1とiPadOS 26.6.1のベータ版を提供",
+      "summaryJa": "Appleは開発者およびパブリックベータテスター向けに、iOS 26.6.1とiPadOS 26.6.1の新しいベータ版をリリースしました。これらのアップデートには、iPhoneおよびiPad向けの重要なセキュリティ修正が含まれています。現在はベータテストの段階であり、設定アプリのソフトウェアアップデートから対象端末にダウンロード可能です。"
+    },
+    {
+      "id": "c282f9487fe9e8cbace5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds Fifth iOS 27 and iPadOS 27 Betas to Developers",
+      "url": "https://www.macrumors.com/2026/08/10/apple-seeds-ios-27-beta-5/",
+      "publishedAt": "2026-08-10T17:21:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、開発者向けにiOS 27とiPadOS 27のベータ5を公開",
+      "summaryJa": "Appleはテスト目的で、iOS 27およびiPadOS 27の第5弾となる開発者向けベータ版をリリースしました。今回のアップデートでは、AIを活用した新しいSiri機能や、写真、Safari、ショートカットなどのアプリにおけるApple Intelligenceの改善が行われています。また、システム全体のパフォーマンス向上により、動作速度や接続の安定性が高められています。"
+    },
+    {
+      "id": "3013a4ed570e4c91f9c3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 beta 5 now available as Apple tests major Siri AI upgrade",
+      "url": "https://9to5mac.com/2026/08/10/ios-27-beta-5/",
+      "publishedAt": "2026-08-10T17:19:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-27-b5.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、大規模なSiri AI強化に向けiOS 27ベータ5を開発者向けに配信",
+      "summaryJa": "Appleは来月の一般公開に向けて、開発者向けにiOS 27ベータ5の配信を開始しました。今作の最大の特徴は次世代のApple Intelligenceを基盤とする「Siri AI」の大幅な刷新であり、より自然な会話や個人コンテキストの理解が可能になっています。登録済みの開発者は設定アプリからベータ版をインストールして新機能を試すことができます。"
+    },
+    {
+      "id": "10f0ff938a75b2140455",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds watchOS 27 Beta 5 to Developers",
+      "url": "https://www.macrumors.com/2026/08/10/apple-seeds-watchos-27-beta-5-to-developers/",
+      "publishedAt": "2026-08-10T17:10:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、開発者向けにwatchOS 27 Beta 5を配信開始",
+      "summaryJa": "Appleは開発者に向けて「watchOS 27 Beta 5」を配信開始しました。第4弾ベータ版のリリースから2週間ぶりのアップデートとなります。対応するApple Watchでダウンロード可能となっており、Siri AIの機能強化や新しい文字盤グリッド、バッテリー駆動時間の改善などが行われています。"
+    },
+    {
+      "id": "97188b545620ca1ffcbb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds tvOS 27 Beta 5 to Developers",
+      "url": "https://www.macrumors.com/2026/08/10/apple-seeds-tvos-27-beta-5-to-developers/",
+      "publishedAt": "2026-08-10T17:07:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/tvOS-27-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、開発者向けにtvOS 27 Beta 5を配信開始",
+      "summaryJa": "Appleは開発者向けに「tvOS 27 Beta 5」の提供を開始しました。第4弾のリリースから2週間での配信となり、Apple TVの設定アプリからダウンロード可能です。今回のアップデートでは、再設計されたポッドキャストアプリやテキストサイズのオプション追加、コントロールセンターの応答性向上が含まれています。"
+    },
+    {
+      "id": "02b0f9f848682e1e344f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds Fifth visionOS 27 Beta to Developers",
+      "url": "https://www.macrumors.com/2026/08/10/apple-seeds-fifth-visionos-27-beta-to-developers/",
+      "publishedAt": "2026-08-10T17:06:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/curved_windows_visionos-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、開発者向けにvisionOS 27 Beta 5を公開",
+      "summaryJa": "AppleはVision Pro向けに「visionOS 27 Beta 5」を開発者向けに公開しました。第4弾ベータのリリースから2週間ぶりの提供となります。今回のベータ版では、AIを活用した新しいSiri機能の導入をはじめ、パノラマ写真の空間環境への変換、湾曲したアプリウインドウによる没入感の向上などが含まれています。"
+    },
+    {
       "id": "7263f3056c4c4a02ee1b",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4339,174 +4504,9 @@
       ],
       "titleJa": "Safari Technology Preview 249が公開",
       "summaryJa": "Appleは、実験的なブラウザ「Safari Technology Preview」の新しいアップデート249をリリースしました。このアップデートには、アクセシビリティ、アニメーション、CSS、JavaScriptなどのバグ修正やパフォーマンス向上が含まれています。最新のmacOSに対応しており、Appleのウェブサイトからダウンロードしたユーザーは、システム設定を通じてアップデートを受け取ることができます。"
-    },
-    {
-      "id": "ba28f27ea96926f3a562",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple pushes back against UK proposal to loosen App Store payment rules",
-      "url": "https://9to5mac.com/2026/07/29/apple-pushes-back-against-uk-proposal-to-loosen-app-store-payment-rules/",
-      "publishedAt": "2026-07-29T21:43:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/01/Apple-faces-1.8B-lawsuit-claiming-UK-App-Store-users-were-overcharged.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、英国のApp Store規制案に反対",
-      "summaryJa": "Appleは、英国の競争市場庁が提案したApp Store手数料に関する新しい規制案に対し、価格規制にあたると反発しています。この規制案は、アプリ開発者が代替の支払いオプションにリンクできるようにするもので、Appleはこれがイノベーションや投資を損なうと警告しています。Appleは、提案された規制が競争を促進する以上のものであり、ビジネス管理において過度に干渉するものだと主張しています。"
-    },
-    {
-      "id": "67bf10c96e835691936b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Almost all future robot vacuums were just banned by the US government",
-      "url": "https://9to5mac.com/2026/07/29/almost-all-future-robot-vacuums-were-just-banned-by-the-us-government/",
-      "publishedAt": "2026-07-29T21:01:01.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/robot-vacuum-unsplash-image.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "米国、ロボット掃除機の輸入を禁止",
-      "summaryJa": "米国政府は、外国製の「高度なロボットデバイス」を禁止するリストを更新し、ロボット掃除機も対象となることを確認しました。この禁止措置は、RoombaやRoborockなどの人気ブランドに影響を与えますが、既存の製品は引き続き使用可能です。政府は、将来の外国製ロボットが国家安全保障上のリスクをもたらすと主張しており、ロボット掃除機市場に大きな影響を与える可能性があります。"
-    },
-    {
-      "id": "a4163cde48b82532168e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "DOJ fights Apple’s bid for records from 14 federal agencies in antitrust case",
-      "url": "https://9to5mac.com/2026/07/29/doj-fights-apples-bid-for-records-from-14-federal-agencies-in-antitrust-case/",
-      "publishedAt": "2026-07-29T21:00:33.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/sjt-tim-cook.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "米司法省、Appleの記録取得を阻止",
-      "summaryJa": "米国司法省は、Appleが14の連邦機関から記録を取得することを認める最近の裁定の再考を求めています。Appleは、これらの記録がプライバシーやセキュリティに関する情報を示す可能性があり、司法省の独占禁止法の主張を弱める助けになると主張しています。政府は、Appleの要求が不適切であると反論しており、今後の裁判での展開が注目されます。"
-    },
-    {
-      "id": "f39d6bf56d110515a730",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "OpenAI President on Apple Lawsuit: We Don't Need Your Secrets",
-      "url": "https://www.macrumors.com/2026/07/29/openai-president-apple-lawsuit/",
-      "publishedAt": "2026-07-29T20:45:58.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "OpenAI、Appleの訴訟に反論",
-      "summaryJa": "OpenAIの社長グレッグ・ブロックマンは、Appleからの訴訟に関して、他社の機密情報には興味がないと述べました。AppleはOpenAIが従業員から情報を盗んでいると主張していますが、ブロックマンはOpenAIが独自の製品計画に注力していると強調しました。OpenAIは、近くハードウェアデバイスを発表する予定で、AI時代に適した製品を開発中です。"
-    },
-    {
-      "id": "30e560cf331760042e2d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Maps in iOS 27 makes my favorite recent feature even better",
-      "url": "https://9to5mac.com/2026/07/29/apple-maps-in-ios-27-makes-my-favorite-recent-feature-even-better/",
-      "publishedAt": "2026-07-29T20:33:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-maps-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27でApple Mapsが進化",
-      "summaryJa": "Apple Mapsは、iOS 26.5で追加された「おすすめの場所」機能をiOS 27でさらに改善します。この機能は、最近の検索履歴に基づいておすすめの場所を提案し、ユーザーが横にスクロールすることで最大10件の推薦を表示できるようになります。これにより、旅行計画や新しい場所の発見がより便利になります。iOS 27では他にもいくつかのApple Mapsの改善が行われています。"
-    },
-    {
-      "id": "889ea2fbe74c3d47ae83",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI president admits new ChatGPT desktop app is ‘kind of a mess,’ teases tab-free design",
-      "url": "https://9to5mac.com/2026/07/29/openai-president-admits-new-chatgpt-desktop-app-is-kind-of-a-mess-teases-tab-free-design/",
-      "publishedAt": "2026-07-29T20:28:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI、ChatGPTデスクトップアプリの混乱を認める",
-      "summaryJa": "OpenAIの社長グレッグ・ブロックマンが、ChatGPTデスクトップアプリの最近の変更についてインタビューで言及しました。新しいタブなしのインターフェースを目指しているものの、現在のUIは「混乱している」と認め、ユーザーからのフィードバックを基に改善を進める方針を示しました。アプリは現在、WorkとChatのタブが追加されており、ナビゲーションは改善されたものの、依然として複雑さが残っています。"
-    },
-    {
-      "id": "75d9022f590cc6cd5fe0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Begins Selling Refurbished Studio Display XDR at a Discount",
-      "url": "https://www.macrumors.com/2026/07/29/apple-refurbished-studio-display-xdr/",
-      "publishedAt": "2026-07-29T20:14:57.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/Studio-Display-XDR-Dark.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、リファービッシュ版Studio Display XDRを販売開始",
-      "summaryJa": "Appleは今月、Studio Display XDRの認定リファービッシュモデルを米国で初めて販売開始しました。価格は通常の新モデルから15%割引され、VESAマウントアダプタ付きで2,459ドル、チルト・高さ調整可能なスタンド付きで2,799ドルとなっています。リファービッシュ製品は、Appleによる完全な機能テストと徹底的なクリーニングを経ており、1年間の限定保証が付いています。"
-    },
-    {
-      "id": "fc288f14ba8a6f384c07",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Here Are All the Changes to AppleCare+ This Month",
-      "url": "https://www.macrumors.com/2026/07/29/applecare-changes-made-this-month/",
-      "publishedAt": "2026-07-29T19:32:45.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/AppleCare-Bright-Red.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AppleCare+の変更点をまとめて紹介",
-      "summaryJa": "7月はAppleCare+に関する重要な変更がありました。アメリカでは、MacとiPad向けの月額および年額プランがそれぞれ0.50ドルと5ドル値上げされました。また、カナダと日本でもAppleCare+の対象製品が拡大し、iPadとApple Watch向けの盗難・紛失プランが日本を含む5カ国で利用可能になりました。さらに、AppleCare Oneがオーストラリア、フランス、ドイツ、イギリスでも提供開始され、複数デバイスを一つのプランでカバーできるようになります。"
-    },
-    {
-      "id": "7709e892092f2ad51ac8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Runna now automatically adapts training paces based on heat and humidity",
-      "url": "https://9to5mac.com/2026/07/29/runna-now-automatically-adapts-training-paces-based-on-heat-and-humidity/",
-      "publishedAt": "2026-07-29T19:28:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/runna-heat.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Runnaが気温に応じたトレーニング機能を追加",
-      "summaryJa": "Runnaは新機能「Adapt for Heat」を発表し、気温や湿度に基づいてトレーニングペースを自動調整します。この機能により、ユーザーは快適なランニング時間を見つけやすくなり、トレーニングの安全性が向上します。また、レース後の回復プラン機能も再導入され、長期的なトレーニング計画を簡単に管理できる新機能も8月に登場予定です。"
-    },
-    {
-      "id": "6b7edaf512a724c0a8c1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Galaxy Z Fold8 Review: What Samsung's New Foldable Tells Us About the iPhone Ultra",
-      "url": "https://www.macrumors.com/2026/07/29/galaxy-z-fold8-review/",
-      "publishedAt": "2026-07-29T19:13:46.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Galaxy Z Fold8がiPhone Ultraの参考に",
-      "summaryJa": "Samsungが新しい折りたたみスマートフォンGalaxy Z Fold8を発表し、そのデザインが今後のiPhone Ultraに影響を与える可能性があります。Z Fold8は広い4:3のディスプレイを持ち、アプリの同時使用や動画視聴に適しています。Appleはアプリの自動リサイズ機能を開発中で、ソフトウェア面での優位性が期待されています。カメラ性能については、iPhone Ultraも同様の制約があると見られています。"
-    },
-    {
-      "id": "50f262188723f2d9bb7d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Support for school cellphone bans reaches new high, where do you stand?",
-      "url": "https://9to5mac.com/2026/07/29/school-phone-ban-survey/",
-      "publishedAt": "2026-07-29T18:59:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iPhone-17e-8.jpg?quality=82&#038;strip=all&#038;w=1501",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "学校での携帯電話禁止支持が増加",
-      "summaryJa": "新学期が始まる中、アメリカでは学生の携帯電話使用禁止に対する支持が高まっています。最近の調査によると、77%の成人が中高生の授業中の携帯電話使用を禁止することに賛成しており、これは2024年の68%から増加しています。全日禁止に賛成する意見も増えており、教育現場でのスマートフォン使用に対する規制が強化される可能性があります。"
     }
   ],
-  "updatedAt": "2026-08-10T17:10:15.095Z",
+  "updatedAt": "2026-08-10T18:04:14.894Z",
   "initialized": true,
   "summaryVersion": 4
 }
