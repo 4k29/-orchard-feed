@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "6e2bb7009a475d782c32",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV teams up with Academy Award-winning director for the second time",
+      "url": "https://9to5mac.com/2026/08/10/apple-tv-teams-up-with-academy-award-winning-director-for-the-second-time/",
+      "publishedAt": "2026-08-10T20:51:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、アルフォンソ・キュアロン監督と再びタッグ",
+      "summaryJa": "Apple TVは、アカデミー賞受賞監督であるアルフォンソ・キュアロンと再び組み、新作サイコホラースリラーシリーズ「Ascension」を制作すると発表しました。アダム・ネヴィルの小説「Last Days」にインスパイアされた作品で、ドキュメンタリー filmmakerの主人公が謎めいたカルト教団の調査を通じて恐ろしい真実に直面する姿を描きます。両者の協業は「免罪符」に続く2作目となります。"
+    },
+    {
+      "id": "061d5013f09f81fdae5d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple official refurb store: Save hundreds on our top picks of the week",
+      "url": "https://9to5mac.com/2026/08/10/apple-official-refurb-store-top-picks/",
+      "publishedAt": "2026-08-10T20:21:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-Refurb-Store-Weekly.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple公式認定整備済製品で今週の注目モデルを紹介",
+      "summaryJa": "Appleの公式認定整備済ストアでは、iPhoneやMacBook、Studio Displayなど多彩な製品が通常よりお得な価格で販売されています。すべての製品はAppleの厳格な整備プロセスを通過しており、1年間の限定保証や14日間の返品ポリシーも適用されるため安心して購入できます。在庫は変動しやすいものの、最新モデルや人気のApple Watchなどを割安に入手できる優れた選択肢となっています。"
+    },
+    {
       "id": "49253163f3b8dcc24af3",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "iPhone 18 Proに12の変更点",
       "summaryJa": "Appleの次世代スマートフォン、iPhone 18 Proシリーズの発売が近づいており、機能面での大きな変化はないものの、いくつかの改良が噂されています。今年はiPhoneのリリースサイクルが変更され、iPhone 18 ProとiPhone 18 Pro Maxが2026年9月に登場予定です。デザインはiPhone 17 Proと似たスタイルを維持しつつ、カメラシステムや背面の美観が改善される可能性があります。"
-    },
-    {
-      "id": "40813ee3b1909d617fab",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "PSA: App Store, iTunes Store and other Apple services are currently down for some users [U: Fixed]",
-      "url": "https://9to5mac.com/2026/07/29/psa-app-store-itunes-store-and-other-apple-services-are-currently-down-for-some-users/",
-      "publishedAt": "2026-07-30T02:29:50.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleサービスが一時的にダウン",
-      "summaryJa": "AppleのApp StoreやiTunes Storeなどのサービスが一部ユーザーに影響を与える形でダウンしていましたが、現在は復旧したとのことです。問題は7月30日午後7時40分（ET）に発生し、Appleは緊急メンテナンスを行っていました。影響を受けたのは、App Store、iTunes Store、Mac App Storeなどで、購入ができないユーザーがいた模様です。"
-    },
-    {
-      "id": "1c8800cb033c533c4628",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple pledges support for communities affected by southern Europe wildfires",
-      "url": "https://9to5mac.com/2026/07/29/apple-pledges-support-for-communities-affected-by-southern-europe-wildfires/",
-      "publishedAt": "2026-07-30T02:14:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、南欧の森林火災支援を表明",
-      "summaryJa": "Appleのティム・クックCEOが、南欧の森林火災の被害者を支援するために寄付を行うと発表しました。ポルトガル、スペイン、フランスでの火災により30万人以上が避難を余儀なくされており、Appleは災害時に支援を行うことが多いです。クック氏は、被害を受けた人々への思いを述べ、現地の救助活動に感謝の意を示しました。"
     }
   ],
-  "updatedAt": "2026-08-10T20:04:35.887Z",
+  "updatedAt": "2026-08-10T20:57:29.960Z",
   "initialized": true,
   "summaryVersion": 4
 }
