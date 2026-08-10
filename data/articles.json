@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "42c6f78fc394f5805f66",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Announces 3D MLB Games Coming to Vision Pro",
+      "url": "https://www.macrumors.com/2026/08/10/apple-announces-3d-mlb-games-on-vision-pro/",
+      "publishedAt": "2026-08-10T16:01:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Apple-Friday-Night-Baseball-2026.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、Vision Pro向けに3D MLB中継を提供",
+      "summaryJa": "Appleは、Apple TVの「Friday Night Baseball」において、Vision Pro向けに8K解像度と180度の視野角を持つApple Immersiveフォーマットでのライブ配信を開始すると発表しました。ユーザーは没入感のある3D映像で試合観戦を楽しめるほか、選手データや空間オーディオに対応したスタジアムビュー機能も利用可能です。"
+    },
+    {
+      "id": "e237af35f29dc1637eb8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Meta just released a brand-new Facebook Creator Studio app for iPhone",
+      "url": "https://9to5mac.com/2026/08/10/meta-just-released-a-brand-new-facebook-creator-studio-app-for-iphone/",
+      "publishedAt": "2026-08-10T15:39:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/meta-creator-studio.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Meta、iPhone向けの新アプリをリリース",
+      "summaryJa": "Metaは、Facebookクリエイター向けのAI駆動型デイリーコンパニオンアプリとなる「Facebook Creator Studio」をiPhone向けにリリースしました。このアプリは、カスタマイズ可能なフィードやリール、Meta AIへの組み込みアクセスなどを通じて、興味関心の探索やコミュニティとのつながりを容易にすることを目的としています。"
+    },
+    {
+      "id": "67d2cecbf67b5dfd91c8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: M5 MacBook Pro $300 off, AirPods Pro 3, Apple Sport Bands, Anker 3-in-1 Qi2 25W MagSafe charger, more",
+      "url": "https://9to5mac.com/2026/08/10/deals-m5-macbook-pro-airpods-pro-3-sport-band-charger/",
+      "publishedAt": "2026-08-10T15:30:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-MacBook-Pro-AirPods-chargers.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple製品のお得なセール情報が多数登場",
+      "summaryJa": "公式整備済ストアでのM5 MacBook Proの300ドル引きセールや、AmazonでのAirPods Pro 3の大幅割引など、複数のApple製品でお得なセール情報が報じられています。さらに、Apple Watch Series 11やAnker製のMagSafe対応充電ステーションなども割引価格の対象となっています。"
+    },
+    {
       "id": "567667e2e9031d2c45bb",
       "source": "Apple Newsroom 日本",
       "sourceId": "apple-newsroom-jp",
@@ -4459,54 +4504,9 @@
       ],
       "titleJa": "Asus ProArt 4Kディスプレイのレビュー",
       "summaryJa": "Asusの27インチ4Kディスプレイ、ProArt PA27UCGEは、最大160Hzの高フレームレートをサポートし、ウェブブラウジングやゲーム、動画編集に最適です。オプションのモニターフードや内蔵のモーター式カラーメーターも搭載されており、Macユーザーにとって魅力的な選択肢となっています。詳細は動画レビューで確認できます。"
-    },
-    {
-      "id": "33d9d5456a9916d995b3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Gemini for Mac Adds System-Wide Voice Dictation and Screen-Aware Commands",
-      "url": "https://www.macrumors.com/2026/07/29/gemini-for-mac-dictation/",
-      "publishedAt": "2026-07-29T16:46:53.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/gemini-for-mac-app-google.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Gemini for Macが音声入力機能を追加",
-      "summaryJa": "GoogleはGemini for Macをアップデートし、デスクトップの任意のウィンドウで音声モードを起動できる新しいショートカットを追加しました。ユーザーは自然な言葉で話すことで、Geminiが音声をテキストに変換します。また、画面を認識してタスクを実行する機能も搭載されており、ユーザーがハイライトした内容を編集・要約することが可能です。"
-    },
-    {
-      "id": "55868cf52e4963965597",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple One’s high-end tier is getting harder to resist in iOS 27",
-      "url": "https://9to5mac.com/2026/07/29/apple-ones-high-end-tier-is-getting-harder-to-resist-in-ios-27/",
-      "publishedAt": "2026-07-29T16:34:52.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-One-ios-27-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Oneのプレミアプランが強化",
-      "summaryJa": "Apple OneのプレミアプランがiOS 27で新たな特典を得ることが報じられています。新機能にはApple HomeのAI機能や画像生成の使用制限の引き上げが含まれ、特にiCloud+の2TBプランが必要です。これにより、HomeKit Secure Videoの機能も強化される見込みです。"
-    },
-    {
-      "id": "b59fdc01b150b378de48",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 Lets You Hide the Messages Button Everyone Hits by Mistake",
-      "url": "https://www.macrumors.com/how-to/ios-hide-dictation-messages-button/",
-      "publishedAt": "2026-07-29T16:10:46.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/messages-dictation-ios.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27でメッセージボタンを非表示に可能",
-      "summaryJa": "iOS 27およびiPadOS 27では、メッセージアプリ内の音声入力や音声メッセージのアイコンを非表示にできる新機能が追加されます。これにより、誤ってアイコンをタップして音楽が一時停止する問題が解消される見込みです。設定からアイコンの表示を選択でき、必要に応じて音声メッセージや音声入力を利用することも可能です。iOS 27は現在ベータ版で、一般公開は9月を予定しています。"
     }
   ],
-  "updatedAt": "2026-08-10T15:12:14.309Z",
+  "updatedAt": "2026-08-10T16:10:46.506Z",
   "initialized": true,
   "summaryVersion": 4
 }
