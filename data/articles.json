@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "bdfe4d1296acb42b452b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "OLED iMac Panel Could Include Extra Layer to Fight Screen Burn-In",
+      "url": "https://www.macrumors.com/2026/08/10/oled-imac-panel-extra-layer-screen/",
+      "publishedAt": "2026-08-10T11:35:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2013/09/m4-imac-side-view.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iMac向けOLEDパネル、焼き付き防止の層を追加か",
+      "summaryJa": "LG Displayが将来のiMac向けに、画面の焼き付き防止と輝度向上を狙った5層構造のOLEDパネルの開発を進めていると報じられています。高画素密度化による電気負荷の分散を目的としていますが、コストや製造プロセスの課題もあり、両社は2028年の搭載を目指している模様です。"
+    },
+    {
+      "id": "038f25448925d85681d0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "The iPhone 18 Pro will cost Apple 38% more in parts – but there’s some good news",
+      "url": "https://9to5mac.com/2026/08/10/the-iphone-18-pro-will-cost-apple-38-more-in-parts-but-theres-some-good-news/",
+      "publishedAt": "2026-08-10T11:16:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの部品コストが大幅上昇の可能性",
+      "summaryJa": "TrendForceの分析によると、iPhone 18 Proの部品コストは前世代から約38%増加し、特にメモリ価格の高騰が全体のコストを押し上げると予測されています。ディスプレイを超える割合を占めるようになる見込みですが、Appleが需要保護のために価格上昇の一部を吸収する可能性があるとも伝えられています。"
+    },
+    {
       "id": "776c39da965119ccd7f9",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "WhatsApp、ウェブ通話機能を追加",
       "summaryJa": "WhatsAppがグループ通話の機能を強化し、ウェブ通話機能を追加しました。これにより、WhatsApp Webから直接音声・ビデオ通話が可能になり、デバイス間での通話転送も実現。新たに待機室機能や背景ノイズ除去機能も追加され、ユーザーはより快適に通話を楽しめるようになります。これらの機能は徐々に展開され、すぐに全ユーザーが利用可能になる見込みです。"
-    },
-    {
-      "id": "432e9f811ee14e744d94",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "The Outsiders adds more detailed performance metrics, workout sharing, more",
-      "url": "https://9to5mac.com/2026/07/29/the-outsiders-adds-more-detailed-performance-metrics-workout-sharing-more/",
-      "publishedAt": "2026-07-29T08:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/the-outsiders.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "The Outsiders、パフォーマンス指標を強化",
-      "summaryJa": "Gentler Storiesが高性能アスリート向けの運動追跡アプリ「The Outsiders」をアップデートしました。新機能では、ランナーやサイクリスト向けに詳細なトレーニングデータ分析が可能になり、シェア機能も強化。ユーザーはトレーニングセッションをカスタマイズして共有できるようになり、視覚的に魅力的なスタイルで結果を発信できます。これにより、より多くのユーザーが自分の成果を表現しやすくなります。"
-    },
-    {
-      "id": "c9011bb5fe59ec5955ca",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "OpenAI's First Devices: Speaker, Smartphone, and More",
-      "url": "https://www.macrumors.com/2026/07/28/openai-first-devices/",
-      "publishedAt": "2026-07-29T01:00:10.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/05/OpenAI-Smartphone-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "OpenAI、初のスマートスピーカーを発表",
-      "summaryJa": "OpenAIが初のハードウェアとして、画面のないポータブルスマートスピーカーを発表しました。このデバイスは、元Appleデザイン責任者のジョニー・アイブと共同開発され、家庭内での個人的なコンパニオンとして機能します。2027年初頭に200〜300ドルで発売予定で、AIを活用してスマートホームの制御やメディア再生を行うことができます。さらに、OpenAIはAIスマートフォンの開発も進めており、来年の発売が期待されています。"
     }
   ],
-  "updatedAt": "2026-08-10T10:50:57.913Z",
+  "updatedAt": "2026-08-10T11:41:41.607Z",
   "initialized": true,
   "summaryVersion": 4
 }
