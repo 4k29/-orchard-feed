@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "761ae964b720db4c0044",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases New iOS 27 AirPods Firmware for Public Beta Testers",
+      "url": "https://www.macrumors.com/2026/08/11/apple-releases-airpods-firmware-public-beta/",
+      "publishedAt": "2026-08-11T18:37:24.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/06/AirPods-Pro-Beta-Firmware.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、パブリックベータテスター向けにAirPodsファームウェアを公開",
+      "summaryJa": "Appleは、パブリックベータテスター向けに新しいAirPodsファームウェアをリリースしました。ビルド番号は9A5336bで、対象機種にはAirPods Pro 2やAirPods 4などが含まれています。このファームウェアにより、新しいインターフェイスや適応型モードのスライダー、カスタムイコライザーなどの機能を利用できるようになります。対応デバイスと接続して電源に繋ぐことで、設定メニューからアップデートを行うことが可能です。"
+    },
+    {
+      "id": "68d552d3986b0fee72a3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: August 11, 2026 – iOS 27 beta 5, glass iPhone rumors",
+      "url": "https://9to5mac.com/2026/08/11/daily-august-11-2026-ios-27/",
+      "publishedAt": "2026-08-11T18:35:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27ベータ5の最新情報と未発表のiPhoneモデルの噂",
+      "summaryJa": "最新のポッドキャストでは、iOS 27ベータ5で追加されたSiriやSafariなどの新しいアイコン、およびiCloud+のAI機能に関するアップグレードオプションについて議論されています。また、コード内から未発表のiPhone 18モデルの存在が明らかになったほか、Apple Vision ProでのライブMLB中継の展開なども報じられています。Appleの20周年記念iPhoneの再設計に向けた取り組みも順調に進んでいると伝えられています。"
+    },
+    {
+      "id": "cf802e5ba67cb51cd97a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Pay Chief Jennifer Bailey Retiring in October",
+      "url": "https://www.macrumors.com/2026/08/11/apple-pay-chief-retiring/",
+      "publishedAt": "2026-08-11T18:19:51.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/11/apple-pay-feature-dynamic-island.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Payを統括するジェニファー・ベイリー氏が10月に退任へ",
+      "summaryJa": "Apple PayやApple Walletを長年統括してきたジェニファー・ベイリー氏が、10月に同社を退職して引退することが報じられました。2003年に入社したベイリー氏は、オンラインストアのグローバル展開を主導したほか、2014年のApple Pay立ち上げやApple Cardの開発などを成功に導きました。社内メモの中でサービスの責任者であるエディ・キュー氏は彼女の貢献を称えており、今後は後継者計画が発表される予定です。"
+    },
+    {
+      "id": "7b5da004db25a11e33ac",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Pay and Wallet leader retiring after two decades at Apple",
+      "url": "https://9to5mac.com/2026/08/11/apple-pay-and-wallet-leader-retiring-after-two-decades-at-apple/",
+      "publishedAt": "2026-08-11T18:14:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apples-keynote-event_Jennifer_Bailey_introduces_apple_card-03252019.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple PayとWallet部門の責任者ジェニファー・ベイリー氏が退任へ",
+      "summaryJa": "Appleの決済サービスおよびWallet部門を率いてきたジェニファー・ベイリー氏が、10月に退任することが明らかになりました。2000年代初頭からAppleに在籍する同氏は、2014年のApple Pay導入以降、その急成長を支えた主要人物の一人です。サービストップのエディ・キュー氏が社内向けメモでこの人事を発表し、彼女の多大な功績を称えました。10月の退任前には、後継者に関する計画が明らかにされる予定となっています。"
+    },
+    {
+      "id": "1dd9e0be488194837f65",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Amazon Offers AirPods Max 2 for $100 Off in All Five Colors",
+      "url": "https://www.macrumors.com/2026/08/11/100-off-airpods-max-2/",
+      "publishedAt": "2026-08-11T18:12:09.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/airpods-max-2-purple.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazon、AirPods Max 2を全5色で100ドル引きに",
+      "summaryJa": "Amazonにおいて、AirPods Max 2が定価の549ドルから100ドル引きとなる449ドルで販売されています。全5色が対象となっており、6月以来となるお得な価格設定です。プライム会員であれば一部地域で当日配送も利用でき、購入を検討していたユーザーにとって良い機会となっています。"
+    },
+    {
+      "id": "60c456b990986aaeeb89",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 beta 5 lets you make Liquid Glass more transparent than ever",
+      "url": "https://9to5mac.com/2026/08/11/ios-27-beta-5-lets-you-make-liquid-glass-more-transparent-than-ever/",
+      "publishedAt": "2026-08-11T18:07:12.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/music-tab-bar-ios-27-liquid-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27ベータ5、Liquid Glassの透明度をさらに向上",
+      "summaryJa": "リリースされたiOS 27ベータ5では、新しくデザインされたアイコンやSiriの音声オプションに加え、Liquid Glassのデザインの透明度をこれまで以上に調整できるようになりました。設定画面にあるスライダーの最上位設定を使用することで、ユーザーの好みに合わせてよりガラスらしい外観にカスタマイズすることが可能です。"
+    },
+    {
       "id": "6684fda8038a3b014790",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4413,100 +4503,9 @@
       ],
       "titleJa": "Apple TV、サッカーのリーグカップ全62試合をライブ配信",
       "summaryJa": "北米のMLSとメキシコのリーガMXが対決する年間公式大会「リーグカップ」がApple TVで開幕します。100を超える国と地域のサブスクリプション登録者は、全62試合を追加料金なしで視聴可能です。Apple SportsやApple Musicなど、他のApple製サービスでも関連コンテンツが提供されます。"
-    },
-    {
-      "id": "7e94c9f26cd82d9fc128",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "リーグカップが、8月4日（日本時間8月5日）にApple TVでキックオフ",
-      "url": "https://www.apple.com/jp/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "publishedAt": "2026-08-03T15:01:21.409Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "リーグカップ開幕、Apple TVで全62試合をライブ配信",
-      "summaryJa": "MLSとリーガMXの強豪クラブが激突する公式大会「リーグカップ」が、Apple TVでキックオフを迎えます。100を超える国と地域の登録者は、全試合をライブで視聴できるほか、多彩な言語による実況や関連番組を楽しむことができます。優勝チームにはCONCACAFチャンピオンズカップの出場権などが与えられます。"
-    },
-    {
-      "id": "2b240baf339cece83d69",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Google Health adds two-way Apple Health syncing on iPhone for Fitbit",
-      "url": "https://9to5mac.com/2026/08/03/google-health-adds-two-way-apple-health-syncing-on-iphone/",
-      "publishedAt": "2026-08-03T15:00:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/google-health.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Google Healthアプリ、Apple Healthとの双方向同期に対応",
-      "summaryJa": "Google HealthのiOS向けアップデートにより、FitbitなどのデータをApple Healthへ書き込める双方向の同期機能が追加されました。これにより、運動記録や睡眠、バイタル、歩数などのデータを他のHealthKit対応アプリとも共有できるようになります。"
-    },
-    {
-      "id": "48c9df9ef42c56569646",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
-      "url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "publishedAt": "2026-08-03T14:59:10.761Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple TVで「リーグズ・カップ」が開幕、全62試合を配信",
-      "summaryJa": "MLSとLiga MXの強豪クラブが競い合う「リーグズ・カップ」がApple TVで開幕しました。100以上の国と地域のサブスクライバーに向けて、全62試合がライブ配信されます。今年はメキシコでの初開催も含まれており、優勝チームなどは2027年のコンカカフ・チャンピオンズカップへの出場権を獲得します。"
-    },
-    {
-      "id": "81240f92b6baf832030e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Smart Glasses Could Become Its Next Health Device",
-      "url": "https://www.macrumors.com/2026/08/03/apple-smart-glasses-could-become-health-device/",
-      "publishedAt": "2026-08-03T14:54:19.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/01/Apple-Glasses-Pink-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleのスマートグラス、将来的に健康管理デバイスへ発展か",
-      "summaryJa": "Appleが開発を進めている将来のスマートグラスやヘッドセットに、健康やフィットネス機能が統合される可能性があると報じられています。Vision Proの開発初期におけるフィットネス機能の模索を引き継いだもので、AirPodsが補聴器機能へ進化したように、内蔵センサーを活用して数年かけて段階的に機能が追加される見込みです。"
-    },
-    {
-      "id": "11fd728468eede567c4d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s latest acquisition makes a lot of sense for product roadmap",
-      "url": "https://9to5mac.com/2026/08/03/apples-latest-acquisition-makes-a-lot-of-sense-for-product-roadmap/",
-      "publishedAt": "2026-08-03T14:44:58.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-logo-wwdc-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、プラズマシミュレーション開発のPlasmaSolveを買収",
-      "summaryJa": "EUの規制関連書類から、Appleがプラズマ技術や材料科学の専門企業「PlasmaSolve」を買収していたことが明らかになりました。同社は3Dオブジェクトへの超薄型コーティングなどをシミュレーションする専門ソフトウェア「MatSight」などを開発しており、今後の製品デザインや製造プロセスの最適化に活用されるとみられています。"
-    },
-    {
-      "id": "bc3649cc6b2a18bbeea0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple launches second legal challenge to UK iCloud backdoor order, per report",
-      "url": "https://9to5mac.com/2026/08/03/apple-launches-second-legal-challenge-to-uk-icloud-backdoor-order-per-report/",
-      "publishedAt": "2026-08-03T14:34:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Memory-prices-are-bad-news-for-Android-brands-but-may-actually-help-Apple.webp?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、イギリス政府の暗号化バックドア要求に法的挑戦",
-      "summaryJa": "イギリス政府が求める暗号化されたユーザーデータへのアクセス要求に対し、Appleが新たな法的措置に出たと報じられています。イギリス国内のユーザー向けiCloud高度データ保護を巡る政府の命令に対抗するもので、Appleはこれまでバックドアやマスターキーを構築したことはなく、今後も構築しないという姿勢を維持しています。"
     }
   ],
-  "updatedAt": "2026-08-11T17:42:08.901Z",
+  "updatedAt": "2026-08-11T18:38:42.777Z",
   "initialized": true,
   "summaryVersion": 4
 }
