@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d6f5cb593bcdd2b53637",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro: Three new camera upgrades are coming",
+      "url": "https://9to5mac.com/2026/08/11/iphone-18-pro-three-new-camera-upgrades-are-coming/",
+      "publishedAt": "2026-08-11T20:18:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proのカメラ大幅進化か、3つの主な改良点が浮上",
+      "summaryJa": "次期モデルのiPhone 18 Proでは、カメラハードウェアにおいて大幅な進化がもたらされると報じられています。主なアップグレードとして、可変絞りの採用や望遠カメラの広角化、プロ向けの写真機能が導入される見込みです。これにより、一眼レフカメラのような高度な機能や、被写界深度の調整など表現の幅が広がる可能性が伝えられています。"
+    },
+    {
+      "id": "a402520c54d535242b84",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Court rejects Apple’s attempt to postpone App Store fee proceedings in Epic Games case",
+      "url": "https://9to5mac.com/2026/08/11/court-rejects-apples-attempt-to-postpone-app-store-fee-proceedings-in-epic-games-case/",
+      "publishedAt": "2026-08-11T19:59:40.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "米裁判所、App Store手数料手続きの延期を求めるAppleの申し立てを却下",
+      "summaryJa": "Epic Gamesとの係争において、米国の裁判所がAppleによるApp Storeの手数料手続きの一時停止要求を却下しました。最高裁判所の審査を理由に手続きを保留するよう求めていましたが、認められませんでした。これにより、Appleは外部決済の手数料に関する算出根拠や証拠を速やかに提出する義務が課されています。"
+    },
+    {
       "id": "2b1c26088b2e79dc3fdc",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "AppleのiCloud共有仕様により、退職後も機密文書へアクセス可能に",
       "summaryJa": "Appleが仕事用と個人のiCloudアカウントを組み合わせる仕様を採用しているため、一部の元従業員が退職後も機密文書にアクセスできる状態になっていたと報じられています。製品発表イベントの計画文書などが個人の端末に同期され続け、中には更新通知を受け取るケースもありました。仕事用アカウントの管理フォルダ以外の共有ファイルが個人のコンテンツと混ざることが原因とされています。"
-    },
-    {
-      "id": "f510cf5931f69cfa5ceb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple launches revamped ‘Apple Accessories’ shopping experience",
-      "url": "https://9to5mac.com/2026/08/03/apple-launches-revamped-apple-accessories-shopping-experience/",
-      "publishedAt": "2026-08-03T17:30:37.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/screenshot-2026-08-03-at-13.28.00.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、オンラインストアとアプリでアクセサリのショッピング体験を一新",
-      "summaryJa": "Appleは、公式オンラインストアとApp Storeアプリにおけるアクセサリの閲覧および購入体験を刷新しました。よりモダンなデザインを採用し、カテゴリ別の閲覧や編集部による厳選コレクション、ショッピングバッグに基づくおすすめ機能などが追加されています。また、アクセサリのウェブサイト上でAppleの専門スタッフとチャットできる機能や、検索・フィルター機能の改善も行われています。"
-    },
-    {
-      "id": "0063a532a9c0b96eff89",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "India Moves to Extend Tax Break Apple Lobbied For",
-      "url": "https://www.macrumors.com/2026/08/03/india-moves-to-extend-apple-tax-break/",
-      "publishedAt": "2026-08-03T15:59:57.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2020/08/apple-india.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "インド、Appleが求めてきた製造機械の税制優遇措置の延長を提案",
-      "summaryJa": "インド政府は、受託製造業者に機械を供給する外国企業向けの税制優遇措置を2041年まで延長する方針を提案したと報じられています。この動きは、同国でのiPhone生産を拡大するAppleにとって大きな追い風となります。もともと2031年までだった優遇期間が延長されるものであり、今後、両院での法案可決が必要となります。"
     }
   ],
-  "updatedAt": "2026-08-11T19:46:55.519Z",
+  "updatedAt": "2026-08-11T20:33:00.529Z",
   "initialized": true,
   "summaryVersion": 4
 }
