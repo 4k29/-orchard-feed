@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "1e5d6b76804bebb55b0a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Making sense of the conflicting 20th anniversary iPhone reports",
+      "url": "https://9to5mac.com/2026/08/11/making-sense-of-the-conflicting-20th-anniversary-iphone-reports/",
+      "publishedAt": "2026-08-11T13:18:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "次期iPhoneの記念モデルを巡り異なる報道が浮上",
+      "summaryJa": "Appleの長期的なビジョンである「一枚のガラス」のようなデザインを採用すると噂されるiPhoneの20周年記念モデルについて、異なる情報が伝えられています。あるアナリストは歩留まりの低さから開発が一時停止または中止されたと指摘する一方、別の情報源からは異なる見解も出ており、今後の動向が注目されています。"
+    },
+    {
+      "id": "9421541eb75392d34a0a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 code reveals six unreleased iPhone models coming soon",
+      "url": "https://9to5mac.com/2026/08/11/ios-27-code-reveals-six-unreleased-iphone-models-coming-soon/",
+      "publishedAt": "2026-08-11T13:05:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOSのベータ版コードから未発表のiPhone 6機種が判明か",
+      "summaryJa": "公開された最新のiOSベータ版のシステムファイルから、今後発売が予定されている6つの未発表iPhoneモデルを示す内部識別子が発見されました。これにはiPhone 18シリーズや折りたたみ式モデル、iPhone Air 2などが含まれており、今後の製品展開に向けた準備が進められていることを示唆しています。"
+    },
+    {
+      "id": "1c918a92698fe2cbe783",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Pay to Launch in India by October",
+      "url": "https://www.macrumors.com/2026/08/11/apple-pay-to-launch-in-india-by-october/",
+      "publishedAt": "2026-08-11T12:58:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/11/apple-pay-feature-dynamic-island.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Pay、インドで10月にもサービス開始か",
+      "summaryJa": "関係者の話として、Apple Payが今年10月にもインドでサービスを開始する見込みであると報じられています。当初は主要なクレジットカードネットワークに対応する予定ですが、国内の決済システムであるUPIへの対応にはさらなる認可や銀行との提携が必要であり、現在も交渉が続けられていると伝えられています。"
+    },
+    {
+      "id": "6ea9185837c0aa852833",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Latest iOS 27 Beta References Six Unreleased iPhone Models",
+      "url": "https://www.macrumors.com/2026/08/11/ios-27-beta-codenames-iphone-18-lineup/",
+      "publishedAt": "2026-08-11T12:27:32.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/better-iphone-17-lineup.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS最新ベータ版に未発表iPhone 6モデルのコードが含まれる",
+      "summaryJa": "開発者向けに配信されたiOSのベータ版コード内から、未発表のiPhoneモデルに関する6つの内部識別子が見つかりました。これらのコードはバッテリー関連のシステムファイル内で確認されたもので、次世代のiPhone 18シリーズや折りたたみ式デバイスの登場に向けた憶測を呼んでいます。"
+    },
+    {
       "id": "9eb6992604384a55438d",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4444,69 +4504,9 @@
       ],
       "titleJa": "Apple、日本の地震救援活動に寄付",
       "summaryJa": "Appleのティム・クックCEOは、九州地方で発生した6.8の地震に対する救援活動を支援するために寄付を行うと発表しました。この地震で34人以上が死亡し、Appleは自然災害時にしばしば寄付を行っています。クック氏は、日本の人々への思いを語り、救援活動を支援する意向を示しました。"
-    },
-    {
-      "id": "1083dc2a729c502db9f5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI makes two GPT-5.6 models cheaper, expanding usage in ChatGPT",
-      "url": "https://9to5mac.com/2026/07/30/openai-makes-two-gpt-5-6-models-cheaper-expanding-usage-in-chatgpt/",
-      "publishedAt": "2026-07-30T17:25:37.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-green.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI、GPT-5.6モデルの価格を引き下げ",
-      "summaryJa": "OpenAIは、GPT-5.6モデルのうち2つの価格を引き下げ、API顧客以外にも恩恵が及ぶと発表しました。中型のTerraモデルは20%、小型のLunaモデルは80%の値下げが行われ、API顧客向けの新価格はそれぞれ$2と$0.20となります。また、ChatGPT WorkやCodexユーザー向けにも、使用トークンのカウントが調整され、より多くのタスクを実行できるようになります。"
-    },
-    {
-      "id": "bbb0e67bcc459cff5438",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Yahoo Weather iOS app overhauled with new features and enhanced radar and maps",
-      "url": "https://9to5mac.com/2026/07/30/yahoo-weather-ios-update/",
-      "publishedAt": "2026-07-30T15:59:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/yahoo-weather-iOS-app.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Yahoo Weatherアプリが大幅リニューアル",
-      "summaryJa": "Yahoo WeatherがiPhoneとiPad向けに大幅なアップデートを実施しました。新機能として、強化されたレーダーやインタラクティブな地図、分単位の降水予報が追加され、ユーザーは突然の雨に備えやすくなります。また、空気質や花粉レベル、月の相に関する詳細情報も提供され、日々の天気をわかりやすくまとめた新しいナラティブも導入されています。新しいYahoo WeatherアプリはApp Storeで無料アップデートとして利用可能です。"
-    },
-    {
-      "id": "61ba2c2c7620a2615490",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s everything new for Apple Notes in iOS 27",
-      "url": "https://9to5mac.com/2026/07/30/heres-everything-new-for-apple-notes-in-ios-27/",
-      "publishedAt": "2026-07-30T15:55:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/notes-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27でApple Notesが進化",
-      "summaryJa": "iOS 27では、Apple Notesに新機能が追加されました。新たに区切り線を挿入できる機能や、セクションリンクを作成する機能が導入され、長文のノートを整理しやすくなります。また、Siriを使ってノートに情報を追加する新しいAI機能も実装され、ユーザーは音声で簡単にノートを作成できます。これにより、Apple Notesの使い勝手が大幅に向上しました。"
-    },
-    {
-      "id": "e7260edd7c80eeee2750",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Spotify Adds Running Mode to iOS App With Tempo-Matched Music",
-      "url": "https://www.macrumors.com/2026/07/30/spotify-adds-running-mode-iphone/",
-      "publishedAt": "2026-07-30T15:49:15.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/spotify-running-mode@2x-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "SpotifyがiOSアプリにランニングモードを追加",
-      "summaryJa": "Spotifyが新たにランニングモードをiOSアプリに追加しました。この機能は、ユーザーが選択したワークアウトタイプやテンポに基づいてプレイリストを構成し、音楽を提供します。ランニング中に音声ガイドを利用することも可能ですが、現時点では英語のみ対応しています。この新機能は、フィットネスコンテンツの一環として提供され、プレミアム会員向けに利用可能です。"
     }
   ],
-  "updatedAt": "2026-08-11T11:57:56.511Z",
+  "updatedAt": "2026-08-11T13:26:06.708Z",
   "initialized": true,
   "summaryVersion": 4
 }
