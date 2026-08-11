@@ -1,6 +1,127 @@
 {
   "articles": [
     {
+      "id": "69bd84fad77d9a970e42",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Accused of 'Fraud' in iCloud Private Relay Class Action Lawsuit",
+      "url": "https://www.macrumors.com/2026/08/11/icloud-private-relay-class-action-lawsuit/",
+      "publishedAt": "2026-08-11T14:30:15.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AppleのiCloudプライベートリレーをめぐり詐欺で集団提訴",
+      "summaryJa": "AppleのiCloudプライベートリレー機能におけるセキュリティ上の欠陥をめぐり、同社が詐欺や誇大広告で集団訴訟を起こされたと報じられています。原告側は、Safariでのブラウジング時にIPアドレスなどを保護するとして販売された有料サービスが、実際にはパスキーの認証処理やDNSプリフェッチなどの問題で本来の保護機能を果たしていなかったと主張しています。今回の訴訟は、プライバシー保護をうたってきた同社のマーケティング手法の信頼性が問われる事態に発展しています。"
+    },
+    {
+      "id": "ae8164b658e6bade643c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Arcade adding ‘two beloved puzzlers’ to ad-free platform in September",
+      "url": "https://9to5mac.com/2026/08/11/apple-arcade-adding-two-beloved-puzzlers-to-ad-free-platform-in-september/",
+      "publishedAt": "2026-08-11T14:14:33.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-arcade-september-2026.png?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Arcadeに人気パズルゲーム2作が9月3日登場",
+      "summaryJa": "Apple Arcadeのゲームカタログが拡充され、9月3日より新たに「Block Blast!+」と「Art of Fauna: Cozy Puzzles+」の2作品が追加されることが発表されました。広告表示やアプリ内課金が一切ない環境で、世界的な人気を誇るブロックパズルや、自然をテーマにした心安らぐジグソーパズルを楽しむことができます。また、既存の人気タイトル向けにも新しいレベルやアップデートが順次配信される予定となっています。"
+    },
+    {
+      "id": "9a59b9d12e7f07a231fb",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple Arcadeが「Block Blast!+」と「Art of Fauna: Cozy Puzzles+」でレベルアップ",
+      "url": "https://www.apple.com/jp/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
+      "publishedAt": "2026-08-11T14:05:10.669Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple Arcade、人気パズルゲーム2作を追加へ",
+      "summaryJa": "Apple Arcadeのパズルゲームのラインナップが拡充され、新たに「Block Blast!+」と「Art of Fauna: Cozy Puzzles+」が9月3日に登場すると発表されました。広告やアプリ内購入なしで、アクション性のあるブロックパズルから心地よいジグソーパズルまで存分に楽しむことができます。さらに、既存の人気タイトルも含む豊富なパズルコレクションがプレイヤーに提供されます。"
+    },
+    {
+      "id": "ba6df8ce4133dd7c38e2",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
+      "publishedAt": "2026-08-11T13:59:21.581Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple Arcade、人気パズルゲーム2作を追加",
+      "summaryJa": "Appleは、定額制ゲーム配信サービス「Apple Arcade」において、人気パズルゲーム「Block Blast!+」と「Art of Fauna: Cozy Puzzles+」の2タイトルを9月3日に追加すると発表しました。追加されるゲームは、広告やアプリ内課金が一切なく、純粋なゲームプレイを楽しむことができます。世界中で人気を集めるブロックパズルと、自然をテーマにした癒やしのジグソーパズルの2作品がラインナップに加わり、パズルゲームのカタログがさらに充実します。"
+    },
+    {
+      "id": "0912fd0fb2818b2f42e8",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "LG Launches Back to School Sale With Major Discounts on OLED TVs and Monitors",
+      "url": "https://www.macrumors.com/2026/08/11/lg-back-to-school-sale/",
+      "publishedAt": "2026-08-11T13:59:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/lg-summer-sale.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "LGが有機ELテレビやモニターなどを対象にした大規模なセールを開催",
+      "summaryJa": "LGの公式サイトにて、モニターやテレビ、家電製品などを対象とした大規模なセールが今週から開催されています。今回のセールでは、割引が自動適用され、特定のコードやメンバーシップは不要です。目玉商品として、一部のLG製モニターが最大700ドル引き、最新のテレビが最大2,700ドル引きとなる大幅な値引きが実施されています。"
+    },
+    {
+      "id": "d4c9bb0e9a2ae7517f97",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Zoom flaw let an attacker take over your device, including iPhone and Mac",
+      "url": "https://9to5mac.com/2026/08/11/zoom-flaw-let-an-attacker-take-over-your-device-including-iphone-and-mac/",
+      "publishedAt": "2026-08-11T13:51:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Zoom-flaw-let-an-attacker-take-over-your-device-including-iPhone-and-Mac.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhoneやMacにも影響を与えたZoomの深刻な脆弱性が発見される",
+      "summaryJa": "AIツールを活用して発見されたZoomの脆弱性により、ミーティングの参加者が使用するiPhoneやMacなどのデバイス上で、攻撃者がコードをリモート実行できる状態になっていたことが明らかになりました。画面共有を伴う通話中であれば、被害者に気付かれることなく、また操作を要さずに攻撃が可能な状態でしたが、セキュリティ企業からの報告を受けて現在はすでに修正されています。AIを利用することで、わずか20件未満のプロンプトでこのような脆弱性が見つかったことが大きな衝撃を与えています。"
+    },
+    {
+      "id": "fd2f0e34329d8ac1ddb6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Will Reportedly Start With 256GB of Storage",
+      "url": "https://www.macrumors.com/2026/08/11/iphone-18-pro-base-256gb-storage-report/",
+      "publishedAt": "2026-08-11T13:50:27.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proは256GBストレージからスタートするか",
+      "summaryJa": "台湾の調査会社TrendForceのレポートによると、次世代のiPhone 18 Proは最低容量が256GBからとなると報じられています。iPhone 17 Proでベース容量が引き上げられたのに続き、今年は容量自体の増加はない見込みです。一方で、メモリチップの不足などに伴う部品コストの上昇により、米国での販売価格は200ドルから300ドルほど値上がりする可能性が指摘されています。"
+    },
+    {
+      "id": "696aece9a1e44066ef96",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 beta 5 adds option to upgrade iCloud+ subscription for more AI",
+      "url": "https://9to5mac.com/2026/08/11/ios-27-beta-5-adds-option-to-upgrade-icloud-subscription-for-more-ai/",
+      "publishedAt": "2026-08-11T13:50:26.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27ベータ5、iCloud+のプランに応じたAI機能の拡充を確認",
+      "summaryJa": "今週配信されたiOS 27ベータ5において、より上位のiCloud+プランに加入することでApple Intelligenceの利用範囲が広がる仕組みが確認されました。ホームアプリ内の設定画面では、iCloud+のプランによってAIサマリー機能を利用できるカメラの台数などが異なることが示されています。現行のベータ版では、プランのアップグレードを促す案内が表示されるようになっており、正式リリースに向けて機能の詳細が整えられていく見通しです。"
+    },
+    {
       "id": "1e5d6b76804bebb55b0a",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4384,129 +4505,9 @@
       ],
       "titleJa": "ティム・クックCEO最後の決算発表をライブ配信",
       "summaryJa": "Appleは2026年度第3四半期の決算を発表し、ティム・クックCEOの最後の決算発表が行われます。クック氏は90回目の決算発表に参加し、Appleの今後についての見通しを語る予定です。市場の閉鎖後30分で発表され、コンポーネント不足や価格上昇の影響についても言及される見込みです。ライブ配信は午後2時（PT）から行われます。"
-    },
-    {
-      "id": "8c54bf8a379ee452d78a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Senators Demand Apple Commit to Not Buying Chinese Memory Chips",
-      "url": "https://www.macrumors.com/2026/07/30/apple-chinese-chips-senator-letter/",
-      "publishedAt": "2026-07-30T19:29:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "米上院、Appleに中国メモリーチップ購入中止を要求",
-      "summaryJa": "米国の上院議員チャック・シューマー氏が、Appleに対し中国企業のメモリーチップを購入しないよう求めています。Appleは、メモリ不足により製品価格を引き上げており、CXMTやYMTCとの取引を検討していますが、これらの企業は中国軍との関係が疑われています。シューマー氏は、Appleがこれらのチップを使用することが米国の半導体供給網に悪影響を及ぼすと警告しています。"
-    },
-    {
-      "id": "00d036ed86bba147615e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro could introduce new Apple solution for cellular, hints report",
-      "url": "https://9to5mac.com/2026/07/30/iphone-18-pro-could-introduce-new-apple-solution-for-cellular-hints-report/",
-      "publishedAt": "2026-07-30T19:13:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered-dark.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Pro、Apple設計のC2チップ搭載か",
-      "summaryJa": "iPhone 18 Proは、QualcommのモデムからApple設計のC2チップに移行する可能性があります。Appleは一部のiPhoneに自社製の通信チップを搭載しており、今秋の新モデルではC2チップが採用されるとの噂があります。最近のQualcommの決算発表では、Apple製品からの収益が減少する見込みが示されており、iPhone 18 ProがQualcommを排除する可能性が高まっています。"
-    },
-    {
-      "id": "1e5474853dff437d1274",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "FCC Bans New Foreign-Made Robot Vacuums, Threatening Future Matter and HomeKit Models",
-      "url": "https://www.macrumors.com/2026/07/30/foreign-made-robot-vacuums-ban/",
-      "publishedAt": "2026-07-30T18:55:53.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/11/ecovacs-black-friday.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "FCC、外国製ロボット掃除機を禁止",
-      "summaryJa": "FCCは今週、国家安全保障のリスクを理由に新たな外国製ロボット掃除機を禁止しました。この禁止令は、ネットワーク接続されたロボットシステムが悪用される可能性を指摘しています。これにより、MatterやHomeKit対応のロボット掃除機の販売が影響を受ける可能性があり、企業は米国での製造を約束しない限り新モデルを販売できなくなる見込みです。"
-    },
-    {
-      "id": "0df825d845e336804291",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "This MacBook Pro just fell below its pre-price-hike MSRP (Save $500)",
-      "url": "https://9to5mac.com/2026/07/30/this-macbook-pro-just-fell-below-its-pre-price-hike-msrp-save-500/",
-      "publishedAt": "2026-07-30T18:45:23.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/MacBook-Pro-M5-Pro.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "M5 Pro MacBook Proが500ドル値下げ",
-      "summaryJa": "AmazonでM5 Pro MacBook Proが500ドルの割引で販売中です。現在、14インチモデルが2,499ドルで提供されており、これは最近の価格引き上げ前の最安値を下回っています。この割引は、夏のセールの一環として、他のApple製品の割引とともに行われています。今後もこの価格が続くかは不透明ですが、今が購入のチャンスかもしれません。"
-    },
-    {
-      "id": "dd9867d2aac7c294b398",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: July 30, 2026 – iOS 26.6, Apple’s smart home plans",
-      "url": "https://9to5mac.com/2026/07/30/daily-july-30-2026/",
-      "publishedAt": "2026-07-30T18:35:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 26.6が登場、Appleのスマートホーム計画",
-      "summaryJa": "iOS 26.6がiPhone向けにリリースされ、75以上のセキュリティ問題が修正されました。また、Appleは新たに3つのスマートホーム製品を発表する準備が整っているとの報道があります。これらの製品は、Appleのホームエコシステムの拡大に寄与することが期待されています。"
-    },
-    {
-      "id": "7525756a094bb4edff24",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Fortnite returns to iPhone in Brazil with Epic Games Store launch",
-      "url": "https://9to5mac.com/2026/07/30/fortnite-returns-to-iphone-in-brazil-with-epic-games-store-launch/",
-      "publishedAt": "2026-07-30T17:47:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/epic-store-brazil-iphone.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ブラジルでFortniteがiPhoneに復活、Epic Games Store登場",
-      "summaryJa": "Epic Games StoreがブラジルでiPhone向けにローンチされ、Fortniteが再登場しました。しかし、Epic Gamesはアクセスに9ステップを要するプロセスに対して不満を表明しています。Appleのポリシーが競争を妨げていると主張し、今後の改善を求めています。"
-    },
-    {
-      "id": "f091b7cb96de0b6a4a83",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple is about to launch Home product overhaul I’ve wanted for years",
-      "url": "https://9to5mac.com/2026/07/30/apple-is-about-to-launch-home-product-overhaul-ive-wanted-for-years/",
-      "publishedAt": "2026-07-30T17:29:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、スマートホーム製品の大幅改良を計画か",
-      "summaryJa": "Bloombergの報道によると、Appleはスマートホーム製品の大幅な改良を近日中に発表する予定です。新しいApple TV 4KやHomePodなど、7つの新製品が開発中とされ、秋には新しいSiriと共に登場する見込みです。Appleのスマートホームへの本格的な取り組みが期待されています。"
-    },
-    {
-      "id": "a687f1a542b7a9e652d9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Donating to Japan Earthquake Relief Efforts",
-      "url": "https://www.macrumors.com/2026/07/30/apple-japan-earthquake-donation/",
-      "publishedAt": "2026-07-30T17:26:39.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Apple-Logo-Red.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、日本の地震救援活動に寄付",
-      "summaryJa": "Appleのティム・クックCEOは、九州地方で発生した6.8の地震に対する救援活動を支援するために寄付を行うと発表しました。この地震で34人以上が死亡し、Appleは自然災害時にしばしば寄付を行っています。クック氏は、日本の人々への思いを語り、救援活動を支援する意向を示しました。"
     }
   ],
-  "updatedAt": "2026-08-11T13:26:06.708Z",
+  "updatedAt": "2026-08-11T14:39:09.449Z",
   "initialized": true,
   "summaryVersion": 4
 }
