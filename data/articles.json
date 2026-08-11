@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "ef1221340bb3a2a32a4a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Now Stockpiling More Components Amid Rising Prices",
+      "url": "https://www.macrumors.com/2026/08/11/apple-now-stockpiling-more-components/",
+      "publishedAt": "2026-08-11T16:00:32.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-sizes-camera.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、部品価格の高騰を受けてOLEDパネルの在庫を確保か",
+      "summaryJa": "韓国メディアの報道によると、Appleは部品価格の上昇に対処するため、通常より長くOLEDディスプレイパネルの在庫を確保する動きに出ていると伝えられています。これまで業界最小水準のサプライチェーンを維持してきましたが、メモリーチップの高騰などの影響を受けて戦略に変化が生じたようです。価格の安定化を図る狙いがあり、今後の製品価格への影響や動向が注目されています。"
+    },
+    {
       "id": "039d36aa7bb60d0a3fe9",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "米国での新しい「Apple Upgrade」プログラム開始など",
       "summaryJa": "今週のApple関連ニュースとして、米国でKlarnaと提携した新しいデバイスリースプログラム「Apple Upgrade」が開始されました。これまでのiPhone Upgrade Programに代わり、iPhoneやiPad、Mac、Apple Watchを対象に柔軟なリース契約を提供します。また、iOS 26.6のリリースや、AI市場の現状に関するインタビューなども話題となりました。"
-    },
-    {
-      "id": "31227c1db5c1e94f92e1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPad Air Could Finally Be Redesigned Next Year",
-      "url": "https://www.macrumors.com/2026/07/31/ipad-air-could-be-redesigned-next-year/",
-      "publishedAt": "2026-08-01T01:00:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/M3-iPad-Air.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "次世代iPad Airは大幅なデザイン刷新か、OLED搭載の噂も",
-      "summaryJa": "2020年以来同じデザインが続くiPad Airについて、2027年初頭のOLEDディスプレイ採用に合わせて大幅な刷新が行われる可能性があると報じられています。サムスンディスプレイ製のLTPSパネルが供給される見通しで、M5チップの搭載も噂されています。新型iPad miniのデザイン言語を受け継ぐ形で、長期間続いた外観が大きく変わる見込みです。"
     }
   ],
-  "updatedAt": "2026-08-11T15:40:29.350Z",
+  "updatedAt": "2026-08-11T16:37:36.595Z",
   "initialized": true,
   "summaryVersion": 4
 }
