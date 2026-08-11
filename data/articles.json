@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "d413ad31197fec9ce88c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: Non-gaming apps drove mobile spending growth in Q2 as games fell 4.5%",
+      "url": "https://9to5mac.com/2026/08/11/report-non-gaming-apps-drove-mobile-spending-growth-in-q2-as-games-fell-4-5/",
+      "publishedAt": "2026-08-11T20:59:32.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/app-store-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "非ゲーム系アプリが成長を牽引、2026年第2四半期のモバイル市場",
+      "summaryJa": "Sensor Towerが2026年第2四半期のモバイル市場動向に関するレポートを公開し、非ゲーム系アプリが世界的な支出の伸びを牽引したことが明らかになりました。非ゲーム系アプリの収益は前年同期比14.6%増となった一方で、ゲーム系収益は4.5%減少しました。特に生成AIアプリが力強い成長を見せ、消費者支出が倍増する結果となっています。"
+    },
+    {
+      "id": "2a9161fd6205a6ebd864",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Extends 2026 Back to School Promotion Until September 24",
+      "url": "https://www.macrumors.com/2026/08/11/apple-extends-2026-back-to-school-promo/",
+      "publishedAt": "2026-08-11T20:52:44.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apple-2026-Back-to-School-Graphic.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、2026年の新学期を始めようキャンペーンを9月24日まで延長",
+      "summaryJa": "Appleは、対象のMacやiPadの購入でギフトカードや対象アイテムがもらえる「新学期を始めよう」プロモーションの実施期間を9月24日まで延長しました。当初の予定より約1ヶ月長く開催され、米国やカナダ、アジアの複数国などが対象となっています。なお、対象製品や特典の内容は地域によって異なり、事前の認証が必要となります。"
+    },
+    {
+      "id": "b2a9936279e81415c194",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Grok Bot Brings Always-On AI Agents to macOS and iOS",
+      "url": "https://www.macrumors.com/2026/08/11/grok-bot-macos-ios/",
+      "publishedAt": "2026-08-11T20:34:58.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/grok-logo-purple-gradient.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "常時稼働AIエージェント「Grok Bot」がmacOSとiOSに登場",
+      "summaryJa": "SpaceXAIは、ウェブサイトやアプリを操作してタスクを自動実行する常時稼働型AIエージェント「Grok Bot」を発表しました。ユーザーが自然言語で指示を出すことで、クラウド上で処理が継続し、複数のボット同士が連携して作業を行うことも可能です。現在はベータ版として、特定のプランに加入しているmacOSおよびiOSユーザー向けに提供されています。"
+    },
+    {
       "id": "d6f5cb593bcdd2b53637",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4458,54 +4503,9 @@
       ],
       "titleJa": "Apple、2026年第3四半期決算を発表",
       "summaryJa": "Appleは2026年第3四半期の決算を発表し、売上高は前年同期比16%増の1094億ドルを記録しました。しかし、混合的な結果や供給制約の懸念から株価は下落しています。また、ティム・クックCEOにとって最後の決算説明会となり、今後はターナス氏が引き継ぐことが確認されました。"
-    },
-    {
-      "id": "f6c93771efdc250270b6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Wikipedia for iOS just added a fun, new app widget for your Home Screen",
-      "url": "https://9to5mac.com/2026/08/03/wikipedia-for-ios-just-added-a-fun-new-app-widget-for-your-home-screen/",
-      "publishedAt": "2026-08-03T18:38:47.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/wikipedia-random-article-widget.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS版Wikipedia、ホーム画面用の新しいランダム記事ウィジェットを追加",
-      "summaryJa": "iOS版Wikipediaアプリの最新アップデートにより、ホーム画面用のランダム記事ウィジェットが追加されました。小と中の2つのサイズが用意されており、タップするだけで全く新しいWikipediaの記事へとジャンプできます。ウィジェット内には専用のランダマイザーボタンも搭載されており、アプリを開かなくても次々と興味深い記事を探索可能です。"
-    },
-    {
-      "id": "d8fef8b2b30960f0d54c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Disney+ might soon launch free tier for users, per report",
-      "url": "https://9to5mac.com/2026/08/03/disney-might-soon-launch-free-tier-for-users-per-report/",
-      "publishedAt": "2026-08-03T17:56:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/disney-plus-app-icon-fi-new.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Disney+やParamount+が無料プランの導入を検討か",
-      "summaryJa": "ハリウッドでYouTubeが主要な競争相手として意識される中、Disney+やParamount+などのストリーミングサービスが無料プランの導入を検討していると報じられています。有料の壁を取り除くことで新規顧客を引き付け、将来的な有料プランへのアップセルにつなげる狙いです。Netflixについても、一部の市場での無料提供の可能性が言及されています。"
-    },
-    {
-      "id": "799a06e0a76aecdb6939",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's iCloud File Sharing Left Ex-Employees With Access to Secret Documents",
-      "url": "https://www.macrumors.com/2026/08/03/apple-icloud-sharing-ex-employees/",
-      "publishedAt": "2026-08-03T17:48:41.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AppleのiCloud共有仕様により、退職後も機密文書へアクセス可能に",
-      "summaryJa": "Appleが仕事用と個人のiCloudアカウントを組み合わせる仕様を採用しているため、一部の元従業員が退職後も機密文書にアクセスできる状態になっていたと報じられています。製品発表イベントの計画文書などが個人の端末に同期され続け、中には更新通知を受け取るケースもありました。仕事用アカウントの管理フォルダ以外の共有ファイルが個人のコンテンツと混ざることが原因とされています。"
     }
   ],
-  "updatedAt": "2026-08-11T20:33:00.529Z",
+  "updatedAt": "2026-08-11T21:26:30.953Z",
   "initialized": true,
   "summaryVersion": 4
 }
