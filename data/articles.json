@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "039d36aa7bb60d0a3fe9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: AirPods Pro 3 25% off, AirPods Max 2 $100 off, MacBook Pro, Anker 25W MagSafe car charger, more",
+      "url": "https://9to5mac.com/2026/08/11/deals-airpods-pro-3-airpods-max-2-macbook-pro/",
+      "publishedAt": "2026-08-11T15:26:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-AirPods-AirPods-Max-2-25W-car-charger.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AmazonでAirPods Pro 3が25%オフなどApple製品セール",
+      "summaryJa": "Amazonにて、発売以来の最安値圏となるAirPods Pro 3が約25%オフの189.99ドルで販売されています。ほかにもAirPods Max 2の割引や、Apple公式整備ストアでのM5搭載MacBook Proの再入荷など、注目のお買い得情報が多数報じられています。"
+    },
+    {
+      "id": "d8731c7667ec9b7814f0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Users Who Pay for Enough iCloud Storage Get New iOS 27 Perks",
+      "url": "https://www.macrumors.com/2026/08/11/new-ios-27-icloud-plus-perks/",
+      "publishedAt": "2026-08-11T15:24:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/10/iCloud-iPhone-17-Pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27、大容量iCloud+契約者にホームアプリの新AI機能を提供か",
+      "summaryJa": "Appleは、2TB以上のiCloud+プラン契約者に対し、iOS 27のホームアプリで3つの新しいApple Intelligence機能を提供すると報じられています。これにはHomeKitセキュアビデオカメラの自動動画説明生成やクリップ検索機能が含まれ、強力なサーバーモデルを利用するため上位プラン限定となっています。"
+    },
+    {
+      "id": "0a05108608dd86874293",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Ultra will have two features that ‘Pro’ users should love",
+      "url": "https://9to5mac.com/2026/08/11/iphone-ultra-will-have-two-features-that-pro-users-should-love/",
+      "publishedAt": "2026-08-11T15:21:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "「iPhone Ultra」にProユーザー向けの魅力的な2大機能か",
+      "summaryJa": "来月に発表が予想されるiPhone Ultraには、歴代最大の7.8インチ級ディスプレイや、サイドバイサイドによるマルチタスク機能が搭載されると伝えられています。これらはProユーザーの生産性を大きく高める機能として、通常のProモデルとは一線を画す特徴になると見られています。"
+    },
+    {
+      "id": "5af847e3c3d850922334",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Two New Games Coming to Apple Arcade's Growing Puzzle Catalog",
+      "url": "https://www.macrumors.com/2026/08/11/two-new-games-coming-to-apple-arcade/",
+      "publishedAt": "2026-08-11T15:09:41.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-arcade-august-2026.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Arcade、9月3日に新作パズルゲーム2タイトルを追加",
+      "summaryJa": "Appleは、Apple Arcadeに「Block Blast!+」と「Art of Fauna: Cozy Puzzles+」の2つのパズルゲームを9月3日に追加すると発表しました。オリジナル版にある広告が排除されるほか、アクセシビリティへの配慮なども盛り込まれており、既存の人気タイトルでもアップデートや新コンテンツの配信が予定されています。"
+    },
+    {
+      "id": "f4372d2c77dbebb694bd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV unveils new crime thriller that kicks off big fall lineup",
+      "url": "https://9to5mac.com/2026/08/11/apple-tv-unveils-new-crime-thriller-that-kicks-off-big-fall-lineup/",
+      "publishedAt": "2026-08-11T14:44:14.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/last-seen-running.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、新型クライムスリラー番組を公開",
+      "summaryJa": "Apple TVは、秋の新作ラインナップの幕開けを飾る新しいスリラーシリーズ「Last Seen」の予告編を公開しました。オーストラリアの警察ディスパッチを舞台にした本作は、11年前に失踪した娘からの緊急通報を受けた父親の執念を描いています。配信は9月9日に最初の2話が公開され、その後毎週エピソードが追加される予定です。"
+    },
+    {
       "id": "69bd84fad77d9a970e42",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4429,85 +4504,9 @@
       ],
       "titleJa": "次世代iPad Airは大幅なデザイン刷新か、OLED搭載の噂も",
       "summaryJa": "2020年以来同じデザインが続くiPad Airについて、2027年初頭のOLEDディスプレイ採用に合わせて大幅な刷新が行われる可能性があると報じられています。サムスンディスプレイ製のLTPSパネルが供給される見通しで、M5チップの搭載も噂されています。新型iPad miniのデザイン言語を受け継ぐ形で、長期間続いた外観が大きく変わる見込みです。"
-    },
-    {
-      "id": "449c1b55c2e0ba747ec1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "How Apple Changed Under Tim Cook: 15 Years in Numbers",
-      "url": "https://www.macrumors.com/2026/07/31/tim-cook-apple-15-years/",
-      "publishedAt": "2026-07-31T20:29:26.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/Tim-Cook-Apple-Park.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "ティム・クックCEOの15年間の実績を数字で振り返る",
-      "summaryJa": "スティーブ・ジョブズの後を引き継ぎ、2011年8月にAppleのCEOに就任したティム・クックの15年間の軌跡を数字で振り返っています。就任当時の年間売上高は現在の1四半期分と同等であり、株価は約23倍に上昇しました。アクティブデバイスのインストールベースも25億台を超えるなど、同氏のリーダーシップの下でAppleは記録的な成長を遂げました。"
-    },
-    {
-      "id": "9cf38a16da6d47095b72",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、第3四半期の業績を発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/07/apple-reports-third-quarter-results/",
-      "publishedAt": "2026-07-31T03:22:56.949Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、2026年第3四半期の業績を発表",
-      "summaryJa": "Appleは2026年6月27日を末日とする2026会計年度第3四半期の業績を発表しました。当四半期の売上高は1,094億ドルで前年同期比16パーセント増となり、4〜6月期として過去最高を記録しました。iPhone、Mac、サービス事業の売上やEPS、営業キャッシュフローも同四半期として過去最高を達成しています。"
-    },
-    {
-      "id": "af144dafabbfb8b45a2c",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple reports third quarter results",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
-      "publishedAt": "2026-07-30T20:30:21.672Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、2026年第3四半期の業績を発表",
-      "summaryJa": "Appleは2026年第3四半期の財務結果を発表し、四半期売上高が1,094億ドルで前年同期比16パーセント増となったことを明らかにしました。iPhone、Mac、サービス部門が好調を維持し、4〜6月期として過去最高の売上を記録しています。アクティブなデバイスのインストールベースも全主要カテゴリと地域で過去最高を更新しました。"
-    },
-    {
-      "id": "25d88c9786f7803893e2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple pledges support for earthquake relief efforts in Japan",
-      "url": "https://9to5mac.com/2026/07/30/apple-pledges-support-for-earthquake-relief-efforts-in-japan/",
-      "publishedAt": "2026-07-30T19:58:50.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、日本の地震救援に支援を表明",
-      "summaryJa": "Appleのティム・クックCEOは、熊本地震の救援活動に寄付することを発表しました。地震は7.1のマグニチュードで、34人が死亡し、数千人が避難を余儀なくされています。クック氏は、日本が特別な場所であると述べ、救援活動を支援する意向を示しました。Appleは、自然災害時に支援を行う伝統を持っており、今回もその一環として寄付を行います。"
-    },
-    {
-      "id": "0dc381868875fb6b16d8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s how to listen live to Tim Cook’s last earnings call as Apple CEO",
-      "url": "https://9to5mac.com/2026/07/30/heres-how-to-listen-live-to-tim-cooks-last-earnings-call-as-apple-ceo/",
-      "publishedAt": "2026-07-30T19:34:47.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-financial-q3-call.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ティム・クックCEO最後の決算発表をライブ配信",
-      "summaryJa": "Appleは2026年度第3四半期の決算を発表し、ティム・クックCEOの最後の決算発表が行われます。クック氏は90回目の決算発表に参加し、Appleの今後についての見通しを語る予定です。市場の閉鎖後30分で発表され、コンポーネント不足や価格上昇の影響についても言及される見込みです。ライブ配信は午後2時（PT）から行われます。"
     }
   ],
-  "updatedAt": "2026-08-11T14:39:09.449Z",
+  "updatedAt": "2026-08-11T15:40:29.350Z",
   "initialized": true,
   "summaryVersion": 4
 }
