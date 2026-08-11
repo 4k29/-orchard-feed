@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "c3bf1cb216344cece1e2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s 20th-anniversary iPhone redesign reportedly remains on track",
+      "url": "https://9to5mac.com/2026/08/10/apples-20th-anniversary-iphone-redesign-reportedly-remains-on-track/",
+      "publishedAt": "2026-08-11T02:14:14.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Mac-hardware-is-great-but-macOS-26-is-a-disaster-say-pundits.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "次期Proモデルのガラス筐体デザインは継続か",
+      "summaryJa": "一部のアナリスト企業が20周年記念iPhoneの全面ガラスモデルの計画中止を指摘していましたが、Bloombergによると来年のProモデルに向けた新しいガラス調のデザイン刷新は予定通り進行中とのことです。初期のデザイン案からは製造上の理由で一部変更されたものの、製品ロードマップ自体には変更がないと報じられています。"
+    },
+    {
+      "id": "460a384640a73a7694a8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Jefferies downgrades Apple stock, cites all-glass iPhone cancellation rumor",
+      "url": "https://9to5mac.com/2026/08/10/jefferies-downgrades-apple-stock-cites-all-glass-iphone-cancellation-rumor/",
+      "publishedAt": "2026-08-11T01:27:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/AAPL-stock-slides-but-is-it-a-reaction-to-AI-announcements.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ジェフリーズ、20周年記念iPhoneの噂を理由にApple株を引き下げ",
+      "summaryJa": "投資会社ジェフリーズが、サプライチェーンの調査に基づきAppleの株式格付けを引き下げました。20周年記念モデルとして期待されていた全面ガラス製iPhoneの開発が、製造上の歩留まりの問題により中止されたとの見方を示しています。この計画の頓挫は、メモリコストの上昇が見込まれる中で高価格帯モデルによる収益拡大を目指すAppleにとって大きな打撃になると分析されています。"
+    },
+    {
       "id": "0d0d7e94390f29465b08",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "Apple、欧州の森林火災支援に寄付",
       "summaryJa": "AppleのCEOティム・クック氏が水曜日に発表したところによると、Appleはフランス、スペイン、ギリシャなどで発生した森林火災の被害を受けた地域への支援に寄付を行うとのことです。過去にも赤十字に寄付を行っており、具体的な金額は公表されていません。"
-    },
-    {
-      "id": "2fe5e2c2dd7a647361a1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 Finally Unlinks Alarm Volume From Your iPhone Ringer",
-      "url": "https://www.macrumors.com/how-to/ios-27-unlinks-alarm-volume-iphone-ringer/",
-      "publishedAt": "2026-07-30T13:40:30.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/06/apple-alarm-app.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27でアラーム音量が独立",
-      "summaryJa": "iOS 27では、iPhoneのアラーム音量が着信音の音量と連動しなくなります。新たに「アラームとタイマー」セクションが追加され、音量を個別に設定できるようになりました。これにより、着信音を消してもアラーム音量はそのまま維持されます。iOS 27は現在パブリックベータ版が利用可能で、9月に正式リリース予定です。"
-    },
-    {
-      "id": "b4990a4f328f22d8066e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Microsoft will launch new ‘super app’ for Copilot soon",
-      "url": "https://9to5mac.com/2026/07/30/microsoft-will-launch-new-super-app-for-copilot-soon/",
-      "publishedAt": "2026-07-30T13:29:41.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/11/microsoft-copilot-pro.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Microsoft、Copilot用の新しい「スーパーアプリ」を発表予定",
-      "summaryJa": "MicrosoftのCEOサティア・ナデラ氏が、Copilot用の「スーパーアプリ」を近日中に発表することを確認しました。このアプリはチャットやコーディング機能を統合し、消費者向けと商業向けの体験を提供する予定です。Appleはこの「スーパーアプリ」アプローチには移行しておらず、今後の動向が注目されます。"
     }
   ],
-  "updatedAt": "2026-08-11T01:04:50.360Z",
+  "updatedAt": "2026-08-11T03:10:19.261Z",
   "initialized": true,
   "summaryVersion": 4
 }
