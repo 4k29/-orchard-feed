@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "435306339de8ebc70ab3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple extends 2026 Back to School deals on Macs and iPads until September 24",
+      "url": "https://9to5mac.com/2026/08/11/apple-extends-2026-back-to-school-deals-on-macs-and-ipads-until-september-24/",
+      "publishedAt": "2026-08-11T21:35:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-store-back-to-school-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、新学期を始めようキャンペーンを9月24日まで延長",
+      "summaryJa": "Appleは、米国におけるMacおよびiPadを対象とした「新学期を始めよう」キャンペーンの実施期間を9月24日まで延長しました。対象となる学生や教職員らは、対象製品の購入時に最大150ドルのApple Gift Cardを受け取ることができます。対象者や条件の詳細については、公式サイトにて確認が可能となっています。"
+    },
+    {
       "id": "d413ad31197fec9ce88c",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "LISEN、ユニークなストラップを備えたQi2.2対応MagSafeバッテリーを発売",
       "summaryJa": "LISENから、サイズとデザインのバランスに優れた新しいQi2.2対応のMagSafeバッテリーが登場しました。最新のQi2.2規格をサポートすることで高速ワイヤレス充電を実現し、発熱を抑えるアクティブ温度制御も搭載されています。また、付属のUSB-Cケーブルを収納できる巧妙な織り込みストラップを採用しており、持ち運びや通勤時にも便利に使えるのが大きな特徴です。"
-    },
-    {
-      "id": "129151d425d552239aa5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 3, 2026 – Apple’s Q3 earnings",
-      "url": "https://9to5mac.com/2026/08/03/daily-august-3-2026/",
-      "publishedAt": "2026-08-03T18:47:40.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、2026年第3四半期決算を発表",
-      "summaryJa": "Appleは2026年第3四半期の決算を発表し、売上高は前年同期比16%増の1094億ドルを記録しました。しかし、混合的な結果や供給制約の懸念から株価は下落しています。また、ティム・クックCEOにとって最後の決算説明会となり、今後はターナス氏が引き継ぐことが確認されました。"
     }
   ],
-  "updatedAt": "2026-08-11T21:26:30.953Z",
+  "updatedAt": "2026-08-11T22:22:00.667Z",
   "initialized": true,
   "summaryVersion": 4
 }
