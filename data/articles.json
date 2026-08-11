@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "4958b09c32d14555d101",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Bluesky Now Lets You Hide Reposts From Specific Users in Your Feeds",
+      "url": "https://www.macrumors.com/2026/08/11/bluesky-lets-you-hide-reposts-in-feeds/",
+      "publishedAt": "2026-08-11T09:02:14.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/bluesky-logo.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Bluesky、特定のユーザーのリポストを非表示にする機能を導入",
+      "summaryJa": "Blueskyは、フィード上で特定のユーザーによるリポストを非表示にできる新機能を実装しました。プロフィールのメニューから簡単に設定が可能となり、スパムのように感じられるリポストを整理できます。また、スレッドの長さを把握しやすくする投稿番号の自動追加機能もベータ版として提供を開始しています。"
+    },
+    {
       "id": "a9605a88c794da86282c",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "AirTag 2が4個パックで特価89ドル",
       "summaryJa": "AppleのAirTag 2が4個パックで89ドルに値下げされ、過去最低価格となっています。これはプライムデーで見られた価格と同じです。また、1個パックも27ドルに値下げされています。新しいAirTagは第2世代のウルトラワイドバンドチップを搭載し、精密探知機能が向上しています。お得なApple関連のセール情報も随時更新されています。"
-    },
-    {
-      "id": "3022972f5b75dbdbae31",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "You Can Listen to Tim Cook's Final Earnings Call as Apple CEO Today",
-      "url": "https://www.macrumors.com/2026/07/30/tim-cook-final-earnings-call-as-apple-ceo/",
-      "publishedAt": "2026-07-30T13:45:43.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/04/Stocks-App-Icon-and-Apple-Logo-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "ティム・クックの最後の決算発表を聴取可能",
-      "summaryJa": "ティム・クックがAppleのCEOとして最後の決算発表に参加します。発表は太平洋時間の午後2時から行われ、誰でもAppleの投資家向けサイトで無料で視聴可能です。クック氏は9月1日からCEOを退任し、次回の決算発表には出席しません。発表後は録音も公開される予定です。"
     }
   ],
-  "updatedAt": "2026-08-11T07:56:36.714Z",
+  "updatedAt": "2026-08-11T09:10:45.036Z",
   "initialized": true,
   "summaryVersion": 4
 }
