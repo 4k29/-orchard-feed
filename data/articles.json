@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "0d0d7e94390f29465b08",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 Hints at 'Apple Reference Image' Photo Authentication",
+      "url": "https://www.macrumors.com/2026/08/10/ios-27-apple-reference-image/",
+      "publishedAt": "2026-08-11T00:08:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/08/iOS-26-Glass-Photos-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS、写真認証機能「Apple Reference Image」を準備か",
+      "summaryJa": "Appleが開発中の写真の真偽を証明する仕組み「Apple Reference Image」の存在がベータ版から明らかになりました。カメラアプリで専用の「リファレンス」モードを使って撮影するとメタデータに証拠データが埋め込まれ、iPhoneで撮影されたものかを検証できるようになります。AIによるリアルタイムな画像生成が増える中、プロの写真家やジャーナリスト向けのハードウェアレベルの認証手段として提供される見込みです。"
+    },
+    {
+      "id": "ca16e8cb63887de0fc90",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: August 10, 2026 – Apple Watch rumors, more",
+      "url": "https://9to5mac.com/2026/08/10/daily-august-10-2026/",
+      "publishedAt": "2026-08-10T23:53:49.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watchの将来の円形ディスプレイや新型モデルを巡る噂",
+      "summaryJa": "ポッドキャスト番組にて、Apple Watchに関する最新の噂や開発が報じられています。将来のデザイン刷新に向けた丸型スクリーンの検討や、新しいセラミック製モデルの登場可能性などが話題に挙がっています。詳細な仕様や発売時期については今後の動向が注目されています。"
+    },
+    {
       "id": "a3075d9020e11e0758d6",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "Microsoft、Copilot用の新しい「スーパーアプリ」を発表予定",
       "summaryJa": "MicrosoftのCEOサティア・ナデラ氏が、Copilot用の「スーパーアプリ」を近日中に発表することを確認しました。このアプリはチャットやコーディング機能を統合し、消費者向けと商業向けの体験を提供する予定です。Appleはこの「スーパーアプリ」アプローチには移行しておらず、今後の動向が注目されます。"
-    },
-    {
-      "id": "4e77f3a20dd1ef9ec8b2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Spotify for iOS adds new music feature that can improve your running game",
-      "url": "https://9to5mac.com/2026/07/30/spotify-ios-running-mode/",
-      "publishedAt": "2026-07-30T13:20:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/Spotify.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Spotify、iOS向けに新しいランニング機能を追加",
-      "summaryJa": "Spotifyが新たに「ランニングモード」機能を導入し、ユーザーのランニング目標や音楽の好みに応じたプレイリストを提供します。この機能は、アメリカ、カナダ、イギリスなどのプレミアムユーザー向けに展開され、カスタマイズ可能なトレーニングタイプや音楽のテンポに基づいて音楽が選ばれます。"
-    },
-    {
-      "id": "7f34b2e2723d7c8aa77c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "No surprises expected from today’s AAPL earnings report, but one huge question",
-      "url": "https://9to5mac.com/2026/07/30/no-surprises-expected-from-todays-aapl-earnings-report-but-one-huge-question/",
-      "publishedAt": "2026-07-30T13:19:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-logo-wwdc-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、Q3決算発表へ",
-      "summaryJa": "Appleは本日、6月末で終了した2023年度第3四半期の決算を発表します。アナリストとのQ&Aも行われ、特に新しいApple Upgradeプログラムの影響についての見通しが注目されています。市場では、売上高が前年同期比で約15.64%増加するとの予想があり、Appleがこの期待を上回るかどうかが焦点です。また、ティム・クックCEOによる最後の決算発表となります。"
     }
   ],
-  "updatedAt": "2026-08-10T23:51:26.001Z",
+  "updatedAt": "2026-08-11T01:04:50.360Z",
   "initialized": true,
   "summaryVersion": 4
 }
