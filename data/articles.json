@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "2b1c26088b2e79dc3fdc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "‘Everyone’ at Apple uses iPhone Ultra name, says Mark Gurman",
+      "url": "https://9to5mac.com/2026/08/11/everyone-at-apple-uses-iphone-ultra-name-says-mark-gurman/",
+      "publishedAt": "2026-08-11T19:40:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの折りたたみ式iPhone、社内では「Ultra」と呼ばれているか",
+      "summaryJa": "Appleが将来投入すると噂される折りたたみ式モデルについて、社内では「iPhone Ultra」という名称が広く使われているとマーク・ガーマン氏が報じています。これまで「iPhone Fold」という通称が一般的でしたが、内部的な呼称としてUltraが浮上しています。ただし、これが最終的な製品名になるかどうかは依然として不明です。"
+    },
+    {
+      "id": "c1c8f08047bcee6438ae",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Can't Delay App Store Fee Fight While Waiting on Supreme Court",
+      "url": "https://www.macrumors.com/2026/08/11/app-store-epic-games-fee-fight-proceeds/",
+      "publishedAt": "2026-08-11T19:14:10.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/05/app-store-blue-banner-epic-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、最高裁判所の判断待ちを理由としたApp Store手数料訴訟の延期が却下",
+      "summaryJa": "Epic Gamesとの長引く法廷闘争において、Appleは最高裁判所の審理を控えて手続きの一時停止を求めたものの、連邦地裁に却下されました。これによりAppleは、代替決済オプション等に関してデベロッパーに課したい手数料の概要を24時間以内に提出するよう命じられました。裁判所はその後、Epic側からの法的な分析を交えて妥当な手数料を判断する方針です。"
+    },
+    {
+      "id": "b4ab58e49d83ffbe6921",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple in talks to acquire streaming rights for golf’s Open Championship: report",
+      "url": "https://9to5mac.com/2026/08/11/apple-streaming-rights-golf-open/",
+      "publishedAt": "2026-08-11T19:01:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、ゴルフの全英オープン米国放映権の獲得に向けて協議か",
+      "summaryJa": "Appleが、ゴルフのメジャー大会である全英オープン（The Open Championship）の米国における放映権獲得に向けて協議を行っていると報じられています。NetflixやAmazonも関心を示しているとされ、AppleはこれまでにもF1やメジャーリーグサッカーなどスポーツ配信への投資を積極化させています。現行の放映権を持つNBCなどとの動向とともに今後の交渉が注目されています。"
+    },
+    {
+      "id": "5758a7b436a6a267ba18",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AirPods Pro 3 and more just got new public beta firmware",
+      "url": "https://9to5mac.com/2026/08/11/airpods-pro-3-and-more-just-got-new-public-beta-firmware/",
+      "publishedAt": "2026-08-11T18:46:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-noise-cancellation-anc.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、AirPods Proなどのパブリックベータ向け最新ファームウェアを公開",
+      "summaryJa": "Appleは、パブリックベータプログラム登録者向けにAirPodsシリーズの最新ファームウェアの提供を開始しました。対象となるのはAirPods Pro 3やAirPods Pro 2などで、H2チップを搭載したモデルが対象となっています。今秋予定されているiOS 27の一般公開に向けて、新機能の準備が進められています。"
+    },
+    {
       "id": "761ae964b720db4c0044",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4443,69 +4503,9 @@
       ],
       "titleJa": "インド、Appleが求めてきた製造機械の税制優遇措置の延長を提案",
       "summaryJa": "インド政府は、受託製造業者に機械を供給する外国企業向けの税制優遇措置を2041年まで延長する方針を提案したと報じられています。この動きは、同国でのiPhone生産を拡大するAppleにとって大きな追い風となります。もともと2031年までだった優遇期間が延長されるものであり、今後、両院での法案可決が必要となります。"
-    },
-    {
-      "id": "c2a8f1b3494eae0bc831",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple will launch five new products next month, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/08/03/apple-will-launch-five-new-products-next-month-heres-whats-coming/",
-      "publishedAt": "2026-08-03T15:46:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "来月開催のAppleイベント、新型iPhoneやApple Watchなどが登場するか",
-      "summaryJa": "来月に迫ったAppleの大型新製品発表イベントでは、多数の新製品が発表されると報じられています。iPhone 18 Proシリーズや折りたたみ式と噂されるiPhone Ultraに加え、新しいApple Watch UltraやSeries 12が登場する見込みです。さらに、カメラ付きの新型AirPods ProやApple Intelligenceに対応する新しいHomePod関連製品などの登場も期待されています。"
-    },
-    {
-      "id": "5cfa7e0ce5a0a42abb47",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Launches New Legal Challenge Against UK Backdoor Demand",
-      "url": "https://www.macrumors.com/2026/08/03/apple-legal-challenge-against-uk-demand/",
-      "publishedAt": "2026-08-03T15:34:16.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/02/iCloud-Versus-UK-Key-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、イギリス政府のiCloud暗号化を巡るバックドア要求に新たな法的手続き",
-      "summaryJa": "イギリス政府が求めている英国内ユーザーの暗号化されたiCloudバックドアアクセスに対し、Appleが新たな法的異議を申し立てたことが報じられました。イギリスの内務省は以前、対象を英国内ユーザーに限定した技術能力通知を新たに発行していました。Appleはこれまで、こうしたバックドアの設置は全ユーザーのセキュリティを弱めると一貫して主張しています。"
-    },
-    {
-      "id": "e9f971d178c0800730ff",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: Apple Watch Ultra 3 $100 off, Series 11 from $299, AirPods, Anker chargers, Best Buy back to school sale, more",
-      "url": "https://9to5mac.com/2026/08/03/deals-apple-watch-ultra-3-100-off-airpods-anker-chargers/",
-      "publishedAt": "2026-08-03T15:31:22.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-Apple-Watch-Ultra-3-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Ultra 3などがAmazonで値引きセールに",
-      "summaryJa": "Amazonにおいて、Apple Watch Ultra 3のブラックおよびナチュラルチタニウムモデルが約100ドル引きで販売されています。また、AirPodsシリーズやAirTag 2などの夏期セールも引き続き開催されており、各種Apple製品をお得に購入できる機会となっています。"
-    },
-    {
-      "id": "7331d213d17155c32790",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Leagues Cup 2026 Kicking Off on Apple TV",
-      "url": "https://www.macrumors.com/2026/08/03/leagues-cup-2026-apple-tv/",
-      "publishedAt": "2026-08-03T15:27:58.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-tv-leagues-cup-2026.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple TV、サッカーのリーグカップ全62試合をライブ配信",
-      "summaryJa": "北米のMLSとメキシコのリーガMXが対決する年間公式大会「リーグカップ」がApple TVで開幕します。100を超える国と地域のサブスクリプション登録者は、全62試合を追加料金なしで視聴可能です。Apple SportsやApple Musicなど、他のApple製サービスでも関連コンテンツが提供されます。"
     }
   ],
-  "updatedAt": "2026-08-11T18:38:42.777Z",
+  "updatedAt": "2026-08-11T19:46:55.519Z",
   "initialized": true,
   "summaryVersion": 4
 }
