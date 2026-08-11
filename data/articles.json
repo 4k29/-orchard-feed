@@ -1,6 +1,141 @@
 {
   "articles": [
     {
+      "id": "6684fda8038a3b014790",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "watchOS 27 will upgrade popular Apple Watch face with new options, per leak",
+      "url": "https://9to5mac.com/2026/08/11/watchos-27-will-upgrade-popular-apple-watch-face-with-new-options-per-leak/",
+      "publishedAt": "2026-08-11T17:39:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/modular-face-watchos-27-apple-ultra-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "watchOS 27でモジュラー文字盤に新色が追加される可能性",
+      "summaryJa": "次期watchOS 27では、Apple Watchの人気文字盤である「モジュラー」に多数の新しいカラーカスタマイズオプションが追加されると報じられています。ベータ版のコードから新色の名称が発見されており、秋に登場する新しいApple Watchバンドのデザインを予告している可能性もあると伝えられています。"
+    },
+    {
+      "id": "ffd550655d5e0cbd7e88",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Third macOS Golden Gate Public Beta Now Available",
+      "url": "https://www.macrumors.com/2026/08/11/macos-27-public-beta-3/",
+      "publishedAt": "2026-08-11T17:26:26.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/macOS-27-Public-Beta-Thumb-2.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、macOS 27 Golden Gate パブリックベータ3を公開",
+      "summaryJa": "Appleは秋の正式リリースに向け、一般登録者向けにmacOS 27 Golden Gateのパブリックベータ3をリリースしました。高度なAI機能を持つ新しいSiriやSpotlightからのアクセスに対応し、Liquid Glassデザインの透明度調整スライダーやUIの微調整なども含まれています。"
+    },
+    {
+      "id": "eb470be0096d7cd3e3e0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple rolls out macOS 27 Golden Gate public beta 3, here’s how to install it",
+      "url": "https://9to5mac.com/2026/08/11/apple-rolls-out-macos-27-golden-gate-public-beta-3-heres-how-to-install-it/",
+      "publishedAt": "2026-08-11T17:25:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/macOS-27-public.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "macOS 27 Golden Gate パブリックベータ3が登場",
+      "summaryJa": "Appleは開発者向けベータに続き、macOS 27 Golden Gateのパブリックベータ3の提供を開始しました。今回のバージョンではSiriやアクティビティモニタ、Safariなどのアイコンが刷新されたほか、ウィンドウの角の丸みが統一されるなどの細かな改良が施されています。"
+    },
+    {
+      "id": "33c7e7b42ddea85032e0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Third iOS 27 and iPadOS 27 Public Betas Now Available",
+      "url": "https://www.macrumors.com/2026/08/11/apple-releases-ios-27-public-beta-3/",
+      "publishedAt": "2026-08-11T17:22:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Cool.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27およびiPadOS 27のパブリックベータ3が利用可能に",
+      "summaryJa": "Appleは対応デバイスを持つ一般ユーザー向けに、iOS 27とiPadOS 27のパブリックベータ3をリリースしました。高度なAI機能を備えた新しいSiriをはじめ、Liquid Glassデザインの透明度調整機能や、写真アプリ向けの新しいAI編集ツールなどが追加されています。"
+    },
+    {
+      "id": "8274464d652537e0afab",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Public beta 3 for iPadOS 27 and more available now, here’s what’s new",
+      "url": "https://9to5mac.com/2026/08/11/public-beta-3-for-ipados-27-and-more-available-now-heres-whats-new/",
+      "publishedAt": "2026-08-11T17:22:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPadOS 27などのパブリックベータ3を配信開始",
+      "summaryJa": "Appleは開発者向けベータ5の公開に続き、iPadOS 27やtvOS 27などのパブリックベータ3を一般テスター向けにリリースしました。今回のビルドではSiriやSafariなどのアプリアイコンのデザイン刷新や、音声カスタマイズの追加が行われています。正式リリースを来月に控え、前回のベータ版よりも安定性とパフォーマンスが向上しているのが特徴です。"
+    },
+    {
+      "id": "7c0d476108841cbc8cbf",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 public beta 3 is here with Siri AI, iPhone speed upgrades, and more",
+      "url": "https://9to5mac.com/2026/08/11/ios-27-public-beta-3/",
+      "publishedAt": "2026-08-11T17:22:17.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27パブリックベータ3が登場、Siri AIや速度向上を搭載",
+      "summaryJa": "iPhone向けにiOS 27のパブリックベータ第3弾が配信され、今年最大のソフトウェアアップデートをいち早く体験できるようになりました。主な新機能としてSiri AIが搭載されたほか、画面時間の刷新やLiquid Glassのカスタマイズ、旧型モデルでも実感できるパフォーマンス向上などが含まれています。参加プログラムに登録することで、対応するiPhoneにて無料でインストールが可能です。"
+    },
+    {
+      "id": "c7a06bea9a3855ee1286",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "tvOS 27 and watchOS 27 Third Public Betas Now Available",
+      "url": "https://www.macrumors.com/2026/08/11/apple-releases-watchos-27-b3/",
+      "publishedAt": "2026-08-11T17:20:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "watchOS 27とtvOS 27のパブリックベータ3が公開",
+      "summaryJa": "AppleはApple WatchとApple TV向けに、それぞれwatchOS 27およびtvOS 27のパブリックベータ第3弾をリリースしました。watchOS 27ではSiri AIへの対応や動的なアプリグリッドの導入、精度の向上したワークアウト機能などが利用可能になります。一方のtvOS 27では、ポッドキャストアプリの刷新やApple Musicでのハイレゾロスレス対応などが含まれています。"
+    },
+    {
+      "id": "89831c848d576fd52e93",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Sonos is planning Ace Ultra headphones with a big AI push, report says",
+      "url": "https://9to5mac.com/2026/08/11/sonos-is-planning-ace-ultra-headphones-with-a-big-ai-push-report-says/",
+      "publishedAt": "2026-08-11T17:12:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/08/Sonos-Ace.webp?w=1200",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "SonosがAI機能を強化した次期ヘッドホンを準備中か",
+      "summaryJa": "SonosがAI機能を強化したプレミアムな次期ヘッドホン「Sonos Ace Ultra」を開発中であると報じられています。連邦通信委員会（FCC）の資料から存在が確認されており、カラーバリエーションの拡大や音声コマンドへの対応が示唆されています。9月の製品発表イベントでの披露が期待されており、音声制御や予測インテリジェンスを活用した機能面に注目が集まっています。"
+    },
+    {
+      "id": "72095fa85313aacda7fc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Grok Bot is an all-new iPhone and Mac app from SpaceXAI and Cursor",
+      "url": "https://9to5mac.com/2026/08/11/grok-bot-is-an-all-new-iphone-and-mac-app-from-spacexai-and-cursor/",
+      "publishedAt": "2026-08-11T17:10:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "SpaceXAIとCursorによる新しいAIアプリが登場か",
+      "summaryJa": "SpaceXAIとCursorが統合へ向かう中、新アプリ「Grok Bot」がMacおよびiOS向けにベータ版として公開されました。このアプリはユーザーの代わりに実際の業務を行うAIエージェントで、既存のツールやサービスにサインインして作業を完了させます。会話を記憶して好みを学習し、利用するほど性能が向上する仕組みを備えています。当初は上位プランの契約者限定で利用可能となっています。"
+    },
+    {
       "id": "ef1221340bb3a2a32a4a",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4369,144 +4504,9 @@
       ],
       "titleJa": "Apple、イギリス政府の暗号化バックドア要求に法的挑戦",
       "summaryJa": "イギリス政府が求める暗号化されたユーザーデータへのアクセス要求に対し、Appleが新たな法的措置に出たと報じられています。イギリス国内のユーザー向けiCloud高度データ保護を巡る政府の命令に対抗するもので、Appleはこれまでバックドアやマスターキーを構築したことはなく、今後も構築しないという姿勢を維持しています。"
-    },
-    {
-      "id": "b7cef7159bc18bdf1056",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirPods With Cameras Could Arrive Sooner Than Expected",
-      "url": "https://www.macrumors.com/2026/08/03/airpods-with-cameras-could-arrive-sooner/",
-      "publishedAt": "2026-08-03T14:14:09.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/airpods-pro-3-orange.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "カメラ搭載AirPodsが予想よりも早く登場する可能性か",
-      "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、Appleが開発を進めるカメラ搭載AirPodsのうち、コードネーム「B790」と呼ばれるモデルの生産準備が進んでおり、早ければ今年の秋にも登場する可能性があると報じられています。このセンサーは写真や動画の撮影ではなく、Siriに周囲のライブ映像を認識させるビジュアルインテリジェンス機能での活用が想定されています。より高機能な別のモデルは2027年末に予定されているとのことで、今後の動向が注目されます。"
-    },
-    {
-      "id": "b5e2101ec6208b8d2cf6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Amazon Doubles Down on 2026 MacBook Pro Discounts, Some Prices Now Lower Than July",
-      "url": "https://www.macrumors.com/2026/08/03/amazon-2026-macbook-pro/",
-      "publishedAt": "2026-08-03T13:57:46.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/05/macbook-pro-m5-pro-purple.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AmazonでMacBook Proの大幅割引がさらに拡大",
-      "summaryJa": "Amazonにて、最新のMacBook Proモデルを対象とした大規模なセールが実施されています。7月のセール時を上回る割引額が設定されており、14インチおよび16インチのM5 ProやM5 Maxを搭載した複数の構成で最大500ドルの値引きが行われています。今回の価格改定の波を受けた中で、これまでよりもさらにお得に購入できるチャンスとなっています。"
-    },
-    {
-      "id": "4d7ae8500e3576ef49a4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Acquiring Materials Science Company PlasmaSolve",
-      "url": "https://www.macrumors.com/2026/08/03/apple-acquiring-plasmasolve/",
-      "publishedAt": "2026-08-03T13:47:31.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/plasmasolve.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、チェコの材料科学企業PlasmaSolveを買収へ",
-      "summaryJa": "Appleが、プラズマシミュレーションソフトウェアなどを開発するチェコの材料科学企業PlasmaSolveを買収し、従業員を受け入れる合意に達したことが欧州委員会のウェブサイトで明らかになりました。PlasmaSolveは、メーカー向けに金属などの蒸着プロセスのシミュレーションを行う「MatSight」などのアプリケーションを手がけています。Appleはこれまでも、iPhoneなどの筐体表面を保護する耐久性の高い薄膜の製造において、同社の技術を長年活用してきました。"
-    },
-    {
-      "id": "3302e3aa3608eeca9c76",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s everything new Apple TV has coming in August",
-      "url": "https://9to5mac.com/2026/08/03/heres-everything-new-apple-tv-has-coming-in-august-2026/",
-      "publishedAt": "2026-08-03T13:37:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-tv-sunset-mountains.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、8月に配信される注目タイトルのラインナップを公開",
-      "summaryJa": "Apple TVにおいて8月に配信される予定の注目作品の数々が明らかにされました。待望の復活を果たす人気コメディシリーズ「テッド・ラッソ」シーズン4をはじめ、犯罪ドラマ「Women in Blue」シーズン2、大学バスケットボールの歴史を追うドキュメンタリーなどが順次登場する予定です。加入者はバラエティ豊かな新作や話題作の続編を堪能することができます。"
-    },
-    {
-      "id": "72c87d491fe6668a999a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "MacBook Air Experiencing 'Major' Shortage Despite $200 Price Increase",
-      "url": "https://www.macrumors.com/2026/08/02/macbook-air-shortage-report/",
-      "publishedAt": "2026-08-03T02:12:10.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/M4-MacBook-Air-13-and-15-inch-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "MacBook Airが価格改定後も大規模な品薄状態に",
-      "summaryJa": "6月の価格引き上げにもかかわらず、MacBook Airが現在、小売店などで過去に例を見ないほどの深刻な品薄状態に陥っていると報じられています。オンラインストアでの配送予定も大幅に遅れており、特にメモリを多く搭載した構成で遅延が顕著になっています。AIサーバーの需要拡大に伴うメモリチップの不足が供給に影響を与えており、MacStudioやMacminiに続いてMacBook Airも深刻な制約を受けています。"
-    },
-    {
-      "id": "ebe0e5c2591e8cbb7599",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirPods Pro 3, AirPods 4, and AirPods Max 2 Discounted in Latest Amazon Deals",
-      "url": "https://www.macrumors.com/2026/08/02/airpods-weekend-deals-6/",
-      "publishedAt": "2026-08-02T14:20:39.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/airpods-prime-day-deals.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Amazon、AirPods Pro 3やAirPods Max 2などのセールを実施",
-      "summaryJa": "Amazonにて、AirPods Pro 3やAirPods Max 2、AirPods 4などが特別価格で販売されています。AirPods Pro 3は通常249ドルから199.99ドルに値下げされており、アクティブノイズキャンセリング性能の向上や心拍数センサーなどが特徴です。他にもAirPods Max 2やAirPods 4シリーズも割引対象となっています。"
-    },
-    {
-      "id": "f890fdac2d15eedfe72a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "6 Things We Already Know About the 2028 iPhone",
-      "url": "https://www.macrumors.com/2026/08/01/things-we-know-about-2028-iphone/",
-      "publishedAt": "2026-08-02T01:00:10.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iphone-2028-punch-hole-design.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "2028年型iPhoneの改良点に関する噂が浮上",
-      "summaryJa": "2028年に登場すると噂されるiPhoneに関する早期の情報が伝えられています。20周年記念モデルのデザインを引き継ぎつつ、四辺が湾曲したディスプレイや画面下のFace IDとフロントカメラにおける課題を解決するモデルになると報じられています。特にカソード層の材質変更によって、画像歪みの軽減や発熱の改善が期待されています。"
-    },
-    {
-      "id": "248deebd79af6b2595ce",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 11 GPS Models Available From $299.99 on Amazon",
-      "url": "https://www.macrumors.com/2026/08/01/apple-watch-series-11-299-2/",
-      "publishedAt": "2026-08-01T14:39:53.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/apple-watch-series-11-dark.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AmazonでApple Watch Series 11のGPSモデルが割引に",
-      "summaryJa": "Amazonにおいて、Apple Watch Series 11のGPSモデルが99ドル引きのセール価格で販売されています。対象となるのは42mmおよび46mmのアルミニウムケースモデルで、これまでと同等の安値に近い価格で購入可能です。在庫やカラーによっては早期の配送オプションも利用できます。"
-    },
-    {
-      "id": "2915c0eef54f9c0a341d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Top Stories: 'Apple Upgrade' Launches, iOS 26.6 Released, and More",
-      "url": "https://www.macrumors.com/2026/08/01/top-stories-apple-upgrade-launches/",
-      "publishedAt": "2026-08-01T13:00:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/top-stories-2026-08-01.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "米国での新しい「Apple Upgrade」プログラム開始など",
-      "summaryJa": "今週のApple関連ニュースとして、米国でKlarnaと提携した新しいデバイスリースプログラム「Apple Upgrade」が開始されました。これまでのiPhone Upgrade Programに代わり、iPhoneやiPad、Mac、Apple Watchを対象に柔軟なリース契約を提供します。また、iOS 26.6のリリースや、AI市場の現状に関するインタビューなども話題となりました。"
     }
   ],
-  "updatedAt": "2026-08-11T16:37:36.595Z",
+  "updatedAt": "2026-08-11T17:42:08.901Z",
   "initialized": true,
   "summaryVersion": 4
 }
