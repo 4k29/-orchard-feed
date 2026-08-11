@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "9eb6992604384a55438d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple faces class action lawsuit for ‘fraud’ over iCloud Private Relay flaw",
+      "url": "https://9to5mac.com/2026/08/11/apple-faces-class-action-lawsuit-for-fraud-over-icloud-private-relay-flaw/",
+      "publishedAt": "2026-08-11T11:46:25.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-faces-class-action-lawsuit-for-fraud-over-iCloud-Private-Relay-flaw.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iCloudプライベートリレーの不具合を巡りAppleが集団訴訟に直面",
+      "summaryJa": "AppleのiCloudプライベートリレー機能に、パスキー関連の処理によって実際のIPアドレスが露出しトラッキングを防げなくなる脆弱性が見つかりました。この問題を巡り、Appleに対して虚偽の広告などを理由とする集団訴訟が提起されています。プライベートリレーはSafari利用時のIPアドレスと閲覧履歴の保護を目的としていますが、一部の仕様の隙間を突く形で実際の接続元が判明してしまう状態となっていました。"
+    },
+    {
+      "id": "5e5bb6e7e45de097b070",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPad Air OLED Panel Orders Could Be Split With BOE in 2027",
+      "url": "https://www.macrumors.com/2026/08/11/ipad-air-oled-panel-orders-could-be-split-with-boe/",
+      "publishedAt": "2026-08-11T11:36:32.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/10/m3-ipad-air-mint.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "2027年発売の次期iPad Air向けOLEDパネル、BOEが供給参入か",
+      "summaryJa": "中国のディスプレイメーカーであるBOEが、2027年前半に登場と噂される次世代iPad Air向けのOLEDパネル供給を目指していると報じられています。現在はSamsung Displayが主要サプライヤーとなる見込みですが、BOEは重慶の工場で生産準備を進めており、Appleの品質評価を通過すればサプライチェーンに加わる可能性があります。ただし、初期の供給量は中国市場向けや整備品などに限定される見通しです。"
+    },
+    {
       "id": "8a562152d20175f24be1",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "SpotifyがiOSアプリにランニングモードを追加",
       "summaryJa": "Spotifyが新たにランニングモードをiOSアプリに追加しました。この機能は、ユーザーが選択したワークアウトタイプやテンポに基づいてプレイリストを構成し、音楽を提供します。ランニング中に音声ガイドを利用することも可能ですが、現時点では英語のみ対応しています。この新機能は、フィットネスコンテンツの一環として提供され、プレミアム会員向けに利用可能です。"
-    },
-    {
-      "id": "dde1e1f6d4a81a57b2f5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: MacBook Pro $500 off, rare MacBook Air discounts, AirTag 2, charging gear, MagSage Battery, more",
-      "url": "https://9to5mac.com/2026/07/30/deals-macbook-pro-macbook-air-airtag-2-airpods/",
-      "publishedAt": "2026-07-30T15:38:48.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-deals-MacBook-Pro-Air-AirTag-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "MacBook Proが最大500ドルオフのセール",
-      "summaryJa": "現在、MacBook ProやAirPodsのセールが行われています。特に、20コアの2TB M5 Pro MacBook Proが300ドルオフ、16コアモデルは500ドルオフで販売中です。また、AirPods Pro 3やAirPods Max 2もそれぞれ50ドル、100ドルの割引が適用されています。これらのセールは、Apple製品をお得に購入する絶好の機会です。"
-    },
-    {
-      "id": "d57bd0f00b41f36593b4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Upgrade vs iPhone Upgrade Program: Here are the key differences",
-      "url": "https://9to5mac.com/2026/07/30/apple-upgrade-vs-iphone-upgrade-program-here-are-the-key-differences/",
-      "publishedAt": "2026-07-30T15:08:26.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple UpgradeとiPhone Upgrade Programの違い",
-      "summaryJa": "Appleは新たにApple Upgradeを発表し、iPhone Upgrade Programを終了しました。Apple Upgradeはリースプログラムで、月額料金が低く設定されていますが、AppleCareは含まれていません。一方、iPhone Upgrade Programは所有権があり、月額料金は高めでした。これにより、ユーザーは新しいiPhoneをより手軽に手に入れられる一方で、最終的に所有するためには追加費用が必要になります。"
     }
   ],
-  "updatedAt": "2026-08-11T11:06:41.802Z",
+  "updatedAt": "2026-08-11T11:57:56.511Z",
   "initialized": true,
   "summaryVersion": 4
 }
