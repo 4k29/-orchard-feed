@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "a9605a88c794da86282c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Still Planning 'Glass-Centric' iPhone Redesign for 2027",
+      "url": "https://www.macrumors.com/2026/08/10/glass-centric-iphone-still-planned-2027/",
+      "publishedAt": "2026-08-11T03:10:14.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "2027年のiPhoneはガラス中心のデザインに刷新か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者が、2027年の20周年記念モデル向けiPhoneとして計画されているガラス中心のデザイン刷新は現在も順調に進行していると報じています。アナリストによるキャンセルとの観測に対して反論する形で、前後を覆うガラスと中央のメタルバンドを採用する仕様がProモデル向けに準備されているとしています。"
+    },
+    {
       "id": "c3bf1cb216344cece1e2",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "ティム・クックの最後の決算発表を聴取可能",
       "summaryJa": "ティム・クックがAppleのCEOとして最後の決算発表に参加します。発表は太平洋時間の午後2時から行われ、誰でもAppleの投資家向けサイトで無料で視聴可能です。クック氏は9月1日からCEOを退任し、次回の決算発表には出席しません。発表後は録音も公開される予定です。"
-    },
-    {
-      "id": "88209e0800239daa5159",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Donating to European Wildfire Relief Efforts",
-      "url": "https://www.macrumors.com/2026/07/30/apple-donating-to-european-wildfire-relief-efforts/",
-      "publishedAt": "2026-07-30T13:43:37.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/09/Apple-Logo-Top-Half.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、欧州の森林火災支援に寄付",
-      "summaryJa": "AppleのCEOティム・クック氏が水曜日に発表したところによると、Appleはフランス、スペイン、ギリシャなどで発生した森林火災の被害を受けた地域への支援に寄付を行うとのことです。過去にも赤十字に寄付を行っており、具体的な金額は公表されていません。"
     }
   ],
-  "updatedAt": "2026-08-11T03:10:19.261Z",
+  "updatedAt": "2026-08-11T04:40:17.239Z",
   "initialized": true,
   "summaryVersion": 4
 }
