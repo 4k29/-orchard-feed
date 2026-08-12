@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "3358a90c02cce2b6e5ab",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple wins temporary Supreme Court pause in Epic Games proceedings",
+      "url": "https://9to5mac.com/2026/08/12/apple-wins-temporary-supreme-court-pause-in-epic-games-proceedings/",
+      "publishedAt": "2026-08-12T21:45:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "最高裁、Epic訴訟の下級審手続きを一時停止",
+      "summaryJa": "米連邦最高裁判所は、App Store外の購入にかかる手数料の提案を求めた下級裁判所の期限について、Appleに24時間の延長を認めました。最高裁がAppleの侮辱罪の認定に関する審理を行っている間、一時的に下級審の手続きが停止されることになります。この決定により、Apple側はより長期的な差し止めを求めるための時間的猶予を得ました。"
+    },
+    {
       "id": "82c80d23d83ab61fafc1",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "iPhoneをゲームボーイ風に変える透明ケースが登場",
       "summaryJa": "BitmoLabの人気iPhone用ケース「GAMEBABY」に、新しい半透明モデルが登場しました。このケースはバッテリーやBluetooth接続を一切使用せず、ケースの下半分を回転させることで物理的な十字キーやボタンとして使えるユニークな設計が特徴です。レトロゲームのエミュレーションを楽しむ際に、充電不要で手軽に心地よい操作感を実現しています。"
-    },
-    {
-      "id": "44389e84151214bce81a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch ‘National Fitness Day’ challenge returns this weekend",
-      "url": "https://9to5mac.com/2026/08/04/apple-watch-national-fitness-day-challenge-returns-this-weekend/",
-      "publishedAt": "2026-08-04T18:28:14.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-challenge-2026.webp?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch、中国で「国民フィットネスデー」の挑戦イベントを開催",
-      "summaryJa": "Apple Watchユーザー向けの中国限定のアクティビティチャレンジが今週末に実施されます。8月8日に20分以上のワークアウトを記録すると、フィットネスアプリ内で仮想メダルと4つのアニメーションステッカーが獲得できます。Appleは、ユーザーに様々なワークアウトを体験してもらうため、世界各地で定期的にこうしたイベントを開催しています。"
     }
   ],
-  "updatedAt": "2026-08-12T21:25:02.608Z",
+  "updatedAt": "2026-08-12T22:10:29.666Z",
   "initialized": true,
   "summaryVersion": 4
 }
