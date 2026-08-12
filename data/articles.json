@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "30aee4f5cd864c4fbfcf",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Eddy Cue said the thing we wanted to hear on future Ted Lasso seasons",
+      "url": "https://9to5mac.com/2026/08/12/eddy-cue-said-the-thing-we-wanted-to-hear-on-future-ted-lasso-seasons/",
+      "publishedAt": "2026-08-12T19:27:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ted-lasso-s4-red.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVのエディ・キュー氏、『テッド・ラッソ』の将来に意欲",
+      "summaryJa": "大人気ドラマ『テッド・ラッソ』シーズン4の配信開始に合わせ、Appleのサービス担当責任者であるエディ・キュー氏が今後のさらなる継続に前向きな姿勢を示しました。シーズン5以降についての公式発表はまだありませんが、同氏は十分なストーリーが残されていると語っています。今後の展開やキャラクターたちとの別れはまだ先のことになりそうです。"
+    },
+    {
+      "id": "f52537a2d909e7087e86",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Google Unveils $29 Pixel Tag to Take On Apple's AirTag",
+      "url": "https://www.macrumors.com/2026/08/12/google-pixel-tag/",
+      "publishedAt": "2026-08-12T18:52:26.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/google-pixel-tag-design.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Google、AppleのAirTagに対抗する紛失防止タグ「Pixel Tag」を発表",
+      "summaryJa": "GoogleがAppleのAirTagに対抗する初のアイテムトラッカー「Pixel Tag」を発表しました。ステンレススチール製で防水防塵に対応し、本体には接続したスマートフォンを鳴らすためのボタンが搭載されています。Bluetoothと超広帯域無線に対応しており、Androidデバイス向けの「Find Hub」アプリで位置を追跡できるほか、未知のトラッカー検知機能も備えています。"
+    },
+    {
+      "id": "997dd1455dd666f78916",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Wallet app could get new feature to manage trade-ins",
+      "url": "https://9to5mac.com/2026/08/12/apple-wallet-app-could-get-new-feature-to-manage-trade-ins/",
+      "publishedAt": "2026-08-12T18:51:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleウォレットアプリ、下取り査定の管理機能追加か",
+      "summaryJa": "Apple従業員向けの内部アプリのコードから、Appleウォレットで下取りオファーを管理できるようになる新機能が計画されていることが判明しました。現行の14日間から90日間へと査定の有効期限が延長される可能性も示唆されています。下取りプログラムは、製品価格の高騰が進むなかで重要な役割を担っています。"
+    },
+    {
       "id": "3a895c0ea9c4f49e0894",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4459,54 +4504,9 @@
       ],
       "titleJa": "OpenAI、Mac向けブラウザ終了に伴う対応を解説",
       "summaryJa": "OpenAIは、Mac向け専用ウェブブラウザ「ChatGPT Atlas」が週末に提供を終了することに伴い、今後の対応について詳細を説明しました。今後はスタンドアロンブラウザを廃止し、新しいChatGPTデスクトップアプリに統合されたブラウザ機能への移行を促しています。終了前にブックマークを手動でエクスポートする必要があるほか、クッキーや履歴の扱いについても注意が呼びかけられています。"
-    },
-    {
-      "id": "b76e8db653dac2894332",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: M5 MacBook Air up to $300 off, AirPods Max 2 $100 off, Beats Solo Buds from $41, AirTag 2, more",
-      "url": "https://9to5mac.com/2026/08/04/deals-m5-macbook-air-airpods-max-2-beats-solo-buds/",
-      "publishedAt": "2026-08-04T15:35:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-MacBook-Air-Anker-charger-AirTag-2-Beats.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "M5搭載MacBook Airが最大300ドル引きのセール中",
-      "summaryJa": "Appleの公式整備済みストアにおいて、M5チップを搭載したMacBook Airが最大300ドル引きとなるなど、魅力的な割引価格で販売されています。15インチモデルや24GBメモリを搭載した構成などが対象となっており、通常よりも手頃な価格で購入可能です。さらに、AirPods ProやAirPods Maxなど、人気のオーディオ製品も値引きの対象となっています。"
-    },
-    {
-      "id": "5d8346da1942b000353a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro will have three upgrades that have been rumored for years",
-      "url": "https://9to5mac.com/2026/08/04/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
-      "publishedAt": "2026-08-04T15:28:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proに長年噂された3つの機能強化か",
-      "summaryJa": "まもなく登場すると噂されるiPhone 18 Proには、長年取り沙汰されてきた3つの主要なアップグレードが搭載される見込みです。メインカメラへの可変絞りの採用をはじめ、従来より約35%小型化された新しいDynamic Island、そしてクアルコム製に代わるApple独自の次世代「C2」モデムの搭載が予想されています。いよいよ数週間後に迫った発表会で、その全貌が明らかになる見通しです。"
-    },
-    {
-      "id": "181d1720b020d8644050",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Bigger Displays Rumored for Next Year's iPhone Models",
-      "url": "https://www.macrumors.com/2026/08/04/bigger-displays-rumored-for-next-year-iphones/",
-      "publishedAt": "2026-08-04T14:40:29.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "次期iPhoneに大型ディスプレイ搭載の可能性",
-      "summaryJa": "中国のリーク情報によると、Appleは20周年を迎えるiPhoneに向けて、約6.4インチと約7インチの2種類の新しいディスプレイパネルを試作していると伝えられています。画面全体がわずかに拡大される一方でアスペクト比は維持され、4辺が湾曲したボーダレスな新デザインが採用される可能性があると報じられています。"
     }
   ],
-  "updatedAt": "2026-08-12T18:39:41.139Z",
+  "updatedAt": "2026-08-12T19:49:18.506Z",
   "initialized": true,
   "summaryVersion": 4
 }
