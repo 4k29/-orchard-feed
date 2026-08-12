@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "e1dc0e1f98346af6ea7a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp starts rolling out username support when creating new contacts",
+      "url": "https://9to5mac.com/2026/08/12/whatsapp-starts-rolling-out-username-support-when-creating-new-contacts/",
+      "publishedAt": "2026-08-12T22:50:12.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/whatsapp-usernames.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp、新規連絡先へのユーザー名追加機能を展開へ",
+      "summaryJa": "WhatsAppが新規連絡先を作成する際にユーザー名を保存できる機能の提供を開始しました。これまでは電話番号のみでの識別が主流でしたが、なりすましを防ぐユーザー名予約システムの導入に続くアップデートとなります。現在はベータ版および安定版の一部ユーザーを対象に順次展開されています。"
+    },
+    {
+      "id": "db30679b806c2225354e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Google's $100 Pixel Price Hike and Trade-In Push Hint at Apple's iPhone 18 Pro Plans",
+      "url": "https://www.macrumors.com/2026/08/12/google-pixel-price-hike/",
+      "publishedAt": "2026-08-12T22:48:51.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/google-pixel-11.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "GoogleのPixel値上げ、iPhone 18 Proの価格設定に影響か",
+      "summaryJa": "Googleが最新スマートフォン「Pixel」シリーズの価格を全体的に引き上げました。これに伴い、ベースストレージの容量増加や下取りプログラムの強調といった手法が取られており、今後のAppleのiPhone 18 Proモデルの価格戦略や販売手法にも影響を与えるのではないかと注目されています。"
+    },
+    {
       "id": "3358a90c02cce2b6e5ab",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "Apple、9月のiPhoneイベントに向けた準備を開始か",
       "summaryJa": "Appleは9月前半に開催されるとみられる新型iPhone発表イベントに向けた準備を進めています。全米の直営店スタッフを対象に、Apple Parkでのメディア対応などをサポートするプログラムの抽選応募が開始されました。新型のiPhone 18 Proシリーズや折りたたみモデルの登場が期待される中、イベントの日程は9月8日火曜日または9日水曜日になる可能性が報じられています。"
-    },
-    {
-      "id": "dd90c6d5ec910a9ad364",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AirPods Pro 3 just got new firmware release in beta, more models too",
-      "url": "https://9to5mac.com/2026/08/04/airpods-pro-3-just-got-new-firmware-release-in-beta-more-models-too/",
-      "publishedAt": "2026-08-04T18:33:57.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airpods-pro-3-upside-down.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirPods Pro 3などの新型モデル向けに新ベータファームウェアが登場",
-      "summaryJa": "Appleは、AirPods Pro 3やその他のモデル向けに新しいベータ版ファームウェアの配信を開始しました。このアップデートは来月予定されている次期OSの一般リリースに合わせて全ユーザー向けに展開される見通しです。設定アプリからベータ版へのオプトインが可能となっており、適用することで秋以降に利用可能になる様々な新機能への対応準備が進められます。"
-    },
-    {
-      "id": "ccd7180fe7edcffe312b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Hands-on: GAMEBABY’s new translucent case turns your iPhone into a Game Boy with real buttons",
-      "url": "https://9to5mac.com/2026/08/04/hands-on-gamebabys-new-translucent-case-turns-your-iphone-into-a-game-boy-with-real-buttons/",
-      "publishedAt": "2026-08-04T18:30:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/GAMEBABY-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhoneをゲームボーイ風に変える透明ケースが登場",
-      "summaryJa": "BitmoLabの人気iPhone用ケース「GAMEBABY」に、新しい半透明モデルが登場しました。このケースはバッテリーやBluetooth接続を一切使用せず、ケースの下半分を回転させることで物理的な十字キーやボタンとして使えるユニークな設計が特徴です。レトロゲームのエミュレーションを楽しむ際に、充電不要で手軽に心地よい操作感を実現しています。"
     }
   ],
-  "updatedAt": "2026-08-12T22:10:29.666Z",
+  "updatedAt": "2026-08-12T23:02:58.526Z",
   "initialized": true,
   "summaryVersion": 4
 }
