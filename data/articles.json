@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "d8f08388c36da9959e05",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Everything announced at Made by Google 2026: Pixel 11, Pixel Watch 5, Pixel Tag, & more",
+      "url": "https://9to5google.com/2026/08/12/made-by-google-2026-announcements/",
+      "publishedAt": "2026-08-12T14:18:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Made-by-Google-2026-cover.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "GoogleがPixel 11やPixel Watch 5などの詳細を予告",
+      "summaryJa": "Googleの未発表製品に関する情報が事前に詳細まで明らかにされました。Pixel 11やPixel Watch 5、Pixel Tagなどの新製品群が正式発表を前に注目を集めています。イベント本番を前に主要デバイスの仕様やラインナップが出揃う形となりました。"
+    },
+    {
+      "id": "88499fea37f9cc03e614",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Vince Gilligan reveals Pluribus season 2 just hit major milestone",
+      "url": "https://9to5mac.com/2026/08/12/vince-gilligan-reveals-pluribus-season-2-just-hit-major-milestone/",
+      "publishedAt": "2026-08-12T14:05:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/pluribus-art.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVの人気作「プルリブス」シーズン2が撮影へ",
+      "summaryJa": "Apple TVで配信され大きな話題となったドラマ「プルリブス」のシーズン2について、クリエイターのヴィンス・ギリガンが制作の進捗を明かしました。脚本の執筆が完了し、数ヶ月以内に撮影が開始される見込みです。順調にいけば、2027年後半の配信開始が期待されています。"
+    },
+    {
+      "id": "f72c7a3a4a112d48e0c1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Best Back to School Accessory Deals on Anker, Sony, Samsung and More This Week",
+      "url": "https://www.macrumors.com/2026/08/12/back-to-school-accessory/",
+      "publishedAt": "2026-08-12T14:01:15.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/samsung-sony-amazon-sale.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Ankerやソニーなどの人気アクセサリがセールに登場",
+      "summaryJa": "Amazonにて、Ankerの充電器やソニー、ソノスの音響機器などを対象とした大規模なアクセサリセールが実施されています。話題のワイヤレスヘッドホンや睡眠用イヤホン、サムスンのスマートモニターなどが割引価格で販売されています。新学期シーズンに向けたお得な買い物の好機となっています。"
+    },
+    {
+      "id": "d4644c582fa4e2180c72",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Skipping iPhone 18 Launch This Year",
+      "url": "https://www.macrumors.com/2026/08/12/apple-skipping-iphone-18-launch-this-year/",
+      "publishedAt": "2026-08-12T13:59:37.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apple-Skipping-iPhone-18-This-Year.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18標準モデルは今年秋の発売を見送りか",
+      "summaryJa": "Appleのサプライヤーであるペガトロンの発言などから、標準モデルのiPhone 18が今年秋の発売を見送り、来年3月にずれ込むとの見方が強まっています。今年の秋にはProモデルやPro Maxに加え、折りたたみ式のiPhone Ultraが先行して登場すると報じられています。シリーズの発売スケジュールが分割されることで、ラインナップに大きな変化が生じることになります。"
+    },
+    {
+      "id": "bc6a63c9a45c825c587c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 could get two new Pro-level upgrades, per report",
+      "url": "https://9to5mac.com/2026/08/12/iphone-18-could-get-two-new-pro-level-upgrades-per-report/",
+      "publishedAt": "2026-08-12T13:51:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18のベースモデルにProレベルの機能か",
+      "summaryJa": "アナリストのジェフ・プー氏によると、2027年初頭に発売される見込みのベースモデルのiPhone 18には、12GBのメモリと、iPhone 18 Proで初採用される新しいダイナミックアイランドのデザインが搭載される可能性があると報じられています。これまでの情報ではメモリ容量について異なる予測もありましたが、サプライチェーンの調査に基づき、下位モデルでも進化が進むと予想されています。"
+    },
+    {
+      "id": "50c4ecd5b03590dee77d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "'Everyone' at Apple Apparently Calls Foldable 'iPhone Ultra'",
+      "url": "https://www.macrumors.com/2026/08/12/everyone-at-apple-says-iphone-ultra/",
+      "publishedAt": "2026-08-12T13:47:13.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple社内では折りたたみiPhoneを「iPhone Ultra」と呼ぶ声か",
+      "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、Apple社内の関係者は開発中の折りたたみ式iPhoneを「iPhone Ultra」と呼んでいると伝えられています。ただし、これが正式な製品名になるかどうかは現時点では確定的ではなく、既存のUltra製品との位置づけの違いを疑問視する見方も示されています。"
+    },
+    {
       "id": "219793006ccac1c62213",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4413,99 +4503,9 @@
       ],
       "titleJa": "ブラジルでAppleがカジノゲームの年齢確認巡り提訴される",
       "summaryJa": "ブラジルの消費者団体や人権センターが、App Storeにおけるカジノ風ゲームの不十分な年齢確認を理由にAppleを提訴しました。子どもが年齢制限のあるゲームに簡単にアクセスできる状態であるとして、約3億レアルの損害賠償を求めています。同国では数ヶ月前からアプリの審査や未成年への対応を巡る懸念が高まっていました。"
-    },
-    {
-      "id": "eae2aef5019ef7fd177f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Telegram briefly pulled from the App Store over child sexual abuse material availability [U: Apple statement ]",
-      "url": "https://9to5mac.com/2026/08/03/telegram-appears-to-have-been-pulled-from-the-app-store-worldwide/",
-      "publishedAt": "2026-08-04T02:19:33.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/Telegram.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "TelegramがApp Storeから一時削除、規約違反コンテンツが原因",
-      "summaryJa": "メッセージングアプリのTelegramが、児童性的虐待素材に関する厳格なガイドラインに違反するコンテンツが見つかったとして、App Storeから一時削除されました。開発元が速やかに問題のコンテンツを削除し、投稿したユーザーを排除したことを受け、アプリはまもなく復旧しました。Appleは詳細な経緯について声明を発表し、厳正な対処を行っています。"
-    },
-    {
-      "id": "09a853364234662acaf9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple plans to open iPhone clipboard access to Windows PCs",
-      "url": "https://9to5mac.com/2026/08/03/apple-plans-to-open-iphone-clipboard-access-to-windows-pcs/",
-      "publishedAt": "2026-08-04T01:43:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/Even-Windows-fans-see-the-MacBook-Neo-as-a-winner.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、Windows PCとのクリップボード共有を欧州で計画",
-      "summaryJa": "Appleは欧州連合（EU）での相互運用性の要求に対応し、iPhoneとWindows PCの間でコピー＆ペーストを行える仕組みの構築を計画しています。Microsoftからの要請を受け、デバイス間のシームレスな同期を実現する拡張機能の開発を進める方針です。EU地域を対象に、生産性向上に向けた機能強化が行われる見通しです。"
-    },
-    {
-      "id": "c1daff95f0e65a72b098",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Russia escalates dispute with Apple over mandatory app preinstallation",
-      "url": "https://9to5mac.com/2026/08/03/russia-escalates-dispute-with-apple-over-mandatory-app-preinstallation/",
-      "publishedAt": "2026-08-04T00:59:23.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/Latest-Apple-antitrust-case-in-Russia.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ロシア、Appleに対する反トラスト法違反の訴訟を開始",
-      "summaryJa": "ロシア当局が、国内での必須アプリのプリインストール義務付けやアプリストア「RuStore」の提供要件にAppleが従わなかったとして、正式な訴訟手続きを開始したと報じられています。ロシアは2019年に国内向け端末での自国製アプリの提供を義務付ける法律を可決しており、制裁措置やアプリ削除を巡る両者の対立が続いていました。ロシアの連邦反トラスト局はAppleに対し、国内製ソフトウェアに対する不当な扱いへの対応を求めていました。"
-    },
-    {
-      "id": "9df4eda75f123ef717e3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Plans iPhone-to-Windows Copy and Paste in EU After Microsoft Request",
-      "url": "https://www.macrumors.com/2026/08/03/apple-iphone-windows-copy-paste/",
-      "publishedAt": "2026-08-03T23:20:04.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-universal-clipboard-copy-paste.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、EUでiPhoneとWindows間のコピー＆ペースト機能導入へ",
-      "summaryJa": "AppleがMicrosoftからの要請を受け、EUのデジタル市場法に基づく相互運用性リクエストに対応する形で、iOSデバイスとWindows PCの間でクロスデバイスのコピー＆ペーストを可能にする新機能を開発中であると伝えられています。Microsoftの要望に基づき、Appleはペアリングされたアクセサリ間でペーストボードを共有・インポートするソリューションを提案しました。ユーザーはアクセサリセットアップキットを用いて、ペアリングされたデバイスへのアクセス許可を一度だけ行うことで、シームレスなクリップボード同期を利用できるようになります。"
-    },
-    {
-      "id": "c1dfd6309772ec197bfa",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple caps security bug reports amid surge in AI-generated findings",
-      "url": "https://9to5mac.com/2026/08/03/apple-caps-security-bug-reports-amid-surge-in-ai-generated-findings/",
-      "publishedAt": "2026-08-03T23:08:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-security-malware-virus-code-9to5mac.png?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、AIによるセキュリティ脆弱性報告の急増を受け制限を導入",
-      "summaryJa": "強力な大規模言語モデル（LLM）の普及に伴い、自動生成された脆弱性報告が急増している問題に対処するため、Appleがバグ報奨金プログラムに制限を導入したと報じられています。Appleは内部セキュリティポータルからの提出件数に上限と30日間のクーリングオフ期間を設け、追加の割当を求める場合は申請が必要とする変更を行いました。業界全体でAIを活用した脆弱性発見が増加する中、レビューチームの負担軽減を図る動きが広がっています。"
-    },
-    {
-      "id": "bf6e5d70a80e86d816f9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Judge greenlights multi-billion-dollar class action over Apple Photos’ face recognition",
-      "url": "https://9to5mac.com/2026/08/03/judge-greenlights-multi-billion-dollar-class-action-over-apple-photos-face-recognition/",
-      "publishedAt": "2026-08-03T22:24:54.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-Photos-app-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、写真アプリの顔認識機能を巡る巨額集団訴訟に直面",
-      "summaryJa": "Appleの写真アプリにおける「ピープル」機能がイリノイ州の生体情報プライバシー法（BIPA）に違反しているとして、数千億円規模に及ぶ集団訴訟の継続が認められたと報じられています。2020年に原告グループが提訴して以来、数年にわたる審理や棄却の申し立てを経て、裁判所がクラス認定を下しました。原告側は、同意なしに生体データを収集・保存されたとして、州内の数百万人のユーザーを代表して巨額の損害賠償を求めています。"
     }
   ],
-  "updatedAt": "2026-08-12T13:39:03.152Z",
+  "updatedAt": "2026-08-12T14:44:38.382Z",
   "initialized": true,
   "summaryVersion": 4
 }
