@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "37ab9171e4aefb5004c4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Parents urged to revisit screen time limits as kids head back to school",
+      "url": "https://9to5mac.com/2026/08/12/parents-urged-to-revisit-screen-time-limits-as-kids-head-back-to-school/",
+      "publishedAt": "2026-08-12T11:03:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Parents-urged-to-change-screen-time-limits-as-kids-head-back-to-school.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新学期に向け子どもたちのスクリーンタイム制限の見直しを推奨",
+      "summaryJa": "夏休み期間中に緩みがちだった子どもたちのスクリーンタイム制限を、新学期の開始に合わせて見直すよう専門家が呼びかけています。過度なデバイス利用は学業成績や認知機能の低下を招く恐れがあり、従来の画一的な時間制限よりも、家庭の状況や成長に応じた柔軟なアプローチが重要視されています。"
+    },
+    {
       "id": "11ea3c5faa4fb5a4406f",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "インドのApple向け製造税制優遇、2041年まで延長か",
       "summaryJa": "インド政府が、契約メーカーに機械や設備を供給する外国企業向けの税制優遇措置を2041年まで10年間延長する法案を検討していると報じられています。この動きは、中国からのサプライチェーン分散を進めるAppleにとって大きな追い風となり、インドでのiPhone生産割合はさらに高まると予想されています。"
-    },
-    {
-      "id": "d46dbd56dc9520e0bbad",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "John Ternus recruits key Apple hardware VP out of retirement ahead of CEO transition",
-      "url": "https://9to5mac.com/2026/08/03/john-ternus-recruits-key-apple-hardware-vp-out-of-retirement-ahead-of-ceo-transition/",
-      "publishedAt": "2026-08-03T20:30:32.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/IMG_0033.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "次期CEO就任を控えるジョン・ターナス氏、元幹部を復帰へ",
-      "summaryJa": "9月1日のApple最高経営責任者（CEO）就任を前に、ジョン・ターナス氏が経営陣の体制固めを進めています。数年前に退職していたハードウェアエンジニアリング担当の元副社長ローラ・レグロス氏を再び呼び戻し、CEO直属のクロスファンクショナルな役割を担う幹部として起用する方針です。"
     }
   ],
-  "updatedAt": "2026-08-12T10:17:19.423Z",
+  "updatedAt": "2026-08-12T11:14:11.866Z",
   "initialized": true,
   "summaryVersion": 4
 }
