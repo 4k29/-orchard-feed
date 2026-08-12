@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "3a895c0ea9c4f49e0894",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MLB iPhone app just got better with new CarPlay and Live Activity features",
+      "url": "https://9to5mac.com/2026/08/12/mlb-iphone-app-just-got-better-with-new-carplay-and-live-activity-features/",
+      "publishedAt": "2026-08-12T18:10:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/MLB-app.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone向け公式MLBアプリ、CarPlayやライブアクティビティを強化",
+      "summaryJa": "公式MLBアプリのアップデートにより、お気に入りのチーム以外でも任意の試合でライブアクティビティを利用できるようになりました。試合の画面から「Track」ボタンをタップするだけで、ロック画面やDynamic Islandにスコアなどが表示されます。また、CarPlayでの操作性も向上し、実況ラジオの選択や詳細な試合情報の確認がスムーズに行えるようになっています。"
+    },
+    {
+      "id": "07909fac998177d95111",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Wallet Could Soon Save Trade-In Quotes for 90 Days",
+      "url": "https://www.macrumors.com/2026/08/12/apple-wallet-trade-in-quotes-90-days/",
+      "publishedAt": "2026-08-12T18:07:38.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/05/apple-trade-in-2024.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "アップル、下取り査定額をApple Walletに90日間保存する機能を準備中か",
+      "summaryJa": "アップルの社内向けアプリのコードから、店舗での下取り査定オファーをApple Walletに最大90日間保存できる仕組みが開発されていることが判明しました。従業員が提示するQRコードをiPhoneで読み取ることで、Walletパスとして保存できると伝えられています。現行のオンライン下取りよりも長い期間有効な見積もりを保持できるようになる可能性があります。"
+    },
+    {
+      "id": "e6e271350b224994e52d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "BowFlex T6 review: Apple GymKit comes home at a normal treadmill price",
+      "url": "https://9to5mac.com/2026/08/12/bowflex-t6-review-apple-gymkit-comes-home-at-a-normal-treadmill-price/",
+      "publishedAt": "2026-08-12T17:55:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/BowFlex-T6-Apple-Watch-GymKit.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "手頃な価格の家庭用トレッドミル「BowFlex T6」でApple GymKitを試す",
+      "summaryJa": "Apple Watchとフィットネス機器の間でデータを正確に同期できるApple GymKitですが、対応機器はこれまで高価なモデルが中心でした。しかし、約1,000ドルの手頃な家庭用トレッドミル「BowFlex T6」でもGymKitが利用可能になり、より正確なワークアウトデータの測定ができるようになっています。お互いのデータを補完し合うことで、より詳細なカロリーや速度の記録が可能になる便利な機能です。"
+    },
+    {
+      "id": "c213b5e9ce28535d5d80",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Hires Airline Exec as Vice President of Government Affairs",
+      "url": "https://www.macrumors.com/2026/08/12/apple-vice-president-government-affairs/",
+      "publishedAt": "2026-08-12T17:51:14.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/11/Apple-Logo-16x9.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "アップル、政府渉外担当の副社長に元航空会社幹部を起用か",
+      "summaryJa": "アップルがアメリカン航空の元副社長であるニック・ガッテン氏を、政府渉外担当の新副社長として起用したと報じられています。同氏は2026年末に退任予定のキャサリン・アダムス氏の後任の一部を引き継ぎます。共和党とのパイプを持つとされる同氏は、政権との関係構築などを通じて今後の政策対応を担うことになると伝えられています。"
+    },
+    {
+      "id": "84607246432665aa4edd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro set to become Apple’s new default model",
+      "url": "https://9to5mac.com/2026/08/12/iphone-18-pro-set-to-become-apples-new-default-model/",
+      "publishedAt": "2026-08-12T17:50:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proが秋の新たな標準モデルになる可能性か",
+      "summaryJa": "今年の秋は通常モデルのiPhone 18が遅れるとの報道があり、iPhone 18 Proが事実上の標準モデルになると伝えられています。下位機種には従来のモデルが残り、プロモデルが中心のラインナップになることで、今後の市場への影響が注目されています。"
+    },
+    {
       "id": "8609cbbc0de84cf2f23e",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -149,6 +224,22 @@
       ],
       "titleJa": "MacBook Airの品薄状態が悪化、現在の在庫状況と購入先",
       "summaryJa": "業界全体でのメモリ供給制約の影響を受け、AppleオンラインストアでのMacBook Airの配送に遅れが生じています。カスタム構成ではさらに時間がかかる状況ですが、Amazonなどの一部サードパーティ製小売パートナーでは即納可能なモデルや割引価格も見られます。"
+    },
+    {
+      "id": "ba4d66fe08f00218c6b0",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Updates to Age Ratings for the Republic of Korea",
+      "url": "https://developer.apple.com/news/?id=oj3r9pvw",
+      "publishedAt": "2026-08-12T15:00:03.000Z",
+      "imageUrl": null,
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "韓国App Storeの年齢制限設定に関するアップデート",
+      "summaryJa": "Appleは韓国の規制要件に対応するため、App Storeにおける年齢制限の仕組みを順次変更すると発表しました。本日から公式のレーティング番号を用いた手動の上書きが可能になるほか、一部のコンテンツ説明の基準が変更されます。"
     },
     {
       "id": "d8f08388c36da9959e05",
@@ -4413,99 +4504,9 @@
       ],
       "titleJa": "次期iPhoneに大型ディスプレイ搭載の可能性",
       "summaryJa": "中国のリーク情報によると、Appleは20周年を迎えるiPhoneに向けて、約6.4インチと約7インチの2種類の新しいディスプレイパネルを試作していると伝えられています。画面全体がわずかに拡大される一方でアスペクト比は維持され、4辺が湾曲したボーダレスな新デザインが採用される可能性があると報じられています。"
-    },
-    {
-      "id": "71a6737ea2c8f5cf3d94",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 gives FaceTime huge upgrade with this powerful new feature",
-      "url": "https://9to5mac.com/2026/08/04/ios-27-gives-facetime-huge-upgrade-with-this-powerful-new-feature/",
-      "publishedAt": "2026-08-04T14:30:17.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/facetime-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27のFaceTimeにデュアルキャプチャ機能が追加か",
-      "summaryJa": "iOS 27では、iPhone 17以降の対応モデル向けにFaceTimeで強力な新しいデュアルキャプチャ機能が利用できるようになると伝えられています。これにより、通話中にフロントカメラとリアカメラの映像を同時に表示することが可能になり、対応するデバイス同士であればお互いの映像を共有できるようになります。"
-    },
-    {
-      "id": "1e7fa4b4b258d9adb9de",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Card Now Fast-Tracks Booking.com Perks With Just One Trip",
-      "url": "https://www.macrumors.com/2026/08/04/apple-card-booking-com-loyalty/",
-      "publishedAt": "2026-08-04T14:13:40.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-card-booking-genius.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Card、Booking.comで上級会員資格を即時付与",
-      "summaryJa": "Apple Cardユーザーを対象に、Booking.comでの特典が強化され、1回滞在またはレンタカーを利用するだけで通常よりも早くGeniusレベル2に自動アップグレードされるようになりました。これにより、対象の宿泊施設などで10%から15%の割引や無料朝食などの特典が受けられるようになります。"
-    },
-    {
-      "id": "4a78e9dfeec1b15287d8",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp Adds '@ all' Mentions and Poll Upgrades to Group Chats",
-      "url": "https://www.macrumors.com/2026/08/04/whatsapp-adds-all-mentions-and-poll-upgrades/",
-      "publishedAt": "2026-08-04T14:00:22.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "WhatsApp、グループチャットに「@all」メンション機能などを追加",
-      "summaryJa": "WhatsAppはグループチャット向けに、一斉通知が可能な「@all」メンション機能や、投票機能の改良、既存グループから新しいグループを簡単に作成できる新機能の提供を開始しました。「@all」は緊急の連絡などに便利で、投票機能では終了時刻の設定や投票者の非表示が可能になっています。"
-    },
-    {
-      "id": "6f2d3c899bf11af8b192",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp launches three new features to upgrade group chats",
-      "url": "https://9to5mac.com/2026/08/04/whatsapp-launches-new-features-to-upgrade-group-chats/",
-      "publishedAt": "2026-08-04T14:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-green.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp、投票機能の改善や一斉通知などの新機能を提供開始",
-      "summaryJa": "WhatsAppはグループチャット向けに3つの新しい機能の提供を開始しました。投票機能では投票者名の非表示設定や締め切り日時の設定、投稿後15分以内の編集が可能になり、さらにグループ全員に通知を送る「@all」メンションや、既存グループから簡単に新しいチャットを作成する機能が追加されています。"
-    },
-    {
-      "id": "3aa7a1e9e68b4d7b439f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Amazon Discounts New M4 iPad Air Models by Up to $69",
-      "url": "https://www.macrumors.com/2026/08/04/amazon-m4-ipad-air-models/",
-      "publishedAt": "2026-08-04T13:59:09.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/m4-ipad-air-spring.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Amazon、M4搭載iPad Airを最大69ドル引きでセール販売",
-      "summaryJa": "Amazonにて、新型のM4 iPad Airモデルを対象とした割引セールが実施されています。11インチおよび13インチの各モデルが最大69ドル引きとなっており、対象にはM4チップやWi-Fi 7などを搭載した最新のタブレットが含まれています。"
-    },
-    {
-      "id": "164b11db9bdbda987db3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Next year’s iPhone Pro models will have larger screen sizes, per leak",
-      "url": "https://9to5mac.com/2026/08/04/next-years-iphone-pro-models-will-have-larger-screen-sizes-per-leak/",
-      "publishedAt": "2026-08-04T13:34:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "来年のiPhone Proモデルは画面サイズがさらに大型化か",
-      "summaryJa": "来年のiPhone登場20周年に向け、iPhone Proモデルの大幅なデザイン刷新や画面サイズの大型化に関する噂が浮上しています。リーク情報によると、iPhone Proは6.4インチ、iPhone Pro Maxは7インチのディスプレイを搭載し、ベゼルレスの曲面ディスプレイを採用する可能性があると報じられています。"
     }
   ],
-  "updatedAt": "2026-08-12T17:43:48.856Z",
+  "updatedAt": "2026-08-12T18:39:41.139Z",
   "initialized": true,
   "summaryVersion": 4
 }
