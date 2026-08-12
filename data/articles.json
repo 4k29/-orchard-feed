@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "219793006ccac1c62213",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Foxconn used to make half its revenue from Apple; now it’s below 29%",
+      "url": "https://9to5mac.com/2026/08/12/foxconn-used-to-make-half-its-revenue-from-apple-now-its-below-29/",
+      "publishedAt": "2026-08-12T13:08:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Foxconn-used-to-make-half-its-revenue-from-Apple-now-its-below-29pc.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Foxconn、Appleからの売上比率が29%未満に低下",
+      "summaryJa": "主要なiPhone組み立てパートナーであるFoxconnにおいて、Apple関連の売上高の割合が直近の四半期で29%未満に低下したと報じられています。この構造的な変化の主な理由は、AIサーバーを含むクラウドおよびネットワーク部門の急成長によるものであり、同部門の売上は全体の過半数を占めるようになりました。同社はこのシフトが一時的なものではなく恒久的なものになると見込んでおり、今後の重要な成長ドライバーに位置づけています。"
+    },
+    {
+      "id": "75dd3662e50cad51efd7",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "'iPhone Ultra' Screen Protectors Reveal Asymmetric Corners",
+      "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-screen-protectors-reveal-asymmetry/",
+      "publishedAt": "2026-08-12T12:44:10.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "噂の「iPhone Ultra」用とされる画面保護フィルムが流出",
+      "summaryJa": "リーク情報で知られる人物が、Appleの折りたたみ式デバイス「iPhone Ultra」向けとされる画面保護フィルムの画像や動画を公開しました。流出したアクセサリーは、ヒンジ側に直角のコーナーを持ち、反対側が丸みを帯びた非対称な形状になっており、これまでの噂のデザインと一致しています。また、前面カメラ用のパンチホールは中央ではなく右側に配置されており、Face IDではなくTouch IDの採用を示唆する内容となっています。"
+    },
+    {
+      "id": "decabacb4ccabb1ab1aa",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Microsoft Edge Browser to Get Apple Account Sign-In Support",
+      "url": "https://www.macrumors.com/2026/08/12/microsoft-edge-browser-apple-account-sign-in/",
+      "publishedAt": "2026-08-12T12:27:43.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/05/microsoft-edge-hero.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "マイクロソフトのEdgeブラウザがAppleアカウントでのサインインに対応へ",
+      "summaryJa": "マイクロソフトのEdgeブラウザが、新しいAppleアカウントを使ったサインイン機能のテストを実施していることが分かりました。最新のEdge CanaryビルドやBeta版において、専用のフラグやプロフィールメニューへのサインインボタン追加が確認されています。これにより、WindowsおよびmacOSのユーザーは、マイクロソフトアカウントを新たに作成することなくEdgeを利用できるようになります。"
+    },
+    {
+      "id": "d85c2a4128dbb57c81bd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 20 Pro’s all-glass design spotted in supply chain, says leaker",
+      "url": "https://9to5mac.com/2026/08/12/iphone-20-pros-all-glass-design-spotted-in-supply-chain-says-leaker/",
+      "publishedAt": "2026-08-12T12:19:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-20th-anniversary.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "次世代iPhoneのオールガラスデザイン、サプライチェーンで確認か",
+      "summaryJa": "Appleの大幅なデザイン変更を伴う次世代iPhoneを巡り、キャンセルされたとの見方がある一方で、サプライチェーンでディスプレイが確認されたとの新たな情報が伝えられました。かつてのジョニー・アイブ氏が目指した「一枚のガラス」のような外観を実現するため、Apple Watchのような高度な光学効果を採用したディスプレイが準備されていると報じられています。発売時期や開発状況については異なる見解が交錯しています。"
+    },
+    {
       "id": "47abc78ff9ee1ebc6d73",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4443,69 +4503,9 @@
       ],
       "titleJa": "Apple、写真アプリの顔認識機能を巡る巨額集団訴訟に直面",
       "summaryJa": "Appleの写真アプリにおける「ピープル」機能がイリノイ州の生体情報プライバシー法（BIPA）に違反しているとして、数千億円規模に及ぶ集団訴訟の継続が認められたと報じられています。2020年に原告グループが提訴して以来、数年にわたる審理や棄却の申し立てを経て、裁判所がクラス認定を下しました。原告側は、同意なしに生体データを収集・保存されたとして、州内の数百万人のユーザーを代表して巨額の損害賠償を求めています。"
-    },
-    {
-      "id": "81a5cd444a77030bbb24",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Will Judge Your Mustache Authenticity at Its Ted Lasso Look-Alike Contest",
-      "url": "https://www.macrumors.com/2026/08/03/apple-ted-lasso-look-alike-contest/",
-      "publishedAt": "2026-08-03T22:03:19.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-ted-lasso-look-alike.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、ニューヨークで「テッド・ラッソ」そっくりさんコンテストを開催へ",
-      "summaryJa": "Appleは、「テッド・ラッソ」シーズン4の配信を記念して、ニューヨークのApple Fifth Avenueでそっくりさんコンテストを開催すると報じられています。参加者は、外見や振る舞い、ヒゲの完成度などを競い合い、優勝者にはカスタム仕様のBeats製ヘッドホンなどが贈られます。イベントは3ラウンド制で行われ、ユーモアや作品への愛着が審査される予定です。"
-    },
-    {
-      "id": "aaa167402e276a5e0859",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Report: Apple’s secrecy efforts partly undermined by lax work iCloud policy",
-      "url": "https://9to5mac.com/2026/08/03/report-apples-secrecy-efforts-partly-undermined-by-lax-work-icloud-policy/",
-      "publishedAt": "2026-08-03T21:30:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/icloud-icon-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの社内iCloudポリシー、機密保持対策の弱点になっているとの報道",
-      "summaryJa": "Appleが従業員に対して個人用と仕事用のiCloudアカウントを混同して使用することを推奨してきた方針により、退職後も一部の元従業員が社内機密ファイルにアクセスし続けられる状態になっていたと報じられています。この内部事情に関する報道は、Appleが他社を相手取って起こしている営業秘密侵害の訴訟における同社の主張に影響を与える可能性があります。"
-    },
-    {
-      "id": "0ccba3dc80802fa7c3b1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s why Apple Upgrade requires AT&T, T-Mobile, or Verizon for iPhone",
-      "url": "https://9to5mac.com/2026/08/03/why-apple-upgrade-requires-att-t-mobile-or-verizon-for-iphone/",
-      "publishedAt": "2026-08-03T21:11:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新しいApple Upgradeプログラムで大手キャリア契約が必須である理由",
-      "summaryJa": "新しく提供されたApple Upgradeプログラムでは、iPhoneのリース契約時に主要3キャリアへの接続が必須条件となっています。元Apple従業員らの見解によると、これは米国の巨大キャリアとの間で結ばれている巨額の協定や譲歩に基づくパッケージの一部であり、小売店舗での不正利用や詐欺リスクを軽減する狙いもあると伝えられています。"
-    },
-    {
-      "id": "a66f0c56775e5466270a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Next CEO Adds Retired Hardware Executive to His Team",
-      "url": "https://www.macrumors.com/2026/08/03/apple-john-ternus-hiring-retired-vp/",
-      "publishedAt": "2026-08-03T20:49:15.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-laura-legros.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "次期CEOジョン・ターナス氏、引退した元ハードウェア幹部をチームに起用か",
-      "summaryJa": "次期Apple CEOに就任予定のジョン・ターナス氏が、2022年に引退した元ハードウェアエンジニアリング担当副社長のローラ・レグロス氏を復帰させると報じられています。レグロス氏はターナス氏の信頼厚い人物であり、同氏の直属として社内の異なる部門を横断的にサポートする役割を担うことになります。ターナス氏は9月1日のCEO就任に向けて準備を進めています。"
     }
   ],
-  "updatedAt": "2026-08-12T12:02:12.722Z",
+  "updatedAt": "2026-08-12T13:39:03.152Z",
   "initialized": true,
   "summaryVersion": 4
 }
