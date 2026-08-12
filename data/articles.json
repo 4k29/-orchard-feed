@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "8609cbbc0de84cf2f23e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Ultra’s cameras might get very unorthodox placement, per leak",
+      "url": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/",
+      "publishedAt": "2026-08-12T17:27:04.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "折りたたみiPhoneの前面カメラは隅に配置されるか",
+      "summaryJa": "来月発表されると噂の折りたたみiPhoneについて、デバイスの前面カメラが従来の画面中央ではなく、コーナー部分に配置される可能性があると報じられています。外部ディスプレイ用と内部ディスプレイ用の両方で通常のデザインから大きく変更される見通しで、リークされたサードパーティ製スクリーンプロテクターの切り欠きから浮上しました。ただし、アクセサリーメーカーの憶測に過ぎない可能性もあり、実際の仕様については今後注目が集まります。"
+    },
+    {
+      "id": "fa083d1aa763901f9d75",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro: Apple Secures Lower Display Prices Amid RAM Shortage",
+      "url": "https://www.macrumors.com/2026/08/12/iphone-18-pro-lower-oled-display-cost-report/",
+      "publishedAt": "2026-08-12T17:21:25.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/05/Low-Angle-iPhone-Purple.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhone 18 Proのディスプレイ価格を引き下げか",
+      "summaryJa": "Appleが次期iPhone 18 Proモデル向けOLEDディスプレイの価格引き下げをサプライヤーと合意したと報じられています。AIデータセンターの拡大に伴うRAMチップの価格高騰で生産コストが増加する中、ディスプレイなどの部品コストを抑えることで一部を相殺する狙いとみられています。それでもiPhone 18 Proモデルは値上がりする可能性が指摘されており、正式な価格発表に注目が集まっています。"
+    },
+    {
+      "id": "b64568687f7561fa0867",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple hires American Airlines exec to lead government affairs",
+      "url": "https://9to5mac.com/2026/08/12/apple-hires-american-airlines-exec-to-lead-government-affairs/",
+      "publishedAt": "2026-08-12T17:19:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、政府渉外担当の副社長にアメリカン航空の幹部を起用",
+      "summaryJa": "Appleが政府渉外担当の新副社長として、アメリカン航空のベテラン幹部であるネイト・ガッテン氏を起用すると報じられました。ガッテン氏は8月31日付で就任し、法務責任者のキャサリン・アダムス氏の後任となります。トランプ政権との関係構築を見据えた人事とみられており、今後はティム・クック氏とも緊密に連携しながら政策担当者との交渉にあたると伝えられています。"
+    },
+    {
+      "id": "997b2eaddcc9d49e0252",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Raycast adds a new way to ask AI about whatever is on your screen",
+      "url": "https://9to5mac.com/2026/08/12/raycast-adds-a-new-way-to-ask-ai-about-whatever-is-on-your-screen/",
+      "publishedAt": "2026-08-12T17:12:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/raycast-screen-awareness.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Raycast、画面上のコンテンツをAIに直接認識させる新機能を追加",
+      "summaryJa": "Mac向けランチャーアプリのRaycastに、アクティブなアプリやウィンドウの文脈を直接AIチャットに取り込める「Screen Awareness」機能が追加されました。この機能により、ユーザーはテキストのコピーやスクリーンショットのアップロードを行わずに、画面上の内容について直接AIに質問や要約の指示を出せるようになります。専用のショートカットを設定することで、よりスムーズなワークフローを実現します。"
+    },
+    {
       "id": "1eb464e281428d63cab0",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4443,69 +4503,9 @@
       ],
       "titleJa": "来年のiPhone Proモデルは画面サイズがさらに大型化か",
       "summaryJa": "来年のiPhone登場20周年に向け、iPhone Proモデルの大幅なデザイン刷新や画面サイズの大型化に関する噂が浮上しています。リーク情報によると、iPhone Proは6.4インチ、iPhone Pro Maxは7インチのディスプレイを搭載し、ベゼルレスの曲面ディスプレイを採用する可能性があると報じられています。"
-    },
-    {
-      "id": "0dd90a289713f8cfeb55",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "T-Mobile outage could see you snag $10 to $80 in compensation",
-      "url": "https://9to5mac.com/2026/08/04/t-mobile-outage-could-see-you-snag-10-to-80-in-compensation/",
-      "publishedAt": "2026-08-04T13:19:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/tmo-sos.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "T-Mobileの大規模通信障害、利用者へ補償として10〜80ドルが適用か",
-      "summaryJa": "先週アメリカ国内で発生したT-Mobileの大規模な通信障害により、多くのiPhoneユーザーが数時間にわたりサービスを利用できない状態となりました。公式からの自動的な補償はないものの、カスタマーサポートに連絡したユーザーの間では、10ドルから80ドルの利用料金クレジットを獲得できたという報告が相次いでいます。"
-    },
-    {
-      "id": "4290a13901096ad2f89f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple moves for preliminary injunction in OpenAI trade secrets lawsuit",
-      "url": "https://9to5mac.com/2026/08/04/apple-preliminary-injunction-openai/",
-      "publishedAt": "2026-08-04T12:47:36.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、OpenAIを訴えた営業秘密侵害訴訟で仮処分を申請",
-      "summaryJa": "Appleは、OpenAIに対する営業秘密侵害を巡る訴訟で、裁判所に予備的差止命令（仮処分）の適用を申請した。Appleは、OpenAIが機密情報の使用を継続すれば回復不可能な損害を受けると主張している。両社間で機密情報の削除やフォレンジック検査を巡る協議が不調に終わり、裁判所による即時介入を求める事態となった。"
-    },
-    {
-      "id": "794ca2fd6be2d4af2b1d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Annual India Sales Surpass $10 Billion for First Time",
-      "url": "https://www.macrumors.com/2026/08/04/apple-annual-india-sales-surpass-10-billion/",
-      "publishedAt": "2026-08-04T12:37:22.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2020/08/apple-india.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleのインド年間売上高が初の100億ドルを突破",
-      "summaryJa": "関係者の話としてBloombergが報じたところによると、3月末までの事業年度におけるAppleのインド年間売上高が初めて100億ドルを突破した。同国内での直営店舗の展開拡大やリテール拠点の強化が寄与し、2ケタ台の成長を記録した。iPhoneが売上の大部分を占めるほか、iPadやMacBookの需要も高まっている。"
-    },
-    {
-      "id": "ff2c2a42918d602b2a78",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "No, Apple Photos face recognition is not a privacy threat – quite the opposite",
-      "url": "https://9to5mac.com/2026/08/04/no-apple-photos-face-recognition-is-not-a-privacy-threat-quite-the-opposite/",
-      "publishedAt": "2026-08-04T12:31:14.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/No-Apple-Photos-face-recognition-is-not-a-privacy-threat-–-quite-the-opposite.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの写真アプリにおける顔認識機能とプライバシー保護",
-      "summaryJa": "Appleの写真アプリにおける顔認識機能が州のプライバシー法に違反しているとして、多額の損害賠償を求める訴訟の進行が許可された。Metaのサーバー側で行われる顔認識とは異なり、Appleのアルゴリズムは完全にデバイス上で処理されており、生体データを収集していない。裁判所の判断は機能の仕組みを誤解していると指摘されている。"
     }
   ],
-  "updatedAt": "2026-08-12T16:39:26.098Z",
+  "updatedAt": "2026-08-12T17:43:48.856Z",
   "initialized": true,
   "summaryVersion": 4
 }
