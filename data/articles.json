@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "f52ae842c01312df4253",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Supreme Court Lets Apple Delay App Store Fee Fight for 24 Hours",
+      "url": "https://www.macrumors.com/2026/08/12/app-store-fee-fight-24-hour-delay/",
+      "publishedAt": "2026-08-12T23:21:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/05/app-store-blue-banner-epic-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "米最高裁、Epic Gamesとの訴訟でAppleの手数料提案期限を一時猶予",
+      "summaryJa": "米最高裁判所は、Epic Gamesとの法廷闘争において、Appleに1日間の猶予を与えました。これにより、Appleはウェブ上での購入リンクに関する手数料案の提出期限が一時的に延長されます。両社を巡る争いは長年続いており、今後の裁判所の判断が注目されています。"
+    },
+    {
+      "id": "0dc4ebfaec98a8db0990",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: August 12, 2026 – Apple exec changes, more",
+      "url": "https://9to5mac.com/2026/08/12/daily-august-12-2026/",
+      "publishedAt": "2026-08-12T23:19:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Pay責任者のジェニファー・ベイリー氏が10月に退任へ",
+      "summaryJa": "Apple Payを率いてきたジェニファー・ベイリー氏が、今年10月に退任すると報じられています。長年にわたりAppleの決済サービス事業を牽引してきた同氏の去就は、今後の同社サービス部門に影響を与える可能性があります。"
+    },
+    {
+      "id": "4db4582e22ca949ee975",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: Apple seeks publisher deals to give Siri AI better access to current events",
+      "url": "https://9to5mac.com/2026/08/12/report-apple-seeks-publisher-deals-to-give-siri-ai-better-access-to-current-events/",
+      "publishedAt": "2026-08-12T23:14:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-ipados-27-design.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、SiriのAI機能強化に向けて大手出版社とコンテンツ提携を模索か",
+      "summaryJa": "AppleがSiriのAI機能における最新ニュースや時事情報のアクセスを改善するため、大手出版社と巨額のコンテンツ提携交渉を進めていると報じられています。AIモデルの学習や最新情報の提供を巡り、多くのテック企業が出版社との交渉や法的争いを繰り広げています。"
+    },
+    {
       "id": "e1dc0e1f98346af6ea7a",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4459,54 +4504,9 @@
       ],
       "titleJa": "総額100万ドル規模のモバイルハッカソン「Shipaton」が開催",
       "summaryJa": "RevenueCat主催による世界最大級のモバイルアプリ開発ハッカソン「Shipaton」が再び開催されることになりました。AIコーディングツールの普及により誰でもアプリ開発が可能になった背景を受け、8月1日から9月30日までの期間に新たなアプリをリリースして収益化SDKを導入した開発者を対象に、総額100万ドル相当の豪華な賞品が授与されます。"
-    },
-    {
-      "id": "76e941ab580de1166fb5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "These Apple products are likely getting more expensive next month",
-      "url": "https://9to5mac.com/2026/08/04/these-apple-products-are-likely-getting-more-expensive-next-month/",
-      "publishedAt": "2026-08-04T19:06:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-17-pro-silver-airpods-pro-3-watch-ultra-3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18やApple Watch、来月さらなる値上げの可能性と報道",
-      "summaryJa": "今夏にMacやiPadなどの幅広い製品群で価格引き上げを実施したAppleですが、来月のイベントに向けてiPhoneやApple Watchなどの主力製品でもさらなる値上げが行われると報じられています。AI関連の需要に伴うメモリコストの高騰などが影響しているとみられ、新型のiPhone 18シリーズやApple Watchの新モデルを対象に価格が引き上げられる可能性が指摘されています。"
-    },
-    {
-      "id": "3fc131479309eb263f9b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases New AirPods Beta Firmware With iOS 27 Features",
-      "url": "https://www.macrumors.com/2026/08/04/airpods-beta-firmware-ios-27/",
-      "publishedAt": "2026-08-04T18:43:38.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/06/AirPods-Pro-Beta-Firmware-2.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、AirPods向けの新ベータファームウェアを公開",
-      "summaryJa": "Appleは、AirPodsシリーズ向けに新しいベータ版ファームウェアを開発者向けにリリースしました。このアップデートにより、今秋登場予定のOSで追加される新しいAirPodsインターフェイス、アダプティブモードの調整スライダー、カスタムイコライザーなどの機能がサポートされます。対応デバイスの設定画面からベータアップデートを有効にすることで、条件を満たした環境で自動的にインストールが進みます。"
-    },
-    {
-      "id": "afb8a44d557a78cacfe5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Starts Preparing for September iPhone Event",
-      "url": "https://www.macrumors.com/2026/08/04/apple-september-iphone-event-preparation/",
-      "publishedAt": "2026-08-04T18:36:46.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/iPhone-18-Pro-Rumored-Colors.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、9月のiPhoneイベントに向けた準備を開始か",
-      "summaryJa": "Appleは9月前半に開催されるとみられる新型iPhone発表イベントに向けた準備を進めています。全米の直営店スタッフを対象に、Apple Parkでのメディア対応などをサポートするプログラムの抽選応募が開始されました。新型のiPhone 18 Proシリーズや折りたたみモデルの登場が期待される中、イベントの日程は9月8日火曜日または9日水曜日になる可能性が報じられています。"
     }
   ],
-  "updatedAt": "2026-08-12T23:02:58.526Z",
+  "updatedAt": "2026-08-12T23:54:31.005Z",
   "initialized": true,
   "summaryVersion": 4
 }
