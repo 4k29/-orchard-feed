@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "6c17ab60762738b7ee03",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple billboard featuring toddler with iPhone causes controversy in Italy",
+      "url": "https://9to5mac.com/2026/08/12/apple-billboard-featuring-toddler-with-iphone-causes-controversy-in-italy/",
+      "publishedAt": "2026-08-12T20:16:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-logo-milan-store.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "イタリアでiPhoneを手にした幼児の広告が物議を醸す",
+      "summaryJa": "イタリアにおいて、幼児がiPhoneを持っているAppleの屋外広告に対し、児童権利保護機関が懸念を示しました。同国の子ども権利擁護団体は、この広告が電子機器による育児の常態化を促していると指摘し、関係規制機関に審査を求めています。広告のタイミングや幼児とデジタル機器の組み合わせについて倫理的な議論が巻き起こっています。"
+    },
+    {
+      "id": "384346ebf164932b2cf0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "watchOS 27 will add two new apps to your Apple Watch",
+      "url": "https://9to5mac.com/2026/08/12/watchos-27-will-add-two-new-apps-to-your-apple-watch/",
+      "publishedAt": "2026-08-12T20:15:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/watchos-27-new-app-grid-home-screen.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch向けwatchOS 27で2つの新しいアプリを追加か",
+      "summaryJa": "次期大型アップデートとなるwatchOS 27では、Apple Watch向けに2つの新しいアプリが追加されると報じられています。AI機能が強化されたSiriの専用アプリに加え、これまで別々に分かれていたデバイスやアイテム、友人を探す機能を統合した新しい「探す」アプリが含まれます。これにより、ユーザーは手首の上からよりシームレスに位置情報や履歴を確認できるようになります。"
+    },
+    {
       "id": "30aee4f5cd864c4fbfcf",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "Apple、9月のiPhone発表会に向けた社内メモで日程の手がかりを公開",
       "summaryJa": "Appleが全米の直営店スタッフを対象に、9月上旬にカリフォルニアで開催されるスペシャルイベントの支援スタッフを募集するプログラムを開始しました。社内メモによるとイベントは9月前半の開催予定で、過去の傾向から水曜日の開催が有力視されています。選ばれたスタッフは会場での案内やセキュリティなどの運営をサポートします。"
-    },
-    {
-      "id": "137ae201bd20dd9beef2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV’s most popular show this year was just revealed",
-      "url": "https://9to5mac.com/2026/08/04/apple-tvs-most-popular-show-this-year-was-just-revealed/",
-      "publishedAt": "2026-08-04T16:39:26.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-tv-logo-mountains.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、今年最も視聴された作品が判明",
-      "summaryJa": "ニールセンが発表した2026年上半期のデータによると、Apple TVのオリジナルシリーズ「シュリンキング：悩めるセラピスト」が、全配信サービスの中でトップ20にランクインしました。テッド・ラッソの共同クリエイターが手掛けた同作は、期間中に52億分の視聴時間を記録し、今年Apple TVで最も人気を集めた作品となりました。公式な視聴者数が非公開である中、サードパーティのデータによってその好調ぶりが裏付けられています。"
-    },
-    {
-      "id": "8ed617298d711cbfdcde",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI explains what will happen when ChatGPT Atlas shuts down this weekend",
-      "url": "https://9to5mac.com/2026/08/04/openai-explains-what-will-happen-when-chatgpt-atlas-shuts-down-this-weekend/",
-      "publishedAt": "2026-08-04T16:12:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/open-ai-browser.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI、Mac向けブラウザ終了に伴う対応を解説",
-      "summaryJa": "OpenAIは、Mac向け専用ウェブブラウザ「ChatGPT Atlas」が週末に提供を終了することに伴い、今後の対応について詳細を説明しました。今後はスタンドアロンブラウザを廃止し、新しいChatGPTデスクトップアプリに統合されたブラウザ機能への移行を促しています。終了前にブックマークを手動でエクスポートする必要があるほか、クッキーや履歴の扱いについても注意が呼びかけられています。"
     }
   ],
-  "updatedAt": "2026-08-12T19:49:18.506Z",
+  "updatedAt": "2026-08-12T20:31:28.706Z",
   "initialized": true,
   "summaryVersion": 4
 }
