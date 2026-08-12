@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "82c80d23d83ab61fafc1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: US smartphone sales fell 5% in Q2 2026 as prices keep climbing",
+      "url": "https://9to5mac.com/2026/08/12/report-us-smartphone-sales-fell-5-in-q2-2026-as-prices-keep-climbing/",
+      "publishedAt": "2026-08-12T21:01:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-17-pro-and-max.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "米国のスマホ市場、メモリ価格高騰で第2四半期は販売減",
+      "summaryJa": "調査会社Counterpoint Researchによると、2026年第2四半期の米国スマートフォン市場は、メモリなど部品コストの上昇による価格圧力から販売台数が前年同期比で5%減少しました。特に低価格帯や中小メーカーが大きな打撃を受けています。一方、Appleは米国でのiPhone価格を据え置いたものの、次期「iPhone 18」シリーズでは価格を引き上げる可能性が指摘されています。"
+    },
+    {
+      "id": "da0dfc29d73064630042",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Google Kicks Off Fall Hardware Season With New Pixel 11 Smartphones",
+      "url": "https://www.macrumors.com/2026/08/12/google-pixel-11-lineup/",
+      "publishedAt": "2026-08-12T20:59:10.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/pixel-11-pro-fold.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Google、新AIスマートフォン「Pixel 11」シリーズを発表",
+      "summaryJa": "Googleは、AppleのiPhoneやApple Watchに対抗する新しいハードウェア製品として、「Pixel 11」シリーズのスマートフォンを発表しました。薄型軽量化を実現した折りたたみモデルの「Pixel 11 Pro Fold」や、高輝度ディスプレイ、大容量バッテリー、次世代のTensor G6チップを搭載した「Pixel 11 Pro」および「Pro XL」などがラインナップされています。フラッシュ周辺に発光する新機能「HiLight」を備え、先進的なAI機能やカメラ性能を強化しています。"
+    },
+    {
+      "id": "5ed9f5159db88c068bbd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Claude’s Chrome side panel is now a full Cowork session",
+      "url": "https://9to5mac.com/2026/08/12/claude-cowork-chrome/",
+      "publishedAt": "2026-08-12T20:46:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ClaudeのChrome拡張機能にフルCoworkセッションが追加",
+      "summaryJa": "Anthropicは、Chromeブラウザのサイドパネルで展開するClaudeの機能をアップデートし、ブラウザベースのタスクや会話をデスクトップ、ウェブ、モバイルアプリの他のセッションに引き継げるようにしました。ユーザーの既存のログイン情報を活用してウェブページ上の操作やフォーム入力を実行できるほか、履歴として保存して後から再開することが可能です。セキュリティやプロンプトインジェクション対策の警告をしつつ、まずはMaxおよびTeamプランのユーザーに向けて提供が開始されています。"
+    },
+    {
       "id": "6c17ab60762738b7ee03",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4459,54 +4504,9 @@
       ],
       "titleJa": "Apple Watch、中国で「国民フィットネスデー」の挑戦イベントを開催",
       "summaryJa": "Apple Watchユーザー向けの中国限定のアクティビティチャレンジが今週末に実施されます。8月8日に20分以上のワークアウトを記録すると、フィットネスアプリ内で仮想メダルと4つのアニメーションステッカーが獲得できます。Appleは、ユーザーに様々なワークアウトを体験してもらうため、世界各地で定期的にこうしたイベントを開催しています。"
-    },
-    {
-      "id": "321aa7bfbc7fd0aff686",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Signal’s latest iOS update expands multi-device feature for iPhone users",
-      "url": "https://9to5mac.com/2026/08/04/signals-latest-ios-update-expands-multi-device-feature-for-iphone-users/",
-      "publishedAt": "2026-08-04T18:15:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/signal-link-iphone.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Signal、iOS向けに別のiPhoneをリンクできるマルチデバイス機能を拡大",
-      "summaryJa": "暗号化メッセージングサービスのSignalがアップデートされ、iPadに加えて別のiPhoneを既存のアカウントにリンクできるようになりました。追加のiPhoneをリンクする際、完全なメッセージ履歴や過去45日間のメディアの転送も選択可能です。この機能により、仕事用と個人用で複数のデバイスを使い分けるユーザーの利便性が大幅に向上します。"
-    },
-    {
-      "id": "0aba7c839933ccc7ca6f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Spotify reaches huge subscriber milestone as Apple Music readies iOS 27 upgrades",
-      "url": "https://9to5mac.com/2026/08/04/spotify-reaches-huge-subscriber-milestone-as-apple-music-readies-ios-27-upgrades/",
-      "publishedAt": "2026-08-04T17:42:47.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/spotify-disco-ball.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Spotifyが有料会員3億人を突破、Apple Musicとの競合続く",
-      "summaryJa": "オーディオ配信サービスのSpotifyが、四半期決算で有料プレミアム会員が3億人を突破したことを発表しました。音声番組やオーディオブックなどでサービスを拡大する一方、競合するApple Musicも有料プランの価格改定や新機能の追加を進めています。両社は音楽ストリーミング市場において激しいシェア争いを繰り広げています。"
-    },
-    {
-      "id": "3aa5aac91009aa7eee01",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple just revealed a clue about its September iPhone event date",
-      "url": "https://9to5mac.com/2026/08/04/apple-just-revealed-a-clue-about-its-september-iphone-event-date/",
-      "publishedAt": "2026-08-04T17:24:17.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-domain-northside-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、9月のiPhone発表会に向けた社内メモで日程の手がかりを公開",
-      "summaryJa": "Appleが全米の直営店スタッフを対象に、9月上旬にカリフォルニアで開催されるスペシャルイベントの支援スタッフを募集するプログラムを開始しました。社内メモによるとイベントは9月前半の開催予定で、過去の傾向から水曜日の開催が有力視されています。選ばれたスタッフは会場での案内やセキュリティなどの運営をサポートします。"
     }
   ],
-  "updatedAt": "2026-08-12T20:31:28.706Z",
+  "updatedAt": "2026-08-12T21:25:02.608Z",
   "initialized": true,
   "summaryVersion": 4
 }
