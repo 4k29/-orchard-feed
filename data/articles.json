@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "47abc78ff9ee1ebc6d73",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple authenticating iPhone photos is just the start",
+      "url": "https://9to5mac.com/2026/08/12/apple-authenticating-iphone-photos-is-just-the-start/",
+      "publishedAt": "2026-08-12T11:51:38.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/siri-icon-expanded.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPhone写真の真贋証明機能を準備か",
+      "summaryJa": "iOS 27のベータ版から、AppleがiPhoneの写真の真贋を認証する新機能「Apple Reference Image」の存在が明らかになりました。AI生成画像の高度化に伴う偽情報拡散対策として、ジャーナリストや法的手続きなどで本物の写真であることを証明する必要があるユーザーを主な対象として想定しています。標準ではオフに設定されており、必要に応じて自身の写真をサーバーへアップロードして検証できる仕組みとなる見通しです。"
+    },
+    {
+      "id": "fc308dd25074f7cbf1e0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Leaker: All-Glass 2027 iPhone Still on Track Despite Cancellation Rumors",
+      "url": "https://www.macrumors.com/2026/08/12/all-glass-20th-anniversary-iphone-on-track/",
+      "publishedAt": "2026-08-12T11:43:28.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "2027年の全面ガラス製iPhoneは開発継続か",
+      "summaryJa": "一部のアナリストが20周年記念モデルとされる全面ガラス製iPhoneの開発が中止されたと報じた件について、著名リーカーや専門記者のマーク・ガーマン氏がこれを否定しました。内部コードネームV73およびV74として、ProおよびPro Maxの2サイズで引き続き開発が進められていると伝えられています。前面と背面の中央付近に金属バンドを残しつつ、ガラスの光学屈折を利用してベゼルレスの効果を演出する設計になると見られています。"
+    },
+    {
       "id": "37ab9171e4aefb5004c4",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "次期CEOジョン・ターナス氏、引退した元ハードウェア幹部をチームに起用か",
       "summaryJa": "次期Apple CEOに就任予定のジョン・ターナス氏が、2022年に引退した元ハードウェアエンジニアリング担当副社長のローラ・レグロス氏を復帰させると報じられています。レグロス氏はターナス氏の信頼厚い人物であり、同氏の直属として社内の異なる部門を横断的にサポートする役割を担うことになります。ターナス氏は9月1日のCEO就任に向けて準備を進めています。"
-    },
-    {
-      "id": "0caf9f534ef08c373129",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Photos in iOS 27 gets camera roll feature it’s long needed",
-      "url": "https://9to5mac.com/2026/08/03/apple-photos-in-ios-27-gets-camera-roll-feature-its-long-needed/",
-      "publishedAt": "2026-08-03T20:44:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27-photos-app-icon-fi-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOSの「写真」アプリに待望のカメラロール機能が追加",
-      "summaryJa": "iOSの「写真」アプリでは、スライドショーや共有アルバムの改善に加え、長年求められていた「自分が撮影した写真」のみを表示する機能が追加されました。これまではスクリーンショットや保存画像が混在していましたが、カメラアプリで撮影した写真や動画だけを絞り込んで確認できるようになります。"
-    },
-    {
-      "id": "b811e7865773fad027a9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s contract manufacturing tax breaks in India could be extended to 2041",
-      "url": "https://9to5mac.com/2026/08/03/apples-contract-manufacturing-tax-breaks-in-india-could-be-extended-to-2041/",
-      "publishedAt": "2026-08-03T20:30:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/More-great-wallpaper-in-the-run-up-to-two-more-Apple-Stores-in-India.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "インドのApple向け製造税制優遇、2041年まで延長か",
-      "summaryJa": "インド政府が、契約メーカーに機械や設備を供給する外国企業向けの税制優遇措置を2041年まで10年間延長する法案を検討していると報じられています。この動きは、中国からのサプライチェーン分散を進めるAppleにとって大きな追い風となり、インドでのiPhone生産割合はさらに高まると予想されています。"
     }
   ],
-  "updatedAt": "2026-08-12T11:14:11.866Z",
+  "updatedAt": "2026-08-12T12:02:12.722Z",
   "initialized": true,
   "summaryVersion": 4
 }
