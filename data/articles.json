@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "6ec8d0ace92169ed87a9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: M5 Pro MacBook Pro up to $540 off, M5 MacBook Air from $1,099, Apple Watch Ultra 3, MagSafe chargers, more",
+      "url": "https://9to5mac.com/2026/08/12/deals-m5-pro-macbook-airpods-pro-3-apple-watch-ultra-3/",
+      "publishedAt": "2026-08-12T15:30:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-AirPods-Pro3-MacBook-Pro-M5-Pro-Ultra-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AmazonでAirPods Pro 3などがセール価格に登場",
+      "summaryJa": "Amazonにて、AirPods Pro 3が通常価格から約25%オフの特別価格で販売されています。ほかにも、公式整備済製品のM5 Pro MacBook ProやApple Watch Ultra 3などが値引きされており、お得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "ddc4db17aa9b050b08ee",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 gives Apple Calendar my favorite new Home Screen upgrade",
+      "url": "https://9to5mac.com/2026/08/12/ios-27-gives-apple-calendar-my-favorite-new-home-screen-upgrade/",
+      "publishedAt": "2026-08-12T15:22:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27のAppleカレンダーに特大ホーム画面ウィジェットが登場",
+      "summaryJa": "iOS 27では各アプリ向けに新しいホーム画面ウィジェットが追加され、中でもAppleカレンダーの特大サイズが注目を集めています。「リスト」や「次の予定」などの表示に対応し、アプリを開かなくても数日先のスケジュールを詳細に確認できるようになりました。"
+    },
+    {
+      "id": "f4780a1d4ced611ec4ea",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MacBook Air shortages are getting worse, here’s where to buy one",
+      "url": "https://9to5mac.com/2026/08/12/macbook-air-shortages-where-to-buy-one-now/",
+      "publishedAt": "2026-08-12T15:07:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/macbook-air-m4-m3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBook Airの品薄状態が悪化、現在の在庫状況と購入先",
+      "summaryJa": "業界全体でのメモリ供給制約の影響を受け、AppleオンラインストアでのMacBook Airの配送に遅れが生じています。カスタム構成ではさらに時間がかかる状況ですが、Amazonなどの一部サードパーティ製小売パートナーでは即納可能なモデルや割引価格も見られます。"
+    },
+    {
       "id": "d8f08388c36da9959e05",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -44,6 +89,21 @@
       ],
       "titleJa": "Ankerやソニーなどの人気アクセサリがセールに登場",
       "summaryJa": "Amazonにて、Ankerの充電器やソニー、ソノスの音響機器などを対象とした大規模なアクセサリセールが実施されています。話題のワイヤレスヘッドホンや睡眠用イヤホン、サムスンのスマートモニターなどが割引価格で販売されています。新学期シーズンに向けたお得な買い物の好機となっています。"
+    },
+    {
+      "id": "0bc88fe7cd8c4f1f256e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch sleep score became more useful for me with these settings",
+      "url": "https://9to5mac.com/2026/08/12/apple-watch-sleep-score-became-more-useful-for-me-with-these-settings/",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-watch-sleep-score.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watchの睡眠スコア通知設定でより便利に活用する方法",
+      "summaryJa": "watchOS 26で導入されたApple Watchの睡眠スコア機能は、毎日の睡眠の質を可視化するのに役立ちます。通知の受け取り範囲を細かくカスタマイズ設定することで、睡眠の質が低い時だけにアラートを受け取り、生活習慣の改善に役立てることができます。"
     },
     {
       "id": "d4644c582fa4e2180c72",
@@ -4443,69 +4503,9 @@
       ],
       "titleJa": "折りたたみ式iPhoneの投入タイミングが最適だった理由",
       "summaryJa": "Appleが初の折りたたみ式iPhoneの発売を慎重に待った判断が、結果的に非常に適切なタイミングだったと指摘されています。競合他社の経験を通じてディスプレイ技術や折り目の問題が十分に成熟し、市場での需要も大きく高まっているためです。"
-    },
-    {
-      "id": "21bf9bed71e4e8adef24",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Telegram Briefly Removed From App Store",
-      "url": "https://www.macrumors.com/2026/08/04/telegram-briefly-removed-from-app-store/",
-      "publishedAt": "2026-08-04T10:39:43.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2022/08/telegram-app-icon.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、児童性的虐待素材を巡りTelegramを一時削除",
-      "summaryJa": "Appleは、ガイドラインに違反する児童性的虐待素材が含まれていたとして、App StoreからTelegramを一時的に削除しました。その後、開発元が該当コンテンツの削除とアカウントのBANを迅速に行ったため、約40分後に復旧しています。"
-    },
-    {
-      "id": "47d757d6c5045e49b5a0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple @ Work Podcast: The state of digital signage on Apple TV in 2026",
-      "url": "https://9to5mac.com/2026/08/04/the-state-of-digital-signage-on-apple-tv-in-2026/",
-      "publishedAt": "2026-08-04T10:09:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "2026年におけるApple TVのデジタルサイネージ活用事情",
-      "summaryJa": "最新のポッドキャスト番組において、2026年におけるデジタルサイネージツールとしてのApple TVの現状について議論が行われています。ビジネス環境におけるAppleデバイスの活用や展開方法について専門家が解説しています。"
-    },
-    {
-      "id": "d328d6dde1b03e6d4c13",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI rebuts Apple trade secrets allegations in new response with receipts",
-      "url": "https://9to5mac.com/2026/08/03/openai-rebuts-apple-trade-secrets-allegations-in-new-response-and-evidence/",
-      "publishedAt": "2026-08-04T06:05:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI、Appleからの機密情報窃盗の訴えに対し詳細に反論",
-      "summaryJa": "OpenAIは、Appleがハードウェア開発に関する営業秘密を盗んだとして提起した訴訟に対し、ブログ記事を通じて詳細な反論を公開しました。この中でOpenAIは、Apple側の主張には根拠がなく不適切な訴訟であると批判し、これまでの経緯や通知をめぐる齟齬について独自の主張を展開しています。両社の間で法的な争いが表面化しており、今後の動向が注目されています。"
-    },
-    {
-      "id": "44c98f436a776c983531",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple sued over alleged lack of age checks for casino games in Brazil",
-      "url": "https://9to5mac.com/2026/08/03/apple-sued-over-alleged-lack-of-age-checks-for-casino-games-in-brazil/",
-      "publishedAt": "2026-08-04T03:13:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/App-Store-fraud.webp?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ブラジルでAppleがカジノゲームの年齢確認巡り提訴される",
-      "summaryJa": "ブラジルの消費者団体や人権センターが、App Storeにおけるカジノ風ゲームの不十分な年齢確認を理由にAppleを提訴しました。子どもが年齢制限のあるゲームに簡単にアクセスできる状態であるとして、約3億レアルの損害賠償を求めています。同国では数ヶ月前からアプリの審査や未成年への対応を巡る懸念が高まっていました。"
     }
   ],
-  "updatedAt": "2026-08-12T14:44:38.382Z",
+  "updatedAt": "2026-08-12T15:42:49.576Z",
   "initialized": true,
   "summaryVersion": 4
 }
