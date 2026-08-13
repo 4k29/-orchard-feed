@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "77b7950487f599b6efe7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 gives Apple Photos two features we’ve waited a long time for",
+      "url": "https://9to5mac.com/2026/08/13/ios-27-gives-apple-photos-two-features-weve-waited-a-long-time-for/",
+      "publishedAt": "2026-08-13T14:15:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-photos-app-icon-ios-27-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27の写真アプリに待望の本格スライドショー機能と共有アルバムの強化が登場か",
+      "summaryJa": "iOS 27の写真アプリには、トランジションや音楽のカスタマイズが可能な本格的なスライドショー作成機能や、フル解像度対応およびAndroidやWindowsユーザーの参加も可能になったiCloud共有アルバムの大型アップグレードが含まれています。長年ユーザーが待ち望んでいた機能の追加により、思い出の振り返りやイベント用の映像制作がより便利になります。"
+    },
+    {
+      "id": "19158b4c831586bd68b8",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event?",
+      "url": "https://www.macrumors.com/2026/08/13/when-is-iphone-18-pro-iphone-ultra-apple-event/",
+      "publishedAt": "2026-08-13T14:11:35.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 ProとiPhone Ultraの発表イベント時期を巡る憶測が浮上",
+      "summaryJa": "今年のAppleの秋のiPhone発表イベントの開催時期について、メディアの間で様々な予測が報じられています。9月上旬の開催や労働者の日、9.11テロの記念日を避けた日程調整の可能性が指摘されており、Bloombergのマーク・ガーマン氏は9月前半の開催を予想しています。"
+    },
+    {
+      "id": "965fcab5b77e84681c3a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "PSA: Setting different default languages in different Mac apps",
+      "url": "https://9to5mac.com/2026/08/13/psa-setting-different-default-languages-in-different-mac-apps/",
+      "publishedAt": "2026-08-13T14:01:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/How-to-set-different-default-languages-in-different-Mac-apps.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Macアプリごとにデフォルト言語を個別設定できる便利な機能",
+      "summaryJa": "macOSのシステム設定にある「言語と地域」の項目から、個別のMacアプリごとにデフォルトの言語を設定できる隠れた機能が存在します。英語の地域バリエーションを使い分けるバイリンガルユーザーや、特定のアプリで異なる言語環境を維持したい人にとって非常に役立つ便利な機能となっています。"
+    },
+    {
+      "id": "95b9489bd845ec133157",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Amazon Discounts Every 2026 MacBook Pro With Up to $500 Off",
+      "url": "https://www.macrumors.com/2026/08/13/2026-macbook-pro-up-to-500-off/",
+      "publishedAt": "2026-08-13T13:59:26.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/05/macbook-pro-m5-pro-purple.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazonで2026年型MacBook Pro全モデルが最大500ドル引きのセールを実施中",
+      "summaryJa": "Amazonにて、2026年型の14インチおよび16インチMacBook Proの全モデルを対象とした大幅な割引セールが継続して実施されています。M5 ProおよびM5 Maxを搭載した一部の構成では最大500ドル引きとなっており、直近の価格改定以降でお得に購入できるチャンスとなっています。"
+    },
+    {
       "id": "e1936b3e05b1290a9880",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4444,69 +4504,9 @@
       ],
       "titleJa": "今年のiPhoneイベント、ライブ感が増す可能性か",
       "summaryJa": "ブルームバーグのマーク・ガーマン氏が投稿した表現をめぐり、今年のiPhone発表イベントの形式について様々な憶測を呼んでいます。完全なライブ中継に戻る可能性は低いと見られていますが出社する小売店従業員の抽選に関する言及などから例年とは異なるライブ的な要素が取り入れられるのではないかと注目されています。パンデミック以降は事前収録された動画配信が主流となっていましたがハイブリッドな演出への期待が高まっています。"
-    },
-    {
-      "id": "692edfe138184ab7ab33",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "MacPaw is building an on-device AI layer that will work across your Mac apps",
-      "url": "https://9to5mac.com/2026/08/05/macpaw-is-building-an-on-device-ai-layer-that-will-work-across-your-mac-apps/",
-      "publishedAt": "2026-08-05T13:45:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/macpaw-liquid-ai-mac.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "MacPaw、Macアプリ全体で連携するオンデバイスAI層を開発へ",
-      "summaryJa": "MacPawはLiquid AIとの長期的な戦略的パートナーシップを発表し、Mac向けに特化したオンデバイスAI技術スタックを共同開発すると明らかにしました。最初の取り組みとして、macOS用AIアシスタントのEneyにLiquid AIの基盤モデルや自社技術を統合します。今後は他の製品やMac開発者向けにもこのAIスタックを展開し、アプリ間の連携や高度な文脈理解を強化していく計画です。"
-    },
-    {
-      "id": "7da61b03ccc503448349",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "TikTok is telling people to put their phones into the fridge, and repair shops are happy",
-      "url": "https://9to5mac.com/2026/08/05/tiktok-is-telling-people-to-put-their-phones-into-the-fridge-and-repair-shops-are-happy/",
-      "publishedAt": "2026-08-05T12:32:58.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/TikTok-is-telling-people-to-put-their-phones-into-the-fridge.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhoneの冷却に冷蔵庫を使う危険なトレンド、修理店で被害が急増",
-      "summaryJa": "TikTokなどで拡散された、熱くなったiPhoneを冷蔵庫に入れて冷やすという誤ったアドバイスにより、修理店で端末の故障が急増していると報じられています。内部での結露発生やリチウム電池への熱ショックで重大な故障につながる恐れがあります。Appleは、自動車の車内などを避け、日陰の涼しい場所で自然冷却するよう推奨しています。"
-    },
-    {
-      "id": "5f2ea1e1a46e1f22c138",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "As iPhones get more expensive, T-Mobile launches new 3-year plan",
-      "url": "https://9to5mac.com/2026/08/05/as-iphones-get-more-expensive-t-mobile-launches-new-3-year-plan/",
-      "publishedAt": "2026-08-05T11:47:36.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/As-iPhones-get-more-expensive-T-Mobile-launches-new-3-year-plan.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "T-Mobileが3年分割払いの新プランを発表、端末価格の高騰に対応",
-      "summaryJa": "T-Mobileは、高価格化が進む新型iPhoneの購入負担を軽減するため、新しい3年間の分割払いプラン「EIP Flex 36」を発表しました。端末代金や税金、手数料などを36ヶ月に分散して支払うことが可能で、初期費用を抑えた購入を支援します。メモリ価格の高騰などを背景に端末の値上がりが確実視される中、各社はユーザーの支払い負担を和らげる取り組みを進めています。"
-    },
-    {
-      "id": "0a7b522fa9a6ee5351a8",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Foldable Smartphone Sales to Rise 20% This Year Due to 'iPhone Ultra'",
-      "url": "https://www.macrumors.com/2026/08/05/foldable-smartphone-sales-to-rise-this-year/",
-      "publishedAt": "2026-08-05T11:45:05.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみスマホ市場、Appleの参入期待で2026年は拡大へ",
-      "summaryJa": "業界関係者の情報によると、2026年の世界折りたたみスマートフォン出荷台数は前年比で20%増加すると予測されています。Appleが初めて投入すると噂される折りたたみ対応端末の存在が、市場全体を押し上げる大きな要因として挙げられています。サムスンがリードを維持する一方で、Appleやファーウェイの参入により第4四半期の販売競争がさらに活発化する見通しです。"
     }
   ],
-  "updatedAt": "2026-08-13T13:37:52.448Z",
+  "updatedAt": "2026-08-13T14:45:09.959Z",
   "initialized": true,
   "summaryVersion": 4
 }
