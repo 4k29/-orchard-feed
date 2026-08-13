@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "bec702a8a1c4c16d1605",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Apple opens Advanced Manufacturing Center in Houston",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
+      "publishedAt": "2026-08-13T18:30:29.099Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple、ヒューストンに先端製造センターを開設",
+      "summaryJa": "Appleは米ヒューストンに中小企業向けの無料トレーニングを提供する先端製造センターを開設しました。この施設では最先端の機器やインタラクティブなラボを通じて、参加者が革新的なプロセスを学べます。同センターはAIサーバーやMac miniを製造する敷地内に位置し、米国内の製造業のスキル向上を支援します。"
+    },
+    {
+      "id": "630af6e70265532b3cff",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Matic Cues feature lets you just talk to your robot vacuum or point at a mess to clean",
+      "url": "https://9to5mac.com/2026/08/13/matic-cues-lets-you-just-talk-to-your-robot-vacuum-or-point-at-a-mess-to-clean/",
+      "publishedAt": "2026-08-13T18:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/matic-homekit.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ロボット掃除機Matic、音声とジェスチャー操作に対応",
+      "summaryJa": "ロボット掃除機およびモップを手がけるMaticは、ソフトウェアアップデート「Matic Cues」を通じて、音声およびジェスチャーによる新しい操作機能を追加しました。スマートフォンやアプリを使わずに直接ロボットに話しかけることで、70以上の言語で掃除の指示を出すことが可能になります。この機能は既存の全ユーザー向けに無線（OTA）アップデートで順次配信されており、新しいロボットにも標準搭載される予定です。"
+    },
+    {
       "id": "2df3046e6b55676efe52",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "Apple Vision Proで手術時間が約20％短縮、米大学の調査",
       "summaryJa": "カリフォルニア大学サンディエゴ校による査読付き研究により、Apple Vision Proを主要なディスプレイとして使用して涙道の外科手術を行った医師は、従来のモニターを使用した医師と比較して手術を19％早く完了したことが明らかになりました。Vision Proを装着することで、医師は視野内に直接映像をストリーミングしながら自然な前向き姿勢を維持でき、身体的および精神的な負担の軽減も報告されています。研究チームは小規模な初期段階の調査であるとしつつも、今後のさらなる臨床試験の必要性を呼びかけています。"
-    },
-    {
-      "id": "4ab3958a1e7409805df8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Ultra sounds truly deserving of the ‘Ultra’ name",
-      "url": "https://9to5mac.com/2026/08/05/iphone-ultra-sounds-truly-deserving-of-the-ultra-name/",
-      "publishedAt": "2026-08-05T15:41:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "折りたたみ式iPhoneの名称は「iPhone Ultra」になる可能性",
-      "summaryJa": "Appleの初となる折りたたみ式iPhoneがまもなく登場すると噂されており、その名称として「iPhone Ultra」がふさわしいのではないかと報じられています。ハードウェアの仕様面ではProモデルとの違いがあるものの、過去最大となるディスプレイを備えた独自のソフトウェア体験やマルチタスク性能がその理由に挙げられています。ポケットに収まるコンパクトさを維持しながら、動画やゲーム、生産性向上アプリなどでの優れた操作性を提供すると期待されています。"
-    },
-    {
-      "id": "f78f79460624c01eea08",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: MacBook Neo up to $120 off, MacBook Pro $500 off, Apple Watch SE 3/Ultra 3 $130 off, AirPods, more",
-      "url": "https://9to5mac.com/2026/08/05/deals-macbook-neo-macbook-pro-apple-watch-ultra-3/",
-      "publishedAt": "2026-08-05T15:30:18.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-MacBook-Neo-Apple-Watch-Ultra-3-AirPods-Pro-3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "MacBook Neoや各種Apple製品が割引価格で登場",
-      "summaryJa": "Apple認定整備済ストアにおいて、MacBook Neoが定価より最大120ドル引きの価格で販売されているほか、M5 Pro搭載MacBook ProやApple Watchシリーズの大幅な割引が実施されています。AirPods Pro 3やAirTag 2などもお得な価格で購入可能となっています。整備済製品には通常のApple製品と同様の保証と品質基準が適用されるため、コストを抑えて購入したいユーザーにとって魅力的な選択肢となります。"
     }
   ],
-  "updatedAt": "2026-08-13T17:43:56.733Z",
+  "updatedAt": "2026-08-13T18:39:59.043Z",
   "initialized": true,
   "summaryVersion": 4
 }
