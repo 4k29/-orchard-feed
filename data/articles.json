@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "e1936b3e05b1290a9880",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Ultra could launch in US only at first, per report",
+      "url": "https://9to5mac.com/2026/08/13/iphone-ultra-could-launch-in-us-only-at-first-per-report/",
+      "publishedAt": "2026-08-13T13:31:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone Ultraは米国で先行発売か、供給や価格に課題との報道",
+      "summaryJa": "Apple初の折りたたみ式デバイスと噂されるiPhone Ultraについて、初期の発売は米国市場のみに限定される可能性があると報じられています。中国の部品サプライヤーによると、製造上の問題やテスト、価格設定の課題に直面していることが遅れの主な原因とされています。これにより、他の地域では数ヶ月遅れての展開になるかもしれないと伝えられています。"
+    },
+    {
+      "id": "30bc10487c55cb6b9a82",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple TV Gains Classic Movies Collection",
+      "url": "https://www.macrumors.com/2026/08/13/apple-tv-gains-classic-movies/",
+      "publishedAt": "2026-08-13T13:15:53.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/10/Apple-TV-Color.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple TV、追加料金なしで視聴できる名作映画コレクションを追加",
+      "summaryJa": "Apple TVのアプリ内に新しいカルーセルが追加され、サブスクリプション加入者を対象に複数の名作映画が追加料金なしで配信されています。米国、カナダ、イギリスなどの地域で提供されており、国によってラインナップの数や作品が異なっています。過去にも同様のライセンス作品の追加が行われてきましたが、今回は恒久的な変更か期間限定かについては明らかになっていません。"
+    },
+    {
+      "id": "28b4f4da0dfd3b4b53f5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "'iPhone Ultra' Could Face Staggered Country Rollout Like Vision Pro",
+      "url": "https://www.macrumors.com/2026/08/13/iphone-ultra-staggered-country-rollout/",
+      "publishedAt": "2026-08-13T12:56:51.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみ式iPhone Ultra、Vision Proと同様に段階的な国別展開か",
+      "summaryJa": "Appleが準備を進めていると噂される初の折りたたみ式iPhoneは、Vision Proのように国ごとに段階的な発売方式を採用する可能性があると報じられています。初期の発売は米国市場が優先され、その後中国などの主要市場へ数ヶ月かけて順次拡大される見通しです。製造上の課題やテストの難航がその背景にあると伝えられており、今後の動向が注目されています。"
+    },
+    {
       "id": "9840b506be2efab45ac2",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4459,54 +4504,9 @@
       ],
       "titleJa": "折りたたみスマホ市場、Appleの参入期待で2026年は拡大へ",
       "summaryJa": "業界関係者の情報によると、2026年の世界折りたたみスマートフォン出荷台数は前年比で20%増加すると予測されています。Appleが初めて投入すると噂される折りたたみ対応端末の存在が、市場全体を押し上げる大きな要因として挙げられています。サムスンがリードを維持する一方で、Appleやファーウェイの参入により第4四半期の販売競争がさらに活発化する見通しです。"
-    },
-    {
-      "id": "836ff8502e4e02ae7aa5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple lawsuit against OpenAI says iCloud mess didn’t play a role",
-      "url": "https://9to5mac.com/2026/08/05/apple-lawsuit-against-openai-says-icloud-mess-didnt-play-a-role/",
-      "publishedAt": "2026-08-05T11:14:32.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/icloud-search-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、OpenAI訴訟でiCloud管理不備説を否定",
-      "summaryJa": "元従業員による機密文書の不正アクセスをめぐり、AppleがOpenAIに対して起こした訴訟において、iCloudの管理不備が原因であるとする説が裁判所の提出書類で否定されました。OpenAI側は従業員退職時のシステム管理体制に問題があったと主張していましたが、Apple側はこれを退けています。本件はハードウェア関連の企業秘密をめぐる法的紛争として注目を集めています。"
-    },
-    {
-      "id": "408b93ff92f194c70dbb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Wispr Flow takes on AI meeting assistants with Notetaker, its first product beyond dictation",
-      "url": "https://9to5mac.com/2026/08/05/wispr-flow-takes-on-ai-meeting-assistants-with-notetaker-its-first-product-beyond-dictation/",
-      "publishedAt": "2026-08-05T07:01:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/wispr-notetaker.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Mac向け音声入力「Wispr Flow」、AI会議アシスタント機能を追加",
-      "summaryJa": "音声入力ツール「Wispr Flow」のMac向けアプリに、AIを活用した会議アシスタント「Notetaker」が追加されました。カレンダーや外部アプリと連携し、会議の文字起こしや要約、議事録の作成をサポートします。散らかった発話を整理する従来の機能に加え、重要な決定事項やアクションアイテムの抽出を効率化します。"
-    },
-    {
-      "id": "bd7810abff3c77fe00ef",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple CarPlay expands to select pontoon boats with on-water navigation",
-      "url": "https://9to5mac.com/2026/08/04/apple-carplay-expands-to-select-pontoon-boats-with-on-water-navigation/",
-      "publishedAt": "2026-08-05T01:38:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/carplay-boats.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple CarPlay、一部のポンツーンボートに対応拡大へ",
-      "summaryJa": "Appleの車載インターフェイスであるCarPlayが、ついに水上の船舶へも展開されることになりました。マスタートーク傘下のCrestやBaliseなどのブランドが、2027年モデルの新型ポンツーンボートにCarPlayとAndroid Autoを標準搭載すると発表しました。航海アプリ「Savvy Navvy」との連携により、操舵席のディスプレイから直接スマートなルート案内や周辺のボート交通情報の確認などが可能になり、ボート愛好者により快適な航海体験を提供します。"
     }
   ],
-  "updatedAt": "2026-08-13T11:55:25.885Z",
+  "updatedAt": "2026-08-13T13:37:52.448Z",
   "initialized": true,
   "summaryVersion": 4
 }
