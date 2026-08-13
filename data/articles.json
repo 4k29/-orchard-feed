@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "bb6aec11c48a76664641",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple proposes commissions of up to 15% for off-App Store purchases in the US",
+      "url": "https://9to5mac.com/2026/08/13/apple-proposes-commissions-of-up-to-15-for-off-app-store-purchases-in-the-us/",
+      "publishedAt": "2026-08-13T22:05:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/app-store.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、米国のApp Store外決済で最大15%の手数料を提案",
+      "summaryJa": "AppleはEpic Gamesとの訴訟に関連し、App Storeシステム外で行われる購入に対して課すべき手数料の提案を提出しました。標準アプリでは15%、特定のパートナープログラムやサブスクリプション更新では10%、中小企業プログラム対象アプリでは5%の手数料を求めています。最高裁判所が下級審の手続き停止申し立てを却下したことを受け、今回の提案提出に至りました。"
+    },
+    {
       "id": "b9633d862e45162c7870",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "長年の愛用者が語る、お気に入りのApple Watchアクセサリ",
       "summaryJa": "初代モデルの発売以来Apple Watchを愛用し続けているユーザーが、日々の生活に欠かせないお気に入りのアクセサリについて紹介しています。バンドや充電器、ケースなど多様なエコシステムが存在し、2015年に購入したバンドが最新モデルでもそのまま使える点が大きな魅力として挙げられています。"
-    },
-    {
-      "id": "b78aa901d48b896a88b1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Ultra 4: Three new features that already have me excited",
-      "url": "https://9to5mac.com/2026/08/05/apple-watch-ultra-4-three-new-features-that-already-have-me-excited/",
-      "publishedAt": "2026-08-05T20:04:52.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-3-4-green.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Ultra 4に期待が高まる3つの新機能の噂",
-      "summaryJa": "来月登場すると噂されるApple Watch Ultra 4に関して、注目を集めている3つの新機能が報じられています。SiriのAI機能に向けた処理性能の向上や、センサー部品の大幅な刷新によるヘルスケア機能の強化などが期待されています。"
     }
   ],
-  "updatedAt": "2026-08-13T21:14:17.450Z",
+  "updatedAt": "2026-08-13T22:06:10.227Z",
   "initialized": true,
   "summaryVersion": 4
 }
