@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "fc1d1752e8ec8223ed0a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Says iPhone X is Now Obsolete",
+      "url": "https://www.macrumors.com/2026/08/13/apple-says-iphone-x-is-now-obsolete/",
+      "publishedAt": "2026-08-13T20:17:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/09/iPhone-X-2022-Upload.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhone Xをビンテージ・オブソリート製品に追加",
+      "summaryJa": "Appleはサポート文書を更新し、2017年発売の「iPhone X」および2018年製の15インチMacBook Proをオブソリート製品のリストに追加しました。これにより、Apple Storeや正規サービスプロバイダでの修理などのハードウェアサービス対象外となります。iPhone Xは有機ELディスプレイやFaceIDを初めて搭載した記念碑的なモデルでした。"
+    },
+    {
+      "id": "178fa3f8b8980881b783",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "ChatGPT for Mac adds opt-in Computer History feature, replacing Chronicle",
+      "url": "https://9to5mac.com/2026/08/13/chatgpt-for-mac-adds-opt-in-computer-history-feature-replacing-chronicle/",
+      "publishedAt": "2026-08-13T20:13:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-codex.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Mac向けChatGPTに操作履歴を学習させる新機能が登場",
+      "summaryJa": "OpenAIは、Mac向けChatGPTアプリに「Computer History」機能を追加しました。従来のスクリーンショットベースの仕組みを刷新し、macOSのアクセシビリティ機能を活用してクリックやタイピングなどの操作イベントを記録し、検索可能なタイムラインを作成します。この機能はオプトイン方式で、ユーザーが自分で有効にする必要があり、Proなどの有料プラン向けに提供されています。"
+    },
+    {
       "id": "01c6b47e5bbcfc2a219d",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "AppleのiCloudプライベートリレーにユーザーの実際IPアドレスが漏洩する脆弱性",
       "summaryJa": "セキュリティ研究者により、AppleのiCloudプライベートリレーがパスキーを使用するWebサイトに対してユーザーの実際のIPアドレスを露呈させてしまう問題が指摘されました。WebKitがWebAuthnの処理をOSの認証サービスに引き渡す際、リレーを経由せずに直接HTTPSリクエストが送信されることが原因とされています。DNSプリフェッチやWebTransport機能に関する問題も合わせて報告されており、Appleはこの調査結果について現在対応を進めています。"
-    },
-    {
-      "id": "a824c866e9efb0d4589d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Meta launches Muse Code AI coding agent for macOS and Linux",
-      "url": "https://9to5mac.com/2026/08/05/meta-launches-muse-code-ai-coding-agent-for-macos-and-linux/",
-      "publishedAt": "2026-08-05T19:25:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/meta-ai.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Meta、macOSおよびLinux向けのターミナル型AIコーディングエージェント「Muse Code」を発表",
-      "summaryJa": "Metaは、大規模なソフトウェア開発作業を支援する新しいターミナル型AIコーディングツール「Muse Code」のベータ版をmacOSとLinux向けにリリースしました。新しい「Muse Spark 1.2」モデルを搭載し、コードの計画立案や記述、検証をバックグラウンドのエージェントと協調して行うことができます。Macユーザーはシンプルなコマンドでインストール可能であり、開発者のワークフロー効率化に貢献します。"
-    },
-    {
-      "id": "e9763f369e8834b0ae10",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Siri AI is coming to newer Apple devices only, here’s the full list",
-      "url": "https://9to5mac.com/2026/08/05/siri-ai-is-coming-to-newer-apple-devices-only-heres-the-full-list/",
-      "publishedAt": "2026-08-05T19:22:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AppleのAI対応Siri、対応ハードウェアの全リストが判明",
-      "summaryJa": "iOS 27やmacOS Golden Gateなどで導入される新機能「Siri AI」に対応するApple製品の全リストが明らかになりました。iPhoneは15 Pro以降、iPadはM1以降を搭載したモデル、MacはAppleシリコン搭載モデルなどが対象となります。なお、音声のカスタマイズや高度なオンデバイスAIモデルなど、一部の機能はさらに新しい特定のハードウェアに制限される見込みです。"
     }
   ],
-  "updatedAt": "2026-08-13T19:44:52.796Z",
+  "updatedAt": "2026-08-13T20:23:50.091Z",
   "initialized": true,
   "summaryVersion": 4
 }
