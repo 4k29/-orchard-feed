@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "5bca9ffcecc09b9b5b0e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: August 13, 2026 – MacBook Air shortages, iPhone Ultra launch rumors",
+      "url": "https://9to5mac.com/2026/08/13/daily-august-13-2026/",
+      "publishedAt": "2026-08-13T22:42:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBook Airの品薄やiPhone Ultraの噂",
+      "summaryJa": "9to5Mac Dailyのポッドキャストエピソードが公開され、SiriのAI機能強化に向けたパブリッシャーとの交渉、MacBook Airの在庫不足、そしてiPhone Ultraに関する新たな噂など、注目のApple関連ニュースがまとめて解説されています。"
+    },
+    {
+      "id": "00bd7bf7ce710f40383b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Wants to Charge Developers Up to 15 Percent for Linking Outside the App Store",
+      "url": "https://www.macrumors.com/2026/08/13/app-store-fees-apple-link-outs/",
+      "publishedAt": "2026-08-13T22:11:46.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/12/Liquid-Glass-App-Store-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、外部決済リンクに最大15%の手数料を提案",
+      "summaryJa": "Appleは、米国の裁判所の命令に基づき、App Store外での購入オプションに誘導するアプリから徴収する手数料の提案書を提出しました。通常アプリの場合はこれまでの半額となる15%、中小企業プログラム対象アプリでは5%の手数料を求めており、プラットフォームが提供する価値に対する適正な報酬であるとしています。"
+    },
+    {
       "id": "bb6aec11c48a76664641",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "米SpaceX、通信大手に対抗する独自のStarlinkモバイルサービスを計画か",
       "summaryJa": "SpaceXは初の決算説明会において、EchoStarから取得した周波数を利用した独自の地上通信網によるモバイルサービスの展開計画を明らかにしました。Starlinkの次世代衛星を活用し、大手通信キャリアに対抗する真のモバイルサービスを提供することを目指しています。アナリストからは厳しい競争が予想されるとの指摘もある中、同社は2027年に次世代衛星の打ち上げを予定しています。"
-    },
-    {
-      "id": "d4fee2f8fc48415ce899",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Ted Lasso Season 4 Now Streaming on Apple TV",
-      "url": "https://www.macrumors.com/2026/08/05/ted-lasso-season-4/",
-      "publishedAt": "2026-08-05T21:17:33.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Ted-Lasso-16x9.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple TV、人気コメディドラマ「テッド・ラッソ」シーズン4の配信を開始",
-      "summaryJa": "人気コメディシリーズ「テッド・ラッソ」シーズン4の第1話がApple TVで配信開始されました。今シーズンでは主人公テッド・ラッソがリッチモンドに戻り、2部リーグの女子サッカーチームのコーチを務めます。第1話の公開後、新エピソードが毎週水曜日に順次配信される予定で、Appleはニューヨークの店舗で記念イベントも開催します。"
-    },
-    {
-      "id": "d72ad32e701cb26c605a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "These are my favorite Apple Watch accessories of 2026 (so far)",
-      "url": "https://9to5mac.com/2026/08/05/these-are-my-favorite-apple-watch-accessories-of-2026-so-far/",
-      "publishedAt": "2026-08-05T20:18:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/IMG_5544_99cc38-e1785341066193.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "長年の愛用者が語る、お気に入りのApple Watchアクセサリ",
-      "summaryJa": "初代モデルの発売以来Apple Watchを愛用し続けているユーザーが、日々の生活に欠かせないお気に入りのアクセサリについて紹介しています。バンドや充電器、ケースなど多様なエコシステムが存在し、2015年に購入したバンドが最新モデルでもそのまま使える点が大きな魅力として挙げられています。"
     }
   ],
-  "updatedAt": "2026-08-13T22:06:10.227Z",
+  "updatedAt": "2026-08-13T23:03:51.459Z",
   "initialized": true,
   "summaryVersion": 4
 }
