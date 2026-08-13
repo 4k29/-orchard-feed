@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "b9633d862e45162c7870",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iFixit's Galaxy Z Fold8 Teardown is a Preview of Apple's Foldable Challenges",
+      "url": "https://www.macrumors.com/2026/08/13/ifixit-galaxy-z-fold8-teardown/",
+      "publishedAt": "2026-08-13T20:41:59.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/ifixit-galaxy-z-fold8.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "サムスンの新型折りたたみスマホ分解から見るAppleの課題",
+      "summaryJa": "サムスンの新型折りたたみスマートフォン「Galaxy Z Fold8」の分解調査から、将来登場すると噂される折りたたみ式iPhoneが直面する可能性のある課題が浮き彫りになっています。特にヒンジ部分へのホコリの侵入や耐久性の問題は折りたたみ端末共通の難点であり、Appleがこれらの技術的ハードルをどのように克服しているかが注目されています。"
+    },
+    {
+      "id": "dd0786ccf31c6cd891b7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Chase recently added free Apple TV, Apple One perks to popular credit card",
+      "url": "https://9to5mac.com/2026/08/13/chase-adds-free-apple-tv-discounted-apple-one-benefit-to-popular-credit-card/",
+      "publishedAt": "2026-08-13T20:37:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chase-plus-apple-tv.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "米Chase、人気クレジットカードの特典にApple関連サービスを追加",
+      "summaryJa": "米国の金融大手Chaseは、人気の旅行向けクレジットカード「Sapphire Preferred」の特典を拡充し、1年間の無料Apple TVまたはApple Oneの割引クレジットの提供を開始しました。対象となるカード会員はアプリやウェブサイト経由でAppleアカウントを連携することで、年間費を抑えつつこれらのエンターテインメント特典を利用できるようになります。"
+    },
+    {
+      "id": "bd3021eeae019b9a6249",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp is working on chat themes with animated wallpapers",
+      "url": "https://9to5mac.com/2026/08/13/whatsapp-is-working-on-chat-themes-with-animated-wallpapers/",
+      "publishedAt": "2026-08-13T20:34:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp、iOS向けベータ版でアニメーション背景などのチャットテーマを開発中",
+      "summaryJa": "iOS向けWhatsAppの最新ベータ版から、チャット画面のカスタマイズ機能に関する新たなコードが見つかりました。アニメーション付きの背景や新しいテーマ分類が追加される予定で、視覚的な楽しさを加えつつも、会話に集中できるよう動きは控えめに設計されていると報じられています。"
+    },
+    {
       "id": "fc1d1752e8ec8223ed0a",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4457,54 +4502,9 @@
       ],
       "titleJa": "Apple Watch Ultra 4に期待が高まる3つの新機能の噂",
       "summaryJa": "来月登場すると噂されるApple Watch Ultra 4に関して、注目を集めている3つの新機能が報じられています。SiriのAI機能に向けた処理性能の向上や、センサー部品の大幅な刷新によるヘルスケア機能の強化などが期待されています。"
-    },
-    {
-      "id": "691773568fc552d8909b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp channel admins will soon get the ability to flag AI-generated media",
-      "url": "https://9to5mac.com/2026/08/05/whatsapp-channel-admins-will-soon-get-the-ability-to-flag-ai-generated-media/",
-      "publishedAt": "2026-08-05T20:00:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp、チャンネル管理者にAI生成コンテンツのラベル付け機能を提供へ",
-      "summaryJa": "WhatsAppは、EUの新要件であるAI生成コンテンツの透明性確保に向け、チャンネル管理者がAIによる画像や動画などのメディアにラベルを追加できる機能を準備しています。Androidベータ版のコードから判明したもので、管理者がメッセージを長押しして「AIコンテンツの追加」を選択できるようになります。これによりフォロワーは投稿されたメディアがAI製であるかを視覚的に確認可能となり、今後の正式展開が期待されています。"
-    },
-    {
-      "id": "ef39be6f6425a2d2a085",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Sunbird's iMessage for Android App Returns to the Google Play Store",
-      "url": "https://www.macrumors.com/2026/08/05/sunbird-imessage-for-android/",
-      "publishedAt": "2026-08-05T19:43:38.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/sunbird-app.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Android向けiMessageアプリ「Sunbird」がGoogle Playストアに再登場",
-      "summaryJa": "AndroidでiMessageを利用できるようにするアプリ「Sunbird」が、Google Playストアに再び登場しました。過去にはセキュリティ上の懸念からサービス停止に追い込まれましたが、今回は暗号化の仕組みを刷新し、デバイス側と転送時に暗号化が行われるとしています。AppleがRCSに対応した現在、主要な機能はバブルの色を青にする点などが中心となりますが、14日間の無料トライアルや月額サブスクリプションとして提供されています。"
-    },
-    {
-      "id": "815bc4c3ac47c864edf3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's iCloud Private Relay is Leaking Users' Real IP Addresses",
-      "url": "https://www.macrumors.com/2026/08/05/icloud-private-relay-ip-address-leak/",
-      "publishedAt": "2026-08-05T19:41:47.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AppleのiCloudプライベートリレーにユーザーの実際IPアドレスが漏洩する脆弱性",
-      "summaryJa": "セキュリティ研究者により、AppleのiCloudプライベートリレーがパスキーを使用するWebサイトに対してユーザーの実際のIPアドレスを露呈させてしまう問題が指摘されました。WebKitがWebAuthnの処理をOSの認証サービスに引き渡す際、リレーを経由せずに直接HTTPSリクエストが送信されることが原因とされています。DNSプリフェッチやWebTransport機能に関する問題も合わせて報告されており、Appleはこの調査結果について現在対応を進めています。"
     }
   ],
-  "updatedAt": "2026-08-13T20:23:50.091Z",
+  "updatedAt": "2026-08-13T21:14:17.450Z",
   "initialized": true,
   "summaryVersion": 4
 }
