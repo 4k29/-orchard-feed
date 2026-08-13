@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "93d55fab4abade39f5a1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "What's Coming in September: New iPhones, Apple Watches and More",
+      "url": "https://www.macrumors.com/2026/08/13/apple-september-announcement-rumors/",
+      "publishedAt": "2026-08-13T23:20:39.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "9月のAppleイベントで新型iPhoneやApple Watchが登場か",
+      "summaryJa": "Appleが来月のイベントに向けて準備を進めている新製品の噂について報じられています。新型iPhone 18 Proシリーズでは、Dynamic Islandの小型化や新型カメラ、高性能なA20 Proチップの搭載などが予想されています。また、折りたたみ式iPhoneの登場可能性や、全体的な価格改定の噂も伝えられており、今後の正式発表に注目が集まっています。"
+    },
+    {
+      "id": "1fe5935e9c469aeef795",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Ted Lasso Season 4 Premiere is Apple TV's Biggest Launch Ever",
+      "url": "https://www.macrumors.com/2026/08/13/ted-lasso-premiere-record/",
+      "publishedAt": "2026-08-13T23:05:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Ted-Lasso-16x9.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "「テッド・ラッソ」シーズン4、Apple TV史上最大のヒット作に",
+      "summaryJa": "Apple TVで配信が始まった「テッド・ラッソ」シーズン4のプレミア公開が、同サービス史上最大の視聴数を記録したと伝えられています。ニールセンのデータによると、公開初期の2日間で全米2億9660万分の視聴時間を突破しました。約3年ぶりの新シーズンとなりますが、ファンからの熱狂的な支持を集めており、毎週新しいエピソードが公開されています。"
+    },
+    {
       "id": "5bca9ffcecc09b9b5b0e",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "Meta、macOS向けの新しいコーディングエージェント「Muse Code」を発表",
       "summaryJa": "MetaがmacOSとLinux向けのターミナル対応コーディングエージェント「Muse Code」を発表しました。大規模なリポジトリ全体にわたるソフトウェアエンジニアリングタスクを実行可能で、Metaの最新モデルであるMuse Spark 1.2によって駆動します。利用者のプロンプトを今後のAIモデルのトレーニングに使用することを許可するコントリビューター層を選択すると、通常よりも大幅に安い価格で利用できるようになっています。"
-    },
-    {
-      "id": "0f08b47c5bff5503f192",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Disney+ Could Get a Free Ad-Supported Tier",
-      "url": "https://www.macrumors.com/2026/08/05/disney-plus-free-tier/",
-      "publishedAt": "2026-08-05T23:34:16.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2023/09/disney.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Disney+、広告付き無料プランの導入を検討か",
-      "summaryJa": "Disneyの最高経営責任者であるジョシュ・ダマロ氏の最新の決算説明会での発言から、同社が将来的にDisney+へ広告付きの無料プランを導入する可能性があると報じられています。価格に敏感なユーザー層を取り込み、広告収益の成長を加速させるための施策として検討されている段階です。現時点で具体的な発売計画は発表されていませんが、今後の展開が注目されます。"
-    },
-    {
-      "id": "1f9c2c58d0f731312fea",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "SpaceX Plans Starlink Mobile Service to Compete With Verizon, AT&T and T-Mobile",
-      "url": "https://www.macrumors.com/2026/08/05/starlink-mobile-service/",
-      "publishedAt": "2026-08-05T22:27:29.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/iphone-17e-notch.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "米SpaceX、通信大手に対抗する独自のStarlinkモバイルサービスを計画か",
-      "summaryJa": "SpaceXは初の決算説明会において、EchoStarから取得した周波数を利用した独自の地上通信網によるモバイルサービスの展開計画を明らかにしました。Starlinkの次世代衛星を活用し、大手通信キャリアに対抗する真のモバイルサービスを提供することを目指しています。アナリストからは厳しい競争が予想されるとの指摘もある中、同社は2027年に次世代衛星の打ち上げを予定しています。"
     }
   ],
-  "updatedAt": "2026-08-13T23:03:51.459Z",
+  "updatedAt": "2026-08-13T23:54:31.927Z",
   "initialized": true,
   "summaryVersion": 4
 }
