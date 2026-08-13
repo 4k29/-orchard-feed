@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "7be031510ca67a775dc5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: AirPods Pro 3, M5 MacBook Air $270 off, UWB smart lock, Thunderbolt 5 dock, Nomad cases from $17, more",
+      "url": "https://9to5mac.com/2026/08/13/deals-airpods-pro-3-m5-macbook-air-thunderbolt-5-dock/",
+      "publishedAt": "2026-08-13T15:28:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-Macbook-Air-AirPods-Pro-3-thunderbolt-5-dock.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPods Pro 3やM5 MacBook Airなどがセールに登場",
+      "summaryJa": "AirPods Pro 3が通常の約25%オフとなる特価で販売されているほか、公式認定整備済ストアでのM5搭載MacBook Airの割引やApple Watch Series 11のセールが実施されています。さらに、Ultra Wideband対応のSchlage製スマートロックやHyperのThunderbolt 5ドックなども割引対象となっています。"
+    },
+    {
+      "id": "29c67d66d61b3cb45d14",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Three new iPhones launch next month, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/08/13/three-new-iphones-launch-next-month-heres-whats-coming/",
+      "publishedAt": "2026-08-13T15:14:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "9月の発表会で登場が噂される3つの新型iPhone",
+      "summaryJa": "まもなく開催されるAppleの9月のイベントでは、iPhone 18 Pro、iPhone 18 Pro Max、そして折りたたみ式のiPhone Ultraの3モデルが発表されると報じられています。新モデルにはA20 Proチップや可変絞りを備えたメインカメラが搭載され、iPhone UltraはiPad miniのような大画面を備えたブック型のデザインになると予想されています。"
+    },
+    {
+      "id": "d5db75535a026382ee83",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Will the iPhone Ultra avoid the issue that can still kill Samsung foldables?",
+      "url": "https://9to5mac.com/2026/08/13/will-the-iphone-ultra-avoid-the-issue-that-can-still-kill-samsung-foldables/",
+      "publishedAt": "2026-08-13T15:00:37.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Will-the-iPhone-Ultra-avoid-the-issue-that-can-still-kill-Samsung-foldables.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone Ultraは折りたたみスマホの懸念を克服するか",
+      "summaryJa": "サムスンの折りたたみスマートフォン初期モデルから続く、ヒンジ部分へのホコリやゴミの侵入による画面破損の問題は最新モデルでも解決されていないと伝えられています。Appleがこれまで折りたたみ端末の投入を慎重に遅らせてきたのは、こうした耐久性の課題を確実にクリアするためだったと指摘されています。"
+    },
+    {
+      "id": "5648d8807ce2b49455ea",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New Apple TV 4K: Everything we know about Apple’s 2026 upgrade",
+      "url": "https://9to5mac.com/2026/08/13/new-apple-tv-4k-2026-release-date-features-price/",
+      "publishedAt": "2026-08-13T14:30:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-tvos-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新型Apple TV 4Kの発売時期と最新の噂まとめ",
+      "summaryJa": "Apple TV 4Kとしては約4年ぶりとなるハードウェア刷新が今秋にも行われると報じられています。次期モデルにはA17 Proチップが搭載され、Apple Intelligenceや新しいSiriに対応する可能性が高いと伝えられており、スマートホーム戦略の強化に向けた動きとして注目されています。"
+    },
+    {
       "id": "77b7950487f599b6efe7",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4444,69 +4504,9 @@
       ],
       "titleJa": "Apple、AI生成バグの急増を受けてセキュリティ報告の受付を制限か",
       "summaryJa": "9to5Mac Dailyのポッドキャストエピソードにて、AI生成によるバグ報告が急増している問題を受け、Appleがセキュリティバグ報告の受付上限を設けていることが報じられました。番組では、iPhoneのアップグレードプログラムに関する条件や、9月のiPhoneイベント開催日に関する手がかりについても議論されています。"
-    },
-    {
-      "id": "5532d59db16e5eca4d65",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Ted Lasso is back, and two more hit Apple shows are coming soon",
-      "url": "https://9to5mac.com/2026/08/05/ted-lasso-is-back-and-two-more-hit-apple-shows-are-coming-soon/",
-      "publishedAt": "2026-08-05T14:42:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-tv-lasso-slow-horses-dark.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、大人気シリーズ「テッド・ラッソ」シーズン4の配信を開始",
-      "summaryJa": "Apple TVの人気ドラマ「テッド・ラッソ」が待望のシーズン4の配信を正式に開始しました。新しいチームメンバーを迎えて毎週水曜日にエピソードが更新されます。さらに、ヒット作である「窓際のスパイ」シーズン6や「ダーク・マター」シーズン2の新作も間もなく登場する予定です。"
-    },
-    {
-      "id": "c8a9bb5692a1ef33f2aa",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27’s best new Messages feature is all about saving you time",
-      "url": "https://9to5mac.com/2026/08/05/ios-27s-best-new-messages-feature-is-all-about-saving-you-time/",
-      "publishedAt": "2026-08-05T14:05:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27のメッセージアプリ、AIを活用した便利な「ワンタップ提案」機能を搭載",
-      "summaryJa": "iOS 27のメッセージアプリには、会話の文脈を理解してタスクを効率化するAI機能「ワンタップ提案」が導入されています。デバイス上のプライベートなインテリジェンスを活用し、リマインダーやメモの作成、写真の検索などを手軽に行えるのが特徴です。ユーザーの日々の作業時間を節約し、実用的な利便性をもたらす優れた機能として注目されています。"
-    },
-    {
-      "id": "558b519a9c147f920850",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "MacBook Pro, AirPods, and More Discounted in Best Buy Back to School Event",
-      "url": "https://www.macrumors.com/2026/08/05/best-buy-back-to-school/",
-      "publishedAt": "2026-08-05T14:02:46.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Back-To-School-Deals-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Best Buy、新学期セールでMacBook ProやAirPodsなどを大幅割引",
-      "summaryJa": "米国の家電量販店Best Buyが大規模な新学期セールを実施しており、Apple製品を含む多くのデバイスが割引価格で販売されています。AirPods ProやMacBook ProのM5チップ搭載モデルなどが対象で、最大500ドルの値引きが行われています。このセールは今週いっぱい継続され、会員登録なしで誰でもお得に購入可能です。"
-    },
-    {
-      "id": "bfc21888ba47d90b9f34",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "A live iPhone launch seems unlikely, but the event could be live-lier this year",
-      "url": "https://9to5mac.com/2026/08/05/a-live-iphone-launch-seems-unlikely-but-the-event-could-be-live-lier-this-year/",
-      "publishedAt": "2026-08-05T14:01:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/A-live-iPhone-launch-seems-unlikely-but-the-event-could-be-live-lier-this-year.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "今年のiPhoneイベント、ライブ感が増す可能性か",
-      "summaryJa": "ブルームバーグのマーク・ガーマン氏が投稿した表現をめぐり、今年のiPhone発表イベントの形式について様々な憶測を呼んでいます。完全なライブ中継に戻る可能性は低いと見られていますが出社する小売店従業員の抽選に関する言及などから例年とは異なるライブ的な要素が取り入れられるのではないかと注目されています。パンデミック以降は事前収録された動画配信が主流となっていましたがハイブリッドな演出への期待が高まっています。"
     }
   ],
-  "updatedAt": "2026-08-13T14:45:09.959Z",
+  "updatedAt": "2026-08-13T15:43:18.570Z",
   "initialized": true,
   "summaryVersion": 4
 }
