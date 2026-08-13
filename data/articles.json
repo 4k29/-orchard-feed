@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "87005e57f68613425587",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp Now Lets You Save a Contact's Username",
+      "url": "https://www.macrumors.com/2026/08/13/whatsapp-save-a-contacts-username/",
+      "publishedAt": "2026-08-13T09:10:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "WhatsApp、連絡先へのユーザー名保存に対応か",
+      "summaryJa": "WhatsAppが連絡先の新規追加時にユーザー名を保存できるようになる機能をテストしていると報じられています。名前や電話番号の入力欄の間にユーザー名用のフィールドが追加され、チャット情報画面から連絡先を作成する際には自動的に入力される仕組みになるとされています。"
+    },
+    {
+      "id": "2ece821d76e207c9fb3f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple moving Oracle store in Reading, UK, as Basingstoke store closes",
+      "url": "https://9to5mac.com/2026/08/13/apple-reopening-oracle-store-in-reading-uk-as-basingstoke-store-closes/",
+      "publishedAt": "2026-08-13T09:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/AAPL-earnings-call-on-October-31-will-include-early-iPhone-16-sales.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "英国のApple Storeが移転へ、ベイジングストーク店は閉店へ",
+      "summaryJa": "英国レディングのショッピングセンター内にあるApple Storeが、新しいデザインを採用した店舗へ12月に移転することが明らかになりました。それに先立ち、11月にはベイジングストーク店が閉店する予定で、同店のスタッフには近隣店舗での勤務機会が提供されるとしています。"
+    },
+    {
       "id": "814b91663847d9fa07b7",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "9to5Mac Daily：AppleとOpenAIの対立や新製品の噂",
       "summaryJa": "AppleとOpenAIの間における営業秘密を巡る訴訟の動向をはじめ、iPhone Air 2のDynamic Islandに関する噂、iPhone 18 Proの価格に関する報道、さらにはCEO移行に向けた社内人事の動きについてポッドキャストで詳しく振り返っています。"
-    },
-    {
-      "id": "1c05aa67cd38a50a5985",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Everything Apple Is Expected to Announce in September",
-      "url": "https://www.macrumors.com/2026/08/04/apple-september-2026-announcements/",
-      "publishedAt": "2026-08-04T22:10:13.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Everything-Apple-Is-Expected-to-Announce-in-September-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "9月のAppleイベントで発表が期待される新製品の噂まとめ",
-      "summaryJa": "Appleが来月の恒例イベントで少なくとも5つの新製品を発表すると予想されています。iPhone 18 ProやPro Maxでは、より小型化したDynamic Island、可変絞り付きの新しい広角カメラ、A20 Proチップなどの搭載が噂されており、一部モデルでは価格改定の可能性も報じられています。"
-    },
-    {
-      "id": "371ab319e4f941228e12",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Bingers, a new TV-tracking app from the founder of TV Time, is now available to download",
-      "url": "https://9to5mac.com/2026/08/04/bingers-a-new-tv-tracking-app-from-the-founder-of-tv-time-is-now-available-to-download/",
-      "publishedAt": "2026-08-04T20:33:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/bingers.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "人気のテレビ番組追跡アプリ「TV Time」の元創業者による新アプリ「Bingers」が登場",
-      "summaryJa": "先月のTV Timeのサービス終了を受け、共同創業者のアントニオ・ピント氏がコミュニティ機能を重視した新しいテレビ・映画追跡アプリ「Bingers」を発表しました。現在iOSおよびAndroid向けに配信されており、ユーザーは以前のデータをインポートして引き継ぐことが可能です。プロフィールや投票機能といったコミュニティ機能が充実しているほか、視聴履歴や今後のエピソードカレンダーなども無料で利用できます。"
     }
   ],
-  "updatedAt": "2026-08-13T08:50:10.510Z",
+  "updatedAt": "2026-08-13T09:52:40.099Z",
   "initialized": true,
   "summaryVersion": 4
 }
