@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "4266cc2210c37fa42a5a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
+      "url": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
+      "publishedAt": "2026-08-13T00:03:40.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Siri-AI.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、Siri AI向けのニュース配信でパブリッシャーと提携交渉か",
+      "summaryJa": "AppleがSiriのAI機能向けに正確なニュースや最新情報を提供するため、複数の報道機関と複数年契約の交渉を行っていると報じられています。従来のAI分野における定額制の契約とは異なり、コンテンツが使用された際に出版社へ報酬を支払う仕組みを想定しており、9桁規模の予算が議論されている模様です。Siri AIは今秋に導入が予定されており、過去の通知要約機能での誤生成などの課題を踏まえ、正確な情報の確保を目指しています。"
+    },
+    {
       "id": "f52ae842c01312df4253",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "Telegram一時削除、恐喝者が違法コンテンツを仕込んだとCEOが説明",
       "summaryJa": "TelegramがApp Storeから一時的に削除された件について、同社のパヴェル・ドゥーロフCEOが詳細を明らかにしました。攻撃者が過去のメッセージを編集してAIで加工した児童性的虐待素材を隠し、削除を求める恐喝スキームを仕掛けたことが原因だとしています。Telegram側が即座にコンテンツを削除してユーザーをBANしたことでアプリは復旧しましたが、不審な手口への警戒が呼びかけられています。"
-    },
-    {
-      "id": "4407168882f0012e6e71",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "RevenueCat Shipaton mobile hackathon is back with $1 million worth of prizes",
-      "url": "https://9to5mac.com/2026/08/04/revenuecat-shipaton-mobile-hackathon-is-back-with-1-million-worth-of-prizes/",
-      "publishedAt": "2026-08-04T19:19:59.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/revenuecat-shipaton-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "総額100万ドル規模のモバイルハッカソン「Shipaton」が開催",
-      "summaryJa": "RevenueCat主催による世界最大級のモバイルアプリ開発ハッカソン「Shipaton」が再び開催されることになりました。AIコーディングツールの普及により誰でもアプリ開発が可能になった背景を受け、8月1日から9月30日までの期間に新たなアプリをリリースして収益化SDKを導入した開発者を対象に、総額100万ドル相当の豪華な賞品が授与されます。"
     }
   ],
-  "updatedAt": "2026-08-12T23:54:31.005Z",
+  "updatedAt": "2026-08-13T01:59:20.002Z",
   "initialized": true,
   "summaryVersion": 4
 }
