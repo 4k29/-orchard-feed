@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "01c6b47e5bbcfc2a219d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple adds iPhone X and 2018 MacBook Pro to obsolete products list",
+      "url": "https://9to5mac.com/2026/08/13/apple-adds-iphone-x-and-2018-macbook-pro-to-obsolete-products-list/",
+      "publishedAt": "2026-08-13T19:35:26.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-x.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPhone Xと2018年製MacBook Proをオブソリート製品に追加",
+      "summaryJa": "Appleはビンテージ製品とオブソリート製品のリストを更新し、iPhone Xと15インチの2018年製MacBook Proをオブソリート製品に追加しました。これにより、同社によるこれらハードウェアの修理サポートは終了し、サービスプロバイダでの部品発注もできなくなります。両製品はすでに主要なOSアップデートの対象外となっており、長年の運用期間を経て今回の分類変更となりました。"
+    },
+    {
+      "id": "3443d131130fb5c6a4e3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Ted Lasso just had the biggest Apple TV premiere ever",
+      "url": "https://9to5mac.com/2026/08/13/ted-lasso-just-had-the-biggest-apple-tv-premiere-ever/",
+      "publishedAt": "2026-08-13T19:22:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ted-lasso-s4-coaching-trio.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "「テッド・ラッソ」シーズン4、Apple TV史上最大のプレミア公開を記録",
+      "summaryJa": "人気ドラマ「テッド・ラッソ」シーズン4が好調な滑り出しを見せ、Apple TV史上最大のローンチとなりました。配信初動の公開ウィンドウにおいて米国で2億9,660万分の視聴時間を記録し、単日でも首位を獲得しています。競合と比較して小規模な加入者基盤である中、シーズン3に続く高い人気を改めて証明する形となりました。"
+    },
+    {
+      "id": "8d72ef21f248f4938c4f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Opens Houston Advanced Manufacturing Center Ahead of Mac Mini Production",
+      "url": "https://www.macrumors.com/2026/08/13/apple-houston-manufacturing-center/",
+      "publishedAt": "2026-08-13T19:08:56.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-houston-manufacturing-facility-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、テキサス州ヒューストンに先端製造センターを開設",
+      "summaryJa": "Appleはテキサス州ヒューストンに新たな先端製造センター（AMC）を開設しました。この施設はAIサーバーの製造拠点と同じ場所にあり、今年後半からはMac miniの製造も開始される予定です。中小企業や学生向けに無料のトレーニングや教育セッションを提供し、米国の製造業の未来を支える人材育成を進めていきます。"
+    },
+    {
+      "id": "499e31bbce4590baf34b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Wallet in iOS 27 adds clever new way to use its many features",
+      "url": "https://9to5mac.com/2026/08/13/apple-wallet-in-ios-27-adds-clever-new-way-to-use-its-many-features/",
+      "publishedAt": "2026-08-13T19:01:40.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-wallet-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27の「ウォレット」アプリに機能ガイドを確認できる新セクションが登場",
+      "summaryJa": "iOS 27のベータ版において、「ウォレット」アプリに新しく「ディスカバー」セクションが追加されました。ここではApple Payや各種パス、キーなどの機能に関する教育的ガイドや便利な機能へのショートカットが提供されます。多様化するウォレットの機能をユーザーがより簡単に活用できるよう設計されています。"
+    },
+    {
+      "id": "8d79d2c2a26e7556c89d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s new ‘Advanced Manufacturing Center’ opens in Texas",
+      "url": "https://9to5mac.com/2026/08/13/apples-new-advanced-manufacturing-center-opens-in-texas/",
+      "publishedAt": "2026-08-13T18:51:40.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-advanced-manufacturing-center-houston.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、テキサス州ヒューストンに新施設を開設",
+      "summaryJa": "Appleはテキサス州ヒューストンに新施設「Advanced Manufacturing Center」を開設しました。このセンターでは、中小企業のビジネスリーダーを対象に無料のトレーニングや教育セッションを提供し、最先端の設備を活用してイノベーションを加速させます。同じ敷地内ではAIサーバーの製造や出荷が行われており、今年中にはMac miniの製造も開始される予定です。"
+    },
+    {
+      "id": "b3ef69738decaa177ac0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Future Apple wearables, iOS 27 beta 5, iPhone 20 details",
+      "url": "https://9to5mac.com/2026/08/13/happy-hour-603/",
+      "publishedAt": "2026-08-13T18:43:01.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "次世代ウェアラブルや将来のiPhoneの噂",
+      "summaryJa": "ポッドキャスト番組にて、次世代のフィットネス向けウェアラブルに関するAppleの新たな動きや、ガラス製デザインが噂される将来のiPhoneについて語られています。また、Vision ProでのFriday Night Baseballや、Apple TVにおけるゴルフなどのスポーツ放映権に関する噂も取り上げられています。番組では他にも、iOSのベータ版における変更点や、映画カタログの無料プロモーションなどについても触れられています。"
+    },
+    {
       "id": "bec702a8a1c4c16d1605",
       "source": "Apple Newsroom",
       "sourceId": "apple-newsroom",
@@ -4412,99 +4502,9 @@
       ],
       "titleJa": "AppleのAI対応Siri、対応ハードウェアの全リストが判明",
       "summaryJa": "iOS 27やmacOS Golden Gateなどで導入される新機能「Siri AI」に対応するApple製品の全リストが明らかになりました。iPhoneは15 Pro以降、iPadはM1以降を搭載したモデル、MacはAppleシリコン搭載モデルなどが対象となります。なお、音声のカスタマイズや高度なオンデバイスAIモデルなど、一部の機能はさらに新しい特定のハードウェアに制限される見込みです。"
-    },
-    {
-      "id": "e32695a162fc7c9b729b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro event date: When Apple announced its event over the last six years",
-      "url": "https://9to5mac.com/2026/08/05/iphone-18-pro-event-date-when-announcement/",
-      "publishedAt": "2026-08-05T19:10:13.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Pro発表イベントは9月9日水曜日か、過去の傾向から分析",
-      "summaryJa": "Appleの次期iPhoneイベントの開催時期と正式発表のタイミングについて、過去6年間のデータをもとに予測されています。近年のAppleは、イベントの2週間前に日程を正式発表する傾向が一貫しており、今年は労働節の休日を考慮して9月9日の水曜日に開催される可能性が指摘されています。"
-    },
-    {
-      "id": "31e323052617cd771595",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iCloud Private Relay might be leaking your real IP address, researchers say",
-      "url": "https://9to5mac.com/2026/08/05/icloud-private-relay-leaking-your-ip-address/",
-      "publishedAt": "2026-08-05T18:42:36.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/07/how-to-turn-on-off-icloud-private-relay.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iCloudプライベートリレーに実際のIPアドレスが漏洩する脆弱性か",
-      "summaryJa": "セキュリティ研究者が、Appleの「iCloudプライベートリレー」に問題を発見したと報告しました。パスキーをサポートするウェブサイトを訪れた際、オペレーティングシステムの認証サービスによるリクエストがプライベートリレーをバイパスし、ユーザーの実際のIPアドレスが露出してしまう可能性があるとされています。"
-    },
-    {
-      "id": "2d0d5ed4c2a2034707bc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPadOS 27 adds two new iPad features I’ve been loving",
-      "url": "https://9to5mac.com/2026/08/05/ipados-27-adds-two-new-ipad-features-ive-been-loving/",
-      "publishedAt": "2026-08-05T18:21:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27-ipad-keyboard-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPadOS 27で追加されるMacライクな2つの便利機能",
-      "summaryJa": "来月リリース予定のiPadOS 27では、システム全体にわたる新機能が追加されます。メニューバー常時表示オプションやステータスバーでのアクティブアプリ名表示など、Macに近い操作性を実現する改善が含まれています。また、キーボードショートカット「CMD + Space」でアクセスできる新しいSpotlightにSiri AIの機能が統合され、より便利に利用できるようになります。"
-    },
-    {
-      "id": "707c84902a7c6befdb84",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 adds four new ways to customize your iPhone’s Lock Screen",
-      "url": "https://9to5mac.com/2026/08/05/ios-27-lock-screen-customization/",
-      "publishedAt": "2026-08-05T17:34:37.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/extend-lock-screen.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27、ロック画面のカスタマイズ機能や時計の配置変更など新機能を追加",
-      "summaryJa": "iOS 27では、iPhoneのロック画面デザインの自由度がさらに向上し、新しいカスタマイズや壁紙設定機能が追加されます。写真アプリの編集機能や「Image Playground」を活用したAIによる壁紙生成に対応するほか、ロック画面上で時計の位置移動や縮小ができるようになります。"
-    },
-    {
-      "id": "e208cb0637465eb8aa6f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Ultra 3 Deals Return: Grab $99 Off Before They're Gone",
-      "url": "https://www.macrumors.com/2026/08/05/apple-watch-ultra-3-deals/",
-      "publishedAt": "2026-08-05T17:16:48.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/apple-watch-ultra-3-blue.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Ultra 3がAmazonで99ドル引きのセール中",
-      "summaryJa": "Amazonにて、Apple Watch Ultra 3の一部モデルを対象とした99ドルの割引セールが実施されています。ナチュラルやブラックの本体カラーに加え、ミラネーゼループモデルなども割引価格の対象となっており、在庫限りの提供となります。"
-    },
-    {
-      "id": "6a17a8beebb68f071ab2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Vision Pro Speeds Up Surgery by Almost 20%",
-      "url": "https://www.macrumors.com/2026/08/05/apple-vision-pro-speeds-up-surgery/",
-      "publishedAt": "2026-08-05T15:47:58.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/vision-pro-surgeon.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Vision Proで手術時間が約20％短縮、米大学の調査",
-      "summaryJa": "カリフォルニア大学サンディエゴ校による査読付き研究により、Apple Vision Proを主要なディスプレイとして使用して涙道の外科手術を行った医師は、従来のモニターを使用した医師と比較して手術を19％早く完了したことが明らかになりました。Vision Proを装着することで、医師は視野内に直接映像をストリーミングしながら自然な前向き姿勢を維持でき、身体的および精神的な負担の軽減も報告されています。研究チームは小規模な初期段階の調査であるとしつつも、今後のさらなる臨床試験の必要性を呼びかけています。"
     }
   ],
-  "updatedAt": "2026-08-13T18:39:59.043Z",
+  "updatedAt": "2026-08-13T19:44:52.796Z",
   "initialized": true,
   "summaryVersion": 4
 }
