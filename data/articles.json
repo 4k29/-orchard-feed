@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "fb0e9015ad0e8522c03b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV just added a bunch of classic movies to stream for free",
+      "url": "https://9to5mac.com/2026/08/12/apple-tv-just-added-a-bunch-of-classic-movies-to-stream-for-free/",
+      "publishedAt": "2026-08-13T06:42:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-tv-free-movies.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、サブスクリプション向けに名作映画を追加",
+      "summaryJa": "Apple TVのサブスクリプションに、追加料金なしで視聴できる数々の名作映画が追加されました。対象作品はApple TVアプリ内の専用カルーセルから確認でき、地域によって配信ラインナップが異なります。今回の取り組みが常時提供されるものか、期間限定のプロモーションかは現時点では明らかにされていません。"
+    },
+    {
       "id": "de0edf94368240c4c730",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "Telegram、悪質な攻撃者がAppleを操作してApp Storeから一時削除させたと主張",
       "summaryJa": "Telegramのパーヴェル・ドゥーロフCEOは、AIで改変された児童性的虐待素材をグループチャットに意図的に植え付け、Appleを騙してアプリを一時削除させた脅迫者が存在すると明らかにしました。攻撃者は古いメッセージを隠れて編集する技術的なトリックを用いてモデレーションを回避したとされています。Appleは約40分後にTelegramを再承認しましたが、今回の件はユーザー生成コンテンツをホストするあらゆるアプリにとって潜在的なリスクになると警告しています。"
-    },
-    {
-      "id": "5194a41578be2274773a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Limits Bug Bounty Submissions After Flood of AI Slop",
-      "url": "https://www.macrumors.com/2026/08/04/aple-bug-bounty-limits-ai/",
-      "publishedAt": "2026-08-04T19:53:37.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、AI生成の誤報告急増でバグ報奨金の提出数に制限を導入",
-      "summaryJa": "Appleは、AIツールを用いて生成された低品質な偽の脆弱性報告が急増している問題を受け、セキュリティ研究者によるバグ報奨金プログラムへの提出数に制限を設けました。アマチュアハンターなどがAIを使って見つけたとする不正確なレポートが殺到したため、本物の脆弱性報告が埋もれる事態となっていました。Appleは現在、研究者ごとのオープンな提出数に上限を設定しつつも、重大な問題が見落とされないよう制限の引き上げ申請を受け付けています。"
     }
   ],
-  "updatedAt": "2026-08-13T05:54:20.614Z",
+  "updatedAt": "2026-08-13T07:23:44.697Z",
   "initialized": true,
   "summaryVersion": 4
 }
