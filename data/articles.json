@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "de0edf94368240c4c730",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV publishes the trailer for Stillwater’s fifth season",
+      "url": "https://9to5mac.com/2026/08/12/apple-tv-publishes-the-trailer-for-stillwaters-fifth-season/",
+      "publishedAt": "2026-08-13T02:14:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/stillwater-s5-panda.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、マインドフルネス番組のシーズン5予告編を公開",
+      "summaryJa": "Apple TVの人気マインドフルネス番組「スティルウォーター」シーズン5の予告編が公開されました。全5話のエピソードは8月21日に配信が開始される予定です。今シーズンも子供や家族が日常の中で心の平穏を見つけられるような呼吸エクササイズやシンプルな実践法が届けられます。"
+    },
+    {
       "id": "4266cc2210c37fa42a5a",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "Apple、AI生成の誤報告急増でバグ報奨金の提出数に制限を導入",
       "summaryJa": "Appleは、AIツールを用いて生成された低品質な偽の脆弱性報告が急増している問題を受け、セキュリティ研究者によるバグ報奨金プログラムへの提出数に制限を設けました。アマチュアハンターなどがAIを使って見つけたとする不正確なレポートが殺到したため、本物の脆弱性報告が埋もれる事態となっていました。Appleは現在、研究者ごとのオープンな提出数に上限を設定しつつも、重大な問題が見落とされないよう制限の引き上げ申請を受け付けています。"
-    },
-    {
-      "id": "93173751dc7720f24668",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Telegram CEO says extortionist planted illegal content that triggered App Store removal",
-      "url": "https://9to5mac.com/2026/08/04/telegram-ceo-says-extortionist-planted-illegal-content-that-triggered-app-store-removal/",
-      "publishedAt": "2026-08-04T19:33:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/Telegram.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Telegram一時削除、恐喝者が違法コンテンツを仕込んだとCEOが説明",
-      "summaryJa": "TelegramがApp Storeから一時的に削除された件について、同社のパヴェル・ドゥーロフCEOが詳細を明らかにしました。攻撃者が過去のメッセージを編集してAIで加工した児童性的虐待素材を隠し、削除を求める恐喝スキームを仕掛けたことが原因だとしています。Telegram側が即座にコンテンツを削除してユーザーをBANしたことでアプリは復旧しましたが、不審な手口への警戒が呼びかけられています。"
     }
   ],
-  "updatedAt": "2026-08-13T01:59:20.002Z",
+  "updatedAt": "2026-08-13T04:19:22.676Z",
   "initialized": true,
   "summaryVersion": 4
 }
