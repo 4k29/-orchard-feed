@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "814b91663847d9fa07b7",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's 2026 Back to School Offer is Now Live Across Europe",
+      "url": "https://www.macrumors.com/2026/08/13/apple-2026-back-to-school-europe-live/",
+      "publishedAt": "2026-08-13T08:42:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apple-2026-Back-to-School-Graphic.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、欧州で2026年の新学期割引キャンペーンを開始",
+      "summaryJa": "Appleはイギリスやフランスなど欧州の18か国以上で、2026年の新学期キャンペーンを開始しました。対象となる大学生や教育機関のスタッフは、対象のMacやiPadの購入時に最大120ポンドまたは120ユーロ分のギフトカードを受け取ることができます。なお、トルコでは例外として、AirTagsの4個パックなどが提供される仕組みとなっています。キャンペーンの実施期間は8月13日から10月22日までです。"
+    },
+    {
       "id": "fb0e9015ad0e8522c03b",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "人気のテレビ番組追跡アプリ「TV Time」の元創業者による新アプリ「Bingers」が登場",
       "summaryJa": "先月のTV Timeのサービス終了を受け、共同創業者のアントニオ・ピント氏がコミュニティ機能を重視した新しいテレビ・映画追跡アプリ「Bingers」を発表しました。現在iOSおよびAndroid向けに配信されており、ユーザーは以前のデータをインポートして引き継ぐことが可能です。プロフィールや投票機能といったコミュニティ機能が充実しているほか、視聴履歴や今後のエピソードカレンダーなども無料で利用できます。"
-    },
-    {
-      "id": "d5b492c18e95eddf4be1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Telegram CEO Says Extortionist Manipulated Apple Into App Store Removal",
-      "url": "https://www.macrumors.com/2026/08/04/telegram-extortionist-app-store-removal/",
-      "publishedAt": "2026-08-04T20:21:53.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2022/08/telegram-app-icon.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Telegram、悪質な攻撃者がAppleを操作してApp Storeから一時削除させたと主張",
-      "summaryJa": "Telegramのパーヴェル・ドゥーロフCEOは、AIで改変された児童性的虐待素材をグループチャットに意図的に植え付け、Appleを騙してアプリを一時削除させた脅迫者が存在すると明らかにしました。攻撃者は古いメッセージを隠れて編集する技術的なトリックを用いてモデレーションを回避したとされています。Appleは約40分後にTelegramを再承認しましたが、今回の件はユーザー生成コンテンツをホストするあらゆるアプリにとって潜在的なリスクになると警告しています。"
     }
   ],
-  "updatedAt": "2026-08-13T07:23:44.697Z",
+  "updatedAt": "2026-08-13T08:50:10.510Z",
   "initialized": true,
   "summaryVersion": 4
 }
