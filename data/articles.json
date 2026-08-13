@@ -46,6 +46,21 @@
       "summaryJa": "サムスンの折りたたみスマートフォン初期モデルから続く、ヒンジ部分へのホコリやゴミの侵入による画面破損の問題は最新モデルでも解決されていないと伝えられています。Appleがこれまで折りたたみ端末の投入を慎重に遅らせてきたのは、こうした耐久性の課題を確実にクリアするためだったと指摘されています。"
     },
     {
+      "id": "af1b25998315d2d64042",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Two affordable iPhone 17 Pro accessories worth trying",
+      "url": "https://9to5mac.com/2026/08/13/two-affordable-iphone-17-pro-accessories-worth-trying/",
+      "publishedAt": "2026-08-13T15:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/orange-circles-apple-watch-ultra-iphone-17-pro.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 17 Proで試したい手頃なアクセサリ",
+      "summaryJa": "iPhone 17 Proを保護しつつ快適に利用できる手頃な価格のアクセサリとして、反射を抑えてマットな質感が楽しめる画面保護フィルムや、アクティビティ時に役立つ軽量なケースが紹介されています。高価な製品を購入しなくても、手軽にデバイスの使い勝手を試すことができる点が魅力です。"
+    },
+    {
       "id": "5648d8807ce2b49455ea",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "Apple、開発者向け情報誌「Hello Developer」2026年8月号を公開",
       "summaryJa": "Appleは、WWDC26の主要なアップデートを振り返るクパチーノからの最新動画や、iOS 27向けApp Storeアセット用テンプレートの提供を開始しました。また、アプリへのビジュアルインテリジェンス統合に関するベストプラクティスや、Xcode Cloudワークフローを活用したビルド高速化の手法も紹介されています。"
-    },
-    {
-      "id": "85c4220e1d53a0e4f7d1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 5, 2026 – Apple iPhone event clues, more",
-      "url": "https://9to5mac.com/2026/08/05/daily-august-5-2026/",
-      "publishedAt": "2026-08-05T14:52:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、AI生成バグの急増を受けてセキュリティ報告の受付を制限か",
-      "summaryJa": "9to5Mac Dailyのポッドキャストエピソードにて、AI生成によるバグ報告が急増している問題を受け、Appleがセキュリティバグ報告の受付上限を設けていることが報じられました。番組では、iPhoneのアップグレードプログラムに関する条件や、9月のiPhoneイベント開催日に関する手がかりについても議論されています。"
     }
   ],
-  "updatedAt": "2026-08-13T15:43:18.570Z",
+  "updatedAt": "2026-08-13T16:38:49.827Z",
   "initialized": true,
   "summaryVersion": 4
 }
