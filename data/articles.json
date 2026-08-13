@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "8f47f7099440a45c66a4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Base iPhone 18 Tipped to Get These Two Pro-Level Upgrades",
+      "url": "https://www.macrumors.com/2026/08/13/base-iphone-18-two-pro-level-upgrades/",
+      "publishedAt": "2026-08-13T10:02:43.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Colors.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18のベースモデルは12GB RAMと狭いDynamic Islandを搭載か",
+      "summaryJa": "Appleが2027年3月までに発売すると予想される次期iPhone 18のベースモデルについて、アナリストのジェフ・プー氏がProモデルと同等の12GB RAMや、より狭いDynamic Islandを搭載する可能性があると報じられています。一方で、廉価版と位置づけられるiPhone 18eについては9GBのRAMにとどまると予測されており、今後の動向が注目されています。"
+    },
+    {
       "id": "87005e57f68613425587",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "ポンツーンボート向けにCarPlay対応が拡大へ",
       "summaryJa": "MasterCraft Boat Holdingsは、次世代のCrestおよびBaliseポンツーンボートにCarPlayを導入すると発表しました。Savvy Navvyのモバイルアプリとの連携により、海図やGPSトラッキング、ライブ天気予報などを車載ディスプレイと同様に利用可能になります。2027年モデルから標準搭載され、ボート利用者に新しい海洋ナビゲーション体験を提供します。"
-    },
-    {
-      "id": "adef5ea927b875943e48",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 4, 2026 – The latest Apple vs OpenAI drama",
-      "url": "https://9to5mac.com/2026/08/04/daily-august-4-2026/",
-      "publishedAt": "2026-08-04T22:42:37.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "9to5Mac Daily：AppleとOpenAIの対立や新製品の噂",
-      "summaryJa": "AppleとOpenAIの間における営業秘密を巡る訴訟の動向をはじめ、iPhone Air 2のDynamic Islandに関する噂、iPhone 18 Proの価格に関する報道、さらにはCEO移行に向けた社内人事の動きについてポッドキャストで詳しく振り返っています。"
     }
   ],
-  "updatedAt": "2026-08-13T09:52:40.099Z",
+  "updatedAt": "2026-08-13T10:57:49.352Z",
   "initialized": true,
   "summaryVersion": 4
 }
