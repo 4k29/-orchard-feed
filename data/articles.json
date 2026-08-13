@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "2df3046e6b55676efe52",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MacBook Neo 2 will get the big upgrade it needs most, per rumors",
+      "url": "https://9to5mac.com/2026/08/13/macbook-neo-2-will-get-the-big-upgrade-it-needs-most-per-rumors/",
+      "publishedAt": "2026-08-13T17:12:58.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/macbook-neo-2-fi-new.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBook Neo 2はRAMが12GBに増量か",
+      "summaryJa": "発売以来人気のMacBook Neoの次期モデルに関して、最大のアップグレードポイントはメモリ容量の増加になると報じられています。現行の8GBから12GBのRAMへ強化されることで、将来のmacOSが持つ新しいAI機能などにも十分対応できるようになると期待されています。A19 Proチップの搭載とあわせて、より多くのユーザーにとって使いやすい強力なマシンになりそうです。"
+    },
+    {
+      "id": "ac83f90ccaeb09800c70",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI previews ‘Ultrafast’ GPT-5.6 Sol running up to 14 times faster",
+      "url": "https://9to5mac.com/2026/08/13/openai-previews-ultrafast-gpt-5-6-sol-running-up-to-14-times-faster/",
+      "publishedAt": "2026-08-13T17:02:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、最大14倍高速なGPT-5.6 Solをプレビュー",
+      "summaryJa": "OpenAIは、高度なGPT-5.6モデルを大幅に高速化して実行する新しい仕組みのプレビューを実施しています。新設された「Ultrafast」サービス階層により、標準処理と比較して最大14倍の速度でGPT-5.6 Solを稼働させることが可能です。この機能はAPIを通じて提供され、音声対応やカスタマーサポートなど、レイテンシが重視される現場での活用が見込まれています。"
+    },
+    {
       "id": "7be031510ca67a775dc5",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4472,41 +4502,9 @@
       ],
       "titleJa": "MacBook Neoや各種Apple製品が割引価格で登場",
       "summaryJa": "Apple認定整備済ストアにおいて、MacBook Neoが定価より最大120ドル引きの価格で販売されているほか、M5 Pro搭載MacBook ProやApple Watchシリーズの大幅な割引が実施されています。AirPods Pro 3やAirTag 2などもお得な価格で購入可能となっています。整備済製品には通常のApple製品と同様の保証と品質基準が適用されるため、コストを抑えて購入したいユーザーにとって魅力的な選択肢となります。"
-    },
-    {
-      "id": "b5fe598057c3a7f9a630",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Get ready for new creative assets on the App Store",
-      "url": "https://developer.apple.com/news/?id=kug6m2ea",
-      "publishedAt": "2026-08-05T15:00:58.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/3F230FCC-4673-4A74-9BDA-2EF27C6C7D39/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple、App Storeでの新しいクリエイティブアセットの活用を準備",
-      "summaryJa": "Appleは6月に発表した、App Storeでのアプリやゲームの新しいマーケティング手法に向けて準備を進めています。開発者は製品ページのヘッダーや検索結果などで、ブランドや季節ごとの魅力を伝える新しい画像や動画を活用できるようになり、秋のローンチに向けたベストプラクティスやデザインテンプレートが公開されています。"
-    },
-    {
-      "id": "ef4a68311fa3b436cd5a",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Hello Developer: August 2026",
-      "url": "https://developer.apple.com/news/?id=vrvvlonn",
-      "publishedAt": "2026-08-05T15:00:51.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/B7D69EB9-6F36-4838-A396-8E72F1B6EBD7/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple、開発者向け情報誌「Hello Developer」2026年8月号を公開",
-      "summaryJa": "Appleは、WWDC26の主要なアップデートを振り返るクパチーノからの最新動画や、iOS 27向けApp Storeアセット用テンプレートの提供を開始しました。また、アプリへのビジュアルインテリジェンス統合に関するベストプラクティスや、Xcode Cloudワークフローを活用したビルド高速化の手法も紹介されています。"
     }
   ],
-  "updatedAt": "2026-08-13T16:38:49.827Z",
+  "updatedAt": "2026-08-13T17:43:56.733Z",
   "initialized": true,
   "summaryVersion": 4
 }
