@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "093ed0afee31187b67e0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "My DIY iPhone camera mod looks absurd but is great to use",
+      "url": "https://9to5mac.com/2026/08/14/my-diy-iphone-camera-mod-looks-absurd-but-is-great-to-use/",
+      "publishedAt": "2026-08-14T12:12:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/My-DIY-iPhone-camera-mod-looks-absurd-but-is-great-to-use.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone撮影の利便性を高める自作カメラモッド",
+      "summaryJa": "筆者が作成した一風変わった自作のiPhone用カメラモッドについて紹介しています。見た目は少しユーモラスですが、強い日差しの下での撮影などにおいて、ファインダーを通した実用性と撮影の楽しさを大幅に向上させてくれる便利なアイテムとして活躍している様子を伝えています。"
+    },
+    {
       "id": "c258028e7b046d18c7e4",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Reddit、AIスクレイピング対策で「古いReddit」の仕様変更を計画",
       "summaryJa": "Redditは、AIによるデータのスクレイピングやスパムからプラットフォームを保護するため、古いデスクトップ向けウェブインターフェースである「Old Reddit」に変更を加える計画を明らかにしました。まずはアクセス時のログイン必須化などを進める方針ですが、長年旧UIを利用してきたユーザーやモデレーターへの影響が懸念されています。"
-    },
-    {
-      "id": "eeacc8166206a98ca5ad",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Bid to Use Chinese Chipmaker as Leverage Backfires",
-      "url": "https://www.macrumors.com/2026/08/06/apples-bid-to-use-chinese-chipmaker-backfires/",
-      "publishedAt": "2026-08-06T11:53:54.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2020/10/Apple-Silicon-Teal-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、中国製メモリ活用による価格交渉が不調に終わる",
-      "summaryJa": "AppleがサムスンやSKハイニックスに対抗するため中国のYMTCやCXMT製メモリの採用を模索したものの、期待通りの価格引き下げにつながらなかったと報じられています。中国製チップは製造制約によるコスト面から値下げが難しく、さらに他の中国メーカーに大部分の供給枠が押さえられていたため、Apple側の狙いは不発に終わりました。"
     }
   ],
-  "updatedAt": "2026-08-14T11:31:05.308Z",
+  "updatedAt": "2026-08-14T12:26:08.407Z",
   "initialized": true,
   "summaryVersion": 4
 }
