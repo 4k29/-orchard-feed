@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "f8dda2de28aa26b0e6f3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Review: TerraMow V1000 is the easiest iPhone-controlled robot lawn mower I’ve tested",
+      "url": "https://9to5mac.com/2026/08/14/review-terramow-v1000-is-the-easiest-iphone-controlled-robot-lawn-mower-ive-tested/",
+      "publishedAt": "2026-08-14T17:15:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/terramow-v1000-lead-01-iphone-control.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhoneで操作するロボット芝刈り機「TerraMow V1000」の使いやすさ",
+      "summaryJa": "TerraMow V1000は、カメラベースの自動マッピングシステム「TerraVision 2.0」を搭載したiPhone対応のロボット芝刈り機です。従来の機種とは異なり、手動での境界線づくりや埋め込みワイヤーが不要で、庭のマップを自動で作成できます。数週間のテストを経て、技術的な設定が苦手なユーザーにとっても非常に扱いやすい選択肢であることが確認されています。"
+    },
+    {
       "id": "4abb9fcc15c2738f40d4",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "OpenAIがGPT-5の1周年を迎えて新標準「Agent Plugins」を発表",
       "summaryJa": "OpenAIがGPT-5のリリース1周年を記念し、複数の互換製品間で動作するAIエージェント拡張機能のオープン標準「Agent Plugins」を発表しました。GPT-5は自動ルーティング機能を備えて登場し、iOSやmacOSなどのApple Intelligenceにも統合されてきました。その後も継続的なモデルのアップデートやデスクトップ向けアプリの統合が進められ、開発や作業の効率化に貢献しています。"
-    },
-    {
-      "id": "9a381fdc95333def67f0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Security Bite: Apple’s baffling bug bounty changes finally make sense",
-      "url": "https://9to5mac.com/2026/08/06/security-bite-apples-baffling-bug-bounty-changes-finally-make-sense/",
-      "publishedAt": "2026-08-06T16:24:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "アップルがバグ報奨金プログラムの制限を設けた背景と変更の狙い",
-      "summaryJa": "アップルがセキュリティのバグ報奨金プログラムにおいて、研究者が同時にオープンにできる脆弱性報告の件数に上限を設け、30日間のクールオフ期間を設定したことが明らかになりました。業界全体でAIを活用したセキュリティ脆弱性の報告が急増していることが背景にあり、同社が講じてきた一連の対応の理由が浮き彫りになっています。"
     }
   ],
-  "updatedAt": "2026-08-14T17:05:13.854Z",
+  "updatedAt": "2026-08-14T18:03:59.538Z",
   "initialized": true,
   "summaryVersion": 4
 }
