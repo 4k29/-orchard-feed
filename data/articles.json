@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "4abb9fcc15c2738f40d4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Overtime 077: Smart glasses are the future",
+      "url": "https://9to5mac.com/2026/08/14/9to5mac-overtime-077-smart-glasses-are-the-future-even-realities-g2-ceo-will-wang/",
+      "publishedAt": "2026-08-14T16:58:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/OT-glasses.png?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "スマートグラスの未来とAppleエコシステムを語る",
+      "summaryJa": "ポッドキャスト番組9to5Mac Overtimeの最新回にEven RealitiesのCEOであるウィル・ワン氏がゲスト出演しました。Appleでの経歴やサプライチェーンの裏側、ハードウェアイノベーションの現在地について語られています。さらに、スマートグラスがテクノロジーの未来をどのように変えていくのか、プライバシーの課題を含めて議論が展開されています。"
+    },
+    {
+      "id": "b943f299a1a4dbd76c59",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "The MacRumors Show: Where Does the Apple Watch Go Next?",
+      "url": "https://www.macrumors.com/2026/08/14/the-macrumors-show-where-does-the-apple-watch-go-next/",
+      "publishedAt": "2026-08-14T16:35:14.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "次期Apple Watchの動向と将来の大型刷新の噂",
+      "summaryJa": "次世代のApple Watchは小幅なアップグレードになると予想される一方で、将来的に製品史上最大級のデザイン刷新が行われる可能性があると報じられています。Bloombergのマーク・ガーマン記者によれば、かつて廃止されたホワイトセラミックケースが復活する計画もあるようです。また、次期モデルではパフォーマンスの向上が見込まれるほか、新たなバンドやヘルスケア機能のアップデートが期待されています。"
+    },
+    {
+      "id": "b274969b70e8d64ac8d3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "No new Apple Watch faces in watchOS 27 (yet), but here’s one I’ve been loving",
+      "url": "https://9to5mac.com/2026/08/14/no-new-apple-watch-faces-in-watchos-27-yet-but-heres-one-ive-been-loving/",
+      "publishedAt": "2026-08-14T16:13:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-modular-face.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "watchOSの文字盤をシンプルに活用する方法",
+      "summaryJa": "watchOSでは新しい文字盤の追加がなくても、既存の文字盤をカスタマイズして楽しむことができます。Apple Watch Ultra向けの「モジュラーウルトラ」文字盤をあえて情報を絞ってシンプルに使うことで、洗練されたデザインと視認性を両立させています。必要最小限のコンプリケーションだけを配置し、余白を活かしたスタイリッシュな活用法が紹介されています。"
+    },
+    {
       "id": "915f95faacdef3c135b8",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4457,54 +4502,9 @@
       ],
       "titleJa": "アップルがバグ報奨金プログラムの制限を設けた背景と変更の狙い",
       "summaryJa": "アップルがセキュリティのバグ報奨金プログラムにおいて、研究者が同時にオープンにできる脆弱性報告の件数に上限を設け、30日間のクールオフ期間を設定したことが明らかになりました。業界全体でAIを活用したセキュリティ脆弱性の報告が急増していることが背景にあり、同社が講じてきた一連の対応の理由が浮き彫りになっています。"
-    },
-    {
-      "id": "746d83e208abc8193d78",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Lutron Caseta expands hands-free smart home controls through Sonos",
-      "url": "https://9to5mac.com/2026/08/06/lutron-caseta-expands-hands-free-smart-home-controls-through-sonos/",
-      "publishedAt": "2026-08-06T16:06:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/lutron-sonos.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Lutron CasetaがSonos音声コントロールによるハンズフリー操作に対応",
-      "summaryJa": "LutronはCasetaとSonosの既存の統合を拡充し、Sonos Voice Controlを使用してスマートホームデバイスを操作できる機能を追加しました。対応するSonosスピーカーに向かって話しかけるだけで、照明のオンオフや明るさの調整、シェードの昇降などが可能になります。これらの音声リクエストは対応スピーカー上でローカル処理され、現在は米国英語で利用できます。"
-    },
-    {
-      "id": "b7a13214d66a19c53191",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Last Day for Up to $350 Amazon Gift Card With Samsung Galaxy Pre-Orders",
-      "url": "https://www.macrumors.com/2026/08/06/last-day-samsung-galaxy-pre-orders/",
-      "publishedAt": "2026-08-06T14:50:48.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/samsung-galaxy-26-phones.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "サムスン製新製品の予約で最大350ドルのギフト券が付与",
-      "summaryJa": "サムスンの最新スマートフォンやスマートウォッチの予約受付において、Amazonでの購入時に最大350ドルのギフトカードがもらえる特典の最終日を迎えています。対象となるのはGalaxy Z Fold8シリーズやGalaxy Z Flip8、さらにGalaxy Watch9などで、下取りなしでも適用されるお得な内容となっています。公式ストアの特典と比較してもAmazonのほうが手厚い還元となっており、購入を検討しているユーザーにとって見逃せない機会です。"
-    },
-    {
-      "id": "4c94a149b64562a7b3ec",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 hints at all-new Home product launching soon",
-      "url": "https://9to5mac.com/2026/08/06/ios-27-hints-at-all-new-home-product-launching-soon/",
-      "publishedAt": "2026-08-06T14:33:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-home-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、独自スマートホーム向けセキュリティカメラを準備中か",
-      "summaryJa": "iOSのコードから、Appleが開発を進めていると噂される独自のホームセキュリティカメラに関連するヒントが見つかりました。顔認識や赤外線センサーを搭載し、自動化と連携して動作すると見られています。また、HomeKitセキュアビデオに4K解像度やAIを活用した検索機能などの大型アップデートが追加される可能性が報じられています。"
     }
   ],
-  "updatedAt": "2026-08-14T16:01:30.731Z",
+  "updatedAt": "2026-08-14T17:05:13.854Z",
   "initialized": true,
   "summaryVersion": 4
 }
