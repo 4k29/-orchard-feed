@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "01276254e97086c18f0f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp working on customizable emoji reaction sets on iOS",
+      "url": "https://9to5mac.com/2026/08/14/whatsapp-working-on-customizable-emoji-reaction-sets-on-ios/",
+      "publishedAt": "2026-08-14T21:49:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp、絵文字リアクションのカスタム機能テストか",
+      "summaryJa": "iOS向けWhatsAppの最新ベータ版から、メッセージへのリアクションで使用するデフォルトの絵文字をユーザーが自由に変更できるよう準備を進めていることが明らかになりました。長押し時に表示される6つの初期絵文字トレイを自分の好みのものに入れ替え可能になり、いつでも初期設定に戻すこともできます。現在はまだベータテスターにも公開されていませんが、将来のアップデートでの提供が見込まれています。"
+    },
+    {
       "id": "b22c93003f2207c3403a",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "iOS 27でiPhoneとAirPodsがジムでのApple Watch代わりに",
       "summaryJa": "Apple WatchがなくてもGymKit対応のフィットネスマシンと連携できる新機能がiOS 27で提供されると報じられています。iPhoneがワークアウトのトラッキングハブとして機能し、AirPods Pro 3が心拍数を測定するセンサーの役割を果たします。これにより、時計を装着していなくても正確なワークアウトデータを取得できるようになり、ジムでの利便性が高まります。"
-    },
-    {
-      "id": "08d90a90a99ce4f481c2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "X Money FAQ: Account suspensions, 6% APY, physical cards, and more",
-      "url": "https://9to5mac.com/2026/08/06/x-money-faq-account-suspensions-6-apy-physical-cards-and-more/",
-      "publishedAt": "2026-08-06T19:37:23.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/xmoney.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "X Moneyの凍結ポリシーや高金利サービスの詳細",
-      "summaryJa": "先月開始された「X Money」に関して、アカウントが凍結された場合の資金の行方や、最大6%のAPY（年利）といった仕様の解説が公開されています。大半の規約違反では資金へのアクセスが維持されますが、児童安全や暴力に関する規約違反などでは残高が小切手で返金される仕組みです。Apple CardのSavings口座を上回る魅力的な金利水準も話題となっています。"
     }
   ],
-  "updatedAt": "2026-08-14T21:36:08.304Z",
+  "updatedAt": "2026-08-14T21:59:36.223Z",
   "initialized": true,
   "summaryVersion": 4
 }
