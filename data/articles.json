@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "c258028e7b046d18c7e4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Trained Own AI model for China Market With Help From Alibaba",
+      "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
+      "publishedAt": "2026-08-14T09:46:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/09/apple-intelligence-black.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、中国市場向け独自AIモデルをAlibabaの協力で開発か",
+      "summaryJa": "Appleが中国市場におけるApple Intelligence機能に向けて、外部モデルに頼らずAlibabaの協力を得て独自の大規模言語モデルをトレーニングしたと報じられています。規制の壁を乗り越えるための「デュアルトラック戦略」の一環とされ、外国企業として異例の独自モデル提供に向けた動きが進められています。数ヶ月以内の展開が予想されており、今後の動向が注目されます。"
+    },
+    {
       "id": "75e1fa3f4fca4914480a",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Apple、中国製メモリ活用による価格交渉が不調に終わる",
       "summaryJa": "AppleがサムスンやSKハイニックスに対抗するため中国のYMTCやCXMT製メモリの採用を模索したものの、期待通りの価格引き下げにつながらなかったと報じられています。中国製チップは製造制約によるコスト面から値下げが難しく、さらに他の中国メーカーに大部分の供給枠が押さえられていたため、Apple側の狙いは不発に終わりました。"
-    },
-    {
-      "id": "18d3f67ac836d2a59f4d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Vision Pro is a niche product, but an incredibly valuable one in the right hands",
-      "url": "https://9to5mac.com/2026/08/06/vision-pro-is-a-niche-product-but-an-incredibly-valuable-one-in-the-right-hands/",
-      "publishedAt": "2026-08-06T11:21:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Vision-Pro-is-a-niche-product-but-an-incredibly-valuable-one-where-it-counts.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AppleのVision Pro、専門医療現場で高い価値を発揮するか",
-      "summaryJa": "ティム・クックCEOも認めるニッチ製品であるVision Proですが、一部の専門分野では極めて重要な役割を果たし始めています。内視鏡手術などの現場で外科医やスタッフに活用されており、従来の医療用モニターと比較して安価である点も含め、患者と医師の双方にとって大きなメリットをもたらす事例が報告されています。"
     }
   ],
-  "updatedAt": "2026-08-14T09:43:48.962Z",
+  "updatedAt": "2026-08-14T10:42:35.200Z",
   "initialized": true,
   "summaryVersion": 4
 }
