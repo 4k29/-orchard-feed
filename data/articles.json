@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "b22c93003f2207c3403a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple adds new MacBook Air configs, iPhone 16 Plus models, more to refurb store",
+      "url": "https://9to5mac.com/2026/08/14/apple-adds-new-macbook-air-iphone-16-plus-refurb-store/",
+      "publishedAt": "2026-08-14T20:57:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/m5-macbook-air-video.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、整備済製品ストアにMacBookやiPhone 16 Plusを追加",
+      "summaryJa": "Appleは公式の認定整備済製品ストアを更新し、MacBook AirやMacBook Proの新しい構成に加え、iPhone 16 PlusモデルやApple Watchなどを追加しました。整備済製品は最大15%オフの割引価格で購入可能で、1年間の限定保証や14日間の返品ポリシーが適用されます。在庫は頻繁に入れ替わるため、気になる製品がある場合は早めの確認と購入が推奨されます。"
+    },
+    {
       "id": "052d6d3fe30566adc77c",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "X Moneyの凍結ポリシーや高金利サービスの詳細",
       "summaryJa": "先月開始された「X Money」に関して、アカウントが凍結された場合の資金の行方や、最大6%のAPY（年利）といった仕様の解説が公開されています。大半の規約違反では資金へのアクセスが維持されますが、児童安全や暴力に関する規約違反などでは残高が小切手で返金される仕組みです。Apple CardのSavings口座を上回る魅力的な金利水準も話題となっています。"
-    },
-    {
-      "id": "ae1c41a2a37cd17fcc4d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Free ChatGPT Users Get Unlimited Text Chats and GPT-5.6 Luna",
-      "url": "https://www.macrumors.com/2026/08/06/chatgpt-free-unlimited-text-chats/",
-      "publishedAt": "2026-08-06T19:27:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/ChatGPT-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "OpenAI、無料ユーザー向けにGPT-5.6 Lunaと無制限テキストチャットを提供",
-      "summaryJa": "OpenAIは、無料およびGoプランのChatGPTユーザー向けに新モデル「GPT-5.6 Luna」をデフォルトとして順次提供すると発表しました。テキストチャットが無制限で利用可能になり、推論を強化する新しい「Think」ボタンも追加されます。有料のPlusおよびProユーザー向けには、より正確で高度な「GPT-5.6 Sol」モデルが提供され、応答の調整機能も強化されます。"
     }
   ],
-  "updatedAt": "2026-08-14T20:38:46.195Z",
+  "updatedAt": "2026-08-14T21:03:03.785Z",
   "initialized": true,
   "summaryVersion": 4
 }
