@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "7c07e3b6e7571a971743",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Maps opens ad booking for businesses, promotional offer available",
+      "url": "https://9to5mac.com/2026/08/14/apple-maps-opens-ad-booking-for-businesses-promotional-offer-available/",
+      "publishedAt": "2026-08-14T13:49:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/wwdc-2025-13.31.12.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleマップ、企業向けの広告予約受付を開始",
+      "summaryJa": "Appleは、アメリカとカナダのAppleマップで間もなく展開される広告の事前予約受付を企業向けに開始しました。ユーザー向けの本格的な広告表示に先立ち、ウェブサイトでは詳細なガイドラインや申込方法が案内されています。また、クレジットカード決済で広告を予約した適格な企業を対象に、最大1年間毎月の利用明細クレジットとして15%が還元される期間限定の特別プロモーションも実施されています。"
+    },
+    {
+      "id": "ad8b85565c822c36e8c0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "SpaceXAI completes its Cursor acquisition following Grok Bot and Grok 4.6 release",
+      "url": "https://9to5mac.com/2026/08/14/spacex-lands-deal-to-likely-purchase-claude-code-and-openai-codex-competitor/",
+      "publishedAt": "2026-08-14T13:41:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/cursor-spacex.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "SpaceXAI、AIコードエディタのCursor買収を完了",
+      "summaryJa": "宇宙開発企業のSpaceX傘下となったSpaceXAIは、AIコードエディタを手がけるCursorの買収完了を発表しました。CursorはMacを使用するソフトウェアエンジニアの間でAIコーディングツールとして広く普及しており、これまでにGrok BotやGrok 4.6モデルの開発支援にも貢献してきました。両社は協力して世界最高峰のコーディングおよびナレッジワーク向けAIの構築を目指すとしています。"
+    },
+    {
+      "id": "faf034387c4c37b4c228",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Unforgetful is a new app from the creator of Overcast that enhances Apple Reminders",
+      "url": "https://9to5mac.com/2026/08/14/unforgetful-is-a-new-app-from-the-creator-of-overcast-that-enhances-apple-reminders/",
+      "publishedAt": "2026-08-14T13:36:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/unforgetful-app.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "リマインダーを強化する新アプリ「Unforgetful」が登場",
+      "summaryJa": "人気ポッドキャストアプリ「Overcast」の開発者であるマルコ・アーメント氏が、iPhone、iPad、Mac向けの新しいタスク管理アプリ「Unforgetful」をリリースしました。Apple純正のリマインダーアプリとデータを共有しつつ、完了するまで繰り返し通知を行う永続的な通知機能や、柔軟なスヌーズ機能などを備えているのが特徴です。複雑な階層やタグを排除したシンプルな設計により、タスクのうっかり忘れを防ぎます。"
+    },
+    {
+      "id": "ab2e9b0a3f03ffc7e766",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple One gets even better in iOS 27, here’s what’s new",
+      "url": "https://9to5mac.com/2026/08/14/apple-one-is-getting-better-in-ios-27-heres-whats-new/",
+      "publishedAt": "2026-08-14T13:32:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-One-ios-27-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27でApple Oneがさらに進化、新機能まとめ",
+      "summaryJa": "iOS 27におけるApple Oneでは、バンドルされているiCloud+やApple Musicなどの各種サービスが強化されます。サーバーモデルを使用するApple Intelligence機能の一部において、Apple Oneのプラン階層に応じた利用制限の緩和が適用される予定です。さらに、iCloud+の機能であるHomeKit Secure Videoでは、4K動画への対応やAIによる動画説明生成など4つの新しい機能が追加されます。"
+    },
+    {
+      "id": "f7f42028f5dea38400be",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "30 New Things Your iPhone Can Do in iOS 27",
+      "url": "https://www.macrumors.com/2026/08/14/new-things-your-iphone-can-do-ios-27/",
+      "publishedAt": "2026-08-14T13:24:56.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Everything-New-Your-iPhone-Can-Do-on-iOS-27-Feature-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27で利用可能になる新機能と改善点",
+      "summaryJa": "Appleが9月にリリース予定のiOS 27では、生成AI時代に向けた文脈認識型Siriのほか、多くの便利な新機能が追加されます。写真アプリの壁紙自動拡張機能や、Apple Intelligenceを活用したSafariのタブ整理機能、自然言語でのリマインダー入力などが搭載されます。現在はパブリックベータ版が公開されており、正式リリースへ向けて準備が進められています。"
+    },
+    {
       "id": "093ed0afee31187b67e0",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4427,84 +4502,9 @@
       ],
       "titleJa": "複数の中国製ルーターに深刻なバックドアが発見",
       "summaryJa": "複数のブランド名で販売されている中国製のインターネットルーターから、これまでで最大級とされる露骨なセキュリティバックドアが発見されました。ファームウェアに仕込まれたインプラントが中国のクラウドサーバーと通信し、遠隔操作を可能にする仕組みになっています。サイバーセキュリティ企業による調査で明らかになったもので、サプライチェーンを通じた組込型マルウェアの脅威が改めて浮き彫りとなっています。"
-    },
-    {
-      "id": "d22be4dad1452eb9ee84",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Amazon Takes Up to $190 Off M5 MacBook Air With Best Deals Since Price Hike",
-      "url": "https://www.macrumors.com/2026/08/06/190-off-m5-macbook-air/",
-      "publishedAt": "2026-08-06T13:04:22.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macbook-air-prime-day-2.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Amazon、M5 MacBook Airが最大190ドル引きのセールを実施",
-      "summaryJa": "米Amazonにて、M5搭載のMacBook Airが最大190ドルの割引価格で販売されています。今回は13インチモデルが対象の中心となっており、6月の価格改定以降では最安値圏での販売となります。16GB/1TBモデルや24GB/1TBモデルがお得に購入できるチャンスとなっています。"
-    },
-    {
-      "id": "f58f84a3d504e4d90521",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Account Card in Wallet Now Available in Four More Countries",
-      "url": "https://www.macrumors.com/2026/08/06/apple-account-card-in-wallet-now-available-in-more-countries/",
-      "publishedAt": "2026-08-06T13:01:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2022/05/apple-account-card-feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "ウォレットアプリのAppleアカウントカード、新たに4カ国で利用可能に",
-      "summaryJa": "Appleは「ウォレット」アプリにおけるAppleアカウントカードのサポートを、エストニア、ラトビア、リトアニア、マルタの4カ国へと拡大しました。このカードではAppleアカウントの残高が表示され、Apple Storeやオンライン、各種アプリやサブスクリプションの支払いに使用できます。"
-    },
-    {
-      "id": "16b4831333bc366aa9d2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New Adobe plugin in ChatGPT combines Photoshop, Firefly, Premiere, Acrobat, and more",
-      "url": "https://9to5mac.com/2026/08/06/new-adobe-plugin-in-chatgpt-combines-photoshop-firefly-premiere-acrobat-and-more/",
-      "publishedAt": "2026-08-06T13:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/openai-adobe.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Adobe、PhotoshopやPremiereなど70以上のツールを統合したChatGPTプラグインを公開",
-      "summaryJa": "Adobeは、これまでの個別なChatGPT連携機能を統合した新しいプラグインを公開しました。PhotoshopやFirefly、Premiere、Acrobatなど70以上のツールが内蔵されており、チャット内での自然な対話を通じて写真編集や動画制作、PDF管理などの多様なワークフローが利用可能になります。"
-    },
-    {
-      "id": "77a359dbdf6e3552047a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirPods Pro 3 Drop to One of the Best Prices of the Year So Far at $189.99",
-      "url": "https://www.macrumors.com/2026/08/06/airpods-pro-3-189/",
-      "publishedAt": "2026-08-06T12:44:26.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/airpods-pro-3-tips.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AirPods Pro 3がAmazonで今年最安値圏となる189.99ドルに割引",
-      "summaryJa": "米Amazonにて、AirPods Pro 3が通常249.00ドルのところ189.99ドルで販売されています。これはプライムデー以降で最も安く、今年に入ってから追跡している中でも最安値圏の価格となっています。AirPods Pro 3は強力なアクティブノイズキャンセリングやライブ翻訳機能などを備えています。"
-    },
-    {
-      "id": "d35203a73004587982c6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Old Reddit a threat to AI data scraping, says platform, with changes coming",
-      "url": "https://9to5mac.com/2026/08/06/old-reddit-a-threat-to-ai-data-scraping-says-platform-with-changes-coming/",
-      "publishedAt": "2026-08-06T11:58:22.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Old-Reddit-a-threat-to-AI-data-scraping-says-platform-with-changes-coming.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Reddit、AIスクレイピング対策で「古いReddit」の仕様変更を計画",
-      "summaryJa": "Redditは、AIによるデータのスクレイピングやスパムからプラットフォームを保護するため、古いデスクトップ向けウェブインターフェースである「Old Reddit」に変更を加える計画を明らかにしました。まずはアクセス時のログイン必須化などを進める方針ですが、長年旧UIを利用してきたユーザーやモデレーターへの影響が懸念されています。"
     }
   ],
-  "updatedAt": "2026-08-14T12:26:08.407Z",
+  "updatedAt": "2026-08-14T13:58:29.860Z",
   "initialized": true,
   "summaryVersion": 4
 }
