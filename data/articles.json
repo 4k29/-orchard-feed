@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "cebf315fa5101ef6366a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV has 15+ new movies and it’s just the start of a big fall lineup",
+      "url": "https://9to5mac.com/2026/08/14/apple-tv-has-15-new-movies-and-its-just-the-start-of-a-big-fall-ahead/",
+      "publishedAt": "2026-08-14T18:28:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-tv-logo.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、秋の新作映画公開に向けて過去の名作を多数追加",
+      "summaryJa": "Apple TVは、秋に予定されている多数の新作映画の配信を控えて、購読者向けに人気の名作映画を大量に追加しました。今回の追加によりライブラリが一気に拡充され、今秋には受賞を狙う話題作からアクション映画まで幅広いオリジナル作品の配信も控えています。同サービスは月額12.99ドルから提供されています。"
+    },
+    {
+      "id": "657b28bd97a9becf5f72",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "HomeKit Weekly: This iPad app turns your HomeKit setup into a wall-mountable command center",
+      "url": "https://9to5mac.com/2026/08/14/dashboard-for-your-home/",
+      "publishedAt": "2026-08-14T18:11:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Dashboard-for-home-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "古いiPadをスマートホームの壁掛け操作パネルに変えるアプリ",
+      "summaryJa": "使わなくなったiPadを家の中心に設置してスマートホームの操作パネル化できる「Dashboard for your home」アプリが注目を集めています。カメラのライブ映像、サーモスタット、照明、天気予報、カレンダーなどを1つの画面でまとめて管理でき、3Dフロアプラン機能なども搭載されています。"
+    },
+    {
+      "id": "ddc8e6d5771873075ead",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "PSA: Claude Code now enables auto mode as default, Anthropic says",
+      "url": "https://9to5mac.com/2026/08/14/psa-claude-code-enabling-auto-mode-as-default-next-week-anthropic-says/",
+      "publishedAt": "2026-08-14T18:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Anthropic、「Claude Code」の自動モードをデフォルト権限に変更",
+      "summaryJa": "Anthropicは、開発者向けツール「Claude Code」の自動モードを、Pro、Max、Teamプランのユーザー向けにデフォルトの権限設定として適用開始しました。このモードでは、危険な操作がないかを分類器が自動でチェックするため、繰り返しの承認プロンプトを省いて作業効率を高めることができます。"
+    },
+    {
       "id": "f8dda2de28aa26b0e6f3",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4457,54 +4502,9 @@
       ],
       "titleJa": "Appleの決算やWindows向けユニバーサルクリップボードを振り返る",
       "summaryJa": "ポッドキャスト番組にて、ティム・クック体制における最後の決算や、Windowsとの連携強化に関する話題が取り上げられました。Microsoftからの要求に応じたユニバーサルクリップボードの相互運用性や、新しい経営体制に向けた組織作りの動向が紹介されています。日々のAppleエコシステムに関する注目ニュースが多角的に振り返られました。"
-    },
-    {
-      "id": "1151f107b4b45cc9b98d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI updating ChatGPT with a smarter GPT-5.6 Sol and unlimited free chats",
-      "url": "https://9to5mac.com/2026/08/06/openai-updating-chatgpt-with-a-smarter-gpt-5-6-sol-and-unlimited-free-chats/",
-      "publishedAt": "2026-08-06T17:16:04.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI、ChatGPTに賢くなった「GPT-5.6 Sol」を導入",
-      "summaryJa": "OpenAIはChatGPT向けに最適化された新しい「GPT-5.6 Sol」モデルの提供を開始しました。日常会話での回答精度やフォーマットが調整され、用途に応じて思考レベルを調整できるスライダー機能も追加されています。また、有料プラン向けの機能統合や無制限のテキストチャット提供などもあわせて発表されました。"
-    },
-    {
-      "id": "81e0107d8e32a26be0bc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "MacBook Ultra is coming, here’s the latest on release timing",
-      "url": "https://9to5mac.com/2026/08/06/macbook-ultra-is-coming-heres-the-latest-on-release-timing/",
-      "publishedAt": "2026-08-06T16:54:59.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macbook-ultra-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "有機ELとタッチ画面搭載のMacBook Ultraが今秋にも登場か",
-      "summaryJa": "アップルが開発を進めているとされる、有機ELディスプレイやタッチ画面、Dynamic Islandを搭載した新型の高級MacBookについて、名称が「MacBook Ultra」になる可能性が報じられています。内部テストではmacOS 27.1が使用されていることから今秋の発売が視野に入っていますが、メモリー不足などの影響により来年初頭へずれ込む可能性もあると伝えられています。"
-    },
-    {
-      "id": "f15cb2c7bee6b1655f6a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "GPT-5 turning one as OpenAI shares new Agent Plugins standard",
-      "url": "https://9to5mac.com/2026/08/06/gpt-5-turning-one-as-openai-shares-new-agent-plugins-standard/",
-      "publishedAt": "2026-08-06T16:30:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/openai.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAIがGPT-5の1周年を迎えて新標準「Agent Plugins」を発表",
-      "summaryJa": "OpenAIがGPT-5のリリース1周年を記念し、複数の互換製品間で動作するAIエージェント拡張機能のオープン標準「Agent Plugins」を発表しました。GPT-5は自動ルーティング機能を備えて登場し、iOSやmacOSなどのApple Intelligenceにも統合されてきました。その後も継続的なモデルのアップデートやデスクトップ向けアプリの統合が進められ、開発や作業の効率化に貢献しています。"
     }
   ],
-  "updatedAt": "2026-08-14T18:03:59.538Z",
+  "updatedAt": "2026-08-14T19:10:07.751Z",
   "initialized": true,
   "summaryVersion": 4
 }
