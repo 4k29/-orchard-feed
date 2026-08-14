@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "052d6d3fe30566adc77c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "ChatGPT subscribers can now open and edit Google Drive files from inside the chat",
+      "url": "https://9to5mac.com/2026/08/14/chatgpt-subscribers-can-now-open-and-edit-google-drive-files-from-inside-the-chat/",
+      "publishedAt": "2026-08-14T20:31:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/chatgpt-googledive.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ChatGPT、Googleドライブとの連携強化でファイル直接編集が可能に",
+      "summaryJa": "有料プランの利用者向けに、ChatGPTとGoogleドライブの統合機能が拡充されました。チャット画面から直接Googleドライブのファイルをライブラリに追加し、ウィンドウを切り替えることなく内容の閲覧や編集を行えるようになります。編集内容はコピーではなく実際のファイルに直接反映され、さらに特定のトピックについてインタラクティブに出題してくれるクイズ機能なども新たに追加されています。"
+    },
+    {
+      "id": "5636c9d7b8bb1ee9603d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "These AI tools make my life much easier on the Mac",
+      "url": "https://9to5mac.com/2026/08/14/these-ai-tools-make-my-life-much-easier-on-the-mac/",
+      "publishedAt": "2026-08-14T19:57:27.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/aluminum_header.png?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Macでの作業効率を高める実用的なAIツールの活用法",
+      "summaryJa": "AIブームから数年が経過した現在、日々の業務や個人プロジェクトを効率化するために実際に定着した便利なAIツールが紹介されています。数多くのツールが存在する中で、主流となっている製品にはそれだけの理由があり、ワークフローに合わせた適切な活用が重要です。日々の作業を円滑にする具体的なツール選定のヒントが得られます。"
+    },
+    {
       "id": "1f3a3bee6a0b0e586574",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "OpenAI、無料ユーザー向けにGPT-5.6 Lunaと無制限テキストチャットを提供",
       "summaryJa": "OpenAIは、無料およびGoプランのChatGPTユーザー向けに新モデル「GPT-5.6 Luna」をデフォルトとして順次提供すると発表しました。テキストチャットが無制限で利用可能になり、推論を強化する新しい「Think」ボタンも追加されます。有料のPlusおよびProユーザー向けには、より正確で高度な「GPT-5.6 Sol」モデルが提供され、応答の調整機能も強化されます。"
-    },
-    {
-      "id": "ef546865b72610552cb3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV’s fall lineup reveals every new show and movie coming soon",
-      "url": "https://9to5mac.com/2026/08/06/apple-tvs-fall-lineup-reveals-every-new-show-and-movie-coming-soon/",
-      "publishedAt": "2026-08-06T18:58:25.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-tv-sunset-mountains.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、今秋の注目配信ラインナップを発表",
-      "summaryJa": "Apple TVは今秋に向けて配信される多数の新作映画やドラマのラインナップを公開しました。ライアン・レイノルズ主演のアクションコメディ映画『Mayday』や、パトリック・ブラムマルが出演するスリラー番組『Last Seen』、さらに人気スパイ諜報ドラマ『窓際のスパイ』シーズン6などが順次配信予定となっており、今後の追加情報にも注目が集まっています。"
-    },
-    {
-      "id": "87b5d4fd281a3278bb5c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
-      "url": "https://9to5mac.com/2026/08/06/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
-      "publishedAt": "2026-08-06T18:44:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/airpods-pro-3-in-case.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27でAirPodsにカスタムEQや新機能が登場",
-      "summaryJa": "AppleはiOS 27においてAirPods向けの新機能を多数追加し、その一部がAirPods Pro 3向けに提供されます。低音、中音、高音の周波数を自分好みに調整できるカスタムEQ機能が利用可能になるほか、GymKit機能の拡張によってAirPods Pro 3の内蔵心拍センサーデータをiPhone経由で対応フィットネス機器へ同期できるようになります。"
     }
   ],
-  "updatedAt": "2026-08-14T19:56:50.437Z",
+  "updatedAt": "2026-08-14T20:38:46.195Z",
   "initialized": true,
   "summaryVersion": 4
 }
