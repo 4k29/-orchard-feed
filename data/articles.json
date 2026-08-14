@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "75e1fa3f4fca4914480a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple seeks settlement talks with Epic Games in new court filing",
+      "url": "https://9to5mac.com/2026/08/13/apple-seeks-settlement-talks-with-epic-games-in-new-court-filing/",
+      "publishedAt": "2026-08-14T01:39:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Epic Gamesとの裁判で和解協議の申し立てを実施か",
+      "summaryJa": "Appleは米国のApp Store外決済における手数料の提案に加えて、Epic Gamesとの間で和解協議を行うよう裁判所に申し立てを行いました。Appleは連邦地裁の判事に対し、両当事者に和解協議への参加を命じるよう求めていますが、現時点でEpic側は同意していません。"
+    },
+    {
+      "id": "d49eab3dce3e8f6b92d2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple sends fresh wave of mercenary spyware warnings worldwide",
+      "url": "https://9to5mac.com/2026/08/13/apple-sends-fresh-wave-of-mercenary-spyware-warnings-worldwide/",
+      "publishedAt": "2026-08-14T00:54:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-mercenary-notification.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、世界110カ国のユーザーにメルセナリスパイウェアの警告を発出",
+      "summaryJa": "Appleは、メルセナリスパイウェア攻撃の標的になっている可能性があるとして、世界110カ国のユーザーに新たな警告通知を送付しました。過去数年間で通知対象となった国は150カ国を超えており、同社はサポート記事を更新してロックダウンモードの有効化や専門機関への相談を推奨しています。"
+    },
+    {
+      "id": "de3a680b22fc1c40e148",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 17 Pro One Year Later: What Held Up and What Didn't",
+      "url": "https://www.macrumors.com/2026/08/13/iphone-17-pro-one-year-later/",
+      "publishedAt": "2026-08-13T23:58:50.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 17 Proを1年間使用して分かった進化点と実力",
+      "summaryJa": "発売から約1年が経過したiPhone 17 Proについて、実際の耐久性やバッテリー持ちなどの検証結果が報じられています。耐擦傷性に優れたセラミックシールド2や、1日中持つ優れたバッテリー性能が高く評価される一方で、次期モデルの登場を前に現行機の選択価値についても言及されています。"
+    },
+    {
       "id": "93d55fab4abade39f5a1",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4457,54 +4502,9 @@
       ],
       "titleJa": "OpenAI、Appleによる営業秘密侵害の訴訟を棄却するよう裁判所に要請",
       "summaryJa": "OpenAIは、Appleが自社の営業秘密を盗んだとして起こした訴訟について、根拠がないとして連邦判事に棄却を求めました。元Appleの幹部やエンジニアの引き抜きと情報アクセスをめぐる疑惑に対し、通常の採用活動の範囲内であると反論し、Apple側のセキュリティ運用にも言及しています。"
-    },
-    {
-      "id": "4b844e581cfa2727367e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI asks for Apple’s trade secrets lawsuit to be dismissed, says it was filed without ‘adequate investigation’",
-      "url": "https://9to5mac.com/2026/08/06/openai-apple-thrown-out-lawsuit/",
-      "publishedAt": "2026-08-06T10:23:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-vs-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI、Appleによる営業秘密侵害訴訟の棄却を申し立て",
-      "summaryJa": "OpenAIは、Appleが提起した営業秘密の盗用に関する訴訟について、連邦判事に棄却を求める申し立てを行ったと報じられています。OpenAI側は、Appleの訴えは十分な調査を行わずに通常のビジネス行為を文脈から切り離して主張したものであると主張しています。今回の申し立てにより早期の訴訟却下を目指しており、両社の法的紛争は長期化する可能性があります。"
-    },
-    {
-      "id": "4e2314a26dbc3a7ea033",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Abode launches new Apple Home-compatible sensors for garages, gates, more",
-      "url": "https://9to5mac.com/2026/08/05/abode-launches-new-apple-home-compatible-sensors-for-garages-gates-more/",
-      "publishedAt": "2026-08-06T00:26:32.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/abode-sensors.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Abode、Apple Homeに対応した新しいセンサー2機種を発表",
-      "summaryJa": "スマートホームセキュリティ企業のAbodeが、ガレージのドアや門、物置などの監視に最適なApple Home対応の新しいセンサー2機種を発表しました。最大10年のバッテリー寿命を持つワイヤレスのガレージチルトセンサーと、IP66の防水防塵性能を備えた屋外用コンタクトセンサーがラインナップされています。どちらもAbodeアプリを通じた即座の通知や、スマートホーム自動化エンジンCUEとの連携に対応しています。"
-    },
-    {
-      "id": "f2d8007609c28f411a7f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Meta's New Mac Coding Agent Costs Up to 20x Less If You Let Meta Train on Your Data",
-      "url": "https://www.macrumors.com/2026/08/05/meta-muse-code-for-mac/",
-      "publishedAt": "2026-08-06T00:10:28.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/muse-code-meta.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Meta、macOS向けの新しいコーディングエージェント「Muse Code」を発表",
-      "summaryJa": "MetaがmacOSとLinux向けのターミナル対応コーディングエージェント「Muse Code」を発表しました。大規模なリポジトリ全体にわたるソフトウェアエンジニアリングタスクを実行可能で、Metaの最新モデルであるMuse Spark 1.2によって駆動します。利用者のプロンプトを今後のAIモデルのトレーニングに使用することを許可するコントリビューター層を選択すると、通常よりも大幅に安い価格で利用できるようになっています。"
     }
   ],
-  "updatedAt": "2026-08-13T23:54:31.927Z",
+  "updatedAt": "2026-08-14T01:55:46.428Z",
   "initialized": true,
   "summaryVersion": 4
 }
