@@ -196,6 +196,21 @@
       "summaryJa": "OpenAIは、Mac向けChatGPTアプリに「Computer History」機能を追加しました。従来のスクリーンショットベースの仕組みを刷新し、macOSのアクセシビリティ機能を活用してクリックやタイピングなどの操作イベントを記録し、検索可能なタイムラインを作成します。この機能はオプトイン方式で、ユーザーが自分で有効にする必要があり、Proなどの有料プラン向けに提供されています。"
     },
     {
+      "id": "36b31b8711a3f198da82",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New HomePod mini 2: Release date, features, price, and rumors",
+      "url": "https://9to5mac.com/2026/08/13/homepod-mini-2-release-date-features-price-rumors/",
+      "publishedAt": "2026-08-13T20:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/01/homepod-mini-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "「HomePod mini 2」が今秋にも登場か、高速プロセッサー搭載の噂",
+      "summaryJa": "Appleが開発を進めていると報じられている「HomePod mini 2」が、今年の秋にも発売される可能性が浮上しています。初代モデルから外観は大きく変わらないものの、SiriのAI機能などをサポートするためのより高速なチップが搭載されると伝えられています。新機能の完成を待つ形で発売が遅れていたとみられ、今後の公式発表が注目されます。"
+    },
+    {
       "id": "01c6b47e5bbcfc2a219d",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "AppleのVision Pro、専門医療現場で高い価値を発揮するか",
       "summaryJa": "ティム・クックCEOも認めるニッチ製品であるVision Proですが、一部の専門分野では極めて重要な役割を果たし始めています。内視鏡手術などの現場で外科医やスタッフに活用されており、従来の医療用モニターと比較して安価である点も含め、患者と医師の双方にとって大きなメリットをもたらす事例が報告されています。"
-    },
-    {
-      "id": "8a1f5a4c46f29ebfdb30",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "OpenAI Asks Judge to Dismiss Apple's Trade Secrets Lawsuit",
-      "url": "https://www.macrumors.com/2026/08/06/openai-asks-judge-to-dismiss-apple-lawsuit/",
-      "publishedAt": "2026-08-06T10:46:33.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/05/OpenAI-vs-Apple-Feature-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "OpenAI、Appleによる営業秘密侵害の訴訟を棄却するよう裁判所に要請",
-      "summaryJa": "OpenAIは、Appleが自社の営業秘密を盗んだとして起こした訴訟について、根拠がないとして連邦判事に棄却を求めました。元Appleの幹部やエンジニアの引き抜きと情報アクセスをめぐる疑惑に対し、通常の採用活動の範囲内であると反論し、Apple側のセキュリティ運用にも言及しています。"
     }
   ],
-  "updatedAt": "2026-08-14T01:55:46.428Z",
+  "updatedAt": "2026-08-14T04:16:23.164Z",
   "initialized": true,
   "summaryVersion": 4
 }
