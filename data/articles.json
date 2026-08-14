@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "1f3a3bee6a0b0e586574",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Tim Cook on his Apple legacy: ‘I hope people say I was a good and decent man’",
+      "url": "https://9to5mac.com/2026/08/14/tim-cook-on-his-apple-legacy-i-hope-people-say-i-was-a-good-and-decent-man/",
+      "publishedAt": "2026-08-14T19:49:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/tim-cook-cbs.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ティム・クックCEOが退任を前に自身のレガシーや製品価格について語る",
+      "summaryJa": "9月1日のジョン・ターナスへの引き継ぎを控え、ティム・クックCEOがCBS Newsのインタビューで自身のレガシーについて振り返りました。クック氏は、自身の業績は他者が語るものであり、人々から「善良でまともな人間だった」と言われることが目標だと述べています。また、COOのサビ・ハン氏はiPhoneやiPadなどの価格上昇について、メモリ部品の高騰が前例のないペースで進んでおり、サプライチェーンと協力して解決策を模索していると説明しました。"
+    },
+    {
+      "id": "848c64662cb014e97003",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: August 14, 2026 – Apple TV news, iPhone 18 expectations",
+      "url": "https://9to5mac.com/2026/08/14/daily-august-14-2026/",
+      "publishedAt": "2026-08-14T19:44:33.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18のProモデルの進化やApple TVの最新情報まとめ",
+      "summaryJa": "9to5Macのポッドキャスト番組にて、最新のApple関連ニュースが総括されています。iPhone 18シリーズではProモデル向けに2つの新たな上位アップグレードが噂されており、今後の展開が注目されています。また、Appleが政府渉外の責任者としてアメリカン航空の幹部を採用したことや、Apple TV関連の最新動向についても触れられています。"
+    },
+    {
+      "id": "6b9d5e28af4df6248c15",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Max vs Pro: Here’s how Apple will differentiate models",
+      "url": "https://9to5mac.com/2026/08/14/iphone-18-pro-max-vs-pro-heres-how-apple-will-differentiate-models/",
+      "publishedAt": "2026-08-14T19:35:33.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro MaxとProの違い、バッテリー容量やカメラの噂",
+      "summaryJa": "間もなく発表される見込みのiPhone 18 Proシリーズについて、Pro Maxモデルにより大きな差別化が図られると報じられています。流出した規制情報によると、iPhone 18 Pro Maxのバッテリー容量は約5567mAhとなり、前世代やProモデルに比べて大幅な増加が見込まれています。一方で、サイズや重量が増すほか、可変絞りシステムなどの独自のカメラ機能がPro Max限定で搭載される可能性も噂されています。"
+    },
+    {
+      "id": "d30e22939e86fa02e878",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple takes down billboard after accusations of normalizing ‘electronic babysitting’",
+      "url": "https://9to5mac.com/2026/08/14/apple-takes-down-billboard-after-accusations-of-normalizing-electronic-babysitting/",
+      "publishedAt": "2026-08-14T19:29:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-logo-milan-store.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、幼児とiPhoneを描いたミラノの広告看板を撤去",
+      "summaryJa": "Appleは「Relax, it's iPhone」キャンペーンの一環としてミラノに掲示した、幼児がiPhoneを持っている広告看板を撤去しました。この広告はイタリアの児童権利監視団体から「電子的な子守の正常化」にあたると批判を受けていました。批判を受けたAppleは速やかに看板を撤去し、現在は「探す」機能をアピールする別の広告へと差し替えています。"
+    },
+    {
+      "id": "200c7bb877b714c6d3a7",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Should You Buy an iPhone 17 Now or Wait for iPhone 18?",
+      "url": "https://www.macrumors.com/2026/08/14/iphone-17-vs-iphone-18-buying/",
+      "publishedAt": "2026-08-14T19:15:27.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 17を今すぐ買うべきか、次期モデルを待つべきか",
+      "summaryJa": "今秋の新型iPhoneの発売スケジュールや価格動向をめぐり、現行モデルを今購入すべきか次期モデルを待つべきか議論されています。今後は価格上昇の可能性や下取り価格の変動が予想されるため、購入のタイミングが重要になると伝えられています。"
+    },
+    {
       "id": "cebf315fa5101ef6366a",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4427,84 +4502,9 @@
       ],
       "titleJa": "iOS 27でAirPodsにカスタムEQや新機能が登場",
       "summaryJa": "AppleはiOS 27においてAirPods向けの新機能を多数追加し、その一部がAirPods Pro 3向けに提供されます。低音、中音、高音の周波数を自分好みに調整できるカスタムEQ機能が利用可能になるほか、GymKit機能の拡張によってAirPods Pro 3の内蔵心拍センサーデータをiPhone経由で対応フィットネス機器へ同期できるようになります。"
-    },
-    {
-      "id": "668381817a19e11411b5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV’s surprise hit series is making the jump to theaters for one night only",
-      "url": "https://9to5mac.com/2026/08/06/apple-tvs-surprise-hit-series-is-making-the-jump-to-theaters-for-one-night-only/",
-      "publishedAt": "2026-08-06T18:34:58.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/widows-bay-s1-finale-rhys-couch.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVの人気ヒットシリーズ、劇場で一夜限りの上映へ",
-      "summaryJa": "Apple TVの人気シリーズ『Widow’s Bay』が、全米の特定のAMCシアターにて一夜限りの特別上映を実施することが明らかになりました。今回のイベントでは、今夏に配信されたシーズンの最終話付近の3話分が上映され、ファン同士が一緒に作品の盛り上がりを共有できる貴重な機会となっています。"
-    },
-    {
-      "id": "0493dd8b4dfdb5cb2112",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s latest macOS updates address a serious Screen Sharing vulnerability",
-      "url": "https://9to5mac.com/2026/08/06/apples-latest-macos-updates-address-a-serious-screen-sharing-vulnerability/",
-      "publishedAt": "2026-08-06T18:21:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOSの各バージョンで画面共有の深刻な脆弱性を修正",
-      "summaryJa": "Appleは、最新のmacOS Tahoe、Sequoia、Sonoma向けにセキュリティアップデートを配信し、画面共有における深刻な脆弱性を修正しました。ネットワーク上の攻撃者が有効な資格情報なしで画面共有機能に認証できてしまう恐れがあった不具合が改善されており、ユーザーへ早めのアップデート適用が推奨されています。"
-    },
-    {
-      "id": "f79f7226176bc14d3584",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases security updates to macOS Tahoe, Sequoia, and Sonoma [U]",
-      "url": "https://9to5mac.com/2026/08/06/apple-releases-security-updates-to-macos-tahoe-sequoia-and-sonoma/",
-      "publishedAt": "2026-08-06T17:45:36.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/update.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOS Tahoeなどの重要セキュリティアップデートを公開",
-      "summaryJa": "AppleはmacOS Tahoe 26.6.1、macOS Sequoia 15.7.9、macOS Sonoma 14.8.9を新たに公開しました。今回のアップデートでは、有効な資格情報なしで画面共有機能へ認証できてしまう脆弱性が修正されています。ベータテストを挟まずに緊急リリースされたため、対象ユーザーは早めの適用が推奨されます。"
-    },
-    {
-      "id": "30ab4319a6a6efbd8b0b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases macOS Tahoe 26.6.1 With Security Fixes",
-      "url": "https://www.macrumors.com/2026/08/06/apple-releases-macos-tahoe-26-6-1/",
-      "publishedAt": "2026-08-06T17:34:39.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/06/macOS-Tahoe-26-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、画面共有の脆弱性を修正したmacOS Tahoe 26.6.1を配信",
-      "summaryJa": "AppleはmacOS Tahoe 26.6.1をリリースし、画面共有機能に関するセキュリティ上の脆弱性に対処しました。状態管理の改善により、不正な認証を許してしまう問題が解消されています。同等の修正を含むmacOS SequoiaおよびSonoma向けの高セキュリティ版も同時に配信が開始されました。"
-    },
-    {
-      "id": "df8d6a2754c723e70751",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple earnings, universal clipboard interoperability, iPhone event chatter",
-      "url": "https://9to5mac.com/2026/08/06/happy-hour-602/",
-      "publishedAt": "2026-08-06T17:32:29.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの決算やWindows向けユニバーサルクリップボードを振り返る",
-      "summaryJa": "ポッドキャスト番組にて、ティム・クック体制における最後の決算や、Windowsとの連携強化に関する話題が取り上げられました。Microsoftからの要求に応じたユニバーサルクリップボードの相互運用性や、新しい経営体制に向けた組織作りの動向が紹介されています。日々のAppleエコシステムに関する注目ニュースが多角的に振り返られました。"
     }
   ],
-  "updatedAt": "2026-08-14T19:10:07.751Z",
+  "updatedAt": "2026-08-14T19:56:50.437Z",
   "initialized": true,
   "summaryVersion": 4
 }
