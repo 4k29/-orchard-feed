@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "1a83cf0ad31682bee233",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "tvOS 27 could push you to upgrade to new Apple TV 4K",
+      "url": "https://9to5mac.com/2026/08/14/tvos-27-could-push-you-to-upgrade-to-new-apple-tv-4k/",
+      "publishedAt": "2026-08-14T14:21:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/tvos-27-apple-tv-4k-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "tvOS 27と新機能が促すApple TV 4Kの買い替え",
+      "summaryJa": "まもなく登場するtvOS 27は、Siri AIなどの新機能を備え、古いモデルのサポートを終了することから、新しいApple TV 4Kへの買い替えを促す契機になると報じられています。これまでのモデルでは利用できない高度なAI機能や、旧機種のサポート終了が組み合わさることで、多くの家庭でハードウェアのアップグレードが検討される可能性があります。"
+    },
+    {
+      "id": "8f2a717ce3085d83795c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Best Apple Deals of the Week: Steep Discounts Hit AirPods, MacBook Pro, and Anker Accessories",
+      "url": "https://www.macrumors.com/2026/08/14/best-apple-deals-of-the-week-8-14-26/",
+      "publishedAt": "2026-08-14T14:18:44.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirPodsやMacBook Proが対象の今週のセール情報",
+      "summaryJa": "Amazonの新学期セールに合わせ、AirPods ProやAirPods Max、MacBook Pro、さらにAnkerなどのアクセサリが大幅な割引価格で販売されています。AirPods Proなどは今年の中でも特に魅力的な価格となっており、関連製品をお得に購入できる絶好の機会となっています。"
+    },
+    {
+      "id": "8ef54e57451a1199175e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Tim Cook Reflects on His Legacy in Final Weeks as Apple CEO",
+      "url": "https://www.macrumors.com/2026/08/14/apple-ceo-tim-cook-reflects-on-legacy-apple/",
+      "publishedAt": "2026-08-14T14:12:40.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/tim-cook-cbs-news-aug-13-2026.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "ティム・クックCEOが退任を前に自身の遺産について語る",
+      "summaryJa": "Appleのティム・クックCEOが退任を控えた最後の数週間の中で、CBS Newsのインタビューに応じ、自身のリーダーシップの遺産について語りました。クック氏は、自身の遺産は他者が決めるものであり、人々から「良識ある誠実な人間だった」と言ってもらえることが自身の達成感につながると述べています。"
+    },
+    {
+      "id": "3b165ec8ff5cffba0cc7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s China AI strategy now includes training its own custom model, per report",
+      "url": "https://9to5mac.com/2026/08/14/apples-china-ai-strategy-now-includes-training-its-own-custom-model-per-report/",
+      "publishedAt": "2026-08-14T14:11:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、中国市場向けAI戦略で独自の大規模言語モデルを開発か",
+      "summaryJa": "Appleが中国市場でのAI機能提供に向けて、アリババの協力を得て独自の大規模言語モデルの訓練を進めていると報じられています。中国本土ではChatGPTなどの利用が制限されているため、これまでのサードパーティ製モデルに依存する戦略から方針を転換し、独自のモデル開発に踏み切った模様です。Apple Intelligenceの中国での展開は、今後のiOSアップデートを通じて数ヶ月以内に実現すると期待されています。"
+    },
+    {
       "id": "7c07e3b6e7571a971743",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4442,69 +4502,9 @@
       ],
       "titleJa": "iPhone 18 Pro、発売直後は品薄になる可能性との報道",
       "summaryJa": "DRAM不足の影響により、発売が迫るiPhone 18 Proの生産が遅れ、発売直後は品薄になる可能性があると報じられています。プロセッサのパッケージング工程でメモリ待ちが発生している状態です。秋に登場する新型がプロモデル中心になる見込みであるため、需要が集中してオンライン注文の待ち時間が延びる懸念が持たれています。"
-    },
-    {
-      "id": "f0f0051ddedb65da84bf",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple raises trade-in values for most iPhone, iPad, Mac, and Apple Watch models",
-      "url": "https://9to5mac.com/2026/08/06/apple-raises-trade-in-values-for-most-iphone-ipad-mac-and-apple-watch-models/",
-      "publishedAt": "2026-08-06T13:35:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/apple-logo-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPhoneやiPadの下取り額を引き上げ",
-      "summaryJa": "Appleは、iPhone、iPad、Mac、Apple Watchなどの主要モデルを対象に、下取り価格を改定して引き上げました。製品によっては最大30%近く値上げされており、対象リストには新たに一部のAndroidスマートフォンも追加されています。下取り額はデバイスの状態などによって異なり、公式の買取価格テーブルが更新されました。"
-    },
-    {
-      "id": "5c5d3716b0600860d7a5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Scrambling to Secure Memory Ahead of iPhone 18 Pro Launch",
-      "url": "https://www.macrumors.com/2026/08/06/apple-scrambling-to-secure-memory/",
-      "publishedAt": "2026-08-06T13:23:02.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhone 18 Pro発売へ向けメモリ確保に奔走か",
-      "summaryJa": "今秋の新型iPhone発売を控え、Appleと製造パートナーがモバイルDRAMの確保に苦戦していると報じられています。TSMCのN2プロセスで製造されたプロセッサは順調に完成しているものの、パッケージングに必要なDRAMの到着待ちで膨大な在庫が滞留している模様です。初期需要への対応には自信を示しているものの、供給不足が店頭在庫や配送待ち期間に影響を与える懸念が指摘されています。"
-    },
-    {
-      "id": "48708b157e1ad35d2709",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Arcade just added all-new Madden NFL 27, the ultimate football game",
-      "url": "https://9to5mac.com/2026/08/06/apple-arcade-adding-the-ultimate-nfl-game-just-in-time-for-football-season/",
-      "publishedAt": "2026-08-06T13:22:27.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/madden27-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Arcadeに「Madden NFL 27」が登場",
-      "summaryJa": "Appleの定額制ゲームサービスApple Arcadeに、最新のアメリカンフットボールゲーム「Madden NFL 27 Arcade Edition」が追加されました。広告やアプリ内課金が一切ない設計で、MacやApple TVなど幅広いデバイスに対応しています。また、NFLのプレシーズン開幕を前に、ファン向けのフランチャイズモードやダイナミックな選手評価機能などを備えた本格的なプレイを楽しめます。"
-    },
-    {
-      "id": "01bdb50801adce09fabc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Biggest backdoor yet found in Chinese routers sold under multiple brand names",
-      "url": "https://9to5mac.com/2026/08/06/biggest-backdoor-yet-found-in-chinese-routers-sold-under-multiple-brand-names/",
-      "publishedAt": "2026-08-06T13:14:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Biggest-backdoor-yet-found-in-Chinese-routers-sold-under-multiple-brand-names.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "複数の中国製ルーターに深刻なバックドアが発見",
-      "summaryJa": "複数のブランド名で販売されている中国製のインターネットルーターから、これまでで最大級とされる露骨なセキュリティバックドアが発見されました。ファームウェアに仕込まれたインプラントが中国のクラウドサーバーと通信し、遠隔操作を可能にする仕組みになっています。サイバーセキュリティ企業による調査で明らかになったもので、サプライチェーンを通じた組込型マルウェアの脅威が改めて浮き彫りとなっています。"
     }
   ],
-  "updatedAt": "2026-08-14T13:58:29.860Z",
+  "updatedAt": "2026-08-14T15:03:03.164Z",
   "initialized": true,
   "summaryVersion": 4
 }
