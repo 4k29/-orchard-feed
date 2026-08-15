@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "c8a8e281ff7c4406c224",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple weekend deals: MacBooks up to $540 off, AirPods up to $100 off, Apple Watch, more",
+      "url": "https://9to5mac.com/2026/08/15/apple-weekend-deals-macbooks-airpods/",
+      "publishedAt": "2026-08-15T12:20:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Weekend-apple-deals-august-14-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBookやAirPodsなどApple製品が最大540ドル引きのセール",
+      "summaryJa": "週末に向けた最新のセール情報が公開され、MacBookシリーズや各種AirPods、Apple Watchなどが割引価格で販売されています。M5 Proを搭載したMacBook Proモデルが最大540ドル引きとなるほか、AirPods ProやAirPods Maxなどもお買い得になっています。Amazonでの充電関連アクセサリのセールと合わせてチェックしておくと良いでしょう。"
+    },
+    {
       "id": "bdb389f1cf29df8b9e70",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "OpenAIが開発中の独自AIスピーカーはホッケーパック型で300ドル超か",
       "summaryJa": "OpenAIが、画面を持たずホッケーパックほどのサイズ感となる持ち運び可能な円盤状のスマートスピーカーを開発中であると報じられています。元Appleのデザイン担当であるジョニー・アイヴ氏が設計に関わっており、価格は300ドルから400ドル程度になる見込みです。人間のように自然に対話するChatGPTを搭載し、環境情報を捉えるカメラやセンサー、物理的な可動パーツを備えるユニークなデバイスとして計画されています。"
-    },
-    {
-      "id": "73b96fad90cc80495791",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "In new court filing, Apple flags delays in Jon Prosser’s response to leak lawsuit",
-      "url": "https://9to5mac.com/2026/08/06/in-new-court-filing-apple-flags-delays-in-jon-prossers-response-to-leak-lawsuit/",
-      "publishedAt": "2026-08-06T19:59:33.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの機密リーク訴訟、被告ジョニー・プロッサー側の対応遅延を指摘",
-      "summaryJa": "Appleが未発表製品の情報をリークしたとして情報提供者のジョニー・プロッサー氏を提訴している裁判において、新たな進捗状況が報告されました。共同ステータスレポートの提出により、プロッサー氏側からの回答や連絡がしばらく途絶えていることが明らかになっています。代理人側は、プロッサー氏が第二子の誕生に伴う育児に追われていることを遅延の理由として説明しています。"
     }
   ],
-  "updatedAt": "2026-08-15T11:57:56.649Z",
+  "updatedAt": "2026-08-15T12:54:41.054Z",
   "initialized": true,
   "summaryVersion": 4
 }
