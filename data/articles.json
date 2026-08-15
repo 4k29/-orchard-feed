@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "c940739b6e60e0568ef0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Indie App Spotlight: ‘Notepad.exe’ is an ultra-fast, lightweight code editor for your Mac",
+      "url": "https://9to5mac.com/2026/08/15/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-editor-for-your-mac/",
+      "publishedAt": "2026-08-15T19:30:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/IMG_0048.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Mac向け軽量コードエディタ「Notepad.exe」が登場",
+      "summaryJa": "Notepad.exeは、プロジェクトの初期設定なしに空白のファイルから素早くコードを書き始められるMac向けの軽量コードエディタです。Xcodeに似た親しみやすいUIを備え、SwiftやPython、JavaScriptなど主要な言語を標準でサポートしています。さらに、コードベースのトラブルシューティングを行えるAIアシスタント機能や、テキストエディタ内にシミュレータを表示する機能も搭載されています。"
+    },
+    {
       "id": "6a78b50cf092824e6f25",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "2026年第2四半期のiPad出荷台数は前年同期比で減少",
       "summaryJa": "調査会社Omdiaの最新レポートによると、2026年第2四半期の世界タブレット出荷台数は前年同期比で約9.9%減少しました。Appleは前年同期比で売上高や出荷台数が減少したものの、37.8%のシェアを維持して市場首位をキープしています。市場全体の減速が続く中、教育現場や日常的な用途での需要は引き続き一定の支えとなっています。"
-    },
-    {
-      "id": "6dc396ce0737e541fd0d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Google Maps Can Now Order Your Dinner and Track Your Train Delays",
-      "url": "https://www.macrumors.com/2026/08/06/google-maps-ask-maps-update/",
-      "publishedAt": "2026-08-06T22:59:19.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/google-ask-maps.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Googleマップ、Geminiを活用した新機能の提供を開始",
-      "summaryJa": "Googleは、マップアプリの「Ask Maps」アシスタントにエージェント機能を新たに追加しました。食事の注文や電車の遅延情報のリアルタイム追跡など、複数のステップを伴うタスクを会話形式で完了できるようになります。さらに、Gmailとの連携機能や会話のコンテキスト記憶機能も導入され、対応地域も大幅に拡大されています。"
     }
   ],
-  "updatedAt": "2026-08-15T19:51:06.896Z",
+  "updatedAt": "2026-08-15T20:12:28.320Z",
   "initialized": true,
   "summaryVersion": 4
 }
