@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "6a78b50cf092824e6f25",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple has a huge product roadmap for the smart home: Here’s what’s coming",
+      "url": "https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display/",
+      "publishedAt": "2026-08-15T16:08:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/ai-siri-homepod.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleのスマートホーム製品ロードマップ、新製品の動向",
+      "summaryJa": "Appleのスマートホーム製品であるHomePod miniやApple TVが間もなく刷新される見通しです。SiriのAI機能対応を見据え、HomePod miniはチップの刷新や新カラーの追加が、Apple TV 4KはA17 Proチップの搭載などが噂されています。今秋以降の登場が期待されており、音声アシスタントとしての能力向上が注目されています。"
+    },
+    {
+      "id": "4b30ca925463955fdc13",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Delete your family’s personal data from the internet with a 55% discount on Incogni",
+      "url": "https://9to5mac.com/2026/08/15/delete-your-familys-personal-data-from-internet-55-discount-incogni/",
+      "publishedAt": "2026-08-15T16:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Incogni-discount-code.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Incogniの個人データ削除サービス、割引提供を実施",
+      "summaryJa": "アメリカでは企業の個人データ売買が合法となっており、個人のプライバシーが脅かされています。Appleは様々なプライバシー保護機能を提供していますが、すでに流出したデータの削除には対応していません。データ削除代行サービス「Incogni」を利用することで、ネット上から個人情報を効果的に削除することが可能です。"
+    },
+    {
       "id": "754ebe2ad0b7b946577e",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "Googleマップ、Geminiを活用した新機能の提供を開始",
       "summaryJa": "Googleは、マップアプリの「Ask Maps」アシスタントにエージェント機能を新たに追加しました。食事の注文や電車の遅延情報のリアルタイム追跡など、複数のステップを伴うタスクを会話形式で完了できるようになります。さらに、Gmailとの連携機能や会話のコンテキスト記憶機能も導入され、対応地域も大幅に拡大されています。"
-    },
-    {
-      "id": "4d5a074517e505761363",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Madden NFL 27 Arcade Edition Now Available on Apple Arcade",
-      "url": "https://www.macrumors.com/2026/08/06/madden-nfl-27-apple-arcade/",
-      "publishedAt": "2026-08-06T22:26:48.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/madden-apple-arcade.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Arcadeに「Madden NFL 27 Arcade Edition」が登場",
-      "summaryJa": "Appleの定額制ゲームサービスApple Arcadeに、新作タイトル「Madden NFL 27 Arcade Edition」が追加されました。広告やアプリ内課金なしでフル機能のNFLゲームを楽しむことができ、モバイルデバイス向けに最適化された操作性が特徴です。また、Mac App Storeでは協力型アドベンチャーゲーム「Big Walk」の配信も開始されています。"
-    },
-    {
-      "id": "910aa7eb8324c786c41c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Report shares new pricing and design details about OpenAI’s first device",
-      "url": "https://9to5mac.com/2026/08/06/report-shares-new-pricing-and-design-details-about-openais-first-device/",
-      "publishedAt": "2026-08-06T22:09:02.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-teal.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI初のデバイスは300ドル超か、価格とデザインが浮上",
-      "summaryJa": "Bloombergが報じたところによると、OpenAIが開発を進めている初のスマートデバイスの価格は300ドルから400ドル程度になると伝えられています。ホッケーのパックほどのサイズ感でドーナツ型の形状を採用し、高級感のある金属素材が使われる見込みです。また、自律的に動く機械式パーツを搭載し、AIを活用した自然な音声対話ができる製品になると報じられています。"
     }
   ],
-  "updatedAt": "2026-08-15T15:54:24.609Z",
+  "updatedAt": "2026-08-15T16:23:04.653Z",
   "initialized": true,
   "summaryVersion": 4
 }
