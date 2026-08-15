@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "754ebe2ad0b7b946577e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work: Understanding Apple Business Manager roles and permissions",
+      "url": "https://9to5mac.com/2026/08/15/apple-work-understanding-apple-business-manager-roles-and-permissions/",
+      "publishedAt": "2026-08-15T14:06:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Business Managerの役割と権限の仕組み",
+      "summaryJa": "WWDCで発表されたApple Business APIの拡張について解説しています。このアップデートにより、IT管理者はAPIを介してデバイス情報の取得や監査イベントの確認、デバイスの割り当てが可能になりました。企業向けシステム構築に役立つ機能ですが、適切な設定には注意が必要であると開発者から報告されています。"
+    },
+    {
       "id": "b73b5b972aaf2b3f3531",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "OpenAI初のデバイスは300ドル超か、価格とデザインが浮上",
       "summaryJa": "Bloombergが報じたところによると、OpenAIが開発を進めている初のスマートデバイスの価格は300ドルから400ドル程度になると伝えられています。ホッケーのパックほどのサイズ感でドーナツ型の形状を採用し、高級感のある金属素材が使われる見込みです。また、自律的に動く機械式パーツを搭載し、AIを活用した自然な音声対話ができる製品になると報じられています。"
-    },
-    {
-      "id": "690cbbdf85b2e2be33a5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "BMW Owners Angry Over Spider-Man Ads Appearing on Dashboard Screens",
-      "url": "https://www.macrumors.com/2026/08/06/bmw-spider-man-ads/",
-      "publishedAt": "2026-08-06T21:25:39.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/spider-man-bmw.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "BMW製車両の画面に突然のスパイダーマン広告が表示されオーナーから不満の声",
-      "summaryJa": "BMWが一部の車両のインフォテインメントシステムに対し、映画の宣伝広告を予期なく送信したことでオーナーの間で強い反発が起きています。エンジン始動時に通知が表示され、タップすると全画面のアニメーションや音楽が再生される仕組みです。一部のユーザーからは、高価格帯の車種にふさわしくない押し付けがましい宣伝であるとして、オプトアウト機能の追加を求める声があがっています。"
     }
   ],
-  "updatedAt": "2026-08-15T14:23:17.927Z",
+  "updatedAt": "2026-08-15T14:47:11.510Z",
   "initialized": true,
   "summaryVersion": 4
 }
