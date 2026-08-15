@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "b73b5b972aaf2b3f3531",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "These are my favorite ultra-slim iPhone accessories for 2026 [Video]",
+      "url": "https://9to5mac.com/2026/08/15/these-are-my-favorite-ultra-slim-iphone-accessories-for-2026-video/",
+      "publishedAt": "2026-08-15T14:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/edc.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "極薄で多機能なiPhone向けおすすめアクセサリー選",
+      "summaryJa": "日常の持ち歩きに最適な、極薄かつ多機能なiPhone向けアクセサリーの数々を紹介しています。カメラ部分と同じほどの薄さを実現しながら、スタンドや指を通すグリップ機能を備えたアイテムなどが取り上げられており、ワイヤレス充電にも対応しています。かさばらずに利便性を高めたいユーザーに向けた、注目のコンパクトな周辺機器です。"
+    },
+    {
       "id": "2019ce6dd8df1fccb421",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "BMW製車両の画面に突然のスパイダーマン広告が表示されオーナーから不満の声",
       "summaryJa": "BMWが一部の車両のインフォテインメントシステムに対し、映画の宣伝広告を予期なく送信したことでオーナーの間で強い反発が起きています。エンジン始動時に通知が表示され、タップすると全画面のアニメーションや音楽が再生される仕組みです。一部のユーザーからは、高価格帯の車種にふさわしくない押し付けがましい宣伝であるとして、オプトアウト機能の追加を求める声があがっています。"
-    },
-    {
-      "id": "2a9668364f2e3fe857cc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple holds 65% of the premium smartphone market as segment reaches record high",
-      "url": "https://9to5mac.com/2026/08/06/apple-holds-65-of-the-premium-smartphone-market-as-segment-reaches-record-high/",
-      "publishedAt": "2026-08-06T21:14:01.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iPhone-17-Pro-deals.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、2026年上半期のプレミアムスマホ市場で65%のシェアを維持",
-      "summaryJa": "調査会社Counterpoint Researchによると、2026年上半期のプレミアムスマートフォン市場において、Appleが65%のシェアを占めたことが明らかになりました。同市場は世界のスマホ売上の29%という過去最高の記録を達成し、Appleのシェアは前年同期から上昇しています。iPhone 17シリーズ、特にベースモデルの好調な販売が昨年の落ち込みからの回復を後押ししたと分析されています。"
     }
   ],
-  "updatedAt": "2026-08-15T13:54:55.630Z",
+  "updatedAt": "2026-08-15T14:23:17.927Z",
   "initialized": true,
   "summaryVersion": 4
 }
