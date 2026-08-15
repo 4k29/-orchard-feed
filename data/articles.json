@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "bdb389f1cf29df8b9e70",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Commerce Secretary says US opposes Apple buying Chinese memory chips",
+      "url": "https://9to5mac.com/2026/08/14/commerce-secretary-says-us-opposes-apple-buying-chinese-memory-chips/",
+      "publishedAt": "2026-08-15T02:15:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2022/10/Working-for-Apple.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "米商務長官、Appleの中国製メモリチップ購入に反対の意向",
+      "summaryJa": "米国のハワード・ラトニック商務長官が、世界的な供給不足への対策として中国製メモリチップの調達を検討しているAppleに対し、反対する姿勢を示したと報じられています。AppleはCXMTやYMTCからの調達を目指してトランプ政権側に働きかけを行ってきましたが、両社は安全保障上の懸念から米政府の制裁対象や軍関連企業に指定されており、超党派での反発を受けています。"
+    },
+    {
       "id": "01276254e97086c18f0f",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Appleの機密リーク訴訟、被告ジョニー・プロッサー側の対応遅延を指摘",
       "summaryJa": "Appleが未発表製品の情報をリークしたとして情報提供者のジョニー・プロッサー氏を提訴している裁判において、新たな進捗状況が報告されました。共同ステータスレポートの提出により、プロッサー氏側からの回答や連絡がしばらく途絶えていることが明らかになっています。代理人側は、プロッサー氏が第二子の誕生に伴う育児に追われていることを遅延の理由として説明しています。"
-    },
-    {
-      "id": "7f085520424555681302",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
-      "url": "https://9to5mac.com/2026/08/06/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
-      "publishedAt": "2026-08-06T19:51:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-GymKit-iPhone.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27でiPhoneとAirPodsがジムでのApple Watch代わりに",
-      "summaryJa": "Apple WatchがなくてもGymKit対応のフィットネスマシンと連携できる新機能がiOS 27で提供されると報じられています。iPhoneがワークアウトのトラッキングハブとして機能し、AirPods Pro 3が心拍数を測定するセンサーの役割を果たします。これにより、時計を装着していなくても正確なワークアウトデータを取得できるようになり、ジムでの利便性が高まります。"
     }
   ],
-  "updatedAt": "2026-08-15T01:13:24.193Z",
+  "updatedAt": "2026-08-15T02:27:36.278Z",
   "initialized": true,
   "summaryVersion": 4
 }
