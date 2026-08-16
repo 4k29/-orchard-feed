@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "f88c7afc6fe454ae8434",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "It’s time for iOS to have its own Material You",
+      "url": "https://9to5mac.com/2026/08/16/its-time-for-ios-to-have-its-own-material-you/",
+      "publishedAt": "2026-08-16T17:33:48.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/ios-26-app-icon-tint-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOSにも独自の「Material You」風システムカラー機能を導入すべきか",
+      "summaryJa": "Appleは長年にわたりiOSのカスタマイズ性を高めており、ロック画面のパーソナライズやアイコンのカラー変更機能などを追加してきました。ホーム画面ですでにアイコンのカラーを変更できるのであれば、それをOS全体に拡張し、Androidの「Material You」のようなシステム全体のテーマカラー機能を取り入れるのが自然な次のステップではないかと提案されています。Macではすでにサードパーティアプリ向けにシステム全体のアクセントカラー設定が用意されており、今後のiOSでのさらなるカスタマイズ拡充に期待が寄せられています。"
+    },
+    {
       "id": "5e876e5fb2af87cc9bf4",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "iPhone 18 Proシリーズは価格が大幅に引き上げられるとの見方",
       "summaryJa": "次期iPhone 18 Proシリーズは、継続的なRAMやストレージの部品不足に加え、新しい可変絞りカメラシステムや2nmプロセスのA20 Proチップの採用により、価格が上昇する可能性が高いと報じられています。アナリストのジェフ・プー氏によると、前モデルから250ドルから300ドルの値上げとなる見込みです。メモリ市場の高騰や高度な製造コストが価格に影響を与える最大の要因となっています。"
-    },
-    {
-      "id": "42fcaed70331849e9cfb",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Original iPhone Loses Its Last Cellular Network as T-Mobile Kills 2G",
-      "url": "https://www.macrumors.com/2026/08/06/t-mobile-2g-network-disabled/",
-      "publishedAt": "2026-08-06T23:19:09.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2022/01/original-iphone-2007.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "初代iPhoneが通信網を完全喪失、米T-Mobileが2Gサービスを終了",
-      "summaryJa": "米T-Mobileが2G GSMネットワークを終了したことにより、米国の主要キャリアすべてが2Gサービスを停止しました。すでにAT&TやVerizonが過去に2Gを終了していたため、今回の措置で米国において2Gをサポートするキャリアは消滅しました。これにより、初代iPhoneなどのレガシーデバイスは、完全に携帯電話ネットワークへの接続ができなくなりました。"
     }
   ],
-  "updatedAt": "2026-08-16T17:10:46.905Z",
+  "updatedAt": "2026-08-16T17:34:14.616Z",
   "initialized": true,
   "summaryVersion": 4
 }
