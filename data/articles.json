@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "8556b8fa623b40bc30bc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirPods Max 2 Discounted by $120 Across Amazon and Best Buy",
+      "url": "https://www.macrumors.com/2026/08/17/airpods-max-2-drop-to-low/",
+      "publishedAt": "2026-08-17T12:36:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/airpods-max-2-purple.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirPods Max 2がAmazonとBest Buyで120ドル引きのセールに",
+      "summaryJa": "AmazonとBest Buyにおいて、AirPods Max 2が通常価格から120ドル引きの429.00ドルで販売されています。Amazonでは一部のカラー、Best Buyでは全5色が割引対象となっており、今年6月以降では最安値圏のお得なセールとなっています。"
+    },
+    {
+      "id": "93b58593f54fe9ff50be",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's macOS Screen Sharing Flaw Is Being Exploited in the Wild",
+      "url": "https://www.macrumors.com/2026/08/17/macos-screen-sharing-flaw-exploited/",
+      "publishedAt": "2026-08-17T12:20:07.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/02/macOS-Tahoe-Finder-Bug-Underscores-Apples-Slipping-UI-Polish-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "macOSの画面共有の脆弱性がすでに悪用されているとの指摘",
+      "summaryJa": "Appleが今月初めに修正パッチを急遽リリースしたmacOSの画面共有機能の脆弱性について、すでに実際の攻撃で悪用されていることがオランダの国家サイバーセキュリティセンター（NCSC-NL）の報告で明らかになりました。インターネットからポート5900にアクセス可能な環境でroot権限が奪われ、仮想通貨のマイニングツールが設置される事例が確認されています。ユーザーには速やかなアップデートの適用と、画面共有利用時のVPN使用が推奨されています。"
+    },
+    {
+      "id": "2d5afc72ce77fd5901c8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Best AirPods deals right now: Save $120 on AirPods Max 2, AirPods Pro 3 for $190, more",
+      "url": "https://9to5mac.com/2026/08/17/best-airpods-deals-right-now-save-120-on-airpods-max-2-airpods-pro-3-for-190-more/",
+      "publishedAt": "2026-08-17T12:05:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/airpods-max-2-official-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPods各モデルがセール、AirPods Max 2が120ドル引きに",
+      "summaryJa": "夏の終わりを迎え、AmazonやBest Buyなどの大手小売店でAirPodsシリーズの大幅な割引セールが実施されています。H2チップを搭載した最新のAirPods Max 2が通常549ドルのところ429ドルに値下げされているほか、AirPods Pro 3やANC搭載のAirPods 4もお得な価格で販売されています。"
+    },
+    {
       "id": "752302ec0174653b9ac3",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4457,54 +4502,9 @@
       ],
       "titleJa": "初代Mac Pro発表から20年、販売終了から5ヶ月が経過",
       "summaryJa": "Appleが初代Mac Proを発表してから20年が経ちました。この記念日は、同機が完全に販売終了を迎えてから5ヶ月後のタイミングとなります。2006年8月に発表された初代モデルは映像編集者や音楽制作プロフェッショナルなどの間で広く支持され、長年にわたりプロ向けフラッグシップ機の地位を担い続けました。"
-    },
-    {
-      "id": "b59c5e7347bf58e71acc",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27's New Compact Clock Gives Your Wallpaper Room to Breathe",
-      "url": "https://www.macrumors.com/how-to/ios-use-compact-lock-screen-clock/",
-      "publishedAt": "2026-08-07T10:53:08.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/ios-lock-screen-compact-clock.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27で登場するコンパクトな時計表示の切り替え方法",
-      "summaryJa": "iOS 27では、ロック画面の時計を小さく表示する新しいコンパクトモードが追加されました。時計が日付のサイズほどになり画面上部に収まるため、お気に入りの壁紙をより広く美しく見せることができます。カスタマイズ画面からフォントやカラーのパネルを開き、専用のアイコンをタップするだけで簡単に切り替えが可能です。"
-    },
-    {
-      "id": "c89907174d5eaac579dc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Security Bite Podcast: Why scammers love FaceTime now",
-      "url": "https://9to5mac.com/2026/08/07/security-bite-podcast-why-scammers-love-facetime-now/",
-      "publishedAt": "2026-08-07T10:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "FaceTimeを悪用した詐欺の増加についてAppleが注意喚起",
-      "summaryJa": "Appleがサポート記事を通じて、銀行員などを装ってFaceTimeを悪用しユーザーのデータを盗み出そうとする詐欺手口について警告を発しました。ライブ映像を利用したビデオ通話は信頼感を与えやすい傾向があり、こうした詐欺がどのように展開し、どのように防げばよいのか専門家が解説しています。"
-    },
-    {
-      "id": "78450d1ac8ee20cd34a5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 6, 2026 – Potential iPhone 18 Pro shortages, more",
-      "url": "https://9to5mac.com/2026/08/06/daily-august-6-2026/",
-      "publishedAt": "2026-08-07T00:21:01.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの発売直後に品薄となる可能性か",
-      "summaryJa": "9to5Mac Dailyのポッドキャスト番組にて、iPhone 18 Proが発売直後に供給不足となる可能性や、OpenAIによるAppleの企業秘密侵害訴訟の却下要請、AppleがWindows PC向けにiPhoneのクリップボードへのアクセスを提供し始める計画などが取り上げられています。日々の主要なApple関連ニュースをコンパクトに振り返る内容となっています。"
     }
   ],
-  "updatedAt": "2026-08-17T11:56:53.189Z",
+  "updatedAt": "2026-08-17T13:01:55.262Z",
   "initialized": true,
   "summaryVersion": 4
 }
