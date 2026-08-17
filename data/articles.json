@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "f94b24d0ccdc7ae5078b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 Finally Fixes Replying to Android Texts",
+      "url": "https://www.macrumors.com/2026/08/17/ios-27-finally-fixes-replying-to-android-texts/",
+      "publishedAt": "2026-08-17T14:28:19.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/ios-27-rcs-replies.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27、Androidメッセージへの返信やリアクションに対応へ",
+      "summaryJa": "来月登場するiOS 27では、RCS Universal Profile 3.0の採用により、iPhoneからAndroidユーザーのメッセージに対して直接スレッド形式で返信や絵文字のリアクションを送ることができるようになります。これまではテキストで「画像を気に入りました」などと表示されていましたが、相手には実際の絵文字として正しく伝わるようになります。利用には通信事業者のサポートも必要となり、設定のRCSメッセージングから事前に対応状況を確認できます。"
+    },
+    {
       "id": "ff7c5bb83830c9dc36e6",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "秋の新型iPhone、Proモデルと初の折りたたみ式が噂に",
       "summaryJa": "今秋のiPhone発表イベントでは従来とは異なり、フラッグシップモデルに絞った3つのプレミアム機種が展開されると噂されています。ラインナップにはiPhone 18 Pro、iPhone 18 Pro Maxに加え、折りたたみ式のiPhone Ultraが含まれる見込みです。折りたたみモデルは約2,000ドルからの高価格帯になると予想されており、今後の動向に注目が集まっています。"
-    },
-    {
-      "id": "e3235d6af1658d39979c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Testing iOS 26.6.1 Update for iPhones",
-      "url": "https://www.macrumors.com/2026/08/07/apple-testing-ios-26-6-1/",
-      "publishedAt": "2026-08-07T14:17:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iOS-26-6-1-iPhone.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhone向けiOS 26.6.1を内部テスト中",
-      "summaryJa": "Appleのソフトウェアエンジニアが、iPhone向けのiOS 26.6.1を内部でテストしていることがアクセスログから明らかになりました。昨日には画面共有アプリの脆弱性を修正するmacOS 26.6.1が公開されており、iOS版も同様にバグ修正やセキュリティ改善が含まれる可能性があります。特にショートアプリで発生した不具合の修正などが期待されています。"
     }
   ],
-  "updatedAt": "2026-08-17T14:16:50.352Z",
+  "updatedAt": "2026-08-17T14:50:30.572Z",
   "initialized": true,
   "summaryVersion": 4
 }
