@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "1ea7aead79338295c56b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New iPhone Ultra leaks cover release timing, availability, and name",
+      "url": "https://9to5mac.com/2026/08/17/new-iphone-ultra-leaks-cover-release-timing-availability-and-name/",
+      "publishedAt": "2026-08-17T13:47:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "折りたたみ式iPhone Ultraの発売時期や供給に関する噂",
+      "summaryJa": "折りたたみ式iPhone Ultraが数週間以内に発表されると報じられており、発売時期や初期在庫、製品名に関する新たなリーク情報が浮上しています。初期の出荷台数は非常に限られ、サプライヤーが目標生産数に達するには数か月かかる可能性があるとのことです。また、Ultraという名称の採用については、20周年の記念モデルに温存されるのではないかという懐疑的な見方も示されています。"
+    },
+    {
+      "id": "70f608aac4a01039b7c0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AI-generated text should be detectable, but Apple needs to avoid Anthropic’s huge error",
+      "url": "https://9to5mac.com/2026/08/17/ai-generated-text-should-be-detectable-but-apple-needs-to-avoid-anthropics-huge-error/",
+      "publishedAt": "2026-08-17T13:30:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/AI-generated-text-should-be-detectable-but-Apple-needs-to-avoid-Anthropics-huge-error.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AI生成テキストの検出とAppleが避けるべき課題",
+      "summaryJa": "AIが生成したテキストや画像を識別可能にすることの重要性と、EUのイニシアチブに対応するAnthropicの手法について議論されています。ライターの視点から、大量のAIコンテンツを判別するためのラベルや透かしの必要性が語られています。AppleもSiriのAI機能や画像関連機能において同様の対応を迫られる可能性があり、今後の動向が注目されます。"
+    },
+    {
       "id": "8556b8fa623b40bc30bc",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "iPhone 18 Proシリーズの噂まとめ、カメラや電池性能が向上か",
       "summaryJa": "まもなく発表されると噂されるiPhone 18 ProおよびPro Maxは、さらにプロ向けに進化すると報じられています。主な進化点として、メインカメラの可変絞りや望遠カメラの大口径化といった専用のカメラ機能が挙げられています。また、大容量バッテリーや次世代チップによる効率化で駆動時間がさらに延びる一方、価格が引き上げられる可能性が指摘されています。"
-    },
-    {
-      "id": "8bfcaa45b78216a78986",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Wallet in iOS 27 adds feature that’s been on my wishlist for years",
-      "url": "https://9to5mac.com/2026/08/07/apple-wallet-in-ios-27-adds-feature-thats-been-on-my-wishlist-for-years/",
-      "publishedAt": "2026-08-07T13:21:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-red-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27のウォレットアプリ、物理パスの取り込み機能が追加へ",
-      "summaryJa": "iOS 27ではApple Walletに物理パスや会員証、イベントチケットなどを取り込める新機能が追加されます。カメラアプリのSiriモードでバーコードを読み取るかデジタル版のスクリーンショットを撮影するだけで、簡単にウォレットへ保存できるようになります。これにより、紙やカードを持ち歩く手間が省け、日常の利便性が大幅に向上します。"
-    },
-    {
-      "id": "5c321e33059f3504bcaa",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Mac Pro Turns 20 Today, Five Months After Apple Killed It",
-      "url": "https://www.macrumors.com/2026/08/07/mac-pro-turns-20-today/",
-      "publishedAt": "2026-08-07T12:39:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/Classic-Mac-Pro-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "初代Mac Pro発表から20年、販売終了から5ヶ月が経過",
-      "summaryJa": "Appleが初代Mac Proを発表してから20年が経ちました。この記念日は、同機が完全に販売終了を迎えてから5ヶ月後のタイミングとなります。2006年8月に発表された初代モデルは映像編集者や音楽制作プロフェッショナルなどの間で広く支持され、長年にわたりプロ向けフラッグシップ機の地位を担い続けました。"
     }
   ],
-  "updatedAt": "2026-08-17T13:01:55.262Z",
+  "updatedAt": "2026-08-17T13:49:02.773Z",
   "initialized": true,
   "summaryVersion": 4
 }
