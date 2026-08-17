@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "f3ec7acb282a7c19fb4b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Best Buy 60th Anniversary Sale Brings Massive Deals on Apple Products and More",
+      "url": "https://www.macrumors.com/2026/08/17/best-buy-anniversary-sale-2/",
+      "publishedAt": "2026-08-17T18:12:37.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Best-Buy-60th-Anniversary-Sale-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Best Buy、Apple製品などを対象にした創立60周年記念セールを開催",
+      "summaryJa": "米国の家電量販店Best Buyが創立60周年記念セールを開催し、多数のApple製品が割引販売されています。対象にはAirPods Pro 3やAirPods Max 2、MacBook Proなどが含まれており、期間限定の大規模なセールとなっています。"
+    },
+    {
+      "id": "adf150e387378598c91e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro and iPhone Ultra: New Details Leak as Apple Event Nears",
+      "url": "https://www.macrumors.com/2026/08/17/iphone-18-pro-and-iphone-ultra-rumors/",
+      "publishedAt": "2026-08-17T18:09:40.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 ProのA20チップや折りたたみモデルに関する新情報",
+      "summaryJa": "中国の著名リーカーが、iPhone 18 Proに搭載されるA20 Proチップや、今ジ期後半に発売予定の折りたたみ式「iPhone Ultra」に関する詳細を伝えています。A20 ProはTSMCの2nmプロセスを採用し、処理速度や電力効率が大幅に向上すると報じられています。"
+    },
+    {
+      "id": "44aa949f258ece37d5b8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27 Golden Gate beta 6 features redesigned traffic light window controls",
+      "url": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redesigned-traffic-light-window-controls/",
+      "publishedAt": "2026-08-17T18:05:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-golden-gate-wallpaper-bridge.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "macOS 27ベータ6、クラシックなMac OS X風のウィンドウボタンを導入",
+      "summaryJa": "Appleが開発者およびパブリックテスター向けに配信した「macOS 27 Golden Gate」ベータ6において、ウィンドウのコントロールボタンが刷新されました。閉じる、最小化、最大化を示す赤・黄・緑のボタンが立体的なデザインに変更され、初期のOS X時代を彷彿とさせる外観になっています。"
+    },
+    {
+      "id": "04078571a32d303c6a09",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple rolls out Release Candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8",
+      "url": "https://9to5mac.com/2026/08/17/apple-rolls-out-release-candidates-for-macos-tahoe-26-7-and-macos-sequoia-15-8/",
+      "publishedAt": "2026-08-17T17:52:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/macOS-Tahoe.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOS Tahoe 26.7とmacOS Sequoia 15.8のRC版をリリース",
+      "summaryJa": "AppleがmacOS Tahoe 26.7およびmacOS Sequoia 15.8のリリース候補（RC）版を公開しました。主な内容は重要なセキュリティ修正となっており、ユーザーに適用が推奨されています。AIツールなどの活用により脆弱性への対応ペースが加速しています。"
+    },
+    {
+      "id": "ed201fd057b6bd688e08",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases iOS 26.6.1, macOS 26.6.2, and More",
+      "url": "https://www.macrumors.com/2026/08/17/apple-releases-ios-26-6-1-and-more/",
+      "publishedAt": "2026-08-17T17:52:15.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iOS-26-6-1-iPhone.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iOS 26.6.1やmacOS 26.6.2などをリリース",
+      "summaryJa": "Appleはセキュリティ修正を含むiOS 26.6.1、iPadOS 26.6.1、visionOS 26.6.1、macOS 26.6.2に加え、iOS/iPadOS 18.7.10を配信開始しました。具体的なセキュリティ修正の内容については、間もなく公開される予定です。各アップデートには、先週提供されたリリース候補版とは異なる新しいビルド番号が付与されています。"
+    },
+    {
       "id": "14b95a50f9a6c23471e2",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4427,84 +4502,9 @@
       ],
       "titleJa": "iPhoneでのレトロゲーム動作やポッドキャストの見どころ",
       "summaryJa": "9to5Macのポッドキャスト番組の最新エピソードについて伝えています。フェルナンドによるMacでのポケモン3Dモッドや、ジェフによるiPhone版マリオカート64のネイティブ移植の実行体験などが紹介されています。さらに、近年のテクノロジーに対する印象の変化や、同じデバイスを長期間使い続けることについての議論も展開されています。"
-    },
-    {
-      "id": "ce79e3dc0ebb1878d2b3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "OpenAI Delays Next Major AI Model 'Astra' Over Critical Hacking Concerns",
-      "url": "https://www.macrumors.com/2026/08/07/openai-astra-model-hacking-concerns/",
-      "publishedAt": "2026-08-07T21:27:43.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/12/openai-logo-word-mark.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "OpenAI、次世代AIモデル「Astra」の開発を一時停止",
-      "summaryJa": "OpenAIは、サイバー攻撃に関する重大な懸念から、次期主力AIモデル「Astra」に関連する活動を一時停止すると発表しました。最新の内部評価でエージェント型コーディングやサイバーセキュリティにおいて重大な進化が見られ、危険性が懸念されるためです。今後は厳格な安全対策や隔離されたテスト環境を整え、政府機関などと協力しながら慎重に進める方針です。"
-    },
-    {
-      "id": "c0826b23cee56dca2962",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "‘Your Friends & Neighbors’ star confirmed for his third Apple TV project",
-      "url": "https://9to5mac.com/2026/08/07/your-friends-neighbors-star-confirmed-for-his-third-apple-tv-project/",
-      "publishedAt": "2026-08-07T21:17:21.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ジェームズ・マースデン、Apple TVの新作プロジェクトに出演へ",
-      "summaryJa": "俳優のジェームズ・マースデンが、Apple TV向けに制作される新作ミステリーコメディシリーズ「Bad News Dads」に出演することが決定しました。同氏はすでに「Disavowed」や「Your Friends & Neighbors」にも出演しており、Apple TVの作品としては今回で3作目となります。新作ドラマは、アダム・フロストの小説を原作として現在開発が進められています。"
-    },
-    {
-      "id": "8b14ff4255710da915f4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 26 Gets First Jailbreak Thanks to Dopamine",
-      "url": "https://www.macrumors.com/2026/08/07/ios-26-dopamine-jailbreak/",
-      "publishedAt": "2026-08-07T20:56:52.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/dopamine.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 26向け初の脱獄ツールがDopamineで登場",
-      "summaryJa": "人気の脱獄ツール「Dopamine」の開発者らにより、iOS 26向けの初となる脱獄ツールが公開されました。最新のDopamine 3.0では、A12およびA13チップを搭載したデバイスにおけるiOS 26.0やiOS 26.0.1などの新しいファームウェアがサポートされています。さらに、iOS 16.5.1からiOS 17.3.1を搭載したすべてのデバイスにも対応し、互換性のあるデバイスやソフトウェアの範囲が大幅に拡大されました。"
-    },
-    {
-      "id": "d9d4b312c1beb61ceaff",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 17 might get price increase next week, per new rumor",
-      "url": "https://9to5mac.com/2026/08/07/iphone-17-might-get-price-increase-next-week-per-new-rumor/",
-      "publishedAt": "2026-08-07T20:27:50.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-lineup-air.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 17の価格が来週にも値上げかとの報道",
-      "summaryJa": "Appleが次期モデルの発売にあわせて価格を引き上げると予想されている中、iPhone 17についても早ければ来週にも値上げが行われる可能性があると報じられています。Weiboの情報通によると、8月10日に価格改定が実施されるという噂が浮上しています。夏場に他の製品の価格が引き上げられた際、iPhoneは対象外となっていましたが、秋の新型発表を待たずに現行モデルの価格が変更されるのか注目されています。"
-    },
-    {
-      "id": "f6114bb7cb996ae3a093",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 has long-awaited fix for common iPhone wireless issue",
-      "url": "https://9to5mac.com/2026/08/07/ios-27-has-long-awaited-fix-for-common-iphone-wireless-issue/",
-      "publishedAt": "2026-08-07T20:14:05.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-27-iphone-home-screen-official.jpg?quality=82&#038;strip=all&#038;w=1536",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS、Wi-Fiと携帯回線の切り替えを改善か",
-      "summaryJa": "次期ソフトウェアにて、Wi-Fiとモバイル通信のネットワーク切り替えがこれまで以上にシームレスになるよう改善されていることが分かりました。外出時にWi-Fiからモバイルデータ通信へ移行する際のラグが軽減され、手動でWi-Fiをオフにする手間が解消される見込みです。Appleはプラットフォームの改良の一環として、iPhoneの動作をより高速かつ信頼性の高いものにすることを目指しています。"
     }
   ],
-  "updatedAt": "2026-08-17T17:50:33.986Z",
+  "updatedAt": "2026-08-17T18:22:09.093Z",
   "initialized": true,
   "summaryVersion": 4
 }
