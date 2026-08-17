@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "ff7c5bb83830c9dc36e6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Wallet driver’s license is coming to new US state soon",
+      "url": "https://9to5mac.com/2026/08/17/apple-wallet-drivers-license-is-coming-to-new-us-state-soon/",
+      "publishedAt": "2026-08-17T14:16:01.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-wallet-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "米ノースカロライナ州、Appleウォレットの運転免許証に対応へ",
+      "summaryJa": "米ノースカロライナ州は、モバイルIDの導入計画を発表し、将来的にAppleウォレットでのデジタル運転免許証のサポートを追加する予定です。最初は独自の公式アプリで提供され、Appleウォレットへの対応は2007年初頭を予定しています。同州では住民への利便性向上に向けた取り組みが進められており、ユタ州やバージニア州など他の米国各州でもWalletへの身分証明書統合に向けた動きが広がっています。"
+    },
+    {
+      "id": "8c3251a9daa1c270ec7c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "This iPad keyboard case is the perfect addition to our Back to School tech roundup",
+      "url": "https://9to5mac.com/2026/08/17/this-ipad-keyboard-case-is-the-perfect-addition-to-our-back-to-school-tech-roundup/",
+      "publishedAt": "2026-08-17T14:07:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Inateck-AceTouch-lifestyle.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPadをノートPC化する軽量キーボードケースが登場",
+      "summaryJa": "新学期シーズンに向けたテック製品の紹介として、iPad向けの軽量かつ多機能なキーボードケースが取り上げられています。この製品はマグネット式の着脱に対応し、Mac風のデザインやクリック可能なトラックパッドを搭載しています。本体は薄型かつ軽量に設計されており、日常的な持ち運びやタブレットモードへの切り替えも容易で、学習や作業の効率を高める便利なアクセサリーとして注目されています。"
+    },
+    {
+      "id": "dd542ad7c5935e775c9a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple will comply with ‘fairer’ App Tracking Transparency rules in the EU",
+      "url": "https://9to5mac.com/2026/08/17/apple-will-comply-with-fairer-app-tracking-transparency-rules-in-the-eu/",
+      "publishedAt": "2026-08-17T13:58:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2022/04/apple-app-tracking-transparency.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、EUでのアプリトラッキング透明性ルールの変更に合意",
+      "summaryJa": "Appleは、ドイツの独占禁止規制当局による調査を受け、EU域内における「App Tracking Transparency（ATT）」の運用ルールをより公平なものに変更することで合意しました。これまで自社製アプリの扱いを巡ってサードパーティ製アプリに有利ではないかとの指摘がありましたが、今後は同意プロンプトの表現や視覚的要素が中立化されます。また、開発者が自身のデータ保護に関するプロンプトとAppleの確認画面を統合できるようになり、ユーザーの利便性と公平性が高まる見込みです。"
+    },
+    {
       "id": "1ea7aead79338295c56b",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4457,54 +4502,9 @@
       ],
       "titleJa": "Apple、iPhone向けiOS 26.6.1を内部テスト中",
       "summaryJa": "Appleのソフトウェアエンジニアが、iPhone向けのiOS 26.6.1を内部でテストしていることがアクセスログから明らかになりました。昨日には画面共有アプリの脆弱性を修正するmacOS 26.6.1が公開されており、iOS版も同様にバグ修正やセキュリティ改善が含まれる可能性があります。特にショートアプリで発生した不具合の修正などが期待されています。"
-    },
-    {
-      "id": "f17ebe0760707b15b22f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirPods Pro 3 for $189.99, $25 Best Buy Gift Card With MacBook Neo, and More Apple Deals This Week",
-      "url": "https://www.macrumors.com/2026/08/07/best-apple-deals-of-the-week-8-7-26/",
-      "publishedAt": "2026-08-07T14:06:10.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AirPods Pro 3がセールで189.99ドルに値下げ",
-      "summaryJa": "今週のアメリカ市場において、Apple製品の夏のお得なセールが多数登場しています。AmazonではAirPods Pro 3が通常249.00ドルのところ189.99ドルに値下げされており、プライムデー以降で最安値を記録しています。また、Best BuyでのMacBook Neo購入時にデジタルギフトカードがもらえるキャンペーンや、MacBook Proの大幅割引なども実施されています。"
-    },
-    {
-      "id": "1248c15165cb3298bdea",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Account Card Expands Again: What It Is and What It Isn't",
-      "url": "https://www.macrumors.com/2026/08/07/apple-account-card-what-it-is-what-it-isnt/",
-      "publishedAt": "2026-08-07T13:54:05.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-account-card.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Account Card、エストニアなど4カ国で利用可能に",
-      "summaryJa": "Appleは、ウォレットアプリ内のApple Account Cardの対応地域をエストニア、ラトビア、リトアニア、マルタに拡大しました。このデジタルカードはApple Accountの残高を表示し、Apple Storeや公式サイトでの買い物、App Storeや各種サービスの支払いに利用できます。クレジットカードとは異なり、利用枠や金利、特典はなく、日本を含む複数の国や地域ですでに展開されています。"
-    },
-    {
-      "id": "ab122aa44766ffe3ffe7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro is getting even more ‘Pro’ this year in three ways",
-      "url": "https://9to5mac.com/2026/08/07/iphone-18-pro-is-getting-even-more-pro-this-year-in-three-ways/",
-      "publishedAt": "2026-08-07T13:47:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proシリーズの噂まとめ、カメラや電池性能が向上か",
-      "summaryJa": "まもなく発表されると噂されるiPhone 18 ProおよびPro Maxは、さらにプロ向けに進化すると報じられています。主な進化点として、メインカメラの可変絞りや望遠カメラの大口径化といった専用のカメラ機能が挙げられています。また、大容量バッテリーや次世代チップによる効率化で駆動時間がさらに延びる一方、価格が引き上げられる可能性が指摘されています。"
     }
   ],
-  "updatedAt": "2026-08-17T13:49:02.773Z",
+  "updatedAt": "2026-08-17T14:16:50.352Z",
   "initialized": true,
   "summaryVersion": 4
 }
