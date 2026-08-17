@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "f707d5cf4707080adcc0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Sports App Updated With More Soccer Leagues",
+      "url": "https://www.macrumors.com/2026/08/17/apple-sports-app-more-soccer-leagues/",
+      "publishedAt": "2026-08-17T16:28:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/02/Apple-Sports-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Sports、対応サッカーリーグを拡大",
+      "summaryJa": "Appleは「Apple Sports」アプリをアップデートし、オーストリアのブンデスリーガやサウジ・プロフェッショナルリーグなど、新たに複数のサッカーリーグに対応しました。直近1ヶ月間で計14のリーグが追加されたことになります。このアプリは引き続きiPhone向けに提供されています。"
+    },
+    {
       "id": "862732423ae32841d5ba",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Appleのシネマティックモード、今後の進化に懸念の声",
       "summaryJa": "iPhone 13で導入されたシネマティックモードは、動画版ポートレートとして注目を集めました。静止画向けのポートレートモードが長年にわたり大幅な進化を遂げたのに対し、シネマティックモードは近年あまりアップデートされていません。Appleがこの機能への関心を失っているように見える点は、将来的な動画撮影機能の発展を考えると大きな損失であると指摘されています。"
-    },
-    {
-      "id": "47d7f8b7ad33a3e57b16",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple expands refurb store with rare M5 MacBook Pro configs, Apple TV 4K, more",
-      "url": "https://9to5mac.com/2026/08/07/apple-expands-refurb-store-with-rare-m5-macbook-pro-configs-apple-tv-4k-more/",
-      "publishedAt": "2026-08-07T15:56:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/macbook-pro-m5-14-inch.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple公式整備済製品ストアにM5搭載MacBook Proなどが登場",
-      "summaryJa": "Appleの公式整備済製品ストアに、M5チップを搭載したMacBook ProやハイエンドなMacBook Airの構成、Apple TV 4Kなどの新製品が追加されました。整備済製品は厳格な品質基準をクリアし、1年間の限定保証が付いて最大15%オフで販売されます。人気のある構成はすぐに売り切れることが多く、お得に購入できる貴重な機会となっています。"
     }
   ],
-  "updatedAt": "2026-08-17T16:14:14.327Z",
+  "updatedAt": "2026-08-17T16:49:18.305Z",
   "initialized": true,
   "summaryVersion": 4
 }
