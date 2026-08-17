@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "e29270f53678f3c463e6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Fitness+ could be getting live sessions, but probably not",
+      "url": "https://9to5mac.com/2026/08/17/apple-fitness-could-be-getting-live-sessions-but-probably-not/",
+      "publishedAt": "2026-08-17T11:10:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-fitness-plus-multidevice.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Fitness+でライブセッションが導入される可能性か",
+      "summaryJa": "Appleの求人情報から、Apple Fitness+でライブセッションが計画されているのではないかと報じられています。スタジオプロデューサーの募集において、ライブ制作の豊富な経験や新しいフォーマットへの挑戦が求められています。ただし、事前収録のコンテンツが主流となっている現状から、実際の導入については慎重な見方も示されています。"
+    },
+    {
       "id": "485d05d00aec101bb41d",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Appleヘルスケアアプリを活用して健康管理を極める方法",
       "summaryJa": "iPhoneの「ヘルスケア」アプリは、Apple Watchやサードパーティ製デバイスからのデータを一元管理できる強力なツールです。歩数や心拍数だけでなく、血圧計などの外部アクセサリとも連携して詳細な健康トレンドを追跡できます。日々のデータを網羅的に把握し、健康維持に役立てるための活用法を紹介しています。"
-    },
-    {
-      "id": "4033975f084f5392a3b6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro and Foldable iPhone Could Sell Out Fast Due to Memory Shortage",
-      "url": "https://www.macrumors.com/2026/08/06/iphone-18-pro-possible-shortages/",
-      "publishedAt": "2026-08-07T00:10:27.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proや折りたたみモデルがメモリ不足で品薄になる可能性",
-      "summaryJa": "半導体アナリストによると、DRAMの深刻な不足により、今秋登場予定のiPhone 18 Proシリーズや折りたたみ式iPhoneが供給不足に陥る可能性があります。TSMCの2nmプロセスを採用したA20 ProチップはウェハレベルでのDRAM統合が必要ですが、メモリ不足が組立工程の遅延を招いています。AIデータセンター向けメモリの優先によってコンシューマー向けデバイスへの供給が圧迫されており、発売直後は長めの待ち時間や即座の売り切れが懸念されています。"
     }
   ],
-  "updatedAt": "2026-08-17T10:59:46.119Z",
+  "updatedAt": "2026-08-17T11:34:55.952Z",
   "initialized": true,
   "summaryVersion": 4
 }
