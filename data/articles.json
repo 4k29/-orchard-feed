@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "862732423ae32841d5ba",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Agrees to Make 'App Tracking Transparency' Changes in Germany",
+      "url": "https://www.macrumors.com/2026/08/17/apple-app-tracking-transparency-changes-germany/",
+      "publishedAt": "2026-08-17T15:46:13.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/12/generic-tracking-prompt-orange.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、ドイツでのATT機能の変更に合意",
+      "summaryJa": "Appleは、ドイツの競争規制当局との間で、アプリのトラッキングの透明性（ATT）に関する表示や表現を一部変更することで合意しました。プライバシー保護を維持しつつ、広告の重要性について開発者がより詳しく説明できるようにし、データ保護法に基づく同意との統合も認められます。今後は、開発者とのテストを経て、通知内容の調整などが約7年間にわたり適用される予定です。"
+    },
+    {
       "id": "e4ecfdb040ba04f1f369",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Apple公式整備済製品ストアにM5搭載MacBook Proなどが登場",
       "summaryJa": "Appleの公式整備済製品ストアに、M5チップを搭載したMacBook ProやハイエンドなMacBook Airの構成、Apple TV 4Kなどの新製品が追加されました。整備済製品は厳格な品質基準をクリアし、1年間の限定保証が付いて最大15%オフで販売されます。人気のある構成はすぐに売り切れることが多く、お得に購入できる貴重な機会となっています。"
-    },
-    {
-      "id": "f494c8856f4e3e912296",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: Apple Watch Series 11 $172 off, Nike Watch bands, AirPods Pro 3, MacBook Neo discounts, more",
-      "url": "https://9to5mac.com/2026/08/07/deals-apple-watch-nike-bands-airpods-pro-macbook-neo/",
-      "publishedAt": "2026-08-07T15:32:58.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-MacBook-Neo-Apple-Watch-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirPods Pro 3が25%オフなど、週末のApple製品セール情報",
-      "summaryJa": "週末に向けた最新のセール情報として、AirPods Pro 3が通常より25%オフの190ドルに値下げされているほか、AirPods Max 2やApple Watch Series 11などが割引価格で販売されています。また、公式整備済製品ストアのM5搭載MacBook Proなど、注目のハードウェアをお得に入手できる機会が揃っています。"
     }
   ],
-  "updatedAt": "2026-08-17T15:46:09.970Z",
+  "updatedAt": "2026-08-17T16:14:14.327Z",
   "initialized": true,
   "summaryVersion": 4
 }
