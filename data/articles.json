@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "3bba60133a15c444757b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Adds More New Wallpapers in macOS Golden Gate",
+      "url": "https://www.macrumors.com/2026/08/17/macos-golden-gate-wallpapers-beta-6/",
+      "publishedAt": "2026-08-17T20:37:19.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/macos-golden-gate-day-wallpaper.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "macOS Golden Gateベータ6、新たな壁紙やウィンドウの変更を追加",
+      "summaryJa": "AppleはmacOS Golden Gateのベータ6において、ゴールデン・ゲイトをテーマにした新たな昼と夕方の壁紙オプションを追加しました。これらはMacのロック解除時にアニメーションし、スクリーンセーバーとしても設定可能です。さらに、トラフィックライトボタンの見た目も微調整され、新たなデザインが採用されています。"
+    },
+    {
+      "id": "e8aebfc770f56abd3b7f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Epic responds to Apple’s bid for settlement talks in App Store case",
+      "url": "https://9to5mac.com/2026/08/17/epic-responds-to-apples-bid-for-settlement-talks-in-app-store-case/",
+      "publishedAt": "2026-08-17T20:10:05.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Epic Games、App Store訴訟における和解協議の提案へ回答",
+      "summaryJa": "長引くApp Store訴訟をめぐり、Appleが裁判所に命じられた和解協議の実施を求めたことに対し、Epic Gamesが回答しました。Epic側は現段階での和解協議の必要性に疑問を呈しつつも、裁判所が命じた場合は誠実に対応する姿勢を示しています。両社の今後の動向と裁判所の判断に注目が集まっています。"
+    },
+    {
       "id": "43ba8666f5e1bceb6d33",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "IDCの最新出荷台数データから見るMacBookの法人需要",
       "summaryJa": "IDCが発表した最新のPC出荷台数データによると、業界全体の出荷台数は減少傾向にある一方で、価格上昇に伴いメーカーの売上高は増加しています。AIデータセンターによる部品不足などの経済サイクルが影響する中、Appleは主要なPCメーカーの中で唯一、出荷台数の成長を記録している企業として注目を集めています。法人市場におけるApple製品の展開動向や、MacBookシリーズの企業向け導入の背景について考察されています。"
-    },
-    {
-      "id": "283c021b6c5a9ce76d98",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Top Stories: Apple's September Announcements, MacBook Air Shortages, and More",
-      "url": "https://www.macrumors.com/2026/08/08/top-stories-apple-september-announcements/",
-      "publishedAt": "2026-08-08T13:00:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/top-stories-2026-08-08.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleの9月イベント動向やiPhone 18 Proの価格高騰の可能性",
-      "summaryJa": "Appleが9月に開催を予定している新製品発表会に向け、今年は分割での発売スケジュールになると報じられています。アナリストによると、メモリー不足などの影響によりiPhone 18 ProおよびPro Maxは価格が250ドルから300ドルほど高騰する可能性があるとされています。また、継続するメモリー不足によりMacBook Airでも供給不足が発生しているほか、iCloudプライベートリレーの重大な問題なども伝えられています。"
-    },
-    {
-      "id": "5326d4d2a124f90a4e0a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple weekend deals: AirPods Pro 3 25% off, MacBook Neo, Apple gift cards, iPhone Air, Apple TV, more",
-      "url": "https://9to5mac.com/2026/08/08/apple-weekend-deals-airpods-pro-3-discounts/",
-      "publishedAt": "2026-08-08T12:19:38.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Weekend-Apple-deals-best-Apple-discounts.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirPods Pro 3などが対象となった週末のApple製品セール",
-      "summaryJa": "週末のセール情報として、AirPods Pro 3が25%オフで販売されるほか、AirPods Maxの大幅割引やApple認定整備済製品の注目すべきオファーが登場しています。さらに、M5搭載のMacBook ProやMacBook Air、Apple Watch Ultra 3、さらに未開封のSIMフリー版iPhone Airなども値引きの対象となっています。これから控える新製品の発売に向け、Appleギフトカードの割引なども含まれており、各種デバイスをお得に購入できる機会となっています。"
     }
   ],
-  "updatedAt": "2026-08-17T20:02:30.244Z",
+  "updatedAt": "2026-08-17T20:38:36.919Z",
   "initialized": true,
   "summaryVersion": 4
 }
