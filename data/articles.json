@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "3ee0b1cea120ce78890f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27",
+      "url": "https://9to5mac.com/2026/08/17/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/",
+      "publishedAt": "2026-08-17T22:12:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iOS 27などのパブリックベータ4を公開",
+      "summaryJa": "Appleは開発者向けベータ6の公開に続き、iOS 27、iPadOS 27、macOS 27などのパブリックベータ4をテスター向けにリリースしました。今回のアップデートには、バグ修正やパフォーマンス向上のほか、macOSでの新しい壁紙やウィンドウコントロールの刷新などが含まれています。正式版のリリースに向け、対応デバイスの「設定」アプリなどから参加手続きを行うことで試用が可能です。"
+    },
+    {
+      "id": "5dcaf47600d7b6060a84",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
+      "url": "https://www.macrumors.com/2026/08/17/apple-ios-27-public-beta-4/",
+      "publishedAt": "2026-08-17T22:10:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Cool.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iOS 27やmacOS 27の最新パブリックベータをリリース",
+      "summaryJa": "Appleは一般登録者向けに、iOS 27やiPadOS 27、macOSなどの最新パブリックベータ4を配信開始しました。開発者向けベータの数時間後に公開されたもので、正式リリースが数週間後に迫る中、不具合の修正や細かな調整が行われています。参加を希望する場合は、Appleのベータソフトウェア公式サイトで登録後、デバイスの設定画面からアップデートを適用できます。"
+    },
+    {
       "id": "6c208a2d0aa075fa4246",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "Apple TV、人気ドラマ「テッド・ラッソ」の新作CMを公開",
       "summaryJa": "Apple TVは、シーズン4の配信開始に合わせて新たなコマーシャル映像を公開しました。今回のCMには、主人公のコーチ・ラッソが「セヴェランス」や「サイロ」など、プラットフォーム上の他の人気作品のシーンに登場するユニークな演出が取り入れられています。新シーズンの配信とともに、Apple TVの多彩なラインナップ全体の認知度を高める狙いがあります。"
-    },
-    {
-      "id": "635c41cdf2ed729b7f55",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s why Apple is skipping its M6 Pro and M6 Max chips to accelerate M7 launch",
-      "url": "https://9to5mac.com/2026/08/08/apple-m7-chip-heres-why-it-matters-ai/",
-      "publishedAt": "2026-08-08T14:21:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/09/Apple-Silicon-chips.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、M6チップの一部をスキップしM7の開発を加速か",
-      "summaryJa": "ブルームバーグの報道によると、AppleはM7チップの開発を急ぐため、M6のPro、Max、Ultraチップをスキップし、ベースモデルのM6のみをリリースする計画だと伝えられています。AI処理性能の大幅な向上を狙うもので、M7ファミリーはNvidiaのBlackwellクラスの専用AIアクセラレータに迫る性能を目指しているとのことです。新しいプロセッサは早ければ2027年春にも登場する可能性があります。"
-    },
-    {
-      "id": "7b34c5d56e51814248d2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Score the A16 iPad for Its Best Price Since June's Hike",
-      "url": "https://www.macrumors.com/2026/08/08/score-the-a16-ipad/",
-      "publishedAt": "2026-08-08T13:56:59.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/10/ipad-blue-prime-day.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "米Amazon、第11世代iPadのWi-Fiモデルが50ドル引きに",
-      "summaryJa": "米Amazonにて、Appleの第11世代iPadのWi-Fiモデル各種が50ドル引きとなるセールが週末限定で実施されています。128GBモデルが399ドル、256GBモデルが499ドル、512GBモデルが699ドルとなっており、6月の価格改定以降では最安値水準を記録しています。プライム会員向けには一部地域での当日配送も用意されており、お得に購入できるチャンスとなっています。"
     }
   ],
-  "updatedAt": "2026-08-17T22:00:44.059Z",
+  "updatedAt": "2026-08-17T22:34:59.176Z",
   "initialized": true,
   "summaryVersion": 4
 }
