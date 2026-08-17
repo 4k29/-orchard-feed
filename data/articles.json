@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "63353cb1ea41627991fd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Sonos just launched Live Activities on iPhone",
+      "url": "https://9to5mac.com/2026/08/17/sonos-just-launched-live-activities-on-iphone/",
+      "publishedAt": "2026-08-17T15:10:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/sonos-live-activities-lock-screen.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Sonosアプリ、iPhoneのライブアクティビティに対応",
+      "summaryJa": "Sonosは最新のiOSアプリで、ユーザーから長く要望されていたライブアクティビティ機能に対応しました。再生を開始してアプリを閉じるとロック画面にコントローラーが表示され、現在の再生ルームやグループを確認できます。アルバムアートは非対応ですが、CarPlayやApple Watchでも利用でき、不要な場合は設定から無効化することが可能です。"
+    },
+    {
+      "id": "7ff6ea40f6f6d78f69db",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Wallet Driver's License Feature to Launch in Four More U.S. States",
+      "url": "https://www.macrumors.com/2026/08/17/apple-wallet-ids-expanding-to-four-more-states/",
+      "publishedAt": "2026-08-17T14:53:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/04/apple-wallet-drivers-license-feature-iPhone-15-pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleウォレットの身分証明書機能、4つの州へ拡大へ",
+      "summaryJa": "Appleウォレットに運転免許証や州の身分証明書を追加できる機能が、新たに4つの米国の州で導入される予定であることがコードや報道から明らかになりました。対象となるのはノースカロライナ州、オクラホマ州、ユタ州、バージニア州です。すでに導入済みの14州に続く形となりますが、店舗や法的機関での対応状況により当面は物理カードの携帯が推奨されています。"
+    },
+    {
       "id": "f94b24d0ccdc7ae5078b",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "Apple、世界の高級スマホ市場で65%のシェアを維持",
       "summaryJa": "調査会社Counterpoint Researchのデータによると、2026年上半期における世界の高級スマートフォン市場でAppleが65%のシェアを占めました。全体市場に占める高級セグメントの割合は過去最高の29%に達し、iPhone 17シリーズ、特にベースモデルの好調な売上が収益を押し上げました。一方で、中国市場における激しい競争などの影響により、シェア自体は数年前からわずかに低下傾向にあります。"
-    },
-    {
-      "id": "d97bd926a2ab5f90d8e4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 26.6.1 likely coming soon as Apple speeds up iPhone updates",
-      "url": "https://9to5mac.com/2026/08/07/ios-26-6-1-likely-coming-soon-as-apple-speeds-up-iphone-updates/",
-      "publishedAt": "2026-08-07T14:31:32.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iOS 26.6.1を内部テスト中か",
-      "summaryJa": "AppleがiPhone向けにiOS 26.6.1のアップデートを内部でテストしていることがウェブのアクセスログなどから判明しました。iOS 26.6の公開から約2週間でのテストとなり、リリースされた場合はバグ修正やセキュリティ向上が中心になるとみられています。AIの進化に伴うハッキングツールの高速化への適応として、AppleはiPhoneのソフトウェア更新ペースを早める方針を示しています。"
-    },
-    {
-      "id": "05cac685164c957fa437",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
-      "url": "https://9to5mac.com/2026/08/07/which-do-you-plan-to-buy-iphone-18-pro-or-foldable-iphone-ultra-poll/",
-      "publishedAt": "2026-08-07T14:26:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "秋の新型iPhone、Proモデルと初の折りたたみ式が噂に",
-      "summaryJa": "今秋のiPhone発表イベントでは従来とは異なり、フラッグシップモデルに絞った3つのプレミアム機種が展開されると噂されています。ラインナップにはiPhone 18 Pro、iPhone 18 Pro Maxに加え、折りたたみ式のiPhone Ultraが含まれる見込みです。折りたたみモデルは約2,000ドルからの高価格帯になると予想されており、今後の動向に注目が集まっています。"
     }
   ],
-  "updatedAt": "2026-08-17T14:50:30.572Z",
+  "updatedAt": "2026-08-17T15:15:40.539Z",
   "initialized": true,
   "summaryVersion": 4
 }
