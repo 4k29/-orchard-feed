@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "e4ecfdb040ba04f1f369",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro: Six new features are coming next month",
+      "url": "https://9to5mac.com/2026/08/17/iphone-18-pro-six-new-features-are-coming-this-fall/",
+      "publishedAt": "2026-08-17T15:33:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの噂される6つの新機能か",
+      "summaryJa": "次期iPhoneシリーズに関して、iPhone 18 Proモデルに搭載されると噂される6つの新機能が報じられています。画面下のFace ID部品移動によるDynamic Islandの縮小や、2nmプロセスを採用したA20 Proチップ、可変絞りカメラなどが含まれています。デザイン面では背面の一体感が向上し、新しいダークチェリー系のカラーなどがテストされていると伝えられています。"
+    },
+    {
+      "id": "43a31c41351b738578f8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: AirPods Pro 3 25% off, AirPods Max 2 $120 off, AirTag 2 all-time low, M5 Pro MacBook Pro $650 off, more",
+      "url": "https://9to5mac.com/2026/08/17/deals-airpods-pro-3-airpods-max-2-airtag-2-macbook-pro/",
+      "publishedAt": "2026-08-17T15:25:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-AirPods-Pro-3-Max-2-AirTag-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPodsやMacBook Proが大幅割引に",
+      "summaryJa": "大規模なセールに合わせて、Apple製品の割引価格が多数登場しています。AirPods Pro 3が25%オフ、AirPods Max 2が120ドル引きとなっているほか、AirTag 2やM5 Pro搭載MacBook Proなども特別価格で販売されています。夏のセールに匹敵する価格や、過去最安値に近いお得なオファーが展開されています。"
+    },
+    {
       "id": "63353cb1ea41627991fd",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "AirPods Pro 3が25%オフなど、週末のApple製品セール情報",
       "summaryJa": "週末に向けた最新のセール情報として、AirPods Pro 3が通常より25%オフの190ドルに値下げされているほか、AirPods Max 2やApple Watch Series 11などが割引価格で販売されています。また、公式整備済製品ストアのM5搭載MacBook Proなど、注目のハードウェアをお得に入手できる機会が揃っています。"
-    },
-    {
-      "id": "19acea7cd5c313d15947",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "watchOS 27 could make Apple Watch’s important new health feature even better",
-      "url": "https://9to5mac.com/2026/08/07/watchos-27-could-make-apple-watchs-important-new-health-feature-even-better/",
-      "publishedAt": "2026-08-07T14:51:06.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-health.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "watchOS 27で高血圧通知機能がさらに向上か",
-      "summaryJa": "昨年のwatchOSで導入された高血圧通知機能が、watchOS 27においてさらに強化される可能性があります。報道によると、この機能のアップグレード版は現在米国食品医薬品局の審査を受けているとされています。高血圧は心臓発作や脳卒中の主要なリスク要因であるため、この機能の拡充により多くのユーザーの健康管理に役立つことが期待されています。"
-    },
-    {
-      "id": "86b84db40db53412e8ef",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Captures 65% of Global Premium Smartphone Market",
-      "url": "https://www.macrumors.com/2026/08/07/apple-captures-65-percent-of-global-premium-market/",
-      "publishedAt": "2026-08-07T14:32:54.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Pro-and-Air-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、世界の高級スマホ市場で65%のシェアを維持",
-      "summaryJa": "調査会社Counterpoint Researchのデータによると、2026年上半期における世界の高級スマートフォン市場でAppleが65%のシェアを占めました。全体市場に占める高級セグメントの割合は過去最高の29%に達し、iPhone 17シリーズ、特にベースモデルの好調な売上が収益を押し上げました。一方で、中国市場における激しい競争などの影響により、シェア自体は数年前からわずかに低下傾向にあります。"
     }
   ],
-  "updatedAt": "2026-08-17T15:15:40.539Z",
+  "updatedAt": "2026-08-17T15:46:09.970Z",
   "initialized": true,
   "summaryVersion": 4
 }
