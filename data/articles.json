@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "6c208a2d0aa075fa4246",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Spotify’s new Playlist Notes let users add context to songs, podcasts, and audiobook picks",
+      "url": "https://9to5mac.com/2026/08/17/spotifys-new-playlist-notes-let-users-add-context-to-songs-podcasts-and-audiobook-picks/",
+      "publishedAt": "2026-08-17T21:00:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/Spotify.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Spotify、ポッドキャストやオーディオブックにも対応する「Playlist Notes」を発表",
+      "summaryJa": "Spotifyは、プレイベートな楽曲にメモを追加できる機能の拡張として、「Playlist Notes」を発表しました。この新機能により、ユーザーは楽曲だけでなく、プレイリストに追加したポッドキャストのエピソードやオーディオブックにも文脈や思い出を書き込めるようになります。iOSおよびAndroid向けに、100以上の市場で順次提供が開始されています。"
+    },
+    {
       "id": "3bba60133a15c444757b",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "米Amazon、第11世代iPadのWi-Fiモデルが50ドル引きに",
       "summaryJa": "米Amazonにて、Appleの第11世代iPadのWi-Fiモデル各種が50ドル引きとなるセールが週末限定で実施されています。128GBモデルが399ドル、256GBモデルが499ドル、512GBモデルが699ドルとなっており、6月の価格改定以降では最安値水準を記録しています。プライム会員向けには一部地域での当日配送も用意されており、お得に購入できるチャンスとなっています。"
-    },
-    {
-      "id": "bd99cfc28f62b9b41845",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple @ Work: What IDC’s latest shipments mean for the MacBook Neo and Air in the enterprise",
-      "url": "https://9to5mac.com/2026/08/08/apple-work-what-idcs-latest-shipments-mean-for-the-macbook-neo-and-air-in-the-enterprise/",
-      "publishedAt": "2026-08-08T13:36:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "IDCの最新出荷台数データから見るMacBookの法人需要",
-      "summaryJa": "IDCが発表した最新のPC出荷台数データによると、業界全体の出荷台数は減少傾向にある一方で、価格上昇に伴いメーカーの売上高は増加しています。AIデータセンターによる部品不足などの経済サイクルが影響する中、Appleは主要なPCメーカーの中で唯一、出荷台数の成長を記録している企業として注目を集めています。法人市場におけるApple製品の展開動向や、MacBookシリーズの企業向け導入の背景について考察されています。"
     }
   ],
-  "updatedAt": "2026-08-17T20:38:36.919Z",
+  "updatedAt": "2026-08-17T21:03:50.638Z",
   "initialized": true,
   "summaryVersion": 4
 }
