@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "752302ec0174653b9ac3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "A serious Mac screen sharing vulnerability is being actively exploited",
+      "url": "https://9to5mac.com/2026/08/17/a-serious-mac-screen-sharing-vulnerability-is-being-actively-exploited/",
+      "publishedAt": "2026-08-17T11:36:50.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/A-serious-Mac-screen-sharing-vulnerability-is-being-actively-exploited.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Macの画面共有機能に深刻な脆弱性、悪用の報告を受けて早急なアップデートを呼びかけ",
+      "summaryJa": "Appleが修正したmacOSの画面共有機能における深刻な脆弱性について、実際に悪用されている事例が確認されたと報じられています。ネットワーク上の攻撃者が認証を迂回してシステムに侵入し、仮想通貨マイニングツールなどが設置される被害が報告されました。対象となるmacOSバージョンを利用しているユーザーは、速やかに最新版へアップデートすることが強く推奨されます。"
+    },
+    {
       "id": "e29270f53678f3c463e6",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "iPhone 18 Proの発売直後に品薄となる可能性か",
       "summaryJa": "9to5Mac Dailyのポッドキャスト番組にて、iPhone 18 Proが発売直後に供給不足となる可能性や、OpenAIによるAppleの企業秘密侵害訴訟の却下要請、AppleがWindows PC向けにiPhoneのクリップボードへのアクセスを提供し始める計画などが取り上げられています。日々の主要なApple関連ニュースをコンパクトに振り返る内容となっています。"
-    },
-    {
-      "id": "52f84a7e9483ff6dc0b7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Health is more powerful than you think; here are my top tips",
-      "url": "https://9to5mac.com/2026/08/06/apple-health-best-features/",
-      "publishedAt": "2026-08-07T00:15:48.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/04/apple-health-features.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleヘルスケアアプリを活用して健康管理を極める方法",
-      "summaryJa": "iPhoneの「ヘルスケア」アプリは、Apple Watchやサードパーティ製デバイスからのデータを一元管理できる強力なツールです。歩数や心拍数だけでなく、血圧計などの外部アクセサリとも連携して詳細な健康トレンドを追跡できます。日々のデータを網羅的に把握し、健康維持に役立てるための活用法を紹介しています。"
     }
   ],
-  "updatedAt": "2026-08-17T11:34:55.952Z",
+  "updatedAt": "2026-08-17T11:56:53.189Z",
   "initialized": true,
   "summaryVersion": 4
 }
