@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "2b703234b5e93019e0d0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Siri AI Settlement: Apple Won't Begin Paying Customers Until Next Year",
+      "url": "https://www.macrumors.com/2026/08/17/siri-ai-settlement-final-approval-in-2027/",
+      "publishedAt": "2026-08-17T19:04:50.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/ios-27-siri-animation.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Siri AI集団訴訟の和解金支払い、来年以降に持ち越し",
+      "summaryJa": "Siri AIの展開遅延を巡る集団訴訟でAppleが和解に合意した件について、顧客への支払いは来年以降になる見通しとなりました。裁判所文書によると、最終承認の審問は2027年2月に予定されており、実際の支払いはその数ヶ月後になると伝えられています。現時点では請求用ウェブサイトが開設されておらず、ユーザー側での手続きは不要となっています。"
+    },
+    {
+      "id": "06ada314897e363cb7d4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s what’s new with iOS 27 beta 6",
+      "url": "https://9to5mac.com/2026/08/17/heres-whats-new-with-ios-27-beta-6/",
+      "publishedAt": "2026-08-17T19:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-orange.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、開発者向けに「iOS 27ベータ6」を配信開始",
+      "summaryJa": "Appleは開発者向けベータテスターを対象に「iOS 27ベータ6」をリリースしました。今回のベータ版では、前回のベータ5で発生していたメッセージアプリのUIバグが修正されているほか、細かな調整や内部的な改善が中心となっています。正式版は新型iPhoneの発売に合わせて9月に一般向けリリースされる予定です。"
+    },
+    {
+      "id": "24d449c28c15802e7bf8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MagSafe Monday: The Urban Fit is my favorite budget alternative to Apple’s wallet",
+      "url": "https://9to5mac.com/2026/08/17/magsafe-monday-the-urban-fit-i-my-favorite-budget-alternative-to-apples-wallet/",
+      "publishedAt": "2026-08-17T18:58:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Spigen-Valentinus-.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MagSafeウォレットの優れた予算向け代替製品",
+      "summaryJa": "iPhoneの背面にカードや現金を装着できるMagSafeウォレットの代替製品として、「Urban Fit」が紹介されています。Apple純正品は「探す」機能に対応する一方で価格が高めですが、サードパーティ製の手頃な製品は半額程度のコストで同様の利便性を提供します。デジタルIDの普及過渡期において、薄型のMagSafeウォレットは依然として実用的な選択肢となっています。"
+    },
+    {
+      "id": "5713750a397a6bf0e9d3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 26.6.1 has fixes for 20+ security issues on iPhone, details here",
+      "url": "https://9to5mac.com/2026/08/17/ios-26-6-1-has-fixes-for-20-security-issues-on-iphone-details-here/",
+      "publishedAt": "2026-08-17T18:29:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-security.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、20件以上の脆弱性を修正する「iOS 26.6.1」を公開",
+      "summaryJa": "AppleはiPhone向けに、20件以上のセキュリティ問題を修正するソフトウェアアップデート「iOS 26.6.1」をリリースしました。主にWebKit関連の修正が含まれているほか、オーディオやカーネルなどのパッチも適用されています。AIを活用したハッキング試みの増加リスクに対応するため、今後も定期的なセキュリティ更新が計画されています。"
+    },
+    {
       "id": "f3ec7acb282a7c19fb4b",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4442,69 +4502,9 @@
       ],
       "titleJa": "WhatsApp、iPhoneでの保護者による管理機能のセットアップを簡素化",
       "summaryJa": "WhatsAppはiPhone向けに専用の「保護者による管理」セクションの提供を開始しました。これにより、保護者は特定の連絡先やグループ参加の制限など、管理アカウントの設定やセットアップを簡単に行えるようになります。技術的な知識を必要としないシンプルなインターフェイスで、QRコードの読み取りなどを通じてスムーズに連携を完了させることができます。"
-    },
-    {
-      "id": "048eb1b3e73995cb769c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple adds nearly 45 hearing devices to its Made for iPhone compatibility list",
-      "url": "https://9to5mac.com/2026/08/07/apple-adds-nearly-45-hearing-devices-to-its-made-for-iphone-compatibility-list/",
-      "publishedAt": "2026-08-08T02:18:32.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/hearing-devices-setup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、Made for iPhone補聴器の互換性リストに約45モデルを追加",
-      "summaryJa": "Appleは「Made for iPhone（MFi）」対応の補聴器リストを更新し、新たに22ブランドから43モデルを追加しました。これにより、サポートされているデバイスの総数は104ブランドの623モデルに拡大しました。双方向ストリーミングに対応した新モデルなども含まれており、ユーザーはiPhoneやiPadなどと組み合わせてハンズフリーでの音声通話や音楽ストリーミングを楽しめます。"
-    },
-    {
-      "id": "7ad942c9a12944262ca0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "CarPlay connection issues? This might explain why",
-      "url": "https://9to5mac.com/2026/08/07/carplay-connection-issues/",
-      "publishedAt": "2026-08-08T00:51:06.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/carplay-tapbacks-ios-26.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "CarPlayの接続が途切れる原因と電波干渉の影響",
-      "summaryJa": "運転中にApple CarPlayの接続がランダムに切れてしまう現象は、iPhoneやケーブルの不具合ではなく、特定の場所における電波干渉が原因である可能性があります。ダッシュボードとiPhone間のワイヤレス通信が周囲の電波によって妨げられることで発生します。特定エリアで頻繁に接続が切れる場合は、目に見えない無線電波の干渉フィールドを通っていることが考えられます。"
-    },
-    {
-      "id": "b43883ba858643a4852e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Claude Code now lets sessions talk to each other on macOS",
-      "url": "https://9to5mac.com/2026/08/07/claude-code-now-lets-sessions-talk-to-each-other-on-macos/",
-      "publishedAt": "2026-08-07T22:29:59.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/claude-code-message.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Claude Code、macOSなどのセッション間でメッセージ共有が可能に",
-      "summaryJa": "Anthropicは、Claude Codeの最新バージョンで複数のセッション間でのメッセージ送受信機能を新たに追加しました。これにより、異なるセッション同士で発見した情報の共有や質問、作業の連携ができるようになり、並行作業の効率化が図れます。ユーザーは細かい指示を再度入力する手間が省け、AIが自動で要約を作成して他セッションへ引き渡す仕組みとなっています。"
-    },
-    {
-      "id": "68fea21373acec00d9a1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Overtime 076: Native retro games on iPhone",
-      "url": "https://9to5mac.com/2026/08/07/9to5mac-overtime-076-native-retro-games-on-iphone/",
-      "publishedAt": "2026-08-07T21:31:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/9to5Mac-Overtime-076-Native-retro-games-on-iPhone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhoneでのレトロゲーム動作やポッドキャストの見どころ",
-      "summaryJa": "9to5Macのポッドキャスト番組の最新エピソードについて伝えています。フェルナンドによるMacでのポケモン3Dモッドや、ジェフによるiPhone版マリオカート64のネイティブ移植の実行体験などが紹介されています。さらに、近年のテクノロジーに対する印象の変化や、同じデバイスを長期間使い続けることについての議論も展開されています。"
     }
   ],
-  "updatedAt": "2026-08-17T18:22:09.093Z",
+  "updatedAt": "2026-08-17T19:06:41.585Z",
   "initialized": true,
   "summaryVersion": 4
 }
