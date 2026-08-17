@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "edfc696d617ac2a9ab2f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27 Golden Gate beta 6 adds fifth dynamic wallpaper, get them all here [Gallery]",
+      "url": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-adds-fifth-dynamic-wallpaper-get-them-all-here-gallery/",
+      "publishedAt": "2026-08-17T22:43:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/macos-27-wallpapers.png?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "macOS 27ベータ6、新たなダイナミック壁紙を追加",
+      "summaryJa": "macOS 27 Golden Gateベータ6の配信が開始され、サンフランシスコのゴールデン・ゲート・ブリッジをとらえた新しいダイナミック壁紙が追加されました。これにより、システムで使用できるダイナミック壁紙は合計5種類に拡張されています。各壁紙の静止画フレームや設定手順が紹介されており、ユーザーは高解像度画像をダウンロードして背景に適用することが可能です。"
+    },
+    {
       "id": "3ee0b1cea120ce78890f",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "iPhone 17 Proを今すぐ購入すべき理由とは",
       "summaryJa": "来月に次期モデルの登場が予想される中、今年は新型モデルの価格が大幅に引き上げられるとの見方が強まっています。そのため、大きな機能進化が期待しにくい新型を待つよりも、現在のモデルを今購入する方が賢明であると解説されています。数年前のモデルからの買い替えであれば十分に大きな進化を実感でき、長期的なサポートも受けられます。"
-    },
-    {
-      "id": "72ef71232386872ec8ad",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV welcomes back Ted Lasso with a clever new commercial",
-      "url": "https://9to5mac.com/2026/08/08/apple-tv-welcomes-back-ted-lasso-with-a-clever-new-commercial/",
-      "publishedAt": "2026-08-08T15:14:01.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-tv-ted-lasso-welcome-bacj.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、人気ドラマ「テッド・ラッソ」の新作CMを公開",
-      "summaryJa": "Apple TVは、シーズン4の配信開始に合わせて新たなコマーシャル映像を公開しました。今回のCMには、主人公のコーチ・ラッソが「セヴェランス」や「サイロ」など、プラットフォーム上の他の人気作品のシーンに登場するユニークな演出が取り入れられています。新シーズンの配信とともに、Apple TVの多彩なラインナップ全体の認知度を高める狙いがあります。"
     }
   ],
-  "updatedAt": "2026-08-17T22:34:59.176Z",
+  "updatedAt": "2026-08-17T22:57:25.968Z",
   "initialized": true,
   "summaryVersion": 4
 }
