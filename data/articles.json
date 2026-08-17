@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "43ba8666f5e1bceb6d33",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple official refurb store: Save a ton of cash with our top picks of the week",
+      "url": "https://9to5mac.com/2026/08/17/apple-official-refurb-store-top-picks-2/",
+      "publishedAt": "2026-08-17T20:00:58.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/9to5mac-refurb.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple公式認定整備済製品の注目ピックアップ",
+      "summaryJa": "Apple公式認定整備済ストアで販売されているiPhone、MacBook、Studio Displayなどの今週の注目製品を紹介しています。Appleによる厳格な整備プロセスを経た製品には1年間の限定保証が付属し、新品同様の安心感とともにコストを抑えられるのが魅力です。在庫は流動的ですが、信頼性の高い選択肢として人気を集めています。"
+    },
+    {
       "id": "592a41ddd439d959ca7e",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "AirPods Pro 3などが対象となった週末のApple製品セール",
       "summaryJa": "週末のセール情報として、AirPods Pro 3が25%オフで販売されるほか、AirPods Maxの大幅割引やApple認定整備済製品の注目すべきオファーが登場しています。さらに、M5搭載のMacBook ProやMacBook Air、Apple Watch Ultra 3、さらに未開封のSIMフリー版iPhone Airなども値引きの対象となっています。これから控える新製品の発売に向け、Appleギフトカードの割引なども含まれており、各種デバイスをお得に購入できる機会となっています。"
-    },
-    {
-      "id": "d8f27c3969cc11853528",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Claude Code Adds Cross-Session Messaging on macOS",
-      "url": "https://www.macrumors.com/2026/08/08/claude-code-adds-cross-session-messaging/",
-      "publishedAt": "2026-08-08T10:22:46.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/anthopic-claude.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Claude CodeがmacOS向けにセッション間メッセージング機能を追加",
-      "summaryJa": "Anthropicは、Claude Codeの最新アップデートにより、個別のコーディングセッション間で直接メッセージの送受信ができるようになったと発表しました。これにより、ターミナルウィンドウ間で手動コンテキストをコピーする必要がなくなります。Mac上のローカルで動作し、会話履歴やファイルではなくテキストの要約のみが共有される仕組みです。"
     }
   ],
-  "updatedAt": "2026-08-17T19:42:45.886Z",
+  "updatedAt": "2026-08-17T20:02:30.244Z",
   "initialized": true,
   "summaryVersion": 4
 }
