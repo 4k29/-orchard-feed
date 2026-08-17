@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "592a41ddd439d959ca7e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 26.6.1 and macOS Tahoe 26.6.2 Fix Nearly 30 Security Vulnerabilities",
+      "url": "https://www.macrumors.com/2026/08/17/ios-26-6-1-security-fixes/",
+      "publishedAt": "2026-08-17T19:25:39.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iOS 26.6.1とmacOS Tahoe 26.6.2を公開",
+      "summaryJa": "Appleは、約30件のセキュリティ脆弱性を修正するiOS 26.6.1、iPadOS 26.6.1、macOS Tahoe 26.6.2をリリースしました。WebKitやカーネルの不具合など多数の脆弱性に対処しており、悪用される前に早めのアップデートが推奨されています。また、対応していない旧モデル向けにiOS 18.7.10なども同時に提供されています。"
+    },
+    {
+      "id": "ade7a29fb60187f46862",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Leaker details A20 Pro chip’s new speed gains",
+      "url": "https://9to5mac.com/2026/08/17/leaker-details-a20-pro-chips-new-speed-gains/",
+      "publishedAt": "2026-08-17T19:13:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/a20-pro-chip-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro向けA20 Proチップの性能向上か",
+      "summaryJa": "来月発表されるiPhone 18 ProやiPhone Ultraに搭載されるA20 Proチップについて、サプライチェーン情報に基づいた性能向上の詳細が報じられています。TSMCの2nmプロセスを採用することで、A19 Proと比較して処理速度が18%向上し、電力効率も30%改善される可能性が伝えられています。"
+    },
+    {
       "id": "2b703234b5e93019e0d0",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "Claude CodeがmacOS向けにセッション間メッセージング機能を追加",
       "summaryJa": "Anthropicは、Claude Codeの最新アップデートにより、個別のコーディングセッション間で直接メッセージの送受信ができるようになったと発表しました。これにより、ターミナルウィンドウ間で手動コンテキストをコピーする必要がなくなります。Mac上のローカルで動作し、会話履歴やファイルではなくテキストの要約のみが共有される仕組みです。"
-    },
-    {
-      "id": "9e3140e97792e9eb5266",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 17 Prices Could Rise as Soon as Monday, Rumor Claims",
-      "url": "https://www.macrumors.com/2026/08/08/iphone-17-prices-could-rise-as-soon-as-monday/",
-      "publishedAt": "2026-08-08T09:54:27.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/iphone-17-models.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 17シリーズの価格が近く改定される可能性か",
-      "summaryJa": "Weiboのリーク情報によると、AppleがiPhone 17シリーズの価格を早くも月曜日に引き上げる可能性があると報じられています。次期iPhone 18 Proの登場に向けた動きとは別に、メモリやストレージコストの高騰が影響しているとみられています。実際の値上げが全モデルに適用されるかや、対象範囲については今後の動向が注目されます。"
-    },
-    {
-      "id": "cea6e3f5ad92c7857aa4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp makes parent-managed accounts easier to set up on iPhone",
-      "url": "https://9to5mac.com/2026/08/07/whatsapp-makes-parent-managed-accounts-easier-to-set-up-on-iphone/",
-      "publishedAt": "2026-08-08T02:58:27.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp、iPhoneでの保護者による管理機能のセットアップを簡素化",
-      "summaryJa": "WhatsAppはiPhone向けに専用の「保護者による管理」セクションの提供を開始しました。これにより、保護者は特定の連絡先やグループ参加の制限など、管理アカウントの設定やセットアップを簡単に行えるようになります。技術的な知識を必要としないシンプルなインターフェイスで、QRコードの読み取りなどを通じてスムーズに連携を完了させることができます。"
     }
   ],
-  "updatedAt": "2026-08-17T19:06:41.585Z",
+  "updatedAt": "2026-08-17T19:42:45.886Z",
   "initialized": true,
   "summaryVersion": 4
 }
