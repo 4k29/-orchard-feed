@@ -1,6 +1,141 @@
 {
   "articles": [
     {
+      "id": "14b95a50f9a6c23471e2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases iOS 26.6.1 for iPhone, here’s what’s new",
+      "url": "https://9to5mac.com/2026/08/17/apple-releases-ios-26-6-1-for-iphone-heres-whats-new/",
+      "publishedAt": "2026-08-17T17:36:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPhone向けにiOS 26.6.1を公開",
+      "summaryJa": "AppleはiPhone向けにセキュリティ修正を含むソフトウェアアップデート「iOS 26.6.1」をリリースしました。来月予定されている大規模な次期OSリリースを前に、デバイスの安全性と安定性を向上させるための更新となっています。同時にiPadOSやmacOSなどの各OS向けにも同様のアップデートが提供されています。"
+    },
+    {
+      "id": "0c15f797046d8c8a0ebb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases beta 6 for iPadOS 27, tvOS 27, and more",
+      "url": "https://9to5mac.com/2026/08/17/apple-releases-beta-6-for-ipados-27-tvos-27-and-more/",
+      "publishedAt": "2026-08-17T17:22:59.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPadOS 27などの開発者向けベータ6を配信",
+      "summaryJa": "Appleは今秋の正式リリースに向け、iPadOS 27やtvOS 27などの開発者向けベータ6の提供を開始しました。8月に入りリリース周期が週単位へと加速しており、今回のベータ版では主にパフォーマンスの向上やバグの修正に焦点を当てて安定性を高めています。"
+    },
+    {
+      "id": "f79d1a7e9723bea7881f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds Sixth iOS 27 and iPadOS 27 Betas to Developers",
+      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-ios-27-developer-beta/",
+      "publishedAt": "2026-08-17T17:19:28.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、開発者向けにiOS 27とiPadOS 27のベータ6を公開",
+      "summaryJa": "Appleは登録開発者向けにiOS 27とiPadOS 27の第6ベータ版の提供を開始しました。前回のベータ版から1週間でのリリースとなり、AIを活用した新しいSiri機能やシステム全体のパフォーマンス改善などがテストされています。正式公開に向け、細かな調整と安定性の検証が進められています。"
+    },
+    {
+      "id": "aaca1c18a5f3be3f2623",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27 Golden Gate developer beta 6 now available to developers",
+      "url": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-developer-beta-6-now-available-to-developers/",
+      "publishedAt": "2026-08-17T17:19:01.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/macOS-27-b6.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOS 27 開発者向けベータ6を配信開始",
+      "summaryJa": "Appleは正式リリースを控え、開発者向けに「macOS 27 Golden Gate」のベータ6をリリースしました。前回のベータ版から1週間での迅速な配信となっており、専用のSiriアプリの追加やデザインの統一、各種AI機能の統合に向けたパフォーマンスの最終調整が行われています。"
+    },
+    {
+      "id": "8c96c454d25de1860471",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 beta 6 now available as Apple tests major Siri AI upgrade",
+      "url": "https://9to5mac.com/2026/08/17/ios-27-beta-6/",
+      "publishedAt": "2026-08-17T17:18:41.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iOS-27-b6.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Siri AIをテストするiOS 27ベータ6を配信開始",
+      "summaryJa": "Appleは開発者向けにiOS 27のベータ6をリリースしました。次期OSでは刷新された「Siri AI」やApple Intelligence機能が中心となり、ダイナミックアイランドと連携する新しい視覚体験や、システム全体での深いアプリ連携が提供されます。9月の一般公開に向け、夏場のベータテストが順調に進められています。"
+    },
+    {
+      "id": "eae8a6b53ffc97d07f6b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases macOS Golden Gate Beta 6",
+      "url": "https://www.macrumors.com/2026/08/17/apple-releases-macos-golden-gate-beta-6/",
+      "publishedAt": "2026-08-17T17:18:36.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、macOS Golden Gate ベータ6を開発者向けに公開",
+      "summaryJa": "Appleは開発者向けに「macOS Golden Gate」のベータ6を提供開始しました。デザイン面では液状ガラスの不透明度調整スライダーやウィンドウのシャドウ効果が改良され、可視性が向上しています。また、チャット形式の新しいSiri AIやビジュアルインテリジェンス、写真アプリのAI編集ツールなど多彩な新機能がテストされています。"
+    },
+    {
+      "id": "153210d26003e6be21d6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds watchOS 27 Beta 6 to Developers",
+      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-watchos-27-beta-6-to-developers/",
+      "publishedAt": "2026-08-17T17:17:40.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、watchOS 27 ベータ6を開発者向けにリリース",
+      "summaryJa": "AppleはwatchOS 27のベータ6を開発者向けに配信開始しました。対応するApple Watch向けに、自然な会話やパーソナルデータ活用が可能な新機能「Siri AI」をはじめ、スマートスタックの改善や新しいワークアウト機能などがテストされています。なお、Apple Watch Ultra 3を除く対応モデルで利用可能です。"
+    },
+    {
+      "id": "26d9075da8592a6cbaf3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds tvOS 27 Beta 6 to Developers",
+      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-tvos-27-beta-6-to-developers/",
+      "publishedAt": "2026-08-17T17:16:22.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/tvOS-27-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、tvOS 27 ベータ6を開発者向けに配信",
+      "summaryJa": "AppleはApple TV向けにtvOS 27のベータ6を開発者向けに公開しました。他のOSアップデートと比較して新機能は少なめですが、再設計されたポッドキャストアプリ、文字サイズ拡大オプション、より応答性の高いコントロールセンターなどが追加されています。また、AirPlayの接続速度向上やアニメーションの滑らかさも改善されています。"
+    },
+    {
+      "id": "e94ace7505f50f72cd71",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds Sixth visionOS 27 Beta to Developers",
+      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-visionos-27-developer-beta/",
+      "publishedAt": "2026-08-17T17:15:37.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/curved_windows_visionos-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、開発者向けにvisionOS 27ベータ6を配信",
+      "summaryJa": "Appleは開発者向けに、次期アップデートとなるvisionOS 27のベータ6をリリースしました。このバージョンではSiriにAI機能が統合され、装着しているユーザーが見ているものに関する質問に答えたり、仮想空間内に配置できる新しいオーブ機能などが追加されています。また、パノラマ写真を空間環境に変換できる機能や、ウェブ環境を構築できるサポートなども含まれており、空間コンピューティングの体験がさらに向上しています。"
+    },
+    {
       "id": "7c26330a222f1a265b60",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4367,144 +4502,9 @@
       ],
       "titleJa": "iOS、Wi-Fiと携帯回線の切り替えを改善か",
       "summaryJa": "次期ソフトウェアにて、Wi-Fiとモバイル通信のネットワーク切り替えがこれまで以上にシームレスになるよう改善されていることが分かりました。外出時にWi-Fiからモバイルデータ通信へ移行する際のラグが軽減され、手動でWi-Fiをオフにする手間が解消される見込みです。Appleはプラットフォームの改良の一環として、iPhoneの動作をより高速かつ信頼性の高いものにすることを目指しています。"
-    },
-    {
-      "id": "bd1c999e5ba6d9d0658d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "You may soon be able to create and export custom WhatsApp stickers straight from ChatGPT",
-      "url": "https://9to5mac.com/2026/08/07/you-may-soon-be-able-to-create-and-export-custom-whatsapp-stickers-straight-from-chatgpt/",
-      "publishedAt": "2026-08-07T20:10:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-green.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ChatGPT、カスタムステッカーのWhatsApp書き出しに対応か",
-      "summaryJa": "OpenAIが、ChatGPTで作成したカスタムステッカーをメッセージアプリのWhatsAppに直接エクスポートできる機能の開発を進めていると報じられています。Android向けの最新アプリから関連するコードが見つかりました。作成したステッカーをカスタムパックとして追加できるようになりますが、公式リリース時期は現時点で不明となっています。"
-    },
-    {
-      "id": "b5f60eeaf5f6e6362f57",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "These automakers still don’t support CarPlay, here’s why",
-      "url": "https://9to5mac.com/2026/08/07/these-automakers-still-dont-support-carplay-heres-why/",
-      "publishedAt": "2026-08-07T19:14:14.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/carplay27-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "自動車メーカーがCarPlay非対応を続ける理由",
-      "summaryJa": "大半の購入者にとって必須とされるCarPlayですが、テスラ、リビアン、GMの大手3社は今なお対応していません。テスラは自社ソフトに注力してきましたが、マップ連携などの噂もあり動向が注目されています。一方のリビアンは、ユーザーが自社プラットフォームで全てをネイティブに行うべきだとして導入を否定し続けています。"
-    },
-    {
-      "id": "405161134c3134d97eec",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Rumored to Launch Three New 'Ultra' Products by Early Next Year",
-      "url": "https://www.macrumors.com/2026/08/07/three-new-apple-ultra-products-rumored/",
-      "publishedAt": "2026-08-07T19:06:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、3つの「Ultra」製品を順次投入か",
-      "summaryJa": "Appleが今後、新たに「Ultra」の冠を持つ3つの製品を投入すると報じられています。折りたたみ式と噂される「iPhone Ultra」に加え、視覚知能やSiriを支援する小型赤外線カメラを搭載した「AirPods Ultra」などが、今年の秋から来年初めにかけて登場する可能性が伝えられています。"
-    },
-    {
-      "id": "7471ceb1646995b733a7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New AirPods could launch next month, and one feature sounds very exciting",
-      "url": "https://9to5mac.com/2026/08/07/new-airpods-could-launch-next-month-and-one-feature-sounds-very-exciting/",
-      "publishedAt": "2026-08-07T19:01:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airpods-pro-3-upside-down.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "カメラ搭載の新AirPodsが来月登場か",
-      "summaryJa": "Appleが来月のiPhoneイベントで、カメラを搭載した新型AirPodsを発表する可能性が報じられています。内蔵されるカメラは視覚知能やSiriと連携し、音声読み上げ機能などと組み合わせることで視覚障がいを持つユーザーのサポートにも大きく貢献すると期待されています。ヘルスケア分野を重視するAppleにとって新たな大きな一歩となるかもしれません。"
-    },
-    {
-      "id": "ddc8e6d5771873075ead",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "PSA: Claude Code enabling auto mode as default next week, Anthropic says",
-      "url": "https://9to5mac.com/2026/08/07/psa-claude-code-enabling-auto-mode-as-default-next-week-anthropic-says/",
-      "publishedAt": "2026-08-07T18:48:17.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Claude Code、来週から自動モードがデフォルトに",
-      "summaryJa": "Anthropicは、開発支援ツール「Claude Code」の自動モードを来週からデフォルトの権限設定にすると発表しました。ProやTeamなどのユーザーを対象に、危険な操作を分類器がチェックして安全性を確保しつつ作業効率を高めます。追加トークンの料金も無料化され、より実用的なコーディング体験を提供することになります。"
-    },
-    {
-      "id": "250101f1dcca10d00b4c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "The MacRumors Show: iPhone Air 2 - What Changes After a Difficult First Year",
-      "url": "https://www.macrumors.com/2026/08/07/the-macrumors-show-iphone-air-2/",
-      "publishedAt": "2026-08-07T16:23:39.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "初代が苦戦したiPhone Air、次期モデルでの変更点を振り返る",
-      "summaryJa": "発売から1年を迎える初代iPhone Airは、需要の低迷や大幅な値下げ、急速な価格下落など苦しい展開となりました。単眼カメラやバッテリー駆動時間の短縮、競合機種との価格差などが主な要因として挙げられています。Bloombergなどの報道によると、次期モデルでは超広角レンズの追加など、多くの弱点を克服する改良が計画されていると伝えられています。"
-    },
-    {
-      "id": "6aee9032d29864cf48d4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 7, 2026 – iPhone Fold hype, macOS updates",
-      "url": "https://9to5mac.com/2026/08/07/daily-august-7-2026/",
-      "publishedAt": "2026-08-07T16:15:59.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "画面共有の脆弱性修正やiCloudの懸念、タブレット出荷台数の動向",
-      "summaryJa": "Appleの最新macOSアップデートでは、深刻な画面共有の脆弱性が修正されました。また、iCloudプライベートリレーが実際のIPアドレスを漏洩している可能性が研究者らにより指摘されています。そのほか、世界的なタブレット市場の低迷に伴う2026年第2四半期のiPad出荷台数減少についても報じられています。"
-    },
-    {
-      "id": "3785ffc3974f68ec9729",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "MacBook Pro users will soon have two compelling new upgrade options",
-      "url": "https://9to5mac.com/2026/08/07/macbook-pro-users-will-soon-have-two-compelling-new-upgrade-options/",
-      "publishedAt": "2026-08-07T16:13:21.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/macbook-pro-m6.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "今秋登場か、M6搭載MacBook Proと新デザインのMacBook Ultra",
-      "summaryJa": "今秋のMacBook Proラインナップには、2nmプロセスを採用するM6チップ搭載モデルと、全く新しい「MacBook Ultra」の2つの選択肢が登場すると噂されています。Ultraモデルは、薄型軽量化されたデザインに有機ELディスプレイやタッチスクリーン、Dynamic Islandを搭載する可能性があります。プロセッサにはM5 ProやM5 Maxが採用され、最先端の技術を求めるユーザー向けになると報じられています。"
-    },
-    {
-      "id": "5930d6d6ebf4ef8f85c9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Flags Discovery Delays in Its Lawsuit Against Jon Prosser",
-      "url": "https://www.macrumors.com/2026/08/07/apple-flags-delays-in-its-prosser-lawsuit/",
-      "publishedAt": "2026-08-07T16:07:57.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/10/Jon-Prosser-Rainbow.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、情報リークを巡る訴訟でジョン・プロッサー氏側の対応遅れを報告",
-      "summaryJa": "Appleは、リーク情報発信者のジョン・プロッサー氏を相手取った営業秘密侵害訴訟において、連邦裁判所に証拠開示の手続きが滞っていると報告しました。プロッサー氏側からの連絡が1ヶ月途絶えていたものの、その後第2子の誕生と育児が遅れの原因であったことが弁護士より説明されています。本件は、未発表のiOS機能に関する機密情報にアクセスしたとして、2025年7月に提訴されたものです。"
     }
   ],
-  "updatedAt": "2026-08-17T17:16:16.608Z",
+  "updatedAt": "2026-08-17T17:50:33.986Z",
   "initialized": true,
   "summaryVersion": 4
 }
