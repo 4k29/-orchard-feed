@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "b91e3d570fde8495be14",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "macOS Tahoe 26.7 is Full of References to Unreleased Apple Products",
+      "url": "https://www.macrumors.com/2026/08/17/macos-26-7-unreleased-apple-devices/",
+      "publishedAt": "2026-08-17T23:50:34.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/01/Apple-AI-Command-Center-Concept-Mock-1-Textless.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "macOS Tahoe 26.7に未発表製品の手がかりか",
+      "summaryJa": "Appleが提供を開始したmacOS Tahoe 26.7のリリース候補版から、ホームハブや新型HomePod mini、セキュリティカメラと噂されるデバイスなど、多くの未発表製品に関するコードや機能フラグが見つかっています。コード内ではホーム向けの新しいデバイス識別子や新色なども言及されており、今後の製品展開に注目が集まっています。"
+    },
+    {
       "id": "edfc696d617ac2a9ab2f",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "楽曲の練習に便利な音楽アプリ「Pocket Jam」",
       "summaryJa": "お気に入りの楽曲を練習ツールに変えるアプリ「Pocket Jam」のバージョン5.0が公開されました。再生速度の変更やピッチ調整、ループ再生機能に加えて、波形表示のデザイン刷新やテンポトレーナーなどが追加されています。iPhoneやiPad、Macに対応し、App Storeから無料でダウンロード可能です。"
-    },
-    {
-      "id": "90e86dfc13318191a655",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Why you should buy iPhone 17 Pro now instead of waiting",
-      "url": "https://9to5mac.com/2026/08/08/buy-iphone-17-pro-vs-iphone-18-pro/",
-      "publishedAt": "2026-08-08T18:13:25.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-17-pro-pro-max-orange-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 17 Proを今すぐ購入すべき理由とは",
-      "summaryJa": "来月に次期モデルの登場が予想される中、今年は新型モデルの価格が大幅に引き上げられるとの見方が強まっています。そのため、大きな機能進化が期待しにくい新型を待つよりも、現在のモデルを今購入する方が賢明であると解説されています。数年前のモデルからの買い替えであれば十分に大きな進化を実感でき、長期的なサポートも受けられます。"
     }
   ],
-  "updatedAt": "2026-08-17T23:32:09.204Z",
+  "updatedAt": "2026-08-17T23:53:46.181Z",
   "initialized": true,
   "summaryVersion": 4
 }
