@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "485d05d00aec101bb41d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Job Listing Suggests Apple Fitness+ Could Get Live Content",
+      "url": "https://www.macrumors.com/2026/08/17/apple-fitness-could-get-live-content/",
+      "publishedAt": "2026-08-17T08:02:07.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/05/apple-fitness-plus-feature-magenta.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Fitness+にライブ配信コンテンツが導入される可能性か",
+      "summaryJa": "Appleが「Fitness+」サービス向けに、ライブ制作の背景を持つスタジオプロデューサーの求人を出していることが分かりました。現在のFitness+は事前収録されたオンデマンドのワークアウト動画を中心に提供していますが、今回の求人ではライブマルチカメラ制作の経験や新しいフォーマットへの挑戦が求められています。サービスの見直しが進む中、今後の展開としてライブ配信機能が追加されるのではないかと注目されています。"
+    },
+    {
       "id": "f88c7afc6fe454ae8434",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "iPhone 18 Proや折りたたみモデルがメモリ不足で品薄になる可能性",
       "summaryJa": "半導体アナリストによると、DRAMの深刻な不足により、今秋登場予定のiPhone 18 Proシリーズや折りたたみ式iPhoneが供給不足に陥る可能性があります。TSMCの2nmプロセスを採用したA20 ProチップはウェハレベルでのDRAM統合が必要ですが、メモリ不足が組立工程の遅延を招いています。AIデータセンター向けメモリの優先によってコンシューマー向けデバイスへの供給が圧迫されており、発売直後は長めの待ち時間や即座の売り切れが懸念されています。"
-    },
-    {
-      "id": "2f1dffc416ab2473ef8f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro price: Here’s how much more it could cost",
-      "url": "https://9to5mac.com/2026/08/06/iphone-18-pro-price-heres-how-much-more-it-could-cost/",
-      "publishedAt": "2026-08-06T23:33:05.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proシリーズは価格が大幅に引き上げられるとの見方",
-      "summaryJa": "次期iPhone 18 Proシリーズは、継続的なRAMやストレージの部品不足に加え、新しい可変絞りカメラシステムや2nmプロセスのA20 Proチップの採用により、価格が上昇する可能性が高いと報じられています。アナリストのジェフ・プー氏によると、前モデルから250ドルから300ドルの値上げとなる見込みです。メモリ市場の高騰や高度な製造コストが価格に影響を与える最大の要因となっています。"
     }
   ],
-  "updatedAt": "2026-08-17T07:11:22.519Z",
+  "updatedAt": "2026-08-17T08:02:25.612Z",
   "initialized": true,
   "summaryVersion": 4
 }
