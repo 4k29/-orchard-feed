@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "7c26330a222f1a265b60",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AirBuddy 3 now available with new Action HUD, widgets, Now Playing, deeper automation, more",
+      "url": "https://9to5mac.com/2026/08/17/airbuddy-3-now-available-with-new-action-hud-widgets-now-playing-deeper-automation-more/",
+      "publishedAt": "2026-08-17T17:00:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airbuddy-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Mac向けユーティリティ「AirBuddy 3」が登場",
+      "summaryJa": "Mac向けの管理アプリ「AirBuddy 3」がリリースされ、150以上の新機能や改善が追加されました。デザインが刷新されたAction HUDや新しいダッシュボード、デスクトップウィジェットに加え、複数のMac間で周辺機器をスムーズに切り替える「Magic Handoff」の信頼性が向上しています。"
+    },
+    {
       "id": "f707d5cf4707080adcc0",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Apple、情報リークを巡る訴訟でジョン・プロッサー氏側の対応遅れを報告",
       "summaryJa": "Appleは、リーク情報発信者のジョン・プロッサー氏を相手取った営業秘密侵害訴訟において、連邦裁判所に証拠開示の手続きが滞っていると報告しました。プロッサー氏側からの連絡が1ヶ月途絶えていたものの、その後第2子の誕生と育児が遅れの原因であったことが弁護士より説明されています。本件は、未発表のiOS機能に関する機密情報にアクセスしたとして、2025年7月に提訴されたものです。"
-    },
-    {
-      "id": "c03b33e1d019e1a0233a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple seems to have abandoned Cinematic mode, and that’s a mistake",
-      "url": "https://9to5mac.com/2026/08/07/apple-seems-to-have-abandoned-cinematic-mode-and-thats-a-mistake/",
-      "publishedAt": "2026-08-07T16:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-seems-to-have-abandoned-Cinematic-mode-and-thats-a-mistake.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleのシネマティックモード、今後の進化に懸念の声",
-      "summaryJa": "iPhone 13で導入されたシネマティックモードは、動画版ポートレートとして注目を集めました。静止画向けのポートレートモードが長年にわたり大幅な進化を遂げたのに対し、シネマティックモードは近年あまりアップデートされていません。Appleがこの機能への関心を失っているように見える点は、将来的な動画撮影機能の発展を考えると大きな損失であると指摘されています。"
     }
   ],
-  "updatedAt": "2026-08-17T16:49:18.305Z",
+  "updatedAt": "2026-08-17T17:16:16.608Z",
   "initialized": true,
   "summaryVersion": 4
 }
