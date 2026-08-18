@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "6b1baad33b6687e5c342",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iCloud, Photos, Find My and More Experiencing Issues",
+      "url": "https://www.macrumors.com/2026/08/18/icloud-photos-find-my-service-issues/",
+      "publishedAt": "2026-08-18T20:56:35.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iCloudや写真など複数のAppleサービスで障害が発生か",
+      "summaryJa": "Appleのシステムステータスぺージによると、iCloudや写真、探す、ゲームセンターなど複数のサービスで一時的な障害が発生していることが確認されました。一部またはすべてのユーザーに影響が出ており、サービスが遅延したり利用できなくなったりしています。Appleは現在、問題の調査と復旧作業を進めています。"
+    },
+    {
+      "id": "607f3c89f840d0f78be4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Find My, iCloud, and several other Apple services are currently down for some users",
+      "url": "https://9to5mac.com/2026/08/18/find-my-icloud-and-several-other-apple-services-are-currently-down-for-some-users/",
+      "publishedAt": "2026-08-18T20:48:38.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "探すやiCloudなど複数のAppleサービスで一時的な障害が発生",
+      "summaryJa": "Appleのシステムステータス情報に基づき、ユーザーや開発者の間で一部のサービスにアクセスできない問題が報告されています。影響を受けているのは探す、ゲームセンター、写真、iCloud関連の各種サービスやiWorkなどで、開発者向けではXcode Cloudでも障害が発生しています。Appleは問題の解決に向けて対応に当たっています。"
+    },
+    {
       "id": "ae18b0ecc0f881346b16",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "Apple、iPadOS 27やwatchOS 27などのベータ5をリリース",
       "summaryJa": "約3週間の待機期間を経て、Appleは開発者向けにiPadOS 27やwatchOS 27などのベータ5を配信開始しました。来月の正式リリースを控え、今後のベータサイクルでは新機能の追加よりも不具合の修正やパフォーマンスの向上がメインになると見られています。通常であれば、数日以内に同様のパブリックベータ版も提供される予定です。"
-    },
-    {
-      "id": "df62c2ec01d95831dac1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases macOS Tahoe 26.6.2 Beta With Security Fixes",
-      "url": "https://www.macrumors.com/2026/08/10/apple-releases-macos-tahoe-26-6-2/",
-      "publishedAt": "2026-08-10T17:27:06.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/06/macOS-Tahoe-26-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、セキュリティ修正を含むmacOS Tahoe 26.6.2ベータを公開",
-      "summaryJa": "Appleは開発者およびパブリックベータテスター向けに、macOS Tahoe 26.6.2のベータ版をリリースしました。このベータ版にはMac向けの重要なセキュリティ修正が含まれています。先週配信されたmacOS 26.6.1では、画面共有機能に関する脆弱性が修正されており、継続してセキュリティの強化が図られています。"
-    },
-    {
-      "id": "d62c5351d584c9f78e93",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "macOS 27 Golden Gate beta 5 now available to developers",
-      "url": "https://9to5mac.com/2026/08/10/macos-27-golden-gate-beta-5-now-available-to-developers/",
-      "publishedAt": "2026-08-10T17:23:49.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macOS-27-b5.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOS 27 Golden Gate ベータ5を開発者向けに配信開始",
-      "summaryJa": "Appleは今年後半の正式リリースに向けて、macOS 27 Golden Gateの開発者向けベータ5を公開しました。今回のビルドでは不具合やパフォーマンスの修正が進められており、新しいSiriアプリやAIを活用したショートカット作成機能などが含まれています。正式版は今年後半に予定されており、開発者はシステム設定からアップデートを適用できます。"
     }
   ],
-  "updatedAt": "2026-08-18T20:34:19.685Z",
+  "updatedAt": "2026-08-18T20:56:56.453Z",
   "initialized": true,
   "summaryVersion": 4
 }
