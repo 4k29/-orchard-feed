@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "f7c52f244c70abf34cf0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Next Apple Watch activity challenge supports national parks",
+      "url": "https://9to5mac.com/2026/08/18/next-apple-watch-activity-challenge-supports-national-parks-2/",
+      "publishedAt": "2026-08-18T19:00:26.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/watch-challenge-parks.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch、国立公園をテーマにした新しいアクティビティチャレンジを開催へ",
+      "summaryJa": "Appleは、8月23日にApple Watchの新しいアクティビティチャレンジ「国立公園チャレンジ」を実施すると予告しています。当日はウォーキングやランニング、車いすなどのワークアウトを20分以上記録することで、仮想のトロフィーやメッセージアプリで使えるアニメーションステッカーが獲得できます。イベントが近づくと、Apple Watchに通知が届く仕組みになっています。"
+    },
+    {
+      "id": "a9be249f16d9071a01d7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Safari 26.6.1 patches multiple WebKit security flaws on macOS Sonoma and Sequoia",
+      "url": "https://9to5mac.com/2026/08/18/safari-26-6-1-patches-multiple-webkit-security-flaws-on-macos-sonoma-and-sequoia/",
+      "publishedAt": "2026-08-18T18:29:25.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/safari-ios26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOS SonomaとSequoia向けにSafari 26.6.1を公開し複数の脆弱性を修正",
+      "summaryJa": "Appleは、macOS SonomaおよびSequoia向けに「Safari 26.6.1」をリリースし、セキュリティの不具合に関する詳細を公開しました。今回のアップデートでは、WebKitに関連する22件の脆弱性が修正されており、悪意あるウェブコンテンツの処理によるメモリ破損などを防ぎます。また、セキュリティの脆弱性発見においてAIツールの役割がますます高まっていることも指摘されています。"
+    },
+    {
       "id": "54ba72d38df5bf327964",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "Apple、開発者向けにvisionOS 27 Beta 5を公開",
       "summaryJa": "AppleはVision Pro向けに「visionOS 27 Beta 5」を開発者向けに公開しました。第4弾ベータのリリースから2週間ぶりの提供となります。今回のベータ版では、AIを活用した新しいSiri機能の導入をはじめ、パノラマ写真の空間環境への変換、湾曲したアプリウインドウによる没入感の向上などが含まれています。"
-    },
-    {
-      "id": "7263f3056c4c4a02ee1b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Max's Larger Battery Capacity Allegedly Revealed",
-      "url": "https://www.macrumors.com/2026/08/10/iphone-18-pro-max-battery-capacity-rumor/",
-      "publishedAt": "2026-08-10T16:37:54.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Pro Maxのバッテリー容量、大幅増量か",
-      "summaryJa": "次期モデルのiPhone 18 Pro Maxではバッテリー容量が約12%増加し、中国向けモデルで5,391mAh、米国向けモデルでは5,567mAhに達する可能性が報じられています。規制データベースの情報や流出した写真から信憑性が高まっており、通常モデルのiPhone 18 Proでは容量の増加がわずかになる見込みです。本体の厚みや仕様の違いが、こうしたバッテリー容量の差に影響していると伝えられています。"
-    },
-    {
-      "id": "3f649cbacd43defcf4d7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s everything new for Apple Maps in iOS 27",
-      "url": "https://9to5mac.com/2026/08/10/heres-everything-new-for-apple-maps-in-ios-27/",
-      "publishedAt": "2026-08-10T16:15:41.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-maps-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27のマップアプリ、新機能の全貌が明らかに",
-      "summaryJa": "iOS 27のマップアプリには、AIを活用して都市の立体画像を詳細に表示するアップグレード版Flyover機能や、米国内向けのLocal Lists機能などが新たに導入されます。おすすめのプレイス機能の拡張や、検索画面におけるトレンドレストランの表示、ルーティング向けの自然言語検索への対応も含まれています。プライバシーに配慮した設計のもとで、日常の探索や店舗探しをより快適にするための多数の細かな改良が加えられています。"
     }
   ],
-  "updatedAt": "2026-08-18T18:20:31.536Z",
+  "updatedAt": "2026-08-18T19:04:51.901Z",
   "initialized": true,
   "summaryVersion": 4
 }
