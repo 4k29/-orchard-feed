@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "6b6d2e551727c4d05e34",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Anthropic says Claude Cowork is now available on mobile for all paid plans",
+      "url": "https://9to5mac.com/2026/08/18/anthropic-says-claude-cowork-is-now-available-on-mobile-for-all-paid-plans/",
+      "publishedAt": "2026-08-18T17:09:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AnthropicのClaude Cowork、全有料プランのモバイル版に対応",
+      "summaryJa": "Anthropicは、Mac向けに提供していた「Claude Cowork」をiPhoneとiPadなどのモバイル端末へ拡大し、すべての有料プランで利用可能になったと発表しました。これにより、ウェブ版やデスクトップ版と同様に、モバイル環境でもAIを活用した高度な協調作業が可能になります。なお、競合となるOpenAIも同様の機能を持つ「ChatGPT Work」を展開しており、各社によるビジネス向けAIツールの提供が加速しています。"
+    },
+    {
+      "id": "3ee0b1cea120ce78890f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27 [U: watchOS 27]",
+      "url": "https://9to5mac.com/2026/08/18/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/",
+      "publishedAt": "2026-08-18T17:07:54.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iOS 27などのパブリックベータ4をリリース",
+      "summaryJa": "Appleは、数週間後に控えた正式リリースへ向けて、iOS 27、iPadOS 27、macOS 27、tvOS 27、およびwatchOS 27のパブリックベータ4を公開しました。これは同日配信された開発者向けベータ6に相当するビルドで、各種のバグ修正やパフォーマンス改善が行われています。macOS 27のベータ版では新しい壁紙が追加されたほか、ウィンドウコントロールのデザイン調整なども含まれています。"
+    },
+    {
+      "id": "3a763608344ab0b94da7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27 Golden Gate makes one design decision that I would change for MacBooks",
+      "url": "https://9to5mac.com/2026/08/18/macos-27-golden-gate-makes-one-design-decision-that-i-would-change-for-macbooks/",
+      "publishedAt": "2026-08-18T16:56:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "macOS 27のバッテリー残量表示のデザインに改善求める声",
+      "summaryJa": "間もなくリリースされるmacOS 27 Golden Gateにおいて、バッテリー残量のパーセンテージ表示がアイコンの内部に収まるデザインへ変更されました。iPhoneの表示形式に合わせたものとみられますが、Macの広い画面では視認性が低下しているとの指摘が出ています。ユーザーからは、以前のように一目で残量が分かりやすい表示への見直しを望む意見が寄せられています。"
+    },
+    {
       "id": "e5d8c48ca9426b177e6a",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4459,55 +4504,9 @@
       ],
       "titleJa": "Meta、iPhone向けの新アプリをリリース",
       "summaryJa": "Metaは、Facebookクリエイター向けのAI駆動型デイリーコンパニオンアプリとなる「Facebook Creator Studio」をiPhone向けにリリースしました。このアプリは、カスタマイズ可能なフィードやリール、Meta AIへの組み込みアクセスなどを通じて、興味関心の探索やコミュニティとのつながりを容易にすることを目的としています。"
-    },
-    {
-      "id": "67d2cecbf67b5dfd91c8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: M5 MacBook Pro $300 off, AirPods Pro 3, Apple Sport Bands, Anker 3-in-1 Qi2 25W MagSafe charger, more",
-      "url": "https://9to5mac.com/2026/08/10/deals-m5-macbook-pro-airpods-pro-3-sport-band-charger/",
-      "publishedAt": "2026-08-10T15:30:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-MacBook-Pro-AirPods-chargers.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple製品のお得なセール情報が多数登場",
-      "summaryJa": "公式整備済ストアでのM5 MacBook Proの300ドル引きセールや、AmazonでのAirPods Pro 3の大幅割引など、複数のApple製品でお得なセール情報が報じられています。さらに、Apple Watch Series 11やAnker製のMagSafe対応充電ステーションなども割引価格の対象となっています。"
-    },
-    {
-      "id": "567667e2e9031d2c45bb",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "AppleとMLB、「フライデーナイト ベースボール」の9月のスケジュールを発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
-      "publishedAt": "2026-08-10T15:00:22.785Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、MLB「フライデーナイト ベースボール」の9月スケジュールとVision Pro向け没入型配信を発表",
-      "summaryJa": "AppleとMLBは、「フライデーナイト ベースボール」の9月の配信スケジュールを発表しました。さらに、Apple Vision Pro向けの「Apple Immersive」を活用したライブ中継が8月29日のレッドソックス対ヤンキース戦から開始されることも明らかになりました。8K解像度と180度の視野角を持つ3Dビデオにより、ファンはこれまでにない臨場感あふれるスタジアム体験を楽しめます。"
-    },
-    {
-      "id": "703451e1d66efa6a337a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple announces live Immersive Video MLB games for Vision Pro",
-      "url": "https://9to5mac.com/2026/08/10/apple-immersive-live-video-mlb-game-schedule/",
-      "publishedAt": "2026-08-10T15:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Friday-Night-Baseball-live-in-Apple-Immersive-16x9-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、Apple Vision Pro向け「Apple Immersive Video」でMLBのライブ中継を実施",
-      "summaryJa": "Appleは、Apple Vision Pro向けの「Apple Immersive Video」として、「フライデーナイト ベースボール」のライブ中継を複数試合配信すると発表しました。今年はNBAの試合中継に続き、MLBの試合も没入感のある特別なアングルや専用の解説付きで視聴可能になります。対象となる試合はApple TVアプリを通じてライブ配信され、終了後にはオンデマンドでも視聴できるようになります。"
     }
   ],
-  "updatedAt": "2026-08-18T16:50:46.294Z",
+  "updatedAt": "2026-08-18T17:18:10.326Z",
   "initialized": true,
   "summaryVersion": 4
 }
