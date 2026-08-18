@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "54ba72d38df5bf327964",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Camera AirPods May Launch as 'AirPods Pro,' Not 'AirPods Ultra'",
+      "url": "https://www.macrumors.com/2026/08/18/camera-airpods-naming/",
+      "publishedAt": "2026-08-18T18:01:46.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/airpods-pro-3-prime-day.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "カメラ搭載AirPodsはAirPods Proとして登場か",
+      "summaryJa": "Appleが開発を進めているカメラを搭載した新型AirPodsは、新ブランドの「AirPods Ultra」ではなく「AirPods Pro」のラインナップとして発売される可能性が高いと報じられています。macOS Tahoeのファイル内で新モデルを示す表記が見つかったほか、複数の内部コードネームの存在も噂されています。今後の正式発表や価格設定などに注目が集まっています。"
+    },
+    {
+      "id": "5899091bd5da194ff909",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "tvOS 27 to add Siri AI for Apple TV 4K, per new leak",
+      "url": "https://9to5mac.com/2026/08/18/tvos-27-to-add-siri-ai-for-apple-tv-4k-per-new-leak/",
+      "publishedAt": "2026-08-18T17:56:49.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai-apple-tv-4k-tvos-27-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "tvOS 27でApple TV 4KにSiri AIが追加される可能性",
+      "summaryJa": "6月に多くのAppleプラットフォーム向けに発表されたもののApple TVやHomePodでは見送られていたSiri AIですが、新しいtvOS 27のベータ版関連のコードから対応を示唆する手がかりが見つかりました。開発者向けのシミュレーターモード内アプリリストにSiri AIの内部コード名に関連する文字列が追加されています。これにより、次期OSでApple TVにも統合されたSiri体験が提供されると期待されています。"
+    },
+    {
       "id": "d2967324f9e5db0f39c1",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "iOS 27のマップアプリ、新機能の全貌が明らかに",
       "summaryJa": "iOS 27のマップアプリには、AIを活用して都市の立体画像を詳細に表示するアップグレード版Flyover機能や、米国内向けのLocal Lists機能などが新たに導入されます。おすすめのプレイス機能の拡張や、検索画面におけるトレンドレストランの表示、ルーティング向けの自然言語検索への対応も含まれています。プライバシーに配慮した設計のもとで、日常の探索や店舗探しをより快適にするための多数の細かな改良が加えられています。"
-    },
-    {
-      "id": "917ad1c68813cfce4dbb",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's All-Glass 20th Anniversary iPhone Reportedly Canceled",
-      "url": "https://www.macrumors.com/2026/08/10/all-glass-20th-anniversary-iphone-canceled/",
-      "publishedAt": "2026-08-10T16:14:52.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、20周年記念の全ガラス製iPhone開発を中止か",
-      "summaryJa": "Appleが20周年記念モデルとして2027年の発売に向けて開発を進めていたと噂される、全面ガラス製の革新的なiPhone計画が中止されたと報じられています。アナリストの調査によると、製造時の歩留まりが改善しなかったことが主な原因とされており、サプライチェーンの確認からプロジェクトの断念が判明しました。この計画中止により、高価格帯モデルの展開や今後の価格戦略に少なからず影響が及ぶ可能性があると指摘されています。"
-    },
-    {
-      "id": "42c6f78fc394f5805f66",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Announces 3D MLB Games Coming to Vision Pro",
-      "url": "https://www.macrumors.com/2026/08/10/apple-announces-3d-mlb-games-on-vision-pro/",
-      "publishedAt": "2026-08-10T16:01:01.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Apple-Friday-Night-Baseball-2026.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、Vision Pro向けに3D MLB中継を提供",
-      "summaryJa": "Appleは、Apple TVの「Friday Night Baseball」において、Vision Pro向けに8K解像度と180度の視野角を持つApple Immersiveフォーマットでのライブ配信を開始すると発表しました。ユーザーは没入感のある3D映像で試合観戦を楽しめるほか、選手データや空間オーディオに対応したスタジアムビュー機能も利用可能です。"
     }
   ],
-  "updatedAt": "2026-08-18T17:50:00.266Z",
+  "updatedAt": "2026-08-18T18:20:31.536Z",
   "initialized": true,
   "summaryVersion": 4
 }
