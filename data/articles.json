@@ -1,6 +1,52 @@
 {
   "articles": [
     {
+      "id": "edf535e5acef5dba2516",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、EU域内でのアプリに対する変更を発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "publishedAt": "2026-08-18T16:01:53.232Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、EU域内のアプリ向け取引条件の大幅変更を公表",
+      "summaryJa": "Appleは欧州委員会との協働を経て、EU域内におけるアプリの取引条件や手数料モデルの変更を発表しました。従来のインストールごとにかかるコアテクノロジーフィーを廃止し、ストア外の取引に対して一律5パーセントのコアテクノロジー手数料を導入します。また、代替決済とAppleのアプリ内購入の併用を可能にするなど、10月1日からの新条件適用に向けてデベロッパの選択肢を広げます。"
+    },
+    {
+      "id": "9b8c5c0d9e2c6ca8e239",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "publishedAt": "2026-08-18T15:59:46.948Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple、EUでのアプリ配信に関する新しい取引条件を発表",
+      "summaryJa": "Appleは欧州委員会との緊密な協議のもと、EU域内におけるアプリビジネスの規約と手数料体系の改定を発表しました。開発者が共通のシンプルな取引条件を利用できるようになり、新規ユーザーの獲得手数料などが撤廃されます。新しい条件は即座に署名が可能で、10月1日より正式に施行される予定となっています。"
+    },
+    {
+      "id": "11ac3088124d745687fb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Security Bite: Apple’s camera AirPods are going to make Meta glasses look reckless",
+      "url": "https://9to5mac.com/2026/08/18/security-bite-apples-camera-airpods-are-going-to-make-meta-glasses-look-reckless/",
+      "publishedAt": "2026-08-18T15:55:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "次期AirPodsにカメラ搭載か、macOSのコードから明らかに",
+      "summaryJa": "最新のmacOSのリリース候補版から、ビジュアルインテリジェンスに対応するカメラ搭載AirPodsの存在を示唆する動画が見つかったと報じられています。Siriを通じて周囲の状況を分析し保存する機能が備わるとみられ、プライバシーを巡る議論が続くスマートグラス製品の動向とともに注目を集めています。"
+    },
+    {
       "id": "6909295c2226e77a9f77",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -74,6 +120,38 @@
       ],
       "titleJa": "OpenAI、未成年向けChatGPTモードを発表",
       "summaryJa": "OpenAIは、保護者による管理機能や学習向け機能を備えた未成年向けの「ChatGPT for Teens」を発表しました。批判的思考力を育み、安全にAIを活用できるよう設計されており、学習用プロンプトや休憩を促す機能などが組み込まれています。対象となる18歳未満のアカウントに自動適用され、8月18日より世界的に順次展開される予定です。"
+    },
+    {
+      "id": "22ce6f2c72071b7afbf8",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Changes for apps in the European Union",
+      "url": "https://developer.apple.com/news/?id=gmws0jgp",
+      "publishedAt": "2026-08-18T15:00:38.000Z",
+      "imageUrl": null,
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "Apple、EU域内におけるアプリのビジネス規約改定を実施",
+      "summaryJa": "Appleは欧州委員会との合意に基づき、EU域内でアプリを配信する開発者向けの取引条件を改定すると発表しました。従来の複雑な料金体系を整理し、ストア外でのデジタル取引に対する一律5パーセントの手数料などを新たに導入します。デベロッパプログラムのメンバーは新しい規約を確認し同意することが可能で、10月1日の施行に向けて準備が進められています。"
+    },
+    {
+      "id": "be9bb3162e241ee7a6c6",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Updated Apple Developer Program License Agreement now available",
+      "url": "https://developer.apple.com/news/?id=0cgo95n6",
+      "publishedAt": "2026-08-18T15:00:32.000Z",
+      "imageUrl": null,
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "Apple Developerプログラム利用規約が更新",
+      "summaryJa": "Apple Developerプログラムの利用規約が更新され、欧州連合におけるアプリの代替配信や代替決済、ビジネス条件に関する改定内容が追加されました。これらの新しい条件は2026年10月1日から発効する予定です。開発者はアカウントにサインインして変更内容を確認し、同意する必要があります。翻訳版も1ヶ月以内に公開されます。"
     },
     {
       "id": "bcda3161025dc815f1a3",
@@ -4427,84 +4505,9 @@
       ],
       "titleJa": "次世代の全面ガラス製iPhoneデザイン、開発中止の可能性との報道",
       "summaryJa": "Jefferiesのアナリストによると、Appleが計画していたとされる全面ガラス製のiPhoneの20周年記念モデルの開発が中止された可能性があると報じられています。サプライチェーンの調査では、歩留まりの低さが主な中止の理由とされています。もし実現していれば高価格帯モデルの牽引役となるはずでしたが、部品コストの上昇なども影響している模様です。"
-    },
-    {
-      "id": "556684cc521dafb253a2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Leaker Weighs in on Correct Shade for 'Dark Cherry' iPhone 18 Pro",
-      "url": "https://www.macrumors.com/2026/08/10/correct-iphone-18-pro-dark-cherry-shade/",
-      "publishedAt": "2026-08-10T14:49:10.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの噂の新色「ダークチェリー」の色味についてリーク情報が言及",
-      "summaryJa": "Weiboのリーク情報によると、iPhone 18 ProおよびPro Maxで噂されている新色「ダークチェリー」について、オンライン上の2つのモックアップのうちより深い色合いが正確であると伝えられています。ブルームバーグのマーク・ガーマン記者や複数の情報源もこの深みのある赤系カラーの登場を報じており、来月の発表に向けて注目が集まっています。"
-    },
-    {
-      "id": "91cc7260fc305aeba89e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Foldable iPhone Ultra Faces a Surging Samsung Galaxy Z Fold 8",
-      "url": "https://www.macrumors.com/2026/08/10/foldable-iphone-faces-surging-galaxy-z-fold-8/",
-      "publishedAt": "2026-08-10T14:41:31.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/samsung-galaxy-zfold8.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみ式iPhone Ultra、好調なサムスン製新型機と競合か",
-      "summaryJa": "9月に登場が予想されるAppleの折りたたみ式iPhoneは、好調な販売を記録しているサムスンの「Galaxy Z Fold 8」と競合することになると報じられています。サムスン製ディスプレイを採用し、同様の本の形のようなフォームファクターとアスペクト比になると噂されていますが、市場での競争が注目されています。"
-    },
-    {
-      "id": "b8ad21d5869c0131a0a9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro’s flagship new color detailed by leaker",
-      "url": "https://9to5mac.com/2026/08/10/iphone-18-pros-flagship-new-color-detailed-by-leaker/",
-      "publishedAt": "2026-08-10T14:04:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proのフラッグシップ新色に関する新たなリーク詳細",
-      "summaryJa": "昨年のiPhone 17 Proにおけるコスミックオレンジに続き、今年のiPhone 18 Proでは新しいバーガンディ系カラーが主力になると噂されています。Weiboのリーク情報では、オンラインで出回っている明るめの赤ではなく、チェリーのような紫がかった深い色合いが正確であると伝えられています。Appleは来月に新型モデルを発表すると見られており、新色の詳細に期待が高まっています。"
-    },
-    {
-      "id": "00b4e04d1b5b04967d87",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Get an Apple Watch SE 3 for Just $219 on Amazon",
-      "url": "https://www.macrumors.com/2026/08/10/get-an-apple-watch-se-3/",
-      "publishedAt": "2026-08-10T14:01:18.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/11/apple-watch-se-3-mint.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AmazonでApple Watch SE 3が30ドル引きのセールを実施中",
-      "summaryJa": "米Amazonにて、Apple Watch SE 3の40mm GPSモデルが30ドル引きの219ドルからで販売されています。また、44mm GPSモデルも同様に30ドル引きの249.00ドルで購入可能となっており、ミッドナイトやスターライトのアルミニウムケースが対象です。しばらく過去最安値圏から離れていたため、購入を検討していた人にとって良い機会となっています。"
-    },
-    {
-      "id": "7ef0d09f74a58a9c8c05",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple has eight new products to unveil at September event: report",
-      "url": "https://9to5mac.com/2026/08/10/apple-has-eight-new-products-to-unveil-at-september-event-report/",
-      "publishedAt": "2026-08-10T13:38:54.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/john-ternus-apple-park.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、9月のイベントで8つの新製品を発表か",
-      "summaryJa": "ブルームバーグのマーク・ガーマン記者がニュースレターで、9月のイベントで発表される可能性のある8つの新製品を伝えています。折りたたみ式iPhoneや新しいiPhone 18 Proシリーズ、Apple Watch Series 12などが登場する見通しです。また、新型Apple TVやHomePod mini、スマートホームハブなどの関連製品も秋以降に展開されると報じられています。"
     }
   ],
-  "updatedAt": "2026-08-18T15:43:41.317Z",
+  "updatedAt": "2026-08-18T16:12:42.667Z",
   "initialized": true,
   "summaryVersion": 4
 }
