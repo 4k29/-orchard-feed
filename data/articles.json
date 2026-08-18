@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "f5c1b089036ff0344e7a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple: DOJ’s latest challenge in antitrust case ‘fails at every level’",
+      "url": "https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/",
+      "publishedAt": "2026-08-18T00:56:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/tim-cook-apple-park-sep25.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、司法省による独占禁止法訴訟の最新の申し立てを批判",
+      "summaryJa": "Appleは、連邦政府機関からの資料開求を認めた裁判所の決定を覆そうとする米国司法省の動きに強く反発しています。同社は、政府がプライバシー機能のために自社製品を選んだことを示せば、反競争的ではない正当な理由を証明できると主張しています。これに対し司法省は、担当判事が誤った法的基準を適用したとして再検討を求めており、両者の攻防が続いています。"
+    },
+    {
       "id": "b91e3d570fde8495be14",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "高い安定性を実現したiOS 27ベータ版",
       "summaryJa": "現在テスト中のiOS 27ベータ版は、過去のバージョンと比較して非常に優れた安定性を発揮していると報じられています。バッテリーの急激な消耗や発熱、予期せぬクラッシュなどの問題がほとんど発生せず、SiriのAI機能やAirPodsのEQ機能などの新機能が快適に利用できると高く評価されています。"
-    },
-    {
-      "id": "ca7c79503e1d888a3869",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Indie App Spotlight: ‘Pocket Jam’ helps you learn and practice your favorite songs",
-      "url": "https://9to5mac.com/2026/08/08/indie-app-spotlight-pocket-jam-helps-you-learn-and-practice-your-favorite-songs/",
-      "publishedAt": "2026-08-08T19:30:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Pocket-Jam.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "楽曲の練習に便利な音楽アプリ「Pocket Jam」",
-      "summaryJa": "お気に入りの楽曲を練習ツールに変えるアプリ「Pocket Jam」のバージョン5.0が公開されました。再生速度の変更やピッチ調整、ループ再生機能に加えて、波形表示のデザイン刷新やテンポトレーナーなどが追加されています。iPhoneやiPad、Macに対応し、App Storeから無料でダウンロード可能です。"
     }
   ],
-  "updatedAt": "2026-08-17T23:53:46.181Z",
+  "updatedAt": "2026-08-18T01:06:37.504Z",
   "initialized": true,
   "summaryVersion": 4
 }
