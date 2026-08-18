@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "5f752abde32dcd0a331e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AirPods with cameras get their clearest leak yet",
+      "url": "https://9to5mac.com/2026/08/17/airpods-with-camera-get-their-clearest-leak-yet/",
+      "publishedAt": "2026-08-18T01:48:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-sound-vibrations.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "カメラ搭載AirPodsの動く姿か、macOS候補版から動画が発見",
+      "summaryJa": "macOSの最新リリース候補版から、カメラを搭載すると噂される次期AirPodsのデモ動画が発見されました。映像ではSiriのビジュアルインテリジェンス機能と連携する様子が確認されており、コードネーム「B790」として開発が進められている模様です。早ければ来月のiPhone向けイベントでの発表が期待されています。"
+    },
+    {
+      "id": "84614cfcab737d865c7c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Camera-Equipped AirPods Confirmed: See Them in Action",
+      "url": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
+      "publishedAt": "2026-08-18T01:21:26.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-camera-airpods.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "カメラ搭載AirPodsのデモ映像が流出、ビジュアルインテリジェンス対応か",
+      "summaryJa": "macOSのリリース候補版コード内から、カメラを内蔵した新型AirPodsの動作を示す短い動画が見つかりました。着用者が見た本をSiriが認識して保存する機能などが紹介されており、周囲の環境情報を把握するビジュアルインテリジェンスに活用されます。Bloombergの報道によると、早ければ9月のイベントでの発表も噂されています。"
+    },
+    {
       "id": "f5c1b089036ff0344e7a",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "折りたたみ式iPhone Ultraのカラーはシルバーとダークブルーか",
       "summaryJa": "リークされたサードパーティ製カメラ保護アクセサリーから、Apple初の折りたたみ式iPhoneであるiPhone Ultraにはシルバーとダークブルーの2色が用意されると報じられています。これまでのサプライチェーンからの情報とも一致しており、背面には2つのレンズやLiDARスキャナを搭載したデザインが採用される見込みです。"
-    },
-    {
-      "id": "202e1e23507be2330c01",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New leak may reveal the iPhone Ultra’s two launch colors",
-      "url": "https://9to5mac.com/2026/08/08/iphone-ultra-colors-leak-rumor/",
-      "publishedAt": "2026-08-09T00:41:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.02.22.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "折りたたみiPhone Ultraの本体色はシルバーとダークブルーか",
-      "summaryJa": "次期折りたたみ式iPhoneと噂されるモデルの本体カラーについて、新たなリーク情報が報じられています。サプライチェーンの情報を元にしたアクセサリーパーツから、シルバーと非常に濃いダークブルーの2色展開になる可能性があると伝えられています。正式な発表に向けて、今後の動向に引き続き注目が集まっています。"
-    },
-    {
-      "id": "44c81689126a128bf8b2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27: The easiest beta to forget about",
-      "url": "https://9to5mac.com/2026/08/08/ios-27-the-easiest-beta-to-forget-about/",
-      "publishedAt": "2026-08-08T21:23:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-light-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "高い安定性を実現したiOS 27ベータ版",
-      "summaryJa": "現在テスト中のiOS 27ベータ版は、過去のバージョンと比較して非常に優れた安定性を発揮していると報じられています。バッテリーの急激な消耗や発熱、予期せぬクラッシュなどの問題がほとんど発生せず、SiriのAI機能やAirPodsのEQ機能などの新機能が快適に利用できると高く評価されています。"
     }
   ],
-  "updatedAt": "2026-08-18T01:06:37.504Z",
+  "updatedAt": "2026-08-18T02:30:13.583Z",
   "initialized": true,
   "summaryVersion": 4
 }
