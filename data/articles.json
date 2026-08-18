@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "d9b988beeb6c61ef309c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Wallet driver’s licenses coming to these states next",
+      "url": "https://9to5mac.com/2026/08/18/apple-wallet-drivers-licenses-states-coming-soon/",
+      "publishedAt": "2026-08-18T20:57:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2022/11/colorado-dl.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleウォレットの身分証明書対応、今後の導入予定州が判明",
+      "summaryJa": "iPhoneのAppleウォレットに運転免許証や身分証明書を追加できる機能について、新たに導入を進めている州のリストが明らかになりました。現在までに14の州とプエルトリコで利用可能となっていますが、ケンタッキー州やノースカロライナ州など複数の州が今後の対応を予定または検討しています。米国全体での普及は州ごとに進捗が異なり、段階的な拡大となっています。"
+    },
+    {
       "id": "6b1baad33b6687e5c342",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "Apple、macOS Golden Gate ベータ5を開発者向けに公開",
       "summaryJa": "Appleは開発者向けに「macOS Golden Gate」のベータ5をリリースしました。このアップデートには、透過度の調整機能やウィンドウの視認性向上といったデザインの改善が含まれています。また、チャットスタイルに一新されたSiri AIや、画面上の内容を認識するビジュアルインテリジェンス、写真アプリのAI編集機能など多くの新機能が導入されています。"
-    },
-    {
-      "id": "efe89c3c1061b432331a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases beta 5 for iPadOS 27, watchOS 27, and more",
-      "url": "https://9to5mac.com/2026/08/10/apple-releases-beta-5-for-ipados-27-watchos-27-and-more/",
-      "publishedAt": "2026-08-10T17:27:26.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iPadOS-27-b5.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPadOS 27やwatchOS 27などのベータ5をリリース",
-      "summaryJa": "約3週間の待機期間を経て、Appleは開発者向けにiPadOS 27やwatchOS 27などのベータ5を配信開始しました。来月の正式リリースを控え、今後のベータサイクルでは新機能の追加よりも不具合の修正やパフォーマンスの向上がメインになると見られています。通常であれば、数日以内に同様のパブリックベータ版も提供される予定です。"
     }
   ],
-  "updatedAt": "2026-08-18T20:56:56.453Z",
+  "updatedAt": "2026-08-18T21:33:17.338Z",
   "initialized": true,
   "summaryVersion": 4
 }
