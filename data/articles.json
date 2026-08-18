@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "9443fa2197ddec12a9cd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple admits it may not make any commission from alternative app stores",
+      "url": "https://9to5mac.com/2026/08/18/apple-admits-it-may-not-make-any-commission-from-alternative-app-stores/",
+      "publishedAt": "2026-08-18T11:30:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-admits-it-may-not-make-any-commission-from-alternative-app-stores.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、代替アプリストアからの手数料を一切得られない可能性を認める",
+      "summaryJa": "Appleが規制当局への新たな提出書類の中で、サードパーティのアプリストア経由で行われる販売から手数料を全く得られない可能性があると認めたことが分かりました。世界中の反トラスト法による規制や裁判所命令を受け、同社は手数料を引き下げる提案を行ってきました。外部決済プラットフォームの導入や報酬体系の見直しが進む中、今後の収益モデルに影響が出る可能性があります。"
+    },
+    {
+      "id": "94deaeb1203e84ed3979",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Sonos iPhone App Finally Gains Live Activities Support",
+      "url": "https://www.macrumors.com/2026/08/18/sonos-iphone-app-live-activities-support/",
+      "publishedAt": "2026-08-18T11:08:56.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/sonos-live-activity.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "SonosのiPhoneアプリ、ロック画面からの操作に対応する「Live Activities」を追加",
+      "summaryJa": "SonosがiOSアプリをアップデートし、ライブアクティビティ機能に対応しました。これにより、ロック画面から直接再生中のオーディオコントロールや音量調整、曲のスキップなどの操作が可能になります。アプリを直接起動していなくても、対応サービスやBluetooth経由で再生を開始した際に同様のコントローラーが表示され、利便性が向上しています。"
+    },
+    {
+      "id": "8430f2a9dfd28bae995c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Two camera features may be unique to the iPhone 18 Pro Max, suggests leaker",
+      "url": "https://9to5mac.com/2026/08/18/two-camera-features-may-be-unique-to-the-iphone-18-pro-max-suggests-leaker/",
+      "publishedAt": "2026-08-18T11:04:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-pro-max-mockup-di.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro Maxには専用のカメラ機能が搭載されるとの噂",
+      "summaryJa": "次期iPhoneの上位モデルに関する新たなリーク情報から、これまで両方のProモデルに共通するとみられていた2つのカメラ機能が、大型のPro Maxモデルの専用機能になる可能性があると報じられています。具体的には光学ズーム性能や高度なレンズ技術に違いが出るとしていますが、情報源の間では見方が分かれており、今後の動向が注目されます。"
+    },
+    {
       "id": "4d5ec0f857e78fe07f34",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4457,54 +4502,9 @@
       ],
       "titleJa": "折りたたみ式iPhone、第3世代で画面拡大か",
       "summaryJa": "Bloombergのマーク・ガーマン記者が報じたところによると、Appleは早ければ2028年の発売に向けて、第3世代となる折りたたみ式iPhoneの開発ロードマップを進めているという。第3世代モデルでは、先行するモデルに比べて内側および外側のディスプレイがわずかに大型化される見込みである。最初の折りたたみ式モデルは今年中に登場すると噂されており、ウルトラ薄型デザインの採用やTouch IDの搭載などが報じられているが、早くも将来の世代に向けた計画が動き出している。"
-    },
-    {
-      "id": "df3dcf648b59252ba1e4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Rethink Could See Debut of Round Model, Screenless Fitness Tracker, and More",
-      "url": "https://www.macrumors.com/2026/08/09/apple-watch-rethink/",
-      "publishedAt": "2026-08-09T15:37:23.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/06/Apple-Watch-Ultra-2-Complications.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watchの大規模な刷新を計画か、丸形モデルや画面非搭載トラッカーなどの可能性",
-      "summaryJa": "Appleは競争の激化に対応するため、Apple Watchの製品ラインナップの大幅な再設計を検討していると報じられています。丸形ディスプレイを採用したモデルや、スマートリングのように画面を搭載しないフィットネストラッカーなど、複数の新しいデザイン案が浮上しています。また、AI機能の強化やヘルスケアアプリの刷新も視野に入れ、ウェアラブル事業全体の再活性化を図る方針です。"
-    },
-    {
-      "id": "103a43e4a8a4fd8822d8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "A new ceramic Apple Watch could go on sale soon",
-      "url": "https://9to5mac.com/2026/08/09/a-new-ceramic-apple-watch-could-go-on-sale-soon/",
-      "publishedAt": "2026-08-09T14:34:41.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/08/Ceramic.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "セラミック製Apple Watchが復活するか",
-      "summaryJa": "Appleが人気を集めたセラミック製のApple Watchを再投入する計画を進めていると報じられています。早ければ今年中にも発売される可能性があり、アルミニウムやチタニウムに続く高級素材の選択肢として復活するとみられています。セラミック素材は2019年のSeries 5を最後にラインナップから姿を消していました。"
-    },
-    {
-      "id": "a2f061e54f79e90257a4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple considers round screens and more radical designs for future Apple Watch revamp",
-      "url": "https://9to5mac.com/2026/08/09/apple-watch-revamp-redesign-round-screen/",
-      "publishedAt": "2026-08-09T14:20:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-lineup.jpg?quality=82&#038;strip=all&#038;w=1456",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "将来のApple Watchで丸型ディスプレイや根本的なデザイン刷新を検討か",
-      "summaryJa": "Appleが将来のApple Watchに向けて、丸型の円形ディスプレイや画面を持たないフィットネス機器など、根本的なデザインの刷新を検討していると報じられています。スマートリングなどの競合製品の台頭を受け、低価格帯から高価格帯まで幅広い可能性を模索している段階です。ただし、計画は初期段階であり、実際に市場に登場するにはまだ数年かかる見込みです。"
     }
   ],
-  "updatedAt": "2026-08-18T11:03:11.968Z",
+  "updatedAt": "2026-08-18T11:36:02.386Z",
   "initialized": true,
   "summaryVersion": 4
 }
