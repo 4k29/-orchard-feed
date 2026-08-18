@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d379666afe314adc9af4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Home Hub Will Have a Widget Gallery With iPhone Widget Support",
+      "url": "https://www.macrumors.com/2026/08/18/apple-home-hub-widget-gallery/",
+      "publishedAt": "2026-08-18T19:56:49.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/11/Apple-AI-Command-Center-Concept-Mock-3.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AppleのホームハブはiPhoneウィジェット対応か",
+      "summaryJa": "Appleが開発中とされる新型ホームハブには、iPhoneのウィジェット機能に対応した「ウィジェットギャラリー」が搭載される見込みです。関連コードから、連携したiPhoneのウィジェットが提案・表示される仕組みや、スマートスタックへの対応、主要なApple製アプリのサポートなどが明らかになっています。"
+    },
+    {
+      "id": "2bcc9dacea16aefa6504",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s everything new for Apple Calendar in iOS 27",
+      "url": "https://9to5mac.com/2026/08/18/heres-everything-new-for-apple-calendar-in-ios-27/",
+      "publishedAt": "2026-08-18T19:37:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27におけるAppleカレンダーの新機能",
+      "summaryJa": "iOS 27のカレンダーアプリでは、Apple Intelligenceを活用した自然言語によるイベントおよびリモート入力機能「スマートイベント詳細」が追加されます。さらに、イベント詳細や作成画面のデザイン刷新に加え、iCloudカレンダーでの予定の空き・忙しい状態の表示設定が新たにサポートされます。"
+    },
+    {
       "id": "cbbb668b892e6cf3ba05",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "Apple、開発者向けにiOS 27とiPadOS 27のベータ5を公開",
       "summaryJa": "Appleはテスト目的で、iOS 27およびiPadOS 27の第5弾となる開発者向けベータ版をリリースしました。今回のアップデートでは、AIを活用した新しいSiri機能や、写真、Safari、ショートカットなどのアプリにおけるApple Intelligenceの改善が行われています。また、システム全体のパフォーマンス向上により、動作速度や接続の安定性が高められています。"
-    },
-    {
-      "id": "3013a4ed570e4c91f9c3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 beta 5 now available as Apple tests major Siri AI upgrade",
-      "url": "https://9to5mac.com/2026/08/10/ios-27-beta-5/",
-      "publishedAt": "2026-08-10T17:19:23.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-27-b5.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、大規模なSiri AI強化に向けiOS 27ベータ5を開発者向けに配信",
-      "summaryJa": "Appleは来月の一般公開に向けて、開発者向けにiOS 27ベータ5の配信を開始しました。今作の最大の特徴は次世代のApple Intelligenceを基盤とする「Siri AI」の大幅な刷新であり、より自然な会話や個人コンテキストの理解が可能になっています。登録済みの開発者は設定アプリからベータ版をインストールして新機能を試すことができます。"
-    },
-    {
-      "id": "10f0ff938a75b2140455",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds watchOS 27 Beta 5 to Developers",
-      "url": "https://www.macrumors.com/2026/08/10/apple-seeds-watchos-27-beta-5-to-developers/",
-      "publishedAt": "2026-08-10T17:10:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、開発者向けにwatchOS 27 Beta 5を配信開始",
-      "summaryJa": "Appleは開発者に向けて「watchOS 27 Beta 5」を配信開始しました。第4弾ベータ版のリリースから2週間ぶりのアップデートとなります。対応するApple Watchでダウンロード可能となっており、Siri AIの機能強化や新しい文字盤グリッド、バッテリー駆動時間の改善などが行われています。"
     }
   ],
-  "updatedAt": "2026-08-18T19:36:42.823Z",
+  "updatedAt": "2026-08-18T19:58:29.050Z",
   "initialized": true,
   "summaryVersion": 4
 }
