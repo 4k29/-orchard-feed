@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "7a8939dc64b8c65918bc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirTag 2 Drops to Low Price of $89 for 4-Pack",
+      "url": "https://www.macrumors.com/2026/08/18/airtag-2-89-for-4-pack/",
+      "publishedAt": "2026-08-18T12:47:31.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Second-Generation-AirTag-Feature-Purple.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirTag 2の4個パックがAmazonで過去最安値の89ドルに値下げ",
+      "summaryJa": "Amazonにて、AirTag 2の4個パックが通常の99ドルから89ドルへと値下げされ、過去最安値と同水準で販売されています。また、1個パックも29ドルから24ドルに値下がりしています。AirTag 2には第2世代の超広帯域無線チップが搭載されており、前モデルよりも最大50%遠くから正確な探す機能を利用できます。"
+    },
+    {
+      "id": "4cec43fcb141c00e4bf7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "The eight changes Apple is making to App Tracking Transparency in Europe",
+      "url": "https://9to5mac.com/2026/08/18/the-eight-changes-apple-is-making-to-app-tracking-transparency-in-europe/",
+      "publishedAt": "2026-08-18T12:38:49.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-security-liquid-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、EUでの規制調査を受けアプリのトラッキング透明化の表示を変更へ",
+      "summaryJa": "ドイツの独占禁止規制当局による調査を受け、AppleはEUにおけるアプリのトラッキング透明化（ATT）のルールに関する変更に同意したと報じられています。今回の対応により、プロンプトから「トラッキング」という言葉を削除することや、選択ボタンの文言を「許可」と「拒否」に変更するなど、合計8つの変更が実施される見込みです。"
+    },
+    {
       "id": "a1b1f916a5b2379db71c",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "Apple Homeの自動化に「Eve Weather」センサーが欠かせない理由",
       "summaryJa": "Apple Homeのオートメーションにおいて、現地の正確な気象データは非常に重要な役割を果たします。Matterに対応したEve Weatherセンサーは、温度や湿度、気圧を1台で測定可能であり、プライバシーを重視するローカル制御に対応しています。公式アプリの天気予報とは異なる地域固有の数値を取得できるため、配管の凍結防止や散水システムの調整などに大変役立つと紹介されています。"
-    },
-    {
-      "id": "9f82d0fc497b1703c326",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Will price hikes force Apple to stop dragging its feet on certain product upgrades?",
-      "url": "https://9to5mac.com/2026/08/09/apple-price-hikes-better-value-and-more-features/",
-      "publishedAt": "2026-08-09T18:26:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-devices-lineup-liquid-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "世界的なメモリ危機による値上げでApple製品の進化が促されるか",
-      "summaryJa": "世界的なメモリ不足の影響を受け、今夏よりiPad AirやM5搭載MacBook ProなどのApple製品で大幅な価格引き上げが行われました。これにより、過去の仕様を据え置いたまま高価格化が進んだ製品群に対し、より魅力的な大型アップデートが求められるのではないかと指摘されています。中古市場との競合も踏まえ、今後は価格に見合った機能改善や低価格帯モデルでの新たなディスプレイ採用などの刷新が不可欠になる可能性があります。"
-    },
-    {
-      "id": "a6340f2183bf149c32a1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 17 set to break a record no flagship has touched in 15 years",
-      "url": "https://9to5mac.com/2026/08/09/iphone-17-availability/",
-      "publishedAt": "2026-08-09T17:48:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2019/12/iPhone-4.png?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 17、歴代最長のフラッグシップ展開を更新か",
-      "summaryJa": "次期iPhone 18の発売が2027年春になるとの予想から、iPhone 17はメインラインナップの最上位として約18ヶ月間君臨する可能性があります。これはiPhone 4が持っていた約16ヶ月の最長記録を塗り替え、新しいベンチマークを打ち立てることになります。今後の製品サイクルの変更により、標準的なフラッグシップの販売期間が長期化するとの見方が伝えられています。"
     }
   ],
-  "updatedAt": "2026-08-18T12:02:03.480Z",
+  "updatedAt": "2026-08-18T13:04:27.279Z",
   "initialized": true,
   "summaryVersion": 4
 }
