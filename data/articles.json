@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "dd6ff37f28a824c8ccc4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Peacock is the latest streaming service to increase prices, details here",
+      "url": "https://9to5mac.com/2026/08/18/peacock-is-the-latest-streaming-service-to-increase-prices-details-here/",
+      "publishedAt": "2026-08-18T14:30:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2022/04/peacock.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "動画配信サービスPeacockが値上げ、Appleのバンドルへの影響は",
+      "summaryJa": "米国の動画配信サービスPeacockがすべてのサブスクリプションプランで値上げを実施しました。月額または年額料金が引き上げられ、プレミアムプラスプランは月額20ドルとなります。一方で、Appleが提供する割引バンドルについては現時点で価格据え置きとなっている模様です。"
+    },
+    {
+      "id": "085e949df83f5b803b74",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Donating to Indonesian Earthquake Relief Efforts",
+      "url": "https://www.macrumors.com/2026/08/18/apple-donating-to-indonesia-earthquake-relief/",
+      "publishedAt": "2026-08-18T14:26:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-Red-Donating.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、インドネシアの地震被災地に寄付を実施へ",
+      "summaryJa": "Appleのティム・クック最高経営責任者（CEO）がソーシャルメディア上で、インドネシアで発生した甚大な地震と余震の被災地支援に向けて寄付を行うと表明しました。Appleは過去の自然災害時にも赤十字社等への寄付を行っていますが、具体的な寄付金額は通常非公開としています。"
+    },
+    {
+      "id": "72fc0232f86b12af82c5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Apple TV to Come With Upgraded Siri Remote",
+      "url": "https://www.macrumors.com/2026/08/18/new-apple-tv-siri-remote-leak/",
+      "publishedAt": "2026-08-18T14:20:59.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/06/apple-tv-4k-new-orange.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型Apple TVに刷新されたSiri Remoteが付属するか",
+      "summaryJa": "macOSのコードから、次世代Apple TV 4Kに改良されたSiri Remoteが同梱される手がかりが見つかったと報じられています。コード内には具体的な変更点の詳細は記されていないものの、長年の噂を経て次期モデルが間もなく登場する可能性を示唆しています。新型はA17 Proチップなどを搭載し、今年秋にも発表される見通しです。"
+    },
+    {
+      "id": "09eb6bb1f3fd330dbbf3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's M4 iPad Air Gets Best-Ever Discounts Since Summer Price Hikes",
+      "url": "https://www.macrumors.com/2026/08/18/apples-m4-ipad-air-discounts/",
+      "publishedAt": "2026-08-18T14:08:27.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2020/03/m4-ipad-air-blue-2.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "M4搭載iPad Airが発売以来最大規模の割引に",
+      "summaryJa": "米国のAmazonやベスト・バイなどの大手家電量販店において、M4チップを搭載したiPad Airがセール対象となり過去最大級の割引価格で販売されています。11インチおよび13インチの各Wi-Fiモデルが揃って100ドル引きとなっており、今夏の価格改定以降でお得に入手できる絶好の機会となっています。"
+    },
+    {
       "id": "4d5db36a073f4c8f66da",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4442,69 +4502,9 @@
       ],
       "titleJa": "iMac向けOLEDパネル、焼き付き防止の層を追加か",
       "summaryJa": "LG Displayが将来のiMac向けに、画面の焼き付き防止と輝度向上を狙った5層構造のOLEDパネルの開発を進めていると報じられています。高画素密度化による電気負荷の分散を目的としていますが、コストや製造プロセスの課題もあり、両社は2028年の搭載を目指している模様です。"
-    },
-    {
-      "id": "038f25448925d85681d0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "The iPhone 18 Pro will cost Apple 38% more in parts – but there’s some good news",
-      "url": "https://9to5mac.com/2026/08/10/the-iphone-18-pro-will-cost-apple-38-more-in-parts-but-theres-some-good-news/",
-      "publishedAt": "2026-08-10T11:16:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの部品コストが大幅上昇の可能性",
-      "summaryJa": "TrendForceの分析によると、iPhone 18 Proの部品コストは前世代から約38%増加し、特にメモリ価格の高騰が全体のコストを押し上げると予測されています。ディスプレイを超える割合を占めるようになる見込みですが、Appleが需要保護のために価格上昇の一部を吸収する可能性があるとも伝えられています。"
-    },
-    {
-      "id": "776c39da965119ccd7f9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Costing Apple 38% More to Make, TrendForce Estimates",
-      "url": "https://www.macrumors.com/2026/08/10/iphone-18-pro-build-cost-rise/",
-      "publishedAt": "2026-08-10T10:29:52.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Pro、メモリ高騰により製造コストが38%増との予測",
-      "summaryJa": "調査会社TrendForceの分析によると、メモリ価格の急激な高騰により、iPhone 18 Proの製造コストは前モデルから約38%増加する見通しです。AppleはMacBookと同様に粗利益の一部を削って価格上昇を抑えるか、他のモデルの価格を調整する可能性があります。Android端末のメーカーも同様のコスト高に直面しており、より急激な価格引き上げを行うとの見方が示されています。"
-    },
-    {
-      "id": "1d4e57bc379fc8bb661a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Dropped Plan to Ship Leased iPhones Already Set Up for Users",
-      "url": "https://www.macrumors.com/2026/08/10/apple-scrapped-plan-ship-iphones-set-up-for-you/",
-      "publishedAt": "2026-08-10T09:30:40.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/apple-upgrade-program-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、端末を初期設定済みにするリース計画を見送りか",
-      "summaryJa": "Appleは新たなハードウェアリースプログラム「Apple Upgrade」の企画段階で、顧客のデータとiCloudバックアップをあらかじめ復元した状態でデバイスを出荷する仕組みを検討していたと報じられています。技術的な問題ではなく、初期設定済みの端末が届くことに対するプライバシー面の懸念や顧客の心理的抵抗が理由で、計画は断念された模様です。最終的に先月に米国で開始されたサービスにはこの機能は含まれていません。"
-    },
-    {
-      "id": "29e4d807bb37b923c5eb",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "New MacBook Pro and Refreshed iMacs Likely Coming in October",
-      "url": "https://www.macrumors.com/2026/08/10/new-macbook-pro-refreshed-imacs-october/",
-      "publishedAt": "2026-08-10T08:51:40.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/01/imac-pink.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型MacBook ProとiMacが10月にも登場か",
-      "summaryJa": "Appleが今年10月にも、M6チップを搭載したベースモデルの14インチMacBook Proおよび刷新されたiMacを発表する可能性が高いと報じられています。Bloombergのマーク・グールマン記者が自身のニュースレターで伝えたもので、macOSの次期アップデート時期に合わせた投入が見込まれています。なお、OLEDディスプレイを搭載した上位モデルのMacBook ProやiMacは、数年以内にかけて順次登場すると予想されています。"
     }
   ],
-  "updatedAt": "2026-08-18T13:54:14.986Z",
+  "updatedAt": "2026-08-18T14:31:14.729Z",
   "initialized": true,
   "summaryVersion": 4
 }
