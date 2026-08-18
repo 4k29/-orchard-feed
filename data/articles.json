@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "e5d8c48ca9426b177e6a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple overhauls App Store fees in the EU with new unified terms",
+      "url": "https://9to5mac.com/2026/08/18/apple-overhauls-app-store-fees-in-the-eu-with-new-unified-terms/",
+      "publishedAt": "2026-08-18T16:35:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/app-store-eu.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、EUにおけるApp Storeの手数料体系を改定",
+      "summaryJa": "Appleは欧州連合（EU）におけるApp Storeの手数料とビジネス条件を大幅に改定し、新しい簡素化された体系を発表しました。従来の「コア技術手数料」は、アプリ外でのデジタル取引に対する一律5％の「コア技術手数料」へと置き換えられます。また、外部サイトへの誘導手数料が15％に引き下げられるほか、各種手数料の撤廃や調整が行われ、10月1日から施行される予定です。"
+    },
+    {
+      "id": "048d295af232629d3ad1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Overhauls EU App Store Fees to Settle Digital Markets Act Dispute",
+      "url": "https://www.macrumors.com/2026/08/18/eu-app-store-fee-change/",
+      "publishedAt": "2026-08-18T16:29:18.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-app-store-ios.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、デジタル市場法への対応でEUのApp Store手数料を刷新",
+      "summaryJa": "Appleは欧州委員会のデジタル市場法（DMA）を遵守するため、EUにおけるApp Storeのポリシーと手数料体系を刷新しました。欧州委員会との緊密な協議を経て決定され、初期買収手数料やストアサービス手数料が撤廃されます。さらに、代替決済の導入やアプリ外配信における新たな料金モデルが整備され、開発者の選択肢と負担構造が見直されます。"
+    },
+    {
       "id": "edf535e5acef5dba2516",
       "source": "Apple Newsroom 日本",
       "sourceId": "apple-newsroom-jp",
@@ -4475,39 +4505,9 @@
       ],
       "titleJa": "Apple、Apple Vision Pro向け「Apple Immersive Video」でMLBのライブ中継を実施",
       "summaryJa": "Appleは、Apple Vision Pro向けの「Apple Immersive Video」として、「フライデーナイト ベースボール」のライブ中継を複数試合配信すると発表しました。今年はNBAの試合中継に続き、MLBの試合も没入感のある特別なアングルや専用の解説付きで視聴可能になります。対象となる試合はApple TVアプリを通じてライブ配信され、終了後にはオンデマンドでも視聴できるようになります。"
-    },
-    {
-      "id": "941bcec8b130f1b001e6",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple, MLB announce September “Friday Night Baseball” schedule",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
-      "publishedAt": "2026-08-10T14:59:21.977Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "AppleとMLB、9月の「フライデーナイト ベースボール」スケジュールと初の没入型放送を発表",
-      "summaryJa": "AppleとMLBは、Apple TVで配信される「フライデーナイト ベースボール」の9月の試合日程を公開しました。今シーズンからは、Apple Vision Pro向けに「Apple Immersive」を使用した初のライブ配信も導入されます。8Kの3D映像や空間オーディオを活用することで、世界中の対象地域のユーザーが自宅にいながら球場の熱気をそのまま体験できるようになります。"
-    },
-    {
-      "id": "8a996fc4d32e88e57a64",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Next year’s iPhone redesign with all-glass look might be canceled: report",
-      "url": "https://9to5mac.com/2026/08/10/next-years-iphone-redesign-with-all-glass-look-might-be-canceled-report/",
-      "publishedAt": "2026-08-10T14:49:14.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "次世代の全面ガラス製iPhoneデザイン、開発中止の可能性との報道",
-      "summaryJa": "Jefferiesのアナリストによると、Appleが計画していたとされる全面ガラス製のiPhoneの20周年記念モデルの開発が中止された可能性があると報じられています。サプライチェーンの調査では、歩留まりの低さが主な中止の理由とされています。もし実現していれば高価格帯モデルの牽引役となるはずでしたが、部品コストの上昇なども影響している模様です。"
     }
   ],
-  "updatedAt": "2026-08-18T16:12:42.667Z",
+  "updatedAt": "2026-08-18T16:50:46.294Z",
   "initialized": true,
   "summaryVersion": 4
 }
