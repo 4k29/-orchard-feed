@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "d2967324f9e5db0f39c1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple pledges donation in support of Indonesia earthquake relief",
+      "url": "https://9to5mac.com/2026/08/18/apple-pledges-donation-in-support-of-indonesia-earthquake-relief/",
+      "publishedAt": "2026-08-18T17:31:33.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/tim-cook-apple-park-rainbow-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、インドネシアの地震被災地支援へ寄付を表明",
+      "summaryJa": "Appleのティム・クックCEOは、インドネシアで発生した大規模な地震を受け、現地の復興支援に向けた寄付を行うことを表明しました。同社はこれまでも世界各地の自然災害や緊急事態に対して支援を行っており、今回はマグニチュード7.7の地震に見舞われた人々への寄付を決定しました。なお、具体的な寄付金額や支援先については明らかにされていません。"
+    },
+    {
       "id": "6b6d2e551727c4d05e34",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "Apple、Vision Pro向けに3D MLB中継を提供",
       "summaryJa": "Appleは、Apple TVの「Friday Night Baseball」において、Vision Pro向けに8K解像度と180度の視野角を持つApple Immersiveフォーマットでのライブ配信を開始すると発表しました。ユーザーは没入感のある3D映像で試合観戦を楽しめるほか、選手データや空間オーディオに対応したスタジアムビュー機能も利用可能です。"
-    },
-    {
-      "id": "e237af35f29dc1637eb8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Meta just released a brand-new Facebook Creator Studio app for iPhone",
-      "url": "https://9to5mac.com/2026/08/10/meta-just-released-a-brand-new-facebook-creator-studio-app-for-iphone/",
-      "publishedAt": "2026-08-10T15:39:09.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/meta-creator-studio.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Meta、iPhone向けの新アプリをリリース",
-      "summaryJa": "Metaは、Facebookクリエイター向けのAI駆動型デイリーコンパニオンアプリとなる「Facebook Creator Studio」をiPhone向けにリリースしました。このアプリは、カスタマイズ可能なフィードやリール、Meta AIへの組み込みアクセスなどを通じて、興味関心の探索やコミュニティとのつながりを容易にすることを目的としています。"
     }
   ],
-  "updatedAt": "2026-08-18T17:18:10.326Z",
+  "updatedAt": "2026-08-18T17:50:00.266Z",
   "initialized": true,
   "summaryVersion": 4
 }
