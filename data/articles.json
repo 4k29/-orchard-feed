@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "cbbb668b892e6cf3ba05",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple pulls AI ‘nudify’ app promoted in Meta ads",
+      "url": "https://9to5mac.com/2026/08/18/apple-pulls-ai-nudify-app-promoted-in-meta-ads/",
+      "publishedAt": "2026-08-18T19:28:04.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/App-Store-fraud.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、規約違反のAIヌード生成アプリをApp Storeから削除",
+      "summaryJa": "Appleは、AIを用いたディープフェイクのポルノ画像を作成できる規約違反のアプリ「Kromix」をApp Storeから削除しました。このアプリは当初の審査を通過した後に禁止された機能を追加したとされており、Metaの広告プラットフォーム上で著名な政治家に似た人物を使った広告を展開していました。メディアの指摘を受けて両社ともに対応を取り、アプリの削除および広告キャンペーンの停止が行われています。"
+    },
+    {
+      "id": "bde2d628e180c8587620",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "National Parks Apple Watch Activity Challenge Launching August 23",
+      "url": "https://www.macrumors.com/2026/08/18/national-parks-activity-challenge-2026/",
+      "publishedAt": "2026-08-18T19:09:16.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/national-parks-activity-2026.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、8月23日にナショナル・パークス・アクティビティチャレンジを開催",
+      "summaryJa": "Appleはアメリカの国立公園を記念し、恒例の「ナショナル・パークス・アクティビティチャレンジ」を8月23日に開催することを発表しました。Apple Watchユーザーは、当日に20分以上のウォーキング、ランニング、ハイキング、車いすのワークアウトを記録することで、限定のアワードとメッセージアプリで使えるアニメーションステッカーを獲得できます。"
+    },
+    {
       "id": "f7c52f244c70abf34cf0",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "Apple、開発者向けにwatchOS 27 Beta 5を配信開始",
       "summaryJa": "Appleは開発者に向けて「watchOS 27 Beta 5」を配信開始しました。第4弾ベータ版のリリースから2週間ぶりのアップデートとなります。対応するApple Watchでダウンロード可能となっており、Siri AIの機能強化や新しい文字盤グリッド、バッテリー駆動時間の改善などが行われています。"
-    },
-    {
-      "id": "97188b545620ca1ffcbb",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds tvOS 27 Beta 5 to Developers",
-      "url": "https://www.macrumors.com/2026/08/10/apple-seeds-tvos-27-beta-5-to-developers/",
-      "publishedAt": "2026-08-10T17:07:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/tvOS-27-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、開発者向けにtvOS 27 Beta 5を配信開始",
-      "summaryJa": "Appleは開発者向けに「tvOS 27 Beta 5」の提供を開始しました。第4弾のリリースから2週間での配信となり、Apple TVの設定アプリからダウンロード可能です。今回のアップデートでは、再設計されたポッドキャストアプリやテキストサイズのオプション追加、コントロールセンターの応答性向上が含まれています。"
-    },
-    {
-      "id": "02b0f9f848682e1e344f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds Fifth visionOS 27 Beta to Developers",
-      "url": "https://www.macrumors.com/2026/08/10/apple-seeds-fifth-visionos-27-beta-to-developers/",
-      "publishedAt": "2026-08-10T17:06:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/curved_windows_visionos-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、開発者向けにvisionOS 27 Beta 5を公開",
-      "summaryJa": "AppleはVision Pro向けに「visionOS 27 Beta 5」を開発者向けに公開しました。第4弾ベータのリリースから2週間ぶりの提供となります。今回のベータ版では、AIを活用した新しいSiri機能の導入をはじめ、パノラマ写真の空間環境への変換、湾曲したアプリウインドウによる没入感の向上などが含まれています。"
     }
   ],
-  "updatedAt": "2026-08-18T19:04:51.901Z",
+  "updatedAt": "2026-08-18T19:36:42.823Z",
   "initialized": true,
   "summaryVersion": 4
 }
