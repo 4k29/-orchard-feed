@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "7dce47c9a97422014d94",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: August 18, 2026 – iOS 27 beta 6, AirPods leak",
+      "url": "https://9to5mac.com/2026/08/18/daily-august-18-2026/",
+      "publishedAt": "2026-08-18T21:56:50.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、米国の外部決済に最大15%の手数料を提案か",
+      "summaryJa": "最新のポッドキャストでは、米国でのApp Store外での購入に対する最大15%の手数料提案や、iPhone向けiOS 26.6.1のリリース、さらにベータ版が進行中のOSの最新状況などを振り返っています。セキュリティの修正や、カメラ搭載のAirPodsに関する新たな噂についても触れられています。Appleエコシステムを巡る最新の動向を音声で手軽に確認できる内容となっています。"
+    },
+    {
       "id": "d9b988beeb6c61ef309c",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "Apple、iPhone向けにiOS 26.6.1ベータなどを突如配信",
       "summaryJa": "Appleは開発者向けにiOS 27のベータ5などを公開したのに加え、予期せぬ第2弾としてiOS 26.6.1やmacOS 26.6.2などのベータ版を新たにリリースしました。今回のアップデートは通常のテストスケジュールとは異なるタイミングでの配信となり、各OSの細かな調整や対応が進められています。"
-    },
-    {
-      "id": "a6e654f4c7f653549d8d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases macOS Golden Gate Beta 5",
-      "url": "https://www.macrumors.com/2026/08/10/apple-releases-macos-27-beta-5/",
-      "publishedAt": "2026-08-10T17:27:42.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、macOS Golden Gate ベータ5を開発者向けに公開",
-      "summaryJa": "Appleは開発者向けに「macOS Golden Gate」のベータ5をリリースしました。このアップデートには、透過度の調整機能やウィンドウの視認性向上といったデザインの改善が含まれています。また、チャットスタイルに一新されたSiri AIや、画面上の内容を認識するビジュアルインテリジェンス、写真アプリのAI編集機能など多くの新機能が導入されています。"
     }
   ],
-  "updatedAt": "2026-08-18T21:54:34.106Z",
+  "updatedAt": "2026-08-18T22:23:30.550Z",
   "initialized": true,
   "summaryVersion": 4
 }
