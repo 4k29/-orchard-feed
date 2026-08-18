@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "0b43c446ff4e48c0447b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's iPhone 18 Release Schedule: What's Coming and When",
+      "url": "https://www.macrumors.com/guide/iphone-18-release-schedule/",
+      "publishedAt": "2026-08-18T22:58:50.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18シリーズの発売スケジュールと新機能の噂",
+      "summaryJa": "Appleは従来のリリーススケジュールを変更し、2026年秋にはiPhone 18 Proシリーズや折りたたみ式iPhoneを投入する一方で、標準モデルのiPhone 18は2027年春に延期すると報じられています。秋モデルには、2nmプロセスのA20チップや可変絞りカメラが搭載され、メモリ不足の影響で価格が上昇する可能性が指摘されています。"
+    },
+    {
       "id": "7dce47c9a97422014d94",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "Apple、iOS 26.6.1などのベータ版を突如リリース",
       "summaryJa": "Appleは「iOS 27 beta 5」の提供と同時に、iOS 26.6.1やmacOS 26.6.2といった既存OS向けのマイナーアップデートのベータ版を新たに公開しました。小規模なポイント更新で事前にベータ版が配布されるのは異例の対応となります。主にセキュリティの向上や不具合の修正が含まれているとみられています。"
-    },
-    {
-      "id": "5e426b17acd5900fb3d0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases iOS 26.6.1 beta for iPhone, plus more",
-      "url": "https://9to5mac.com/2026/08/10/apple-releases-ios-26-6-1-beta-for-iphone-more/",
-      "publishedAt": "2026-08-10T17:59:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPhone向けにiOS 26.6.1ベータなどを突如配信",
-      "summaryJa": "Appleは開発者向けにiOS 27のベータ5などを公開したのに加え、予期せぬ第2弾としてiOS 26.6.1やmacOS 26.6.2などのベータ版を新たにリリースしました。今回のアップデートは通常のテストスケジュールとは異なるタイミングでの配信となり、各OSの細かな調整や対応が進められています。"
     }
   ],
-  "updatedAt": "2026-08-18T22:49:59.135Z",
+  "updatedAt": "2026-08-18T23:11:43.317Z",
   "initialized": true,
   "summaryVersion": 4
 }
