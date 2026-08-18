@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "ae18b0ecc0f881346b16",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Comcast just turned millions of Xfinity routers into motion sensors",
+      "url": "https://9to5mac.com/2026/08/18/comcast-just-turned-millions-of-xfinity-routers-into-motion-sensors/",
+      "publishedAt": "2026-08-18T20:33:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/comcast-xfinity-gateway-router.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Comcast、対応ルーターを動体検知センサーにする機能を提供開始",
+      "summaryJa": "Comcastは新しいホームセキュリティプラットフォーム「Xfinity Shield」を発表し、対応する家庭用Wi-Fiルーターを動体検知センサーとして活用できる機能の提供を開始しました。この機能はカメラや従来のセンサーを使わずに無線信号の変化を捉えて動きを検知するもので、異常を察知するとアプリを通じてユーザーに即座に通知を送信します。対象となる機器は一部のXBシリーズなどのルーターであり、ホームセキュリティの利便性を高める新しい試みとして注目されています。"
+    },
+    {
+      "id": "a51c122883896281370c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Firefox Smart Window adds AI web search, automatic tab groups, and more",
+      "url": "https://9to5mac.com/2026/08/18/firefox-smart-window-adds-ai-web-search-automatic-tab-groups-and-more/",
+      "publishedAt": "2026-08-18T20:23:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/firefox-smart-window.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "FirefoxのAI機能にスマートウィンドウの新機能や自動タブグループなど追加",
+      "summaryJa": "Mozillaは、ベータ版として提供しているFirefoxのAIアシスタント機能「スマートウィンドウ」のアップデートを発表しました。今回の更新により、関連するタブを自動でグループ化する機能や、ワンクリックで重複したタブを見つけて閉じられる機能が追加されました。さらに、AI検索企業Exaとの提携に基づくWeb検索機能の統合により、検索結果ページへ移動することなく最新情報の取得やソースの確認が可能になります。"
+    },
+    {
       "id": "d379666afe314adc9af4",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "Apple、macOS 27 Golden Gate ベータ5を開発者向けに配信開始",
       "summaryJa": "Appleは今年後半の正式リリースに向けて、macOS 27 Golden Gateの開発者向けベータ5を公開しました。今回のビルドでは不具合やパフォーマンスの修正が進められており、新しいSiriアプリやAIを活用したショートカット作成機能などが含まれています。正式版は今年後半に予定されており、開発者はシステム設定からアップデートを適用できます。"
-    },
-    {
-      "id": "ef521f8461437ada0cba",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases iOS 26.6.1 and iPadOS 26.6.1 Betas With Security Fixes",
-      "url": "https://www.macrumors.com/2026/08/10/apple-releases-ios-26-6-1/",
-      "publishedAt": "2026-08-10T17:23:38.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iOS-26-6-1-iPhone.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、セキュリティ修正を含むiOS 26.6.1とiPadOS 26.6.1のベータ版を提供",
-      "summaryJa": "Appleは開発者およびパブリックベータテスター向けに、iOS 26.6.1とiPadOS 26.6.1の新しいベータ版をリリースしました。これらのアップデートには、iPhoneおよびiPad向けの重要なセキュリティ修正が含まれています。現在はベータテストの段階であり、設定アプリのソフトウェアアップデートから対象端末にダウンロード可能です。"
-    },
-    {
-      "id": "c282f9487fe9e8cbace5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds Fifth iOS 27 and iPadOS 27 Betas to Developers",
-      "url": "https://www.macrumors.com/2026/08/10/apple-seeds-ios-27-beta-5/",
-      "publishedAt": "2026-08-10T17:21:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、開発者向けにiOS 27とiPadOS 27のベータ5を公開",
-      "summaryJa": "Appleはテスト目的で、iOS 27およびiPadOS 27の第5弾となる開発者向けベータ版をリリースしました。今回のアップデートでは、AIを活用した新しいSiri機能や、写真、Safari、ショートカットなどのアプリにおけるApple Intelligenceの改善が行われています。また、システム全体のパフォーマンス向上により、動作速度や接続の安定性が高められています。"
     }
   ],
-  "updatedAt": "2026-08-18T19:58:29.050Z",
+  "updatedAt": "2026-08-18T20:34:19.685Z",
   "initialized": true,
   "summaryVersion": 4
 }
