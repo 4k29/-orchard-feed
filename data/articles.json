@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "796f1b8c1b58278a8efe",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Max Rumored to Get Exclusive Camera Upgrade",
+      "url": "https://www.macrumors.com/2026/08/18/iphone-18-pro-max-camera-upgrade-exclusive/",
+      "publishedAt": "2026-08-18T09:39:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/iphone-17-cameras-zoom.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Pro Maxには可変絞りカメラが独占搭載か",
+      "summaryJa": "次期モデルのiPhone 18 Pro Maxには、iPhoneとして初めて可変絞り機能を持つカメラが独占搭載される可能性があると報じられています。中国のリーク情報によると、ソニー製の新しいセンサーを採用することで、一眼レフカメラのように絞りを手動で調整できるようになる見込みです。これにより、被写界深度のコントロールや背景の自然なボケ味の表現力が向上することが期待されています。"
+    },
+    {
       "id": "5f752abde32dcd0a331e",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "iPhoneを携帯ゲーム機に変える MagSafe対応モジュール式コントローラー",
       "summaryJa": "OhsnapのMCONコントローラーは、MagSafeでiPhoneに装着し、スライドして展開することで本格的なゲームプレイを可能にするモジュール式の携帯コントローラーです。コンパクトに折りたためる設計ながら、フルサイズのジョイスティックやホールエフェクト式のアナログトリガーを備えています。Apple Arcadeのタイトルやエミュレーターでのテストでも良好なパフォーマンスを示し、Bluetooth 5.4接続や最大9時間のバッテリー駆動に対応しています。持ち運びに便利なサイズ感と実用的な機能を兼ね備え、モバイルゲーマーの選択肢を広げる注目のアクセサリーとなっています。"
-    },
-    {
-      "id": "f3d2b2b98cd0aef5b1b2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Foldable 'iPhone Ultra' Rumored to Come in These Two Colors",
-      "url": "https://www.macrumors.com/2026/08/09/iphone-ultra-rumored-to-come-in-these-two-colors/",
-      "publishedAt": "2026-08-09T11:53:44.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみ式iPhone Ultraのカラーはシルバーとダークブルーか",
-      "summaryJa": "リークされたサードパーティ製カメラ保護アクセサリーから、Apple初の折りたたみ式iPhoneであるiPhone Ultraにはシルバーとダークブルーの2色が用意されると報じられています。これまでのサプライチェーンからの情報とも一致しており、背面には2つのレンズやLiDARスキャナを搭載したデザインが採用される見込みです。"
     }
   ],
-  "updatedAt": "2026-08-18T09:21:56.641Z",
+  "updatedAt": "2026-08-18T09:56:21.708Z",
   "initialized": true,
   "summaryVersion": 4
 }
