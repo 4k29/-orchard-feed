@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "4d5ec0f857e78fe07f34",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Unreleased AirPods 5 Models Referenced in macOS 26.7",
+      "url": "https://www.macrumors.com/2026/08/18/unreleased-airpods-5-models-referenced-macos-26-7/",
+      "publishedAt": "2026-08-18T10:07:58.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/airpods-4-dark.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "次期AirPods 5の存在がmacOSのコードから明らかに",
+      "summaryJa": "最新のmacOSソフトウェアアップデートから、未発表のAirPods 5とみられるモデルのコードが発見されたと報じられています。内部コードネームから標準モデルとアクティブノイズキャンセリング搭載モデルが存在するとみられており、音質向上や低遅延化に向けた新型H3チップの搭載などが期待されています。ただし、具体的な発売時期や新機能の詳細は現時点で不明となっています。"
+    },
+    {
+      "id": "3b4b801df530fa8c9274",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work Podcast: Agentic networking actions",
+      "url": "https://9to5mac.com/2026/08/18/proactive-networking-actions/",
+      "publishedAt": "2026-08-18T10:02:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple @ Work：企業のAI活用とエージェント型ネットワーキング",
+      "summaryJa": "ポッドキャスト番組「Apple @ Work」の最新エピソードにおいて、eBlissAIのShirish Nimgaonkar氏がゲストとして出演しました。番組では、エンドポイント管理における人工知能の未来やエージェント型ソリューションの可能性について議論が交わされています。企業におけるAppleデバイスの展開や管理において、AI技術がどのように活用されていくのかが語られました。"
+    },
+    {
       "id": "796f1b8c1b58278a8efe",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "将来のApple Watchで丸型ディスプレイや根本的なデザイン刷新を検討か",
       "summaryJa": "Appleが将来のApple Watchに向けて、丸型の円形ディスプレイや画面を持たないフィットネス機器など、根本的なデザインの刷新を検討していると報じられています。スマートリングなどの競合製品の台頭を受け、低価格帯から高価格帯まで幅広い可能性を模索している段階です。ただし、計画は初期段階であり、実際に市場に登場するにはまだ数年かかる見込みです。"
-    },
-    {
-      "id": "56df7b126264210433bf",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "This scrapped Apple Upgrade feature would’ve made setup much more seamless",
-      "url": "https://9to5mac.com/2026/08/09/this-scrapped-apple-upgrade-feature-wouldve-made-setup-much-more-seamless/",
-      "publishedAt": "2026-08-09T14:19:23.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhoneの初期設定を自動化する「Apple Upgrade」向けの未発売機能が存在したか",
-      "summaryJa": "Appleが以前、Apple Upgradeプログラム向けに、事前にiCloudバックアップからデータを移行した状態で新しいiPhoneを自宅に届ける機能を検討していたと報じられています。セットアップの手間を大幅に減らす狙いがありましたが、データの古さやプライバシー上の懸念から、最終的にこの機能が実装されることはありませんでした。"
-    },
-    {
-      "id": "59860cfeb383555ec41f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Hands-on: This modular controller slides open to transform your iPhone into a mobile game console [Video]",
-      "url": "https://9to5mac.com/2026/08/09/hands-on-this-modular-controller-slides-open-to-transform-your-iphone-into-a-mobile-game-console-video/",
-      "publishedAt": "2026-08-09T14:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/controller.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhoneを携帯ゲーム機に変える MagSafe対応モジュール式コントローラー",
-      "summaryJa": "OhsnapのMCONコントローラーは、MagSafeでiPhoneに装着し、スライドして展開することで本格的なゲームプレイを可能にするモジュール式の携帯コントローラーです。コンパクトに折りたためる設計ながら、フルサイズのジョイスティックやホールエフェクト式のアナログトリガーを備えています。Apple Arcadeのタイトルやエミュレーターでのテストでも良好なパフォーマンスを示し、Bluetooth 5.4接続や最大9時間のバッテリー駆動に対応しています。持ち運びに便利なサイズ感と実用的な機能を兼ね備え、モバイルゲーマーの選択肢を広げる注目のアクセサリーとなっています。"
     }
   ],
-  "updatedAt": "2026-08-18T09:56:21.708Z",
+  "updatedAt": "2026-08-18T10:39:37.781Z",
   "initialized": true,
   "summaryVersion": 4
 }
