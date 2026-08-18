@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "6909295c2226e77a9f77",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Slow Horses season 6 reveals two major returning stars in trailer",
+      "url": "https://9to5mac.com/2026/08/18/slow-horses-season-6-reveals-two-major-returning-stars-in-trailer/",
+      "publishedAt": "2026-08-18T15:37:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/07/slow-horses-s4.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、ドラマ「窓際のスパイ」シーズン6の予告編を公開",
+      "summaryJa": "Apple TVの人気ドラマシリーズ「窓際のスパイ」シーズン6の新しい予告編が公開され、主要キャラクターの復帰が明らかになりました。シーズン1以降登場していなかった人物や、死亡したと思われていたキャラクターの再登場が含まれています。新シーズンは9月16日から配信が開始される予定です。"
+    },
+    {
+      "id": "6852e1df7b85dcaf38c5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: iPad Air $400 off, AirTag 2, MacBook Air $300 off, AirPods Max 2 $120 off, iPhone 17 Pro, more",
+      "url": "https://9to5mac.com/2026/08/18/deals-ipad-air-airtag-macbook-air-airpods-iphone-17-pro/",
+      "publishedAt": "2026-08-18T15:28:13.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-AirPds-Pro-3-iPad-Air-MacBook-Air-AirTag-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple製品のセール情報：iPad AirやAirTagなどが割引に",
+      "summaryJa": "各種Apple製品のセールが実施されており、M3搭載iPad AirやAirTag、MacBook Airなどが割引価格で販売されています。AirPodsシリーズやiPhoneの整備済製品なども対象となっており、お得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "717ecf014ce4daab0699",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Card Offering 5% Cash Back on Select Purchases for Limited Time",
+      "url": "https://www.macrumors.com/2026/08/18/apple-card-5-percent-daily-cash-promo/",
+      "publishedAt": "2026-08-18T15:16:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/01/Apple-Card-iPhone-16-Pro-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Card、期間限定で対象の支払いが5%還元に",
+      "summaryJa": "Appleは、Apple CardをApple Payで利用した際、特定のパートナー企業での買い物が5%のデイリーキャッシュ還元になる期間限定キャンペーンを開始しました。対象は旅行やガソリンスタンド、EV充電などで、9月15日まで実施されます。"
+    },
+    {
+      "id": "036f98d8da3c580e030e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "ChatGPT for Teens launches with protections and features ‘to promote healthy use’",
+      "url": "https://9to5mac.com/2026/08/18/chatgpt-for-teens-openai/",
+      "publishedAt": "2026-08-18T15:11:13.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/chatgpt-for-teens.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、10代向けに保護機能を備えた「ChatGPT for Teens」を発表",
+      "summaryJa": "OpenAIは、10代のユーザーを対象とした「ChatGPT for Teens」を発表しました。学習をサポートする専用モードや宿題の補助機能が備わっており、年齢に応じた安全対策や保護者向けの管理ツールも統合されています。"
+    },
+    {
+      "id": "dda294a96b72ec048c3e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "OpenAI Announces ChatGPT for Teens With Built-In Safeguards and Learning Prompts",
+      "url": "https://www.macrumors.com/2026/08/18/openai-announces-chatgpt-for-teens/",
+      "publishedAt": "2026-08-18T15:04:49.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Parental-Controls-chatgpt.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "OpenAI、未成年向けChatGPTモードを発表",
+      "summaryJa": "OpenAIは、保護者による管理機能や学習向け機能を備えた未成年向けの「ChatGPT for Teens」を発表しました。批判的思考力を育み、安全にAIを活用できるよう設計されており、学習用プロンプトや休憩を促す機能などが組み込まれています。対象となる18歳未満のアカウントに自動適用され、8月18日より世界的に順次展開される予定です。"
+    },
+    {
       "id": "bcda3161025dc815f1a3",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4427,84 +4502,9 @@
       ],
       "titleJa": "Apple、9月のイベントで8つの新製品を発表か",
       "summaryJa": "ブルームバーグのマーク・ガーマン記者がニュースレターで、9月のイベントで発表される可能性のある8つの新製品を伝えています。折りたたみ式iPhoneや新しいiPhone 18 Proシリーズ、Apple Watch Series 12などが登場する見通しです。また、新型Apple TVやHomePod mini、スマートホームハブなどの関連製品も秋以降に展開されると報じられています。"
-    },
-    {
-      "id": "441926fb548af7403956",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple reveals how Siri AI features work in China – raising privacy questions",
-      "url": "https://9to5mac.com/2026/08/10/apple-reveals-how-siri-ai-features-work-in-china-likely-without-privacy-protections/",
-      "publishedAt": "2026-08-10T13:38:27.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "中国でのSiri AI機能の仕組みが明らかに",
-      "summaryJa": "中国における新しいSiriのAI機能が、アリババのQwenモデルを基盤にして動作することが明らかになりました。多くの国ではグーグルのGeminiモデルが活用されていますが、現地の法律により中国では国内のAIモデルを利用する必要があるためです。この仕様の違いにより、他の地域とは異なるプライバシー保護の扱いになる可能性が指摘されています。"
-    },
-    {
-      "id": "f42bf5a058a246d2ce26",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Feature Request: Do this to end the guessing game with iPhone app settings",
-      "url": "https://9to5mac.com/2026/08/10/feature-request-do-this-to-end-the-guessing-game-with-iphone-app-settings/",
-      "publishedAt": "2026-08-10T13:01:06.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Do-this-to-end-the-guessing-game-with-iPhone-app-settings.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhoneアプリの設定画面を巡る使い勝手の課題",
-      "summaryJa": "iPhoneのアプリ設定を変更する際、アプリ内の設定メニューから行うべきか、iOS側の「設定」アプリを開くべきか迷うというユーザビリティ上の課題について解説しています。例えば、内蔵カメラの一部機能を変更するには「設定」アプリに移動して深い階層を探す必要があり、操作が煩雑になっています。こうした設定の分散と推測を強いられる体験は、改善が求められるポイントとなっています。"
-    },
-    {
-      "id": "38357202e039ec49298c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Briefly Posts China Guide for Connecting Siri to Qwen AI",
-      "url": "https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/",
-      "publishedAt": "2026-08-10T12:21:13.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/09/apple-intelligence-black.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、中国でのSiriとQwen AI連携ガイドを一時公開",
-      "summaryJa": "Appleは中国のサポートサイトにおいて、Macユーザーがアリババの生成AI「Qwen」をSiriやライティングツールに接続する方法を説明するガイドを一時的に公開しました。この文書は公開から1日足らずで削除され、規制当局の承認プロセスに伴う調整段階にあるのではないかと報じられています。中国国内でのAI機能展開に向けた慎重な動向が注目されています。"
-    },
-    {
-      "id": "e3e5ffebb82d7e93467e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "A round Apple Watch is possible, but an Apple Ring more likely",
-      "url": "https://9to5mac.com/2026/08/10/a-round-apple-watch-is-possible-but-an-apple-ring-more-likely/",
-      "publishedAt": "2026-08-10T12:09:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/A-round-Apple-Watch-is-possible-but-an-Apple-Ring-more-likely.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "将来のApple Watchに丸型モデルが登場するか",
-      "summaryJa": "Appleが将来のApple Watchに向けて、従来の四角形ではなく円形のフォームファクターを検討している可能性が報じられています。スマートウォッチの多くは円形を採用しており、デザイン性を重視するユーザーからの需要が存在します。ただし情報量の多さでは長方形が有利であり、スマートリングの登場も含めて今後の製品展開に関心が集まっています。"
-    },
-    {
-      "id": "297aaaa60521f1791301",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Testing Chinese Memory Chips in iPhones and MacBooks",
-      "url": "https://www.macrumors.com/2026/08/10/apple-testing-chinese-memory-iphones-macs/",
-      "publishedAt": "2026-08-10T12:02:03.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2020/10/Apple-Silicon-Teal-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、中国CXMT製メモリチップのテストを実施か",
-      "summaryJa": "Appleが中国の長新記憶技術（CXMT）製メモリチップをiPhoneやMacBookなどの製品ラインでテストしていると報じられています。中国市場向けの供給に向けた初期段階の協議を行っているものの、米国による規制や議員からの懸念などが障壁となる可能性があります。最適なパフォーマンスを引き出すための技術的課題もあり、今後の動向が注目されます。"
     }
   ],
-  "updatedAt": "2026-08-18T15:04:36.209Z",
+  "updatedAt": "2026-08-18T15:43:41.317Z",
   "initialized": true,
   "summaryVersion": 4
 }
