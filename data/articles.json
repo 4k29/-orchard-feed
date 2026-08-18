@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "bcda3161025dc815f1a3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s big Home product overhaul leaked in new report",
+      "url": "https://9to5mac.com/2026/08/18/apples-big-home-product-overhaul-leaked-in-new-report/",
+      "publishedAt": "2026-08-18T14:31:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの次期ホーム製品の数々がコードから判明か",
+      "summaryJa": "新しいmacOSのコードから、Appleが開発中と噂される多くの未発表ホーム製品の存在が明らかになったと報じられています。ベース付きや壁掛け用の「HomePad」をはじめ、HomePod mini 2やスマートカメラ、新型Siri Remoteなどが含まれている模様です。これらの新製品は今後のイベントで発表される可能性があると伝えられています。"
+    },
+    {
       "id": "dd6ff37f28a824c8ccc4",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Apple、中国CXMT製メモリチップのテストを実施か",
       "summaryJa": "Appleが中国の長新記憶技術（CXMT）製メモリチップをiPhoneやMacBookなどの製品ラインでテストしていると報じられています。中国市場向けの供給に向けた初期段階の協議を行っているものの、米国による規制や議員からの懸念などが障壁となる可能性があります。最適なパフォーマンスを引き出すための技術的課題もあり、今後の動向が注目されます。"
-    },
-    {
-      "id": "bdfe4d1296acb42b452b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "OLED iMac Panel Could Include Extra Layer to Fight Screen Burn-In",
-      "url": "https://www.macrumors.com/2026/08/10/oled-imac-panel-extra-layer-screen/",
-      "publishedAt": "2026-08-10T11:35:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2013/09/m4-imac-side-view.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iMac向けOLEDパネル、焼き付き防止の層を追加か",
-      "summaryJa": "LG Displayが将来のiMac向けに、画面の焼き付き防止と輝度向上を狙った5層構造のOLEDパネルの開発を進めていると報じられています。高画素密度化による電気負荷の分散を目的としていますが、コストや製造プロセスの課題もあり、両社は2028年の搭載を目指している模様です。"
     }
   ],
-  "updatedAt": "2026-08-18T14:31:14.729Z",
+  "updatedAt": "2026-08-18T15:04:36.209Z",
   "initialized": true,
   "summaryVersion": 4
 }
