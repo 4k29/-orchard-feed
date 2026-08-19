@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "0f16eafeff4b42947573",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Camera-equipped AirPods reportedly won’t launch in 2026, despite demo video leak",
+      "url": "https://9to5mac.com/2026/08/19/camera-equipped-airpods-reportedly-wont-launch-in-2026-despite-demo-video-leak/",
+      "publishedAt": "2026-08-19T23:42:49.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "カメラ搭載AirPods、2026年の発売は見送りか",
+      "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、AppleがmacOSのベータ版コード内でビジュアルインテリジェンス機能のデモ動画を誤って公開したにもかかわらず、カメラを搭載したAirPodsの発売は2027年に予定されていると報じられています。社内では複数の開発コードネームが存在し初期のロードマップには2026年版も含まれていましたが、製品やソフトウェアの課題によりスケジュールが変更された模様です。"
+    },
+    {
+      "id": "e5ab2f785563d96ef176",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Camera AirPods Not Launching Until 2027 Despite Leaked Video",
+      "url": "https://www.macrumors.com/2026/08/19/airpods-with-cameras-2027-launch/",
+      "publishedAt": "2026-08-19T23:42:46.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/airpods-pro-3-peach.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "カメラ付きAirPodsは2027年まで登場しない見込み",
+      "summaryJa": "今週発見されたデモ動画によって早期の登場が期待されていたカメラ搭載AirPodsですが、2027年まで発売されないと報じられています。サプライチェーンやソフトウェアの課題が背景にあり、Appleは2026年のリリーススケジュールから該当モデルを除外しました。将来的なモデルには低解像度カメラが搭載され、Siriのビジュアルインテリジェンス機能と連携すると伝えられています。"
+    },
+    {
       "id": "b894838ec29043e1ffad",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "iPhone 18 Proは256GBストレージからスタートするか",
       "summaryJa": "台湾の調査会社TrendForceのレポートによると、次世代のiPhone 18 Proは最低容量が256GBからとなると報じられています。iPhone 17 Proでベース容量が引き上げられたのに続き、今年は容量自体の増加はない見込みです。一方で、メモリチップの不足などに伴う部品コストの上昇により、米国での販売価格は200ドルから300ドルほど値上がりする可能性が指摘されています。"
-    },
-    {
-      "id": "696aece9a1e44066ef96",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 beta 5 adds option to upgrade iCloud+ subscription for more AI",
-      "url": "https://9to5mac.com/2026/08/11/ios-27-beta-5-adds-option-to-upgrade-icloud-subscription-for-more-ai/",
-      "publishedAt": "2026-08-11T13:50:26.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27ベータ5、iCloud+のプランに応じたAI機能の拡充を確認",
-      "summaryJa": "今週配信されたiOS 27ベータ5において、より上位のiCloud+プランに加入することでApple Intelligenceの利用範囲が広がる仕組みが確認されました。ホームアプリ内の設定画面では、iCloud+のプランによってAIサマリー機能を利用できるカメラの台数などが異なることが示されています。現行のベータ版では、プランのアップグレードを促す案内が表示されるようになっており、正式リリースに向けて機能の詳細が整えられていく見通しです。"
-    },
-    {
-      "id": "1e5d6b76804bebb55b0a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Making sense of the conflicting 20th anniversary iPhone reports",
-      "url": "https://9to5mac.com/2026/08/11/making-sense-of-the-conflicting-20th-anniversary-iphone-reports/",
-      "publishedAt": "2026-08-11T13:18:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "次期iPhoneの記念モデルを巡り異なる報道が浮上",
-      "summaryJa": "Appleの長期的なビジョンである「一枚のガラス」のようなデザインを採用すると噂されるiPhoneの20周年記念モデルについて、異なる情報が伝えられています。あるアナリストは歩留まりの低さから開発が一時停止または中止されたと指摘する一方、別の情報源からは異なる見解も出ており、今後の動向が注目されています。"
     }
   ],
-  "updatedAt": "2026-08-19T23:37:35.162Z",
+  "updatedAt": "2026-08-19T23:59:24.563Z",
   "initialized": true,
   "summaryVersion": 4
 }
