@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2972deaa8716b8bb8320",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: Smart wearables market set to generate more than $1 trillion through 2032",
+      "url": "https://9to5mac.com/2026/08/19/report-smart-wearables-market-set-to-generate-more-than-1-trillion-through-2032/",
+      "publishedAt": "2026-08-19T21:21:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-AirPods-Pro-3-lifestyle-01-250909.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "スマートウェアGの市場規模、2032年までに1兆ドル突破か",
+      "summaryJa": "カウンターポイント・リサーチの予測によると、世界の消費者向けウェアラブル市場は2032年までに累計1兆ドル以上の売上を記録する見通しです。スマートウォッチとワイヤレスイヤホンが市場を牽引し、ヘルスケア機能やオンデバイスAIの進化が平均単価の上昇を支えるとされています。健康パッチやスマートリングなど新しいカテゴリーの成長も期待されています。"
+    },
+    {
       "id": "ba189f44a75cbf5bb33d",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "Apple Pay、インドで10月にもサービス開始か",
       "summaryJa": "関係者の話として、Apple Payが今年10月にもインドでサービスを開始する見込みであると報じられています。当初は主要なクレジットカードネットワークに対応する予定ですが、国内の決済システムであるUPIへの対応にはさらなる認可や銀行との提携が必要であり、現在も交渉が続けられていると伝えられています。"
-    },
-    {
-      "id": "6ea9185837c0aa852833",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Latest iOS 27 Beta References Six Unreleased iPhone Models",
-      "url": "https://www.macrumors.com/2026/08/11/ios-27-beta-codenames-iphone-18-lineup/",
-      "publishedAt": "2026-08-11T12:27:32.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/better-iphone-17-lineup.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS最新ベータ版に未発表iPhone 6モデルのコードが含まれる",
-      "summaryJa": "開発者向けに配信されたiOSのベータ版コード内から、未発表のiPhoneモデルに関する6つの内部識別子が見つかりました。これらのコードはバッテリー関連のシステムファイル内で確認されたもので、次世代のiPhone 18シリーズや折りたたみ式デバイスの登場に向けた憶測を呼んでいます。"
     }
   ],
-  "updatedAt": "2026-08-19T21:15:26.006Z",
+  "updatedAt": "2026-08-19T21:47:07.001Z",
   "initialized": true,
   "summaryVersion": 4
 }
