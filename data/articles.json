@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "a0df527a8ca3aa92f9dd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Things 3.23 update now available with major repeating to-do improvements",
+      "url": "https://9to5mac.com/2026/08/19/things-3-23-update-now-available-with-major-repeating-to-do-improvements/",
+      "publishedAt": "2026-08-19T14:03:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/things-repeat.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "タスク管理アプリ「Things 3.23」が登場、繰り返しタスクを大幅刷新",
+      "summaryJa": "人気タスク管理アプリの最新版となる「Things 3.23」がリリースされ、繰り返しタスクの機能が大幅に向上しました。予定日より前に完了できるチェックボックスの追加や、スケジュール変更時に単発の例外とするか今後のルール全体を更新するかを選ぶ機能などが搭載されています。さらに、一括操作の対応やMacとiOS間でのコード共通化なども行われ、より柔軟な運用が可能になっています。"
+    },
+    {
+      "id": "19a8507700632fb64b8e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Things 3.23 Brings Long-Requested Overhaul of Repeating To-Dos",
+      "url": "https://www.macrumors.com/2026/08/19/things-3-23-brings-long-requested-overhaul-of-repeating-to-dos/",
+      "publishedAt": "2026-08-19T14:00:06.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/things-3-repeating-tasks-update.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Things 3.23配信開始、長年要望されていた繰り返しタスクの改善を実施",
+      "summaryJa": "Cultured Codeは、タスク管理アプリ「Things 3.23」をリリースしました。ユーザーから長年要望されていた繰り返しタスクの柔軟性を高めるアップデートで、期限前の完了やリスケジュール時の例外設定、一括操作などが可能になっています。また、繰り返し項目の専用検索や、セットアップ画面のデザイン刷新なども含まれています。"
+    },
+    {
+      "id": "f8112256f1053cb5aa2d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Amazon announces huge drone delivery expansion, here’s where it’s coming next",
+      "url": "https://9to5mac.com/2026/08/19/amazon-announces-huge-drone-delivery-expansion-heres-where-its-coming-next/",
+      "publishedAt": "2026-08-19T13:52:32.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/amazon-prime-air-drone-delivery.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Amazon、ドローン配送サービスを大幅拡大へ",
+      "summaryJa": "Amazonは、プライム会員向けのドローン配送サービス「Prime Air」を大幅に拡大する計画を発表しました。2026年末までに米国のおよそ500都市にサービスを届ける方針で、現在の提供エリアから数倍規模の拡大となります。食料品や日用品などを最短30分で届ける迅速な配送網が、今後さらに多くの地域で利用できるようになります。"
+    },
+    {
+      "id": "0c94941205662c0f68ee",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Amazon and Best Buy Offer Up to $500 Discounts on 2026 MacBook Pro",
+      "url": "https://www.macrumors.com/2026/08/19/500-discounts-macbook-pro/",
+      "publishedAt": "2026-08-19T13:51:40.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/macbook-pro-spring.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "米AmazonやBest BuyでMacBook Proが最大500ドル引きのセール",
+      "summaryJa": "米国のAmazonやBest Buyにおいて、M5 ProおよびM5 Maxを搭載したMacBook Proの一部モデルが割引価格で販売されています。対象モデルによって最大500ドルの値引きとなっており、14インチおよび16インチの複数の構成でお得な価格が確認されています。記念セールなどのタイミングに合わせて、より手頃に購入できる機会となっています。"
+    },
+    {
       "id": "1771ec82e56bd42561cc",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4444,69 +4504,9 @@
       ],
       "titleJa": "Apple公式認定整備済製品で今週の注目モデルを紹介",
       "summaryJa": "Appleの公式認定整備済ストアでは、iPhoneやMacBook、Studio Displayなど多彩な製品が通常よりお得な価格で販売されています。すべての製品はAppleの厳格な整備プロセスを通過しており、1年間の限定保証や14日間の返品ポリシーも適用されるため安心して購入できます。在庫は変動しやすいものの、最新モデルや人気のApple Watchなどを割安に入手できる優れた選択肢となっています。"
-    },
-    {
-      "id": "49253163f3b8dcc24af3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple is working on a way to authenticate that a photo came from an iPhone camera",
-      "url": "https://9to5mac.com/2026/08/10/apple-is-working-on-a-way-to-authenticate-that-a-photo-came-from-an-iphone-camera/",
-      "publishedAt": "2026-08-10T19:49:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPhoneの写真真贋を証明する新機能を開発中か",
-      "summaryJa": "iOS 27ベータ5のコードから、iPhoneのカメラで撮影された写真のソースを認証する新しい仕組み「Apple Reference Image」の開発が進んでいることが明らかになりました。生成AIによる偽画像が問題となる中、プライバシーに配慮したPrivate Cloud Computeを活用して元の写真データにアクセスすることなく検証を行う設計となっています。"
-    },
-    {
-      "id": "f0e8eba51300ba95afd5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 Beta 5 Brings New Icons for Siri, Safari, Settings and More",
-      "url": "https://www.macrumors.com/2026/08/10/ios-27-beta-5-icons/",
-      "publishedAt": "2026-08-10T19:18:50.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/ios-27-b5-icons.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27ベータ5、SiriやSafariなどのアイコンを刷新",
-      "summaryJa": "Appleは「iOS 27」のベータ5において、SafariやSiri、設定などのアプリデザインにさらなる微調整を加えています。リキッドグラスの美学に合わせたレイヤー感のあるデザインを採用し、半透明効果や詳細な描写へとアップデートされました。正式リリースは約1ヶ月後に迫っており、今後のベータ版でのさらなるアイコン刷新の可能性も示唆されています。"
-    },
-    {
-      "id": "163469365267c784b504",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AirTag 2 gets even better with this add-on accessory",
-      "url": "https://9to5mac.com/2026/08/10/airtag-2-gets-even-better-with-this-add-on-accessory/",
-      "publishedAt": "2026-08-10T19:09:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airtag-2-radiating-sound.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirTagのバッテリー寿命を最大10年以上に延ばす拡張ケース",
-      "summaryJa": "AirTagの電池寿命を飛躍的に向上させるサードパーティ製の拡張ケースが紹介されています。単3電池を使用することで、通常の約1年間から10年以上へと容量を増やすことが可能です。本体のサイズや厚みは増しますが、定期的な電池交換の手間を減らしたいユーザーにとって実用的なソリューションとなっています。"
-    },
-    {
-      "id": "6f6df5835d4f09085bc5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Latest iOS 27 Beta Expands Siri AI Voice Customization",
-      "url": "https://www.macrumors.com/2026/08/10/ios-27-siri-ai-voice-customization/",
-      "publishedAt": "2026-08-10T18:57:57.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/ios-27-siri-voice.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27ベータ5、Siri AIの音声カスタマイズ機能が拡大",
-      "summaryJa": "最新のiOS 27ベータ5において、Siri AIの音声カスタマイズオプションが拡張されました。アメリカ英語の音声に加え、新たにイギリス英語の音声でも話す速度や抑揚の調整が可能になっています。この機能は、デバイス上で処理を行うため、対応する最新のiPhoneやMac、iPadなどのハードウェアが必要となります。"
     }
   ],
-  "updatedAt": "2026-08-19T13:23:55.034Z",
+  "updatedAt": "2026-08-19T14:06:34.969Z",
   "initialized": true,
   "summaryVersion": 4
 }
