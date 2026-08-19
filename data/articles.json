@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "fbd16b65ddfc78d4ef3c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "College Students Can Get a Free Year of Google AI Pro",
+      "url": "https://www.macrumors.com/2026/08/19/students-free-year-google-ai-pro/",
+      "publishedAt": "2026-08-19T19:00:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/google-ai-student-discount.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Google、大学生向けにAIプランを1年間無料で提供",
+      "summaryJa": "米国の適格な大学生を対象に「Google AI Pro」が1年間無料で提供されることになりました。米国以外の学生には「Google AI Plus」が提供され、Geminiの利用制限緩和や大容量のストレージ機能などが利用可能です。さらに、YouTube Premiumとの割引バンドルや、学習をサポートする新しいハブ機能などもあわせて展開されます。"
+    },
+    {
       "id": "9d0c21282db02788dbc8",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "2027年のiPhoneはガラス中心のデザインに刷新か",
       "summaryJa": "Bloombergのマーク・ガーマン記者が、2027年の20周年記念モデル向けiPhoneとして計画されているガラス中心のデザイン刷新は現在も順調に進行していると報じています。アナリストによるキャンセルとの観測に対して反論する形で、前後を覆うガラスと中央のメタルバンドを採用する仕様がProモデル向けに準備されているとしています。"
-    },
-    {
-      "id": "c3bf1cb216344cece1e2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s 20th-anniversary iPhone redesign reportedly remains on track",
-      "url": "https://9to5mac.com/2026/08/10/apples-20th-anniversary-iphone-redesign-reportedly-remains-on-track/",
-      "publishedAt": "2026-08-11T02:14:14.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Mac-hardware-is-great-but-macOS-26-is-a-disaster-say-pundits.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "次期Proモデルのガラス筐体デザインは継続か",
-      "summaryJa": "一部のアナリスト企業が20周年記念iPhoneの全面ガラスモデルの計画中止を指摘していましたが、Bloombergによると来年のProモデルに向けた新しいガラス調のデザイン刷新は予定通り進行中とのことです。初期のデザイン案からは製造上の理由で一部変更されたものの、製品ロードマップ自体には変更がないと報じられています。"
     }
   ],
-  "updatedAt": "2026-08-19T18:49:00.876Z",
+  "updatedAt": "2026-08-19T19:17:15.776Z",
   "initialized": true,
   "summaryVersion": 4
 }
