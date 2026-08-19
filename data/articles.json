@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "c12deb16946665c39cb9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Next Apple TV Rumored to Have Five New Features, Including Siri AI",
+      "url": "https://www.macrumors.com/2026/08/19/new-apple-tv-five-rumored-upgrades/",
+      "publishedAt": "2026-08-19T14:43:14.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/10/apple-tv-4k-yellow-bg-feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "次期Apple TVに5つの新機能か、Siri AIやA17 Pro搭載の噂",
+      "summaryJa": "次期Apple TV 4Kには、A17 Pro以降のチップや大容量RAMが搭載され、Siri AIに対応する可能性が報じられています。コード内から新しいSiriのエントリが見つかっており、tvOSのアップデートを通じてApple Intelligence機能が利用できるようになると期待されています。Wi-Fi 7をサポートするN1チップの採用や、リモコンの刷新も噂されています。"
+    },
+    {
+      "id": "95910690be73466149db",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "ClarityCheck people-finder left millions of face photos exposed, likely without their knowledge",
+      "url": "https://9to5mac.com/2026/08/19/claritycheck-people-finder-left-millions-of-face-photos-exposed-likely-without-their-knowledge/",
+      "publishedAt": "2026-08-19T14:17:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ClarityCheck-people-finder-left-millions-of-face-photos-exposed.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "顔認識ツール「ClarityCheck」で数百万枚の写真が流出か",
+      "summaryJa": "顔認証で個人検索を行うツール「ClarityCheck」において、数百万枚におよぶ顔写真がパスワード保護なしでインターネット上に公開状態になっていたことが判明しました。セキュリティ研究者によって発見されたこのデータベースには、大人や子どもの顔写真が含まれており、本人の同意なしにアップロードされた可能性が高いとされています。"
+    },
+    {
       "id": "a0df527a8ca3aa92f9dd",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "極薄チタン仕上げを採用したMagSafe対応モバイルバッテリーが登場",
       "summaryJa": "TESSANの「AERO 5000」は、クレジットカード3枚分ほどの厚みとなるわずか6.9ミリの極薄設計に加え、iPhoneと同等のチタン仕上げを採用したMagSafe対応バッテリーです。半固体電池技術の採用によって発熱や熱暴走のリスクを大幅に軽減しているのが特徴です。ワイヤレスで最大15W、USB-Cポート接続で最大20Wの出力に対応し、安全性とデザイン性を両立させています。"
-    },
-    {
-      "id": "6e2bb7009a475d782c32",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV teams up with Academy Award-winning director for the second time",
-      "url": "https://9to5mac.com/2026/08/10/apple-tv-teams-up-with-academy-award-winning-director-for-the-second-time/",
-      "publishedAt": "2026-08-10T20:51:02.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-02.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、アルフォンソ・キュアロン監督と再びタッグ",
-      "summaryJa": "Apple TVは、アカデミー賞受賞監督であるアルフォンソ・キュアロンと再び組み、新作サイコホラースリラーシリーズ「Ascension」を制作すると発表しました。アダム・ネヴィルの小説「Last Days」にインスパイアされた作品で、ドキュメンタリー filmmakerの主人公が謎めいたカルト教団の調査を通じて恐ろしい真実に直面する姿を描きます。両者の協業は「免罪符」に続く2作目となります。"
-    },
-    {
-      "id": "061d5013f09f81fdae5d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple official refurb store: Save hundreds on our top picks of the week",
-      "url": "https://9to5mac.com/2026/08/10/apple-official-refurb-store-top-picks/",
-      "publishedAt": "2026-08-10T20:21:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-Refurb-Store-Weekly.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple公式認定整備済製品で今週の注目モデルを紹介",
-      "summaryJa": "Appleの公式認定整備済ストアでは、iPhoneやMacBook、Studio Displayなど多彩な製品が通常よりお得な価格で販売されています。すべての製品はAppleの厳格な整備プロセスを通過しており、1年間の限定保証や14日間の返品ポリシーも適用されるため安心して購入できます。在庫は変動しやすいものの、最新モデルや人気のApple Watchなどを割安に入手できる優れた選択肢となっています。"
     }
   ],
-  "updatedAt": "2026-08-19T14:06:34.969Z",
+  "updatedAt": "2026-08-19T14:54:01.660Z",
   "initialized": true,
   "summaryVersion": 4
 }
