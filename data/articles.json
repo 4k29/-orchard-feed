@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d5b455f52b689e28d78b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "HomePad code suggests it’ll act like a giant Apple Watch",
+      "url": "https://9to5mac.com/2026/08/19/homepad-code-suggests-itll-act-like-a-giant-apple-watch/",
+      "publishedAt": "2026-08-19T11:44:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/homepad-rainbow-hello-homepod.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "次期ホームデバイス「HomePad」は巨大なApple Watchのようになる可能性か",
+      "summaryJa": "最新のmacOSベータ版コードから、長年噂されているディスプレイ付きスマートホームデバイス「HomePad」の詳細が明らかになると報じられています。tvOSをベースにしながらも、Apple Watchのような文字盤やウィジェットを備えたホーム画面を採用し、iPhoneが近くにある場合のみ個人情報を表示するプライバシー機能も搭載される見込みです。"
+    },
+    {
+      "id": "e4e66f961166c221a0bd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Otterbox and Astropad think iPhone 17 Pro cases will fit iPhone 18 Pro",
+      "url": "https://9to5mac.com/2026/08/19/otterbox-and-astropad-think-iphone-17-pro-cases-will-fit-iphone-18-pro/",
+      "publishedAt": "2026-08-19T11:21:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 17 Proのケースは次期モデル「iPhone 18 Pro」にも共用可能か",
+      "summaryJa": "アクセサリーメーカーが、現行のiPhone 17 Pro向けケースが次期iPhone 18 Proにもそのまま適合すると見込んでいると伝えられています。小売店のパッケージやサプライヤー情報から寸法が同じ可能性が指摘されているものの、本体の厚み増加に関する相反する噂もあり、今後の動向が注目されています。"
+    },
+    {
       "id": "f40486f69c41136d0511",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "「iOS 27 beta 5」が登場、Liquid Glassのデザイン調整やSiri音声を拡張",
       "summaryJa": "Appleが開発者向けに「iOS 27 beta 5」をリリースしました。今回のベータ版では、Liquid Glassデザインに基づくSafariやSiriなどのアイコンの刷新や、Siriの音声オプションの拡充が行われています。秋の正式リリースに向け、今後もバグ修正や機能の調整が順次進められる予定です。"
-    },
-    {
-      "id": "1fe0246d04e19ec090dc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "The new iOS 27 beta further expands Siri voice customization options",
-      "url": "https://9to5mac.com/2026/08/10/the-new-ios-27-beta-further-expands-siri-voice-customization-options/",
-      "publishedAt": "2026-08-10T18:21:52.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-voice-expressivity-pace-ios-27-beta.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27ベータ5、Siri音声のカスタマイズ範囲を拡大",
-      "summaryJa": "Appleは「iOS 27 beta 5」をリリースし、Siriの音声カスタマイズ機能を利用できる音声を大幅に拡大しました。これまでは一部のアメリカ英語の音声のみだった話速と感情表現のスライダーが、すべての米国音声および英国音声にも対応し、合計12種類の音声で細かな調整が可能になりました。この機能には最新の強力なオンデバイスモデルが必要となります。"
-    },
-    {
-      "id": "5c54ddec20b7ade07938",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 beta 5 adds new app icons for Siri, Safari, and more",
-      "url": "https://9to5mac.com/2026/08/10/ios-27-beta-5-adds-new-app-icons-for-siri-safari-and-more/",
-      "publishedAt": "2026-08-10T18:14:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27-beta-5-app-icons.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27ベータ5、SiriやSafariなどの新しいアプリアコを変更",
-      "summaryJa": "Appleは来月の正式リリースに向け、「iOS 27 beta 5」を配信開始しました。今回のベータ版では、SiriやSafari、設定などのシステムアプリで新しいアイコンが導入されています。前回のベータ版から続く「リキッドガラス」のデザイン言語のブラッシュアップの一環とみられ、細部の調整が続けられています。"
     }
   ],
-  "updatedAt": "2026-08-19T11:18:27.729Z",
+  "updatedAt": "2026-08-19T11:46:47.397Z",
   "initialized": true,
   "summaryVersion": 4
 }
