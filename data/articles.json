@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "f40486f69c41136d0511",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 17 Pro Cases Fit iPhone 18 Pro - Or At Least Otterbox Thinks So",
+      "url": "https://www.macrumors.com/2026/08/19/iphone-17-pro-cases-fit-iphone-18-pro/",
+      "publishedAt": "2026-08-19T09:39:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iphone-17-18-pro-case-otterbox@2x-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "次期iPhone 18 ProのケースはiPhone 17 Proと互換性があるか",
+      "summaryJa": "米大手アクセサリーメーカーのOtterboxが、次期iPhone 18 Pro向けのケースをすでに販売していると報じられています。パッケージの表記によると、iPhone 17 ProとiPhone 18 Proの間でケースを互換利用できる仕様になっているとのことです。iPhone 18 Proシリーズは前モデルのデザインを概ね維持するとみられていますが、一部ではバッテリー容量の増加に伴う本体の厚みや重量の変化を指摘する声もあります。"
+    },
+    {
       "id": "0b43c446ff4e48c0447b",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "iOS 27ベータ5、SiriやSafariなどの新しいアプリアコを変更",
       "summaryJa": "Appleは来月の正式リリースに向け、「iOS 27 beta 5」を配信開始しました。今回のベータ版では、SiriやSafari、設定などのシステムアプリで新しいアイコンが導入されています。前回のベータ版から続く「リキッドガラス」のデザイン言語のブラッシュアップの一環とみられ、細部の調整が続けられています。"
-    },
-    {
-      "id": "5e426b17acd5900fb3d0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases iOS 26.6.1 beta for iPhone, plus more",
-      "url": "https://9to5mac.com/2026/08/10/apple-releases-ios-26-6-1-beta-for-iphone/",
-      "publishedAt": "2026-08-10T17:59:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iOS 26.6.1などのベータ版を突如リリース",
-      "summaryJa": "Appleは「iOS 27 beta 5」の提供と同時に、iOS 26.6.1やmacOS 26.6.2といった既存OS向けのマイナーアップデートのベータ版を新たに公開しました。小規模なポイント更新で事前にベータ版が配布されるのは異例の対応となります。主にセキュリティの向上や不具合の修正が含まれているとみられています。"
     }
   ],
-  "updatedAt": "2026-08-19T09:03:04.204Z",
+  "updatedAt": "2026-08-19T09:45:49.409Z",
   "initialized": true,
   "summaryVersion": 4
 }
