@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "534fe894857ed2eb0e5f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple will launch 10+ new products soon, with September event coming",
+      "url": "https://9to5mac.com/2026/08/19/apple-will-launch-10-new-products-soon-with-september-event-coming/",
+      "publishedAt": "2026-08-19T15:17:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus-product-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、9月のイベント開催へ向けて多数の新製品を準備中か",
+      "summaryJa": "Appleは間近に迫った9月のイベントにて、多数の新製品を発表すると報じられています。次期iPhoneシリーズやApple Watchをはじめ、赤外線カメラを搭載した新型AirPodsや、複数のホーム製品が含まれる可能性が伝えられています。"
+    },
+    {
+      "id": "4c0b89e28d4431e8a061",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Accidentally Leaked More Than 10 New Products in macOS Update",
+      "url": "https://www.macrumors.com/2026/08/19/apple-leak-macos-26-7/",
+      "publishedAt": "2026-08-19T15:03:06.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Apple-Event-Logo.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "macOSアップデートから10を超える未発表製品の存在が浮上",
+      "summaryJa": "Appleが公開したmacOSのベータ版コード内から、10を超える未発表のハードウェア製品に関する記述が見つかったと報じられています。赤外線カメラ搭載のAirPodsやスマートホームハブ、OLEDディスプレイを搭載したiPad miniなどが言及されている模様です。"
+    },
+    {
       "id": "c12deb16946665c39cb9",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "Apple、iOS 27ベータ5でアプリアイクンやSiri機能を調整",
       "summaryJa": "Appleはリリースを控えるiOS 27のベータ5を公開し、複数のアプリコーンのデザイン変更やLiquid Glassの調整を実施しました。Siri AIでは音声カスタマイズ機能が拡張され、対応デバイスでテンポや表現力の調整が可能になっています。また、連絡先リストでの企業名表示や、米国以外の地域におけるApple Walletのパス作成機能なども追加されました。"
-    },
-    {
-      "id": "57a7da7aeef64874fdee",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp’s latest beta for iOS adds references to an in-chat search tool",
-      "url": "https://9to5mac.com/2026/08/10/whatsapps-latest-beta-for-ios-adds-references-to-an-in-chat-search-tool/",
-      "publishedAt": "2026-08-10T21:36:22.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS版WhatsApp、チャット内の検索をより素早く行える機能をテスト中か",
-      "summaryJa": "iOS向けWhatsAppの最新ベータ版から、会話画面内でより素早く過去のメッセージを検索できる新しいボタンの追加に向けた準備が進められていることが明らかになりました。チャット履歴を上にスクロールした際、画面の右下に一時的に検索ボタンが表示される仕組みとなる見込みです。正式なリリースに向けて、現在はTestFlightのベータテスター向けの開発段階にあります。"
-    },
-    {
-      "id": "cea9ffcbf3c0d5785c9d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "MagSafe Monday: The TESSAN AERO 5000 brings a titanium finish to an ultra thin battery",
-      "url": "https://9to5mac.com/2026/08/10/tessan-aero-5000/",
-      "publishedAt": "2026-08-10T21:20:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/TESSAN-AERO-5000-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "極薄チタン仕上げを採用したMagSafe対応モバイルバッテリーが登場",
-      "summaryJa": "TESSANの「AERO 5000」は、クレジットカード3枚分ほどの厚みとなるわずか6.9ミリの極薄設計に加え、iPhoneと同等のチタン仕上げを採用したMagSafe対応バッテリーです。半固体電池技術の採用によって発熱や熱暴走のリスクを大幅に軽減しているのが特徴です。ワイヤレスで最大15W、USB-Cポート接続で最大20Wの出力に対応し、安全性とデザイン性を両立させています。"
     }
   ],
-  "updatedAt": "2026-08-19T14:54:01.660Z",
+  "updatedAt": "2026-08-19T15:28:25.786Z",
   "initialized": true,
   "summaryVersion": 4
 }
