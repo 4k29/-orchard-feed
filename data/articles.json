@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "ba189f44a75cbf5bb33d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS Golden Gate adds a new app to your Mac; here’s what it can do",
+      "url": "https://9to5mac.com/2026/08/19/macos-27-new-siri-app-features/",
+      "publishedAt": "2026-08-19T20:56:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-app-macOS-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Mac向け次期OSに専用のSiriアプリが追加か",
+      "summaryJa": "次期macOSでは、Mac向けとして初となる専用のSiriアプリがドックに追加されると報じられています。新しく再設計されたSiriアーキテクチャにより、パーソナルコンテキストの理解や画面上の認識機能などが統合され、会話履歴の閲覧やiCloudを通じたデバイス間の同期が可能になる見込みです。"
+    },
+    {
       "id": "f01a924d93d1ff5cbdfd",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "iOS最新ベータ版に未発表iPhone 6モデルのコードが含まれる",
       "summaryJa": "開発者向けに配信されたiOSのベータ版コード内から、未発表のiPhoneモデルに関する6つの内部識別子が見つかりました。これらのコードはバッテリー関連のシステムファイル内で確認されたもので、次世代のiPhone 18シリーズや折りたたみ式デバイスの登場に向けた憶測を呼んでいます。"
-    },
-    {
-      "id": "9eb6992604384a55438d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple faces class action lawsuit for ‘fraud’ over iCloud Private Relay flaw",
-      "url": "https://9to5mac.com/2026/08/11/apple-faces-class-action-lawsuit-for-fraud-over-icloud-private-relay-flaw/",
-      "publishedAt": "2026-08-11T11:46:25.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-faces-class-action-lawsuit-for-fraud-over-iCloud-Private-Relay-flaw.webp?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iCloudプライベートリレーの不具合を巡りAppleが集団訴訟に直面",
-      "summaryJa": "AppleのiCloudプライベートリレー機能に、パスキー関連の処理によって実際のIPアドレスが露出しトラッキングを防げなくなる脆弱性が見つかりました。この問題を巡り、Appleに対して虚偽の広告などを理由とする集団訴訟が提起されています。プライベートリレーはSafari利用時のIPアドレスと閲覧履歴の保護を目的としていますが、一部の仕様の隙間を突く形で実際の接続元が判明してしまう状態となっていました。"
     }
   ],
-  "updatedAt": "2026-08-19T20:48:23.079Z",
+  "updatedAt": "2026-08-19T21:15:26.006Z",
   "initialized": true,
   "summaryVersion": 4
 }
