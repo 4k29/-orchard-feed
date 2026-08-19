@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "5805802cf5b323335989",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Beats 360 Over-Ear Headphones Leak in Retail Listings",
+      "url": "https://www.macrumors.com/2026/08/19/beats-360-headphones/",
+      "publishedAt": "2026-08-19T17:36:58.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Beats-360-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Beatsの新型オーバーイヤーヘッドホンか、小売サイトに情報掲載",
+      "summaryJa": "Beatsの新型オーバーイヤーヘッドホンとみられる「Beats 360」の情報が一時的に小売サイトに掲載され、詳細が明らかになったと報じられています。これまでのモデルとは異なる丸みを帯びたデザインを採用し、AirPods Maxのようなメッシュ生地のイヤーカップやヘッドバンドを備えるほか、ブランド初となる耐汗・耐水性能を搭載しているとのことです。"
+    },
+    {
       "id": "4cd67f8ab0300a07d4d1",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "ジェフリーズ、20周年記念iPhoneの噂を理由にApple株を引き下げ",
       "summaryJa": "投資会社ジェフリーズが、サプライチェーンの調査に基づきAppleの株式格付けを引き下げました。20周年記念モデルとして期待されていた全面ガラス製iPhoneの開発が、製造上の歩留まりの問題により中止されたとの見方を示しています。この計画の頓挫は、メモリコストの上昇が見込まれる中で高価格帯モデルによる収益拡大を目指すAppleにとって大きな打撃になると分析されています。"
-    },
-    {
-      "id": "0d0d7e94390f29465b08",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 Hints at 'Apple Reference Image' Photo Authentication",
-      "url": "https://www.macrumors.com/2026/08/10/ios-27-apple-reference-image/",
-      "publishedAt": "2026-08-11T00:08:29.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/08/iOS-26-Glass-Photos-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS、写真認証機能「Apple Reference Image」を準備か",
-      "summaryJa": "Appleが開発中の写真の真偽を証明する仕組み「Apple Reference Image」の存在がベータ版から明らかになりました。カメラアプリで専用の「リファレンス」モードを使って撮影するとメタデータに証拠データが埋め込まれ、iPhoneで撮影されたものかを検証できるようになります。AIによるリアルタイムな画像生成が増える中、プロの写真家やジャーナリスト向けのハードウェアレベルの認証手段として提供される見込みです。"
     }
   ],
-  "updatedAt": "2026-08-19T17:37:06.725Z",
+  "updatedAt": "2026-08-19T18:00:00.706Z",
   "initialized": true,
   "summaryVersion": 4
 }
