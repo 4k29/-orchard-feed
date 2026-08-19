@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "aaaa9d9a09c2e169fcc0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro: Three new design updates are coming",
+      "url": "https://9to5mac.com/2026/08/19/iphone-18-pro-three-new-design-updates-are-coming-this-year/",
+      "publishedAt": "2026-08-19T20:03:12.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの3つのデザイン変更に関する噂",
+      "summaryJa": "次期モデルとなるiPhone 18 ProおよびPro Maxについて、いくつかのデザイン変更が計画されていると報じられています。背面ガラスとアルミニウムの色差を軽減した統一感のあるデザイン採用のほか、約35%小型化した新しいDynamic Islandの搭載、さらにダークチェリーをはじめとする新たな本体カラーの追加が噂されています。"
+    },
+    {
+      "id": "f7e500df3a1c42cbeb42",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Special 1-day Apple anniversary sale: AirPods Pro 3, MacBook Pro $400 off, iPhone Air/17 Pro, AirTag 2, more",
+      "url": "https://9to5mac.com/2026/08/19/special-1-day-apple-anniversary-sale-airpods/",
+      "publishedAt": "2026-08-19T19:53:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-anniversary-sale.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple製品が最大400ドル引きとなる特別セール開催",
+      "summaryJa": "米国の家電量販店ベスト・バイの創立60周年記念セールに合わせ、Apple製品を対象とした1日限りの特別割引が実施されています。AirPods Pro 3やAirPods Max 2の大幅値引きに加え、M5 Pro搭載のMacBook Proが400ドル引き、iPhone Airが170ドル引きなど、複数の公式製品やアクセサリーが特別価格で販売されています。"
+    },
+    {
+      "id": "007f36456602e81c469f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Apple Store Reportedly Opening in Idaho",
+      "url": "https://www.macrumors.com/2026/08/19/new-apple-store-in-idaho-report/",
+      "publishedAt": "2026-08-19T19:46:44.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/07/Apple-Store-Logo.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "アイダホ州に新しいApple Storeがオープンか",
+      "summaryJa": "アイダホ州ボイシ近郊の屋外ショッピング施設に、新しいApple Storeがオープンする計画があると報じられています。確認された建築許可証によると、店舗の規模は約1万平方メートルとなり、9月の新型iPhone発売時期に合わせたオープンを目指していると伝えられています。"
+    },
+    {
       "id": "139430f8f3db4d6251e0",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4459,54 +4504,9 @@
       ],
       "titleJa": "2027年発売の次期iPad Air向けOLEDパネル、BOEが供給参入か",
       "summaryJa": "中国のディスプレイメーカーであるBOEが、2027年前半に登場と噂される次世代iPad Air向けのOLEDパネル供給を目指していると報じられています。現在はSamsung Displayが主要サプライヤーとなる見込みですが、BOEは重慶の工場で生産準備を進めており、Appleの品質評価を通過すればサプライチェーンに加わる可能性があります。ただし、初期の供給量は中国市場向けや整備品などに限定される見通しです。"
-    },
-    {
-      "id": "8a562152d20175f24be1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "China now even less likely to solve Apple’s memory crunch",
-      "url": "https://9to5mac.com/2026/08/11/china-now-even-less-likely-to-solve-apples-memory-crunch/",
-      "publishedAt": "2026-08-11T11:01:05.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/China-now-even-less-likely-to-solve-Apples-memory-crunch.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "中国メーカーからのメモリ調達、実現はさらに困難か",
-      "summaryJa": "Appleがメモリ不足対策として検討していた中国企業からのRAM調達について、実現の可能性がさらに低くなっていると報じられています。米議員による制裁リスト追加の要請に加え、サプライヤー側も生産能力の限界に達していることが背景にあります。政治的なリスクや供給面での課題から、この解決策は極めて厳しい状況となっています。"
-    },
-    {
-      "id": "c8492f2907005897c4aa",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple @ Work Podcast: 300 devices later – thoughts on ChromeOS vs macOS",
-      "url": "https://9to5mac.com/2026/08/11/300-devices-later-thoughts-on-chromeos-vs-macos/",
-      "publishedAt": "2026-08-11T10:02:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ChromeOSとmacOSの導入を比較する",
-      "summaryJa": "Apple @ Workポッドキャストの最新エピソードでは、ChromeOSとmacOSの導入に関する長所と短所について議論しています。多くのデバイスを実際に展開・運用した経験をもとに、それぞれのプラットフォームの特徴や違いを掘り下げています。企業のデバイス管理における現実的な視点を提供する内容となっています。"
-    },
-    {
-      "id": "4958b09c32d14555d101",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Bluesky Now Lets You Hide Reposts From Specific Users in Your Feeds",
-      "url": "https://www.macrumors.com/2026/08/11/bluesky-lets-you-hide-reposts-in-feeds/",
-      "publishedAt": "2026-08-11T09:02:14.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/bluesky-logo.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Bluesky、特定のユーザーのリポストを非表示にする機能を導入",
-      "summaryJa": "Blueskyは、フィード上で特定のユーザーによるリポストを非表示にできる新機能を実装しました。プロフィールのメニューから簡単に設定が可能となり、スパムのように感じられるリポストを整理できます。また、スレッドの長さを把握しやすくする投稿番号の自動追加機能もベータ版として提供を開始しています。"
     }
   ],
-  "updatedAt": "2026-08-19T19:46:38.909Z",
+  "updatedAt": "2026-08-19T20:14:04.837Z",
   "initialized": true,
   "summaryVersion": 4
 }
