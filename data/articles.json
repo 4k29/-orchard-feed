@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "27d4c164ada0e7f2ee4d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Meta AI Launches Mac App With Screen Sharing and Dictation",
+      "url": "https://www.macrumors.com/2026/08/19/meta-ai-mac-app/",
+      "publishedAt": "2026-08-19T22:35:26.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/02/meta-ai.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Meta、画面共有や音声入力を備えたMac向けAIアプリを公開",
+      "summaryJa": "Metaは、ビジネスユーザーやコンテンツクリエーターを主な対象とした新しいMeta AIアプリのベータ版をMac向けにリリースしました。FacebookやInstagramと連携し、パフォーマンスに関する質問への回答やGoogle Workspaceへのアクセス機能を提供します。また、作業中の画面を共有できるウィンドウ共有機能や、Macの全アプリで使える音声入力機能も備えています。無料で使用できますが、プライバシーポリシーによりAIとのやり取りがモデルの学習に利用される点には注意が必要です。"
+    },
+    {
       "id": "2972deaa8716b8bb8320",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "iOSのベータ版コードから未発表のiPhone 6機種が判明か",
       "summaryJa": "公開された最新のiOSベータ版のシステムファイルから、今後発売が予定されている6つの未発表iPhoneモデルを示す内部識別子が発見されました。これにはiPhone 18シリーズや折りたたみ式モデル、iPhone Air 2などが含まれており、今後の製品展開に向けた準備が進められていることを示唆しています。"
-    },
-    {
-      "id": "1c918a92698fe2cbe783",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Pay to Launch in India by October",
-      "url": "https://www.macrumors.com/2026/08/11/apple-pay-to-launch-in-india-by-october/",
-      "publishedAt": "2026-08-11T12:58:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2023/11/apple-pay-feature-dynamic-island.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Pay、インドで10月にもサービス開始か",
-      "summaryJa": "関係者の話として、Apple Payが今年10月にもインドでサービスを開始する見込みであると報じられています。当初は主要なクレジットカードネットワークに対応する予定ですが、国内の決済システムであるUPIへの対応にはさらなる認可や銀行との提携が必要であり、現在も交渉が続けられていると伝えられています。"
     }
   ],
-  "updatedAt": "2026-08-19T22:13:08.430Z",
+  "updatedAt": "2026-08-19T22:44:32.206Z",
   "initialized": true,
   "summaryVersion": 4
 }
