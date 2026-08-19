@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "1771ec82e56bd42561cc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Hidden AirTag appears to confirm suspicions about illicit AI book scanning",
+      "url": "https://9to5mac.com/2026/08/19/hidden-airtag-appears-to-confirm-suspicions-about-illicit-ai-book-scanning/",
+      "publishedAt": "2026-08-19T12:20:38.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/airtag-2-01.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirTagの追跡で判明したAI企業による書籍の無断スキャン",
+      "summaryJa": "古本の大量購入がAI企業のトレーニング用スキャンではないかという疑惑について、調査メディアが隠したAirTagによって実態が明らかになりました。古本はAmazonの施設に送られ、AI学習用のテキストとして高速スキャンするために背表紙が切り落とされて処分されていることが確認されています。作家の同意や対価のないこうした無断使用には倫理的な問題があり、今回の追跡調査が決定的な証拠となりました。"
+    },
+    {
+      "id": "66faf350350c2bc3cf1c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPad Mini 8: Release Date, Pricing, and What to Expect",
+      "url": "https://www.macrumors.com/2026/08/19/ipad-mini-8-release-date-pricing-what-to-expect/",
+      "publishedAt": "2026-08-19T12:17:28.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/10/ipad-mini-7-feature-blue.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "次世代iPad miniの発売時期と性能の噂",
+      "summaryJa": "Appleが次世代の「iPad mini 8」の開発を進めており、近いうちに発表されるのではないかと報じられています。コードの解析から、プロセッサにはA19 Proチップの中位モデルが採用される可能性が指摘されています。また、新型ではGPU性能の向上や16コアのNeural Engineなどが搭載され、AIタスクへの対応強化が期待されています。"
+    },
+    {
       "id": "d5b455f52b689e28d78b",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "iOS 27ベータ5、Siri AIの音声カスタマイズ機能が拡大",
       "summaryJa": "最新のiOS 27ベータ5において、Siri AIの音声カスタマイズオプションが拡張されました。アメリカ英語の音声に加え、新たにイギリス英語の音声でも話す速度や抑揚の調整が可能になっています。この機能は、デバイス上で処理を行うため、対応する最新のiPhoneやMac、iPadなどのハードウェアが必要となります。"
-    },
-    {
-      "id": "6e29a3d6cb813d1db3f3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Cutting Back 2026 Hardware Shipments Due to Memory Shortage",
-      "url": "https://www.macrumors.com/2026/08/10/apple-cutting-2026-hardware-shipments/",
-      "publishedAt": "2026-08-10T18:38:55.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/iPhone-18-Pro-Rumored-Colors.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、メモリ不足の影響で2026年のハードウェア出荷計画を縮小か",
-      "summaryJa": "アナリストの郭明錤氏によると、AppleはDRAMの供給不足により、2026年のハードウェア出荷計画を縮小していると伝えられています。AIデータセンター向けの需要が優先されていることが背景にあり、Macや新型iPhoneなどの製品供給や価格に影響を与える可能性があります。"
-    },
-    {
-      "id": "a70204d5f5546248705a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s what’s new with iOS 27 beta 5",
-      "url": "https://9to5mac.com/2026/08/10/heres-whats-new-with-ios-27-beta-5/",
-      "publishedAt": "2026-08-10T18:30:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-light-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "「iOS 27 beta 5」が登場、Liquid Glassのデザイン調整やSiri音声を拡張",
-      "summaryJa": "Appleが開発者向けに「iOS 27 beta 5」をリリースしました。今回のベータ版では、Liquid Glassデザインに基づくSafariやSiriなどのアイコンの刷新や、Siriの音声オプションの拡充が行われています。秋の正式リリースに向け、今後もバグ修正や機能の調整が順次進められる予定です。"
     }
   ],
-  "updatedAt": "2026-08-19T11:46:47.397Z",
+  "updatedAt": "2026-08-19T12:21:14.924Z",
   "initialized": true,
   "summaryVersion": 4
 }
