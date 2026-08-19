@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "9d0c21282db02788dbc8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple is about to launch best reason yet to wear AirPods all day long",
+      "url": "https://9to5mac.com/2026/08/19/apple-is-about-to-launch-best-reason-yet-to-wear-airpods-all-day-long/",
+      "publishedAt": "2026-08-19T18:17:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "カメラ搭載AirPodsと新OS連携で変わる活用法か",
+      "summaryJa": "次期OSでのSiriのAI機能強化に加え、赤外線カメラを搭載した新型AirPodsの登場が報じられています。これにより、視覚情報をもとにSiriと対話するビジュアルインテリジェンスが利用できるようになるとされています。音楽鑑賞だけでなく、日常のさまざまな場面で終日着用する理由が増える可能性があり、注目を集めています。"
+    },
+    {
       "id": "5805802cf5b323335989",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "次期Proモデルのガラス筐体デザインは継続か",
       "summaryJa": "一部のアナリスト企業が20周年記念iPhoneの全面ガラスモデルの計画中止を指摘していましたが、Bloombergによると来年のProモデルに向けた新しいガラス調のデザイン刷新は予定通り進行中とのことです。初期のデザイン案からは製造上の理由で一部変更されたものの、製品ロードマップ自体には変更がないと報じられています。"
-    },
-    {
-      "id": "460a384640a73a7694a8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Jefferies downgrades Apple stock, cites all-glass iPhone cancellation rumor",
-      "url": "https://9to5mac.com/2026/08/10/jefferies-downgrades-apple-stock-cites-all-glass-iphone-cancellation-rumor/",
-      "publishedAt": "2026-08-11T01:27:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/AAPL-stock-slides-but-is-it-a-reaction-to-AI-announcements.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ジェフリーズ、20周年記念iPhoneの噂を理由にApple株を引き下げ",
-      "summaryJa": "投資会社ジェフリーズが、サプライチェーンの調査に基づきAppleの株式格付けを引き下げました。20周年記念モデルとして期待されていた全面ガラス製iPhoneの開発が、製造上の歩留まりの問題により中止されたとの見方を示しています。この計画の頓挫は、メモリコストの上昇が見込まれる中で高価格帯モデルによる収益拡大を目指すAppleにとって大きな打撃になると分析されています。"
     }
   ],
-  "updatedAt": "2026-08-19T18:00:00.706Z",
+  "updatedAt": "2026-08-19T18:49:00.876Z",
   "initialized": true,
   "summaryVersion": 4
 }
