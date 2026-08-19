@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "f01a924d93d1ff5cbdfd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Watch Susan Kare revisit the icons and graphics for the original Mac",
+      "url": "https://9to5mac.com/2026/08/19/watch-susan-kare-revisit-the-icons-and-graphics-for-the-original-mac/",
+      "publishedAt": "2026-08-19T20:14:37.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/happy-mac.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "初代Macの伝説的デザイナー、スーザン・ケアが語るアイコン制作の裏側",
+      "summaryJa": "初代Macintoshの発表から40年以上が経過した今、伝説のグラフィックデザイナーであるスーザン・ケアが当時のデザインやアイコン制作の裏側について振り返っています。Y Combinatorのイベントに登壇した彼女は、ビットマップグラフィックスやGUIが未開拓だった時代の情熱や苦悩を語りました。コマンドキーのシンボルやシステムフォントなど、彼女の仕事が現在のパーソナルコンピューティングの視覚言語に与えた影響の大きさが改めて紹介されています。"
+    },
+    {
       "id": "aaaa9d9a09c2e169fcc0",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "iCloudプライベートリレーの不具合を巡りAppleが集団訴訟に直面",
       "summaryJa": "AppleのiCloudプライベートリレー機能に、パスキー関連の処理によって実際のIPアドレスが露出しトラッキングを防げなくなる脆弱性が見つかりました。この問題を巡り、Appleに対して虚偽の広告などを理由とする集団訴訟が提起されています。プライベートリレーはSafari利用時のIPアドレスと閲覧履歴の保護を目的としていますが、一部の仕様の隙間を突く形で実際の接続元が判明してしまう状態となっていました。"
-    },
-    {
-      "id": "5e5bb6e7e45de097b070",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPad Air OLED Panel Orders Could Be Split With BOE in 2027",
-      "url": "https://www.macrumors.com/2026/08/11/ipad-air-oled-panel-orders-could-be-split-with-boe/",
-      "publishedAt": "2026-08-11T11:36:32.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/10/m3-ipad-air-mint.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "2027年発売の次期iPad Air向けOLEDパネル、BOEが供給参入か",
-      "summaryJa": "中国のディスプレイメーカーであるBOEが、2027年前半に登場と噂される次世代iPad Air向けのOLEDパネル供給を目指していると報じられています。現在はSamsung Displayが主要サプライヤーとなる見込みですが、BOEは重慶の工場で生産準備を進めており、Appleの品質評価を通過すればサプライチェーンに加わる可能性があります。ただし、初期の供給量は中国市場向けや整備品などに限定される見通しです。"
     }
   ],
-  "updatedAt": "2026-08-19T20:14:04.837Z",
+  "updatedAt": "2026-08-19T20:48:23.079Z",
   "initialized": true,
   "summaryVersion": 4
 }
