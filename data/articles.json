@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "927056da0fd24baa9d1e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV hit comedy from Ted Lasso, Shrinking creator returns soon",
+      "url": "https://9to5mac.com/2026/08/19/apple-tv-hit-comedy-from-ted-lasso-shrinking-creator-returns-soon/",
+      "publishedAt": "2026-08-19T15:41:37.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/bad-monkey-s2-vince-vaughn-martinez.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVのコメディドラマ「バッド・モンキー」シーズン2が12月2日に配信決定",
+      "summaryJa": "Apple TVで人気のコメディドラマ「バッド・モンキー」シーズン2が、12月2日に最初のエピソードでプレミア配信されることが決定しました。ヴィンス・ヴォーン演じる主人公のアンドリュー・ヤンシーが、新たな事件や個性豊かなキャラクターたちとの騒動に巻き込まれていきます。シーズン2にはジョン・マルコヴィッチらも出演し、2月3日まで毎週エピソードが追加される予定です。"
+    },
+    {
+      "id": "376fb182618ce4f85d89",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: 1-day Apple sale – $400 off M5 Pro MacBook Pro, iPhone Air up to $406 off, iPad mini $450 off, AirPods, more",
+      "url": "https://9to5mac.com/2026/08/19/deals-1-day-apple-sale-macbook-pro-iphone-air-airpods/",
+      "publishedAt": "2026-08-19T15:31:25.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-MacBook-AirTag-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ベストバイが1日限定のAppleセールを実施、MacBook ProやiPhoneがお得に",
+      "summaryJa": "米国の家電量販店ベストバイが60周年記念の一環として、1日限定のApple製品セールを開催しています。M5 Pro搭載MacBook Proが400ドル引きとなるほか、iPhone Airなどが過去最安値級で販売されています。また、AirPods Pro 3やAirPods Max 2などのオーディオ製品も大幅な割引価格で提供されています。"
+    },
+    {
       "id": "534fe894857ed2eb0e5f",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "Apple、宗教的差別を巡る訴訟で和解金支払いへ",
       "summaryJa": "米雇用機会均等委員会が昨年起こした宗教的差別に関する訴訟において、Appleが15万ドルを支払って和解することに合意しました。裁判所の書類によるとApple側は不正を否定しているものの、退職した元従業員に対して未払い賃金や損害賠償などを支払う内容となっています。"
-    },
-    {
-      "id": "764da70b5eb1a653f2b1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "ChatGPT users can now book tables and join restaurant waitlists through Yelp",
-      "url": "https://9to5mac.com/2026/08/10/chatgpt-users-can-now-book-tables-and-join-restaurant-waitlists-through-yelp/",
-      "publishedAt": "2026-08-10T22:14:59.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/yelp-chatgpt2.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ChatGPT、Yelp連携でレストラン予約や順番待ちに対応",
-      "summaryJa": "ChatGPTのユーザーが、チャット画面を離れることなくYelpを通じてレストランの予約や順番待ちリストへの登録が可能になりました。両社は以前からコンテンツ連携を行っており、今回の機能拡張により米国の数千に及ぶレストランでスムーズな手続きが実現しています。ユーザーは推薦の依頼から予約の完了までをひとつのチャット内でシームレスに行えるようになります。"
-    },
-    {
-      "id": "c17fdfb12ab84ea8fe88",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Everything New in iOS 27 Beta 5",
-      "url": "https://www.macrumors.com/2026/08/10/ios-27-beta-5-everything-new/",
-      "publishedAt": "2026-08-10T22:02:30.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Cool.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iOS 27ベータ5でアプリアイクンやSiri機能を調整",
-      "summaryJa": "Appleはリリースを控えるiOS 27のベータ5を公開し、複数のアプリコーンのデザイン変更やLiquid Glassの調整を実施しました。Siri AIでは音声カスタマイズ機能が拡張され、対応デバイスでテンポや表現力の調整が可能になっています。また、連絡先リストでの企業名表示や、米国以外の地域におけるApple Walletのパス作成機能なども追加されました。"
     }
   ],
-  "updatedAt": "2026-08-19T15:28:25.786Z",
+  "updatedAt": "2026-08-19T16:00:17.939Z",
   "initialized": true,
   "summaryVersion": 4
 }
