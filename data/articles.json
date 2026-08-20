@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "36ad811900b2ef44a656",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases New AirPods Beta Firmware With iOS 27 Features",
+      "url": "https://www.macrumors.com/2026/08/20/airpods-beta-firmware-9a5347a/",
+      "publishedAt": "2026-08-20T19:10:34.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/06/AirPods-Pro-Beta-Firmware-2.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iOS 27の新機能に対応したAirPodsベータファームウェアを公開",
+      "summaryJa": "Appleはデベロッパーおよびパブリックベータテスター向けに、AirPods ProやAirPods Maxなどの新ベータファームウェアをリリースしました。次期OSであるiOS 27などで導入される新しいAirPodsインターフェイスや、アダプティブモードの専用スライダー、カスタムEQのサポートなどが追加されています。対象デバイスの接続設定からベータアップデートを有効にすることでインストールが行われます。"
+    },
+    {
       "id": "163a2ed927b93b2467ac",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "iPhone 18 Proのカメラ大幅進化か、3つの主な改良点が浮上",
       "summaryJa": "次期モデルのiPhone 18 Proでは、カメラハードウェアにおいて大幅な進化がもたらされると報じられています。主なアップグレードとして、可変絞りの採用や望遠カメラの広角化、プロ向けの写真機能が導入される見込みです。これにより、一眼レフカメラのような高度な機能や、被写界深度の調整など表現の幅が広がる可能性が伝えられています。"
-    },
-    {
-      "id": "a402520c54d535242b84",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Court rejects Apple’s attempt to postpone App Store fee proceedings in Epic Games case",
-      "url": "https://9to5mac.com/2026/08/11/court-rejects-apples-attempt-to-postpone-app-store-fee-proceedings-in-epic-games-case/",
-      "publishedAt": "2026-08-11T19:59:40.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "米裁判所、App Store手数料手続きの延期を求めるAppleの申し立てを却下",
-      "summaryJa": "Epic Gamesとの係争において、米国の裁判所がAppleによるApp Storeの手数料手続きの一時停止要求を却下しました。最高裁判所の審査を理由に手続きを保留するよう求めていましたが、認められませんでした。これにより、Appleは外部決済の手数料に関する算出根拠や証拠を速やかに提出する義務が課されています。"
     }
   ],
-  "updatedAt": "2026-08-20T18:56:09.252Z",
+  "updatedAt": "2026-08-20T19:38:58.809Z",
   "initialized": true,
   "summaryVersion": 4
 }
