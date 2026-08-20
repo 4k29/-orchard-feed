@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "bff16ac3252b0b3e2767",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: M5 MacBook Air $1,099, M5 Pro MacBook Pro 48GB $400 off, Series 11 from $254, AirTag 2, more",
+      "url": "https://9to5mac.com/2026/08/20/deals-m5-macbook-air-macbook-pro-airtag-2/",
+      "publishedAt": "2026-08-20T15:23:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-MacBook-Air-AirTag-2-AirPods-Pro-3-M5-Pro.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPodsやMacBookなどが最大400ドル引きのセールに",
+      "summaryJa": "Appleの各種製品を対象とした最新のお得なセール情報が複数報じられています。AirPods ProやAirPods Maxが大幅値下げされているほか、公式整備済ストアではM5搭載のMacBook Proが登場し、Apple Watch Series 11なども割引価格で販売されています。"
+    },
+    {
+      "id": "62d0889354ca639e59f6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's New Beats 360 Headphones Keep Leaking",
+      "url": "https://www.macrumors.com/2026/08/20/apple-beats-360-headphones-leak/",
+      "publishedAt": "2026-08-20T15:01:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Beats-360-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Beatsの新型ヘッドホン「Beats 360」の詳細がリーク",
+      "summaryJa": "Appleの未発表とみられるBeatsブランドの新型ヘッドホン「Beats 360」が、各国の認証機関や小売店のリストに相次いで登場しています。AirPods Maxに似た伸縮式のヘッドバンドアームを備え、IPX4等級の耐汗・耐水性能や交換可能なクッションを採用していると伝えられています。"
+    },
+    {
+      "id": "c3e329f65d5da7b2817d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New ‘HomePad’ reveal is another reason to put it in every room of your house",
+      "url": "https://9to5mac.com/2026/08/20/new-homepad-reveal-is-another-reason-to-put-it-in-every-room-of-your-house/",
+      "publishedAt": "2026-08-20T15:01:04.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/homepad-ios-27-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの新型スマートホームハブ、文字盤のカスタマイズ機能か",
+      "summaryJa": "今秋の登場が噂されるAppleの新型スマートホームハブ「HomePad」について、新たなコードから詳細が判明したと伝えられています。Apple Watchのようにカスタマイズ可能な「文字盤」やウィジェット機能が搭載される見込みで、部屋ごとの用途に合わせて柔軟にパーソナライズできるようになると期待されています。"
+    },
+    {
+      "id": "3fe22563a2d1fa0477f6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro: Pre-Orders and Release Date?",
+      "url": "https://www.macrumors.com/2026/08/20/iphone-18-pro-preorders-release-date-when/",
+      "publishedAt": "2026-08-20T15:00:42.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの発表・発売スケジュールを予測",
+      "summaryJa": "例年の傾向に基づき、iPhone 18 ProおよびiPhone Ultraの発表イベントや予約開始日、発売日のスケジュールが予想されています。今年は9月上旬にイベントが開催される可能性が高く、従来のパターンに沿った日程になるかどうかに注目が集まっています。"
+    },
+    {
       "id": "87be6676f3700a5ff086",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4443,69 +4503,9 @@
       ],
       "titleJa": "watchOS 27でモジュラー文字盤に新色が追加される可能性",
       "summaryJa": "次期watchOS 27では、Apple Watchの人気文字盤である「モジュラー」に多数の新しいカラーカスタマイズオプションが追加されると報じられています。ベータ版のコードから新色の名称が発見されており、秋に登場する新しいApple Watchバンドのデザインを予告している可能性もあると伝えられています。"
-    },
-    {
-      "id": "ffd550655d5e0cbd7e88",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Third macOS Golden Gate Public Beta Now Available",
-      "url": "https://www.macrumors.com/2026/08/11/macos-27-public-beta-3/",
-      "publishedAt": "2026-08-11T17:26:26.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/macOS-27-Public-Beta-Thumb-2.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、macOS 27 Golden Gate パブリックベータ3を公開",
-      "summaryJa": "Appleは秋の正式リリースに向け、一般登録者向けにmacOS 27 Golden Gateのパブリックベータ3をリリースしました。高度なAI機能を持つ新しいSiriやSpotlightからのアクセスに対応し、Liquid Glassデザインの透明度調整スライダーやUIの微調整なども含まれています。"
-    },
-    {
-      "id": "eb470be0096d7cd3e3e0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple rolls out macOS 27 Golden Gate public beta 3, here’s how to install it",
-      "url": "https://9to5mac.com/2026/08/11/apple-rolls-out-macos-27-golden-gate-public-beta-3-heres-how-to-install-it/",
-      "publishedAt": "2026-08-11T17:25:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/macOS-27-public.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "macOS 27 Golden Gate パブリックベータ3が登場",
-      "summaryJa": "Appleは開発者向けベータに続き、macOS 27 Golden Gateのパブリックベータ3の提供を開始しました。今回のバージョンではSiriやアクティビティモニタ、Safariなどのアイコンが刷新されたほか、ウィンドウの角の丸みが統一されるなどの細かな改良が施されています。"
-    },
-    {
-      "id": "33c7e7b42ddea85032e0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Third iOS 27 and iPadOS 27 Public Betas Now Available",
-      "url": "https://www.macrumors.com/2026/08/11/apple-releases-ios-27-public-beta-3/",
-      "publishedAt": "2026-08-11T17:22:29.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Cool.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27およびiPadOS 27のパブリックベータ3が利用可能に",
-      "summaryJa": "Appleは対応デバイスを持つ一般ユーザー向けに、iOS 27とiPadOS 27のパブリックベータ3をリリースしました。高度なAI機能を備えた新しいSiriをはじめ、Liquid Glassデザインの透明度調整機能や、写真アプリ向けの新しいAI編集ツールなどが追加されています。"
-    },
-    {
-      "id": "8274464d652537e0afab",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Public beta 3 for iPadOS 27 and more available now, here’s what’s new",
-      "url": "https://9to5mac.com/2026/08/11/public-beta-3-for-ipados-27-and-more-available-now-heres-whats-new/",
-      "publishedAt": "2026-08-11T17:22:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPadOS 27などのパブリックベータ3を配信開始",
-      "summaryJa": "Appleは開発者向けベータ5の公開に続き、iPadOS 27やtvOS 27などのパブリックベータ3を一般テスター向けにリリースしました。今回のビルドではSiriやSafariなどのアプリアイコンのデザイン刷新や、音声カスタマイズの追加が行われています。正式リリースを来月に控え、前回のベータ版よりも安定性とパフォーマンスが向上しているのが特徴です。"
     }
   ],
-  "updatedAt": "2026-08-20T14:56:50.815Z",
+  "updatedAt": "2026-08-20T15:43:32.186Z",
   "initialized": true,
   "summaryVersion": 4
 }
