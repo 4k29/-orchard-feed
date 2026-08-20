@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "7d0ba551f3b50b8c2b44",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Card Turns Seven With Big Change Ahead",
+      "url": "https://www.macrumors.com/2026/08/20/apple-card-turns-seven-with-big-change-ahead/",
+      "publishedAt": "2026-08-20T16:19:07.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/01/Apple-Card-iPhone-16-Pro-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Card、発行元をチェース銀行へ変更へ",
+      "summaryJa": "米国でのサービス開始から7周年を迎えたApple Cardについて、発行元がゴールドマン・サックスからチェース銀行へ移行する予定であることが報じられました。消費者向け融資事業から撤退するゴールドマン・サックスに代わり、2028年初頭までに移行が完了する計画です。ユーザーは当面これまで通りカードを利用でき、移行期日近づくにつれて詳細が案内される見通しです。"
+    },
+    {
+      "id": "a9842c28319dfe4aa140",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MacBook Ultra is coming: Six new features launching this fall",
+      "url": "https://9to5mac.com/2026/08/20/macbook-ultra-is-coming-six-new-features-launching-this-fall/",
+      "publishedAt": "2026-08-20T16:18:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macbook-ultra-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBook Ultraが今秋登場か、新機能の噂",
+      "summaryJa": "Appleが今秋の発売に向けて準備を進めていると噂される「MacBook Ultra」について、6つの新機能が伝えられています。従来のMacBook Proより薄型・軽量な完全再設計モデルとなり、Mac初となるタッチスクリーンやOLEDディスプレイを搭載する可能性が指摘されています。チップにはM5 ProやM5 Maxが採用され、高度な機能を提供するプレミアムな選択肢として登場すると期待されています。"
+    },
+    {
       "id": "f8e11c96a8e6efdf0070",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -104,6 +134,21 @@
       ],
       "titleJa": "iPhone 18の通常モデルは来月初旬の発表を見送りか",
       "summaryJa": "複数の報道によると、例年9月に開催されるAppleの発表会では、通常モデルのiPhone 18が登場せず、2027年早々に発売が延期される見通しです。今年はProモデルや新たなUltraモデルなどが先行して登場し、通常モデルやiPhone 18eなどは2027年初頭の登場になると伝えられています。"
+    },
+    {
+      "id": "edcd46c8807ed7aa1dfd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
+      "url": "https://9to5mac.com/2026/08/20/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
+      "publishedAt": "2026-08-20T14:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ipad-ios-27-notification-siri.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27で通知センターの操作方法が変更へ",
+      "summaryJa": "iPhoneとiPad向けに現在ベータ版が提供されているiOS 27では、長年親しまれてきた通知センターを開くジェスチャーが変更されると伝えられています。新機能のSiri AIの導入に伴い、画面上部の中央からスワイプする操作がSiri AIの起動に割り当てられます。そのため、今後の通知センターは画面左上隅からのスワイプダウンでアクセスする仕様へと刷新される見込みです。"
     },
     {
       "id": "b7c900c895ffeddaa402",
@@ -4458,54 +4503,9 @@
       ],
       "titleJa": "iOS 27ベータ5の最新情報と未発表のiPhoneモデルの噂",
       "summaryJa": "最新のポッドキャストでは、iOS 27ベータ5で追加されたSiriやSafariなどの新しいアイコン、およびiCloud+のAI機能に関するアップグレードオプションについて議論されています。また、コード内から未発表のiPhone 18モデルの存在が明らかになったほか、Apple Vision ProでのライブMLB中継の展開なども報じられています。Appleの20周年記念iPhoneの再設計に向けた取り組みも順調に進んでいると伝えられています。"
-    },
-    {
-      "id": "cf802e5ba67cb51cd97a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Pay Chief Jennifer Bailey Retiring in October",
-      "url": "https://www.macrumors.com/2026/08/11/apple-pay-chief-retiring/",
-      "publishedAt": "2026-08-11T18:19:51.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2023/11/apple-pay-feature-dynamic-island.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Payを統括するジェニファー・ベイリー氏が10月に退任へ",
-      "summaryJa": "Apple PayやApple Walletを長年統括してきたジェニファー・ベイリー氏が、10月に同社を退職して引退することが報じられました。2003年に入社したベイリー氏は、オンラインストアのグローバル展開を主導したほか、2014年のApple Pay立ち上げやApple Cardの開発などを成功に導きました。社内メモの中でサービスの責任者であるエディ・キュー氏は彼女の貢献を称えており、今後は後継者計画が発表される予定です。"
-    },
-    {
-      "id": "7b5da004db25a11e33ac",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Pay and Wallet leader retiring after two decades at Apple",
-      "url": "https://9to5mac.com/2026/08/11/apple-pay-and-wallet-leader-retiring-after-two-decades-at-apple/",
-      "publishedAt": "2026-08-11T18:14:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apples-keynote-event_Jennifer_Bailey_introduces_apple_card-03252019.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple PayとWallet部門の責任者ジェニファー・ベイリー氏が退任へ",
-      "summaryJa": "Appleの決済サービスおよびWallet部門を率いてきたジェニファー・ベイリー氏が、10月に退任することが明らかになりました。2000年代初頭からAppleに在籍する同氏は、2014年のApple Pay導入以降、その急成長を支えた主要人物の一人です。サービストップのエディ・キュー氏が社内向けメモでこの人事を発表し、彼女の多大な功績を称えました。10月の退任前には、後継者に関する計画が明らかにされる予定となっています。"
-    },
-    {
-      "id": "1dd9e0be488194837f65",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Amazon Offers AirPods Max 2 for $100 Off in All Five Colors",
-      "url": "https://www.macrumors.com/2026/08/11/100-off-airpods-max-2/",
-      "publishedAt": "2026-08-11T18:12:09.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/airpods-max-2-purple.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Amazon、AirPods Max 2を全5色で100ドル引きに",
-      "summaryJa": "Amazonにおいて、AirPods Max 2が定価の549ドルから100ドル引きとなる449ドルで販売されています。全5色が対象となっており、6月以来となるお得な価格設定です。プライム会員であれば一部地域で当日配送も利用でき、購入を検討していたユーザーにとって良い機会となっています。"
     }
   ],
-  "updatedAt": "2026-08-20T16:15:13.079Z",
+  "updatedAt": "2026-08-20T16:55:30.912Z",
   "initialized": true,
   "summaryVersion": 4
 }
