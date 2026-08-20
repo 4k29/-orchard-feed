@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "83d3ef1d5c4bd64fa5d9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Fake Cases Hint at New Clear and TechWoven Colors for iPhone 18 Pro",
+      "url": "https://www.macrumors.com/2026/08/20/new-clear-and-techwoven-cases-for-iphone-18-pro/",
+      "publishedAt": "2026-08-20T11:59:35.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iphone-18-pro-max-case-techwoven-duanrui.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proのモックケースから新色やアクセサリが判明か",
+      "summaryJa": "中国で流通しているiPhone 18 Pro Max向けのフェイクケースから、新型アクセサリのカラーオプションに関する情報が浮上したと報じられています。リークされた動画などによると、MagSafe部分のリングを隠す仕様を受け継いだ薄いブルーのクリアケースや、豊富なカラー展開のTechWovenケースが含まれている模様です。これらは例年、正式発表前に出回るダミーケースですが、次期モデルの本体カラーや公式アクセサリを早期に指し示すヒントとして注目を集めています。"
+    },
+    {
       "id": "95bf5fed759005aef247",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "iOS 27、大容量iCloud+契約者にホームアプリの新AI機能を提供か",
       "summaryJa": "Appleは、2TB以上のiCloud+プラン契約者に対し、iOS 27のホームアプリで3つの新しいApple Intelligence機能を提供すると報じられています。これにはHomeKitセキュアビデオカメラの自動動画説明生成やクリップ検索機能が含まれ、強力なサーバーモデルを利用するため上位プラン限定となっています。"
-    },
-    {
-      "id": "0a05108608dd86874293",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Ultra will have two features that ‘Pro’ users should love",
-      "url": "https://9to5mac.com/2026/08/11/iphone-ultra-will-have-two-features-that-pro-users-should-love/",
-      "publishedAt": "2026-08-11T15:21:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "「iPhone Ultra」にProユーザー向けの魅力的な2大機能か",
-      "summaryJa": "来月に発表が予想されるiPhone Ultraには、歴代最大の7.8インチ級ディスプレイや、サイドバイサイドによるマルチタスク機能が搭載されると伝えられています。これらはProユーザーの生産性を大きく高める機能として、通常のProモデルとは一線を画す特徴になると見られています。"
     }
   ],
-  "updatedAt": "2026-08-20T11:44:13.727Z",
+  "updatedAt": "2026-08-20T12:15:39.950Z",
   "initialized": true,
   "summaryVersion": 4
 }
