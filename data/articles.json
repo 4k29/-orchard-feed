@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "14672fb3831b70ee30c4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "ChatGPT Can Now Read and Send iMessages on Mac",
+      "url": "https://www.macrumors.com/2026/08/20/chatgpt-imessages-mac/",
+      "publishedAt": "2026-08-20T23:12:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/01/General-Apps-Messages-Redux.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Mac版ChatGPTがiMessageの読み書きに対応か",
+      "summaryJa": "OpenAIがMac用のChatGPT向けに新しいAppleメッセージプラグインを発表しました。これにより、ChatGPTはMac上でメッセージの検索や下書き、会話の分析、返信の送信ができるようになります。Appleシリコンを搭載したMacのChatGPT WorkおよびCodexのデスクトップ版で利用可能ですが、フルディスクアクセスなどの権限が必要となります。"
+    },
+    {
+      "id": "26f57b65e2b429f1177e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple reportedly lays off 60 Vision employees amid shifting priorities",
+      "url": "https://9to5mac.com/2026/08/20/apple-reportedly-lays-off-60-vision-employees-amid-shifting-priorities/",
+      "publishedAt": "2026-08-20T22:47:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus-apple-vision-pro.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、VR開発チームの縮小で60人以上を解雇か",
+      "summaryJa": "AppleがVR開発に特化したチームを解雇し、少なくとも60人の従業員が影響を受けたと報じられています。AppleはビジョンOSや空間コンピューティングの野望に引き続き取り組む姿勢を見せていますが、組織の再編が進められている模様です。"
+    },
+    {
       "id": "874e41cd8a9da1aed270",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "Satechi、6つのUSB-Cポートを備えた240Wデスクトップ充電器を発売",
       "summaryJa": "Satechiは、最大240Wの出力に対応した「ChargeView 240W Desktop Charger」を発売しました。合計6つのUSB-Cポートを搭載しており、接続された各ポートのリアルタイムの電力を表示できる液晶ディスプレイを備えています。MacBook ProなどのApple製デバイスに調和するスペースブラックのカラーリングを採用し、縦置きと横置きの両方に対応しています。"
-    },
-    {
-      "id": "435306339de8ebc70ab3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple extends 2026 Back to School deals on Macs and iPads until September 24",
-      "url": "https://9to5mac.com/2026/08/11/apple-extends-2026-back-to-school-deals-on-macs-and-ipads-until-september-24/",
-      "publishedAt": "2026-08-11T21:35:29.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-store-back-to-school-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、新学期を始めようキャンペーンを9月24日まで延長",
-      "summaryJa": "Appleは、米国におけるMacおよびiPadを対象とした「新学期を始めよう」キャンペーンの実施期間を9月24日まで延長しました。対象となる学生や教職員らは、対象製品の購入時に最大150ドルのApple Gift Cardを受け取ることができます。対象者や条件の詳細については、公式サイトにて確認が可能となっています。"
-    },
-    {
-      "id": "d413ad31197fec9ce88c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Report: Non-gaming apps drove mobile spending growth in Q2 as games fell 4.5%",
-      "url": "https://9to5mac.com/2026/08/11/report-non-gaming-apps-drove-mobile-spending-growth-in-q2-as-games-fell-4-5/",
-      "publishedAt": "2026-08-11T20:59:32.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/app-store-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "非ゲーム系アプリが成長を牽引、2026年第2四半期のモバイル市場",
-      "summaryJa": "Sensor Towerが2026年第2四半期のモバイル市場動向に関するレポートを公開し、非ゲーム系アプリが世界的な支出の伸びを牽引したことが明らかになりました。非ゲーム系アプリの収益は前年同期比14.6%増となった一方で、ゲーム系収益は4.5%減少しました。特に生成AIアプリが力強い成長を見せ、消費者支出が倍増する結果となっています。"
     }
   ],
-  "updatedAt": "2026-08-20T22:45:50.798Z",
+  "updatedAt": "2026-08-20T23:15:21.698Z",
   "initialized": true,
   "summaryVersion": 4
 }
