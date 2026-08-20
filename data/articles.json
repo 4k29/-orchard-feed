@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "499c5edd417f55e0c418",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Music will soon get visible labels for AI-generated content",
+      "url": "https://9to5mac.com/2026/08/20/apple-music-will-soon-get-visible-labels-for-ai-generated-content/",
+      "publishedAt": "2026-08-20T20:08:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Apple-Music-iOS-26-icon.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Music、AI生成コンテンツに明確なラベル表示を義務化へ",
+      "summaryJa": "Appleは、Apple MusicにおけるAI生成コンテンツの透明性を高めるため、今后プラットフォーム上で「Made With AI」ラベルをユーザー向けに表示することをクリエイター向けに通知しました。AIが主要な部分の作成に関与したトラックやアートワークなどが対象となります。ストリーミング各社がAI楽曲の増加に対する対応を進める中での新たな施策となります。"
+    },
+    {
       "id": "36ad811900b2ef44a656",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "常時稼働AIエージェント「Grok Bot」がmacOSとiOSに登場",
       "summaryJa": "SpaceXAIは、ウェブサイトやアプリを操作してタスクを自動実行する常時稼働型AIエージェント「Grok Bot」を発表しました。ユーザーが自然言語で指示を出すことで、クラウド上で処理が継続し、複数のボット同士が連携して作業を行うことも可能です。現在はベータ版として、特定のプランに加入しているmacOSおよびiOSユーザー向けに提供されています。"
-    },
-    {
-      "id": "d6f5cb593bcdd2b53637",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro: Three new camera upgrades are coming",
-      "url": "https://9to5mac.com/2026/08/11/iphone-18-pro-three-new-camera-upgrades-are-coming/",
-      "publishedAt": "2026-08-11T20:18:09.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proのカメラ大幅進化か、3つの主な改良点が浮上",
-      "summaryJa": "次期モデルのiPhone 18 Proでは、カメラハードウェアにおいて大幅な進化がもたらされると報じられています。主なアップグレードとして、可変絞りの採用や望遠カメラの広角化、プロ向けの写真機能が導入される見込みです。これにより、一眼レフカメラのような高度な機能や、被写界深度の調整など表現の幅が広がる可能性が伝えられています。"
     }
   ],
-  "updatedAt": "2026-08-20T20:03:13.321Z",
+  "updatedAt": "2026-08-20T20:41:05.350Z",
   "initialized": true,
   "summaryVersion": 4
 }
