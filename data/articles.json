@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "ea9981dae03e1c12ccca",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Astropad Workbench 1.3 adds faster streaming, privacy curtain, and more",
+      "url": "https://9to5mac.com/2026/08/19/astropad-workbench-1-3-adds-faster-streaming-privacy-curtain-and-more/",
+      "publishedAt": "2026-08-20T01:19:48.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/astropad-workbench.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Astropad、ストリーミングを高速化した「Workbench 1.3」を配信",
+      "summaryJa": "Astropadは、リモートデスクトップアプリの最新アップデート「Workbench 1.3」をリリースしました。Appleシリコン向けに動画ストリーミングシステムを再構築し、処理速度が30%向上しています。また、リモートセッション中にMacのディスプレイを隠すプライバシー機能や、接続が切断された際にアプリを再起動する機能などが新たに追加されました。"
+    },
+    {
+      "id": "01b67ba66fa859af9f9b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "PSA: ChatGPT outage is blocking users from logging in or creating new accounts [U: Fixed]",
+      "url": "https://9to5mac.com/2026/08/19/psa-chatgpt-outage-is-blocking-users-from-logging-in-or-creating-new-accounts/",
+      "publishedAt": "2026-08-20T00:28:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/chatgpt-red.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ChatGPTで大規模な障害が発生、現在は復旧済みと発表",
+      "summaryJa": "OpenAIの「ChatGPT」において、アカウントへのログインや新規作成ができなくなる障害が発生しました。公式システムステータスでもサインアップとログインの停止が確認され、多くのユーザーに影響が出ていました。その後、OpenAI側で問題に対する修正対応を行い、現在は完全に復旧したと発表されています。"
+    },
+    {
+      "id": "063e0a54629e85e6c62f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "EU Welcomes Apple's App Store Changes, Epic Slams 'Junk Fees'",
+      "url": "https://www.macrumors.com/2026/08/19/ec-epic-apple-app-store-changes/",
+      "publishedAt": "2026-08-20T00:16:25.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/05/app-store-blue-banner-epic-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "欧州委員会、AppleによるApp Storeの規約変更を歓迎",
+      "summaryJa": "AppleがEUのデジタル市場法に対応してApp Storeの手数料体系を見直し、コアテクノロジー手数料を引き下げました。欧州委員会はこの変更を歓迎する姿勢を示しています。一方で、エピックゲームズなどの競合企業からは、新体制に対する批判的な意見も上がっており、今後の動向が注目されます。"
+    },
+    {
       "id": "0f16eafeff4b42947573",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4459,54 +4504,9 @@
       ],
       "titleJa": "Apple Arcade、人気パズルゲーム2作を追加",
       "summaryJa": "Appleは、定額制ゲーム配信サービス「Apple Arcade」において、人気パズルゲーム「Block Blast!+」と「Art of Fauna: Cozy Puzzles+」の2タイトルを9月3日に追加すると発表しました。追加されるゲームは、広告やアプリ内課金が一切なく、純粋なゲームプレイを楽しむことができます。世界中で人気を集めるブロックパズルと、自然をテーマにした癒やしのジグソーパズルの2作品がラインナップに加わり、パズルゲームのカタログがさらに充実します。"
-    },
-    {
-      "id": "0912fd0fb2818b2f42e8",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "LG Launches Back to School Sale With Major Discounts on OLED TVs and Monitors",
-      "url": "https://www.macrumors.com/2026/08/11/lg-back-to-school-sale/",
-      "publishedAt": "2026-08-11T13:59:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/lg-summer-sale.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "LGが有機ELテレビやモニターなどを対象にした大規模なセールを開催",
-      "summaryJa": "LGの公式サイトにて、モニターやテレビ、家電製品などを対象とした大規模なセールが今週から開催されています。今回のセールでは、割引が自動適用され、特定のコードやメンバーシップは不要です。目玉商品として、一部のLG製モニターが最大700ドル引き、最新のテレビが最大2,700ドル引きとなる大幅な値引きが実施されています。"
-    },
-    {
-      "id": "d4c9bb0e9a2ae7517f97",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Zoom flaw let an attacker take over your device, including iPhone and Mac",
-      "url": "https://9to5mac.com/2026/08/11/zoom-flaw-let-an-attacker-take-over-your-device-including-iphone-and-mac/",
-      "publishedAt": "2026-08-11T13:51:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Zoom-flaw-let-an-attacker-take-over-your-device-including-iPhone-and-Mac.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhoneやMacにも影響を与えたZoomの深刻な脆弱性が発見される",
-      "summaryJa": "AIツールを活用して発見されたZoomの脆弱性により、ミーティングの参加者が使用するiPhoneやMacなどのデバイス上で、攻撃者がコードをリモート実行できる状態になっていたことが明らかになりました。画面共有を伴う通話中であれば、被害者に気付かれることなく、また操作を要さずに攻撃が可能な状態でしたが、セキュリティ企業からの報告を受けて現在はすでに修正されています。AIを利用することで、わずか20件未満のプロンプトでこのような脆弱性が見つかったことが大きな衝撃を与えています。"
-    },
-    {
-      "id": "fd2f0e34329d8ac1ddb6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Will Reportedly Start With 256GB of Storage",
-      "url": "https://www.macrumors.com/2026/08/11/iphone-18-pro-base-256gb-storage-report/",
-      "publishedAt": "2026-08-11T13:50:27.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proは256GBストレージからスタートするか",
-      "summaryJa": "台湾の調査会社TrendForceのレポートによると、次世代のiPhone 18 Proは最低容量が256GBからとなると報じられています。iPhone 17 Proでベース容量が引き上げられたのに続き、今年は容量自体の増加はない見込みです。一方で、メモリチップの不足などに伴う部品コストの上昇により、米国での販売価格は200ドルから300ドルほど値上がりする可能性が指摘されています。"
     }
   ],
-  "updatedAt": "2026-08-19T23:59:24.563Z",
+  "updatedAt": "2026-08-20T01:46:25.180Z",
   "initialized": true,
   "summaryVersion": 4
 }
