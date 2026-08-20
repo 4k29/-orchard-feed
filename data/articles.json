@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "874e41cd8a9da1aed270",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple bucks downward trend as reports show global smartphone shipment and sales declines",
+      "url": "https://9to5mac.com/2026/08/20/apple-bucks-downward-trend-as-reports-show-global-smartphone-shipment-and-sales-declines/",
+      "publishedAt": "2026-08-20T21:45:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-17-pro-and-max.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "世界的なスマートフォン市場の低迷下でAppleが成長を維持",
+      "summaryJa": "調査会社カウンターポイント・リサーチのデータにより、ヨーロッパや中国、インドなどの世界的なスマートフォン市場で出荷台数や販売が減少していることが明らかになりました。メモリ不足や価格上昇が需要に影響を与えている一方で、Appleは各地域で堅調なシェア拡大や前年比での売上増加を記録し、市場全体の下降トレンドに逆行する形となっています。"
+    },
+    {
       "id": "28d7e3334bac6d9edf17",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "非ゲーム系アプリが成長を牽引、2026年第2四半期のモバイル市場",
       "summaryJa": "Sensor Towerが2026年第2四半期のモバイル市場動向に関するレポートを公開し、非ゲーム系アプリが世界的な支出の伸びを牽引したことが明らかになりました。非ゲーム系アプリの収益は前年同期比14.6%増となった一方で、ゲーム系収益は4.5%減少しました。特に生成AIアプリが力強い成長を見せ、消費者支出が倍増する結果となっています。"
-    },
-    {
-      "id": "2a9161fd6205a6ebd864",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Extends 2026 Back to School Promotion Until September 24",
-      "url": "https://www.macrumors.com/2026/08/11/apple-extends-2026-back-to-school-promo/",
-      "publishedAt": "2026-08-11T20:52:44.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apple-2026-Back-to-School-Graphic.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、2026年の新学期を始めようキャンペーンを9月24日まで延長",
-      "summaryJa": "Appleは、対象のMacやiPadの購入でギフトカードや対象アイテムがもらえる「新学期を始めよう」プロモーションの実施期間を9月24日まで延長しました。当初の予定より約1ヶ月長く開催され、米国やカナダ、アジアの複数国などが対象となっています。なお、対象製品や特典の内容は地域によって異なり、事前の認証が必要となります。"
     }
   ],
-  "updatedAt": "2026-08-20T21:44:40.691Z",
+  "updatedAt": "2026-08-20T22:09:54.568Z",
   "initialized": true,
   "summaryVersion": 4
 }
