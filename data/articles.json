@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "673a1d1b650661b2aa0d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: August 20, 2026 – Apple RAM suppliers, iPhone Ultra rumors",
+      "url": "https://9to5mac.com/2026/08/20/daily-august-20-2026/",
+      "publishedAt": "2026-08-20T11:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AppleのRAM供給元やiPhone Ultraの噂など最新情報",
+      "summaryJa": "9to5Macのポッドキャスト番組にて、中国製メモリチップの調達を巡る動きや、新モデル「iPhone Ultra」に関する発売時期や名称の噂、さらにスマートホーム製品の大幅な刷新に関する最新レポートが議論されています。日々のApple関連ニュースを手軽に音声で振り返ることができます。"
+    },
+    {
+      "id": "e105f704d97787ae025a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s long-running app store battle with the EU appears to finally be over",
+      "url": "https://9to5mac.com/2026/08/20/apples-long-running-app-store-battle-with-the-eu-appears-to-finally-be-over/",
+      "publishedAt": "2026-08-20T10:52:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/09/iPhone-Diary-iPhone-16-Pro-Max-expectations.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AppleとEUの長引くApp Storeを巡る争いが終結か",
+      "summaryJa": "Appleと欧州連合（EU）の間で続いていたアプリ販売に関する長年の反トラスト法を巡る争いが、ついに解決に向かっていると伝えられています。EUは、同地域内でAppleが提示した5%から26%の新しい手数料や規約の変更を歓迎する姿勢を示しています。サードパーティ製アプリストアや代替決済への対応をめぐり議論が続いていましたが、今回の新条件により決着した模様です。"
+    },
+    {
       "id": "30ee1ef5c45e19d3701e",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "Apple TV、新型クライムスリラー番組を公開",
       "summaryJa": "Apple TVは、秋の新作ラインナップの幕開けを飾る新しいスリラーシリーズ「Last Seen」の予告編を公開しました。オーストラリアの警察ディスパッチを舞台にした本作は、11年前に失踪した娘からの緊急通報を受けた父親の執念を描いています。配信は9月9日に最初の2話が公開され、その後毎週エピソードが追加される予定です。"
-    },
-    {
-      "id": "69bd84fad77d9a970e42",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Accused of 'Fraud' in iCloud Private Relay Class Action Lawsuit",
-      "url": "https://www.macrumors.com/2026/08/11/icloud-private-relay-class-action-lawsuit/",
-      "publishedAt": "2026-08-11T14:30:15.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AppleのiCloudプライベートリレーをめぐり詐欺で集団提訴",
-      "summaryJa": "AppleのiCloudプライベートリレー機能におけるセキュリティ上の欠陥をめぐり、同社が詐欺や誇大広告で集団訴訟を起こされたと報じられています。原告側は、Safariでのブラウジング時にIPアドレスなどを保護するとして販売された有料サービスが、実際にはパスキーの認証処理やDNSプリフェッチなどの問題で本来の保護機能を果たしていなかったと主張しています。今回の訴訟は、プライバシー保護をうたってきた同社のマーケティング手法の信頼性が問われる事態に発展しています。"
-    },
-    {
-      "id": "ae8164b658e6bade643c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Arcade adding ‘two beloved puzzlers’ to ad-free platform in September",
-      "url": "https://9to5mac.com/2026/08/11/apple-arcade-adding-two-beloved-puzzlers-to-ad-free-platform-in-september/",
-      "publishedAt": "2026-08-11T14:14:33.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-arcade-september-2026.png?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Arcadeに人気パズルゲーム2作が9月3日登場",
-      "summaryJa": "Apple Arcadeのゲームカタログが拡充され、9月3日より新たに「Block Blast!+」と「Art of Fauna: Cozy Puzzles+」の2作品が追加されることが発表されました。広告表示やアプリ内課金が一切ない環境で、世界的な人気を誇るブロックパズルや、自然をテーマにした心安らぐジグソーパズルを楽しむことができます。また、既存の人気タイトル向けにも新しいレベルやアップデートが順次配信される予定となっています。"
     }
   ],
-  "updatedAt": "2026-08-20T10:43:24.807Z",
+  "updatedAt": "2026-08-20T11:10:40.233Z",
   "initialized": true,
   "summaryVersion": 4
 }
