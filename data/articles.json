@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "f8e11c96a8e6efdf0070",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Alerted Runner to Serious Heart Problem",
+      "url": "https://www.macrumors.com/2026/08/20/apple-watch-alerted-runner-to-heart-problem/",
+      "publishedAt": "2026-08-20T15:58:20.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch、ランナーの深刻な心疾患を検出し命を救う",
+      "summaryJa": "Appleが公開した新しい広告動画の中で、Apple Watchの心電図アプリがランナーの心房細動の兆候を検出し、命を救った事例が紹介されました。トレーニング中に異変を感じたアスリートが検査したところ、先天性の心疾患が判明し、早期の外科手術につながりました。Apple Watchの心電図機能が予期せぬ健康上のリスクを発見したことで、早期治療に大きく貢献した実例として注目を集めています。"
+    },
+    {
+      "id": "b304cb70e71de705a6e3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV has beloved comedy returning soon, with Pluribus star added",
+      "url": "https://9to5mac.com/2026/08/20/apple-tv-has-beloved-comedy-returning-soon-with-pluribus-star-added/",
+      "publishedAt": "2026-08-20T15:46:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/stick-s2-rhea-seehorn-wilson.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVの人気コメディ「Stick」シーズン2が配信決定",
+      "summaryJa": "Appleは、オーウェン・ウィルソン主演の人気ゴルフコメディドラマ「Stick」のシーズン2を11月4日から配信開始すると発表しました。今シーズンには新たなキャストとしてリア・シーホーンがゴルフコーチ役で参加します。前シーズンに続き、温かみのある家族の絆やプロゴルフ界を舞台にした人間ドラマが展開される予定です。"
+    },
+    {
       "id": "bff16ac3252b0b3e2767",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "Amazon、AirPods Max 2を全5色で100ドル引きに",
       "summaryJa": "Amazonにおいて、AirPods Max 2が定価の549ドルから100ドル引きとなる449ドルで販売されています。全5色が対象となっており、6月以来となるお得な価格設定です。プライム会員であれば一部地域で当日配送も利用でき、購入を検討していたユーザーにとって良い機会となっています。"
-    },
-    {
-      "id": "60c456b990986aaeeb89",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 beta 5 lets you make Liquid Glass more transparent than ever",
-      "url": "https://9to5mac.com/2026/08/11/ios-27-beta-5-lets-you-make-liquid-glass-more-transparent-than-ever/",
-      "publishedAt": "2026-08-11T18:07:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/music-tab-bar-ios-27-liquid-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27ベータ5、Liquid Glassの透明度をさらに向上",
-      "summaryJa": "リリースされたiOS 27ベータ5では、新しくデザインされたアイコンやSiriの音声オプションに加え、Liquid Glassのデザインの透明度をこれまで以上に調整できるようになりました。設定画面にあるスライダーの最上位設定を使用することで、ユーザーの好みに合わせてよりガラスらしい外観にカスタマイズすることが可能です。"
-    },
-    {
-      "id": "6684fda8038a3b014790",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "watchOS 27 will upgrade popular Apple Watch face with new options, per leak",
-      "url": "https://9to5mac.com/2026/08/11/watchos-27-will-upgrade-popular-apple-watch-face-with-new-options-per-leak/",
-      "publishedAt": "2026-08-11T17:39:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/modular-face-watchos-27-apple-ultra-3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "watchOS 27でモジュラー文字盤に新色が追加される可能性",
-      "summaryJa": "次期watchOS 27では、Apple Watchの人気文字盤である「モジュラー」に多数の新しいカラーカスタマイズオプションが追加されると報じられています。ベータ版のコードから新色の名称が発見されており、秋に登場する新しいApple Watchバンドのデザインを予告している可能性もあると伝えられています。"
     }
   ],
-  "updatedAt": "2026-08-20T15:43:32.186Z",
+  "updatedAt": "2026-08-20T16:15:13.079Z",
   "initialized": true,
   "summaryVersion": 4
 }
