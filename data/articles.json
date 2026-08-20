@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "28d7e3334bac6d9edf17",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp is working on even more Liquid Glass interface changes on iOS",
+      "url": "https://9to5mac.com/2026/08/20/whatsapp-is-working-on-even-more-liquid-glass-interface-changes-on-ios/",
+      "publishedAt": "2026-08-20T20:55:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/whatsapp-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp、iOS版アプリでLiquid Glassデザインの適用範囲を拡大か",
+      "summaryJa": "WhatsAppがiOS版アプリのベータ版において、新しい「Liquid Glass」デザインをさらに多くのインターフェイス要素へ拡充していると報じられています。今回の変更により、描画エディターや動画プレイヤーのプログレスバーなどが新しいデザインに準拠する予定です。Metaは同社のビジュアル言語を各プラットフォームへ統合する取り組みを進めています。"
+    },
+    {
       "id": "499c5edd417f55e0c418",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "Apple、2026年の新学期を始めようキャンペーンを9月24日まで延長",
       "summaryJa": "Appleは、対象のMacやiPadの購入でギフトカードや対象アイテムがもらえる「新学期を始めよう」プロモーションの実施期間を9月24日まで延長しました。当初の予定より約1ヶ月長く開催され、米国やカナダ、アジアの複数国などが対象となっています。なお、対象製品や特典の内容は地域によって異なり、事前の認証が必要となります。"
-    },
-    {
-      "id": "b2a9936279e81415c194",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Grok Bot Brings Always-On AI Agents to macOS and iOS",
-      "url": "https://www.macrumors.com/2026/08/11/grok-bot-macos-ios/",
-      "publishedAt": "2026-08-11T20:34:58.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/grok-logo-purple-gradient.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "常時稼働AIエージェント「Grok Bot」がmacOSとiOSに登場",
-      "summaryJa": "SpaceXAIは、ウェブサイトやアプリを操作してタスクを自動実行する常時稼働型AIエージェント「Grok Bot」を発表しました。ユーザーが自然言語で指示を出すことで、クラウド上で処理が継続し、複数のボット同士が連携して作業を行うことも可能です。現在はベータ版として、特定のプランに加入しているmacOSおよびiOSユーザー向けに提供されています。"
     }
   ],
-  "updatedAt": "2026-08-20T20:41:05.350Z",
+  "updatedAt": "2026-08-20T21:07:15.218Z",
   "initialized": true,
   "summaryVersion": 4
 }
