@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "f812f43c18382c3a95f1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Ceramic Apple Watch Rumored to Return With Series 12",
+      "url": "https://www.macrumors.com/2026/08/20/ceramic-apple-watch-to-return-with-series-12/",
+      "publishedAt": "2026-08-20T13:17:31.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/ceramic-apple-watch-series-12.png",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "セラミック製Apple Watchがシリーズ12で復活か",
+      "summaryJa": "リーク情報で知られる人物によると、Appleは今年のApple Watch Series 12でセラミック製ケースを復活させる計画であると報じられています。セラミック素材はかつてApple Watch Editionなどに採用されていましたが、シリーズ6を最後にラインナップから姿を消していました。コレクターの間でも人気の高い高級感のある仕上げが、数年ぶりに再登場する可能性があります。"
+    },
+    {
+      "id": "28bf2313e28fab6d63cb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Adobe Firefly’s music, voiceover, and sound effects generation tools now generally available",
+      "url": "https://9to5mac.com/2026/08/20/adobe-fireflys-music-voiceover-and-sound-effects-generation-tools-now-generally-available/",
+      "publishedAt": "2026-08-20T13:00:05.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/adobe-generate-music.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Adobe Fireflyの音楽・音声生成ツールが一般提供へ",
+      "summaryJa": "Adobeは、AIアシスタント「Firefly」において、完全ライセンス付きの楽曲、音声、効果音を生成するツールの一般提供を開始しました。動画の長さや雰囲気に合わせたオリジナルのBGM作成や、自然なナレーションへの変換を手軽に行うことができます。商用利用時の著作権リスクやライセンス費用に悩むクリエイターの作業負担を軽減する新しい手段として期待されています。"
+    },
+    {
+      "id": "78fd92cb72fe865275f2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 Shared Albums Go Full Res at the Cost of Your iCloud Storage",
+      "url": "https://www.macrumors.com/2026/08/20/ios-27-shared-albums-eat-into-icloud-storage/",
+      "publishedAt": "2026-08-20T12:48:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/10/iCloud-iPhone-17-Pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOSの共有アルバムが高画質化、iCloud容量を消費へ",
+      "summaryJa": "次期iOSでは、写真アプリの共有アルバムがフル解像度を維持できるようになる一方で、iCloudのストレージ容量を消費する仕様に変更されると伝えられています。これまでは容量無制限で保存できましたが、今後は参加者が追加した写真もオーナーの容量にカウントされます。また、Appleアカウントを持たないAndroidやWindowsユーザーもウェブ経由で参加可能になるため、容量管理への注意が必要です。"
+    },
+    {
+      "id": "427e8a9c6fd2c67af8c2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Roblox still allows predators to contact children, says regulator",
+      "url": "https://9to5mac.com/2026/08/20/roblox-still-allows-predators-to-contact-children-says-regulator/",
+      "publishedAt": "2026-08-20T12:30:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Roblox-still-allows-predators-to-contact-children-says-regulator.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "人気ゲームRobloxの子ども保護機能に不備と指摘",
+      "summaryJa": "オーストラリアの規制当局が、子ども向けアプリ「Roblox」の安全対策が不十分であると指摘しました。大人が親の承認なしに子どもへ接続リクエストを送れるなどの脆弱性が複数見つかっています。これを受け、Roblox側は今後3ヶ月以内に保護機能を強化し、未成年者のアカウントのプライバシー設定をデフォルトで厳格化することに同意しています。"
+    },
+    {
       "id": "83d3ef1d5c4bd64fa5d9",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4443,69 +4503,9 @@
       ],
       "titleJa": "SonosがAI機能を強化した次期ヘッドホンを準備中か",
       "summaryJa": "SonosがAI機能を強化したプレミアムな次期ヘッドホン「Sonos Ace Ultra」を開発中であると報じられています。連邦通信委員会（FCC）の資料から存在が確認されており、カラーバリエーションの拡大や音声コマンドへの対応が示唆されています。9月の製品発表イベントでの披露が期待されており、音声制御や予測インテリジェンスを活用した機能面に注目が集まっています。"
-    },
-    {
-      "id": "72095fa85313aacda7fc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Grok Bot is an all-new iPhone and Mac app from SpaceXAI and Cursor",
-      "url": "https://9to5mac.com/2026/08/11/grok-bot-is-an-all-new-iphone-and-mac-app-from-spacexai-and-cursor/",
-      "publishedAt": "2026-08-11T17:10:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "SpaceXAIとCursorによる新しいAIアプリが登場か",
-      "summaryJa": "SpaceXAIとCursorが統合へ向かう中、新アプリ「Grok Bot」がMacおよびiOS向けにベータ版として公開されました。このアプリはユーザーの代わりに実際の業務を行うAIエージェントで、既存のツールやサービスにサインインして作業を完了させます。会話を記憶して好みを学習し、利用するほど性能が向上する仕組みを備えています。当初は上位プランの契約者限定で利用可能となっています。"
-    },
-    {
-      "id": "ef1221340bb3a2a32a4a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Now Stockpiling More Components Amid Rising Prices",
-      "url": "https://www.macrumors.com/2026/08/11/apple-now-stockpiling-more-components/",
-      "publishedAt": "2026-08-11T16:00:32.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-sizes-camera.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、部品価格の高騰を受けてOLEDパネルの在庫を確保か",
-      "summaryJa": "韓国メディアの報道によると、Appleは部品価格の上昇に対処するため、通常より長くOLEDディスプレイパネルの在庫を確保する動きに出ていると伝えられています。これまで業界最小水準のサプライチェーンを維持してきましたが、メモリーチップの高騰などの影響を受けて戦略に変化が生じたようです。価格の安定化を図る狙いがあり、今後の製品価格への影響や動向が注目されています。"
-    },
-    {
-      "id": "039d36aa7bb60d0a3fe9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: AirPods Pro 3 25% off, AirPods Max 2 $100 off, MacBook Pro, Anker 25W MagSafe car charger, more",
-      "url": "https://9to5mac.com/2026/08/11/deals-airpods-pro-3-airpods-max-2-macbook-pro/",
-      "publishedAt": "2026-08-11T15:26:22.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-AirPods-AirPods-Max-2-25W-car-charger.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AmazonでAirPods Pro 3が25%オフなどApple製品セール",
-      "summaryJa": "Amazonにて、発売以来の最安値圏となるAirPods Pro 3が約25%オフの189.99ドルで販売されています。ほかにもAirPods Max 2の割引や、Apple公式整備ストアでのM5搭載MacBook Proの再入荷など、注目のお買い得情報が多数報じられています。"
-    },
-    {
-      "id": "d8731c7667ec9b7814f0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Users Who Pay for Enough iCloud Storage Get New iOS 27 Perks",
-      "url": "https://www.macrumors.com/2026/08/11/new-ios-27-icloud-plus-perks/",
-      "publishedAt": "2026-08-11T15:24:48.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/10/iCloud-iPhone-17-Pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27、大容量iCloud+契約者にホームアプリの新AI機能を提供か",
-      "summaryJa": "Appleは、2TB以上のiCloud+プラン契約者に対し、iOS 27のホームアプリで3つの新しいApple Intelligence機能を提供すると報じられています。これにはHomeKitセキュアビデオカメラの自動動画説明生成やクリップ検索機能が含まれ、強力なサーバーモデルを利用するため上位プラン限定となっています。"
     }
   ],
-  "updatedAt": "2026-08-20T12:15:39.950Z",
+  "updatedAt": "2026-08-20T13:24:39.518Z",
   "initialized": true,
   "summaryVersion": 4
 }
