@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "30ee1ef5c45e19d3701e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Fires Back at OpenAI's Bid to Toss Trade Secrets Suit",
+      "url": "https://www.macrumors.com/2026/08/20/apple-fires-back-openai-bid-toss-lawsuit/",
+      "publishedAt": "2026-08-20T10:40:54.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/05/OpenAI-vs-Apple-Feature-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、OpenAIによる営業秘密侵害訴訟の棄却申し立てに反論",
+      "summaryJa": "Appleは、OpenAIが求めた営業秘密侵害訴訟の棄却申し立てを却下するよう連邦判事に要請しました。Appleは、OpenAIが元従業員を引き抜いて機密情報を不正に入手したと主張しており、OpenAI側の主張は臆測や歪曲に基づいていると非難しています。両社の法的紛争は今後、裁判所のディスカバリー手続きを通じて事実関係の審理へと移行する見通しです。"
+    },
+    {
       "id": "bf51b792ab3e94696c1a",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,25 +4503,9 @@
       ],
       "titleJa": "Apple Arcadeに人気パズルゲーム2作が9月3日登場",
       "summaryJa": "Apple Arcadeのゲームカタログが拡充され、9月3日より新たに「Block Blast!+」と「Art of Fauna: Cozy Puzzles+」の2作品が追加されることが発表されました。広告表示やアプリ内課金が一切ない環境で、世界的な人気を誇るブロックパズルや、自然をテーマにした心安らぐジグソーパズルを楽しむことができます。また、既存の人気タイトル向けにも新しいレベルやアップデートが順次配信される予定となっています。"
-    },
-    {
-      "id": "9a59b9d12e7f07a231fb",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple Arcadeが「Block Blast!+」と「Art of Fauna: Cozy Puzzles+」でレベルアップ",
-      "url": "https://www.apple.com/jp/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
-      "publishedAt": "2026-08-11T14:05:10.669Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple Arcade、人気パズルゲーム2作を追加へ",
-      "summaryJa": "Apple Arcadeのパズルゲームのラインナップが拡充され、新たに「Block Blast!+」と「Art of Fauna: Cozy Puzzles+」が9月3日に登場すると発表されました。広告やアプリ内購入なしで、アクション性のあるブロックパズルから心地よいジグソーパズルまで存分に楽しむことができます。さらに、既存の人気タイトルも含む豊富なパズルコレクションがプレイヤーに提供されます。"
     }
   ],
-  "updatedAt": "2026-08-20T10:03:47.798Z",
+  "updatedAt": "2026-08-20T10:43:24.807Z",
   "initialized": true,
   "summaryVersion": 4
 }
