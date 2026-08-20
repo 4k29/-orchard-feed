@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "974c5de07e69064d4463",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AirPods with camera leak, iOS 27 beta 6, iPhone 18 Pro cases",
+      "url": "https://9to5mac.com/2026/08/20/happy-hour-604/",
+      "publishedAt": "2026-08-20T18:00:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2018/04/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "カメラ付きAirPodsの噂やiOS 27ベータ版の話題",
+      "summaryJa": "カメラを搭載した次世代AirPodsのデモ動画や、iOS 27ベータ6の変更点、Siri AIの利用体験についてポッドキャストで語られています。また、iPhone 18 Proのケース互換性の噂や、画面付きHomePodに関するリーク情報についても言及されています。"
+    },
+    {
+      "id": "8dec85db61789f2aa4d2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "ChatGPT update adds Apple Messages integration on Mac",
+      "url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/",
+      "publishedAt": "2026-08-20T17:59:38.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/chatgpt-messages.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Mac向けChatGPTがAppleのメッセージ統合に対応",
+      "summaryJa": "Mac向けのChatGPT最新アップデートにより、Appleのメッセージアプリとの連携機能が追加されました。iMessageやSMSなどの会話を読み取って検索したり、メッセージの作成や送信を行ったりすることが可能です。プライバシー保護の観点から、送信時は原則としてユーザーの承認が必要となります。"
+    },
+    {
+      "id": "9eccb2b81dabb02c9a5d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "watchOS 27 adds three new Apple Watch features I’ve been loving",
+      "url": "https://9to5mac.com/2026/08/20/watchos-27-adds-three-new-apple-watch-features-ive-been-loving/",
+      "publishedAt": "2026-08-20T17:50:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/watchos-27-watch-face-red.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "watchOS 27のベータ版で体験する新機能の魅力",
+      "summaryJa": "まもなくリリースされる次期Apple Watch向けソフトウェア「watchOS 27」のベータ版における注目機能が紹介されています。よく使う5つのアプリを動的に表示する新しいホーム画面ビューや、スマートスタックを便利に操作できる新しいタップジェスチャーなどが高く評価されています。"
+    },
+    {
       "id": "7d0ba551f3b50b8c2b44",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4458,54 +4503,9 @@
       ],
       "titleJa": "Apple、ゴルフの全英オープン米国放映権の獲得に向けて協議か",
       "summaryJa": "Appleが、ゴルフのメジャー大会である全英オープン（The Open Championship）の米国における放映権獲得に向けて協議を行っていると報じられています。NetflixやAmazonも関心を示しているとされ、AppleはこれまでにもF1やメジャーリーグサッカーなどスポーツ配信への投資を積極化させています。現行の放映権を持つNBCなどとの動向とともに今後の交渉が注目されています。"
-    },
-    {
-      "id": "5758a7b436a6a267ba18",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AirPods Pro 3 and more just got new public beta firmware",
-      "url": "https://9to5mac.com/2026/08/11/airpods-pro-3-and-more-just-got-new-public-beta-firmware/",
-      "publishedAt": "2026-08-11T18:46:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-noise-cancellation-anc.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、AirPods Proなどのパブリックベータ向け最新ファームウェアを公開",
-      "summaryJa": "Appleは、パブリックベータプログラム登録者向けにAirPodsシリーズの最新ファームウェアの提供を開始しました。対象となるのはAirPods Pro 3やAirPods Pro 2などで、H2チップを搭載したモデルが対象となっています。今秋予定されているiOS 27の一般公開に向けて、新機能の準備が進められています。"
-    },
-    {
-      "id": "761ae964b720db4c0044",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases New iOS 27 AirPods Firmware for Public Beta Testers",
-      "url": "https://www.macrumors.com/2026/08/11/apple-releases-airpods-firmware-public-beta/",
-      "publishedAt": "2026-08-11T18:37:24.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/06/AirPods-Pro-Beta-Firmware.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、パブリックベータテスター向けにAirPodsファームウェアを公開",
-      "summaryJa": "Appleは、パブリックベータテスター向けに新しいAirPodsファームウェアをリリースしました。ビルド番号は9A5336bで、対象機種にはAirPods Pro 2やAirPods 4などが含まれています。このファームウェアにより、新しいインターフェイスや適応型モードのスライダー、カスタムイコライザーなどの機能を利用できるようになります。対応デバイスと接続して電源に繋ぐことで、設定メニューからアップデートを行うことが可能です。"
-    },
-    {
-      "id": "68d552d3986b0fee72a3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 11, 2026 – iOS 27 beta 5, glass iPhone rumors",
-      "url": "https://9to5mac.com/2026/08/11/daily-august-11-2026-ios-27/",
-      "publishedAt": "2026-08-11T18:35:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27ベータ5の最新情報と未発表のiPhoneモデルの噂",
-      "summaryJa": "最新のポッドキャストでは、iOS 27ベータ5で追加されたSiriやSafariなどの新しいアイコン、およびiCloud+のAI機能に関するアップグレードオプションについて議論されています。また、コード内から未発表のiPhone 18モデルの存在が明らかになったほか、Apple Vision ProでのライブMLB中継の展開なども報じられています。Appleの20周年記念iPhoneの再設計に向けた取り組みも順調に進んでいると伝えられています。"
     }
   ],
-  "updatedAt": "2026-08-20T17:39:13.458Z",
+  "updatedAt": "2026-08-20T18:03:30.712Z",
   "initialized": true,
   "summaryVersion": 4
 }
