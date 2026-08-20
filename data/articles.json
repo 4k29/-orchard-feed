@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "87be6676f3700a5ff086",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 won’t launch next month, here’s when it’s coming instead",
+      "url": "https://9to5mac.com/2026/08/20/iphone-18-wont-launch-next-month-heres-when-its-coming-instead/",
+      "publishedAt": "2026-08-20T14:02:14.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/iphone-17-black.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18の通常モデルは来月初旬の発表を見送りか",
+      "summaryJa": "複数の報道によると、例年9月に開催されるAppleの発表会では、通常モデルのiPhone 18が登場せず、2027年早々に発売が延期される見通しです。今年はProモデルや新たなUltraモデルなどが先行して登場し、通常モデルやiPhone 18eなどは2027年初頭の登場になると伝えられています。"
+    },
+    {
+      "id": "b7c900c895ffeddaa402",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 11 Discounted by $100 at Best Buy and Amazon",
+      "url": "https://www.macrumors.com/2026/08/20/apple-watch-series-11-discount-2/",
+      "publishedAt": "2026-08-20T13:52:45.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/apple-watch-series-11-dark.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 11が米小売店で100ドル引きに",
+      "summaryJa": "米国のBest BuyやAmazonなどの大手小売店にて、Apple Watch Series 11が100ドル引きで販売されています。対象は42mmおよび46mmのGPSアルミニウムモデルなどで、過去の最安値に近いお買い得な価格となっていますが、在庫は少なくなっていると伝えられています。"
+    },
+    {
+      "id": "2a2eec257c288075dca3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "These 5 Apple Products Will Reportedly Be Upgraded With OLED Displays",
+      "url": "https://www.macrumors.com/2026/08/20/five-apple-products-to-get-oled-displays/",
+      "publishedAt": "2026-08-20T13:50:38.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/11/Oled-iPads-and-MackBook-Pro-Notch.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPadやMacの複数製品にOLEDディスプレイ搭載か",
+      "summaryJa": "Appleが今後数年かけて、複数のiPadやMacにOLEDディスプレイを順次導入する計画であると報じられています。2026年から2029年にかけて、iPad miniやMacBook Pro、iPad Air、iMac、MacBook Airなどが対象となり、より優れた画質やコントラストがもたらされる見込みです。"
+    },
+    {
       "id": "f812f43c18382c3a95f1",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4458,54 +4503,9 @@
       ],
       "titleJa": "Apple、iPadOS 27などのパブリックベータ3を配信開始",
       "summaryJa": "Appleは開発者向けベータ5の公開に続き、iPadOS 27やtvOS 27などのパブリックベータ3を一般テスター向けにリリースしました。今回のビルドではSiriやSafariなどのアプリアイコンのデザイン刷新や、音声カスタマイズの追加が行われています。正式リリースを来月に控え、前回のベータ版よりも安定性とパフォーマンスが向上しているのが特徴です。"
-    },
-    {
-      "id": "7c0d476108841cbc8cbf",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 public beta 3 is here with Siri AI, iPhone speed upgrades, and more",
-      "url": "https://9to5mac.com/2026/08/11/ios-27-public-beta-3/",
-      "publishedAt": "2026-08-11T17:22:17.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27パブリックベータ3が登場、Siri AIや速度向上を搭載",
-      "summaryJa": "iPhone向けにiOS 27のパブリックベータ第3弾が配信され、今年最大のソフトウェアアップデートをいち早く体験できるようになりました。主な新機能としてSiri AIが搭載されたほか、画面時間の刷新やLiquid Glassのカスタマイズ、旧型モデルでも実感できるパフォーマンス向上などが含まれています。参加プログラムに登録することで、対応するiPhoneにて無料でインストールが可能です。"
-    },
-    {
-      "id": "c7a06bea9a3855ee1286",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "tvOS 27 and watchOS 27 Third Public Betas Now Available",
-      "url": "https://www.macrumors.com/2026/08/11/apple-releases-watchos-27-b3/",
-      "publishedAt": "2026-08-11T17:20:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "watchOS 27とtvOS 27のパブリックベータ3が公開",
-      "summaryJa": "AppleはApple WatchとApple TV向けに、それぞれwatchOS 27およびtvOS 27のパブリックベータ第3弾をリリースしました。watchOS 27ではSiri AIへの対応や動的なアプリグリッドの導入、精度の向上したワークアウト機能などが利用可能になります。一方のtvOS 27では、ポッドキャストアプリの刷新やApple Musicでのハイレゾロスレス対応などが含まれています。"
-    },
-    {
-      "id": "89831c848d576fd52e93",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Sonos is planning Ace Ultra headphones with a big AI push, report says",
-      "url": "https://9to5mac.com/2026/08/11/sonos-is-planning-ace-ultra-headphones-with-a-big-ai-push-report-says/",
-      "publishedAt": "2026-08-11T17:12:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/08/Sonos-Ace.webp?w=1200",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "SonosがAI機能を強化した次期ヘッドホンを準備中か",
-      "summaryJa": "SonosがAI機能を強化したプレミアムな次期ヘッドホン「Sonos Ace Ultra」を開発中であると報じられています。連邦通信委員会（FCC）の資料から存在が確認されており、カラーバリエーションの拡大や音声コマンドへの対応が示唆されています。9月の製品発表イベントでの披露が期待されており、音声制御や予測インテリジェンスを活用した機能面に注目が集まっています。"
     }
   ],
-  "updatedAt": "2026-08-20T13:24:39.518Z",
+  "updatedAt": "2026-08-20T14:08:27.333Z",
   "initialized": true,
   "summaryVersion": 4
 }
