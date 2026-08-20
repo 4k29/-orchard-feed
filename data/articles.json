@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "95bf5fed759005aef247",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Bought Logitech kit during the Trump tariff mess? You may be due a refund …",
+      "url": "https://9to5mac.com/2026/08/20/bought-logitech-kit-during-the-trump-tariff-mess-you-may-be-due-a-refund/",
+      "publishedAt": "2026-08-20T11:37:58.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Logitech-tariff-refunds.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ロジスティック製周辺機器の関税返金めぐり集団訴訟か",
+      "summaryJa": "米中貿易摩擦の最中に関税の引き上げ分を価格に上関していたロジクールなどの企業に対し、消費者が返金を求める集団訴訟が動き出しています。連邦最高裁が過去の関税を違法と判断してメーカーへの返還を命じたものの、実質的に負担した消費者への還元が行われていないことが問題視されています。今後の司法判断や企業の対応に注目が集まっています。"
+    },
+    {
+      "id": "0b8ab9e2c6ab51af53c6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Strong iPhone Sales Are Giving Samsung Display a Big OLED Boost",
+      "url": "https://www.macrumors.com/2026/08/20/strong-iphone-sales-boosting-samsung-oled/",
+      "publishedAt": "2026-08-20T11:10:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/09/iPhone-14-Pro-Display-Two-Times-Brighter-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhoneの好調な販売がSamsung DisplayのOLED出荷増を牽引",
+      "summaryJa": "好調なiPhoneの販売を背景に、Samsung DisplayのフレキシブルOLEDパネルの出荷数が大幅に増加していると報じられています。今年上半期の出荷数は前年同期比で約35%増加し、世界全体のシェア拡大に大きく貢献しました。市場調査会社は、今後の新型iPhoneなどの発表も控え、下半期も引き続き高い需要が維持されると予測しています。"
+    },
+    {
       "id": "673a1d1b650661b2aa0d",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "「iPhone Ultra」にProユーザー向けの魅力的な2大機能か",
       "summaryJa": "来月に発表が予想されるiPhone Ultraには、歴代最大の7.8インチ級ディスプレイや、サイドバイサイドによるマルチタスク機能が搭載されると伝えられています。これらはProユーザーの生産性を大きく高める機能として、通常のProモデルとは一線を画す特徴になると見られています。"
-    },
-    {
-      "id": "5af847e3c3d850922334",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Two New Games Coming to Apple Arcade's Growing Puzzle Catalog",
-      "url": "https://www.macrumors.com/2026/08/11/two-new-games-coming-to-apple-arcade/",
-      "publishedAt": "2026-08-11T15:09:41.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-arcade-august-2026.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Arcade、9月3日に新作パズルゲーム2タイトルを追加",
-      "summaryJa": "Appleは、Apple Arcadeに「Block Blast!+」と「Art of Fauna: Cozy Puzzles+」の2つのパズルゲームを9月3日に追加すると発表しました。オリジナル版にある広告が排除されるほか、アクセシビリティへの配慮なども盛り込まれており、既存の人気タイトルでもアップデートや新コンテンツの配信が予定されています。"
-    },
-    {
-      "id": "f4372d2c77dbebb694bd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV unveils new crime thriller that kicks off big fall lineup",
-      "url": "https://9to5mac.com/2026/08/11/apple-tv-unveils-new-crime-thriller-that-kicks-off-big-fall-lineup/",
-      "publishedAt": "2026-08-11T14:44:14.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/last-seen-running.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、新型クライムスリラー番組を公開",
-      "summaryJa": "Apple TVは、秋の新作ラインナップの幕開けを飾る新しいスリラーシリーズ「Last Seen」の予告編を公開しました。オーストラリアの警察ディスパッチを舞台にした本作は、11年前に失踪した娘からの緊急通報を受けた父親の執念を描いています。配信は9月9日に最初の2話が公開され、その後毎週エピソードが追加される予定です。"
     }
   ],
-  "updatedAt": "2026-08-20T11:10:40.233Z",
+  "updatedAt": "2026-08-20T11:44:13.727Z",
   "initialized": true,
   "summaryVersion": 4
 }
