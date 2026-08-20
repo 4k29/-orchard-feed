@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "163a2ed927b93b2467ac",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AirPods Pro 3 and more just got new firmware release in beta",
+      "url": "https://9to5mac.com/2026/08/20/airpods-pro-3-and-more-just-got-new-firmware-release-in-beta/",
+      "publishedAt": "2026-08-20T18:33:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.05.11.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、AirPods向けに新ベータファームウェアを配信",
+      "summaryJa": "Appleは開発者およびパブリックベータテスター向けに、AirPods向けの新しいベータファームウェアをリリースしました。対象となるのはH2チップを搭載したAirPods Pro 3などのモデルで、ビルド番号は9A5347aとなっています。来月に予定されているOSの大型アップデートを見据え、新機能への対応や準備を進めている段階です。"
+    },
+    {
+      "id": "2c938c5f3519e558e284",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AirPods 4 vs AirPods Pro 3: Which should you buy in 2026?",
+      "url": "https://9to5mac.com/2026/08/20/airpods-4-vs-airpods-pro-3-which-should-you-buy-in-2026/",
+      "publishedAt": "2026-08-20T18:28:27.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-noise-cancellation-anc.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPods 4とAirPods Pro 3の選び方ガイド",
+      "summaryJa": "オープン型で快適な装着感と手頃さを重視したAirPods 4と、優れたノイズキャンセリングや心拍数測定機能を備えた多機能なAirPods Pro 3の特徴を比較しています。装着感や予算、必要な機能に合わせて選ぶのがポイントですが、将来的にカメラ搭載モデルの登場を待つという選択肢もあるかもしれません。"
+    },
+    {
+      "id": "0df5a8a22ad3f3e7f9d3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple, Where is CarPlay Ultra?",
+      "url": "https://www.macrumors.com/2026/08/20/apple-where-is-carplay-ultra/",
+      "publishedAt": "2026-08-20T18:25:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/02/Aston-Martin-CarPlay-Ultra-Screen.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "次世代車載システム「CarPlay Ultra」の展開状況",
+      "summaryJa": "Appleが提供を開始した次世代の車載システム「CarPlay Ultra」は、発表から1年以上が経過した現在もアストンマーティンの一部高級車でのみ利用可能な状態が続いています。当初はヒュンダイやキアなど多くの自動車ブランドが対応を予定していましたが、今のところ大規模な普及には至っていません。今後は主要メーカーの新型車へ導入されるとの見方も報じられています。"
+    },
+    {
       "id": "974c5de07e69064d4463",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4458,54 +4503,9 @@
       ],
       "titleJa": "米裁判所、App Store手数料手続きの延期を求めるAppleの申し立てを却下",
       "summaryJa": "Epic Gamesとの係争において、米国の裁判所がAppleによるApp Storeの手数料手続きの一時停止要求を却下しました。最高裁判所の審査を理由に手続きを保留するよう求めていましたが、認められませんでした。これにより、Appleは外部決済の手数料に関する算出根拠や証拠を速やかに提出する義務が課されています。"
-    },
-    {
-      "id": "2b1c26088b2e79dc3fdc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "‘Everyone’ at Apple uses iPhone Ultra name, says Mark Gurman",
-      "url": "https://9to5mac.com/2026/08/11/everyone-at-apple-uses-iphone-ultra-name-says-mark-gurman/",
-      "publishedAt": "2026-08-11T19:40:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの折りたたみ式iPhone、社内では「Ultra」と呼ばれているか",
-      "summaryJa": "Appleが将来投入すると噂される折りたたみ式モデルについて、社内では「iPhone Ultra」という名称が広く使われているとマーク・ガーマン氏が報じています。これまで「iPhone Fold」という通称が一般的でしたが、内部的な呼称としてUltraが浮上しています。ただし、これが最終的な製品名になるかどうかは依然として不明です。"
-    },
-    {
-      "id": "c1c8f08047bcee6438ae",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Can't Delay App Store Fee Fight While Waiting on Supreme Court",
-      "url": "https://www.macrumors.com/2026/08/11/app-store-epic-games-fee-fight-proceeds/",
-      "publishedAt": "2026-08-11T19:14:10.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/05/app-store-blue-banner-epic-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、最高裁判所の判断待ちを理由としたApp Store手数料訴訟の延期が却下",
-      "summaryJa": "Epic Gamesとの長引く法廷闘争において、Appleは最高裁判所の審理を控えて手続きの一時停止を求めたものの、連邦地裁に却下されました。これによりAppleは、代替決済オプション等に関してデベロッパーに課したい手数料の概要を24時間以内に提出するよう命じられました。裁判所はその後、Epic側からの法的な分析を交えて妥当な手数料を判断する方針です。"
-    },
-    {
-      "id": "b4ab58e49d83ffbe6921",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple in talks to acquire streaming rights for golf’s Open Championship: report",
-      "url": "https://9to5mac.com/2026/08/11/apple-streaming-rights-golf-open/",
-      "publishedAt": "2026-08-11T19:01:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、ゴルフの全英オープン米国放映権の獲得に向けて協議か",
-      "summaryJa": "Appleが、ゴルフのメジャー大会である全英オープン（The Open Championship）の米国における放映権獲得に向けて協議を行っていると報じられています。NetflixやAmazonも関心を示しているとされ、AppleはこれまでにもF1やメジャーリーグサッカーなどスポーツ配信への投資を積極化させています。現行の放映権を持つNBCなどとの動向とともに今後の交渉が注目されています。"
     }
   ],
-  "updatedAt": "2026-08-20T18:03:30.712Z",
+  "updatedAt": "2026-08-20T18:56:09.252Z",
   "initialized": true,
   "summaryVersion": 4
 }
