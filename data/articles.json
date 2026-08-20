@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "bf51b792ab3e94696c1a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple hits back at OpenAI’s bid to dismiss lawsuit, reaffirms ‘pervasive trade secret misappropriation’",
+      "url": "https://9to5mac.com/2026/08/19/apple-hits-back-at-openais-bid-to-dismiss-lawsuit-reaffirms-pervasive-trade-secret-misappropriation/",
+      "publishedAt": "2026-08-20T02:21:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-vs-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、OpenAIの訴訟却下申し立てに反発",
+      "summaryJa": "Appleは、元従業員らによる営業秘密の不正流用をめぐる訴訟について、OpenAIの却下申し立てに対する反論を提出しました。OpenAI側は十分な調査が行われていないなどと主張していましたが、Appleはこれを否定し、機密情報の不正持ち出しに関する核心的な主張を維持しています。"
+    },
+    {
       "id": "ea9981dae03e1c12ccca",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "Apple Arcade、人気パズルゲーム2作を追加へ",
       "summaryJa": "Apple Arcadeのパズルゲームのラインナップが拡充され、新たに「Block Blast!+」と「Art of Fauna: Cozy Puzzles+」が9月3日に登場すると発表されました。広告やアプリ内購入なしで、アクション性のあるブロックパズルから心地よいジグソーパズルまで存分に楽しむことができます。さらに、既存の人気タイトルも含む豊富なパズルコレクションがプレイヤーに提供されます。"
-    },
-    {
-      "id": "ba6df8ce4133dd7c38e2",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
-      "publishedAt": "2026-08-11T13:59:21.581Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple Arcade、人気パズルゲーム2作を追加",
-      "summaryJa": "Appleは、定額制ゲーム配信サービス「Apple Arcade」において、人気パズルゲーム「Block Blast!+」と「Art of Fauna: Cozy Puzzles+」の2タイトルを9月3日に追加すると発表しました。追加されるゲームは、広告やアプリ内課金が一切なく、純粋なゲームプレイを楽しむことができます。世界中で人気を集めるブロックパズルと、自然をテーマにした癒やしのジグソーパズルの2作品がラインナップに加わり、パズルゲームのカタログがさらに充実します。"
     }
   ],
-  "updatedAt": "2026-08-20T01:46:25.180Z",
+  "updatedAt": "2026-08-20T02:47:15.987Z",
   "initialized": true,
   "summaryVersion": 4
 }
