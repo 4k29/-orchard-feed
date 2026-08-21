@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "b9c3fb19f9ce15e752c8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "ChatGPT’s iPhone app gets a handy shortcut to attach recent photos more quickly",
+      "url": "https://9to5mac.com/2026/08/21/chatgpts-iphone-app-gets-a-handy-shortcut-to-attach-recent-photos-more-quickly/",
+      "publishedAt": "2026-08-21T23:50:13.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ChatGPTのiPhoneアプリに写真の添付が簡単になるショートカットが登場",
+      "summaryJa": "OpenAIは、ChatGPTのiPhone向けアプリにおいて、最近の写真を手軽に添付できる新しいジェスチャーを追加しました。プロンプト入力ボックスの左側にある「+」ボタンを長押しするだけで、直近の4枚の写真が表示され、素早く選択して会話に利用できるようになります。この機能は、視覚的な検索ややり取りをよりスムーズにするための今週のアップデートの一環として提供されています。"
+    },
+    {
       "id": "53edc10988b0cca9c322",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Apple Watch向けwatchOS 27で2つの新しいアプリを追加か",
       "summaryJa": "次期大型アップデートとなるwatchOS 27では、Apple Watch向けに2つの新しいアプリが追加されると報じられています。AI機能が強化されたSiriの専用アプリに加え、これまで別々に分かれていたデバイスやアイテム、友人を探す機能を統合した新しい「探す」アプリが含まれます。これにより、ユーザーは手首の上からよりシームレスに位置情報や履歴を確認できるようになります。"
-    },
-    {
-      "id": "30aee4f5cd864c4fbfcf",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Eddy Cue said the thing we wanted to hear on future Ted Lasso seasons",
-      "url": "https://9to5mac.com/2026/08/12/eddy-cue-said-the-thing-we-wanted-to-hear-on-future-ted-lasso-seasons/",
-      "publishedAt": "2026-08-12T19:27:21.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ted-lasso-s4-red.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVのエディ・キュー氏、『テッド・ラッソ』の将来に意欲",
-      "summaryJa": "大人気ドラマ『テッド・ラッソ』シーズン4の配信開始に合わせ、Appleのサービス担当責任者であるエディ・キュー氏が今後のさらなる継続に前向きな姿勢を示しました。シーズン5以降についての公式発表はまだありませんが、同氏は十分なストーリーが残されていると語っています。今後の展開やキャラクターたちとの別れはまだ先のことになりそうです。"
     }
   ],
-  "updatedAt": "2026-08-21T23:32:42.951Z",
+  "updatedAt": "2026-08-21T23:55:10.053Z",
   "initialized": true,
   "summaryVersion": 4
 }
