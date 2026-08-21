@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "da93e11afdf13049ce16",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Reportedly Lays Off 60 Vision Products Group Employees",
+      "url": "https://www.macrumors.com/2026/08/21/apple-lays-off-vision-products-employees/",
+      "publishedAt": "2026-08-21T11:28:57.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/10/Apple-Vision-Pro-Dual-Knit-Band.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、Vision製品グループで約60人の従業員を解雇か",
+      "summaryJa": "AppleがVR開発チームの従業員少なくとも60人を解雇したと報じられています。Vision Proの低調な販売を受けてチームが再編成され、次世代モデルの開発中止やスマートグラスへの移行が進んでいる模様です。アナリストは新たなヘッドセットの投入は早くても2028年後半になると予想しています。"
+    },
+    {
       "id": "459aaa5af8f94624a3c6",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "2027年の全面ガラス製iPhoneは開発継続か",
       "summaryJa": "一部のアナリストが20周年記念モデルとされる全面ガラス製iPhoneの開発が中止されたと報じた件について、著名リーカーや専門記者のマーク・ガーマン氏がこれを否定しました。内部コードネームV73およびV74として、ProおよびPro Maxの2サイズで引き続き開発が進められていると伝えられています。前面と背面の中央付近に金属バンドを残しつつ、ガラスの光学屈折を利用してベゼルレスの効果を演出する設計になると見られています。"
-    },
-    {
-      "id": "37ab9171e4aefb5004c4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Parents urged to revisit screen time limits as kids head back to school",
-      "url": "https://9to5mac.com/2026/08/12/parents-urged-to-revisit-screen-time-limits-as-kids-head-back-to-school/",
-      "publishedAt": "2026-08-12T11:03:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Parents-urged-to-change-screen-time-limits-as-kids-head-back-to-school.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新学期に向け子どもたちのスクリーンタイム制限の見直しを推奨",
-      "summaryJa": "夏休み期間中に緩みがちだった子どもたちのスクリーンタイム制限を、新学期の開始に合わせて見直すよう専門家が呼びかけています。過度なデバイス利用は学業成績や認知機能の低下を招く恐れがあり、従来の画一的な時間制限よりも、家庭の状況や成長に応じた柔軟なアプローチが重要視されています。"
     }
   ],
-  "updatedAt": "2026-08-21T11:03:44.239Z",
+  "updatedAt": "2026-08-21T11:36:40.023Z",
   "initialized": true,
   "summaryVersion": 4
 }
