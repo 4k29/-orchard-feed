@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "38cbafd3c024b8ffd079",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Biggest Summer Deals Drop: AirPods Max 2 Plummet to $429, M4 iPad Air $100 Off",
+      "url": "https://www.macrumors.com/2026/08/21/best-apple-deals-of-the-week-8-21-26/",
+      "publishedAt": "2026-08-21T14:23:42.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/02/Best-Apple-Deals-Feature-0007-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AmazonなどでAirPods MaxやM4 iPad Airがセールに",
+      "summaryJa": "ベストバイの記念セールやAmazonなどの各種割引により、Apple製品や関連アクセサリーが特別価格で販売されています。AirPods Max 2やM4 iPad Airなどが対象となり、今夏で最も手頃な価格で購入できるチャンスとなっています。"
+    },
+    {
+      "id": "fe11105e875738eab56b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Walmart to Begin Accepting Apple Pay in U.S. Stores",
+      "url": "https://www.macrumors.com/2026/08/21/walmart-to-begin-accepting-apple-pay-in-us/",
+      "publishedAt": "2026-08-21T14:12:47.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/01/Apple-Pay-Walmart-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "ウォルマート、米国店舗でApple Payの導入を順次開始へ",
+      "summaryJa": "米小売大手ウォルマートは、8月24日から一部の店舗でApple Payなどのタッチ決済への対応を開始すると発表しました。これまで独自決済システムを優先していましたが、顧客の要望に応える形で対応を進め、2026年末までに全米の全店舗へ拡大する予定です。"
+    },
+    {
+      "id": "23e0c1c71aface021468",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "John Ternus as CEO could bring ‘bigger acquisitions,’ new product categories: analyst",
+      "url": "https://9to5mac.com/2026/08/21/john-ternus-as-ceo-could-bring-bigger-acquisitions-new-product-categories-analyst/",
+      "publishedAt": "2026-08-21T14:05:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/m4-macbook-pro-video-event.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "次期CEO就任のジョン・テラス氏、より大胆な買収や新製品を模索か",
+      "summaryJa": "バンク・オブ・アメリカのアナリストによると、9月1日にAppleの最高経営責任者に就任予定のジョン・テラス氏は、ティム・クック氏の路線を継承しつつも、よりリスクを取った経営を行う可能性があると報じられています。AIグラスやスマートリングなどの新カテゴリー参入や、積極的な研究開発および企業買収が期待されています。"
+    },
+    {
       "id": "a512f179499f49f98ea8",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4458,54 +4503,9 @@
       ],
       "titleJa": "iPhone 18のベースモデルにProレベルの機能か",
       "summaryJa": "アナリストのジェフ・プー氏によると、2027年初頭に発売される見込みのベースモデルのiPhone 18には、12GBのメモリと、iPhone 18 Proで初採用される新しいダイナミックアイランドのデザインが搭載される可能性があると報じられています。これまでの情報ではメモリ容量について異なる予測もありましたが、サプライチェーンの調査に基づき、下位モデルでも進化が進むと予想されています。"
-    },
-    {
-      "id": "50c4ecd5b03590dee77d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "'Everyone' at Apple Apparently Calls Foldable 'iPhone Ultra'",
-      "url": "https://www.macrumors.com/2026/08/12/everyone-at-apple-says-iphone-ultra/",
-      "publishedAt": "2026-08-12T13:47:13.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple社内では折りたたみiPhoneを「iPhone Ultra」と呼ぶ声か",
-      "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、Apple社内の関係者は開発中の折りたたみ式iPhoneを「iPhone Ultra」と呼んでいると伝えられています。ただし、これが正式な製品名になるかどうかは現時点では確定的ではなく、既存のUltra製品との位置づけの違いを疑問視する見方も示されています。"
-    },
-    {
-      "id": "219793006ccac1c62213",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Foxconn used to make half its revenue from Apple; now it’s below 29%",
-      "url": "https://9to5mac.com/2026/08/12/foxconn-used-to-make-half-its-revenue-from-apple-now-its-below-29/",
-      "publishedAt": "2026-08-12T13:08:09.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Foxconn-used-to-make-half-its-revenue-from-Apple-now-its-below-29pc.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Foxconn、Appleからの売上比率が29%未満に低下",
-      "summaryJa": "主要なiPhone組み立てパートナーであるFoxconnにおいて、Apple関連の売上高の割合が直近の四半期で29%未満に低下したと報じられています。この構造的な変化の主な理由は、AIサーバーを含むクラウドおよびネットワーク部門の急成長によるものであり、同部門の売上は全体の過半数を占めるようになりました。同社はこのシフトが一時的なものではなく恒久的なものになると見込んでおり、今後の重要な成長ドライバーに位置づけています。"
-    },
-    {
-      "id": "75dd3662e50cad51efd7",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "'iPhone Ultra' Screen Protectors Reveal Asymmetric Corners",
-      "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-screen-protectors-reveal-asymmetry/",
-      "publishedAt": "2026-08-12T12:44:10.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "噂の「iPhone Ultra」用とされる画面保護フィルムが流出",
-      "summaryJa": "リーク情報で知られる人物が、Appleの折りたたみ式デバイス「iPhone Ultra」向けとされる画面保護フィルムの画像や動画を公開しました。流出したアクセサリーは、ヒンジ側に直角のコーナーを持ち、反対側が丸みを帯びた非対称な形状になっており、これまでの噂のデザインと一致しています。また、前面カメラ用のパンチホールは中央ではなく右側に配置されており、Face IDではなくTouch IDの採用を示唆する内容となっています。"
     }
   ],
-  "updatedAt": "2026-08-21T13:58:48.903Z",
+  "updatedAt": "2026-08-21T14:47:08.606Z",
   "initialized": true,
   "summaryVersion": 4
 }
