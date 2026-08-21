@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "dd51aa985c5859477d9a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Dark Cherry and More: Every iPhone 18 Pro and iPhone Ultra Color Rumor",
+      "url": "https://www.macrumors.com/guide/iphone-18-pro-ultra-colors/",
+      "publishedAt": "2026-08-21T00:33:41.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/iPhone-18-Pro-Rumored-Colors.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "次期iPhone 18 Proの新色に関する噂が浮上",
+      "summaryJa": "次期iPhone 18 ProおよびPro Maxモデルの新色について、赤と紫の中間に位置する「ダークチェリー」などのカラーオプションが採用される可能性が報じられています。これまでの鮮やかなオレンジ系から、より深みのある落ち着いた色合いへと変更される見通しです。正確な色味は照明条件によって異なり、シルバー、ダークグレー、ライトブルーとともに展開されると伝えられています。"
+    },
+    {
       "id": "aced013a38983e01564e",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "サムスン、AirPodsを追う形でリスニングケア機能をFDA承認へ",
       "summaryJa": "サムスンは、Galaxy Budsの「リスニングケア」および補聴器機能が米国FDAの承認を受けたと発表しました。これにより、第4四半期からGalaxy Budsが市販の補聴器として利用できるようになり、2024年に先行したAppleのAirPodsに続く形で、軽度から中等度の難聴を持つユーザー向けの聴覚サポート機能が提供されることになります。"
-    },
-    {
-      "id": "7a1a394941733bf5e710",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Sonos Preparing AirPods Max Rival With Voice Assistant Support",
-      "url": "https://www.macrumors.com/2026/08/11/sonos-ace-ultra/",
-      "publishedAt": "2026-08-11T22:53:16.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/09/sonos-ace-purple.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Sonos、音声アシスタント対応のヘッドホンを準備中か",
-      "summaryJa": "SonosがAI機能を搭載した新型ヘッドホン「Sonos Ace Ultra」の開発を進めていると報じられています。FCCの認証機関への申請書類から明らかになったもので、音声コマンドを通じて外部のAIチャットボットを利用できるようになるとみられています。初代モデルは販売数が伸び悩んだものの、新モデルでは音声機能やAI技術の強化を軸に反攻を狙う可能性があります。"
     }
   ],
-  "updatedAt": "2026-08-20T23:46:38.336Z",
+  "updatedAt": "2026-08-21T00:36:44.802Z",
   "initialized": true,
   "summaryVersion": 4
 }
