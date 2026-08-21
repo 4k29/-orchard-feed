@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "9a040d9ac44bbd23e897",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple lays off 200+ people across Vision Pro and Siri teams",
+      "url": "https://9to5mac.com/2026/08/21/apple-lays-off-200-people-across-vision-pro-and-siri-teams/",
+      "publishedAt": "2026-08-21T19:17:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Vision ProやSiri開発チームなどで200名以上をレイオフか",
+      "summaryJa": "AppleがBloombergの報道によると、Vision ProやSiri、ソフトウェアエンジニアリングの各チームで合計200名以上の人員削減を実施したと報じられています。このうちVision Pro関連ではゲーム部門の縮小や没入型動画制作の規模縮小が行われ、約100名が対象となりました。また、Siri AIプラットフォームの刷新に向けた技術的アーキテクチャの変更に伴い、Siri関連のチームでも約100名が削減されたと伝えられています。"
+    },
+    {
+      "id": "6a0d6a1bf28b282f8c0e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Guts Vision Pro Gaming and Immersive Video Teams, Trims Siri Staff",
+      "url": "https://www.macrumors.com/2026/08/21/apple-guts-vision-pro-teams/",
+      "publishedAt": "2026-08-21T19:16:26.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/04/Apple-Immersive-Video-Utility-Vision-Pro.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、Vision Proのゲームや映像制作部門を縮小しSiriスタッフも削減か",
+      "summaryJa": "AppleがVision Proのゲームおよび没入型動画制作チームを大幅に縮小し、SiriおよびAI部門の人員も削減したと報じられています。Vision Products Groupから約100名、Siriとソフトウェアグループから約100名がレイオフの対象となりました。同社はユーザーの利用状況に合わせて優先順位を再調整しており、今後は社内での映像制作を減らし外部の3Dコンテンツに頼る方針です。また、SiriチームではAI機能への移行に伴う新たな人員配置が進められています。"
+    },
+    {
+      "id": "58582a1a1b3ab5e678d1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "HomeKit Weekly: Homey secures Matter 1.5 certification to expand bridging and energy support",
+      "url": "https://9to5mac.com/2026/08/21/homekit-weekly-homey-secures-matter-1-5-certification-to-expand-bridging-and-energy-support/",
+      "publishedAt": "2026-08-21T18:52:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Homey-Matter-1.5-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "スマートホームプラットフォームHomeyがMatter 1.5認証を取得",
+      "summaryJa": "Athomは、自社のHomeyソフトウェアコンポーネントがMatter 1.5認証を正式に取得したと発表しました。これにより、Homey Proやセルフホストサーバーなどでネイティブデバイスの統合やクロスプラットフォームのブリッジ機能が強化されます。新しいMatter 1.5では、EV充電器やヒートポンプ、ソーラーパネルなどのエネルギー関連ハードウェアカテゴリへのネイティブ対応が追加されました。また、Homeyのマルチプロトコルアーキテクチャを活用することで、非MatterデバイスをApple Homeなどにブリッジ接続することが可能になります。"
+    },
+    {
       "id": "6617fb21e34c6b59664f",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4457,54 +4502,9 @@
       ],
       "titleJa": "Apple、iPhone 18 Proのディスプレイ価格を引き下げか",
       "summaryJa": "Appleが次期iPhone 18 Proモデル向けOLEDディスプレイの価格引き下げをサプライヤーと合意したと報じられています。AIデータセンターの拡大に伴うRAMチップの価格高騰で生産コストが増加する中、ディスプレイなどの部品コストを抑えることで一部を相殺する狙いとみられています。それでもiPhone 18 Proモデルは値上がりする可能性が指摘されており、正式な価格発表に注目が集まっています。"
-    },
-    {
-      "id": "b64568687f7561fa0867",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple hires American Airlines exec to lead government affairs",
-      "url": "https://9to5mac.com/2026/08/12/apple-hires-american-airlines-exec-to-lead-government-affairs/",
-      "publishedAt": "2026-08-12T17:19:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、政府渉外担当の副社長にアメリカン航空の幹部を起用",
-      "summaryJa": "Appleが政府渉外担当の新副社長として、アメリカン航空のベテラン幹部であるネイト・ガッテン氏を起用すると報じられました。ガッテン氏は8月31日付で就任し、法務責任者のキャサリン・アダムス氏の後任となります。トランプ政権との関係構築を見据えた人事とみられており、今後はティム・クック氏とも緊密に連携しながら政策担当者との交渉にあたると伝えられています。"
-    },
-    {
-      "id": "997b2eaddcc9d49e0252",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Raycast adds a new way to ask AI about whatever is on your screen",
-      "url": "https://9to5mac.com/2026/08/12/raycast-adds-a-new-way-to-ask-ai-about-whatever-is-on-your-screen/",
-      "publishedAt": "2026-08-12T17:12:47.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/raycast-screen-awareness.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Raycast、画面上のコンテンツをAIに直接認識させる新機能を追加",
-      "summaryJa": "Mac向けランチャーアプリのRaycastに、アクティブなアプリやウィンドウの文脈を直接AIチャットに取り込める「Screen Awareness」機能が追加されました。この機能により、ユーザーはテキストのコピーやスクリーンショットのアップロードを行わずに、画面上の内容について直接AIに質問や要約の指示を出せるようになります。専用のショートカットを設定することで、よりスムーズなワークフローを実現します。"
-    },
-    {
-      "id": "1eb464e281428d63cab0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Patenting Way to Improve Notification Summaries and 'Reduce Interruptions' Focus",
-      "url": "https://www.macrumors.com/2026/08/12/apple-patent-to-improve-summaries/",
-      "publishedAt": "2026-08-12T16:29:09.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/06/notification-summaries.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、通知の要約と割り込み削減を改善する特許を出願",
-      "summaryJa": "Appleがリアルタイムのデバイス利用状況や行動パターンを分析して通知の必要性を判断するシステムに関する特許を出願したことが明らかになりました。ユーザーの作業を中断せずに、後から最近のアクティビティを確認できる短い要約機能も含まれています。既存のAI通知要約や集中モードをさらに強化する仕組みとして期待されています。"
     }
   ],
-  "updatedAt": "2026-08-21T19:08:33.989Z",
+  "updatedAt": "2026-08-21T19:38:32.224Z",
   "initialized": true,
   "summaryVersion": 4
 }
