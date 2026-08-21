@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "cc1fe01878d7cd1b1606",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Camera AirPods Code Reveals Image Capture Resolution, Status Light, Person Detection, and More",
+      "url": "https://www.macrumors.com/2026/08/21/camera-airpods-code-reveals-hardware-details/",
+      "publishedAt": "2026-08-21T09:32:05.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/airpods-pro-3-orange.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "カメラ搭載AirPodsのコードから解像度や機能が判明か",
+      "summaryJa": "Appleが開発中と噂されるカメラ搭載AirPodsに関する詳細な情報が、macOSのコードから新たに発見されました。左右のイヤホンにそれぞれカメラセンサーが搭載され、Visual Intelligence機能のために最大1メガピクセルの静止画を同期してキャプチャする仕組みになっていると伝えられています。アクティブモードとパッシブモードで異なる解像度が使い分けられ、背景環境の認識などに活用される可能性があります。"
+    },
+    {
       "id": "118c853199dc92780d47",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "Apple TV、スペイン語ドラマ「ラ・アスレス」シーズン2を配信開始",
       "summaryJa": "Apple TVにて、スペイン語のクライムドラマ「ラ・アスレス（原題）」シーズン2の配信が開始されました。今シーズンでは、昇進した主人公マリアが、1968年の学生虐殺事件に関連する新たな捜査に直面し、組織の腐敗や正義の代償に立ち向かう姿が全8話で描かれます。毎週水曜日に新しいエピソードが追加され、9月30日まで配信される予定です。"
-    },
-    {
-      "id": "ae1d5cacbb926eb7d831",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Microsoft Edge tests Apple Account sign-in support",
-      "url": "https://9to5mac.com/2026/08/11/microsoft-edge-tests-apple-account-sign-in-support/",
-      "publishedAt": "2026-08-12T00:11:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/microsoft-edge-macos.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Microsoft Edge、Apple Accountでのサインイン機能をテスト中",
-      "summaryJa": "マイクロソフトのデスクトップ向けブラウザ「Microsoft Edge」のCanaryビルドおよびBeta版において、Apple Accountを用いたサインイン機能のテストが進行していると報じられています。プロフィールの管理画面にAppleでのサインイン用ボタンが追加される予定で、ユーザーは既存のApple Accountを使ってプロファイルにログインできるようになります。"
     }
   ],
-  "updatedAt": "2026-08-21T09:19:51.966Z",
+  "updatedAt": "2026-08-21T09:57:28.410Z",
   "initialized": true,
   "summaryVersion": 4
 }
