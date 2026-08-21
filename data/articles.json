@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "efdf2ba7b8520e2c451f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Emmy-winning ‘Stillwater’ returns to Apple TV with five new episodes",
+      "url": "https://9to5mac.com/2026/08/21/emmy-winning-stillwater-returns-to-apple-tv-with-five-new-episodes/",
+      "publishedAt": "2026-08-21T21:53:41.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/stillwater-s5-panda.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、アニメ「スティルウォーター」シーズン5の配信を開始",
+      "summaryJa": "Apple TVの人気アニメシリーズ「スティルウォーター」のシーズン5となる全5話の配信が開始されました。マインドフルネスをテーマにしたこの作品は、賢いパンダが3人のきょうだいに日々の課題や感情への向き合い方を教える物語です。これまでにピーボディ賞やデイリータイム・エミー賞を受賞するなど高く評価されており、サブスクリプション加入者は追加料金なしですべてのエピソードを楽しむことができます。"
+    },
+    {
       "id": "edf9d90bd13c4a960267",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Google、AppleのAirTagに対抗する紛失防止タグ「Pixel Tag」を発表",
       "summaryJa": "GoogleがAppleのAirTagに対抗する初のアイテムトラッカー「Pixel Tag」を発表しました。ステンレススチール製で防水防塵に対応し、本体には接続したスマートフォンを鳴らすためのボタンが搭載されています。Bluetoothと超広帯域無線に対応しており、Androidデバイス向けの「Find Hub」アプリで位置を追跡できるほか、未知のトラッカー検知機能も備えています。"
-    },
-    {
-      "id": "997dd1455dd666f78916",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Wallet app could get new feature to manage trade-ins",
-      "url": "https://9to5mac.com/2026/08/12/apple-wallet-app-could-get-new-feature-to-manage-trade-ins/",
-      "publishedAt": "2026-08-12T18:51:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleウォレットアプリ、下取り査定の管理機能追加か",
-      "summaryJa": "Apple従業員向けの内部アプリのコードから、Appleウォレットで下取りオファーを管理できるようになる新機能が計画されていることが判明しました。現行の14日間から90日間へと査定の有効期限が延長される可能性も示唆されています。下取りプログラムは、製品価格の高騰が進むなかで重要な役割を担っています。"
     }
   ],
-  "updatedAt": "2026-08-21T21:33:46.878Z",
+  "updatedAt": "2026-08-21T21:56:42.322Z",
   "initialized": true,
   "summaryVersion": 4
 }
