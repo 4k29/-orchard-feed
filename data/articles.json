@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "edf9d90bd13c4a960267",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Epic accuses Apple of sidestepping App Store antitrust deal in Brazil",
+      "url": "https://9to5mac.com/2026/08/21/epic-accuses-apple-of-sidestepping-app-store-antitrust-deal-in-brazil/",
+      "publishedAt": "2026-08-21T21:20:58.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Epic、ブラジルの独禁法和解めぐりAppleを非難か",
+      "summaryJa": "Epic Gamesは、ブラジルの独占禁止法監視機関に対し、AppleがApp Storeの和解における義務の履行を制限的に解釈していると申し立てました。Appleが代替マーケットプレイスの導入やiPadOSの適用範囲などを巡り、アクセス障壁を作っていると主張しています。ブラジル当局への対応期限は月曜日に迫っており、今後の動向が注目されています。"
+    },
+    {
       "id": "be0fde5625780d59216a",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Appleウォレットアプリ、下取り査定の管理機能追加か",
       "summaryJa": "Apple従業員向けの内部アプリのコードから、Appleウォレットで下取りオファーを管理できるようになる新機能が計画されていることが判明しました。現行の14日間から90日間へと査定の有効期限が延長される可能性も示唆されています。下取りプログラムは、製品価格の高騰が進むなかで重要な役割を担っています。"
-    },
-    {
-      "id": "3a895c0ea9c4f49e0894",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "MLB iPhone app just got better with new CarPlay and Live Activity features",
-      "url": "https://9to5mac.com/2026/08/12/mlb-iphone-app-just-got-better-with-new-carplay-and-live-activity-features/",
-      "publishedAt": "2026-08-12T18:10:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/MLB-app.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone向け公式MLBアプリ、CarPlayやライブアクティビティを強化",
-      "summaryJa": "公式MLBアプリのアップデートにより、お気に入りのチーム以外でも任意の試合でライブアクティビティを利用できるようになりました。試合の画面から「Track」ボタンをタップするだけで、ロック画面やDynamic Islandにスコアなどが表示されます。また、CarPlayでの操作性も向上し、実況ラジオの選択や詳細な試合情報の確認がスムーズに行えるようになっています。"
     }
   ],
-  "updatedAt": "2026-08-21T20:58:27.527Z",
+  "updatedAt": "2026-08-21T21:33:46.878Z",
   "initialized": true,
   "summaryVersion": 4
 }
