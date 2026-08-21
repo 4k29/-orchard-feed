@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "5aaafa72e5bb1469f212",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple refurb store: Apple TV 4K is back, Apple Watch Ultra 3 offers, more",
+      "url": "https://9to5mac.com/2026/08/21/apple-refurb-store-apple-tv-4k-ultra/",
+      "publishedAt": "2026-08-21T19:43:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-4k-homekit.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの認定整備済ストアにApple TV 4KやMacBookなどが登場",
+      "summaryJa": "Appleの公式認定整備済ストアに、Apple TV 4Kや最新のMacBookシリーズ、Apple Watch Ultra 3などが再登場しました。整備済製品は厳格なプロセスを経て販売されており、最大15%オフの割引価格で購入できるほか、1年間の限定保証も付帯しています。在庫は常に変動するため、購入を検討している場合は早めのチェックがおすすめです。"
+    },
+    {
       "id": "9a040d9ac44bbd23e897",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "折りたたみiPhoneの前面カメラは隅に配置されるか",
       "summaryJa": "来月発表されると噂の折りたたみiPhoneについて、デバイスの前面カメラが従来の画面中央ではなく、コーナー部分に配置される可能性があると報じられています。外部ディスプレイ用と内部ディスプレイ用の両方で通常のデザインから大きく変更される見通しで、リークされたサードパーティ製スクリーンプロテクターの切り欠きから浮上しました。ただし、アクセサリーメーカーの憶測に過ぎない可能性もあり、実際の仕様については今後注目が集まります。"
-    },
-    {
-      "id": "fa083d1aa763901f9d75",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro: Apple Secures Lower Display Prices Amid RAM Shortage",
-      "url": "https://www.macrumors.com/2026/08/12/iphone-18-pro-lower-oled-display-cost-report/",
-      "publishedAt": "2026-08-12T17:21:25.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/05/Low-Angle-iPhone-Purple.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhone 18 Proのディスプレイ価格を引き下げか",
-      "summaryJa": "Appleが次期iPhone 18 Proモデル向けOLEDディスプレイの価格引き下げをサプライヤーと合意したと報じられています。AIデータセンターの拡大に伴うRAMチップの価格高騰で生産コストが増加する中、ディスプレイなどの部品コストを抑えることで一部を相殺する狙いとみられています。それでもiPhone 18 Proモデルは値上がりする可能性が指摘されており、正式な価格発表に注目が集まっています。"
     }
   ],
-  "updatedAt": "2026-08-21T19:38:32.224Z",
+  "updatedAt": "2026-08-21T19:58:09.042Z",
   "initialized": true,
   "summaryVersion": 4
 }
