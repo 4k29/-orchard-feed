@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "53edc10988b0cca9c322",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "10 Ways to Improve Your iPhone's Battery Life",
+      "url": "https://www.macrumors.com/guide/iphone-battery-life-10-tips/",
+      "publishedAt": "2026-08-21T22:53:10.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/08/iOS-26-Battery-Glass-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhoneのバッテリー持ちを改善する10の方法",
+      "summaryJa": "長時間の外出時にiPhoneのバッテリー消費を抑えるための10のヒントが紹介されています。適応型電力機能の活用や低電力モードの自動化、常時表示ディスプレイのオフなど、日常で役立つ具体的な節約術がまとめられています。"
+    },
+    {
       "id": "efdf2ba7b8520e2c451f",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Apple TVのエディ・キュー氏、『テッド・ラッソ』の将来に意欲",
       "summaryJa": "大人気ドラマ『テッド・ラッソ』シーズン4の配信開始に合わせ、Appleのサービス担当責任者であるエディ・キュー氏が今後のさらなる継続に前向きな姿勢を示しました。シーズン5以降についての公式発表はまだありませんが、同氏は十分なストーリーが残されていると語っています。今後の展開やキャラクターたちとの別れはまだ先のことになりそうです。"
-    },
-    {
-      "id": "f52537a2d909e7087e86",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Google Unveils $29 Pixel Tag to Take On Apple's AirTag",
-      "url": "https://www.macrumors.com/2026/08/12/google-pixel-tag/",
-      "publishedAt": "2026-08-12T18:52:26.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/google-pixel-tag-design.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Google、AppleのAirTagに対抗する紛失防止タグ「Pixel Tag」を発表",
-      "summaryJa": "GoogleがAppleのAirTagに対抗する初のアイテムトラッカー「Pixel Tag」を発表しました。ステンレススチール製で防水防塵に対応し、本体には接続したスマートフォンを鳴らすためのボタンが搭載されています。Bluetoothと超広帯域無線に対応しており、Androidデバイス向けの「Find Hub」アプリで位置を追跡できるほか、未知のトラッカー検知機能も備えています。"
     }
   ],
-  "updatedAt": "2026-08-21T22:34:58.640Z",
+  "updatedAt": "2026-08-21T22:57:45.121Z",
   "initialized": true,
   "summaryVersion": 4
 }
