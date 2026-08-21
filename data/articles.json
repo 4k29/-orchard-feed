@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "6617fb21e34c6b59664f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPadOS 27 adds three features to make iPad more like the Mac",
+      "url": "https://9to5mac.com/2026/08/21/ipados-27-adds-three-features-to-make-ipad-more-like-the-mac/",
+      "publishedAt": "2026-08-21T18:50:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPadOS 27がMacに近づく3つの新機能を採用",
+      "summaryJa": "iPadOS 27では、Macの使い勝手に近づけるための3つの新機能が追加されます。ステータスバーへのアクティブアプリ名表示や、常に表示可能なメニューバーなどが含まれており、キーボード操作時の利便性が大幅に向上します。"
+    },
+    {
       "id": "72095fa85313aacda7fc",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Apple、通知の要約と割り込み削減を改善する特許を出願",
       "summaryJa": "Appleがリアルタイムのデバイス利用状況や行動パターンを分析して通知の必要性を判断するシステムに関する特許を出願したことが明らかになりました。ユーザーの作業を中断せずに、後から最近のアクティビティを確認できる短い要約機能も含まれています。既存のAI通知要約や集中モードをさらに強化する仕組みとして期待されています。"
-    },
-    {
-      "id": "2dc8ba48c16097784c0c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Ultra's Two Selfie Cameras Could Sit in the Same Corner",
-      "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-selfie-cameras-same-corner/",
-      "publishedAt": "2026-08-12T16:12:42.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/foldable-iphone-dummy-sonny-dickson.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみ式iPhoneの自撮りカメラは同じコーナーに配置か",
-      "summaryJa": "登場が噂されるApple初の折りたたみ式デバイス「iPhone Ultra」の自撮りカメラ配置について、新しい画面保護フィルムのリーク情報から興味深い憶測が伝えられています。内側と外側のディスプレイ用カメラがそれぞれ異なる場所ではなく、同じコーナー側にまとめて配置される可能性があります。限られた内部スペースを効率的に活用するための設計とみられています。"
     }
   ],
-  "updatedAt": "2026-08-21T18:30:43.387Z",
+  "updatedAt": "2026-08-21T19:08:33.989Z",
   "initialized": true,
   "summaryVersion": 4
 }
