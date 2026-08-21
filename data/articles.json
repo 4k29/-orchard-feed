@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "a512f179499f49f98ea8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Walmart finally launching Apple Pay support next week",
+      "url": "https://9to5mac.com/2026/08/21/walmart-finally-launching-apple-pay-support-next-week/",
+      "publishedAt": "2026-08-21T13:56:25.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/05/Apple-Pay-walmart@0.5x.jpg?quality=82&#038;strip=all&#038;w=1400",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ウォルマート、来週からApple Payに対応へ",
+      "summaryJa": "米ウォルマートは、長年の消費者からの要望を受けて、来週からApple Payを含むタッチ決済への対応を順次開始すると発表しました。8月24日から一部の店舗やサムズ・クラブで導入され、今年末までには米国の全店舗へ拡大される予定です。これまで独自システムを優先して導入を見送ってきた同社の対応変更は、利用者にとって大きな朗報となります。"
+    },
+    {
+      "id": "876eb5a1aea95c49844d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Paid $17 Billion in Taxes to Ireland Last Year",
+      "url": "https://www.macrumors.com/2026/08/21/apple-paid-17-billion-in-taxes-to-ireland/",
+      "publishedAt": "2026-08-21T13:46:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/01/Apple-Logo-Cash-Feature-Mint.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、アイルランドへ昨年度170億ドルの税金を納付",
+      "summaryJa": "Appleが昨年、アイルランドに対して170億ドルの税金を支払っていたことが明らかになりました。これは同社の全世界での総納税額の40%を占める規模です。EUの新たな国別財務報告規則に基づいて初めて開示されたもので、2024年に最高裁判所が命じた未払い分の追徴課税が含まれています。"
+    },
+    {
+      "id": "81e0ed509426b6ed8e91",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Smartphone Sales Are Falling Worldwide, But Apple Keeps Growing",
+      "url": "https://www.macrumors.com/2026/08/21/smartphone-sales-falling-but-apple-grows/",
+      "publishedAt": "2026-08-21T13:38:47.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iPhone-17-17-Pro-and-Air-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "世界的なスマホ市場の低迷下でもAppleは成長を維持",
+      "summaryJa": "調査会社のデータにより、インドやラテンアメリカ、ヨーロッパなどのスマートフォン市場が縮小傾向にある中、Appleだけがシェアを伸ばしていることが分かりました。iPhoneの根強い需要や手頃な価格設定、部品コストの上昇を吸収する戦略などが功を奏しています。市場全体が落ち込む一方で、Appleはライバルを大きく引き離す健闘を見せています。"
+    },
+    {
       "id": "04f2cb1df52e841df613",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4458,54 +4503,9 @@
       ],
       "titleJa": "噂の「iPhone Ultra」用とされる画面保護フィルムが流出",
       "summaryJa": "リーク情報で知られる人物が、Appleの折りたたみ式デバイス「iPhone Ultra」向けとされる画面保護フィルムの画像や動画を公開しました。流出したアクセサリーは、ヒンジ側に直角のコーナーを持ち、反対側が丸みを帯びた非対称な形状になっており、これまでの噂のデザインと一致しています。また、前面カメラ用のパンチホールは中央ではなく右側に配置されており、Face IDではなくTouch IDの採用を示唆する内容となっています。"
-    },
-    {
-      "id": "decabacb4ccabb1ab1aa",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Microsoft Edge Browser to Get Apple Account Sign-In Support",
-      "url": "https://www.macrumors.com/2026/08/12/microsoft-edge-browser-apple-account-sign-in/",
-      "publishedAt": "2026-08-12T12:27:43.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2022/05/microsoft-edge-hero.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "マイクロソフトのEdgeブラウザがAppleアカウントでのサインインに対応へ",
-      "summaryJa": "マイクロソフトのEdgeブラウザが、新しいAppleアカウントを使ったサインイン機能のテストを実施していることが分かりました。最新のEdge CanaryビルドやBeta版において、専用のフラグやプロフィールメニューへのサインインボタン追加が確認されています。これにより、WindowsおよびmacOSのユーザーは、マイクロソフトアカウントを新たに作成することなくEdgeを利用できるようになります。"
-    },
-    {
-      "id": "d85c2a4128dbb57c81bd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 20 Pro’s all-glass design spotted in supply chain, says leaker",
-      "url": "https://9to5mac.com/2026/08/12/iphone-20-pros-all-glass-design-spotted-in-supply-chain-says-leaker/",
-      "publishedAt": "2026-08-12T12:19:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-20th-anniversary.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "次世代iPhoneのオールガラスデザイン、サプライチェーンで確認か",
-      "summaryJa": "Appleの大幅なデザイン変更を伴う次世代iPhoneを巡り、キャンセルされたとの見方がある一方で、サプライチェーンでディスプレイが確認されたとの新たな情報が伝えられました。かつてのジョニー・アイブ氏が目指した「一枚のガラス」のような外観を実現するため、Apple Watchのような高度な光学効果を採用したディスプレイが準備されていると報じられています。発売時期や開発状況については異なる見解が交錯しています。"
-    },
-    {
-      "id": "47abc78ff9ee1ebc6d73",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple authenticating iPhone photos is just the start",
-      "url": "https://9to5mac.com/2026/08/12/apple-authenticating-iphone-photos-is-just-the-start/",
-      "publishedAt": "2026-08-12T11:51:38.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/siri-icon-expanded.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPhone写真の真贋証明機能を準備か",
-      "summaryJa": "iOS 27のベータ版から、AppleがiPhoneの写真の真贋を認証する新機能「Apple Reference Image」の存在が明らかになりました。AI生成画像の高度化に伴う偽情報拡散対策として、ジャーナリストや法的手続きなどで本物の写真であることを証明する必要があるユーザーを主な対象として想定しています。標準ではオフに設定されており、必要に応じて自身の写真をサーバーへアップロードして検証できる仕組みとなる見通しです。"
     }
   ],
-  "updatedAt": "2026-08-21T13:06:39.249Z",
+  "updatedAt": "2026-08-21T13:58:48.903Z",
   "initialized": true,
   "summaryVersion": 4
 }
