@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "26c700b3b1873a44dfaa",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Pay Supporting U.S. National Park Foundation Over the Next Week",
+      "url": "https://www.macrumors.com/2026/08/21/apple-pay-supports-national-park-foundation/",
+      "publishedAt": "2026-08-21T15:52:21.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-National-Parks.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、全米教科基金への寄付キャンペーンを実施",
+      "summaryJa": "Appleは、Apple Payを利用した米国内での買い物ごとに10ドルを国立公園財団へ寄付するキャンペーンを開始しました。最大100万ドルまでの寄付を予定しており、期間は8月28日までとなっています。また、恒例となっているApple Watchの「国立公園アクティビティチャレンジ」も8月23日に開催される予定です。"
+    },
+    {
+      "id": "5803c7e36ef4d9fd7842",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s everything we learned about AirPods with cameras this week",
+      "url": "https://9to5mac.com/2026/08/21/airpods-pro-with-cameras-biggest-leak-yet-features/",
+      "publishedAt": "2026-08-21T15:34:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-sound-vibrations.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "カメラ搭載AirPodsに関する新たな手がかりが浮上",
+      "summaryJa": "macOSのベータ版コードや関連情報から、カメラを搭載した次期AirPods Proに関する詳細が明らかになると報じられています。左右のイヤホンにそれぞれカメラセンサーが搭載され、同時に画像をキャプチャする仕組みや、プライバシーインジケーターランプの存在などが確認されています。詳細な仕様や機能については今後の続報が待たれる状況です。"
+    },
+    {
+      "id": "458aedc2ca397e01aee7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV has three big new releases coming very soon",
+      "url": "https://9to5mac.com/2026/08/21/apple-tv-has-three-big-new-releases-coming-soon/",
+      "publishedAt": "2026-08-21T15:30:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-tv-logo-mountains.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、注目作「ダーク・マター」シーズン2などを配信",
+      "summaryJa": "Apple TVで配信中の人気作に加え、今後公開される大型の新作ラインナップが注目を集めています。SF小説を原作とした人気シリーズ「ダーク・マター」のシーズン2が8月28日から毎週配信されるほか、ライアン・レイノルズ主演の新作映画「Mayday」も9月4日に独占配信が予定されています。秋に向けて充実したコンテンツが順次登場する見込みです。"
+    },
+    {
+      "id": "5d89a6d2e71636c62d0f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: M5 Pro MacBook Pro $500 off, AirTag 2 from $20, Find My Wallet Card $25, AirPods Pro 3, more",
+      "url": "https://9to5mac.com/2026/08/21/deals-macbook-pro-airtag-2-find-my-card-airpods-pro-3/",
+      "publishedAt": "2026-08-21T15:28:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-M5-Pro-MacBook-Pro-AirTag-2-AirPods-Pro3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "M5 Pro搭載MacBook ProやAirPodsが特別価格に",
+      "summaryJa": "Amazonや各家電量販店のセールにおいて、Apple製品を対象とした割引販売が実施されています。14インチのM5 Pro搭載MacBook Proが500ドル引きとなるほか、AirPods Pro 3やAirPods Max 2などもお得な価格で販売されています。また、Apple公式認定整備ストアでは、M4 Mac miniの割引販売も一時的に登場するなど注目を集めました。"
+    },
+    {
       "id": "894ec1c5596f3e79f0b8",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4442,70 +4502,9 @@
       ],
       "titleJa": "MacBook Airの品薄状態が悪化、現在の在庫状況と購入先",
       "summaryJa": "業界全体でのメモリ供給制約の影響を受け、AppleオンラインストアでのMacBook Airの配送に遅れが生じています。カスタム構成ではさらに時間がかかる状況ですが、Amazonなどの一部サードパーティ製小売パートナーでは即納可能なモデルや割引価格も見られます。"
-    },
-    {
-      "id": "ba4d66fe08f00218c6b0",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Updates to Age Ratings for the Republic of Korea",
-      "url": "https://developer.apple.com/news/?id=oj3r9pvw",
-      "publishedAt": "2026-08-12T15:00:03.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "韓国App Storeの年齢制限設定に関するアップデート",
-      "summaryJa": "Appleは韓国の規制要件に対応するため、App Storeにおける年齢制限の仕組みを順次変更すると発表しました。本日から公式のレーティング番号を用いた手動の上書きが可能になるほか、一部のコンテンツ説明の基準が変更されます。"
-    },
-    {
-      "id": "d8f08388c36da9959e05",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Everything announced at Made by Google 2026: Pixel 11, Pixel Watch 5, Pixel Tag, & more",
-      "url": "https://9to5google.com/2026/08/12/made-by-google-2026-announcements/",
-      "publishedAt": "2026-08-12T14:18:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Made-by-Google-2026-cover.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "GoogleがPixel 11やPixel Watch 5などの詳細を予告",
-      "summaryJa": "Googleの未発表製品に関する情報が事前に詳細まで明らかにされました。Pixel 11やPixel Watch 5、Pixel Tagなどの新製品群が正式発表を前に注目を集めています。イベント本番を前に主要デバイスの仕様やラインナップが出揃う形となりました。"
-    },
-    {
-      "id": "88499fea37f9cc03e614",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Vince Gilligan reveals Pluribus season 2 just hit major milestone",
-      "url": "https://9to5mac.com/2026/08/12/vince-gilligan-reveals-pluribus-season-2-just-hit-major-milestone/",
-      "publishedAt": "2026-08-12T14:05:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/pluribus-art.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVの人気作「プルリブス」シーズン2が撮影へ",
-      "summaryJa": "Apple TVで配信され大きな話題となったドラマ「プルリブス」のシーズン2について、クリエイターのヴィンス・ギリガンが制作の進捗を明かしました。脚本の執筆が完了し、数ヶ月以内に撮影が開始される見込みです。順調にいけば、2027年後半の配信開始が期待されています。"
-    },
-    {
-      "id": "f72c7a3a4a112d48e0c1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Best Back to School Accessory Deals on Anker, Sony, Samsung and More This Week",
-      "url": "https://www.macrumors.com/2026/08/12/back-to-school-accessory/",
-      "publishedAt": "2026-08-12T14:01:15.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/samsung-sony-amazon-sale.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Ankerやソニーなどの人気アクセサリがセールに登場",
-      "summaryJa": "Amazonにて、Ankerの充電器やソニー、ソノスの音響機器などを対象とした大規模なアクセサリセールが実施されています。話題のワイヤレスヘッドホンや睡眠用イヤホン、サムスンのスマートモニターなどが割引価格で販売されています。新学期シーズンに向けたお得な買い物の好機となっています。"
     }
   ],
-  "updatedAt": "2026-08-21T15:21:59.685Z",
+  "updatedAt": "2026-08-21T15:56:56.120Z",
   "initialized": true,
   "summaryVersion": 4
 }
