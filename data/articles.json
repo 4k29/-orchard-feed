@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "04f2cb1df52e841df613",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "The camera I always have with me keeps paying dividends",
+      "url": "https://9to5mac.com/2026/08/21/the-camera-i-always-have-with-me-keeps-paying-dividends/",
+      "publishedAt": "2026-08-21T12:45:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/London-sunset-by-the-Thames.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhoneのカメラが映像制作で重宝される理由",
+      "summaryJa": "日常的に持ち歩くiPhoneのカメラは、子供の撮影やソーシャルイベントだけでなく、映像プロジェクトのBロール素材としても大いに役立っている。ロンドンの夕方に撮影した短尺クリップを実験的なシネマティックモードのプロジェクトに活用し、その利便性を実感した。AirDropを使えば、撮影した映像をその場で簡単にシェアできるメリットもある。"
+    },
+    {
       "id": "da93e11afdf13049ce16",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "Apple、iPhone写真の真贋証明機能を準備か",
       "summaryJa": "iOS 27のベータ版から、AppleがiPhoneの写真の真贋を認証する新機能「Apple Reference Image」の存在が明らかになりました。AI生成画像の高度化に伴う偽情報拡散対策として、ジャーナリストや法的手続きなどで本物の写真であることを証明する必要があるユーザーを主な対象として想定しています。標準ではオフに設定されており、必要に応じて自身の写真をサーバーへアップロードして検証できる仕組みとなる見通しです。"
-    },
-    {
-      "id": "fc308dd25074f7cbf1e0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Leaker: All-Glass 2027 iPhone Still on Track Despite Cancellation Rumors",
-      "url": "https://www.macrumors.com/2026/08/12/all-glass-20th-anniversary-iphone-on-track/",
-      "publishedAt": "2026-08-12T11:43:28.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "2027年の全面ガラス製iPhoneは開発継続か",
-      "summaryJa": "一部のアナリストが20周年記念モデルとされる全面ガラス製iPhoneの開発が中止されたと報じた件について、著名リーカーや専門記者のマーク・ガーマン氏がこれを否定しました。内部コードネームV73およびV74として、ProおよびPro Maxの2サイズで引き続き開発が進められていると伝えられています。前面と背面の中央付近に金属バンドを残しつつ、ガラスの光学屈折を利用してベゼルレスの効果を演出する設計になると見られています。"
     }
   ],
-  "updatedAt": "2026-08-21T12:02:44.095Z",
+  "updatedAt": "2026-08-21T13:06:39.249Z",
   "initialized": true,
   "summaryVersion": 4
 }
