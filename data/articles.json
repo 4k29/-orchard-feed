@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "72095fa85313aacda7fc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Grok Bot is an all-new iPhone and Mac app from SpaceXAI and Cursor [U]",
+      "url": "https://9to5mac.com/2026/08/21/grok-bot-is-an-all-new-iphone-and-mac-app-from-spacexai-and-cursor/",
+      "publishedAt": "2026-08-21T18:16:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhoneとMac向けAIエージェントアプリ「Grok Bot」が登場",
+      "summaryJa": "SpaceXAIとCursorによる新しいAIエージェントアプリ「Grok Bot」がMacおよびiOS向けにベータ版としてリリースされました。各ボットが専用のコンピュータを持ち、ユーザーが普段使っているアプリやサービスにサインインして複雑なタスクを自動で処理します。会話を記憶して好みを学習し、利用を重ねるごとに精度が向上する仕組みとなっています。"
+    },
+    {
       "id": "a74d100497e8e5b67528",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "折りたたみ式iPhoneの自撮りカメラは同じコーナーに配置か",
       "summaryJa": "登場が噂されるApple初の折りたたみ式デバイス「iPhone Ultra」の自撮りカメラ配置について、新しい画面保護フィルムのリーク情報から興味深い憶測が伝えられています。内側と外側のディスプレイ用カメラがそれぞれ異なる場所ではなく、同じコーナー側にまとめて配置される可能性があります。限られた内部スペースを効率的に活用するための設計とみられています。"
-    },
-    {
-      "id": "60e11c58de019ed963b0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "SpaceXAI releases Grok 4.6, claiming GPT-5.6 Sol and Claude Fable 5-level intelligence",
-      "url": "https://9to5mac.com/2026/08/12/spacexai-releases-grok-4-6/",
-      "publishedAt": "2026-08-12T15:56:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grok-4-6.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "SpaceXAI、最新AIモデル「Grok 4.6」を発表",
-      "summaryJa": "SpaceXAIが最新のAIモデル「Grok 4.6」をリリースしました。同社の発表によると、他社モデルに匹敵する最高水準の知能を備え、コーディングや長時間のタスク処理、高度なビジュアルプロジェクトに対応するように設計されています。APIや各種プラットフォームを通じて本日から利用可能となっており、今後はさらなる活用が期待されます。"
     }
   ],
-  "updatedAt": "2026-08-21T17:53:25.581Z",
+  "updatedAt": "2026-08-21T18:30:43.387Z",
   "initialized": true,
   "summaryVersion": 4
 }
