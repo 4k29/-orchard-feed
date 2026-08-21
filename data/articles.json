@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "de7a4f05bcb9cde53eec",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Another disguised Russian banking app has topped the US iPhone App Store",
+      "url": "https://9to5mac.com/2026/08/21/another-russian-banking-app-in-disguise-has-topped-the-us-app-store/",
+      "publishedAt": "2026-08-21T16:47:04.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/app-store.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "偽装されたロシアの銀行アプリが米App Storeで再び上位に浮上か",
+      "summaryJa": "米国の制裁対象となっているロシアの銀行が、審査をすり抜けてApp Storeにクライアントアプリを潜り込ませている問題が再び浮上しました。今回はARキッチンモデリングアプリを装った「K8CHEN PRO」というアプリが上位にランクインし、実際にはT-Bankのアプリであることが判明しています。こうした偽装アプリがなぜ審査を通過し続けるのか、その状況に疑問の声が上がっています。"
+    },
+    {
       "id": "26c700b3b1873a44dfaa",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "iOS 27のAppleカレンダーに特大ホーム画面ウィジェットが登場",
       "summaryJa": "iOS 27では各アプリ向けに新しいホーム画面ウィジェットが追加され、中でもAppleカレンダーの特大サイズが注目を集めています。「リスト」や「次の予定」などの表示に対応し、アプリを開かなくても数日先のスケジュールを詳細に確認できるようになりました。"
-    },
-    {
-      "id": "f4780a1d4ced611ec4ea",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "MacBook Air shortages are getting worse, here’s where to buy one",
-      "url": "https://9to5mac.com/2026/08/12/macbook-air-shortages-where-to-buy-one-now/",
-      "publishedAt": "2026-08-12T15:07:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/macbook-air-m4-m3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "MacBook Airの品薄状態が悪化、現在の在庫状況と購入先",
-      "summaryJa": "業界全体でのメモリ供給制約の影響を受け、AppleオンラインストアでのMacBook Airの配送に遅れが生じています。カスタム構成ではさらに時間がかかる状況ですが、Amazonなどの一部サードパーティ製小売パートナーでは即納可能なモデルや割引価格も見られます。"
     }
   ],
-  "updatedAt": "2026-08-21T16:47:07.259Z",
+  "updatedAt": "2026-08-21T17:18:50.319Z",
   "initialized": true,
   "summaryVersion": 4
 }
