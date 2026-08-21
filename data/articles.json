@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "a74d100497e8e5b67528",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "The MacRumors Show: Michael Fisher Talks iPhone Ultra",
+      "url": "https://www.macrumors.com/2026/08/21/the-macrumors-show-michael-fisher-iphone-ultra/",
+      "publishedAt": "2026-08-21T17:48:57.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみiPhone「iPhone Ultra」の最新動向か",
+      "summaryJa": "著名YouTuberを迎えたポッドキャスト番組にて、折りたたみiPhoneと噂される「iPhone Ultra」に関する詳細が議論されました。この端末は7.8インチの内側ディスプレイやA20チップを搭載し、今秋にiPhone 18 Proとともに発表される可能性があると報じられています。画面の折り目を目立たなくするため、積層ガラス構造やリキッドメタルヒンジが採用される見通しです。"
+    },
+    {
+      "id": "67ba77706da916ebf05d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro release date: Here’s when Apple’s new flagship is coming",
+      "url": "https://9to5mac.com/2026/08/21/iphone-18-release-date-when-apples-new-model-is-coming/",
+      "publishedAt": "2026-08-21T17:47:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの発表時期は9月上旬か",
+      "summaryJa": "Appleの新フラッグシップモデルであるiPhone 18 ProやiPhone Ultraは、例年通りのスケジュールであれば9月上旬に発表される見通しです。今年の労働者の日（レーバー・デー）が遅い日程となるため、イベント開催日は9月9日頃になると予想されています。また、今秋のラインナップにはベースモデルが含まれず、Proモデルと折りたたみモデルが中心になると報じられています。"
+    },
+    {
       "id": "de7a4f05bcb9cde53eec",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "SpaceXAI、最新AIモデル「Grok 4.6」を発表",
       "summaryJa": "SpaceXAIが最新のAIモデル「Grok 4.6」をリリースしました。同社の発表によると、他社モデルに匹敵する最高水準の知能を備え、コーディングや長時間のタスク処理、高度なビジュアルプロジェクトに対応するように設計されています。APIや各種プラットフォームを通じて本日から利用可能となっており、今後はさらなる活用が期待されます。"
-    },
-    {
-      "id": "6ec8d0ace92169ed87a9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: M5 Pro MacBook Pro up to $540 off, M5 MacBook Air from $1,099, Apple Watch Ultra 3, MagSafe chargers, more",
-      "url": "https://9to5mac.com/2026/08/12/deals-m5-pro-macbook-airpods-pro-3-apple-watch-ultra-3/",
-      "publishedAt": "2026-08-12T15:30:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-AirPods-Pro3-MacBook-Pro-M5-Pro-Ultra-3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AmazonでAirPods Pro 3などがセール価格に登場",
-      "summaryJa": "Amazonにて、AirPods Pro 3が通常価格から約25%オフの特別価格で販売されています。ほかにも、公式整備済製品のM5 Pro MacBook ProやApple Watch Ultra 3などが値引きされており、お得に購入できるチャンスとなっています。"
-    },
-    {
-      "id": "ddc4db17aa9b050b08ee",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 gives Apple Calendar my favorite new Home Screen upgrade",
-      "url": "https://9to5mac.com/2026/08/12/ios-27-gives-apple-calendar-my-favorite-new-home-screen-upgrade/",
-      "publishedAt": "2026-08-12T15:22:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27のAppleカレンダーに特大ホーム画面ウィジェットが登場",
-      "summaryJa": "iOS 27では各アプリ向けに新しいホーム画面ウィジェットが追加され、中でもAppleカレンダーの特大サイズが注目を集めています。「リスト」や「次の予定」などの表示に対応し、アプリを開かなくても数日先のスケジュールを詳細に確認できるようになりました。"
     }
   ],
-  "updatedAt": "2026-08-21T17:18:50.319Z",
+  "updatedAt": "2026-08-21T17:53:25.581Z",
   "initialized": true,
   "summaryVersion": 4
 }
