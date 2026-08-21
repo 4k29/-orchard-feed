@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "be0fde5625780d59216a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 and Ultra 4 to get one big upgrade at perfect time",
+      "url": "https://9to5mac.com/2026/08/21/apple-watch-series-12-and-ultra-4-to-get-one-big-upgrade-at-perfect-time/",
+      "publishedAt": "2026-08-21T20:53:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "次期Apple Watchに大幅なチップ性能向上の噂",
+      "summaryJa": "次期Apple Watchモデルには、待望の大幅なチップ性能向上が施されると報じられています。Apple Watchのプロセッサは数年ごとにしか大きな進化を遂げてきませんでしたが、新モデルではAI機能に対応する新しいチップが搭載される見込みです。これにより、新OSで導入されるAIアシスタントの快適な動作が期待されています。"
+    },
+    {
       "id": "6c695f198800a1706f35",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "iPhone向け公式MLBアプリ、CarPlayやライブアクティビティを強化",
       "summaryJa": "公式MLBアプリのアップデートにより、お気に入りのチーム以外でも任意の試合でライブアクティビティを利用できるようになりました。試合の画面から「Track」ボタンをタップするだけで、ロック画面やDynamic Islandにスコアなどが表示されます。また、CarPlayでの操作性も向上し、実況ラジオの選択や詳細な試合情報の確認がスムーズに行えるようになっています。"
-    },
-    {
-      "id": "07909fac998177d95111",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Wallet Could Soon Save Trade-In Quotes for 90 Days",
-      "url": "https://www.macrumors.com/2026/08/12/apple-wallet-trade-in-quotes-90-days/",
-      "publishedAt": "2026-08-12T18:07:38.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/05/apple-trade-in-2024.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "アップル、下取り査定額をApple Walletに90日間保存する機能を準備中か",
-      "summaryJa": "アップルの社内向けアプリのコードから、店舗での下取り査定オファーをApple Walletに最大90日間保存できる仕組みが開発されていることが判明しました。従業員が提示するQRコードをiPhoneで読み取ることで、Walletパスとして保存できると伝えられています。現行のオンライン下取りよりも長い期間有効な見積もりを保持できるようになる可能性があります。"
     }
   ],
-  "updatedAt": "2026-08-21T20:35:14.269Z",
+  "updatedAt": "2026-08-21T20:58:27.527Z",
   "initialized": true,
   "summaryVersion": 4
 }
