@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "6c695f198800a1706f35",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "When is Apple Pay coming to your Walmart? Here’s the full schedule",
+      "url": "https://9to5mac.com/2026/08/21/when-is-apple-pay-coming-to-your-walmart-heres-the-full-schedule/",
+      "publishedAt": "2026-08-21T20:31:01.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/07/apple-pay.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "米ウォルマート、Apple Payなどの非接触決済に対応へ",
+      "summaryJa": "米ウォルマートは、10年以上見送ってきたApple Payなどの非接触型決済への対応を来週から順次開始すると発表しました。全米の店舗への導入は段階的に進められ、今年末までに完了する予定です。Apple Payだけでなく、Google Payや非接触対応のクレジット・デビットカードなども利用できるようになります。"
+    },
+    {
+      "id": "e8f73289c6c36a4546d7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple paid Ireland $17 billion last year as EU back-tax case came due",
+      "url": "https://9to5mac.com/2026/08/21/apple-paid-ireland-17-billion-last-year-as-eu-back-tax-case-came-due/",
+      "publishedAt": "2026-08-21T20:29:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/slack-imgs.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、アイルランドに170億ドルの法人税を納税",
+      "summaryJa": "新たな税務開示資料により、Appleが2025年にアイルランドへ170億ドルの法人税を支払っていたことが明らかになりました。この金額には、欧州連合（EU）との長きにわたる追徴課税をめぐる紛争の解決に伴う未払い分の税金が含まれています。Appleはアイルランドでの事業活動における利益について、米国の知財に関連するものであると主張してきましたが、最高裁判所の判断を受けて多額の納税を行うこととなりました。"
+    },
+    {
+      "id": "a3f1cbf13a993e11934c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Camera-Equipped AirPods: All the New Rumors",
+      "url": "https://www.macrumors.com/guide/airpods-ultra/",
+      "publishedAt": "2026-08-21T19:58:59.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/AirPods-Pro-4-With-Camera-Thumb.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、カメラ搭載AirPodsを2027年にも投入か",
+      "summaryJa": "AppleがSiriに視覚情報を送るためのカメラを搭載したAirPodsを開発していると報じられています。この新しいイヤホンは初のAIウェアラブル端末となり、2027年の発売が予想されています。周囲の状況を把握してビジュアルインテリジェンス機能と連携する仕組みや、複数の開発コードネームが存在することも伝えられています。"
+    },
+    {
+      "id": "a87b83a02beda8de350d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's New Beats 360 Headphones Spotted in Another Regulatory Filing",
+      "url": "https://www.macrumors.com/2026/08/21/beats-360-regulatory-filing/",
+      "publishedAt": "2026-08-21T19:55:30.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Beats-360-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleの新型ヘッドホン「Beats 360」がUAEの認証機関に登場",
+      "summaryJa": "Appleの未発表ヘッドホン「Beats 360」が、アラブ首長国連邦の規制データベースに登録されていることが確認されました。モデル番号A3577として登録されており、すでに米国やブラジルの規制機関にも登場しています。相次ぐデータベースへの登録や小売店向けの情報から、近日の正式発表が期待されています。"
+    },
+    {
       "id": "5aaafa72e5bb1469f212",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4442,69 +4502,9 @@
       ],
       "titleJa": "アップル、下取り査定額をApple Walletに90日間保存する機能を準備中か",
       "summaryJa": "アップルの社内向けアプリのコードから、店舗での下取り査定オファーをApple Walletに最大90日間保存できる仕組みが開発されていることが判明しました。従業員が提示するQRコードをiPhoneで読み取ることで、Walletパスとして保存できると伝えられています。現行のオンライン下取りよりも長い期間有効な見積もりを保持できるようになる可能性があります。"
-    },
-    {
-      "id": "e6e271350b224994e52d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "BowFlex T6 review: Apple GymKit comes home at a normal treadmill price",
-      "url": "https://9to5mac.com/2026/08/12/bowflex-t6-review-apple-gymkit-comes-home-at-a-normal-treadmill-price/",
-      "publishedAt": "2026-08-12T17:55:57.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/BowFlex-T6-Apple-Watch-GymKit.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "手頃な価格の家庭用トレッドミル「BowFlex T6」でApple GymKitを試す",
-      "summaryJa": "Apple Watchとフィットネス機器の間でデータを正確に同期できるApple GymKitですが、対応機器はこれまで高価なモデルが中心でした。しかし、約1,000ドルの手頃な家庭用トレッドミル「BowFlex T6」でもGymKitが利用可能になり、より正確なワークアウトデータの測定ができるようになっています。お互いのデータを補完し合うことで、より詳細なカロリーや速度の記録が可能になる便利な機能です。"
-    },
-    {
-      "id": "c213b5e9ce28535d5d80",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Hires Airline Exec as Vice President of Government Affairs",
-      "url": "https://www.macrumors.com/2026/08/12/apple-vice-president-government-affairs/",
-      "publishedAt": "2026-08-12T17:51:14.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2023/11/Apple-Logo-16x9.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "アップル、政府渉外担当の副社長に元航空会社幹部を起用か",
-      "summaryJa": "アップルがアメリカン航空の元副社長であるニック・ガッテン氏を、政府渉外担当の新副社長として起用したと報じられています。同氏は2026年末に退任予定のキャサリン・アダムス氏の後任の一部を引き継ぎます。共和党とのパイプを持つとされる同氏は、政権との関係構築などを通じて今後の政策対応を担うことになると伝えられています。"
-    },
-    {
-      "id": "84607246432665aa4edd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro set to become Apple’s new default model",
-      "url": "https://9to5mac.com/2026/08/12/iphone-18-pro-set-to-become-apples-new-default-model/",
-      "publishedAt": "2026-08-12T17:50:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proが秋の新たな標準モデルになる可能性か",
-      "summaryJa": "今年の秋は通常モデルのiPhone 18が遅れるとの報道があり、iPhone 18 Proが事実上の標準モデルになると伝えられています。下位機種には従来のモデルが残り、プロモデルが中心のラインナップになることで、今後の市場への影響が注目されています。"
-    },
-    {
-      "id": "8609cbbc0de84cf2f23e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Ultra’s cameras might get very unorthodox placement, per leak",
-      "url": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/",
-      "publishedAt": "2026-08-12T17:27:04.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "折りたたみiPhoneの前面カメラは隅に配置されるか",
-      "summaryJa": "来月発表されると噂の折りたたみiPhoneについて、デバイスの前面カメラが従来の画面中央ではなく、コーナー部分に配置される可能性があると報じられています。外部ディスプレイ用と内部ディスプレイ用の両方で通常のデザインから大きく変更される見通しで、リークされたサードパーティ製スクリーンプロテクターの切り欠きから浮上しました。ただし、アクセサリーメーカーの憶測に過ぎない可能性もあり、実際の仕様については今後注目が集まります。"
     }
   ],
-  "updatedAt": "2026-08-21T19:58:09.042Z",
+  "updatedAt": "2026-08-21T20:35:14.269Z",
   "initialized": true,
   "summaryVersion": 4
 }
