@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "894ec1c5596f3e79f0b8",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "MG Could Be Next Automaker to Get Apple Car Key Support",
+      "url": "https://www.macrumors.com/2026/08/21/mg-apple-car-key-support/",
+      "publishedAt": "2026-08-21T15:04:24.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/07/iPhone-Car-Key-Kia.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "MGの車両がApple Car Keyに対応か、コードから判明",
+      "summaryJa": "Appleのバックエンドシステム内のコードから、上海汽車傘下のMGブランドの車両がApple Car Keyのサポート対象に追加される可能性が浮上しました。iPhoneやApple Watchを使って車両のロックやエンジン始動が可能になるとみられています。具体的な対応モデルやリリース時期はまだ発表されていませんが、欧州などで急速に普及する同社の電動車両向けに近く提供されると期待されています。"
+    },
+    {
+      "id": "622c2ec3bae650612d9c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Revisiting Apple Watch Edition: Hands-on with the white ceramic Series 5",
+      "url": "https://9to5mac.com/2026/08/21/apple-watch-series-5-edition/",
+      "publishedAt": "2026-08-21T15:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2019/09/Apple-Watch-Series-5-Ceramic.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch Series 5のホワイトセラミックモデルを振り返る",
+      "summaryJa": "Apple Watch Series 12でセラミックモデルが復活するとの噂を受け、過去に発売されたApple Watch Series 5のセラミックEditionモデルの魅力が改めて注目されています。2019年に登場したホワイトセラミックケースは、アルミニウムやステンレススチールとは異なる高級感を持ち、今なお根強い人気を誇る特別な仕上げとして知られています。"
+    },
+    {
+      "id": "541f6191e567a793cf9b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s how iPhone 18 Pro will differentiate itself from prior models",
+      "url": "https://9to5mac.com/2026/08/21/heres-how-iphone-18-pro-will-differentiate-itself-from-prior-models/",
+      "publishedAt": "2026-08-21T14:58:32.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの進化点、カメラと独自モデムの噂",
+      "summaryJa": "来月発表と噂されるiPhone 18 Proについて、従来モデルとの大きな差別化ポイントに関する情報が伝えられています。メインカメラには大型化に伴う厚みの増加や大幅なハードウェア強化が予定されているほか、自社設計の「C2」モデムへの移行によりバッテリー効率や信頼性の向上が見込まれています。"
+    },
+    {
       "id": "38cbafd3c024b8ffd079",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4458,54 +4503,9 @@
       ],
       "titleJa": "Ankerやソニーなどの人気アクセサリがセールに登場",
       "summaryJa": "Amazonにて、Ankerの充電器やソニー、ソノスの音響機器などを対象とした大規模なアクセサリセールが実施されています。話題のワイヤレスヘッドホンや睡眠用イヤホン、サムスンのスマートモニターなどが割引価格で販売されています。新学期シーズンに向けたお得な買い物の好機となっています。"
-    },
-    {
-      "id": "0bc88fe7cd8c4f1f256e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch sleep score became more useful for me with these settings",
-      "url": "https://9to5mac.com/2026/08/12/apple-watch-sleep-score-became-more-useful-for-me-with-these-settings/",
-      "publishedAt": "2026-08-12T14:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-watch-sleep-score.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watchの睡眠スコア通知設定でより便利に活用する方法",
-      "summaryJa": "watchOS 26で導入されたApple Watchの睡眠スコア機能は、毎日の睡眠の質を可視化するのに役立ちます。通知の受け取り範囲を細かくカスタマイズ設定することで、睡眠の質が低い時だけにアラートを受け取り、生活習慣の改善に役立てることができます。"
-    },
-    {
-      "id": "d4644c582fa4e2180c72",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Skipping iPhone 18 Launch This Year",
-      "url": "https://www.macrumors.com/2026/08/12/apple-skipping-iphone-18-launch-this-year/",
-      "publishedAt": "2026-08-12T13:59:37.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apple-Skipping-iPhone-18-This-Year.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18標準モデルは今年秋の発売を見送りか",
-      "summaryJa": "Appleのサプライヤーであるペガトロンの発言などから、標準モデルのiPhone 18が今年秋の発売を見送り、来年3月にずれ込むとの見方が強まっています。今年の秋にはProモデルやPro Maxに加え、折りたたみ式のiPhone Ultraが先行して登場すると報じられています。シリーズの発売スケジュールが分割されることで、ラインナップに大きな変化が生じることになります。"
-    },
-    {
-      "id": "bc6a63c9a45c825c587c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 could get two new Pro-level upgrades, per report",
-      "url": "https://9to5mac.com/2026/08/12/iphone-18-could-get-two-new-pro-level-upgrades-per-report/",
-      "publishedAt": "2026-08-12T13:51:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18のベースモデルにProレベルの機能か",
-      "summaryJa": "アナリストのジェフ・プー氏によると、2027年初頭に発売される見込みのベースモデルのiPhone 18には、12GBのメモリと、iPhone 18 Proで初採用される新しいダイナミックアイランドのデザインが搭載される可能性があると報じられています。これまでの情報ではメモリ容量について異なる予測もありましたが、サプライチェーンの調査に基づき、下位モデルでも進化が進むと予想されています。"
     }
   ],
-  "updatedAt": "2026-08-21T14:47:08.606Z",
+  "updatedAt": "2026-08-21T15:21:59.685Z",
   "initialized": true,
   "summaryVersion": 4
 }
