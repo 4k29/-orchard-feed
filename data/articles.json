@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "ccbef7137d4e11c138d8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Indie App Spotlight: ‘CloudGear’ brings all cloud gaming platforms into one tvOS app",
+      "url": "https://9to5mac.com/2026/08/22/indie-app-spotlight-cloudgear-brings-all-cloud-gaming-platforms-into-one-tvos-app/",
+      "publishedAt": "2026-08-22T19:30:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/CloudGear-aligned.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV向け統合クラウドゲームアプリ「CloudGear」が登場",
+      "summaryJa": "CloudGearは、主要なすべてのクラウドゲーミングプラットフォームを一つのインターフェースに統合するtvOSおよびiOS向けアプリです。GeForce Now、Xbox Cloud Gaming、Amazon Luna、Boosteroidに対応し、最高5K解像度や120FPSでのストリーミングを実現します。また、コントローラーの振動機能やiPhoneのTaptic Engineとの連携、さらにはARグラスへの対応など、多彩な機能を備えています。"
+    },
+    {
       "id": "1035709f589539fb6556",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Apple、SiriのAI機能強化に向けて大手出版社とコンテンツ提携を模索か",
       "summaryJa": "AppleがSiriのAI機能における最新ニュースや時事情報のアクセスを改善するため、大手出版社と巨額のコンテンツ提携交渉を進めていると報じられています。AIモデルの学習や最新情報の提供を巡り、多くのテック企業が出版社との交渉や法的争いを繰り広げています。"
-    },
-    {
-      "id": "e1dc0e1f98346af6ea7a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp starts rolling out username support when creating new contacts",
-      "url": "https://9to5mac.com/2026/08/12/whatsapp-starts-rolling-out-username-support-when-creating-new-contacts/",
-      "publishedAt": "2026-08-12T22:50:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/whatsapp-usernames.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp、新規連絡先へのユーザー名追加機能を展開へ",
-      "summaryJa": "WhatsAppが新規連絡先を作成する際にユーザー名を保存できる機能の提供を開始しました。これまでは電話番号のみでの識別が主流でしたが、なりすましを防ぐユーザー名予約システムの導入に続くアップデートとなります。現在はベータ版および安定版の一部ユーザーを対象に順次展開されています。"
     }
   ],
-  "updatedAt": "2026-08-22T19:50:57.464Z",
+  "updatedAt": "2026-08-22T20:11:41.697Z",
   "initialized": true,
   "summaryVersion": 4
 }
