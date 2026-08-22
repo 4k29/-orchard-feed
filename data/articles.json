@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "1035709f589539fb6556",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "We’re just two months away from the first touchscreen MacBook: Here’s what to expect",
+      "url": "https://9to5mac.com/2026/08/22/touchscreen-macbook-ultra-coming-soon-heres-whats-coming/",
+      "publishedAt": "2026-08-22T17:58:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-macbook.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "初のタッチスクリーン搭載MacBookが10月にも登場か",
+      "summaryJa": "Appleが長年採用を見送ってきたタッチスクリーンを搭載した最初のMacBookを、10月にも発売する可能性が報じられています。新型MacBook Proのデザイン刷新に合わせて展開され、Tandem OLEDディスプレイやDynamic Islandの搭載、タッチ操作向けのソフトウェア最適化が施される見込みです。"
+    },
+    {
       "id": "e32695a162fc7c9b729b",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "WhatsApp、新規連絡先へのユーザー名追加機能を展開へ",
       "summaryJa": "WhatsAppが新規連絡先を作成する際にユーザー名を保存できる機能の提供を開始しました。これまでは電話番号のみでの識別が主流でしたが、なりすましを防ぐユーザー名予約システムの導入に続くアップデートとなります。現在はベータ版および安定版の一部ユーザーを対象に順次展開されています。"
-    },
-    {
-      "id": "db30679b806c2225354e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Google's $100 Pixel Price Hike and Trade-In Push Hint at Apple's iPhone 18 Pro Plans",
-      "url": "https://www.macrumors.com/2026/08/12/google-pixel-price-hike/",
-      "publishedAt": "2026-08-12T22:48:51.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/google-pixel-11.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "GoogleのPixel値上げ、iPhone 18 Proの価格設定に影響か",
-      "summaryJa": "Googleが最新スマートフォン「Pixel」シリーズの価格を全体的に引き上げました。これに伴い、ベースストレージの容量増加や下取りプログラムの強調といった手法が取られており、今後のAppleのiPhone 18 Proモデルの価格戦略や販売手法にも影響を与えるのではないかと注目されています。"
     }
   ],
-  "updatedAt": "2026-08-22T17:52:36.679Z",
+  "updatedAt": "2026-08-22T18:21:29.440Z",
   "initialized": true,
   "summaryVersion": 4
 }
