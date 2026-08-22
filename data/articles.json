@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "9fdeefa260a59614cbf7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Weekend Apple deals: $500 off MacBook Pro, AirPods Pro 3, AirPods Max 2 $120 off, AirTag 2, more",
+      "url": "https://9to5mac.com/2026/08/22/weekend-apple-deals-macbook-pro-airpods-pro-3/",
+      "publishedAt": "2026-08-22T12:17:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-weekend-deals-AirPods-Pro-3-MacBook-Neo-AirTag.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBook ProやAirPodsなどが週末限定でお得に",
+      "summaryJa": "週末限定のセールや認定整備済製品の情報が公開され、M5 Pro搭載MacBook Proの大幅な値引きやAirPodsシリーズの割引などが登場しています。公式のApple認定整備済製品でもM5搭載MacBook Airなどが特別価格で販売されており、複数の人気製品をお得に購入できるチャンスとなっています。"
+    },
+    {
       "id": "167952fc26ae3a7dcc63",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "ClaudeのChrome拡張機能にフルCoworkセッションが追加",
       "summaryJa": "Anthropicは、Chromeブラウザのサイドパネルで展開するClaudeの機能をアップデートし、ブラウザベースのタスクや会話をデスクトップ、ウェブ、モバイルアプリの他のセッションに引き継げるようにしました。ユーザーの既存のログイン情報を活用してウェブページ上の操作やフォーム入力を実行できるほか、履歴として保存して後から再開することが可能です。セキュリティやプロンプトインジェクション対策の警告をしつつ、まずはMaxおよびTeamプランのユーザーに向けて提供が開始されています。"
-    },
-    {
-      "id": "6c17ab60762738b7ee03",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple billboard featuring toddler with iPhone causes controversy in Italy",
-      "url": "https://9to5mac.com/2026/08/12/apple-billboard-featuring-toddler-with-iphone-causes-controversy-in-italy/",
-      "publishedAt": "2026-08-12T20:16:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-logo-milan-store.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "イタリアでiPhoneを手にした幼児の広告が物議を醸す",
-      "summaryJa": "イタリアにおいて、幼児がiPhoneを持っているAppleの屋外広告に対し、児童権利保護機関が懸念を示しました。同国の子ども権利擁護団体は、この広告が電子機器による育児の常態化を促していると指摘し、関係規制機関に審査を求めています。広告のタイミングや幼児とデジタル機器の組み合わせについて倫理的な議論が巻き起こっています。"
     }
   ],
-  "updatedAt": "2026-08-22T11:58:07.548Z",
+  "updatedAt": "2026-08-22T12:56:02.246Z",
   "initialized": true,
   "summaryVersion": 4
 }
