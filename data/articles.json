@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "e32695a162fc7c9b729b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro event date: When Apple announced its event over the last six years",
+      "url": "https://9to5mac.com/2026/08/22/iphone-18-pro-event-date-when-announcement/",
+      "publishedAt": "2026-08-22T17:32:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "次期iPhone発表イベントの時期を過去の傾向から予測する",
+      "summaryJa": "Appleの過去数年間の発表スケジュールに基づくと、次期iPhone発表イベントは9月上旬に開催される可能性が高いと報じられています。近年の傾向では、イベント日の14日前に正式アナウンスが行われており、従業員の募集情報などからも9月上旬の開催が示唆されています。労働の日との兼ね合いから、水曜日の開催が有力視されています。"
+    },
+    {
       "id": "9a1fc2600ecb613d7755",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "GoogleのPixel値上げ、iPhone 18 Proの価格設定に影響か",
       "summaryJa": "Googleが最新スマートフォン「Pixel」シリーズの価格を全体的に引き上げました。これに伴い、ベースストレージの容量増加や下取りプログラムの強調といった手法が取られており、今後のAppleのiPhone 18 Proモデルの価格戦略や販売手法にも影響を与えるのではないかと注目されています。"
-    },
-    {
-      "id": "3358a90c02cce2b6e5ab",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple wins temporary Supreme Court pause in Epic Games proceedings",
-      "url": "https://9to5mac.com/2026/08/12/apple-wins-temporary-supreme-court-pause-in-epic-games-proceedings/",
-      "publishedAt": "2026-08-12T21:45:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "最高裁、Epic訴訟の下級審手続きを一時停止",
-      "summaryJa": "米連邦最高裁判所は、App Store外の購入にかかる手数料の提案を求めた下級裁判所の期限について、Appleに24時間の延長を認めました。最高裁がAppleの侮辱罪の認定に関する審理を行っている間、一時的に下級審の手続きが停止されることになります。この決定により、Apple側はより長期的な差し止めを求めるための時間的猶予を得ました。"
     }
   ],
-  "updatedAt": "2026-08-22T17:30:04.361Z",
+  "updatedAt": "2026-08-22T17:52:36.679Z",
   "initialized": true,
   "summaryVersion": 4
 }
