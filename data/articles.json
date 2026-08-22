@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "9a1fc2600ecb613d7755",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work: Most IT leaders want AI to help manage their Macs, but few are ready for it",
+      "url": "https://9to5mac.com/2026/08/22/apple-work-most-it-leaders-want-ai-to-manage-their-macs-but-few-are-ready-for-it/",
+      "publishedAt": "2026-08-22T13:30:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Macの管理にAI活用を望むITリーダー、準備はまだ途上か",
+      "summaryJa": "多くの企業がMacの管理にAIを活用したいと考えている一方で、実際の現場ではまだ導入の準備が整っていないと感じていることが、Fleetの調査レポートにより明らかになりました。大規模な企業組織に所属する500名以上のIT責任者を対象に調査が行われ、デバイス管理におけるAI活用の現状と課題が浮き彫りになっています。"
+    },
+    {
+      "id": "be2e878a93096733bef8",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Biggest Summer Deals Drop: AirPods Max 2 Plummet to $429, M4 iPad Air $100 Off",
+      "url": "https://www.macrumors.com/2026/08/22/best-apple-deals-of-the-week-8-21-26/",
+      "publishedAt": "2026-08-22T13:05:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/02/Best-Apple-Deals-Feature-0007-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "米Best BuyのセールでAirPods MaxやM4 iPad Airが特価に",
+      "summaryJa": "米国の家電量販店Best Buyによる記念セールが開催され、複数のApple製品が大幅な割引価格で販売されています。AirPods Maxが通常より安く購入できるほか、M4 iPad Airも値引き対象となっており、夏の時期のお得な購入機会として注目を集めています。"
+    },
+    {
+      "id": "be8213a42bce1694ed4d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Top Stories: Apple Leaks - Camera-Equipped AirPods, Beats 360, and More",
+      "url": "https://www.macrumors.com/2026/08/22/top-stories-apple-leaks-camera-airpods/",
+      "publishedAt": "2026-08-22T13:00:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/top-stories-2026-08-22.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "macOSベータ版からカメラ搭載AirPodsや未発表製品が判明",
+      "summaryJa": "最新のmacOSのビルド内から、カメラを搭載したAirPodsや未発表のApple製品に関する情報が複数発見されました。Visual Intelligence機能に関連するデモ動画なども含まれており、今後の新製品展開への期待が高まっています。"
+    },
+    {
       "id": "9fdeefa260a59614cbf7",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4457,54 +4502,9 @@
       ],
       "titleJa": "最高裁、Epic訴訟の下級審手続きを一時停止",
       "summaryJa": "米連邦最高裁判所は、App Store外の購入にかかる手数料の提案を求めた下級裁判所の期限について、Appleに24時間の延長を認めました。最高裁がAppleの侮辱罪の認定に関する審理を行っている間、一時的に下級審の手続きが停止されることになります。この決定により、Apple側はより長期的な差し止めを求めるための時間的猶予を得ました。"
-    },
-    {
-      "id": "82c80d23d83ab61fafc1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Report: US smartphone sales fell 5% in Q2 2026 as prices keep climbing",
-      "url": "https://9to5mac.com/2026/08/12/report-us-smartphone-sales-fell-5-in-q2-2026-as-prices-keep-climbing/",
-      "publishedAt": "2026-08-12T21:01:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-17-pro-and-max.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "米国のスマホ市場、メモリ価格高騰で第2四半期は販売減",
-      "summaryJa": "調査会社Counterpoint Researchによると、2026年第2四半期の米国スマートフォン市場は、メモリなど部品コストの上昇による価格圧力から販売台数が前年同期比で5%減少しました。特に低価格帯や中小メーカーが大きな打撃を受けています。一方、Appleは米国でのiPhone価格を据え置いたものの、次期「iPhone 18」シリーズでは価格を引き上げる可能性が指摘されています。"
-    },
-    {
-      "id": "da0dfc29d73064630042",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Google Kicks Off Fall Hardware Season With New Pixel 11 Smartphones",
-      "url": "https://www.macrumors.com/2026/08/12/google-pixel-11-lineup/",
-      "publishedAt": "2026-08-12T20:59:10.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/pixel-11-pro-fold.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Google、新AIスマートフォン「Pixel 11」シリーズを発表",
-      "summaryJa": "Googleは、AppleのiPhoneやApple Watchに対抗する新しいハードウェア製品として、「Pixel 11」シリーズのスマートフォンを発表しました。薄型軽量化を実現した折りたたみモデルの「Pixel 11 Pro Fold」や、高輝度ディスプレイ、大容量バッテリー、次世代のTensor G6チップを搭載した「Pixel 11 Pro」および「Pro XL」などがラインナップされています。フラッシュ周辺に発光する新機能「HiLight」を備え、先進的なAI機能やカメラ性能を強化しています。"
-    },
-    {
-      "id": "5ed9f5159db88c068bbd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Claude’s Chrome side panel is now a full Cowork session",
-      "url": "https://9to5mac.com/2026/08/12/claude-cowork-chrome/",
-      "publishedAt": "2026-08-12T20:46:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ClaudeのChrome拡張機能にフルCoworkセッションが追加",
-      "summaryJa": "Anthropicは、Chromeブラウザのサイドパネルで展開するClaudeの機能をアップデートし、ブラウザベースのタスクや会話をデスクトップ、ウェブ、モバイルアプリの他のセッションに引き継げるようにしました。ユーザーの既存のログイン情報を活用してウェブページ上の操作やフォーム入力を実行できるほか、履歴として保存して後から再開することが可能です。セキュリティやプロンプトインジェクション対策の警告をしつつ、まずはMaxおよびTeamプランのユーザーに向けて提供が開始されています。"
     }
   ],
-  "updatedAt": "2026-08-22T12:56:02.246Z",
+  "updatedAt": "2026-08-22T13:39:07.709Z",
   "initialized": true,
   "summaryVersion": 4
 }
