@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "b132cc48f7f4ea8ec5dd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Hands-on: Mophie’s new battery banks offer pocketable power, built-in cables at low price",
+      "url": "https://9to5mac.com/2026/08/23/mophie-new-pocketable-battery-banks-for-iphone/",
+      "publishedAt": "2026-08-23T20:27:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Mophie-4-batteries.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Mophie、ケーブル内蔵型で持ち運びに便利な新型バッテリーを発表",
+      "summaryJa": "Mophieは、iPhone向けに5000mAhと10000mAhの容量を持つ新しい「PowerStation Plus」バッテリーを発表しました。ポケットに入れやすいサイズで、本体の側面には充電用のUSB-Cケーブルが内蔵されており、一部のモデルでは複数のデバイスを同時に充電することも可能です。手頃な価格設定に加え、飛行機への持ち込みにも配慮された設計となっています。"
+    },
+    {
       "id": "e4f48ee84993cd4deecf",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "App Storeの明白な評価詐欺を見逃しているとデベロッパーが指摘",
       "summaryJa": "人気Safari拡張機能の開発者であるジェフ・ジョンソン氏が、Appleの審査体制にもかかわらず、App Storeにおける明白な評価やレビューの詐欺行為が見逃されていると苦言を呈しました。Appleはこれまでも年間数十億ドルの不正取引を防いで安全性をアピールしていますが、開発者からは大規模な詐欺やレビュー操作が頻発しているとの指摘が相次いでいます。中国企業などがiPhoneファームを使ってアプリに星5つの評価をつける手口などが問題視されています。"
-    },
-    {
-      "id": "8f47f7099440a45c66a4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Base iPhone 18 Tipped to Get These Two Pro-Level Upgrades",
-      "url": "https://www.macrumors.com/2026/08/13/base-iphone-18-two-pro-level-upgrades/",
-      "publishedAt": "2026-08-13T10:02:43.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Colors.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18のベースモデルは12GB RAMと狭いDynamic Islandを搭載か",
-      "summaryJa": "Appleが2027年3月までに発売すると予想される次期iPhone 18のベースモデルについて、アナリストのジェフ・プー氏がProモデルと同等の12GB RAMや、より狭いDynamic Islandを搭載する可能性があると報じられています。一方で、廉価版と位置づけられるiPhone 18eについては9GBのRAMにとどまると予測されており、今後の動向が注目されています。"
     }
   ],
-  "updatedAt": "2026-08-23T19:59:12.552Z",
+  "updatedAt": "2026-08-23T20:34:39.560Z",
   "initialized": true,
   "summaryVersion": 4
 }
