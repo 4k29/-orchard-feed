@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "e4f48ee84993cd4deecf",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Retail Stores Preparing for New Home Product Launches",
+      "url": "https://www.macrumors.com/2026/08/23/apple-stores-prepare-new-home-products/",
+      "publishedAt": "2026-08-23T19:20:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、直営店で新型ホーム製品に向けたレイアウト変更を準備か",
+      "summaryJa": "Appleが今秋に向けて直営店の店内レイアウトの再編を進めており、新型ホーム製品の発売に向けた準備を行っていると報じられています。周辺の壁面ディスプレイエリアを調整し、新しいアクセサリベイを追加する作業が進められている模様です。噂されているディスプレイ付きスマートホームハブや、新型Apple TV、HomePod miniの登場に向けた布石ではないかと注目を集めています。"
+    },
+    {
       "id": "91abe2efe5dbc560b5d0",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "iPhone 18のベースモデルは12GB RAMと狭いDynamic Islandを搭載か",
       "summaryJa": "Appleが2027年3月までに発売すると予想される次期iPhone 18のベースモデルについて、アナリストのジェフ・プー氏がProモデルと同等の12GB RAMや、より狭いDynamic Islandを搭載する可能性があると報じられています。一方で、廉価版と位置づけられるiPhone 18eについては9GBのRAMにとどまると予測されており、今後の動向が注目されています。"
-    },
-    {
-      "id": "87005e57f68613425587",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp Now Lets You Save a Contact's Username",
-      "url": "https://www.macrumors.com/2026/08/13/whatsapp-save-a-contacts-username/",
-      "publishedAt": "2026-08-13T09:10:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "WhatsApp、連絡先へのユーザー名保存に対応か",
-      "summaryJa": "WhatsAppが連絡先の新規追加時にユーザー名を保存できるようになる機能をテストしていると報じられています。名前や電話番号の入力欄の間にユーザー名用のフィールドが追加され、チャット情報画面から連絡先を作成する際には自動的に入力される仕組みになるとされています。"
     }
   ],
-  "updatedAt": "2026-08-23T18:53:56.956Z",
+  "updatedAt": "2026-08-23T19:20:47.270Z",
   "initialized": true,
   "summaryVersion": 4
 }
