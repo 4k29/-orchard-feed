@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "c0f1cd73bacb1ac436d8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s what people who have used the iPhone Ultra like most",
+      "url": "https://9to5mac.com/2026/08/23/heres-what-people-who-have-used-the-iphone-ultra-like-most/",
+      "publishedAt": "2026-08-23T14:41:50.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "折りたたみ式iPhone Ultraの内部での評価に関する報道",
+      "summaryJa": "ブルームバーグのマーク・ガーマン記者が、未発表の折りたたみ式iPhone Ultraを実際に試用したApple社内の関係者からのフィードバックについて報じています。ポケットへの収まりの良さやヒンジの耐久性、内側ディスプレイを活用したiPadのようなアプリレイアウトなどが高く評価されていると伝えられています。価格は2,000ドル以上になると予想されており、生体認証にはFace IDではなくTouch IDが採用される見通しです。"
+    },
+    {
+      "id": "4dbce720d3c661b76a03",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Stores preparing ‘significant’ changes for new Home product launches: report",
+      "url": "https://9to5mac.com/2026/08/23/apple-preparing-for-homepod-mini-apple-tv-smart-home-launches/",
+      "publishedAt": "2026-08-23T14:33:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/homepod-siri-ai-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Storeがホーム製品の刷新に向けて大幅な変更を準備か",
+      "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、Appleは今秋予定している新しいホーム製品の発売に向けて、直営店の小売店舗で大規模な売り場変更を準備していると報じられています。新型のHomePod miniやApple TV 4Kのほか、長年噂されてきたディスプレイ付きのスマートホームハブが同時に登場する可能性があると伝えられています。店舗の改修規模から、通常の製品アップデートにとどまらない大型新製品の投入が期待されています。"
+    },
+    {
       "id": "20144a08b36e82355198",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "Apple TV、サブスクリプション向けに名作映画を追加",
       "summaryJa": "Apple TVのサブスクリプションに、追加料金なしで視聴できる数々の名作映画が追加されました。対象作品はApple TVアプリ内の専用カルーセルから確認でき、地域によって配信ラインナップが異なります。今回の取り組みが常時提供されるものか、期間限定のプロモーションかは現時点では明らかにされていません。"
-    },
-    {
-      "id": "de0edf94368240c4c730",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV publishes the trailer for Stillwater’s fifth season",
-      "url": "https://9to5mac.com/2026/08/12/apple-tv-publishes-the-trailer-for-stillwaters-fifth-season/",
-      "publishedAt": "2026-08-13T02:14:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/stillwater-s5-panda.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、マインドフルネス番組のシーズン5予告編を公開",
-      "summaryJa": "Apple TVの人気マインドフルネス番組「スティルウォーター」シーズン5の予告編が公開されました。全5話のエピソードは8月21日に配信が開始される予定です。今シーズンも子供や家族が日常の中で心の平穏を見つけられるような呼吸エクササイズやシンプルな実践法が届けられます。"
-    },
-    {
-      "id": "4266cc2210c37fa42a5a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
-      "url": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
-      "publishedAt": "2026-08-13T00:03:40.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Siri-AI.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、Siri AI向けのニュース配信でパブリッシャーと提携交渉か",
-      "summaryJa": "AppleがSiriのAI機能向けに正確なニュースや最新情報を提供するため、複数の報道機関と複数年契約の交渉を行っていると報じられています。従来のAI分野における定額制の契約とは異なり、コンテンツが使用された際に出版社へ報酬を支払う仕組みを想定しており、9桁規模の予算が議論されている模様です。Siri AIは今秋に導入が予定されており、過去の通知要約機能での誤生成などの課題を踏まえ、正確な情報の確保を目指しています。"
     }
   ],
-  "updatedAt": "2026-08-23T14:14:12.071Z",
+  "updatedAt": "2026-08-23T14:43:26.634Z",
   "initialized": true,
   "summaryVersion": 4
 }
