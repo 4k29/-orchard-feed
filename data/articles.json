@@ -106,6 +106,21 @@
       "summaryJa": "最新のmacOSのビルド内から、カメラを搭載したAirPodsや未発表のApple製品に関する情報が複数発見されました。Visual Intelligence機能に関連するデモ動画なども含まれており、今後の新製品展開への期待が高まっています。"
     },
     {
+      "id": "05cac685164c957fa437",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
+      "url": "https://9to5mac.com/2026/08/22/which-do-you-plan-to-buy-iphone-18-pro-or-foldable-iphone-ultra-poll/",
+      "publishedAt": "2026-08-22T13:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "次期iPhoneのラインナップや折りたたみモデルの噂",
+      "summaryJa": "Appleの秋のiPhone発表会では例年と異なるフラッグシップ中心の展開が噂されています。iPhone 18 Proシリーズに加え、初の折りたたみモデルであるiPhone Ultraが登場する可能性が報じられています。新モデルでは高性能なA20 Proチップやカメラの大幅な進化が期待される一方で、折りたたみモデルは高価格帯になると予想されています。"
+    },
+    {
       "id": "9fdeefa260a59614cbf7",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "米最高裁、Epic Gamesとの訴訟でAppleの手数料提案期限を一時猶予",
       "summaryJa": "米最高裁判所は、Epic Gamesとの法廷闘争において、Appleに1日間の猶予を与えました。これにより、Appleはウェブ上での購入リンクに関する手数料案の提出期限が一時的に延長されます。両社を巡る争いは長年続いており、今後の裁判所の判断が注目されています。"
-    },
-    {
-      "id": "0dc4ebfaec98a8db0990",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 12, 2026 – Apple exec changes, more",
-      "url": "https://9to5mac.com/2026/08/12/daily-august-12-2026/",
-      "publishedAt": "2026-08-12T23:19:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Pay責任者のジェニファー・ベイリー氏が10月に退任へ",
-      "summaryJa": "Apple Payを率いてきたジェニファー・ベイリー氏が、今年10月に退任すると報じられています。長年にわたりAppleの決済サービス事業を牽引してきた同氏の去就は、今後の同社サービス部門に影響を与える可能性があります。"
     }
   ],
-  "updatedAt": "2026-08-23T12:32:39.847Z",
+  "updatedAt": "2026-08-23T13:17:31.406Z",
   "initialized": true,
   "summaryVersion": 4
 }
