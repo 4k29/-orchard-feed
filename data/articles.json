@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "4f13dd017b192ee1858f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: Apple launching updated iMac with M6 chip and new colors later this year",
+      "url": "https://9to5mac.com/2026/08/23/apple-refreshed-imac-m6-chip-new-colors/",
+      "publishedAt": "2026-08-23T15:20:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/m4-imac-vs-m3-imac-colors.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、M6チップ搭載の新型iMacを年末までに発売か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者によると、AppleはM6チップを搭載し新たなカラーオプションを用意した新型iMacを開発しており、今年末までに発売される見込みです。M6チップは2nmプロセスをベースにした最初のMac向けチップになると報じられており、iMacのほかにも秋には新モデルの登場が控えている可能性があります。"
+    },
+    {
       "id": "c0f1cd73bacb1ac436d8",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Apple、欧州で2026年の新学期割引キャンペーンを開始",
       "summaryJa": "Appleはイギリスやフランスなど欧州の18か国以上で、2026年の新学期キャンペーンを開始しました。対象となる大学生や教育機関のスタッフは、対象のMacやiPadの購入時に最大120ポンドまたは120ユーロ分のギフトカードを受け取ることができます。なお、トルコでは例外として、AirTagsの4個パックなどが提供される仕組みとなっています。キャンペーンの実施期間は8月13日から10月22日までです。"
-    },
-    {
-      "id": "fb0e9015ad0e8522c03b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV just added a bunch of classic movies to stream for free",
-      "url": "https://9to5mac.com/2026/08/12/apple-tv-just-added-a-bunch-of-classic-movies-to-stream-for-free/",
-      "publishedAt": "2026-08-13T06:42:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-tv-free-movies.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、サブスクリプション向けに名作映画を追加",
-      "summaryJa": "Apple TVのサブスクリプションに、追加料金なしで視聴できる数々の名作映画が追加されました。対象作品はApple TVアプリ内の専用カルーセルから確認でき、地域によって配信ラインナップが異なります。今回の取り組みが常時提供されるものか、期間限定のプロモーションかは現時点では明らかにされていません。"
     }
   ],
-  "updatedAt": "2026-08-23T15:02:41.355Z",
+  "updatedAt": "2026-08-23T15:33:17.625Z",
   "initialized": true,
   "summaryVersion": 4
 }
