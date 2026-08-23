@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "91abe2efe5dbc560b5d0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "M6 iMac Coming This Year in New Colors",
+      "url": "https://www.macrumors.com/2026/08/23/m6-imac-this-year-new-colors/",
+      "publishedAt": "2026-08-23T18:36:39.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "M6搭載の新型iMacが新色とともに今年後半登場か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者によると、AppleはM6チップを搭載した新型24インチiMacを開発中で、今年末までに発売される可能性が高いと報じられています。現行のM4モデルの後継として登場し、新たなカラーバリエーションが追加される見込みです。デザインの大幅な変更はないと予想されており、数年後にはOLEDディスプレイを搭載したモデルの登場も噂されています。"
+    },
+    {
+      "id": "8b427060f02df783767d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Gurman: iPhone Ultra Wows Early Testers, Except for Its Camera",
+      "url": "https://www.macrumors.com/2026/08/23/apple-foldable-iphone-early-tester-thoughts/",
+      "publishedAt": "2026-08-23T18:19:25.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみ式iPhone Ultra、初期テスターから高評価か",
+      "summaryJa": "Apple初の折りたたみ式デバイスと噂される「iPhone Ultra」が、初期のテスターの間で高い評価を得ていると報じられています。携帯性の良さやヒンジの耐久性、大きな画面を活かしたアプリのレイアウトなどが称賛されている一方、望遠レンズ非搭載のカメラ性能には課題も残されているようです。本体は非常に薄型に設計されており、9月上旬のイベントでの発表が予想されています。"
+    },
+    {
       "id": "4f13dd017b192ee1858f",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "WhatsApp、連絡先へのユーザー名保存に対応か",
       "summaryJa": "WhatsAppが連絡先の新規追加時にユーザー名を保存できるようになる機能をテストしていると報じられています。名前や電話番号の入力欄の間にユーザー名用のフィールドが追加され、チャット情報画面から連絡先を作成する際には自動的に入力される仕組みになるとされています。"
-    },
-    {
-      "id": "2ece821d76e207c9fb3f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple moving Oracle store in Reading, UK, as Basingstoke store closes",
-      "url": "https://9to5mac.com/2026/08/13/apple-reopening-oracle-store-in-reading-uk-as-basingstoke-store-closes/",
-      "publishedAt": "2026-08-13T09:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/AAPL-earnings-call-on-October-31-will-include-early-iPhone-16-sales.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "英国のApple Storeが移転へ、ベイジングストーク店は閉店へ",
-      "summaryJa": "英国レディングのショッピングセンター内にあるApple Storeが、新しいデザインを採用した店舗へ12月に移転することが明らかになりました。それに先立ち、11月にはベイジングストーク店が閉店する予定で、同店のスタッフには近隣店舗での勤務機会が提供されるとしています。"
-    },
-    {
-      "id": "814b91663847d9fa07b7",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's 2026 Back to School Offer is Now Live Across Europe",
-      "url": "https://www.macrumors.com/2026/08/13/apple-2026-back-to-school-europe-live/",
-      "publishedAt": "2026-08-13T08:42:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apple-2026-Back-to-School-Graphic.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、欧州で2026年の新学期割引キャンペーンを開始",
-      "summaryJa": "Appleはイギリスやフランスなど欧州の18か国以上で、2026年の新学期キャンペーンを開始しました。対象となる大学生や教育機関のスタッフは、対象のMacやiPadの購入時に最大120ポンドまたは120ユーロ分のギフトカードを受け取ることができます。なお、トルコでは例外として、AirTagsの4個パックなどが提供される仕組みとなっています。キャンペーンの実施期間は8月13日から10月22日までです。"
     }
   ],
-  "updatedAt": "2026-08-23T18:17:56.078Z",
+  "updatedAt": "2026-08-23T18:53:56.956Z",
   "initialized": true,
   "summaryVersion": 4
 }
