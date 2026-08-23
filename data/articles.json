@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "20144a08b36e82355198",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirTag 2 4-Pack Hits New Low Price of $85 on Amazon",
+      "url": "https://www.macrumors.com/2026/08/23/airtag-2-85-amazon/",
+      "publishedAt": "2026-08-23T13:52:53.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/new-airtag-2-peach.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AmazonにてAirTag 2の4パックが過去最安値の85ドルで販売中",
+      "summaryJa": "Amazonで「AirTag 2」の4パックが通常99.00ドルから85.00ドルに値下げされ、これまでの最安値を更新するセールが開催されています。また、1パックも29.00ドルから24.00ドルへと割引されています。第2世代となるAirTagは、第2世代の超広帯域チップを搭載しており、従来モデルよりも最大50%遠い距離から正確な位置を見つける機能を利用できます。"
+    },
+    {
       "id": "1513ca03049c2f847e95",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Apple、Siri AI向けのニュース配信でパブリッシャーと提携交渉か",
       "summaryJa": "AppleがSiriのAI機能向けに正確なニュースや最新情報を提供するため、複数の報道機関と複数年契約の交渉を行っていると報じられています。従来のAI分野における定額制の契約とは異なり、コンテンツが使用された際に出版社へ報酬を支払う仕組みを想定しており、9桁規模の予算が議論されている模様です。Siri AIは今秋に導入が予定されており、過去の通知要約機能での誤生成などの課題を踏まえ、正確な情報の確保を目指しています。"
-    },
-    {
-      "id": "f52ae842c01312df4253",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Supreme Court Lets Apple Delay App Store Fee Fight for 24 Hours",
-      "url": "https://www.macrumors.com/2026/08/12/app-store-fee-fight-24-hour-delay/",
-      "publishedAt": "2026-08-12T23:21:23.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/05/app-store-blue-banner-epic-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "米最高裁、Epic Gamesとの訴訟でAppleの手数料提案期限を一時猶予",
-      "summaryJa": "米最高裁判所は、Epic Gamesとの法廷闘争において、Appleに1日間の猶予を与えました。これにより、Appleはウェブ上での購入リンクに関する手数料案の提出期限が一時的に延長されます。両社を巡る争いは長年続いており、今後の裁判所の判断が注目されています。"
     }
   ],
-  "updatedAt": "2026-08-23T13:51:07.877Z",
+  "updatedAt": "2026-08-23T14:14:12.071Z",
   "initialized": true,
   "summaryVersion": 4
 }
