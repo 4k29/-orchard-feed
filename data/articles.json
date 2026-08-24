@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "e0c23d882a1a0dbde3bf",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Ted Lasso season 5 gets exciting new status update",
+      "url": "https://9to5mac.com/2026/08/24/ted-lasso-season-5-gets-exciting-new-status-update/",
+      "publishedAt": "2026-08-24T15:07:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/11/ted-lasso-characters-wizard-of-oz.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Ted Lassoシーズン5、来年1月に撮影開始か",
+      "summaryJa": "Apple TV+の人気コメディドラマ「Ted Lasso」のシーズン5が、2027年夏の配信を目指し、来年1月からロンドンで撮影が開始されると報じられています。現在はシーズン4の新しいエピソードが公開中ですが、複数の情報筋によると、すでに次のシーズンに向けた準備が進められているようです。"
+    },
+    {
       "id": "03ce8f9bdd5adf1d25dc",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "OpenAI、最大14倍高速なGPT-5.6 Solをプレビュー",
       "summaryJa": "OpenAIは、高度なGPT-5.6モデルを大幅に高速化して実行する新しい仕組みのプレビューを実施しています。新設された「Ultrafast」サービス階層により、標準処理と比較して最大14倍の速度でGPT-5.6 Solを稼働させることが可能です。この機能はAPIを通じて提供され、音声対応やカスタマーサポートなど、レイテンシが重視される現場での活用が見込まれています。"
-    },
-    {
-      "id": "7be031510ca67a775dc5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: AirPods Pro 3, M5 MacBook Air $270 off, UWB smart lock, Thunderbolt 5 dock, Nomad cases from $17, more",
-      "url": "https://9to5mac.com/2026/08/13/deals-airpods-pro-3-m5-macbook-air-thunderbolt-5-dock/",
-      "publishedAt": "2026-08-13T15:28:02.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-Macbook-Air-AirPods-Pro-3-thunderbolt-5-dock.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirPods Pro 3やM5 MacBook Airなどがセールに登場",
-      "summaryJa": "AirPods Pro 3が通常の約25%オフとなる特価で販売されているほか、公式認定整備済ストアでのM5搭載MacBook Airの割引やApple Watch Series 11のセールが実施されています。さらに、Ultra Wideband対応のSchlage製スマートロックやHyperのThunderbolt 5ドックなども割引対象となっています。"
     }
   ],
-  "updatedAt": "2026-08-24T14:21:21.840Z",
+  "updatedAt": "2026-08-24T15:08:26.273Z",
   "initialized": true,
   "summaryVersion": 4
 }
