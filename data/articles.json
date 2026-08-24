@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "e666b00669437079243a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12: Everything to Expect Next Month",
+      "url": "https://www.macrumors.com/2026/08/24/apple-watch-series-12-everything-to-expect/",
+      "publishedAt": "2026-08-24T15:55:35.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-watch-series-12.png",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 12の最新情報と噂まとめ",
+      "summaryJa": "来月のiPhoneイベントでの発表が確実視されているApple Watch Series 12は、デザインの大きな変更はないものの、内部のアップデートが中心になると報じられています。長らく同じ世代のチップが採用されていましたが、今回は新プロセッサの搭載やバッテリー寿命の向上、さらに血圧通知機能などの健康・フィットネス機能の改善が期待されています。"
+    },
+    {
+      "id": "74e9812f7623221ba3bd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple is about to launch five new products that I’m very excited for",
+      "url": "https://9to5mac.com/2026/08/24/apple-is-about-to-launch-five-new-products-that-im-very-excited-for/",
+      "publishedAt": "2026-08-24T15:43:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/08/iPhone-15-event-date.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "今年登場が期待される注目のApple製新製品5選",
+      "summaryJa": "今年後半に登場が予想される10以上の新製品の中から、特に期待を集める5つのデバイスについて解説しています。初の折りたたみ式iPhoneとなるモデルや、スマートホームの中核を担う新型ディスプレイ、さらに進化を遂げたApple TV 4Kなど、AI機能や新たなハードウェア設計によって体験がどう変わるのかが注目されています。"
+    },
+    {
+      "id": "b261c48117c38269b9c0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27: All the New Safari Features",
+      "url": "https://www.macrumors.com/guide/ios-27-safari/",
+      "publishedAt": "2026-08-24T15:42:25.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Whats-New-in-Safari-on-iOS-27-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27のSafariに追加される新機能とAI活用",
+      "summaryJa": "次期OSのiOS 27におけるSafariでは、Apple Intelligenceを活用した新機能が多数導入されます。開いているタブを関連するトピックごとに自動で整理する機能や、最近閉じたタブや他デバイスのタブを素早く再開できるセクションが追加されます。また、AIを使って独自のカスタム拡張機能を作成できる新しいオプションも用意され、ブラウジングの利便性が大きく向上します。"
+    },
+    {
+      "id": "e0f7e35abee94e227f20",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "ESPN streaming prices are going up, including Disney+ and Hulu bundles",
+      "url": "https://9to5mac.com/2026/08/24/espn-streaming-prices-are-going-up-along-with-disney-and-hulu-bundles/",
+      "publishedAt": "2026-08-24T15:36:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/espn-streaming-service-flagship.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ESPNストリーミングサービスと関連バンドルが値上げ",
+      "summaryJa": "ESPNは、ストリーミングサービスの「ESPN Select」および「ESPN Unlimited」の月額料金と年額料金を値上げすると発表しました。この価格改定は9月17日から適用され、Disney+やHuluを含む関連バンドルプランの料金にも影響が及びます。ストリーミング業界全体で値上げの動きが相次ぐ中、今後の動向が注目されています。"
+    },
+    {
+      "id": "3dc55888d7ec0b6a5e6d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: AirTag 2 best price ever from $20 each, AirPods, M5 MacBook Pro $320 off, Find My gear, more",
+      "url": "https://9to5mac.com/2026/08/24/deals-airtag-2-best-price-ever-m5-macbook-pro/",
+      "publishedAt": "2026-08-24T15:21:50.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-AirTag-2-MacBook-Pro.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirTag 2の4パックが過去最安値に、Amazonで20ドルから販売中",
+      "summaryJa": "Amazonにて、AppleのAirTag 2の4パックが過去最安値となる80ドルで販売されています。1個あたり20ドルという手頃な価格で購入可能になりました。また、AirPodsシリーズやM5搭載MacBook Proなども割引対象となっており、様々なApple製品がお得に購入できるセールが実施されています。"
+    },
+    {
+      "id": "e4396a5f371ac721df0d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Affordable iPhone accessories for CarPlay worth trying",
+      "url": "https://9to5mac.com/2026/08/24/affordable-iphone-accessories-for-carplay-worth-trying/",
+      "publishedAt": "2026-08-24T15:18:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/best-carplay-apps.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "CarPlayを快適にするおすすめのお手頃な車載アクセサリ",
+      "summaryJa": "車内でCarPlayをより快適に利用するためのお手頃なアクセサリが紹介されています。有線接続を無線化するアダプターや、古い車種でもCarPlayを使えるようにするポータブルディスプレイなどがピックアップされています。高額な費用をかけずに車内の利便性を大きく向上させることが可能です。"
+    },
+    {
       "id": "e0c23d882a1a0dbde3bf",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4412,99 +4502,9 @@
       ],
       "titleJa": "iOS 27の「ウォレット」アプリに機能ガイドを確認できる新セクションが登場",
       "summaryJa": "iOS 27のベータ版において、「ウォレット」アプリに新しく「ディスカバー」セクションが追加されました。ここではApple Payや各種パス、キーなどの機能に関する教育的ガイドや便利な機能へのショートカットが提供されます。多様化するウォレットの機能をユーザーがより簡単に活用できるよう設計されています。"
-    },
-    {
-      "id": "8d79d2c2a26e7556c89d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s new ‘Advanced Manufacturing Center’ opens in Texas",
-      "url": "https://9to5mac.com/2026/08/13/apples-new-advanced-manufacturing-center-opens-in-texas/",
-      "publishedAt": "2026-08-13T18:51:40.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-advanced-manufacturing-center-houston.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、テキサス州ヒューストンに新施設を開設",
-      "summaryJa": "Appleはテキサス州ヒューストンに新施設「Advanced Manufacturing Center」を開設しました。このセンターでは、中小企業のビジネスリーダーを対象に無料のトレーニングや教育セッションを提供し、最先端の設備を活用してイノベーションを加速させます。同じ敷地内ではAIサーバーの製造や出荷が行われており、今年中にはMac miniの製造も開始される予定です。"
-    },
-    {
-      "id": "b3ef69738decaa177ac0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Future Apple wearables, iOS 27 beta 5, iPhone 20 details",
-      "url": "https://9to5mac.com/2026/08/13/happy-hour-603/",
-      "publishedAt": "2026-08-13T18:43:01.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "次世代ウェアラブルや将来のiPhoneの噂",
-      "summaryJa": "ポッドキャスト番組にて、次世代のフィットネス向けウェアラブルに関するAppleの新たな動きや、ガラス製デザインが噂される将来のiPhoneについて語られています。また、Vision ProでのFriday Night Baseballや、Apple TVにおけるゴルフなどのスポーツ放映権に関する噂も取り上げられています。番組では他にも、iOSのベータ版における変更点や、映画カタログの無料プロモーションなどについても触れられています。"
-    },
-    {
-      "id": "bec702a8a1c4c16d1605",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple opens Advanced Manufacturing Center in Houston",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
-      "publishedAt": "2026-08-13T18:30:29.099Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、ヒューストンに先端製造センターを開設",
-      "summaryJa": "Appleは米ヒューストンに中小企業向けの無料トレーニングを提供する先端製造センターを開設しました。この施設では最先端の機器やインタラクティブなラボを通じて、参加者が革新的なプロセスを学べます。同センターはAIサーバーやMac miniを製造する敷地内に位置し、米国内の製造業のスキル向上を支援します。"
-    },
-    {
-      "id": "630af6e70265532b3cff",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Matic Cues feature lets you just talk to your robot vacuum or point at a mess to clean",
-      "url": "https://9to5mac.com/2026/08/13/matic-cues-lets-you-just-talk-to-your-robot-vacuum-or-point-at-a-mess-to-clean/",
-      "publishedAt": "2026-08-13T18:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/matic-homekit.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ロボット掃除機Matic、音声とジェスチャー操作に対応",
-      "summaryJa": "ロボット掃除機およびモップを手がけるMaticは、ソフトウェアアップデート「Matic Cues」を通じて、音声およびジェスチャーによる新しい操作機能を追加しました。スマートフォンやアプリを使わずに直接ロボットに話しかけることで、70以上の言語で掃除の指示を出すことが可能になります。この機能は既存の全ユーザー向けに無線（OTA）アップデートで順次配信されており、新しいロボットにも標準搭載される予定です。"
-    },
-    {
-      "id": "2df3046e6b55676efe52",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "MacBook Neo 2 will get the big upgrade it needs most, per rumors",
-      "url": "https://9to5mac.com/2026/08/13/macbook-neo-2-will-get-the-big-upgrade-it-needs-most-per-rumors/",
-      "publishedAt": "2026-08-13T17:12:58.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/macbook-neo-2-fi-new.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "MacBook Neo 2はRAMが12GBに増量か",
-      "summaryJa": "発売以来人気のMacBook Neoの次期モデルに関して、最大のアップグレードポイントはメモリ容量の増加になると報じられています。現行の8GBから12GBのRAMへ強化されることで、将来のmacOSが持つ新しいAI機能などにも十分対応できるようになると期待されています。A19 Proチップの搭載とあわせて、より多くのユーザーにとって使いやすい強力なマシンになりそうです。"
-    },
-    {
-      "id": "ac83f90ccaeb09800c70",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI previews ‘Ultrafast’ GPT-5.6 Sol running up to 14 times faster",
-      "url": "https://9to5mac.com/2026/08/13/openai-previews-ultrafast-gpt-5-6-sol-running-up-to-14-times-faster/",
-      "publishedAt": "2026-08-13T17:02:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI、最大14倍高速なGPT-5.6 Solをプレビュー",
-      "summaryJa": "OpenAIは、高度なGPT-5.6モデルを大幅に高速化して実行する新しい仕組みのプレビューを実施しています。新設された「Ultrafast」サービス階層により、標準処理と比較して最大14倍の速度でGPT-5.6 Solを稼働させることが可能です。この機能はAPIを通じて提供され、音声対応やカスタマーサポートなど、レイテンシが重視される現場での活用が見込まれています。"
     }
   ],
-  "updatedAt": "2026-08-24T15:08:26.273Z",
+  "updatedAt": "2026-08-24T15:56:24.480Z",
   "initialized": true,
   "summaryVersion": 4
 }
