@@ -1,6 +1,141 @@
 {
   "articles": [
     {
+      "id": "1ceb061d94f01dfde908",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases beta 7 for iPadOS 27, watchOS 27, and more",
+      "url": "https://9to5mac.com/2026/08/24/apple-releases-beta-7-for-ipados-27-tvos-27-and-more/",
+      "publishedAt": "2026-08-24T17:35:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPadOSやwatchOSなどのベータ7を開発者向けに公開",
+      "summaryJa": "Appleは次期OSの正式リリースに向けて、iPadOSなどのベータ7を開発者向けに公開しました。ベータサイクルの終盤に差し掛かっているため、今回の主な焦点は新機能の追加ではなく不具合の修正やシステムの安定性向上となっています。例年通りであれば、まもなくRC版の登場や秋の新型iPhone発表イベントの開催が期待される時期です。"
+    },
+    {
+      "id": "595ccf57d4e46a9d9f0e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases macOS Golden Gate Beta 7",
+      "url": "https://www.macrumors.com/2026/08/24/apple-releases-macos-golden-gate-beta-7/",
+      "publishedAt": "2026-08-24T17:35:05.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、macOS Golden Gateのベータ7をリリース",
+      "summaryJa": "Appleは開発者向けにmacOS Golden Gateのベータ7をリリースしました。このバージョンでは、デザインの細かな調整や新機能となるチャットボット形式のSiri AIなどが導入されています。SafariのAIによるタブ整理や写真アプリの編集機能なども含まれており、秋の正式リリースに向けた最終調整が進められています。"
+    },
+    {
+      "id": "7c29a130154f1a5eaa9d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds Seventh iOS 27 and iPadOS 27 Betas to Developers",
+      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-ios-27-beta-7/",
+      "publishedAt": "2026-08-24T17:34:02.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iOS 27とiPadOS 27のベータ7を開発者向けに配信",
+      "summaryJa": "Appleはテスト目的でiOS 27とiPadOS 27のベータ7を開発者向けに配信開始しました。新機能としてSiri AIが統合され、写真やSafariなどのアプリ全体でAI機能が強化されています。また、システム全体のパフォーマンス向上も図られており、旧型のデバイスでも動作が軽快になるなどの改善が見られます。"
+    },
+    {
+      "id": "28dcee6a245e58a40f6b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Second Release Candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8 now available",
+      "url": "https://9to5mac.com/2026/08/24/second-release-candidates-for-macos-tahoe-26-7-and-macos-sequoia-15-8-now-available/",
+      "publishedAt": "2026-08-24T17:33:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOS Tahoe 26.7などの第2弾RC版を提供",
+      "summaryJa": "Appleは開発者向けにmacOS Tahoe 26.7とmacOS Sequoia 15.8の第2弾リリース候補版（RC）の提供を開始しました。先週公開された最初のRC版のコードからは、カメラ搭載AirPodsに関する詳細な情報が見つかって話題になりました。今回のアップデートでは主にセキュリティ修正や最後の仕上げが行われているとみられます。"
+    },
+    {
+      "id": "7eb603a4e6a2e53f3e9a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27 Golden Gate developer beta 7 now available, here’s how to install it",
+      "url": "https://9to5mac.com/2026/08/24/macos-27-golden-gate-developer-beta-7-now-available-heres-how-to-install-it/",
+      "publishedAt": "2026-08-24T17:32:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/macOS-27-b7.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOS 27 開発者向けベータ7を配信開始",
+      "summaryJa": "Appleは開発者向けに「macOS 27 ゴールデンゲート ベータ 7」の配信を開始しました。前回のベータ6からわずか1週間でのリリースとなります。今回のバージョンでは、ウィンドウコントロールのデザイン調整や新機能の不具合修正、パフォーマンスおよびセキュリティの向上が進められています。正式リリースを控え、細部の調整が急ピッチで進められている状況です。"
+    },
+    {
+      "id": "650ce8c4c1fe3b25e5b4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds watchOS 27 Beta 7 to Developers",
+      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-watchos-27-beta-7-to-developers/",
+      "publishedAt": "2026-08-24T17:30:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、watchOS 27 開発者向けベータ7をリリース",
+      "summaryJa": "Appleは開発者向けに「watchOS 27 ベータ 7」を公開しました。前回のベータ版から1週間での提供となり、無料のデベロッパーアカウントを持つユーザーが対象となっています。watchOS 27では、新機能「Siri AI」による高度な対話や情報の取得が可能になるほか、スマートスタックの提案機能の向上やバッテリー駆動時間の最適化などが図られています。"
+    },
+    {
+      "id": "284914355110d5b8ce40",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds Seventh visionOS 27 Beta to Developers",
+      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-visionos-27-beta-7/",
+      "publishedAt": "2026-08-24T17:29:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/curved_windows_visionos-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、visionOS 27 開発者向けベータ7を配信",
+      "summaryJa": "AppleはVision Pro向けに「visionOS 27 ベータ 7」を開発者向けに配信開始しました。視線操作で拡張される通知機能や、Siri AIによる高度な対話機能などがテストされています。また、パノラマ写真から作成する新しい没入型環境や、開発者向けのウェブ環境サポートなども含まれており、空間コンピューティング体験のさらなる向上が図られています。"
+    },
+    {
+      "id": "99148d5de288ebc7bab6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 beta 7 now available as Apple tests major Siri AI upgrade",
+      "url": "https://9to5mac.com/2026/08/24/ios-27-beta-7/",
+      "publishedAt": "2026-08-24T17:28:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iOS-27-b7.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iOS 27 開発者向けベータ7をリリース",
+      "summaryJa": "Appleは今秋の正式リリースに向け、開発者向けに「iOS 27 ベータ 7」を公開しました。今回のアップデートの目玉である新機能「Siri AI」や刷新されたApple Intelligence関連の機能を中心に、バグ修正やパフォーマンスの改善が続けられています。正式版の一般公開を来月に控え、ベータテストの最終段階に入っています。"
+    },
+    {
+      "id": "94cb4097f486bd6f441a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds tvOS 27 Beta 7 to Developers",
+      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-tvos-27-beta-7-to-developers/",
+      "publishedAt": "2026-08-24T17:27:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/tvOS-27-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、開発者向けにtvOS 27ベータ7を公開",
+      "summaryJa": "Appleは開発者に向けてtvOS 27のベータ7をテスト用として公開しました。前回のベータ版から1週間でのリリースとなります。今回のアップデートでは、ポッドキャストアプリの再設計やテキストサイズの拡大オプション、コントロールセンターの応答性向上が含まれています。"
+    },
+    {
       "id": "e666b00669437079243a",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4367,144 +4502,9 @@
       ],
       "titleJa": "サムスンの新型折りたたみスマホ分解から見るAppleの課題",
       "summaryJa": "サムスンの新型折りたたみスマートフォン「Galaxy Z Fold8」の分解調査から、将来登場すると噂される折りたたみ式iPhoneが直面する可能性のある課題が浮き彫りになっています。特にヒンジ部分へのホコリの侵入や耐久性の問題は折りたたみ端末共通の難点であり、Appleがこれらの技術的ハードルをどのように克服しているかが注目されています。"
-    },
-    {
-      "id": "dd0786ccf31c6cd891b7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Chase recently added free Apple TV, Apple One perks to popular credit card",
-      "url": "https://9to5mac.com/2026/08/13/chase-adds-free-apple-tv-discounted-apple-one-benefit-to-popular-credit-card/",
-      "publishedAt": "2026-08-13T20:37:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chase-plus-apple-tv.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "米Chase、人気クレジットカードの特典にApple関連サービスを追加",
-      "summaryJa": "米国の金融大手Chaseは、人気の旅行向けクレジットカード「Sapphire Preferred」の特典を拡充し、1年間の無料Apple TVまたはApple Oneの割引クレジットの提供を開始しました。対象となるカード会員はアプリやウェブサイト経由でAppleアカウントを連携することで、年間費を抑えつつこれらのエンターテインメント特典を利用できるようになります。"
-    },
-    {
-      "id": "bd3021eeae019b9a6249",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp is working on chat themes with animated wallpapers",
-      "url": "https://9to5mac.com/2026/08/13/whatsapp-is-working-on-chat-themes-with-animated-wallpapers/",
-      "publishedAt": "2026-08-13T20:34:06.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp、iOS向けベータ版でアニメーション背景などのチャットテーマを開発中",
-      "summaryJa": "iOS向けWhatsAppの最新ベータ版から、チャット画面のカスタマイズ機能に関する新たなコードが見つかりました。アニメーション付きの背景や新しいテーマ分類が追加される予定で、視覚的な楽しさを加えつつも、会話に集中できるよう動きは控えめに設計されていると報じられています。"
-    },
-    {
-      "id": "fc1d1752e8ec8223ed0a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Says iPhone X is Now Obsolete",
-      "url": "https://www.macrumors.com/2026/08/13/apple-says-iphone-x-is-now-obsolete/",
-      "publishedAt": "2026-08-13T20:17:01.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2022/09/iPhone-X-2022-Upload.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhone Xをビンテージ・オブソリート製品に追加",
-      "summaryJa": "Appleはサポート文書を更新し、2017年発売の「iPhone X」および2018年製の15インチMacBook Proをオブソリート製品のリストに追加しました。これにより、Apple Storeや正規サービスプロバイダでの修理などのハードウェアサービス対象外となります。iPhone Xは有機ELディスプレイやFaceIDを初めて搭載した記念碑的なモデルでした。"
-    },
-    {
-      "id": "178fa3f8b8980881b783",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "ChatGPT for Mac adds opt-in Computer History feature, replacing Chronicle",
-      "url": "https://9to5mac.com/2026/08/13/chatgpt-for-mac-adds-opt-in-computer-history-feature-replacing-chronicle/",
-      "publishedAt": "2026-08-13T20:13:21.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-codex.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Mac向けChatGPTに操作履歴を学習させる新機能が登場",
-      "summaryJa": "OpenAIは、Mac向けChatGPTアプリに「Computer History」機能を追加しました。従来のスクリーンショットベースの仕組みを刷新し、macOSのアクセシビリティ機能を活用してクリックやタイピングなどの操作イベントを記録し、検索可能なタイムラインを作成します。この機能はオプトイン方式で、ユーザーが自分で有効にする必要があり、Proなどの有料プラン向けに提供されています。"
-    },
-    {
-      "id": "36b31b8711a3f198da82",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New HomePod mini 2: Release date, features, price, and rumors",
-      "url": "https://9to5mac.com/2026/08/13/homepod-mini-2-release-date-features-price-rumors/",
-      "publishedAt": "2026-08-13T20:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/01/homepod-mini-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "「HomePod mini 2」が今秋にも登場か、高速プロセッサー搭載の噂",
-      "summaryJa": "Appleが開発を進めていると報じられている「HomePod mini 2」が、今年の秋にも発売される可能性が浮上しています。初代モデルから外観は大きく変わらないものの、SiriのAI機能などをサポートするためのより高速なチップが搭載されると伝えられています。新機能の完成を待つ形で発売が遅れていたとみられ、今後の公式発表が注目されます。"
-    },
-    {
-      "id": "01c6b47e5bbcfc2a219d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple adds iPhone X and 2018 MacBook Pro to obsolete products list",
-      "url": "https://9to5mac.com/2026/08/13/apple-adds-iphone-x-and-2018-macbook-pro-to-obsolete-products-list/",
-      "publishedAt": "2026-08-13T19:35:26.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-x.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPhone Xと2018年製MacBook Proをオブソリート製品に追加",
-      "summaryJa": "Appleはビンテージ製品とオブソリート製品のリストを更新し、iPhone Xと15インチの2018年製MacBook Proをオブソリート製品に追加しました。これにより、同社によるこれらハードウェアの修理サポートは終了し、サービスプロバイダでの部品発注もできなくなります。両製品はすでに主要なOSアップデートの対象外となっており、長年の運用期間を経て今回の分類変更となりました。"
-    },
-    {
-      "id": "3443d131130fb5c6a4e3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Ted Lasso just had the biggest Apple TV premiere ever",
-      "url": "https://9to5mac.com/2026/08/13/ted-lasso-just-had-the-biggest-apple-tv-premiere-ever/",
-      "publishedAt": "2026-08-13T19:22:29.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ted-lasso-s4-coaching-trio.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "「テッド・ラッソ」シーズン4、Apple TV史上最大のプレミア公開を記録",
-      "summaryJa": "人気ドラマ「テッド・ラッソ」シーズン4が好調な滑り出しを見せ、Apple TV史上最大のローンチとなりました。配信初動の公開ウィンドウにおいて米国で2億9,660万分の視聴時間を記録し、単日でも首位を獲得しています。競合と比較して小規模な加入者基盤である中、シーズン3に続く高い人気を改めて証明する形となりました。"
-    },
-    {
-      "id": "8d72ef21f248f4938c4f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Opens Houston Advanced Manufacturing Center Ahead of Mac Mini Production",
-      "url": "https://www.macrumors.com/2026/08/13/apple-houston-manufacturing-center/",
-      "publishedAt": "2026-08-13T19:08:56.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-houston-manufacturing-facility-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、テキサス州ヒューストンに先端製造センターを開設",
-      "summaryJa": "Appleはテキサス州ヒューストンに新たな先端製造センター（AMC）を開設しました。この施設はAIサーバーの製造拠点と同じ場所にあり、今年後半からはMac miniの製造も開始される予定です。中小企業や学生向けに無料のトレーニングや教育セッションを提供し、米国の製造業の未来を支える人材育成を進めていきます。"
-    },
-    {
-      "id": "499e31bbce4590baf34b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Wallet in iOS 27 adds clever new way to use its many features",
-      "url": "https://9to5mac.com/2026/08/13/apple-wallet-in-ios-27-adds-clever-new-way-to-use-its-many-features/",
-      "publishedAt": "2026-08-13T19:01:40.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-wallet-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27の「ウォレット」アプリに機能ガイドを確認できる新セクションが登場",
-      "summaryJa": "iOS 27のベータ版において、「ウォレット」アプリに新しく「ディスカバー」セクションが追加されました。ここではApple Payや各種パス、キーなどの機能に関する教育的ガイドや便利な機能へのショートカットが提供されます。多様化するウォレットの機能をユーザーがより簡単に活用できるよう設計されています。"
     }
   ],
-  "updatedAt": "2026-08-24T17:22:09.870Z",
+  "updatedAt": "2026-08-24T17:56:19.853Z",
   "initialized": true,
   "summaryVersion": 4
 }
