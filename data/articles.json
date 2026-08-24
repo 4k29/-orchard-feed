@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "ef33cf80b3a943cf7733",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 fixes three of the most annoying Messages bugs",
+      "url": "https://9to5mac.com/2026/08/24/ios-27-fixes-three-of-the-most-annoying-messages-bugs/",
+      "publishedAt": "2026-08-24T12:11:38.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOSの「メッセージ」アプリ、次期アップデートで不満の多い3つのバグを修正か",
+      "summaryJa": "次期iOSアップデートでは、メッセージアプリにおけるユーザーの不満解消に向けた機能強化が行われます。具体的には、送信失敗したメッセージの自動再送機能、写真や動画の独立した連続送信機能、そしてデバイス間のより信頼性の高い同期機能が導入される予定です。これにより、メッセージ送信時のボトルネックが解消され、より快適な利用が可能になります。"
+    },
+    {
       "id": "aa3fd2b5fb3290719b7e",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Amazonで2026年型MacBook Pro全モデルが最大500ドル引きのセールを実施中",
       "summaryJa": "Amazonにて、2026年型の14インチおよび16インチMacBook Proの全モデルを対象とした大幅な割引セールが継続して実施されています。M5 ProおよびM5 Maxを搭載した一部の構成では最大500ドル引きとなっており、直近の価格改定以降でお得に購入できるチャンスとなっています。"
-    },
-    {
-      "id": "e1936b3e05b1290a9880",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Ultra could launch in US only at first, per report",
-      "url": "https://9to5mac.com/2026/08/13/iphone-ultra-could-launch-in-us-only-at-first-per-report/",
-      "publishedAt": "2026-08-13T13:31:09.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone Ultraは米国で先行発売か、供給や価格に課題との報道",
-      "summaryJa": "Apple初の折りたたみ式デバイスと噂されるiPhone Ultraについて、初期の発売は米国市場のみに限定される可能性があると報じられています。中国の部品サプライヤーによると、製造上の問題やテスト、価格設定の課題に直面していることが遅れの主な原因とされています。これにより、他の地域では数ヶ月遅れての展開になるかもしれないと伝えられています。"
     }
   ],
-  "updatedAt": "2026-08-24T11:49:51.209Z",
+  "updatedAt": "2026-08-24T12:24:13.247Z",
   "initialized": true,
   "summaryVersion": 4
 }
