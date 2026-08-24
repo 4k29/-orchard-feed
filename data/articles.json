@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "0eec3566ef535b3ace36",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 adds three new iPhone features I’ve been really loving",
+      "url": "https://9to5mac.com/2026/08/24/ios-27-adds-three-new-iphone-features-ive-been-really-loving/",
+      "publishedAt": "2026-08-24T19:23:04.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-iphone-side-angle-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOSに搭載されたAI時代の新機能とSiriアプリ",
+      "summaryJa": "iOSにはメッセージやメモ、Apple Walletなど全体にわたって多くの新機能が追加されています。その中でもAI時代に向けて刷新された専用のSiriアプリは、iCloudを介してデバイス間で会話履歴を同期できるのが特徴です。また、メッセージアプリでは文脈に応じたワンタップの提案機能が提供され、よりスムーズにリマインダーやメモ作成を行えるようになっています。"
+    },
+    {
+      "id": "d5f46f22d63715734615",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s everything new Apple TV has coming in September",
+      "url": "https://9to5mac.com/2026/08/24/heres-everything-new-apple-tv-has-coming-in-september-2026/",
+      "publishedAt": "2026-08-24T19:12:48.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-tv-fall-mountains.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、9月に配信される注目の新作映画やドラマ",
+      "summaryJa": "Apple TVでは秋の初めにあわせて、ライアン・レイノルズ主演のアクションコメディ映画『Mayday』や、スリラー作品『Last Seen』、人気スパイ作品『窓際のスパイ』シーズン6など多数の話題作が配信されます。実力派キャストが揃う注目作が目白押しで、秋のラインナップを盛り上げます。気になる作品はウォッチリストに追加して配信に備えることができます。"
+    },
+    {
+      "id": "4342e14686702ebd15e3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Ultra is coming, but it might not have these key features",
+      "url": "https://9to5mac.com/2026/08/24/iphone-ultra-wont-have-these-five-features/",
+      "publishedAt": "2026-08-24T18:58:49.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "折りたたみ式iPhone Ultraの噂、主要機能に制限か",
+      "summaryJa": "Apple初の折りたたみ式iPhoneとされる「iPhone Ultra」が約2週間後にも発表されると報じられています。2000ドルを超える高価格になると予想される一方で、望遠カメラやアクションボタン、Face ID、MagSafeなどが非搭載となる大きな制限が設けられる可能性があると伝えられています。薄型デザインの実現や構造上の理由から、生体認証には側面のTouch IDが採用される見通しです。"
+    },
+    {
       "id": "a0cbcb94e59dcd513cb2",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4458,54 +4503,9 @@
       ],
       "titleJa": "Apple、世界110カ国のユーザーにメルセナリスパイウェアの警告を発出",
       "summaryJa": "Appleは、メルセナリスパイウェア攻撃の標的になっている可能性があるとして、世界110カ国のユーザーに新たな警告通知を送付しました。過去数年間で通知対象となった国は150カ国を超えており、同社はサポート記事を更新してロックダウンモードの有効化や専門機関への相談を推奨しています。"
-    },
-    {
-      "id": "de3a680b22fc1c40e148",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 17 Pro One Year Later: What Held Up and What Didn't",
-      "url": "https://www.macrumors.com/2026/08/13/iphone-17-pro-one-year-later/",
-      "publishedAt": "2026-08-13T23:58:50.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 17 Proを1年間使用して分かった進化点と実力",
-      "summaryJa": "発売から約1年が経過したiPhone 17 Proについて、実際の耐久性やバッテリー持ちなどの検証結果が報じられています。耐擦傷性に優れたセラミックシールド2や、1日中持つ優れたバッテリー性能が高く評価される一方で、次期モデルの登場を前に現行機の選択価値についても言及されています。"
-    },
-    {
-      "id": "93d55fab4abade39f5a1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "What's Coming in September: New iPhones, Apple Watches and More",
-      "url": "https://www.macrumors.com/2026/08/13/apple-september-announcement-rumors/",
-      "publishedAt": "2026-08-13T23:20:39.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "9月のAppleイベントで新型iPhoneやApple Watchが登場か",
-      "summaryJa": "Appleが来月のイベントに向けて準備を進めている新製品の噂について報じられています。新型iPhone 18 Proシリーズでは、Dynamic Islandの小型化や新型カメラ、高性能なA20 Proチップの搭載などが予想されています。また、折りたたみ式iPhoneの登場可能性や、全体的な価格改定の噂も伝えられており、今後の正式発表に注目が集まっています。"
-    },
-    {
-      "id": "1fe5935e9c469aeef795",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Ted Lasso Season 4 Premiere is Apple TV's Biggest Launch Ever",
-      "url": "https://www.macrumors.com/2026/08/13/ted-lasso-premiere-record/",
-      "publishedAt": "2026-08-13T23:05:01.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Ted-Lasso-16x9.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "「テッド・ラッソ」シーズン4、Apple TV史上最大のヒット作に",
-      "summaryJa": "Apple TVで配信が始まった「テッド・ラッソ」シーズン4のプレミア公開が、同サービス史上最大の視聴数を記録したと伝えられています。ニールセンのデータによると、公開初期の2日間で全米2億9660万分の視聴時間を突破しました。約3年ぶりの新シーズンとなりますが、ファンからの熱狂的な支持を集めており、毎週新しいエピソードが公開されています。"
     }
   ],
-  "updatedAt": "2026-08-24T18:53:27.754Z",
+  "updatedAt": "2026-08-24T19:26:34.410Z",
   "initialized": true,
   "summaryVersion": 4
 }
