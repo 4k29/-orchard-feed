@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "29cdce7fb443eae1bdaa",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple reverses planned Hide My Email domain change after user pushback",
+      "url": "https://9to5mac.com/2026/08/24/apple-reverses-planned-hide-my-email-domain-change-after-user-pushback/",
+      "publishedAt": "2026-08-24T21:05:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-mail-app-icon-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、メールを隠す機能のドメイン変更を撤回",
+      "summaryJa": "Appleは、iCloud+の「メールを隠す」機能で予定していた新ドメインへの移行を中止し、既存のicloud.comを継続すると発表しました。ユーザーやコミュニティからの反発を受けたもので、ウェブサイト側による機能のブロックを防ぐ狙いがあります。なお、サインイン用のアドレスについては今年後半から新ドメインへ移行する予定です。"
+    },
+    {
+      "id": "07304cb60be634f6ed6a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Home Hub Code Hints at Face-Based Profile Switching",
+      "url": "https://www.macrumors.com/2026/08/24/home-hub-ambient-sending/",
+      "publishedAt": "2026-08-24T20:53:28.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/11/Apple-AI-Command-Center-Concept-Mock-3.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleの次期ホームハブ、顔認証によるプロファイル切替か",
+      "summaryJa": "Appleの次期ホームハブに関するコードから、顔認識や環境センシングを用いた自動プロファイル切り替え機能が示唆されています。カメラとセンサーでユーザーを識別し、個人向けコンテンツを表示するとみられます。本製品には2つのモデルが用意される見込みです。"
+    },
+    {
       "id": "a07ddec56f392bb10794",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "SpaceXAI、AIコードエディタのCursor買収を完了",
       "summaryJa": "宇宙開発企業のSpaceX傘下となったSpaceXAIは、AIコードエディタを手がけるCursorの買収完了を発表しました。CursorはMacを使用するソフトウェアエンジニアの間でAIコーディングツールとして広く普及しており、これまでにGrok BotやGrok 4.6モデルの開発支援にも貢献してきました。両社は協力して世界最高峰のコーディングおよびナレッジワーク向けAIの構築を目指すとしています。"
-    },
-    {
-      "id": "faf034387c4c37b4c228",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Unforgetful is a new app from the creator of Overcast that enhances Apple Reminders",
-      "url": "https://9to5mac.com/2026/08/14/unforgetful-is-a-new-app-from-the-creator-of-overcast-that-enhances-apple-reminders/",
-      "publishedAt": "2026-08-14T13:36:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/unforgetful-app.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "リマインダーを強化する新アプリ「Unforgetful」が登場",
-      "summaryJa": "人気ポッドキャストアプリ「Overcast」の開発者であるマルコ・アーメント氏が、iPhone、iPad、Mac向けの新しいタスク管理アプリ「Unforgetful」をリリースしました。Apple純正のリマインダーアプリとデータを共有しつつ、完了するまで繰り返し通知を行う永続的な通知機能や、柔軟なスヌーズ機能などを備えているのが特徴です。複雑な階層やタグを排除したシンプルな設計により、タスクのうっかり忘れを防ぎます。"
-    },
-    {
-      "id": "ab2e9b0a3f03ffc7e766",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple One gets even better in iOS 27, here’s what’s new",
-      "url": "https://9to5mac.com/2026/08/14/apple-one-is-getting-better-in-ios-27-heres-whats-new/",
-      "publishedAt": "2026-08-14T13:32:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-One-ios-27-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27でApple Oneがさらに進化、新機能まとめ",
-      "summaryJa": "iOS 27におけるApple Oneでは、バンドルされているiCloud+やApple Musicなどの各種サービスが強化されます。サーバーモデルを使用するApple Intelligence機能の一部において、Apple Oneのプラン階層に応じた利用制限の緩和が適用される予定です。さらに、iCloud+の機能であるHomeKit Secure Videoでは、4K動画への対応やAIによる動画説明生成など4つの新しい機能が追加されます。"
     }
   ],
-  "updatedAt": "2026-08-24T20:42:04.260Z",
+  "updatedAt": "2026-08-24T21:12:27.387Z",
   "initialized": true,
   "summaryVersion": 4
 }
