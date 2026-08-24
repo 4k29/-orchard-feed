@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "a07ddec56f392bb10794",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s Emergency SOS Live Video is now available in Brazil",
+      "url": "https://9to5mac.com/2026/08/24/apples-emergency-sos-live-video-is-now-available-in-brazil/",
+      "publishedAt": "2026-08-24T20:28:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/emergency-video-call.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhoneの緊急SOSライブ映像機能がブラジルで利用可能に",
+      "summaryJa": "RapidSOSとの提携により、ブラジルの緊急通報機関でiPhoneの「緊急SOSライブ映像」が利用可能になりました。iPhone 14以降のユーザーは、緊急通報時に190番からの要請に応じてライブ映像を安全に共有できるようになります。この機能は米国で導入された技術と同じ仕組みを活用しています。"
+    },
+    {
+      "id": "22ef1e056455514160e1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Won't Change Hide My Email Domain After Backlash",
+      "url": "https://www.macrumors.com/2026/08/24/apple-hide-my-email-domain/",
+      "publishedAt": "2026-08-24T20:17:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/12/iCloud-General-Feature-Redux.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、「メールを隠す」のドメイン変更を撤回",
+      "summaryJa": "Appleは、iCloudの「メールを隠す」機能で使用するメールアドレスのドメイン変更計画を撤回しました。ユーザーからの反発を受け、従来のicloud.comドメインがそのまま維持されることになります。なお、「Appleでサインイン」については、今年後半から新しいドメインへ移行する予定です。"
+    },
+    {
+      "id": "e71785c87f303107e13b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple official refurb store: This week’s top picks at up to $500 off",
+      "url": "https://9to5mac.com/2026/08/24/apple-official-refurb-store-best-offers/",
+      "publishedAt": "2026-08-24T20:04:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-refurbished.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple公式認定整備済ストア、今週のおすすめ製品と割引情報",
+      "summaryJa": "Apple公式認定整備済ストアにて、MacBook Proなどの人気製品が最大500ドル引きで販売されています。厳格な整備プロセスを経て出荷される整備済製品には、新品と同様の1年間限定保証や14日間の返品ポリシーが適用され、コストパフォーマンスに優れています。"
+    },
+    {
+      "id": "baa2e25273113bffc3e5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Holds Farewell Party for Tim Cook as Ternus Prepares to Take Over",
+      "url": "https://www.macrumors.com/2026/08/24/apple-tim-cook-farewell-party/",
+      "publishedAt": "2026-08-24T19:58:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/tim-cook-wwdc-2026.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、ティム・クックCEOの送別会を開催",
+      "summaryJa": "Appleは、9月1日に最高経営責任者（CEO）を退任するティム・クックの送別会を社内で開催しました。クックは今後、取締役会の執行会長に就任し、後任にはハードウェアエンジニアリング担当上級副社長のジョン・ターナスが就任します。今後はジョン・ターナスが新体制を率いることになります。"
+    },
+    {
       "id": "69a05813b97c063eab16",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4443,69 +4503,9 @@
       ],
       "titleJa": "iOS 27でApple Oneがさらに進化、新機能まとめ",
       "summaryJa": "iOS 27におけるApple Oneでは、バンドルされているiCloud+やApple Musicなどの各種サービスが強化されます。サーバーモデルを使用するApple Intelligence機能の一部において、Apple Oneのプラン階層に応じた利用制限の緩和が適用される予定です。さらに、iCloud+の機能であるHomeKit Secure Videoでは、4K動画への対応やAIによる動画説明生成など4つの新しい機能が追加されます。"
-    },
-    {
-      "id": "f7f42028f5dea38400be",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "30 New Things Your iPhone Can Do in iOS 27",
-      "url": "https://www.macrumors.com/2026/08/14/new-things-your-iphone-can-do-ios-27/",
-      "publishedAt": "2026-08-14T13:24:56.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Everything-New-Your-iPhone-Can-Do-on-iOS-27-Feature-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27で利用可能になる新機能と改善点",
-      "summaryJa": "Appleが9月にリリース予定のiOS 27では、生成AI時代に向けた文脈認識型Siriのほか、多くの便利な新機能が追加されます。写真アプリの壁紙自動拡張機能や、Apple Intelligenceを活用したSafariのタブ整理機能、自然言語でのリマインダー入力などが搭載されます。現在はパブリックベータ版が公開されており、正式リリースへ向けて準備が進められています。"
-    },
-    {
-      "id": "093ed0afee31187b67e0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "My DIY iPhone camera mod looks absurd but is great to use",
-      "url": "https://9to5mac.com/2026/08/14/my-diy-iphone-camera-mod-looks-absurd-but-is-great-to-use/",
-      "publishedAt": "2026-08-14T12:12:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/My-DIY-iPhone-camera-mod-looks-absurd-but-is-great-to-use.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone撮影の利便性を高める自作カメラモッド",
-      "summaryJa": "筆者が作成した一風変わった自作のiPhone用カメラモッドについて紹介しています。見た目は少しユーモラスですが、強い日差しの下での撮影などにおいて、ファインダーを通した実用性と撮影の楽しさを大幅に向上させてくれる便利なアイテムとして活躍している様子を伝えています。"
-    },
-    {
-      "id": "c258028e7b046d18c7e4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Trained Own AI model for China Market With Help From Alibaba",
-      "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
-      "publishedAt": "2026-08-14T09:46:29.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/09/apple-intelligence-black.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、中国市場向け独自AIモデルをAlibabaの協力で開発か",
-      "summaryJa": "Appleが中国市場におけるApple Intelligence機能に向けて、外部モデルに頼らずAlibabaの協力を得て独自の大規模言語モデルをトレーニングしたと報じられています。規制の壁を乗り越えるための「デュアルトラック戦略」の一環とされ、外国企業として異例の独自モデル提供に向けた動きが進められています。数ヶ月以内の展開が予想されており、今後の動向が注目されます。"
-    },
-    {
-      "id": "75e1fa3f4fca4914480a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple seeks settlement talks with Epic Games in new court filing",
-      "url": "https://9to5mac.com/2026/08/13/apple-seeks-settlement-talks-with-epic-games-in-new-court-filing/",
-      "publishedAt": "2026-08-14T01:39:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、Epic Gamesとの裁判で和解協議の申し立てを実施か",
-      "summaryJa": "Appleは米国のApp Store外決済における手数料の提案に加えて、Epic Gamesとの間で和解協議を行うよう裁判所に申し立てを行いました。Appleは連邦地裁の判事に対し、両当事者に和解協議への参加を命じるよう求めていますが、現時点でEpic側は同意していません。"
     }
   ],
-  "updatedAt": "2026-08-24T19:58:00.907Z",
+  "updatedAt": "2026-08-24T20:42:04.260Z",
   "initialized": true,
   "summaryVersion": 4
 }
