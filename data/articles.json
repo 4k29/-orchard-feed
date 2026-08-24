@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "51745604eca573f3f1b0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AirTag 2 now just $20 each ahead of new feature coming soon",
+      "url": "https://9to5mac.com/2026/08/24/airtag-2-deal-best-price/",
+      "publishedAt": "2026-08-24T13:20:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airtag-2-radiating-sound.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirTag 2が過去最安値に、4個入りパックが1個あたり20ドルに",
+      "summaryJa": "Amazonにおいて、Appleの最新AirTag 2の4個入りパックが過去最安値となる79.99ドルで販売されています。1個あたり約20ドルという破格の割引となっており、1個単体の価格も24ドルに下がっています。AirTag 2は、従来モデルよりも遠くから探せる高精度な探索機能や、最大50%音量が大きくなったスピーカーなどを搭載しています。"
+    },
+    {
+      "id": "6f7fcbd710f047b3735a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Store App Rolling Out 'Early Preview' of New Shopping Assistant",
+      "url": "https://www.macrumors.com/2026/08/24/apple-store-app-virtual-shopping-assistant/",
+      "publishedAt": "2026-08-24T12:56:14.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-Store-App-Rolling-Out-Early-Preview-of-AI-Shopping-Assistant-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Storeアプリ、AIショッピングアシスタントの早期プレビューを提供開始か",
+      "summaryJa": "iPhone向けのApple Storeアプリにおいて、一部のユーザーを対象にAIを活用した新しいバーチャルショッピングアシスタントの早期プレビュー版の提供が開始されたと報じられています。画面右下のチャットアイコンから起動し、Apple製品や注文状況、下取り価格などについて質問できる仕組みです。現時点では公式発表はなく、一部のユーザー向けに小規模なテストを行っている段階とみられています。"
+    },
+    {
+      "id": "6e74ca947b05d572027c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 20's Curved Glass Design to Be Made Like iPhone Air",
+      "url": "https://www.macrumors.com/2026/08/24/iphone-20-curved-glass-to-be-like-iphone-air/",
+      "publishedAt": "2026-08-24T12:42:09.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "20周年記念iPhone、iPhone Airと同様のガラス加工技術を採用か",
+      "summaryJa": "2027年に登場が予想される20周年記念の新型iPhoneには、iPhone Air向けに開発されたガラス製造プロセスが採用されると報じられています。リーク情報によると、改良された製造設備を使用することで丸みを帯びたガラス部品を効率的に作り、コスト削減や放熱性の向上、薄型化を実現しているとのことです。同モデルは全面ガラスの湾曲したデザインになると噂されています。"
+    },
+    {
       "id": "ef33cf80b3a943cf7733",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4457,54 +4502,9 @@
       ],
       "titleJa": "iOS 27の写真アプリに待望の本格スライドショー機能と共有アルバムの強化が登場か",
       "summaryJa": "iOS 27の写真アプリには、トランジションや音楽のカスタマイズが可能な本格的なスライドショー作成機能や、フル解像度対応およびAndroidやWindowsユーザーの参加も可能になったiCloud共有アルバムの大型アップグレードが含まれています。長年ユーザーが待ち望んでいた機能の追加により、思い出の振り返りやイベント用の映像制作がより便利になります。"
-    },
-    {
-      "id": "19158b4c831586bd68b8",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event?",
-      "url": "https://www.macrumors.com/2026/08/13/when-is-iphone-18-pro-iphone-ultra-apple-event/",
-      "publishedAt": "2026-08-13T14:11:35.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 ProとiPhone Ultraの発表イベント時期を巡る憶測が浮上",
-      "summaryJa": "今年のAppleの秋のiPhone発表イベントの開催時期について、メディアの間で様々な予測が報じられています。9月上旬の開催や労働者の日、9.11テロの記念日を避けた日程調整の可能性が指摘されており、Bloombergのマーク・ガーマン氏は9月前半の開催を予想しています。"
-    },
-    {
-      "id": "965fcab5b77e84681c3a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "PSA: Setting different default languages in different Mac apps",
-      "url": "https://9to5mac.com/2026/08/13/psa-setting-different-default-languages-in-different-mac-apps/",
-      "publishedAt": "2026-08-13T14:01:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/How-to-set-different-default-languages-in-different-Mac-apps.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Macアプリごとにデフォルト言語を個別設定できる便利な機能",
-      "summaryJa": "macOSのシステム設定にある「言語と地域」の項目から、個別のMacアプリごとにデフォルトの言語を設定できる隠れた機能が存在します。英語の地域バリエーションを使い分けるバイリンガルユーザーや、特定のアプリで異なる言語環境を維持したい人にとって非常に役立つ便利な機能となっています。"
-    },
-    {
-      "id": "95b9489bd845ec133157",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Amazon Discounts Every 2026 MacBook Pro With Up to $500 Off",
-      "url": "https://www.macrumors.com/2026/08/13/2026-macbook-pro-up-to-500-off/",
-      "publishedAt": "2026-08-13T13:59:26.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/05/macbook-pro-m5-pro-purple.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Amazonで2026年型MacBook Pro全モデルが最大500ドル引きのセールを実施中",
-      "summaryJa": "Amazonにて、2026年型の14インチおよび16インチMacBook Proの全モデルを対象とした大幅な割引セールが継続して実施されています。M5 ProおよびM5 Maxを搭載した一部の構成では最大500ドル引きとなっており、直近の価格改定以降でお得に購入できるチャンスとなっています。"
     }
   ],
-  "updatedAt": "2026-08-24T12:24:13.247Z",
+  "updatedAt": "2026-08-24T13:30:08.319Z",
   "initialized": true,
   "summaryVersion": 4
 }
