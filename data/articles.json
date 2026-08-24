@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "aa3fd2b5fb3290719b7e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Tim Cook Replaced Steve Jobs 15 Years Ago Today, He Leaves Sept 1",
+      "url": "https://www.macrumors.com/2026/08/24/tim-cook-replaced-steve-jobs-15-years-ago-today/",
+      "publishedAt": "2026-08-24T11:38:17.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2018/08/Tim-Cook-Steve-Jobs.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "ティム・クックCEOが退任へ、後任にはジョン・ターナス氏",
+      "summaryJa": "スティーブ・ジョブズ氏の辞任から15年を経て、ティム・クックCEOが9月1日付で退任し、後任としてハードウェアエンジニアリング担当シニアバイスプレジデントのジョン・ターナス氏が就任すると報じられています。クック氏はエグゼクティブチェアマンとしてAppleに残り、規制当局への対応などをサポートする予定です。新体制のもと、新しいiPhone 18 Proや同社初となる折りたたみ式iPhoneの発表を控えています。"
+    },
+    {
+      "id": "61da53108dc69f961883",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Preparing to Increase iPhone Prices",
+      "url": "https://www.macrumors.com/2026/08/24/apple-preparing-to-increase-iphone-prices/",
+      "publishedAt": "2026-08-24T11:17:31.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhoneの値上げを検討か",
+      "summaryJa": "Appleがメモリや半導体のサプライチェーンにおけるコスト高騰を受け、iPhoneの値上げに向けて準備を進めていると報じられています。競合他社が最新スマートフォンの価格を約100ドル引き上げた動向を注視しており、iPhone 18 Proの価格にも同様の影響が及ぶ可能性があります。すでにMacやiPadの大幅な値上げが実施されている中、新たなサブスクリプションプログラムを活用することでユーザーへの負担を緩和する狙いもあるとされています。"
+    },
+    {
       "id": "3cb722f902bd9e81cab1",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4472,39 +4502,9 @@
       ],
       "titleJa": "iPhone Ultraは米国で先行発売か、供給や価格に課題との報道",
       "summaryJa": "Apple初の折りたたみ式デバイスと噂されるiPhone Ultraについて、初期の発売は米国市場のみに限定される可能性があると報じられています。中国の部品サプライヤーによると、製造上の問題やテスト、価格設定の課題に直面していることが遅れの主な原因とされています。これにより、他の地域では数ヶ月遅れての展開になるかもしれないと伝えられています。"
-    },
-    {
-      "id": "30bc10487c55cb6b9a82",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple TV Gains Classic Movies Collection",
-      "url": "https://www.macrumors.com/2026/08/13/apple-tv-gains-classic-movies/",
-      "publishedAt": "2026-08-13T13:15:53.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/10/Apple-TV-Color.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple TV、追加料金なしで視聴できる名作映画コレクションを追加",
-      "summaryJa": "Apple TVのアプリ内に新しいカルーセルが追加され、サブスクリプション加入者を対象に複数の名作映画が追加料金なしで配信されています。米国、カナダ、イギリスなどの地域で提供されており、国によってラインナップの数や作品が異なっています。過去にも同様のライセンス作品の追加が行われてきましたが、今回は恒久的な変更か期間限定かについては明らかになっていません。"
-    },
-    {
-      "id": "28b4f4da0dfd3b4b53f5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "'iPhone Ultra' Could Face Staggered Country Rollout Like Vision Pro",
-      "url": "https://www.macrumors.com/2026/08/13/iphone-ultra-staggered-country-rollout/",
-      "publishedAt": "2026-08-13T12:56:51.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみ式iPhone Ultra、Vision Proと同様に段階的な国別展開か",
-      "summaryJa": "Appleが準備を進めていると噂される初の折りたたみ式iPhoneは、Vision Proのように国ごとに段階的な発売方式を採用する可能性があると報じられています。初期の発売は米国市場が優先され、その後中国などの主要市場へ数ヶ月かけて順次拡大される見通しです。製造上の課題やテストの難航がその背景にあると伝えられており、今後の動向が注目されています。"
     }
   ],
-  "updatedAt": "2026-08-24T11:17:17.463Z",
+  "updatedAt": "2026-08-24T11:49:51.209Z",
   "initialized": true,
   "summaryVersion": 4
 }
