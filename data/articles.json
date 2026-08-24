@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "fcf35936cbf740a8b80b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "These are the best MacBook deals right now: August 2026 Buyer’s Guide",
+      "url": "https://9to5mac.com/2026/08/23/best-apple-macbook-deals-right-now-august/",
+      "publishedAt": "2026-08-24T02:54:40.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/M4-MacBook-Air-take-two.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBook各モデルの現在のお得なセール情報まとめ",
+      "summaryJa": "近年のMacは価格の手頃さが魅力となっていたが、メモリ不足の影響により大幅な値上げが実施された。しかし、Amazonなどのオンラインショップでは依然として一部のMacBook Airモデルで割引価格が提供されており、新しいコンピュータを必要としている人にとってはお得な選択肢となっている。"
+    },
+    {
       "id": "b132cc48f7f4ea8ec5dd",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "Apple、英ベイジングストークの店舗を2026年11月に閉鎖へ",
       "summaryJa": "Appleは、イギリス・ベイジングストークにあるApple Festival Placeストアを2026年11月に永久閉鎖すると発表しました。近くにあるレディングの店舗が大規模な拡張改装を行って翌月に新しいデザインで再オープンすることに伴うもので、スタッフには近隣店舗への異動機会が提供されます。今回の閉鎖と再構築は、世界中で店舗の新設や移転、リモデルを進めるAppleの継続的な計画の一環です。"
-    },
-    {
-      "id": "c6f9a5ffa79ff00c61d0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "‘Obvious’ App Store ratings fraud going undetected by Apple, says StopTheMadness developer",
-      "url": "https://9to5mac.com/2026/08/13/obvious-app-store-ratings-fraud-going-undetected-by-apple-says-stopthemadness-developer/",
-      "publishedAt": "2026-08-13T11:17:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Obvious-App-Store-ratings-fraud-going-undetected-by-Apple-says-StopTheMadness-developer.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "App Storeの明白な評価詐欺を見逃しているとデベロッパーが指摘",
-      "summaryJa": "人気Safari拡張機能の開発者であるジェフ・ジョンソン氏が、Appleの審査体制にもかかわらず、App Storeにおける明白な評価やレビューの詐欺行為が見逃されていると苦言を呈しました。Appleはこれまでも年間数十億ドルの不正取引を防いで安全性をアピールしていますが、開発者からは大規模な詐欺やレビュー操作が頻発しているとの指摘が相次いでいます。中国企業などがiPhoneファームを使ってアプリに星5つの評価をつける手口などが問題視されています。"
     }
   ],
-  "updatedAt": "2026-08-24T02:18:43.754Z",
+  "updatedAt": "2026-08-24T03:28:44.207Z",
   "initialized": true,
   "summaryVersion": 4
 }
