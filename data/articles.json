@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "ebc1219364777e965f9d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New public betas now available for iOS 27, iPadOS 27, macOS 27 Golden Gate, more",
+      "url": "https://9to5mac.com/2026/08/24/new-public-betas-now-available-for-ios-27-ipados-27-macos-27-golden-gate-more/",
+      "publishedAt": "2026-08-24T22:45:50.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iOS 27やmacOS 27などの最新パブリックベータを公開",
+      "summaryJa": "Appleは、開発者向けベータ第7版の公開に続き、iOS 27やiPadOS 27、macOS 27などの次期OSにおける最新のパブリックベータ版の提供を開始しました。今回のビルドは開発者向けのものと同一であり、数週間後に予定されている正式リリースに向け、主にバグ修正や安定性の向上が図られています。参加を希望するユーザーは、Apple Beta Software Programの公式サイトから登録して各デバイスにインストールすることが可能です。"
+    },
+    {
+      "id": "4a7044f56dd2fc1c5039",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "ChatGPT now lets users create custom iMessage and WhatsApp stickers",
+      "url": "https://9to5mac.com/2026/08/24/chatgpt-now-lets-users-create-custom-imessage-and-whatsapp-stickers/",
+      "publishedAt": "2026-08-24T22:15:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/chatgpt-messages.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ChatGPTが写真からカスタムステッカーを作成しiMessageへ書き出し可能に",
+      "summaryJa": "OpenAIは、ユーザーが自分の写真やアイデアを元にしてカスタムステッカーを作成し、iMessageやWhatsAppへ直接書き出せる新機能を発表しました。ユーザーは画像をアップロードしてステッカー化を依頼したり、スタイルを指定して調整したりすることが可能です。作成したステッカーはチャットアプリへ簡単に追加でき、iMessageでは専用のセクションに表示されて手軽に利用できるようになります。"
+    },
+    {
       "id": "29cdce7fb443eae1bdaa",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "Apple、中国市場向けAI戦略で独自の大規模言語モデルを開発か",
       "summaryJa": "Appleが中国市場でのAI機能提供に向けて、アリババの協力を得て独自の大規模言語モデルの訓練を進めていると報じられています。中国本土ではChatGPTなどの利用が制限されているため、これまでのサードパーティ製モデルに依存する戦略から方針を転換し、独自のモデル開発に踏み切った模様です。Apple Intelligenceの中国での展開は、今後のiOSアップデートを通じて数ヶ月以内に実現すると期待されています。"
-    },
-    {
-      "id": "7c07e3b6e7571a971743",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Maps opens ad booking for businesses, promotional offer available",
-      "url": "https://9to5mac.com/2026/08/14/apple-maps-opens-ad-booking-for-businesses-promotional-offer-available/",
-      "publishedAt": "2026-08-14T13:49:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/wwdc-2025-13.31.12.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleマップ、企業向けの広告予約受付を開始",
-      "summaryJa": "Appleは、アメリカとカナダのAppleマップで間もなく展開される広告の事前予約受付を企業向けに開始しました。ユーザー向けの本格的な広告表示に先立ち、ウェブサイトでは詳細なガイドラインや申込方法が案内されています。また、クレジットカード決済で広告を予約した適格な企業を対象に、最大1年間毎月の利用明細クレジットとして15%が還元される期間限定の特別プロモーションも実施されています。"
-    },
-    {
-      "id": "ad8b85565c822c36e8c0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "SpaceXAI completes its Cursor acquisition following Grok Bot and Grok 4.6 release",
-      "url": "https://9to5mac.com/2026/08/14/spacex-lands-deal-to-likely-purchase-claude-code-and-openai-codex-competitor/",
-      "publishedAt": "2026-08-14T13:41:47.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/cursor-spacex.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "SpaceXAI、AIコードエディタのCursor買収を完了",
-      "summaryJa": "宇宙開発企業のSpaceX傘下となったSpaceXAIは、AIコードエディタを手がけるCursorの買収完了を発表しました。CursorはMacを使用するソフトウェアエンジニアの間でAIコーディングツールとして広く普及しており、これまでにGrok BotやGrok 4.6モデルの開発支援にも貢献してきました。両社は協力して世界最高峰のコーディングおよびナレッジワーク向けAIの構築を目指すとしています。"
     }
   ],
-  "updatedAt": "2026-08-24T22:14:18.998Z",
+  "updatedAt": "2026-08-24T22:47:16.978Z",
   "initialized": true,
   "summaryVersion": 4
 }
