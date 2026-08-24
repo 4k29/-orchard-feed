@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "03ce8f9bdd5adf1d25dc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple starts testing AI shopping assistant in the Apple Store app",
+      "url": "https://9to5mac.com/2026/08/24/apple-store-app-is-testing-an-ai-shopping-assistant/",
+      "publishedAt": "2026-08-24T14:07:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-store-ai-shopping.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Storeアプリ、AIショッピングアシスタントのテストを開始か",
+      "summaryJa": "Appleは、iPhoneおよびiPadのApple Storeアプリで新しいAIを活用したショッピングアシスタントのテストを一部のユーザー向けに「初期プレビュー」として開始しました。アプリ内のチャットアイコンから仮想アシスタントと会話できるようになり、製品の検索や注文内容の確認、専門家への相談などが可能になります。AIによる不正確な回答が含まれる可能性があり、品質向上や不正防止のために会話記録が利用される場合があります。"
+    },
+    {
+      "id": "2e169d6a3e0a3cfaf4ac",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Amazon Offers Up to $150 Discounts on M5 MacBook Air",
+      "url": "https://www.macrumors.com/2026/08/24/amazon-150-discount-m5-macbook-air/",
+      "publishedAt": "2026-08-24T14:01:26.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macbook-air-prime-day-2.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazon、M5搭載MacBook Airを最大150ドル引きで販売",
+      "summaryJa": "Amazonにおいて、M5チップを搭載したMacBook Airの複数のモデルを対象に最大150ドルの割引セールが実施されています。今回のセールは主に13インチモデルに焦点を当てており、16GB/1TBモデルや24GB/1TBモデルなどが対象となっています。夏の価格改定以降では非常にお得な価格となっており、購入のチャンスとなっています。"
+    },
+    {
+      "id": "68ebd6b7e9f8fc1ca4ef",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 20 Pro’s all-glass design gets new update from leaker",
+      "url": "https://9to5mac.com/2026/08/24/iphone-20-pros-all-glass-design-gets-new-update-from-leaker/",
+      "publishedAt": "2026-08-24T13:48:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "来年のiPhone Pro、全面ガラスデザインに関する新たな噂が浮上",
+      "summaryJa": "来年の登場が予想されるiPhoneの20周年記念モデルについて、新しい全面ガラスデザインの進捗状況が報じられています。リーク情報によると、iPhone Airと同様のガラス組み立てプロセスを用いつつ、より丸みを帯びた素材を使うための改良が進められています。また、放熱性や薄型化の面でも改善が図られており、Proユーザーが求める性能やバッテリー駆動時間を維持しつつ独自のガラスデザインを実現する見込みです。"
+    },
+    {
+      "id": "7d91a98f07c73f5ec1a9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro and iPhone Ultra: When Will Apple Event Be Announced?",
+      "url": "https://www.macrumors.com/2026/08/24/iphone-18-pro-iphone-ultra-apple-event-when/",
+      "publishedAt": "2026-08-24T13:45:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、9月のiPhone 18 Proおよび折りたたみモデル発表イベントの開催時期は",
+      "summaryJa": "Appleが例年9月に開催する新型iPhoneの発表イベントについて、開催日の予測が報じられています。今年はiPhone 18 Proシリーズに加え、初の折りたたみモデルとなるiPhone Ultraの発表が期待されています。労働者の日や9月11日の記念日といったスケジュール上の配慮から、イベント日程や予約開始日の調整が行われる可能性があると見られています。"
+    },
+    {
       "id": "51745604eca573f3f1b0",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -14,6 +74,21 @@
       ],
       "titleJa": "AirTag 2が過去最安値に、4個入りパックが1個あたり20ドルに",
       "summaryJa": "Amazonにおいて、Appleの最新AirTag 2の4個入りパックが過去最安値となる79.99ドルで販売されています。1個あたり約20ドルという破格の割引となっており、1個単体の価格も24ドルに下がっています。AirTag 2は、従来モデルよりも遠くから探せる高精度な探索機能や、最大50%音量が大きくなったスピーカーなどを搭載しています。"
+    },
+    {
+      "id": "f2a47d8a3d6ffad0f034",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirTag 2 4-Pack Hits New Low Price of $79.99 on Amazon [Updated]",
+      "url": "https://www.macrumors.com/2026/08/24/airtag-2-85-amazon/",
+      "publishedAt": "2026-08-24T13:02:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/new-airtag-2-peach.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirTag 2の4個パックがAmazonで過去最安値に",
+      "summaryJa": "Amazonにおいて、AirTag 2の4個パックが従来の99.00ドルから79.99ドルに値下げされ、過去最安値を記録しました。1個パックも29.00ドルから24.00ドルに値下がりしています。新型AirTagには第2世代の超広帯域チップが搭載されており、従来モデルよりも最大50%遠い距離から正確な場所を見つけることができます。"
     },
     {
       "id": "6f7fcbd710f047b3735a",
@@ -4427,84 +4502,9 @@
       ],
       "titleJa": "AirPods Pro 3やM5 MacBook Airなどがセールに登場",
       "summaryJa": "AirPods Pro 3が通常の約25%オフとなる特価で販売されているほか、公式認定整備済ストアでのM5搭載MacBook Airの割引やApple Watch Series 11のセールが実施されています。さらに、Ultra Wideband対応のSchlage製スマートロックやHyperのThunderbolt 5ドックなども割引対象となっています。"
-    },
-    {
-      "id": "29c67d66d61b3cb45d14",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Three new iPhones launch next month, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/08/13/three-new-iphones-launch-next-month-heres-whats-coming/",
-      "publishedAt": "2026-08-13T15:14:23.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "9月の発表会で登場が噂される3つの新型iPhone",
-      "summaryJa": "まもなく開催されるAppleの9月のイベントでは、iPhone 18 Pro、iPhone 18 Pro Max、そして折りたたみ式のiPhone Ultraの3モデルが発表されると報じられています。新モデルにはA20 Proチップや可変絞りを備えたメインカメラが搭載され、iPhone UltraはiPad miniのような大画面を備えたブック型のデザインになると予想されています。"
-    },
-    {
-      "id": "d5db75535a026382ee83",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Will the iPhone Ultra avoid the issue that can still kill Samsung foldables?",
-      "url": "https://9to5mac.com/2026/08/13/will-the-iphone-ultra-avoid-the-issue-that-can-still-kill-samsung-foldables/",
-      "publishedAt": "2026-08-13T15:00:37.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Will-the-iPhone-Ultra-avoid-the-issue-that-can-still-kill-Samsung-foldables.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone Ultraは折りたたみスマホの懸念を克服するか",
-      "summaryJa": "サムスンの折りたたみスマートフォン初期モデルから続く、ヒンジ部分へのホコリやゴミの侵入による画面破損の問題は最新モデルでも解決されていないと伝えられています。Appleがこれまで折りたたみ端末の投入を慎重に遅らせてきたのは、こうした耐久性の課題を確実にクリアするためだったと指摘されています。"
-    },
-    {
-      "id": "af1b25998315d2d64042",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Two affordable iPhone 17 Pro accessories worth trying",
-      "url": "https://9to5mac.com/2026/08/13/two-affordable-iphone-17-pro-accessories-worth-trying/",
-      "publishedAt": "2026-08-13T15:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/orange-circles-apple-watch-ultra-iphone-17-pro.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 17 Proで試したい手頃なアクセサリ",
-      "summaryJa": "iPhone 17 Proを保護しつつ快適に利用できる手頃な価格のアクセサリとして、反射を抑えてマットな質感が楽しめる画面保護フィルムや、アクティビティ時に役立つ軽量なケースが紹介されています。高価な製品を購入しなくても、手軽にデバイスの使い勝手を試すことができる点が魅力です。"
-    },
-    {
-      "id": "5648d8807ce2b49455ea",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New Apple TV 4K: Everything we know about Apple’s 2026 upgrade",
-      "url": "https://9to5mac.com/2026/08/13/new-apple-tv-4k-2026-release-date-features-price/",
-      "publishedAt": "2026-08-13T14:30:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-tvos-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新型Apple TV 4Kの発売時期と最新の噂まとめ",
-      "summaryJa": "Apple TV 4Kとしては約4年ぶりとなるハードウェア刷新が今秋にも行われると報じられています。次期モデルにはA17 Proチップが搭載され、Apple Intelligenceや新しいSiriに対応する可能性が高いと伝えられており、スマートホーム戦略の強化に向けた動きとして注目されています。"
-    },
-    {
-      "id": "77b7950487f599b6efe7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 gives Apple Photos two features we’ve waited a long time for",
-      "url": "https://9to5mac.com/2026/08/13/ios-27-gives-apple-photos-two-features-weve-waited-a-long-time-for/",
-      "publishedAt": "2026-08-13T14:15:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-photos-app-icon-ios-27-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27の写真アプリに待望の本格スライドショー機能と共有アルバムの強化が登場か",
-      "summaryJa": "iOS 27の写真アプリには、トランジションや音楽のカスタマイズが可能な本格的なスライドショー作成機能や、フル解像度対応およびAndroidやWindowsユーザーの参加も可能になったiCloud共有アルバムの大型アップグレードが含まれています。長年ユーザーが待ち望んでいた機能の追加により、思い出の振り返りやイベント用の映像制作がより便利になります。"
     }
   ],
-  "updatedAt": "2026-08-24T13:30:08.319Z",
+  "updatedAt": "2026-08-24T14:21:21.840Z",
   "initialized": true,
   "summaryVersion": 4
 }
