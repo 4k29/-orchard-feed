@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "fc8115d54b381510dea8",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Siri AI Will Have a Waitlist When iOS 27 Launches",
+      "url": "https://www.macrumors.com/2026/08/24/siri-ai-ios-27-waitlist/",
+      "publishedAt": "2026-08-24T23:37:02.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27などのSiri AI利用開始にはウェイリストが導入される見込みか",
+      "summaryJa": "次期OSとなるiOS 27やiPadOS 27などのベータ版から、Siri AIの利用に向けたウェイリスト機能の存在が発見されました。Appleはサーバー側で需要や容量に応じた動的な待ち時間管理を行うとみられ、公開リリース後には順次利用可能になる見通しです。"
+    },
+    {
       "id": "b236160278c477b42f3f",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "AirPodsやMacBook Proが対象の今週のセール情報",
       "summaryJa": "Amazonの新学期セールに合わせ、AirPods ProやAirPods Max、MacBook Pro、さらにAnkerなどのアクセサリが大幅な割引価格で販売されています。AirPods Proなどは今年の中でも特に魅力的な価格となっており、関連製品をお得に購入できる絶好の機会となっています。"
-    },
-    {
-      "id": "8ef54e57451a1199175e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Tim Cook Reflects on His Legacy in Final Weeks as Apple CEO",
-      "url": "https://www.macrumors.com/2026/08/14/apple-ceo-tim-cook-reflects-on-legacy-apple/",
-      "publishedAt": "2026-08-14T14:12:40.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/tim-cook-cbs-news-aug-13-2026.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "ティム・クックCEOが退任を前に自身の遺産について語る",
-      "summaryJa": "Appleのティム・クックCEOが退任を控えた最後の数週間の中で、CBS Newsのインタビューに応じ、自身のリーダーシップの遺産について語りました。クック氏は、自身の遺産は他者が決めるものであり、人々から「良識ある誠実な人間だった」と言ってもらえることが自身の達成感につながると述べています。"
     }
   ],
-  "updatedAt": "2026-08-24T23:13:22.071Z",
+  "updatedAt": "2026-08-24T23:39:59.027Z",
   "initialized": true,
   "summaryVersion": 4
 }
