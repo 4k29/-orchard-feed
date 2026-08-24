@@ -1,6 +1,67 @@
 {
   "articles": [
     {
+      "id": "a0cbcb94e59dcd513cb2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: August 24, 2026 – Walmart Apple Pay rollout, Apple layoffs",
+      "url": "https://9to5mac.com/2026/08/24/daily-august-24-2026/",
+      "publishedAt": "2026-08-24T18:38:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ウォルマートのApple Pay対応や人員削減の噂",
+      "summaryJa": "9to5Macのポッドキャスト番組にて、ウォルマートによるApple Payの来週からの導入や、Vision ProおよびSiriチームにおける200名以上の人員削減など、その日の主要なニュースが振り返られています。"
+    },
+    {
+      "id": "02701cda8fd34fb67c2e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro’s new price might be better than expected",
+      "url": "https://9to5mac.com/2026/08/24/iphone-18-pros-new-price-might-be-better-than-expected/",
+      "publishedAt": "2026-08-24T18:22:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-price-dollar-cost.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの価格上昇は予想よりも小幅に",
+      "summaryJa": "Appleが間もなく発売するとみられるiPhone 18 Proの価格について、一部のアナリストが予測していたほど高額にはならない可能性があると報じられています。サムスンやグーグルと同様に、部品コストの高騰に対応して100ドルの値上げにとどまる見通しです。"
+    },
+    {
+      "id": "15755a2f69be2c296731",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MagSafe Monday: The TUCCH Mag Wallet feels like a real wallet, not just a slot to stick cards in",
+      "url": "https://9to5mac.com/2026/08/24/tucch-mag-wallet/",
+      "publishedAt": "2026-08-24T18:18:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/bradley.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "二つ折りで使える便利なTUCCHのMagSafeウォレット",
+      "summaryJa": "多くのMagSafeウォレットが単なるカードスロットであるのに対し、TUCCHのPUレザー製ウォレットは伝統的な二つ折り財布のようにしっかりと折り畳める仕様になっています。透明な身分証用ウインドウや複数のカードスロットを備え、強力な磁力でiPhoneにしっかりと吸着します。"
+    },
+    {
+      "id": "fa2d8814c7117ff042b8",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Update: New domain for Sign in with Apple",
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "publishedAt": "2026-08-24T18:00:46.000Z",
+      "imageUrl": null,
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "Apple、「Appleでサインイン」の新ドメインを発表",
+      "summaryJa": "Appleは、今年後半から「Appleでサインイン」の新しいメールアドレスが従来のドメインから変更される予定であることを明らかにしました。開発者は、アカウントシステムやメール検証のロジックが新しいドメインに対応しているか確認する必要があります。"
+    },
+    {
       "id": "1ceb061d94f01dfde908",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4442,69 +4503,9 @@
       ],
       "titleJa": "「テッド・ラッソ」シーズン4、Apple TV史上最大のヒット作に",
       "summaryJa": "Apple TVで配信が始まった「テッド・ラッソ」シーズン4のプレミア公開が、同サービス史上最大の視聴数を記録したと伝えられています。ニールセンのデータによると、公開初期の2日間で全米2億9660万分の視聴時間を突破しました。約3年ぶりの新シーズンとなりますが、ファンからの熱狂的な支持を集めており、毎週新しいエピソードが公開されています。"
-    },
-    {
-      "id": "5bca9ffcecc09b9b5b0e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 13, 2026 – MacBook Air shortages, iPhone Ultra launch rumors",
-      "url": "https://9to5mac.com/2026/08/13/daily-august-13-2026/",
-      "publishedAt": "2026-08-13T22:42:23.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "MacBook Airの品薄やiPhone Ultraの噂",
-      "summaryJa": "9to5Mac Dailyのポッドキャストエピソードが公開され、SiriのAI機能強化に向けたパブリッシャーとの交渉、MacBook Airの在庫不足、そしてiPhone Ultraに関する新たな噂など、注目のApple関連ニュースがまとめて解説されています。"
-    },
-    {
-      "id": "00bd7bf7ce710f40383b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Wants to Charge Developers Up to 15 Percent for Linking Outside the App Store",
-      "url": "https://www.macrumors.com/2026/08/13/app-store-fees-apple-link-outs/",
-      "publishedAt": "2026-08-13T22:11:46.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/12/Liquid-Glass-App-Store-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、外部決済リンクに最大15%の手数料を提案",
-      "summaryJa": "Appleは、米国の裁判所の命令に基づき、App Store外での購入オプションに誘導するアプリから徴収する手数料の提案書を提出しました。通常アプリの場合はこれまでの半額となる15%、中小企業プログラム対象アプリでは5%の手数料を求めており、プラットフォームが提供する価値に対する適正な報酬であるとしています。"
-    },
-    {
-      "id": "bb6aec11c48a76664641",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple proposes commissions of up to 15% for off-App Store purchases in the US",
-      "url": "https://9to5mac.com/2026/08/13/apple-proposes-commissions-of-up-to-15-for-off-app-store-purchases-in-the-us/",
-      "publishedAt": "2026-08-13T22:05:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/app-store.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、米国のApp Store外決済で最大15%の手数料を提案",
-      "summaryJa": "AppleはEpic Gamesとの訴訟に関連し、App Storeシステム外で行われる購入に対して課すべき手数料の提案を提出しました。標準アプリでは15%、特定のパートナープログラムやサブスクリプション更新では10%、中小企業プログラム対象アプリでは5%の手数料を求めています。最高裁判所が下級審の手続き停止申し立てを却下したことを受け、今回の提案提出に至りました。"
-    },
-    {
-      "id": "b9633d862e45162c7870",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iFixit's Galaxy Z Fold8 Teardown is a Preview of Apple's Foldable Challenges",
-      "url": "https://www.macrumors.com/2026/08/13/ifixit-galaxy-z-fold8-teardown/",
-      "publishedAt": "2026-08-13T20:41:59.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/ifixit-galaxy-z-fold8.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "サムスンの新型折りたたみスマホ分解から見るAppleの課題",
-      "summaryJa": "サムスンの新型折りたたみスマートフォン「Galaxy Z Fold8」の分解調査から、将来登場すると噂される折りたたみ式iPhoneが直面する可能性のある課題が浮き彫りになっています。特にヒンジ部分へのホコリの侵入や耐久性の問題は折りたたみ端末共通の難点であり、Appleがこれらの技術的ハードルをどのように克服しているかが注目されています。"
     }
   ],
-  "updatedAt": "2026-08-24T17:56:19.853Z",
+  "updatedAt": "2026-08-24T18:53:27.754Z",
   "initialized": true,
   "summaryVersion": 4
 }
