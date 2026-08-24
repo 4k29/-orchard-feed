@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "3cb722f902bd9e81cab1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "How Apple Leaked Itself",
+      "url": "https://www.macrumors.com/2026/08/24/how-apple-leaked-itself/",
+      "publishedAt": "2026-08-24T10:00:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/07/apple-leak-feature-blue.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleの最新ベータ版で未発表製品が多数流出した理由とは",
+      "summaryJa": "先週配信されたmacOS Tahoe 26.7のリリース候補版に、未発表のホームデバイスやiPhone、カメラ付きAirPodsなどのコードが含まれていたことが話題となっています。Bloombergのマーク・ガーマン氏によると、内部向けの未発表ハードウェア対応ビルドが通常のリリース用コードと誤ってマージされてしまった可能性が高いとのことです。本来は外部に出るはずのない内部データが、開発部門の手違いによって混入してしまったとみられています。"
+    },
+    {
       "id": "fcf35936cbf740a8b80b",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4487,24 +4502,9 @@
       ],
       "titleJa": "折りたたみ式iPhone Ultra、Vision Proと同様に段階的な国別展開か",
       "summaryJa": "Appleが準備を進めていると噂される初の折りたたみ式iPhoneは、Vision Proのように国ごとに段階的な発売方式を採用する可能性があると報じられています。初期の発売は米国市場が優先され、その後中国などの主要市場へ数ヶ月かけて順次拡大される見通しです。製造上の課題やテストの難航がその背景にあると伝えられており、今後の動向が注目されています。"
-    },
-    {
-      "id": "9840b506be2efab45ac2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Closing Basingstoke Store as Nearby Reading Location Expands",
-      "url": "https://www.macrumors.com/2026/08/13/apple-closing-basingstoke-store/",
-      "publishedAt": "2026-08-13T11:54:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-the-oracle-scaled.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、英ベイジングストークの店舗を2026年11月に閉鎖へ",
-      "summaryJa": "Appleは、イギリス・ベイジングストークにあるApple Festival Placeストアを2026年11月に永久閉鎖すると発表しました。近くにあるレディングの店舗が大規模な拡張改装を行って翌月に新しいデザインで再オープンすることに伴うもので、スタッフには近隣店舗への異動機会が提供されます。今回の閉鎖と再構築は、世界中で店舗の新設や移転、リモデルを進めるAppleの継続的な計画の一環です。"
     }
   ],
-  "updatedAt": "2026-08-24T09:05:44.940Z",
+  "updatedAt": "2026-08-24T10:05:17.495Z",
   "initialized": true,
   "summaryVersion": 4
 }
