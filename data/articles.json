@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "b236160278c477b42f3f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
+      "url": "https://www.macrumors.com/2026/08/24/apple-releases-ios-27-public-beta-5/",
+      "publishedAt": "2026-08-24T22:51:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Cool.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iOS 27などの各パブリックベータ5を公開",
+      "summaryJa": "Appleは、対応デバイスを持つ一般ユーザー向けに「iOS 27」「iPadOS 27」「tvOS 27」および「macOS Golden Gate」のパブリックベータ5をリリースしました。開発者向けベータの数時間後、前回から約1週間ぶりの提供となります。テストプロセスが終盤に近づいており、今回のベータ版では目立った新機能は発見されていません。"
+    },
+    {
       "id": "ebc1219364777e965f9d",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "ティム・クックCEOが退任を前に自身の遺産について語る",
       "summaryJa": "Appleのティム・クックCEOが退任を控えた最後の数週間の中で、CBS Newsのインタビューに応じ、自身のリーダーシップの遺産について語りました。クック氏は、自身の遺産は他者が決めるものであり、人々から「良識ある誠実な人間だった」と言ってもらえることが自身の達成感につながると述べています。"
-    },
-    {
-      "id": "3b165ec8ff5cffba0cc7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s China AI strategy now includes training its own custom model, per report",
-      "url": "https://9to5mac.com/2026/08/14/apples-china-ai-strategy-now-includes-training-its-own-custom-model-per-report/",
-      "publishedAt": "2026-08-14T14:11:02.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、中国市場向けAI戦略で独自の大規模言語モデルを開発か",
-      "summaryJa": "Appleが中国市場でのAI機能提供に向けて、アリババの協力を得て独自の大規模言語モデルの訓練を進めていると報じられています。中国本土ではChatGPTなどの利用が制限されているため、これまでのサードパーティ製モデルに依存する戦略から方針を転換し、独自のモデル開発に踏み切った模様です。Apple Intelligenceの中国での展開は、今後のiOSアップデートを通じて数ヶ月以内に実現すると期待されています。"
     }
   ],
-  "updatedAt": "2026-08-24T22:47:16.978Z",
+  "updatedAt": "2026-08-24T23:13:22.071Z",
   "initialized": true,
   "summaryVersion": 4
 }
