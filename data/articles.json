@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "3bde08bfe00b3556a337",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI announces the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://9to5mac.com/2026/08/25/openai-announces-the-admin-plugin-for-chatgpt-work-and-codex/",
+      "publishedAt": "2026-08-25T20:56:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-teal.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、ChatGPT Work向けの管理者向けプラグインを公開",
+      "summaryJa": "OpenAIは、ChatGPT WorkおよびCodex向けに新しい「Adminプラグイン」を発表しました。このツールにより、ワークスペースの管理者は会話形式で直接ユーザーの管理、権限の設定、利用状況の分析、レポートの作成などが可能になります。日常的なタスクの効率化や、チームの利用制限の調整などをスムーズに行えるようになります。"
+    },
+    {
       "id": "d296325dfefd2c4fbf73",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4491,24 +4506,9 @@
       ],
       "titleJa": "Apple、開発者向けにiOS 27とiPadOS 27のベータ6を公開",
       "summaryJa": "Appleは登録開発者向けにiOS 27とiPadOS 27の第6ベータ版の提供を開始しました。前回のベータ版から1週間でのリリースとなり、AIを活用した新しいSiri機能やシステム全体のパフォーマンス改善などがテストされています。正式公開に向け、細かな調整と安定性の検証が進められています。"
-    },
-    {
-      "id": "aaca1c18a5f3be3f2623",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "macOS 27 Golden Gate developer beta 6 now available to developers",
-      "url": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-developer-beta-6-now-available-to-developers/",
-      "publishedAt": "2026-08-17T17:19:01.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/macOS-27-b6.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOS 27 開発者向けベータ6を配信開始",
-      "summaryJa": "Appleは正式リリースを控え、開発者向けに「macOS 27 Golden Gate」のベータ6をリリースしました。前回のベータ版から1週間での迅速な配信となっており、専用のSiriアプリの追加やデザインの統一、各種AI機能の統合に向けたパフォーマンスの最終調整が行われています。"
     }
   ],
-  "updatedAt": "2026-08-25T20:52:17.223Z",
+  "updatedAt": "2026-08-25T21:21:16.163Z",
   "initialized": true,
   "summaryVersion": 4
 }
