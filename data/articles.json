@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "4ad2ff9e828c4c2cbe9f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp announces three ways to make accounts more secure",
+      "url": "https://9to5mac.com/2026/08/25/whatsapp-announces-three-ways-to-make-accounts-more-secure/",
+      "publishedAt": "2026-08-25T20:10:26.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/whatsapp-security.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp、アカウントのセキュリティを強化する複数の新機能を発表",
+      "summaryJa": "MetaはWhatsAppのセキュリティを強化する新たな機能を複数発表しました。同一アカウントでの複数パスキーのサポート拡大や、英数字の特殊文字にも対応するより強力な二段階認証が導入されます。また、Android向けには未知の番号からの通話に対する安全性や詳細情報を高める新機能も追加されています。"
+    },
+    {
+      "id": "f14ad343a1939a3398ab",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Three new Macs are launching this fall, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/08/25/three-new-macs-are-launching-this-fall-heres-whats-coming/",
+      "publishedAt": "2026-08-25T19:54:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/macbook-pro-touch-bar-gold-glow.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "今秋登場か、新モデルのMacに関する噂が浮上",
+      "summaryJa": "Appleが新型Macの投入を進めていると報じられています。今秋にはM6チップを搭載したMacBook Proや、新型デザインに有機ELディスプレイやタッチスクリーンを搭載したハイエンドMac、さらにM6チップを採用する新型iMacなどの登場が噂されており、今後の展開に注目が集まっています。"
+    },
+    {
       "id": "6303f4824883f63c07aa",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4476,39 +4506,9 @@
       ],
       "titleJa": "Apple、macOS Golden Gate ベータ6を開発者向けに公開",
       "summaryJa": "Appleは開発者向けに「macOS Golden Gate」のベータ6を提供開始しました。デザイン面では液状ガラスの不透明度調整スライダーやウィンドウのシャドウ効果が改良され、可視性が向上しています。また、チャット形式の新しいSiri AIやビジュアルインテリジェンス、写真アプリのAI編集ツールなど多彩な新機能がテストされています。"
-    },
-    {
-      "id": "153210d26003e6be21d6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds watchOS 27 Beta 6 to Developers",
-      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-watchos-27-beta-6-to-developers/",
-      "publishedAt": "2026-08-17T17:17:40.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、watchOS 27 ベータ6を開発者向けにリリース",
-      "summaryJa": "AppleはwatchOS 27のベータ6を開発者向けに配信開始しました。対応するApple Watch向けに、自然な会話やパーソナルデータ活用が可能な新機能「Siri AI」をはじめ、スマートスタックの改善や新しいワークアウト機能などがテストされています。なお、Apple Watch Ultra 3を除く対応モデルで利用可能です。"
-    },
-    {
-      "id": "26d9075da8592a6cbaf3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds tvOS 27 Beta 6 to Developers",
-      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-tvos-27-beta-6-to-developers/",
-      "publishedAt": "2026-08-17T17:16:22.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/tvOS-27-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、tvOS 27 ベータ6を開発者向けに配信",
-      "summaryJa": "AppleはApple TV向けにtvOS 27のベータ6を開発者向けに公開しました。他のOSアップデートと比較して新機能は少なめですが、再設計されたポッドキャストアプリ、文字サイズ拡大オプション、より応答性の高いコントロールセンターなどが追加されています。また、AirPlayの接続速度向上やアニメーションの滑らかさも改善されています。"
     }
   ],
-  "updatedAt": "2026-08-25T19:46:19.320Z",
+  "updatedAt": "2026-08-25T20:15:51.853Z",
   "initialized": true,
   "summaryVersion": 4
 }
