@@ -1,6 +1,133 @@
 {
   "articles": [
     {
+      "id": "eca9506ff70b552d6265",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、M5 MaxとM5 Ultraを搭載した新しいMac Studioを発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "publishedAt": "2026-08-25T14:00:45.049Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、M5 MaxとM5 Ultraを搭載した新しいMac Studioを発表",
+      "summaryJa": "Appleは、M5 Maxと新しいM5 Ultraを搭載し、AIパフォーマンスの驚異的な飛躍とさらに高速なグラフィックスをもたらす、新しいMac Studioを発表しました。 プレスリリース 2026 年 8 月 25 日 Apple、オンデバイスAIと極めて負荷の高いプロのワークフローのための究極のデスクトップ、M5 MaxとM5 Ultraを搭載した新しいMac Studioを発表 Appleの最もパワフルなMacは、最大4.3倍高速なパフォーマンスと、さらに進化したグラフィックス、最大512GBのユニファイドメモリ、豊富な接続性を備え、ローカルAIの基準を引き上げます Appleは、M5 MaxとM5 Ultraを搭載した、Mac史上最もパワフルな新しいMac Studioを発表しました。 カリフォルニア州クパティーノ Appleは本日、M5 Maxと新しいM5 Ultraを搭載した新しいMac Studioを発表しました。最も負荷の高いプロのワークフローに、AIパフォーマンスの驚異的な飛躍とさらに高速なグラフィックスを提供し、これらすべてを、ユーザーのデスク上にすっきりと収まる特徴的でコンパクトなデザインに詰め込みました。最大4.3倍高速なAIパフォーマンス1、最大2倍高速なストレージ2、最大1.8倍高速なグラフィックス1、最大1.3倍高速なCPU速度1に加え、より高いメモリ帯域幅を備えたMac Studioは、クリエイター、デベロッパ、AI研究者、データサイエンティストなどに、できることの限界を押し広げるための力を与えます。M5 Max搭載のMac Studioは、18コアCPU、各コアにNeural Acceleratorを組み込み、最大40コアのGPU、最大128GBのユニファイドメモリを備え、複雑なプロのワークロードやAIワークロードを加速させます。パワフル",
+      "translationStatus": "source"
+    },
+    {
+      "id": "80d02beafbb9ca6a35cf",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases New Polishing Cloth",
+      "url": "https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/",
+      "publishedAt": "2026-08-25T13:50:36.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-Polishing-Cloth-Gradient.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Releases New Polishing Cloth",
+      "summaryJa": "Apple today released a new version of its Polishing Cloth on its online store. In the U.S., pricing is now set at $9, down from $19 for the previous version of the cloth. We have yet to determine if the new Polishing Cloth is smaller than the original or has any other notable changes beyond lower pricing. Apple says the cloth continues to be made with soft, nonabrasive material that can be used to clean any Apple display, including those with a nano-texture coating. Tag: Polishing Cloth This article, \" Apple Releases New Polishing Cloth \" first appeared on MacRumors.com Discuss this article in our forums",
+      "translationStatus": "source"
+    },
+    {
+      "id": "761991b19ddfe12dfec7",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's New Mac Mini and Mac Studio Are Now Available to Pre-Order",
+      "url": "https://www.macrumors.com/2026/08/25/apples-mac-mini-mac-studio-available-pre-order/",
+      "publishedAt": "2026-08-25T13:45:35.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple's New Mac Mini and Mac Studio Are Now Available to Pre-Order",
+      "summaryJa": "Apple today announced a new Mac mini and Mac Studio , and pre-orders for both are already live on Apple's online store and in the Apple Store app in the United States and 30 other countries and regions. Most configurations ship Tuesday, September 22, which is also when the new models will be available to buy in Apple Store locations and at Apple Authorized Resellers. Both Mac mini models cost more than the machines they replace for reasons that should be familiar by now. The rapid buildout of AI data centers has pushed up demand for memory and storage chips across the tech industry, and Apple in June raised the M4 Pro Mac mini to $1,599, up from the $1,399 it launched at in October 2024. The M5 Pro version adds another $100 on top of that. Model Starting price Education price Base memory/s",
+      "translationStatus": "source"
+    },
+    {
+      "id": "1d542f2779bd9cf6cd14",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple outlines 50 ways to make devices easier to use as we age",
+      "url": "https://9to5mac.com/2026/08/25/apple-outlines-50-ways-to-make-devices-easier-to-use-as-we-age/",
+      "publishedAt": "2026-08-25T13:30:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-outlines-50-ways-to-make-devices-easier-to-use-as-we-age.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple outlines 50 ways to make devices easier to use as we age",
+      "summaryJa": "Apple hit its 50th birthday this year, and many of its customers are even older. The company has created a new support page outlining 50 ways to make its devices easier to use, mostly using accessibility settings. These range from changing the size of text on an Apple Watch to having your iPhone alert you when your washing machine cycle is complete … Apple hit its 50th birthday this year, and many of its customers are even older. The company has created a new support page outlining 50 ways to make its devices easier to use, mostly using accessibility settings. These range from changing the size of text on an Apple Watch to having your iPhone alert you when your washing machine cycle is complete … Apple says that it aims to make its technology accessible to everyone, including older adults.",
+      "translationStatus": "source"
+    },
+    {
+      "id": "d3e5195773e8b2a0a62c",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、新しいM6とM5 Proを搭載し、さらにパワフルになったMac miniを発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "publishedAt": "2026-08-25T13:13:33.729Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、M6とM5 Proチップを搭載した新しいMac miniを発表",
+      "summaryJa": "Appleは、新しいM6およびM5 Proチップを搭載し、パフォーマンスとAI処理能力を飛躍的に向上させた新しいMac miniを発表しました。M6モデルは最大4倍高速なAIパフォーマンスや2倍高速なグラフィックスを備え、コンパクトなボディでありながら優れた処理能力を発揮します。新しいMac miniは本日より予約注文が開始され、9月22日に発売されます。"
+    },
+    {
+      "id": "d66fda92c59ab59b41e7",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Debuts M5 Ultra as Most Powerful Chip Ever",
+      "url": "https://www.macrumors.com/2026/08/25/apple-debuts-m5-ultra/",
+      "publishedAt": "2026-08-25T13:12:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/m5-ultra-chip.png",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、史上最もパワフルなチップ「M5 Ultra」を発表",
+      "summaryJa": "Appleは、同社史上最も強力なチップとなる「M5 Ultra」を発表しました。クアッドダイアーキテクチャを採用し、最大36コアのCPUや80コアのGPU、最大512GBのユニファイドメモリをサポートしています。このチップは新しいMac Studioにのみ搭載され、本日から予約注文を受け付けています。"
+    },
+    {
+      "id": "be6a4983a23ce156d145",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Announces New Mac Mini With M6 and M5 Pro Chips and More",
+      "url": "https://www.macrumors.com/2026/08/25/apple-announces-2026-mac-mini/",
+      "publishedAt": "2026-08-25T13:11:44.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/06/mac-mini-orange.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、M6およびM5 Pro搭載の新型Mac miniを発表",
+      "summaryJa": "Appleは次世代のMac miniを発表し、新開発のM6チップまたはM5 Proチップを選択可能にしました。M6チップは12コアのCPUとGPUを備え、AIタスクで前世代比最大4倍のパフォーマンスを実現しています。米国での価格はM6モデルが899ドルから、M5 Proモデルが1,699ドルからとなっています。"
+    },
+    {
+      "id": "0f1ce67b2129e0b8ac47",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、パフォーマンスとAI演算の大幅な向上をもたらすM6とM5 Ultraを発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "publishedAt": "2026-08-25T13:08:09.315Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、パフォーマンスとAI演算を強化するM6およびM5 Ultraを発表",
+      "summaryJa": "Appleは、Mac mini向けの「M6」とMac Studio向けの「M5 Ultra」という2つの新しいAppleシリコンを発表しました。M6はApple初の2ナノメートルチップで、デュアル16コアNeural EngineによりAI処理が大幅に強化されています。一方のM5 Ultraは、クアッドダイアーキテクチャによって圧倒的なデスクトップパフォーマンスを提供します。"
+    },
+    {
       "id": "22a9989a0ff0694443c6",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -13,7 +140,23 @@
         "噂"
       ],
       "titleJa": "Apple Announces New Mac Studio With M5 Ultra Chip",
-      "summaryJa": "Apple today announced a new Mac Studio powered by the M5 Ultra chip, which the company says is its most powerful chip ever. The M5 Ultra is built by connecting two dual-die M5 Max chips using Apple's next-generation UltraFusion technology, which increases inter-die bandwidth to over 4.4TB/s and connection density by more than 6x, allowing the four dies to function as a single processor. More to follow... Related Roundup: Mac Studio Buyer's Guide: Mac Studio (Don't Buy) Related Forum: Mac Studio This article, \" Apple Announces New Mac Studio With M5 Ultra Chip \" first appeared on MacRumors.com Discuss this article in our forums",
+      "summaryJa": "Apple today announced a new Mac Studio powered by the M5 Ultra chip, which the company says is its most powerful chip ever. The M5 Ultra is built by connecting two dual-die M5 Max chips using Apple's next-generation UltraFusion technology, which increases inter-die bandwidth to over 4.4TB/s and connection density by more than 6x, allowing the four dies to function as a single processor. More to follow... Related Roundup: Mac Studio Buyer's Guide: Mac Studio (Don't Buy) Related Forum: Mac Studio This article, \" Apple Announces New Mac Studio With M5 Ultra Chip \" first appeared on MacRumors.com Discuss this article in our forums Apple Unveils New Mac Studio With M5 Max and M5 Ultra ChipsTuesday August 25, 2026 6:13 am PDT by Hartley CharltonApple today announced new Mac Studio models with th",
+      "translationStatus": "source"
+    },
+    {
+      "id": "e71ba707fdd503a77436",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Reveals M6 as First-Ever 2nm Chip",
+      "url": "https://www.macrumors.com/2026/08/25/apple-reveals-m6/",
+      "publishedAt": "2026-08-25T13:05:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/m6-chip.png",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Reveals M6 as First-Ever 2nm Chip",
+      "summaryJa": "Apple today announced the M6 chip, its first built using a 2-nanometer process and featuring a Dual 16-core Neural Engine. Apple says the 2nm process packs greater transistor density into a smaller die, contributing to the chip's overall gains in performance and power efficiency. The M6 chip features a larger, more powerful 12-core CPU, two more cores than the M5, made up of two super cores, four performance cores, and six efficiency cores. Apple says the chip delivers the world's fastest single-threaded performance and up to 1.2x faster multithreaded performance than the M5, and up to 2.4x faster than the M1 . The chip also features a 12-core GPU, with two more cores than the M5, with a Neural Accelerator built into each core. Apple says this delivers nearly a 30% increase in peak GPU com",
       "translationStatus": "source"
     },
     {
@@ -4376,144 +4519,9 @@
       ],
       "titleJa": "Macの画面共有機能に深刻な脆弱性、悪用の報告を受けて早急なアップデートを呼びかけ",
       "summaryJa": "Appleが修正したmacOSの画面共有機能における深刻な脆弱性について、実際に悪用されている事例が確認されたと報じられています。ネットワーク上の攻撃者が認証を迂回してシステムに侵入し、仮想通貨マイニングツールなどが設置される被害が報告されました。対象となるmacOSバージョンを利用しているユーザーは、速やかに最新版へアップデートすることが強く推奨されます。"
-    },
-    {
-      "id": "e29270f53678f3c463e6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Fitness+ could be getting live sessions, but probably not",
-      "url": "https://9to5mac.com/2026/08/17/apple-fitness-could-be-getting-live-sessions-but-probably-not/",
-      "publishedAt": "2026-08-17T11:10:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-fitness-plus-multidevice.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Fitness+でライブセッションが導入される可能性か",
-      "summaryJa": "Appleの求人情報から、Apple Fitness+でライブセッションが計画されているのではないかと報じられています。スタジオプロデューサーの募集において、ライブ制作の豊富な経験や新しいフォーマットへの挑戦が求められています。ただし、事前収録のコンテンツが主流となっている現状から、実際の導入については慎重な見方も示されています。"
-    },
-    {
-      "id": "485d05d00aec101bb41d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Job Listing Suggests Apple Fitness+ Could Get Live Content",
-      "url": "https://www.macrumors.com/2026/08/17/apple-fitness-could-get-live-content/",
-      "publishedAt": "2026-08-17T08:02:07.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2022/05/apple-fitness-plus-feature-magenta.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Fitness+にライブ配信コンテンツが導入される可能性か",
-      "summaryJa": "Appleが「Fitness+」サービス向けに、ライブ制作の背景を持つスタジオプロデューサーの求人を出していることが分かりました。現在のFitness+は事前収録されたオンデマンドのワークアウト動画を中心に提供していますが、今回の求人ではライブマルチカメラ制作の経験や新しいフォーマットへの挑戦が求められています。サービスの見直しが進む中、今後の展開としてライブ配信機能が追加されるのではないかと注目されています。"
-    },
-    {
-      "id": "f88c7afc6fe454ae8434",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "It’s time for iOS to have its own Material You",
-      "url": "https://9to5mac.com/2026/08/16/its-time-for-ios-to-have-its-own-material-you/",
-      "publishedAt": "2026-08-16T17:33:48.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/ios-26-app-icon-tint-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOSにも独自の「Material You」風システムカラー機能を導入すべきか",
-      "summaryJa": "Appleは長年にわたりiOSのカスタマイズ性を高めており、ロック画面のパーソナライズやアイコンのカラー変更機能などを追加してきました。ホーム画面ですでにアイコンのカラーを変更できるのであれば、それをOS全体に拡張し、Androidの「Material You」のようなシステム全体のテーマカラー機能を取り入れるのが自然な次のステップではないかと提案されています。Macではすでにサードパーティアプリ向けにシステム全体のアクセントカラー設定が用意されており、今後のiOSでのさらなるカスタマイズ拡充に期待が寄せられています。"
-    },
-    {
-      "id": "5e876e5fb2af87cc9bf4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirPods 4 ANC Hit $134.99 Low Price on Amazon, Plus Pro 3 for $189.99",
-      "url": "https://www.macrumors.com/2026/08/16/airpods-4-anc-hit-134/",
-      "publishedAt": "2026-08-16T14:18:36.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/10/airpods-4-prime-day-fall.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AmazonでAirPods 4やProがセール価格に",
-      "summaryJa": "Amazonにおいて、アクティブノイズキャンセリングを搭載したAirPods 4が割引価格で販売されています。また、ベースモデルのAirPods 4や最新のAirPods Proも対象となり、それぞれお得な価格で購入可能です。在庫や配送予定日は時期によって異なるため、購入の際は公式サイトを確認することをおすすめします。"
-    },
-    {
-      "id": "c940739b6e60e0568ef0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Indie App Spotlight: ‘Notepad.exe’ is an ultra-fast, lightweight code editor for your Mac",
-      "url": "https://9to5mac.com/2026/08/15/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-editor-for-your-mac/",
-      "publishedAt": "2026-08-15T19:30:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/IMG_0048.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Mac向け軽量コードエディタ「Notepad.exe」が登場",
-      "summaryJa": "Notepad.exeは、プロジェクトの初期設定なしに空白のファイルから素早くコードを書き始められるMac向けの軽量コードエディタです。Xcodeに似た親しみやすいUIを備え、SwiftやPython、JavaScriptなど主要な言語を標準でサポートしています。さらに、コードベースのトラブルシューティングを行えるAIアシスタント機能や、テキストエディタ内にシミュレータを表示する機能も搭載されています。"
-    },
-    {
-      "id": "6a78b50cf092824e6f25",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple has a huge product roadmap for the smart home: Here’s what’s coming",
-      "url": "https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display/",
-      "publishedAt": "2026-08-15T16:08:09.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/ai-siri-homepod.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleのスマートホーム製品ロードマップ、新製品の動向",
-      "summaryJa": "Appleのスマートホーム製品であるHomePod miniやApple TVが間もなく刷新される見通しです。SiriのAI機能対応を見据え、HomePod miniはチップの刷新や新カラーの追加が、Apple TV 4KはA17 Proチップの搭載などが噂されています。今秋以降の登場が期待されており、音声アシスタントとしての能力向上が注目されています。"
-    },
-    {
-      "id": "4b30ca925463955fdc13",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Delete your family’s personal data from the internet with a 55% discount on Incogni",
-      "url": "https://9to5mac.com/2026/08/15/delete-your-familys-personal-data-from-internet-55-discount-incogni/",
-      "publishedAt": "2026-08-15T16:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Incogni-discount-code.webp?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Incogniの個人データ削除サービス、割引提供を実施",
-      "summaryJa": "アメリカでは企業の個人データ売買が合法となっており、個人のプライバシーが脅かされています。Appleは様々なプライバシー保護機能を提供していますが、すでに流出したデータの削除には対応していません。データ削除代行サービス「Incogni」を利用することで、ネット上から個人情報を効果的に削除することが可能です。"
-    },
-    {
-      "id": "754ebe2ad0b7b946577e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple @ Work: Understanding Apple Business Manager roles and permissions",
-      "url": "https://9to5mac.com/2026/08/15/apple-work-understanding-apple-business-manager-roles-and-permissions/",
-      "publishedAt": "2026-08-15T14:06:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Business Managerの役割と権限の仕組み",
-      "summaryJa": "WWDCで発表されたApple Business APIの拡張について解説しています。このアップデートにより、IT管理者はAPIを介してデバイス情報の取得や監査イベントの確認、デバイスの割り当てが可能になりました。企業向けシステム構築に役立つ機能ですが、適切な設定には注意が必要であると開発者から報告されています。"
-    },
-    {
-      "id": "b73b5b972aaf2b3f3531",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "These are my favorite ultra-slim iPhone accessories for 2026 [Video]",
-      "url": "https://9to5mac.com/2026/08/15/these-are-my-favorite-ultra-slim-iphone-accessories-for-2026-video/",
-      "publishedAt": "2026-08-15T14:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/edc.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "極薄で多機能なiPhone向けおすすめアクセサリー選",
-      "summaryJa": "日常の持ち歩きに最適な、極薄かつ多機能なiPhone向けアクセサリーの数々を紹介しています。カメラ部分と同じほどの薄さを実現しながら、スタンドや指を通すグリップ機能を備えたアイテムなどが取り上げられており、ワイヤレス充電にも対応しています。かさばらずに利便性を高めたいユーザーに向けた、注目のコンパクトな周辺機器です。"
     }
   ],
-  "updatedAt": "2026-08-25T13:10:19.155Z",
+  "updatedAt": "2026-08-25T14:08:29.358Z",
   "initialized": true,
   "summaryVersion": 4
 }
