@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "27134ef21b7e4e91cef3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work Podcast: Breaking down Apple’s bug bounty cap and cool down period",
+      "url": "https://9to5mac.com/2026/08/25/breaking-down-apples-bug-bounty-cap-and-cool-down-period/",
+      "publishedAt": "2026-08-25T10:23:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleのバグ報奨金プログラム変更とクールダウン期間の導入",
+      "summaryJa": "Apple @ Workポッドキャストの最新エピソードでは、Appleがセキュリティのバグ報奨金プログラムに導入したクールダウン期間や報酬上限の変更について詳しく解説しています。AI生成による不具合報告の急増に対応するための新たな取り組みの背景に迫っています。"
+    },
+    {
       "id": "309057496692ee1b77a8",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "Anthropic、「Claude Code」の自動モードをデフォルト権限に変更",
       "summaryJa": "Anthropicは、開発者向けツール「Claude Code」の自動モードを、Pro、Max、Teamプランのユーザー向けにデフォルトの権限設定として適用開始しました。このモードでは、危険な操作がないかを分類器が自動でチェックするため、繰り返しの承認プロンプトを省いて作業効率を高めることができます。"
-    },
-    {
-      "id": "f8dda2de28aa26b0e6f3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Review: TerraMow V1000 is the easiest iPhone-controlled robot lawn mower I’ve tested",
-      "url": "https://9to5mac.com/2026/08/14/review-terramow-v1000-is-the-easiest-iphone-controlled-robot-lawn-mower-ive-tested/",
-      "publishedAt": "2026-08-14T17:15:57.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/terramow-v1000-lead-01-iphone-control.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhoneで操作するロボット芝刈り機「TerraMow V1000」の使いやすさ",
-      "summaryJa": "TerraMow V1000は、カメラベースの自動マッピングシステム「TerraVision 2.0」を搭載したiPhone対応のロボット芝刈り機です。従来の機種とは異なり、手動での境界線づくりや埋め込みワイヤーが不要で、庭のマップを自動で作成できます。数週間のテストを経て、技術的な設定が苦手なユーザーにとっても非常に扱いやすい選択肢であることが確認されています。"
     }
   ],
-  "updatedAt": "2026-08-25T10:20:58.371Z",
+  "updatedAt": "2026-08-25T10:57:08.903Z",
   "initialized": true,
   "summaryVersion": 4
 }
