@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "dc1bf87bea847cec4c23",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple shares behind-the-scenes video for its fun new Mac mini ad",
+      "url": "https://9to5mac.com/2026/08/25/apple-shares-behind-the-scenes-video-for-its-fun-new-mac-mini-ad/",
+      "publishedAt": "2026-08-25T23:26:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-ad.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、新しいMac mini広告の舞台裏動画を公開",
+      "summaryJa": "Appleは新しいMac miniのプロモーション動画の制作舞台裏を紹介するショート動画を公式Instagramで公開しました。動画ではアニメーターやアートディレクターらが登場し、すべて手作業で彫刻や小道具を作り上げた気の遠くなるような制作プロセスやストップモーションの技術を披露しています。実写と手作業にこだわった丁寧なメイキング映像を確認できます。"
+    },
+    {
       "id": "6bb9143476109d828661",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4491,24 +4506,9 @@
       ],
       "titleJa": "Apple、macOS Tahoe 26.7とmacOS Sequoia 15.8のRC版をリリース",
       "summaryJa": "AppleがmacOS Tahoe 26.7およびmacOS Sequoia 15.8のリリース候補（RC）版を公開しました。主な内容は重要なセキュリティ修正となっており、ユーザーに適用が推奨されています。AIツールなどの活用により脆弱性への対応ペースが加速しています。"
-    },
-    {
-      "id": "ed201fd057b6bd688e08",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases iOS 26.6.1, macOS 26.6.2, and More",
-      "url": "https://www.macrumors.com/2026/08/17/apple-releases-ios-26-6-1-and-more/",
-      "publishedAt": "2026-08-17T17:52:15.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iOS-26-6-1-iPhone.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iOS 26.6.1やmacOS 26.6.2などをリリース",
-      "summaryJa": "Appleはセキュリティ修正を含むiOS 26.6.1、iPadOS 26.6.1、visionOS 26.6.1、macOS 26.6.2に加え、iOS/iPadOS 18.7.10を配信開始しました。具体的なセキュリティ修正の内容については、間もなく公開される予定です。各アップデートには、先週提供されたリリース候補版とは異なる新しいビルド番号が付与されています。"
     }
   ],
-  "updatedAt": "2026-08-25T23:17:43.734Z",
+  "updatedAt": "2026-08-25T23:45:22.979Z",
   "initialized": true,
   "summaryVersion": 4
 }
