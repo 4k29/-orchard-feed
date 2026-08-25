@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "309057496692ee1b77a8",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New iPad Mini With Four Upgrades Expected to Launch by Late October",
+      "url": "https://www.macrumors.com/2026/08/24/new-ipad-mini-by-end-of-october-report/",
+      "publishedAt": "2026-08-25T03:33:31.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/10/ipad-mini-7-feature-red-and-blue.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "有機EL搭載の新型iPad miniが10月下旬にも登場か",
+      "summaryJa": "Appleが有機ELディスプレイを搭載した新型iPad miniを10月下旬にも発売する予定であると報じられています。次期モデルではOLED化による画質向上のほか、スピーカーシステムの刷新や防水性能の向上が見込まれており、価格が上昇する可能性があります。"
+    },
+    {
+      "id": "8f07281d9b0b81e1f6b1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirPods 5 to Launch as Early as Next Month",
+      "url": "https://www.macrumors.com/2026/08/24/airpods-5-to-launch-as-early-as-next-month/",
+      "publishedAt": "2026-08-25T03:00:32.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/airpods-4-new-new-orange.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型AirPods 5が早ければ来月にも発表か",
+      "summaryJa": "Appleが早ければ9月にも2つの新型AirPods 5モデルを発表する計画であると報じられています。アクティブノイズキャンセリング搭載モデルと非搭載モデルが用意される見込みで、次回のiPhoneイベントでの発表が噂されています。"
+    },
+    {
+      "id": "e0b345ce2b031339ccba",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple could debut two AirPods 5 models next month, per report",
+      "url": "https://9to5mac.com/2026/08/24/apple-could-debut-two-airpods-5-models-next-month-per-report/",
+      "publishedAt": "2026-08-25T02:56:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、来月開催のイベントでAirPods 5などを発表か",
+      "summaryJa": "Appleが来月開催されるとみられるiPhoneイベントにおいて、早ければAirPods 5を発表する可能性があると報じられています。AirPods 5には通常モデルとノイズキャンセリング搭載モデルが用意され、カメラ搭載型は来年以降になると伝えられています。"
+    },
+    {
       "id": "203158994c96c671ef23",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -29,6 +74,21 @@
       ],
       "titleJa": "次期Mac miniが9月のiPhoneイベント前に登場する可能性",
       "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、Appleは数日以内に新型Mac miniを発表する見込みです。AIモデルの実行による需要増に伴い供給がひっぱくしているほか、米ヒューストンでの製造開始との関連性についても注目を集めています。"
+    },
+    {
+      "id": "3edef13b8541de883699",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Reportedly Will Announce iPhone 18 Pro Event Date This Week",
+      "url": "https://www.macrumors.com/2026/08/24/apple-invites-iphone-18-pro-event-soon/",
+      "publishedAt": "2026-08-25T02:15:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Apple-Event-Logo.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhone 18 Pro発表イベントの招待状を今週送付か",
+      "summaryJa": "Appleが恒例のiPhone発表イベントの招待状を今週中にも送付する予定であると報じられています。イベントは9月9日に開催される見込みで、iPhone 18 Proシリーズや折りたたみiPhoneに加え、新型Apple WatchやAirPods 5などが発表されると予想されています。"
     },
     {
       "id": "44bc5223f47e3a36abeb",
@@ -4443,69 +4503,9 @@
       ],
       "titleJa": "iPhoneで操作するロボット芝刈り機「TerraMow V1000」の使いやすさ",
       "summaryJa": "TerraMow V1000は、カメラベースの自動マッピングシステム「TerraVision 2.0」を搭載したiPhone対応のロボット芝刈り機です。従来の機種とは異なり、手動での境界線づくりや埋め込みワイヤーが不要で、庭のマップを自動で作成できます。数週間のテストを経て、技術的な設定が苦手なユーザーにとっても非常に扱いやすい選択肢であることが確認されています。"
-    },
-    {
-      "id": "4abb9fcc15c2738f40d4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Overtime 077: Smart glasses are the future",
-      "url": "https://9to5mac.com/2026/08/14/9to5mac-overtime-077-smart-glasses-are-the-future-even-realities-g2-ceo-will-wang/",
-      "publishedAt": "2026-08-14T16:58:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/OT-glasses.png?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "スマートグラスの未来とAppleエコシステムを語る",
-      "summaryJa": "ポッドキャスト番組9to5Mac Overtimeの最新回にEven RealitiesのCEOであるウィル・ワン氏がゲスト出演しました。Appleでの経歴やサプライチェーンの裏側、ハードウェアイノベーションの現在地について語られています。さらに、スマートグラスがテクノロジーの未来をどのように変えていくのか、プライバシーの課題を含めて議論が展開されています。"
-    },
-    {
-      "id": "b943f299a1a4dbd76c59",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "The MacRumors Show: Where Does the Apple Watch Go Next?",
-      "url": "https://www.macrumors.com/2026/08/14/the-macrumors-show-where-does-the-apple-watch-go-next/",
-      "publishedAt": "2026-08-14T16:35:14.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "次期Apple Watchの動向と将来の大型刷新の噂",
-      "summaryJa": "次世代のApple Watchは小幅なアップグレードになると予想される一方で、将来的に製品史上最大級のデザイン刷新が行われる可能性があると報じられています。Bloombergのマーク・ガーマン記者によれば、かつて廃止されたホワイトセラミックケースが復活する計画もあるようです。また、次期モデルではパフォーマンスの向上が見込まれるほか、新たなバンドやヘルスケア機能のアップデートが期待されています。"
-    },
-    {
-      "id": "b274969b70e8d64ac8d3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "No new Apple Watch faces in watchOS 27 (yet), but here’s one I’ve been loving",
-      "url": "https://9to5mac.com/2026/08/14/no-new-apple-watch-faces-in-watchos-27-yet-but-heres-one-ive-been-loving/",
-      "publishedAt": "2026-08-14T16:13:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-modular-face.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "watchOSの文字盤をシンプルに活用する方法",
-      "summaryJa": "watchOSでは新しい文字盤の追加がなくても、既存の文字盤をカスタマイズして楽しむことができます。Apple Watch Ultra向けの「モジュラーウルトラ」文字盤をあえて情報を絞ってシンプルに使うことで、洗練されたデザインと視認性を両立させています。必要最小限のコンプリケーションだけを配置し、余白を活かしたスタイリッシュな活用法が紹介されています。"
-    },
-    {
-      "id": "915f95faacdef3c135b8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: M5 MacBook Air from $1,099 ($200 off), MacBook Neo $120 off, AirPods Pro 3/Max 2, Beats 240W cable, more",
-      "url": "https://9to5mac.com/2026/08/14/deals-m5-macbook-air-macbook-neo-airpods-pro-3-max-2/",
-      "publishedAt": "2026-08-14T15:43:17.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-M5-MacBook-Air-AirPods-Pro-3-Ultra-3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "M5搭載MacBook Airが公式整備済製品で200ドル引きに",
-      "summaryJa": "Appleの公式整備済製品ストアにおいて、13インチのM5搭載MacBook Airが200ドル引きの1099ドルで販売されています。3色のカラーが用意されていますが、人気のためすぐに売り切れる傾向があります。また、AirPods Pro 3やAirPods Max 2などのセール情報もあわせて伝えられています。"
     }
   ],
-  "updatedAt": "2026-08-25T02:49:48.068Z",
+  "updatedAt": "2026-08-25T03:39:08.735Z",
   "initialized": true,
   "summaryVersion": 4
 }
