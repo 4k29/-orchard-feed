@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "45f0e71af9e0fbf4cb1e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Trade-In Values Slide Ahead of New Model Launch",
+      "url": "https://www.macrumors.com/2026/08/25/iphone-trade-in-values-slide-ahead-of-launch/",
+      "publishedAt": "2026-08-25T11:27:41.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/05/apple-trade-in-2024.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型iPhone発表直前の下取り価格低下傾向",
+      "summaryJa": "新モデルの発表を控える時期には、多くのiPhoneの下取り価格が発表から発売までの間に下落する傾向があることが調査で分かりました。過去の機種では発表日と発売日の間で大部分のモデルで価値が下がっており、特に旧モデルや一部の大容量モデルで下落幅が目立っています。そのため多くのユーザーは、手元に新しい端末が届いてデータ移行を済ませるまで下取りに出さない選択をしています。"
+    },
+    {
+      "id": "ada153361b33089832ad",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Prepare to wait for Siri AI access when iOS 27 launches next month",
+      "url": "https://9to5mac.com/2026/08/25/prepare-to-wait-for-siri-ai-access-when-ios-27-launches-next-month/",
+      "publishedAt": "2026-08-25T11:01:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Prepare-to-wait-for-Siri-AI-access-when-iOS-27-launches-next-month.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27などのSiri AI機能に待ち行列が導入か",
+      "summaryJa": "来月に正式リリースされるiOS 27やmacOS 27では、新しいSiri AI機能の利用に待機リストが適用されると報じられています。ベータ版と同様に、サーバー容量や需要のバランスに応じてアクセス可能になるまで数週間の待ち時間が発生する可能性があります。製品版では、サーバーから送信されるパーソナライズされた待ち時間メッセージに対応するインフラが追加されています。"
+    },
+    {
       "id": "27134ef21b7e4e91cef3",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4473,39 +4503,9 @@
       ],
       "titleJa": "Apple TV、秋の新作映画公開に向けて過去の名作を多数追加",
       "summaryJa": "Apple TVは、秋に予定されている多数の新作映画の配信を控えて、購読者向けに人気の名作映画を大量に追加しました。今回の追加によりライブラリが一気に拡充され、今秋には受賞を狙う話題作からアクション映画まで幅広いオリジナル作品の配信も控えています。同サービスは月額12.99ドルから提供されています。"
-    },
-    {
-      "id": "657b28bd97a9becf5f72",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "HomeKit Weekly: This iPad app turns your HomeKit setup into a wall-mountable command center",
-      "url": "https://9to5mac.com/2026/08/14/dashboard-for-your-home/",
-      "publishedAt": "2026-08-14T18:11:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Dashboard-for-home-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "古いiPadをスマートホームの壁掛け操作パネルに変えるアプリ",
-      "summaryJa": "使わなくなったiPadを家の中心に設置してスマートホームの操作パネル化できる「Dashboard for your home」アプリが注目を集めています。カメラのライブ映像、サーモスタット、照明、天気予報、カレンダーなどを1つの画面でまとめて管理でき、3Dフロアプラン機能なども搭載されています。"
-    },
-    {
-      "id": "ddc8e6d5771873075ead",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "PSA: Claude Code now enables auto mode as default, Anthropic says",
-      "url": "https://9to5mac.com/2026/08/14/psa-claude-code-enabling-auto-mode-as-default-next-week-anthropic-says/",
-      "publishedAt": "2026-08-14T18:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Anthropic、「Claude Code」の自動モードをデフォルト権限に変更",
-      "summaryJa": "Anthropicは、開発者向けツール「Claude Code」の自動モードを、Pro、Max、Teamプランのユーザー向けにデフォルトの権限設定として適用開始しました。このモードでは、危険な操作がないかを分類器が自動でチェックするため、繰り返しの承認プロンプトを省いて作業効率を高めることができます。"
     }
   ],
-  "updatedAt": "2026-08-25T10:57:08.903Z",
+  "updatedAt": "2026-08-25T11:37:01.472Z",
   "initialized": true,
   "summaryVersion": 4
 }
