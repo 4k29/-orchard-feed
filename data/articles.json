@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "d0261778a16050832df0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple to Release 13 More New Products Later This Year",
+      "url": "https://www.macrumors.com/2026/08/25/apple-13-more-products-later-this-year/",
+      "publishedAt": "2026-08-25T18:03:38.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/10/imac-video-apple-feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、今年後半に13以上の新製品を発売か",
+      "summaryJa": "Appleは今年後半に向けて、iPhone 18 Proシリーズや折りたたみ式iPhone、新しいApple Watch、AirPodsなど、13以上の新製品を準備していると報じられています。次期モデルでは新しいチップの搭載やカメラ機能の向上、セラミックケースのオプションなどが噂されています。詳細な仕様や発売時期については、今後の正式発表が注目されています。"
+    },
+    {
       "id": "ee97d3a761a2b2910c7e",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4491,24 +4506,9 @@
       ],
       "titleJa": "Apple Sports、対応サッカーリーグを拡大",
       "summaryJa": "Appleは「Apple Sports」アプリをアップデートし、オーストリアのブンデスリーガやサウジ・プロフェッショナルリーグなど、新たに複数のサッカーリーグに対応しました。直近1ヶ月間で計14のリーグが追加されたことになります。このアプリは引き続きiPhone向けに提供されています。"
-    },
-    {
-      "id": "862732423ae32841d5ba",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Agrees to Make 'App Tracking Transparency' Changes in Germany",
-      "url": "https://www.macrumors.com/2026/08/17/apple-app-tracking-transparency-changes-germany/",
-      "publishedAt": "2026-08-17T15:46:13.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/12/generic-tracking-prompt-orange.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、ドイツでのATT機能の変更に合意",
-      "summaryJa": "Appleは、ドイツの競争規制当局との間で、アプリのトラッキングの透明性（ATT）に関する表示や表現を一部変更することで合意しました。プライバシー保護を維持しつつ、広告の重要性について開発者がより詳しく説明できるようにし、データ保護法に基づく同意との統合も認められます。今後は、開発者とのテストを経て、通知内容の調整などが約7年間にわたり適用される予定です。"
     }
   ],
-  "updatedAt": "2026-08-25T17:47:03.317Z",
+  "updatedAt": "2026-08-25T18:22:21.286Z",
   "initialized": true,
   "summaryVersion": 4
 }
