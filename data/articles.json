@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "ee97d3a761a2b2910c7e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's 40W Dynamic Power Adapter Expands to More Countries",
+      "url": "https://www.macrumors.com/2026/08/25/apple-40w-dynamic-power-adapter-europe/",
+      "publishedAt": "2026-08-25T17:45:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apples-40W-Dynamic-Power-Adapter-Now-Available-in-Europe-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、40Wダイナミック電源アダプタの提供国を欧州やベトナムへ拡大",
+      "summaryJa": "Appleは新しいMac StudioおよびMac miniの発表に合わせ、40Wダイナミック電源アダプタの対応地域をベトナムや欧州のCタイプ2ピン電源プラグを使用する国々に拡大しました。この電源アダプタは、20W充電器と同じコンパクトなサイズでありながら通常40W、最大60Wの急速充電をサポートし、iPhone 17シリーズやiPad Proなどの急速充電に対応します。価格は多くのユーロ圏の国で45ユーロとなっています。"
+    },
+    {
+      "id": "9fa4fbc6a10a2e3761b4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple just revealed two ways iPhone 18 Pro could get big upgrades",
+      "url": "https://9to5mac.com/2026/08/25/apple-just-revealed-two-ways-iphone-18-pro-could-get-big-upgrades/",
+      "publishedAt": "2026-08-25T17:30:58.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "M6チップの発表から見えてくるiPhone 18 Proの進化と2nmプロセスの期待",
+      "summaryJa": "Appleが発表した次世代のM6チップは、将来的にiPhone 18 ProのA20 Proにも採用される可能性のある血縁のチップです。M6は最先端の2nmプロセス技術を用いて製造されており、優れた電力効率とパフォーマンスの大幅な向上を実現しています。また、最大2倍のピーク演算処理能力を持つデュアル16コアNeural Engineを搭載し、デバイス上のAIワークフローを加速させます。このアーキテクチャの進化により、次期iPhoneのプロセッサでも同様の大幅な性能向上が期待されます。"
+    },
+    {
+      "id": "362e08e78c14eb582b09",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Anthropic update unifies memory feature across Claude Cowork and chat",
+      "url": "https://9to5mac.com/2026/08/25/anthropic-update-unifies-memory-feature-across-claude-cowork-and-chat/",
+      "publishedAt": "2026-08-25T17:20:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/claude-code-auto-mode.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Anthropic、ClaudeのチャットとCowork間で記憶機能を統合",
+      "summaryJa": "Anthropicは、Claudeのチャット機能とClaude Coworkの間で記憶機能を統合する新しいアップデートを発表しました。これにより、クラウド上でタスクを実行する際にもこれまでのチャットの文脈が引き継がれ、繰り返し説明する手間が省けるようになります。この機能は無料プランおよび有料プランのMacやiOSアプリを含む各プラットフォームで標準提供され、健康や信条などの機密性の高いトピックの記憶はデフォルトでオフになっています。"
+    },
+    {
       "id": "7f65dd4fd845b3c5c94e",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4461,54 +4506,9 @@
       ],
       "titleJa": "Apple、ドイツでのATT機能の変更に合意",
       "summaryJa": "Appleは、ドイツの競争規制当局との間で、アプリのトラッキングの透明性（ATT）に関する表示や表現を一部変更することで合意しました。プライバシー保護を維持しつつ、広告の重要性について開発者がより詳しく説明できるようにし、データ保護法に基づく同意との統合も認められます。今後は、開発者とのテストを経て、通知内容の調整などが約7年間にわたり適用される予定です。"
-    },
-    {
-      "id": "e4ecfdb040ba04f1f369",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro: Six new features are coming next month",
-      "url": "https://9to5mac.com/2026/08/17/iphone-18-pro-six-new-features-are-coming-this-fall/",
-      "publishedAt": "2026-08-17T15:33:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの噂される6つの新機能か",
-      "summaryJa": "次期iPhoneシリーズに関して、iPhone 18 Proモデルに搭載されると噂される6つの新機能が報じられています。画面下のFace ID部品移動によるDynamic Islandの縮小や、2nmプロセスを採用したA20 Proチップ、可変絞りカメラなどが含まれています。デザイン面では背面の一体感が向上し、新しいダークチェリー系のカラーなどがテストされていると伝えられています。"
-    },
-    {
-      "id": "43a31c41351b738578f8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: AirPods Pro 3 25% off, AirPods Max 2 $120 off, AirTag 2 all-time low, M5 Pro MacBook Pro $650 off, more",
-      "url": "https://9to5mac.com/2026/08/17/deals-airpods-pro-3-airpods-max-2-airtag-2-macbook-pro/",
-      "publishedAt": "2026-08-17T15:25:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-AirPods-Pro-3-Max-2-AirTag-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirPodsやMacBook Proが大幅割引に",
-      "summaryJa": "大規模なセールに合わせて、Apple製品の割引価格が多数登場しています。AirPods Pro 3が25%オフ、AirPods Max 2が120ドル引きとなっているほか、AirTag 2やM5 Pro搭載MacBook Proなども特別価格で販売されています。夏のセールに匹敵する価格や、過去最安値に近いお得なオファーが展開されています。"
-    },
-    {
-      "id": "63353cb1ea41627991fd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Sonos just launched Live Activities on iPhone",
-      "url": "https://9to5mac.com/2026/08/17/sonos-just-launched-live-activities-on-iphone/",
-      "publishedAt": "2026-08-17T15:10:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/sonos-live-activities-lock-screen.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Sonosアプリ、iPhoneのライブアクティビティに対応",
-      "summaryJa": "Sonosは最新のiOSアプリで、ユーザーから長く要望されていたライブアクティビティ機能に対応しました。再生を開始してアプリを閉じるとロック画面にコントローラーが表示され、現在の再生ルームやグループを確認できます。アルバムアートは非対応ですが、CarPlayやApple Watchでも利用でき、不要な場合は設定から無効化することが可能です。"
     }
   ],
-  "updatedAt": "2026-08-25T17:12:05.174Z",
+  "updatedAt": "2026-08-25T17:47:03.317Z",
   "initialized": true,
   "summaryVersion": 4
 }
