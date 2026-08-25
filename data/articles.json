@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "9d517a158015dee79d94",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Macs and More: Here's Everything Apple Announced Today",
+      "url": "https://www.macrumors.com/2026/08/25/everything-apple-announced-today/",
+      "publishedAt": "2026-08-25T16:10:21.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、M5/M6チップ搭載の新型Mac miniやMac Studioなどを発表",
+      "summaryJa": "Appleは新世代のM6およびM5シリーズチップを搭載した「Mac mini」と「Mac Studio」を発表しました。あわせて、価格を改定したポリッシングクロスや、最新のMagic Keyboardなども順次発売されます。新型のMac製品は本日から予約受付を開始し、9月22日に発売される予定です。"
+    },
+    {
       "id": "83a331e7840f9a80b286",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4491,24 +4506,9 @@
       ],
       "titleJa": "iOS 27、Androidメッセージへの返信やリアクションに対応へ",
       "summaryJa": "来月登場するiOS 27では、RCS Universal Profile 3.0の採用により、iPhoneからAndroidユーザーのメッセージに対して直接スレッド形式で返信や絵文字のリアクションを送ることができるようになります。これまではテキストで「画像を気に入りました」などと表示されていましたが、相手には実際の絵文字として正しく伝わるようになります。利用には通信事業者のサポートも必要となり、設定のRCSメッセージングから事前に対応状況を確認できます。"
-    },
-    {
-      "id": "ff7c5bb83830c9dc36e6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Wallet driver’s license is coming to new US state soon",
-      "url": "https://9to5mac.com/2026/08/17/apple-wallet-drivers-license-is-coming-to-new-us-state-soon/",
-      "publishedAt": "2026-08-17T14:16:01.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-wallet-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "米ノースカロライナ州、Appleウォレットの運転免許証に対応へ",
-      "summaryJa": "米ノースカロライナ州は、モバイルIDの導入計画を発表し、将来的にAppleウォレットでのデジタル運転免許証のサポートを追加する予定です。最初は独自の公式アプリで提供され、Appleウォレットへの対応は2007年初頭を予定しています。同州では住民への利便性向上に向けた取り組みが進められており、ユタ州やバージニア州など他の米国各州でもWalletへの身分証明書統合に向けた動きが広がっています。"
     }
   ],
-  "updatedAt": "2026-08-25T15:53:50.782Z",
+  "updatedAt": "2026-08-25T16:34:39.611Z",
   "initialized": true,
   "summaryVersion": 4
 }
