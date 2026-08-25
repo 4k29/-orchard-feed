@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "6303f4824883f63c07aa",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "This new Android & iPhone tracker hides in your bike or golf clubs with 3-year battery life [Gallery]",
+      "url": "https://9to5google.com/2026/08/25/pebblebee-loc8-android-iphone-bike-tracker/",
+      "publishedAt": "2026-08-25T18:48:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/pebblebee-loc8-find-hub-7.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "自転車やゴルフ用品に隠せるApple対応の紛失防止トラッカーが登場",
+      "summaryJa": "Pebblebeeは、AndroidとAppleの「探す」ネットワークに対応した新型トラッカー「LÔC8」を発表しました。自転車のハンドルやゴルフルのクラブなどの内部に隠して持ち物を追跡できるように設計されており、最長3年のバッテリー寿命を備えています。"
+    },
+    {
+      "id": "e2bab7ff939bd0b9be25",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Mac Mini and Mac Studio: 13 Things You Might Have Missed",
+      "url": "https://www.macrumors.com/2026/08/25/mac-studio-mac-mini-tidbits/",
+      "publishedAt": "2026-08-25T18:41:44.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-New-Macs-and-Polishing-Cloth.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新Mac miniとMac Studioの注目すべき変更点まとめ",
+      "summaryJa": "Appleが発表した新型Mac miniおよびMac Studioに関する詳細情報が明らかになりました。今回のモデルでは、Wi-Fi 7やBluetooth 6への対応をはじめ、USB-C経由のゲンロックサポート、2.5Gbイーサネットの標準搭載など、多くの改良が施されています。また、M6チップにはAIワークフローを高速化する改良型のNeural Engineが搭載されています。"
+    },
+    {
+      "id": "2c8a15355f6e49c670e4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Maps launches ads on iPhone, here’s what’s new",
+      "url": "https://9to5mac.com/2026/08/25/apple-maps-launches-ads-on-iphone-heres-whats-new/",
+      "publishedAt": "2026-08-25T18:33:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-maps-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Maps、アメリカとカナダで広告配信を開始",
+      "summaryJa": "Appleは、Appleマップアプリ内での広告配信を米国とカナダで正式に開始しました。広告は検索画面のサジェストや関連する検索結果に表示され、青い「Ad」のバッジで区別されます。Appleは、ユーザーの位置情報や広告の閲覧履歴がApple Accountに紐づけられないなど、プライバシー保護を徹底していると強調しています。"
+    },
+    {
       "id": "d0261778a16050832df0",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4461,54 +4506,9 @@
       ],
       "titleJa": "Apple、tvOS 27 ベータ6を開発者向けに配信",
       "summaryJa": "AppleはApple TV向けにtvOS 27のベータ6を開発者向けに公開しました。他のOSアップデートと比較して新機能は少なめですが、再設計されたポッドキャストアプリ、文字サイズ拡大オプション、より応答性の高いコントロールセンターなどが追加されています。また、AirPlayの接続速度向上やアニメーションの滑らかさも改善されています。"
-    },
-    {
-      "id": "e94ace7505f50f72cd71",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds Sixth visionOS 27 Beta to Developers",
-      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-visionos-27-developer-beta/",
-      "publishedAt": "2026-08-17T17:15:37.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/curved_windows_visionos-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、開発者向けにvisionOS 27ベータ6を配信",
-      "summaryJa": "Appleは開発者向けに、次期アップデートとなるvisionOS 27のベータ6をリリースしました。このバージョンではSiriにAI機能が統合され、装着しているユーザーが見ているものに関する質問に答えたり、仮想空間内に配置できる新しいオーブ機能などが追加されています。また、パノラマ写真を空間環境に変換できる機能や、ウェブ環境を構築できるサポートなども含まれており、空間コンピューティングの体験がさらに向上しています。"
-    },
-    {
-      "id": "7c26330a222f1a265b60",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AirBuddy 3 now available with new Action HUD, widgets, Now Playing, deeper automation, more",
-      "url": "https://9to5mac.com/2026/08/17/airbuddy-3-now-available-with-new-action-hud-widgets-now-playing-deeper-automation-more/",
-      "publishedAt": "2026-08-17T17:00:06.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airbuddy-3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Mac向けユーティリティ「AirBuddy 3」が登場",
-      "summaryJa": "Mac向けの管理アプリ「AirBuddy 3」がリリースされ、150以上の新機能や改善が追加されました。デザインが刷新されたAction HUDや新しいダッシュボード、デスクトップウィジェットに加え、複数のMac間で周辺機器をスムーズに切り替える「Magic Handoff」の信頼性が向上しています。"
-    },
-    {
-      "id": "f707d5cf4707080adcc0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Sports App Updated With More Soccer Leagues",
-      "url": "https://www.macrumors.com/2026/08/17/apple-sports-app-more-soccer-leagues/",
-      "publishedAt": "2026-08-17T16:28:55.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/02/Apple-Sports-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Sports、対応サッカーリーグを拡大",
-      "summaryJa": "Appleは「Apple Sports」アプリをアップデートし、オーストリアのブンデスリーガやサウジ・プロフェッショナルリーグなど、新たに複数のサッカーリーグに対応しました。直近1ヶ月間で計14のリーグが追加されたことになります。このアプリは引き続きiPhone向けに提供されています。"
     }
   ],
-  "updatedAt": "2026-08-25T18:22:21.286Z",
+  "updatedAt": "2026-08-25T19:07:48.994Z",
   "initialized": true,
   "summaryVersion": 4
 }
