@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d296325dfefd2c4fbf73",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 release date: Here’s when the new iPhone update will launch",
+      "url": "https://9to5mac.com/2026/08/25/ios-27-release-date-when-next-major-iphone-update-is-coming/",
+      "publishedAt": "2026-08-25T20:45:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-icon-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの次期iOS 27、9月中旬にリリースか",
+      "summaryJa": "iPhone向け次期ソフトウェア「iOS 27」が、9月中旬にも公開される見通しです。過去のリリース日程から、9月14日週の配信が予想されています。このアップデートでは、ウォレットや写真などの主要アプリの刷新に加え、SiriのAI機能強化などが含まれる予定です。"
+    },
+    {
+      "id": "2c65133ce660d858a409",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Maps Ads Are Here, and There's No Way to Turn Them Off",
+      "url": "https://www.macrumors.com/2026/08/25/apple-maps-ads-live/",
+      "publishedAt": "2026-08-25T20:40:17.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-maps-ads-live.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleマップ、米国などで広告表示を開始",
+      "summaryJa": "Appleマップアプリ内に広告の表示機能が導入され、米国とカナダで開始されました。ユーザーが場所の検索や候補地の閲覧を行う際に広告が表示される仕組みで、現時点で非表示にする設定はありません。表示される広告には青い「Ad」のラベルが明記されており、プライバシーに配慮した運用方針となっています。"
+    },
+    {
       "id": "4ad2ff9e828c4c2cbe9f",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4476,39 +4506,9 @@
       ],
       "titleJa": "Apple、macOS 27 開発者向けベータ6を配信開始",
       "summaryJa": "Appleは正式リリースを控え、開発者向けに「macOS 27 Golden Gate」のベータ6をリリースしました。前回のベータ版から1週間での迅速な配信となっており、専用のSiriアプリの追加やデザインの統一、各種AI機能の統合に向けたパフォーマンスの最終調整が行われています。"
-    },
-    {
-      "id": "8c96c454d25de1860471",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 beta 6 now available as Apple tests major Siri AI upgrade",
-      "url": "https://9to5mac.com/2026/08/17/ios-27-beta-6/",
-      "publishedAt": "2026-08-17T17:18:41.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iOS-27-b6.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、Siri AIをテストするiOS 27ベータ6を配信開始",
-      "summaryJa": "Appleは開発者向けにiOS 27のベータ6をリリースしました。次期OSでは刷新された「Siri AI」やApple Intelligence機能が中心となり、ダイナミックアイランドと連携する新しい視覚体験や、システム全体での深いアプリ連携が提供されます。9月の一般公開に向け、夏場のベータテストが順調に進められています。"
-    },
-    {
-      "id": "eae8a6b53ffc97d07f6b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases macOS Golden Gate Beta 6",
-      "url": "https://www.macrumors.com/2026/08/17/apple-releases-macos-golden-gate-beta-6/",
-      "publishedAt": "2026-08-17T17:18:36.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、macOS Golden Gate ベータ6を開発者向けに公開",
-      "summaryJa": "Appleは開発者向けに「macOS Golden Gate」のベータ6を提供開始しました。デザイン面では液状ガラスの不透明度調整スライダーやウィンドウのシャドウ効果が改良され、可視性が向上しています。また、チャット形式の新しいSiri AIやビジュアルインテリジェンス、写真アプリのAI編集ツールなど多彩な新機能がテストされています。"
     }
   ],
-  "updatedAt": "2026-08-25T20:15:51.853Z",
+  "updatedAt": "2026-08-25T20:52:17.223Z",
   "initialized": true,
   "summaryVersion": 4
 }
