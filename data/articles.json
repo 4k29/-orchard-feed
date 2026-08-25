@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "83a331e7840f9a80b286",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV unveils Matthew McConaughey comedy series from ‘The Office’ alum",
+      "url": "https://9to5mac.com/2026/08/25/apple-tv-unveils-matthew-mcconaughey-comedy-series-from-the-office-alum/",
+      "publishedAt": "2026-08-25T15:28:41.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/brothers-matthew-mcconaughey-cake.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、マシュー・マコノヒー主演の新作コメディドラマを公開へ",
+      "summaryJa": "Apple TVは、マシュー・マコノヒーとウディ・ハレルソンが本人役で共演する新作オリジナルコメディドラマ「Brothers」を来月23日に配信開始すると発表しました。長年の友人である2人が、自分たちが実は兄弟かもしれないという秘密を知ったことから巻き起こる騒動を描くハートフルなコメディです。「オフィス」を手掛けたリー・アイゼンバーグがショーランナーを務め、9月23日の初回2話配信を皮切りに順次公開されます。"
+    },
+    {
+      "id": "e4134543903e2a4a7769",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: M6 Mac mini $500+ off with M4 trades, AirTag 2 $20 each, 48GB M5 Pro MacBook Pro $400 off, more",
+      "url": "https://9to5mac.com/2026/08/25/deals-m6-mac-mini-airtag-2-48gb-macbook-pro/",
+      "publishedAt": "2026-08-25T15:24:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-M6-Mac-mini-preorder-Macbook-AirTag-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirTag 2や新型Mac miniがセールに、各所の割引情報が登場",
+      "summaryJa": "最新のAirTag 2が過去最安値となる1個20ドル前後からのセール価格で販売されています。また、新型のM6 Mac miniの予約受付が開始され、旧モデルの下取りを適用することで大幅な割引が受けられるほか、AirPodsシリーズやM5 Pro搭載MacBook Proなども割引価格の対象となっています。Amazonなどの各ECサイトで注目のApple製品がお得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "003755da2211833b71d2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Smart Home Display Still Coming This Year",
+      "url": "https://www.macrumors.com/2026/08/25/apple-smart-home-display-still-coming/",
+      "publishedAt": "2026-08-25T15:19:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple初のスマートホームディスプレイが年内に登場か",
+      "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、Appleは画面付きのスマートホームデバイスを今年中にも発売する予定です。このデバイスは、顔認識機能を使用してユーザーを識別し、個人に合わせたコンテンツを表示する機能を持つと報じられています。コードネームや周辺機器の刷新の動きからも、Appleのスマートホーム分野への本格的な参入が近づいていることがうかがえます。"
+    },
+    {
       "id": "a9556cb88f2ae3851a2d",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -72,9 +117,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple releases new Polishing Cloth for $9",
-      "summaryJa": "Not to be overshadowed by the new Mac mini and Mac Studio , Apple today has also released an updated version of its Polishing Cloth. In an age of everything getting more expensive, the new Polishing Cloth is cheaper than before at $9 (down from $19). Not to be overshadowed by the new Mac mini and Mac Studio, Apple today has also released an updated version of its Polishing Cloth. In an age of everything getting more expensive, the new Polishing Cloth is cheaper than before at $9 (down from $19). There’s no word on what has changed with this new Polishing Cloth. Apple’s description for the new version is the same as before: Made with soft, nonabrasive material, the Polishing Cloth cleans any Apple display, including nano-texture, safely and effectively. Apple released the Polishing Cloth in",
-      "translationStatus": "source"
+      "titleJa": "Apple、価格を改定した新しいポリシングクロスの販売を開始",
+      "summaryJa": "Appleは、Apple製ディスプレイのお手入れに適した「ポリシングクロス」の新モデルを発売しました。従来の19ドルから9ドルへと値下げされ、より手頃な価格で購入できるようになっています。素材やデザインなどの具体的な変更点については言及されていませんが、従来と同様にナノテクスチャガラスを含むあらゆるディスプレイを安全に掃除できます。"
     },
     {
       "id": "eca9506ff70b552d6265",
@@ -211,9 +255,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Announces New Mac Studio With M5 Ultra Chip",
-      "summaryJa": "Apple today announced a new Mac Studio powered by the M5 Ultra chip, which the company says is its most powerful chip ever. The M5 Ultra is built by connecting two dual-die M5 Max chips using Apple's next-generation UltraFusion technology, which increases inter-die bandwidth to over 4.4TB/s and connection density by more than 6x, allowing the four dies to function as a single processor. More to follow... Related Roundup: Mac Studio Buyer's Guide: Mac Studio (Don't Buy) Related Forum: Mac Studio This article, \" Apple Announces New Mac Studio With M5 Ultra Chip \" first appeared on MacRumors.com Discuss this article in our forums Apple Unveils New Mac Studio With M5 Max and M5 Ultra ChipsTuesday August 25, 2026 6:13 am PDT by Hartley CharltonApple today announced new Mac Studio models with th",
-      "translationStatus": "source"
+      "titleJa": "Apple、M5 MaxおよびM5 Ultraチップを搭載したMac Studioを発表",
+      "summaryJa": "Appleは、強力な新型チップ「M5 Max」および「M5 Ultra」を搭載した新しいMac Studioを発表しました。M5 Ultraチップは2つのM5 Maxダイを接続するUltraFusionテクノロジーを採用し、最大512GBのユニファイドメモリや最大80コアのGPUを備えています。また、高速なPCIe Gen 6ベースのSSDアーキテクチャやThunderbolt 5ポートを搭載し、オンデバイスでのAI処理やプロ向けの重いワークフローで圧倒的なパフォーマンスを発揮します。"
     },
     {
       "id": "e71ba707fdd503a77436",
@@ -227,9 +270,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Reveals M6 as First-Ever 2nm Chip",
-      "summaryJa": "Apple today announced the M6 chip, its first built using a 2-nanometer process and featuring a Dual 16-core Neural Engine. Apple says the 2nm process packs greater transistor density into a smaller die, contributing to the chip's overall gains in performance and power efficiency. The M6 chip features a larger, more powerful 12-core CPU, two more cores than the M5, made up of two super cores, four performance cores, and six efficiency cores. Apple says the chip delivers the world's fastest single-threaded performance and up to 1.2x faster multithreaded performance than the M5, and up to 2.4x faster than the M1 . The chip also features a 12-core GPU, with two more cores than the M5, with a Neural Accelerator built into each core. Apple says this delivers nearly a 30% increase in peak GPU com",
-      "translationStatus": "source"
+      "titleJa": "Apple、同社初の2nmプロセスを採用したM6チップを発表",
+      "summaryJa": "Appleは、同社初となる2ナノメートルプロセスで製造された次世代チップ「M6」を発表しました。トランジスタ密度を高めたことで、パフォーマンスと電力効率が大幅に向上し、デュアル16コアNeural Engineを新たに搭載しています。CPUやGPUのコア数も増加し、シングルスレッドおよびマルチスレッド性能だけでなく、オンデバイスのLLM処理におけるAIパフォーマンスも飛躍的に強化されています。"
     },
     {
       "id": "76f374c4057119ef1340",
@@ -243,9 +285,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "summaryJa": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics. PRESS RELEASE August 25, 2026 Apple introduces new Mac Studio with M5 Max and M5 Ultra — the ultimate desktop for on‑device AI and the most extreme pro workflows Apple’s most powerful Mac raises the bar for local AI with up to 4.3x faster performance, more advanced graphics, up to 512GB of unified memory, and extensive connectivity Apple unveils the new Mac Studio, the most powerful Mac ever, featuring M5 Max and M5 Ultra. CUPERTINO, CALIFORNIA Apple today announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics for the most demanding pro workflows, all",
-      "translationStatus": "source"
+      "titleJa": "Apple、AI性能を飛躍的に高めた新しいMac Studioを公開",
+      "summaryJa": "Appleは、M5 Maxおよび新開発のM5 Ultraチップを搭載した新しいMac Studioを発表しました。AI処理性能が最大4.3倍に向上したほか、最大512GBのユニファイドメモリや最大2倍高速なストレージを備え、最先端のプロフェッショナル作業や大規模なLLMのローカル実行を強力にサポートします。コンパクトなデザインを維持しながら、グラフィックス性能や接続性も大幅に強化されました。"
     },
     {
       "id": "7cf4f39d640f82f588d0",
@@ -259,9 +300,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple unveils new Mac Studio with M5 Max and M5 Ultra",
-      "summaryJa": "Alongside the new Mac mini, Apple today has announced its next-generation Mac Studio. The new Mac Studio lineup is powered by the M5 Max and M5 Ultra chips and supports up to 512GB of unified memory. The new Mac Studio models are available to pre-order today . Alongside the new Mac mini, Apple today has announced its next-generation Mac Studio. The new Mac Studio lineup is powered by the M5 Max and M5 Ultra chips and supports up to 512GB of unified memory. The new Mac Studio models are available to pre-order today. M5 Max Mac Studio First, Apple has announced a new Mac Studio powered by M5 Max, an upgrade from the previous-generation M4 Max model. The M5 Max first debuted in the MacBook Pro earlier this year. M5 Max features an 18-core CPU with 6 super cores and 12 performance cores. The G",
-      "translationStatus": "source"
+      "titleJa": "Apple、M5 MaxとM5 Ultraを搭載した新型Mac Studioを公開",
+      "summaryJa": "Appleは次世代のMac Studioを発表しました。新モデルはM5 MaxおよびM5 Ultraチップを搭載し、最大512GBの統合メモリをサポートします。M5 Max版は従来比でLLMのプロセッサ処理などが大幅に高速化されており、本日より予約注文の受付が開始されています。"
     },
     {
       "id": "a7d59e06a04d691326d8",
@@ -275,9 +315,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple launches next-gen Apple Silicon chips: M6 and M5 Ultra",
-      "summaryJa": "Apple has unveiled two new Apple Silicon chips today. The M6 chip debuts in a new Mac mini model and marks Apple’s first 2nm processor. The M5 Ultra launches in a refreshed Mac Studio and is Apple’s most powerful chip ever. Apple has unveiled two new Apple Silicon chips today. The M6 chip debuts in a new Mac mini model and marks Apple’s first 2nm processor. The M5 Ultra launches in a refreshed Mac Studio and is Apple’s most powerful chip ever. Apple’s new M6 chip The M6 is Apple’s first 2-nanometer chip, which the company says increases transistor density and power efficiency. This allows it to upgrade compute blocks without increasing die size. The M6 features a 12-core CPU, two more than the M5 chip. Notably, it’s Apple’s first processor with all three CPU core types. That includes two s",
-      "translationStatus": "source"
+      "titleJa": "Apple、初の2nmプロセスを採用した次世代チップ「M6」を発表",
+      "summaryJa": "Appleは新たなApple SiliconとなるM6およびM5 Ultraチップを発表しました。M6はApple初となる2nmプロセスのプロセッサであり、新型Mac miniに搭載されます。3種類のCPUコアを組み合わせることで優れた電力効率と世界最速のシングルスレッド性能を実現し、AI処理性能も大きく向上しています。"
     },
     {
       "id": "c2f3a932923f55332c63",
@@ -291,9 +330,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple announces updated Mac mini, here’s everything new",
-      "summaryJa": "Apple today announced the first Mac mini update in nearly two years. The new Mac mini keeps the same compact design, but delivers a major performance boost with the new M6 and M5 Pro configurations. The new Mac mini lineup is available to pre-order today . Head below for all the details. Apple today announced the first Mac mini update in nearly two years. The new Mac mini keeps the same compact design, but delivers a major performance boost with the new M6 and M5 Pro configurations. The new Mac mini lineup is available to pre-order today. Head below for all the details. M6 Mac mini The previous generation Mac mini was powered by the M4 and M4 Pro chips. Apple has taken a different strategy this time, opting to use the all-new M6 chip for the base configuration. The next tier, meanwhile, is",
-      "translationStatus": "source"
+      "titleJa": "Apple、M6とM5 Proを搭載して大幅に性能向上した新型Mac miniを発表",
+      "summaryJa": "Appleは約2年ぶりとなるMac miniのアップデートを発表しました。コンパクトな本体デザインを維持しつつ、ベースモデルには初となる2nmプロセスのM6チップを、上位にはM5 Proを採用しています。AI処理性能が最大4倍に高まり、Wi-Fi 7などの最新接続機能も備えて本日より予約受付が始まっています。"
     },
     {
       "id": "c4f0c55cff98dd1ed43d",
@@ -307,9 +345,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-      "summaryJa": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design. PRESS RELEASE August 25, 2026 Apple’s new Mac mini, featuring M6 and M5 Pro, delivers a massive leap in AI performance, supercharging the leading desktop for always-on agentic computing Mac mini delivers up to 4x faster AI performance, up to 2x faster graphics and storage, along with enhanced connectivity — all in its ultracompact footprint Users can do it all with the ultracompact Mac mini featuring the all-new M6 or powerful M5 Pro — from advanced productivity to running AI models on device, and more. CUPERTINO, CALIFORNIA Apple today announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dram",
-      "translationStatus": "source"
+      "titleJa": "Apple、M6とM5 Proを搭載しAI性能を大幅に強化した新型Mac miniを発表",
+      "summaryJa": "AppleはM6およびM5 Proチップを搭載した新型Mac miniを発表しました。超小型のデスクトップデザインはそのままに、AIパフォーマンスが最大4倍、グラフィックスやストレージが最大2倍高速化されています。Wi-Fi 7やBluetooth 6への対応など接続機能も強化され、高度な作業やオンデバイスでのAI処理を強力にサポートします。"
     },
     {
       "id": "a6b5741e1a79863e8470",
@@ -323,9 +360,8 @@
       "tags": [
         "公式"
       ],
-      "titleJa": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "summaryJa": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities. PRESS RELEASE August 25, 2026 Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute M6, Apple’s first 2 nm chip, features a larger, more powerful 12-core CPU, 12-core GPU, and Dual 16-core Neural Engine, while M5 Ultra is Apple’s first quad-die architecture and its most powerful chip ever M6 delivers a revolutionary leap in everyday performance and power efficiency. M5 Ultra unleashes unprecedented desktop-class power and massive unified memory bandwidth to conquer the most demanding projects. CUPERTINO, CALIFORNIA Apple today debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in",
-      "translationStatus": "source"
+      "titleJa": "Apple、性能とAI処理を大幅に強化したM6およびM5 Ultraを発表",
+      "summaryJa": "Appleは、新型Mac mini向けの「M6」と新型Mac Studio向けの「M5 Ultra」を発表しました。M6はApple初となる2ナノメートルプロセスを採用し、12コアCPUやデュアル16コアNeural Engineを搭載して電力効率と日常のパフォーマンスを飛躍的に高めています。一方のM5 Ultraは初のクアッドダイ構成を採用し、最大36コアCPUと80コアGPU、大容量のユニファイドメモリ帯域を備えることでプロ向けの圧倒的な処理能力を実現しています。"
     },
     {
       "id": "2148cf805e751a2439de",
@@ -4470,54 +4506,9 @@
       ],
       "titleJa": "米ノースカロライナ州、Appleウォレットの運転免許証に対応へ",
       "summaryJa": "米ノースカロライナ州は、モバイルIDの導入計画を発表し、将来的にAppleウォレットでのデジタル運転免許証のサポートを追加する予定です。最初は独自の公式アプリで提供され、Appleウォレットへの対応は2007年初頭を予定しています。同州では住民への利便性向上に向けた取り組みが進められており、ユタ州やバージニア州など他の米国各州でもWalletへの身分証明書統合に向けた動きが広がっています。"
-    },
-    {
-      "id": "8c3251a9daa1c270ec7c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "This iPad keyboard case is the perfect addition to our Back to School tech roundup",
-      "url": "https://9to5mac.com/2026/08/17/this-ipad-keyboard-case-is-the-perfect-addition-to-our-back-to-school-tech-roundup/",
-      "publishedAt": "2026-08-17T14:07:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Inateck-AceTouch-lifestyle.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPadをノートPC化する軽量キーボードケースが登場",
-      "summaryJa": "新学期シーズンに向けたテック製品の紹介として、iPad向けの軽量かつ多機能なキーボードケースが取り上げられています。この製品はマグネット式の着脱に対応し、Mac風のデザインやクリック可能なトラックパッドを搭載しています。本体は薄型かつ軽量に設計されており、日常的な持ち運びやタブレットモードへの切り替えも容易で、学習や作業の効率を高める便利なアクセサリーとして注目されています。"
-    },
-    {
-      "id": "dd542ad7c5935e775c9a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple will comply with ‘fairer’ App Tracking Transparency rules in the EU",
-      "url": "https://9to5mac.com/2026/08/17/apple-will-comply-with-fairer-app-tracking-transparency-rules-in-the-eu/",
-      "publishedAt": "2026-08-17T13:58:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2022/04/apple-app-tracking-transparency.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、EUでのアプリトラッキング透明性ルールの変更に合意",
-      "summaryJa": "Appleは、ドイツの独占禁止規制当局による調査を受け、EU域内における「App Tracking Transparency（ATT）」の運用ルールをより公平なものに変更することで合意しました。これまで自社製アプリの扱いを巡ってサードパーティ製アプリに有利ではないかとの指摘がありましたが、今後は同意プロンプトの表現や視覚的要素が中立化されます。また、開発者が自身のデータ保護に関するプロンプトとAppleの確認画面を統合できるようになり、ユーザーの利便性と公平性が高まる見込みです。"
-    },
-    {
-      "id": "1ea7aead79338295c56b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New iPhone Ultra leaks cover release timing, availability, and name",
-      "url": "https://9to5mac.com/2026/08/17/new-iphone-ultra-leaks-cover-release-timing-availability-and-name/",
-      "publishedAt": "2026-08-17T13:47:23.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "折りたたみ式iPhone Ultraの発売時期や供給に関する噂",
-      "summaryJa": "折りたたみ式iPhone Ultraが数週間以内に発表されると報じられており、発売時期や初期在庫、製品名に関する新たなリーク情報が浮上しています。初期の出荷台数は非常に限られ、サプライヤーが目標生産数に達するには数か月かかる可能性があるとのことです。また、Ultraという名称の採用については、20周年の記念モデルに温存されるのではないかという懐疑的な見方も示されています。"
     }
   ],
-  "updatedAt": "2026-08-25T15:02:48.543Z",
+  "updatedAt": "2026-08-25T15:53:50.782Z",
   "initialized": true,
   "summaryVersion": 4
 }
