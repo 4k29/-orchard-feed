@@ -1,6 +1,82 @@
 {
   "articles": [
     {
+      "id": "a9556cb88f2ae3851a2d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases new Magic Keyboards with one notable change",
+      "url": "https://9to5mac.com/2026/08/25/apple-releases-new-magic-keyboards-with-one-notable-change/",
+      "publishedAt": "2026-08-25T14:52:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/magic-keyboard-new-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、キー刻印をアイコンに変更した新型Magic Keyboardを発表",
+      "summaryJa": "Appleは、新型Mac miniおよびMac Studioの発表にあわせ、Magic Keyboardのラインナップを更新しました。今回の刷新により、タブやcaps lock、shift、deleteなどの主要なキーからテキスト表記が削除され、代わりに視覚的なアイコンが採用されています。この変更は今年初めに登場した新型MacBookシリーズと同様の仕様であり、USB-C対応や基本的な機能は従来モデルを継承しています。"
+    },
+    {
+      "id": "b116181ba6213cdc2590",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Labor Day Accessory Deals on Anker, Sony, Samsung, and More Live Now",
+      "url": "https://www.macrumors.com/2026/08/25/labor-day-accessory-deals/",
+      "publishedAt": "2026-08-25T14:39:51.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/samsung-sony-amazon-sale.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AmazonでAnkerやソニーなどの周辺機器がセール対象に",
+      "summaryJa": "Amazonにて、Ankerの充電器やソニーのノイズキャンセリングヘッドホン、サムスンのモニターなど、人気アクセサリーを対象とした大規模なセールが開催されています。ソニーのWH-1000XM5やSonosのオーディオ製品、サムスンのスマートモニターなどが割引価格で提供されています。各種USB-C充電器やポータブルバッテリー、ドック製品などもあわせてセール対象となっています。"
+    },
+    {
+      "id": "1c8de9245605c842661c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "M6 Mac mini vs M4 Mac mini: Here are all the new features",
+      "url": "https://9to5mac.com/2026/08/25/m6-mac-mini-vs-m4-mac-mini-here-are-all-the-new-features/",
+      "publishedAt": "2026-08-25T14:25:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-m6-m5-pro-vs-m4.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新世代チップを搭載した新型Mac miniが登場",
+      "summaryJa": "Appleは新たにM6およびM5 Proチップを搭載したMac miniを発表しました。2nmプロセスで製造されたM6チップは、前世代のM4と比べてCPU性能やストレージ速度が大幅に向上しているほか、AI処理性能が最大4倍に高められています。また、M5 Pro搭載モデルではより高度なマルチコア構成や高いメモリ帯域幅を実現し、レンダリングや画像処理のパフォーマンスが強化されています。"
+    },
+    {
+      "id": "6fb2770a388fc9ecb20e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Quietly Refreshes Magic Keyboards",
+      "url": "https://www.macrumors.com/2026/08/25/apple-quietly-refreshes-magic-keyboards/",
+      "publishedAt": "2026-08-25T14:22:41.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-magic-keyboard-with-glyphs-2026-refresh.png",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、キー表記をアイコンに変更したMagic Keyboardを発売",
+      "summaryJa": "Appleは、英語キーボードのキートップ表記を文字からアイコンへと変更した新しいMagic Keyboardを静かにリリースしました。tabやcaps lock、shift、returnなどのキーに加え、テンキー付きモデルのHomeやPage Upなどのキーでもテキスト表記がシンボルに置き換えられています。この変更は今年のマックブック各モデルのデザイン方針を受け継いだもので、Touch ID搭載モデルなどを中心に全4モデルが更新されました。"
+    },
+    {
+      "id": "b22b7c01bbee6113d583",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases new Polishing Cloth for $9",
+      "url": "https://9to5mac.com/2026/08/25/apple-releases-new-polishing-cloth-for-9/",
+      "publishedAt": "2026-08-25T14:10:40.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/Apple-Polishing-Cloth.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple releases new Polishing Cloth for $9",
+      "summaryJa": "Not to be overshadowed by the new Mac mini and Mac Studio , Apple today has also released an updated version of its Polishing Cloth. In an age of everything getting more expensive, the new Polishing Cloth is cheaper than before at $9 (down from $19). Not to be overshadowed by the new Mac mini and Mac Studio, Apple today has also released an updated version of its Polishing Cloth. In an age of everything getting more expensive, the new Polishing Cloth is cheaper than before at $9 (down from $19). There’s no word on what has changed with this new Polishing Cloth. Apple’s description for the new version is the same as before: Made with soft, nonabrasive material, the Polishing Cloth cleans any Apple display, including nano-texture, safely and effectively. Apple released the Polishing Cloth in",
+      "translationStatus": "source"
+    },
+    {
       "id": "eca9506ff70b552d6265",
       "source": "Apple Newsroom 日本",
       "sourceId": "apple-newsroom-jp",
@@ -13,9 +89,8 @@
         "公式",
         "日本"
       ],
-      "titleJa": "Apple、M5 MaxとM5 Ultraを搭載した新しいMac Studioを発表",
-      "summaryJa": "Appleは、M5 Maxと新しいM5 Ultraを搭載し、AIパフォーマンスの驚異的な飛躍とさらに高速なグラフィックスをもたらす、新しいMac Studioを発表しました。 プレスリリース 2026 年 8 月 25 日 Apple、オンデバイスAIと極めて負荷の高いプロのワークフローのための究極のデスクトップ、M5 MaxとM5 Ultraを搭載した新しいMac Studioを発表 Appleの最もパワフルなMacは、最大4.3倍高速なパフォーマンスと、さらに進化したグラフィックス、最大512GBのユニファイドメモリ、豊富な接続性を備え、ローカルAIの基準を引き上げます Appleは、M5 MaxとM5 Ultraを搭載した、Mac史上最もパワフルな新しいMac Studioを発表しました。 カリフォルニア州クパティーノ Appleは本日、M5 Maxと新しいM5 Ultraを搭載した新しいMac Studioを発表しました。最も負荷の高いプロのワークフローに、AIパフォーマンスの驚異的な飛躍とさらに高速なグラフィックスを提供し、これらすべてを、ユーザーのデスク上にすっきりと収まる特徴的でコンパクトなデザインに詰め込みました。最大4.3倍高速なAIパフォーマンス1、最大2倍高速なストレージ2、最大1.8倍高速なグラフィックス1、最大1.3倍高速なCPU速度1に加え、より高いメモリ帯域幅を備えたMac Studioは、クリエイター、デベロッパ、AI研究者、データサイエンティストなどに、できることの限界を押し広げるための力を与えます。M5 Max搭載のMac Studioは、18コアCPU、各コアにNeural Acceleratorを組み込み、最大40コアのGPU、最大128GBのユニファイドメモリを備え、複雑なプロのワークロードやAIワークロードを加速させます。パワフル",
-      "translationStatus": "source"
+      "titleJa": "Apple、M5 MaxとM5 Ultra搭載の新しいMac Studioを発表",
+      "summaryJa": "Appleは、M5 MaxおよびM5 Ultraチップを搭載した新しいMac Studioを発表しました。最大512GBのユニファイドメモリを備え、オンデバイスAIや極めて負荷の高いプロのワークフローにおいて圧倒的なパフォーマンスを発揮します。Wi-Fi 7やThunderbolt 5への対応により接続性も強化されており、本日から予約注文が開始され、9月22日に発売されます。"
     },
     {
       "id": "80d02beafbb9ca6a35cf",
@@ -29,9 +104,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Releases New Polishing Cloth",
-      "summaryJa": "Apple today released a new version of its Polishing Cloth on its online store. In the U.S., pricing is now set at $9, down from $19 for the previous version of the cloth. We have yet to determine if the new Polishing Cloth is smaller than the original or has any other notable changes beyond lower pricing. Apple says the cloth continues to be made with soft, nonabrasive material that can be used to clean any Apple display, including those with a nano-texture coating. Tag: Polishing Cloth This article, \" Apple Releases New Polishing Cloth \" first appeared on MacRumors.com Discuss this article in our forums",
-      "translationStatus": "source"
+      "titleJa": "Apple、価格を改定した新しいポリッシングクロスを発売",
+      "summaryJa": "Appleはオンラインストアで新しいバージョンのポリッシングクロスを発売しました。米国での価格は従来の19ドルから9ドルへと引き下げられています。素材は従来同様に柔らかい非研磨性のものが使われており、ナノテクスチャーガラスを含むあらゆるApple製ディスプレイの清掃に使用可能です。"
     },
     {
       "id": "761991b19ddfe12dfec7",
@@ -45,9 +119,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple's New Mac Mini and Mac Studio Are Now Available to Pre-Order",
-      "summaryJa": "Apple today announced a new Mac mini and Mac Studio , and pre-orders for both are already live on Apple's online store and in the Apple Store app in the United States and 30 other countries and regions. Most configurations ship Tuesday, September 22, which is also when the new models will be available to buy in Apple Store locations and at Apple Authorized Resellers. Both Mac mini models cost more than the machines they replace for reasons that should be familiar by now. The rapid buildout of AI data centers has pushed up demand for memory and storage chips across the tech industry, and Apple in June raised the M4 Pro Mac mini to $1,599, up from the $1,399 it launched at in October 2024. The M5 Pro version adds another $100 on top of that. Model Starting price Education price Base memory/s",
-      "translationStatus": "source"
+      "titleJa": "新型Mac miniとMac Studioの予約注文が受付開始",
+      "summaryJa": "Appleが発表した新しいMac miniとMac Studioの予約注文が、米国をはじめとする世界各国で開始されました。AIデータセンターの急拡大によるメモリやストレージチップの需要高騰を受け、一部モデルは従来機より価格が引き上げられています。製品の出荷および店頭販売は9月22日から順次開始される予定です。"
     },
     {
       "id": "1d542f2779bd9cf6cd14",
@@ -61,9 +134,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple outlines 50 ways to make devices easier to use as we age",
-      "summaryJa": "Apple hit its 50th birthday this year, and many of its customers are even older. The company has created a new support page outlining 50 ways to make its devices easier to use, mostly using accessibility settings. These range from changing the size of text on an Apple Watch to having your iPhone alert you when your washing machine cycle is complete … Apple hit its 50th birthday this year, and many of its customers are even older. The company has created a new support page outlining 50 ways to make its devices easier to use, mostly using accessibility settings. These range from changing the size of text on an Apple Watch to having your iPhone alert you when your washing machine cycle is complete … Apple says that it aims to make its technology accessible to everyone, including older adults.",
-      "translationStatus": "source"
+      "titleJa": "Apple、高齢ユーザー向けにアクセシビリティを活用した50のヒントを公開",
+      "summaryJa": "Appleは、高齢のユーザー層に向けてデバイスをより使いやすくするための50の方法をまとめた新しいサポートページを公開しました。視覚、聴覚、運動能力、認知機能など10のカテゴリに分かれ、アクセシビリティ機能を活用して文字サイズを変更したり日常の通知を受け取ったりする方法を紹介しています。"
     },
     {
       "id": "d3e5195773e8b2a0a62c",
@@ -267,9 +339,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "AI awaiting its iPhone moment, says Altman; needs to learn key Apple lesson",
-      "summaryJa": "OpenAI CEO Sam Altman says that AI is still awaiting its iPhone moment, and that he needs to learn a key lesson from Apple . He also admits that he was overly ambitious in his idea of how quickly AI would disrupt the economy, but thinks that, paradoxically, the tech will create new opportunities for businesses that don’t use it … OpenAI CEO Sam Altman says that AI is still awaiting its iPhone moment, and that he needs to learn a key lesson from Apple. He also admits that he was overly ambitious in his idea of how quickly AI would disrupt the economy, but thinks that, paradoxically, the tech will create new opportunities for businesses that don’t use it … AI awaiting the iPhone moment Altman made the comments in a David Senra podcast episode reported by TNW. He likened the current AI era to",
-      "translationStatus": "source"
+      "titleJa": "AIにはまだ「iPhoneモーメント」が必要、OpenAIのアルトマン氏が語る",
+      "summaryJa": "OpenAIのサム・アルトマンCEOがポッドキャスト番組に出演し、現在のAI技術はまだ「iPhoneの登場前夜」の段階にあるとの見解を示しました。必要な技術ピースは揃いつつあるものの、人々のテクノロジーとの向き合い方を根本から変えるような決定的な体験はまだ実現していないと述べています。また、Appleのように多くの良いアイデアの中から本当に大切なものに絞り込む姿勢を見習う必要があると語りました。AIが経済に与える影響のスピードについては自身の見通しが野心的すぎたと認めつつも、今後は新たなビジネスチャンスが生まれるとの考えを示しています。"
     },
     {
       "id": "ec170db7db871b54a1b0",
@@ -4444,84 +4515,9 @@
       ],
       "titleJa": "折りたたみ式iPhone Ultraの発売時期や供給に関する噂",
       "summaryJa": "折りたたみ式iPhone Ultraが数週間以内に発表されると報じられており、発売時期や初期在庫、製品名に関する新たなリーク情報が浮上しています。初期の出荷台数は非常に限られ、サプライヤーが目標生産数に達するには数か月かかる可能性があるとのことです。また、Ultraという名称の採用については、20周年の記念モデルに温存されるのではないかという懐疑的な見方も示されています。"
-    },
-    {
-      "id": "70f608aac4a01039b7c0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AI-generated text should be detectable, but Apple needs to avoid Anthropic’s huge error",
-      "url": "https://9to5mac.com/2026/08/17/ai-generated-text-should-be-detectable-but-apple-needs-to-avoid-anthropics-huge-error/",
-      "publishedAt": "2026-08-17T13:30:47.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/AI-generated-text-should-be-detectable-but-Apple-needs-to-avoid-Anthropics-huge-error.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AI生成テキストの検出とAppleが避けるべき課題",
-      "summaryJa": "AIが生成したテキストや画像を識別可能にすることの重要性と、EUのイニシアチブに対応するAnthropicの手法について議論されています。ライターの視点から、大量のAIコンテンツを判別するためのラベルや透かしの必要性が語られています。AppleもSiriのAI機能や画像関連機能において同様の対応を迫られる可能性があり、今後の動向が注目されます。"
-    },
-    {
-      "id": "8556b8fa623b40bc30bc",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirPods Max 2 Discounted by $120 Across Amazon and Best Buy",
-      "url": "https://www.macrumors.com/2026/08/17/airpods-max-2-drop-to-low/",
-      "publishedAt": "2026-08-17T12:36:23.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/airpods-max-2-purple.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AirPods Max 2がAmazonとBest Buyで120ドル引きのセールに",
-      "summaryJa": "AmazonとBest Buyにおいて、AirPods Max 2が通常価格から120ドル引きの429.00ドルで販売されています。Amazonでは一部のカラー、Best Buyでは全5色が割引対象となっており、今年6月以降では最安値圏のお得なセールとなっています。"
-    },
-    {
-      "id": "93b58593f54fe9ff50be",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's macOS Screen Sharing Flaw Is Being Exploited in the Wild",
-      "url": "https://www.macrumors.com/2026/08/17/macos-screen-sharing-flaw-exploited/",
-      "publishedAt": "2026-08-17T12:20:07.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/02/macOS-Tahoe-Finder-Bug-Underscores-Apples-Slipping-UI-Polish-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "macOSの画面共有の脆弱性がすでに悪用されているとの指摘",
-      "summaryJa": "Appleが今月初めに修正パッチを急遽リリースしたmacOSの画面共有機能の脆弱性について、すでに実際の攻撃で悪用されていることがオランダの国家サイバーセキュリティセンター（NCSC-NL）の報告で明らかになりました。インターネットからポート5900にアクセス可能な環境でroot権限が奪われ、仮想通貨のマイニングツールが設置される事例が確認されています。ユーザーには速やかなアップデートの適用と、画面共有利用時のVPN使用が推奨されています。"
-    },
-    {
-      "id": "2d5afc72ce77fd5901c8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Best AirPods deals right now: Save $120 on AirPods Max 2, AirPods Pro 3 for $190, more",
-      "url": "https://9to5mac.com/2026/08/17/best-airpods-deals-right-now-save-120-on-airpods-max-2-airpods-pro-3-for-190-more/",
-      "publishedAt": "2026-08-17T12:05:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/airpods-max-2-official-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirPods各モデルがセール、AirPods Max 2が120ドル引きに",
-      "summaryJa": "夏の終わりを迎え、AmazonやBest Buyなどの大手小売店でAirPodsシリーズの大幅な割引セールが実施されています。H2チップを搭載した最新のAirPods Max 2が通常549ドルのところ429ドルに値下げされているほか、AirPods Pro 3やANC搭載のAirPods 4もお得な価格で販売されています。"
-    },
-    {
-      "id": "752302ec0174653b9ac3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "A serious Mac screen sharing vulnerability is being actively exploited",
-      "url": "https://9to5mac.com/2026/08/17/a-serious-mac-screen-sharing-vulnerability-is-being-actively-exploited/",
-      "publishedAt": "2026-08-17T11:36:50.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/A-serious-Mac-screen-sharing-vulnerability-is-being-actively-exploited.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Macの画面共有機能に深刻な脆弱性、悪用の報告を受けて早急なアップデートを呼びかけ",
-      "summaryJa": "Appleが修正したmacOSの画面共有機能における深刻な脆弱性について、実際に悪用されている事例が確認されたと報じられています。ネットワーク上の攻撃者が認証を迂回してシステムに侵入し、仮想通貨マイニングツールなどが設置される被害が報告されました。対象となるmacOSバージョンを利用しているユーザーは、速やかに最新版へアップデートすることが強く推奨されます。"
     }
   ],
-  "updatedAt": "2026-08-25T14:08:29.358Z",
+  "updatedAt": "2026-08-25T15:02:48.543Z",
   "initialized": true,
   "summaryVersion": 4
 }
