@@ -1,6 +1,134 @@
 {
   "articles": [
     {
+      "id": "22a9989a0ff0694443c6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Announces New Mac Studio With M5 Ultra Chip",
+      "url": "https://www.macrumors.com/2026/08/25/apple-announces-new-mac-studio-with-m5-ultra-chip/",
+      "publishedAt": "2026-08-25T13:07:09.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/11/mac-studio-purple.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Announces New Mac Studio With M5 Ultra Chip",
+      "summaryJa": "Apple today announced a new Mac Studio powered by the M5 Ultra chip, which the company says is its most powerful chip ever. The M5 Ultra is built by connecting two dual-die M5 Max chips using Apple's next-generation UltraFusion technology, which increases inter-die bandwidth to over 4.4TB/s and connection density by more than 6x, allowing the four dies to function as a single processor. More to follow... Related Roundup: Mac Studio Buyer's Guide: Mac Studio (Don't Buy) Related Forum: Mac Studio This article, \" Apple Announces New Mac Studio With M5 Ultra Chip \" first appeared on MacRumors.com Discuss this article in our forums",
+      "translationStatus": "source"
+    },
+    {
+      "id": "76f374c4057119ef1340",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "publishedAt": "2026-08-25T13:00:23.969Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+      "summaryJa": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics. PRESS RELEASE August 25, 2026 Apple introduces new Mac Studio with M5 Max and M5 Ultra — the ultimate desktop for on‑device AI and the most extreme pro workflows Apple’s most powerful Mac raises the bar for local AI with up to 4.3x faster performance, more advanced graphics, up to 512GB of unified memory, and extensive connectivity Apple unveils the new Mac Studio, the most powerful Mac ever, featuring M5 Max and M5 Ultra. CUPERTINO, CALIFORNIA Apple today announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics for the most demanding pro workflows, all",
+      "translationStatus": "source"
+    },
+    {
+      "id": "7cf4f39d640f82f588d0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple unveils new Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://9to5mac.com/2026/08/25/apple-unveils-next-generation-mac-studio-with-m5-max-and-m5-ultra/",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-studio.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple unveils new Mac Studio with M5 Max and M5 Ultra",
+      "summaryJa": "Alongside the new Mac mini, Apple today has announced its next-generation Mac Studio. The new Mac Studio lineup is powered by the M5 Max and M5 Ultra chips and supports up to 512GB of unified memory. The new Mac Studio models are available to pre-order today . Alongside the new Mac mini, Apple today has announced its next-generation Mac Studio. The new Mac Studio lineup is powered by the M5 Max and M5 Ultra chips and supports up to 512GB of unified memory. The new Mac Studio models are available to pre-order today. M5 Max Mac Studio First, Apple has announced a new Mac Studio powered by M5 Max, an upgrade from the previous-generation M4 Max model. The M5 Max first debuted in the MacBook Pro earlier this year. M5 Max features an 18-core CPU with 6 super cores and 12 performance cores. The G",
+      "translationStatus": "source"
+    },
+    {
+      "id": "a7d59e06a04d691326d8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple launches next-gen Apple Silicon chips: M6 and M5 Ultra",
+      "url": "https://9to5mac.com/2026/08/25/apple-launches-next-gen-apple-silicon-chips-m6-and-m5-ultra/",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/m5-ultra-m6-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple launches next-gen Apple Silicon chips: M6 and M5 Ultra",
+      "summaryJa": "Apple has unveiled two new Apple Silicon chips today. The M6 chip debuts in a new Mac mini model and marks Apple’s first 2nm processor. The M5 Ultra launches in a refreshed Mac Studio and is Apple’s most powerful chip ever. Apple has unveiled two new Apple Silicon chips today. The M6 chip debuts in a new Mac mini model and marks Apple’s first 2nm processor. The M5 Ultra launches in a refreshed Mac Studio and is Apple’s most powerful chip ever. Apple’s new M6 chip The M6 is Apple’s first 2-nanometer chip, which the company says increases transistor density and power efficiency. This allows it to upgrade compute blocks without increasing die size. The M6 features a 12-core CPU, two more than the M5 chip. Notably, it’s Apple’s first processor with all three CPU core types. That includes two s",
+      "translationStatus": "source"
+    },
+    {
+      "id": "c2f3a932923f55332c63",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple announces updated Mac mini, here’s everything new",
+      "url": "https://9to5mac.com/2026/08/25/apple-announces-new-mac-mini-heres-everything-new/",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mini-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple announces updated Mac mini, here’s everything new",
+      "summaryJa": "Apple today announced the first Mac mini update in nearly two years. The new Mac mini keeps the same compact design, but delivers a major performance boost with the new M6 and M5 Pro configurations. The new Mac mini lineup is available to pre-order today . Head below for all the details. Apple today announced the first Mac mini update in nearly two years. The new Mac mini keeps the same compact design, but delivers a major performance boost with the new M6 and M5 Pro configurations. The new Mac mini lineup is available to pre-order today. Head below for all the details. M6 Mac mini The previous generation Mac mini was powered by the M4 and M4 Pro chips. Apple has taken a different strategy this time, opting to use the all-new M6 chip for the base configuration. The next tier, meanwhile, is",
+      "translationStatus": "source"
+    },
+    {
+      "id": "c4f0c55cff98dd1ed43d",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "publishedAt": "2026-08-25T12:59:36.109Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+      "summaryJa": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design. PRESS RELEASE August 25, 2026 Apple’s new Mac mini, featuring M6 and M5 Pro, delivers a massive leap in AI performance, supercharging the leading desktop for always-on agentic computing Mac mini delivers up to 4x faster AI performance, up to 2x faster graphics and storage, along with enhanced connectivity — all in its ultracompact footprint Users can do it all with the ultracompact Mac mini featuring the all-new M6 or powerful M5 Pro — from advanced productivity to running AI models on device, and more. CUPERTINO, CALIFORNIA Apple today announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dram",
+      "translationStatus": "source"
+    },
+    {
+      "id": "a6b5741e1a79863e8470",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "publishedAt": "2026-08-25T12:58:13.056Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "summaryJa": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities. PRESS RELEASE August 25, 2026 Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute M6, Apple’s first 2 nm chip, features a larger, more powerful 12-core CPU, 12-core GPU, and Dual 16-core Neural Engine, while M5 Ultra is Apple’s first quad-die architecture and its most powerful chip ever M6 delivers a revolutionary leap in everyday performance and power efficiency. M5 Ultra unleashes unprecedented desktop-class power and massive unified memory bandwidth to conquer the most demanding projects. CUPERTINO, CALIFORNIA Apple today debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in",
+      "translationStatus": "source"
+    },
+    {
+      "id": "2148cf805e751a2439de",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AI awaiting its iPhone moment, says Altman; needs to learn key Apple lesson",
+      "url": "https://9to5mac.com/2026/08/25/ai-awaiting-its-iphone-moment-says-altman-needs-to-learn-key-apple-lesson/",
+      "publishedAt": "2026-08-25T12:18:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/AI-awaiting-its-iPhone-moment.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AI awaiting its iPhone moment, says Altman; needs to learn key Apple lesson",
+      "summaryJa": "OpenAI CEO Sam Altman says that AI is still awaiting its iPhone moment, and that he needs to learn a key lesson from Apple . He also admits that he was overly ambitious in his idea of how quickly AI would disrupt the economy, but thinks that, paradoxically, the tech will create new opportunities for businesses that don’t use it … OpenAI CEO Sam Altman says that AI is still awaiting its iPhone moment, and that he needs to learn a key lesson from Apple. He also admits that he was overly ambitious in his idea of how quickly AI would disrupt the economy, but thinks that, paradoxically, the tech will create new opportunities for businesses that don’t use it … AI awaiting the iPhone moment Altman made the comments in a David Senra podcast episode reported by TNW. He likened the current AI era to",
+      "translationStatus": "source"
+    },
+    {
       "id": "ec170db7db871b54a1b0",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -12,9 +140,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "DuckDuckGo survey highlights how much personal information users share with AI",
-      "summaryJa": "Private search company DuckDuckGo has released a new survey highlighting just how much personal information people are sharing with AI chatbots, and how little many understand about what happens to those conversations. Here are the details. Private search company DuckDuckGo has released a new survey highlighting just how much personal information people are sharing with AI chatbots, and how little many understand about what happens to those conversations. Here are the details. Survey shows AI users are sharing more than they realize In a survey published today, DuckDuckGo highlights several privacy-related aspects around how people use AI chatbots, including the fact that nearly one in three users have told an AI something they would not tell friends, family, colleagues, or medical profess",
-      "translationStatus": "source"
+      "titleJa": "DuckDuckGo、AIチャットでの個人情報共有に関する調査結果を公開",
+      "summaryJa": "プライバシー重視の検索エンジンを提供するDuckDuckGoが、AIチャットボットでの個人情報の共有実態に関する調査結果を公開しました。調査によると、3人に1人近くのユーザーが友人や家族にも話さないような内容をAIに伝えている一方で、多くの人がチャット内容がデフォルトでAIの学習に利用されていることを知らないことが明らかになっています。"
     },
     {
       "id": "498b757444b7a520bc7c",
@@ -28,9 +155,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon",
-      "summaryJa": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . Virtualization on macOS has become rock-solid in the Apple Silicon era. Parallels Desktop 27 pushes that further with a new Metal-based graphics driver, OpenGL 4.3 support for Windows virtual machines on Apple silicon, faster local AI workloads, and a host of enterprise features aimed a",
-      "translationStatus": "source"
+      "titleJa": "Parallels Desktop 27がApple Silicon向けに登場、OpenGL 4.3やAI処理を強化",
+      "summaryJa": "仮想化ソフトの最新版「Parallels Desktop 27」がリリースされ、Apple Silicon搭載MacでのWindows仮想環境における機能がさらに強化されました。MetalベースのグラフィックスドライバーやOpenGL 4.3のサポートに加え、ローカルでのAI処理の高速化が図られています。IT管理者がMac上でWindowsを効率的に展開・管理するための企業向け機能も多数追加されました。"
     },
     {
       "id": "785d253ae38ac63e0010",
@@ -44,9 +170,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Watch Series 12 to Get Fitness Tracking Upgrades",
-      "summaryJa": "Apple's new Apple Watch models will feature upgrades to fitness tracking, according to Bloomberg 's Mark Gurman , who otherwise characterized this year's changes to the lineup as \"minor.\" Gurman said much the same in July , pointing to faster performance and better health and fitness tracking in the absence of any design overhaul. Related Roundup: Apple Watch 11 Tags: Bloomberg , Mark Gurman Buyer's Guide: Apple Watch (Don't Buy) This article, \" Apple Watch Series 12 to Get Fitness Tracking Upgrades \" first appeared on MacRumors.com Discuss this article in our forums",
-      "translationStatus": "source"
+      "titleJa": "Apple Watch、次期モデルではフィットネス追跡機能が強化か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者が報じたところによると、今後のApple Watchシリーズではデザインの大幅な変更はないものの、フィットネス追跡機能のアップグレードやパフォーマンスの高速化が予定されているとのことです。今年の変更点は小規模にとどまると予想されていますが、ヘルスケア機能の進化に引き続き注目が集まっています。"
     },
     {
       "id": "7af471378645bed5c738",
@@ -60,9 +185,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "'MacBook Ultra' Coming Soon With Touchscreen and 5 Other Changes",
-      "summaryJa": "Reports and rumors suggest the next high-end MacBook Pro that Apple will release might not be a ‌MacBook Pro‌ at all. It could actually be something altogether new and more exciting – a \" MacBook Ultra \" – marketed as the company's top-tier laptop offering. The device is likely to sit above the current M5 Pro and M5 Max MacBook Pros, rather than replace them, suggesting that they will remain on sale. One thing to state up front is that Apple is expected to stick with the existing M5 Pro and M5 Max chips for its touchscreen \"Ultra\" model. Apple reportedly plans to skip what would have been the \"M6 Pro\" and \"M6 Max\" for more powerful \"M7 Pro\" and \"M7 Max\" chips. A new entry-level ‌MacBook Pro‌ with the M6 chip is still expected to launch later this year, while the second-generation MacBook U",
-      "translationStatus": "source"
+      "titleJa": "Apple、タッチスクリーン搭載の「MacBook Ultra」を準備中か",
+      "summaryJa": "Appleが従来のMacBook Proの上位に位置する、新しいハイエンドモデル「MacBook Ultra」を計画していると報じられています。このモデルにはOLEDディスプレイやタッチスクリーンが採用される可能性が指摘されており、今後の展開や具体的な仕様について大きな関心が寄せられています。"
     },
     {
       "id": "0da7aecd2bdf90085b3b",
@@ -76,9 +200,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "MacBook Lock aims to keep your laptop safe in coffee shops",
-      "summaryJa": "Years ago, MacBooks incorporated a slot for using a cable lock to secure the device to a table leg or similar. They were most useful in coffee shops when you wanted to return to the counter to order another drink without having to carry your laptop with you. Those slots are long gone, but you can now buy adapters to secure your MacBook Neo , MacBook Air or MacBook Pro … Years ago, MacBooks incorporated a slot for using a cable lock to secure the device to a table leg or similar. They were most useful in coffee shops when you wanted to return to the counter to order another drink without having to carry your laptop with you. Those slots are long gone, but you can now buy adapters to secure your MacBook Neo, MacBook Air or MacBook Pro … You have to have been a relatively long-term MacBook us",
-      "translationStatus": "source"
+      "titleJa": "MacBookの盗難を防ぐ専用ケーブルロックアダプタが登場",
+      "summaryJa": "かつてMacBookの側面に備わっていたセキュリティスロットの機能を現代のモデルでも利用できるようにする専用アダプタが登場しました。CompuLockが展開するこの製品は、MacBook AirやMacBook Proなどの本体に取り付けることで、テーブルの脚などにケーブルで固定できるようになります。数秒の隙を突いた持ち去り被害を防ぐための低セキュリティ向けの対策ですが、カフェや図書館などで席を離れる際の簡易的な防犯手段として役立ちます。"
     },
     {
       "id": "45f0e71af9e0fbf4cb1e",
@@ -4388,129 +4511,9 @@
       ],
       "titleJa": "極薄で多機能なiPhone向けおすすめアクセサリー選",
       "summaryJa": "日常の持ち歩きに最適な、極薄かつ多機能なiPhone向けアクセサリーの数々を紹介しています。カメラ部分と同じほどの薄さを実現しながら、スタンドや指を通すグリップ機能を備えたアイテムなどが取り上げられており、ワイヤレス充電にも対応しています。かさばらずに利便性を高めたいユーザーに向けた、注目のコンパクトな周辺機器です。"
-    },
-    {
-      "id": "2019ce6dd8df1fccb421",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Top Stories: iOS 27 Beta 5, iPhone 18 Pro Rumors, and More",
-      "url": "https://www.macrumors.com/2026/08/15/top-stories-ios-27-beta-5/",
-      "publishedAt": "2026-08-15T13:00:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/top-stories-2026-08-15.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27ベータ5や次期iPhoneの最新情報が浮上",
-      "summaryJa": "Appleは来月の新モデル向けOSリリースに向け準備を進めており、最新のiOS 27ベータ5ではアイコンのデザイン調整や新機能が追加されました。また、次期iPhone 18 Pro Maxの大容量バッテリー搭載に関する噂や、折りたたみ式モデルに関する情報も報じられています。"
-    },
-    {
-      "id": "c8a8e281ff7c4406c224",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple weekend deals: MacBooks up to $540 off, AirPods up to $100 off, Apple Watch, more",
-      "url": "https://9to5mac.com/2026/08/15/apple-weekend-deals-macbooks-airpods/",
-      "publishedAt": "2026-08-15T12:20:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Weekend-apple-deals-august-14-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "MacBookやAirPodsなどApple製品が最大540ドル引きのセール",
-      "summaryJa": "週末に向けた最新のセール情報が公開され、MacBookシリーズや各種AirPods、Apple Watchなどが割引価格で販売されています。M5 Proを搭載したMacBook Proモデルが最大540ドル引きとなるほか、AirPods ProやAirPods Maxなどもお買い得になっています。Amazonでの充電関連アクセサリのセールと合わせてチェックしておくと良いでしょう。"
-    },
-    {
-      "id": "bdb389f1cf29df8b9e70",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Commerce Secretary says US opposes Apple buying Chinese memory chips",
-      "url": "https://9to5mac.com/2026/08/14/commerce-secretary-says-us-opposes-apple-buying-chinese-memory-chips/",
-      "publishedAt": "2026-08-15T02:15:02.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2022/10/Working-for-Apple.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "米商務長官、Appleの中国製メモリチップ購入に反対の意向",
-      "summaryJa": "米国のハワード・ラトニック商務長官が、世界的な供給不足への対策として中国製メモリチップの調達を検討しているAppleに対し、反対する姿勢を示したと報じられています。AppleはCXMTやYMTCからの調達を目指してトランプ政権側に働きかけを行ってきましたが、両社は安全保障上の懸念から米政府の制裁対象や軍関連企業に指定されており、超党派での反発を受けています。"
-    },
-    {
-      "id": "01276254e97086c18f0f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp working on customizable emoji reaction sets on iOS",
-      "url": "https://9to5mac.com/2026/08/14/whatsapp-working-on-customizable-emoji-reaction-sets-on-ios/",
-      "publishedAt": "2026-08-14T21:49:23.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp、絵文字リアクションのカスタム機能テストか",
-      "summaryJa": "iOS向けWhatsAppの最新ベータ版から、メッセージへのリアクションで使用するデフォルトの絵文字をユーザーが自由に変更できるよう準備を進めていることが明らかになりました。長押し時に表示される6つの初期絵文字トレイを自分の好みのものに入れ替え可能になり、いつでも初期設定に戻すこともできます。現在はまだベータテスターにも公開されていませんが、将来のアップデートでの提供が見込まれています。"
-    },
-    {
-      "id": "b22c93003f2207c3403a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple adds new MacBook Air configs, iPhone 16 Plus models, more to refurb store",
-      "url": "https://9to5mac.com/2026/08/14/apple-adds-new-macbook-air-iphone-16-plus-refurb-store/",
-      "publishedAt": "2026-08-14T20:57:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/m5-macbook-air-video.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、整備済製品ストアにMacBookやiPhone 16 Plusを追加",
-      "summaryJa": "Appleは公式の認定整備済製品ストアを更新し、MacBook AirやMacBook Proの新しい構成に加え、iPhone 16 PlusモデルやApple Watchなどを追加しました。整備済製品は最大15%オフの割引価格で購入可能で、1年間の限定保証や14日間の返品ポリシーが適用されます。在庫は頻繁に入れ替わるため、気になる製品がある場合は早めの確認と購入が推奨されます。"
-    },
-    {
-      "id": "052d6d3fe30566adc77c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "ChatGPT subscribers can now open and edit Google Drive files from inside the chat",
-      "url": "https://9to5mac.com/2026/08/14/chatgpt-subscribers-can-now-open-and-edit-google-drive-files-from-inside-the-chat/",
-      "publishedAt": "2026-08-14T20:31:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/chatgpt-googledive.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ChatGPT、Googleドライブとの連携強化でファイル直接編集が可能に",
-      "summaryJa": "有料プランの利用者向けに、ChatGPTとGoogleドライブの統合機能が拡充されました。チャット画面から直接Googleドライブのファイルをライブラリに追加し、ウィンドウを切り替えることなく内容の閲覧や編集を行えるようになります。編集内容はコピーではなく実際のファイルに直接反映され、さらに特定のトピックについてインタラクティブに出題してくれるクイズ機能なども新たに追加されています。"
-    },
-    {
-      "id": "5636c9d7b8bb1ee9603d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "These AI tools make my life much easier on the Mac",
-      "url": "https://9to5mac.com/2026/08/14/these-ai-tools-make-my-life-much-easier-on-the-mac/",
-      "publishedAt": "2026-08-14T19:57:27.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/aluminum_header.png?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Macでの作業効率を高める実用的なAIツールの活用法",
-      "summaryJa": "AIブームから数年が経過した現在、日々の業務や個人プロジェクトを効率化するために実際に定着した便利なAIツールが紹介されています。数多くのツールが存在する中で、主流となっている製品にはそれだけの理由があり、ワークフローに合わせた適切な活用が重要です。日々の作業を円滑にする具体的なツール選定のヒントが得られます。"
-    },
-    {
-      "id": "1f3a3bee6a0b0e586574",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Tim Cook on his Apple legacy: ‘I hope people say I was a good and decent man’",
-      "url": "https://9to5mac.com/2026/08/14/tim-cook-on-his-apple-legacy-i-hope-people-say-i-was-a-good-and-decent-man/",
-      "publishedAt": "2026-08-14T19:49:29.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/tim-cook-cbs.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ティム・クックCEOが退任を前に自身のレガシーや製品価格について語る",
-      "summaryJa": "9月1日のジョン・ターナスへの引き継ぎを控え、ティム・クックCEOがCBS Newsのインタビューで自身のレガシーについて振り返りました。クック氏は、自身の業績は他者が語るものであり、人々から「善良でまともな人間だった」と言われることが目標だと述べています。また、COOのサビ・ハン氏はiPhoneやiPadなどの価格上昇について、メモリ部品の高騰が前例のないペースで進んでおり、サプライチェーンと協力して解決策を模索していると説明しました。"
     }
   ],
-  "updatedAt": "2026-08-25T12:06:09.134Z",
+  "updatedAt": "2026-08-25T13:10:19.155Z",
   "initialized": true,
   "summaryVersion": 4
 }
