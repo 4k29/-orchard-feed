@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "6bb9143476109d828661",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Notability can now organize meeting recordings, transcriptions, and notes around your calendar",
+      "url": "https://9to5mac.com/2026/08/25/notability-can-now-organize-meeting-recordings-transcriptions-and-notes-around-your-calendar/",
+      "publishedAt": "2026-08-25T22:49:13.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/notability.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Notability、カレンダーと連携する会議記録・文字起こし機能を提供開始",
+      "summaryJa": "人気ノートアプリのNotabilityが、MacおよびWindows向けにカレンダーイベントと直接連携する新しいデスクトップワークフローを発表しました。ユーザーはカレンダーから直接会議や講義の録音を開始でき、音声、文字起こし、手書きノートを単一のイベント紐付けドキュメントに自動整理できます。ボットを参加させる必要がなくシステム音声を直接キャッチできるのが特徴で、今後はシラバスのインポート機能も追加される予定です。"
+    },
+    {
+      "id": "933cb249840a1b89e00a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: August 25, 2026 – New Mac mini and Mac Studio unveiled",
+      "url": "https://9to5mac.com/2026/08/25/daily-august-25-2026/",
+      "publishedAt": "2026-08-25T22:48:14.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新型Mac miniとMac Studioが登場、9to5Mac Dailyが解説",
+      "summaryJa": "ポッドキャスト番組9to5Mac Dailyが、最新のAppleニュースを音声で振り返ります。今回のエピソードでは、M6およびM5 Proチップを搭載した新しいMac miniや、M5 MaxおよびM5 Ultraを搭載した新しいMac Studioの登場をはじめとする、次世代Appleシリコンに関する注目トピックが紹介されています。"
+    },
+    {
       "id": "b492cb02e545a0327504",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4476,39 +4506,9 @@
       ],
       "titleJa": "Apple、iOS 26.6.1やmacOS 26.6.2などをリリース",
       "summaryJa": "Appleはセキュリティ修正を含むiOS 26.6.1、iPadOS 26.6.1、visionOS 26.6.1、macOS 26.6.2に加え、iOS/iPadOS 18.7.10を配信開始しました。具体的なセキュリティ修正の内容については、間もなく公開される予定です。各アップデートには、先週提供されたリリース候補版とは異なる新しいビルド番号が付与されています。"
-    },
-    {
-      "id": "14b95a50f9a6c23471e2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases iOS 26.6.1 for iPhone, here’s what’s new",
-      "url": "https://9to5mac.com/2026/08/17/apple-releases-ios-26-6-1-for-iphone-heres-whats-new/",
-      "publishedAt": "2026-08-17T17:36:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPhone向けにiOS 26.6.1を公開",
-      "summaryJa": "AppleはiPhone向けにセキュリティ修正を含むソフトウェアアップデート「iOS 26.6.1」をリリースしました。来月予定されている大規模な次期OSリリースを前に、デバイスの安全性と安定性を向上させるための更新となっています。同時にiPadOSやmacOSなどの各OS向けにも同様のアップデートが提供されています。"
-    },
-    {
-      "id": "0c15f797046d8c8a0ebb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases beta 6 for iPadOS 27, tvOS 27, and more",
-      "url": "https://9to5mac.com/2026/08/17/apple-releases-beta-6-for-ipados-27-tvos-27-and-more/",
-      "publishedAt": "2026-08-17T17:22:59.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPadOS 27などの開発者向けベータ6を配信",
-      "summaryJa": "Appleは今秋の正式リリースに向け、iPadOS 27やtvOS 27などの開発者向けベータ6の提供を開始しました。8月に入りリリース周期が週単位へと加速しており、今回のベータ版では主にパフォーマンスの向上やバグの修正に焦点を当てて安定性を高めています。"
     }
   ],
-  "updatedAt": "2026-08-25T22:16:57.693Z",
+  "updatedAt": "2026-08-25T22:51:15.597Z",
   "initialized": true,
   "summaryVersion": 4
 }
