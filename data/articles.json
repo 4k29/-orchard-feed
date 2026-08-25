@@ -1,6 +1,86 @@
 {
   "articles": [
     {
+      "id": "ec170db7db871b54a1b0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "DuckDuckGo survey highlights how much personal information users share with AI",
+      "url": "https://9to5mac.com/2026/08/25/duckduckgo-survey-highlights-how-much-personal-information-users-share-with-ai/",
+      "publishedAt": "2026-08-25T12:00:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/duckduckgo-ai-survey.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "DuckDuckGo survey highlights how much personal information users share with AI",
+      "summaryJa": "Private search company DuckDuckGo has released a new survey highlighting just how much personal information people are sharing with AI chatbots, and how little many understand about what happens to those conversations. Here are the details. Private search company DuckDuckGo has released a new survey highlighting just how much personal information people are sharing with AI chatbots, and how little many understand about what happens to those conversations. Here are the details. Survey shows AI users are sharing more than they realize In a survey published today, DuckDuckGo highlights several privacy-related aspects around how people use AI chatbots, including the fact that nearly one in three users have told an AI something they would not tell friends, family, colleagues, or medical profess",
+      "translationStatus": "source"
+    },
+    {
+      "id": "498b757444b7a520bc7c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon",
+      "url": "https://9to5mac.com/2026/08/25/parallels-desktop-27/",
+      "publishedAt": "2026-08-25T12:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Parallels-27-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon",
+      "summaryJa": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . Virtualization on macOS has become rock-solid in the Apple Silicon era. Parallels Desktop 27 pushes that further with a new Metal-based graphics driver, OpenGL 4.3 support for Windows virtual machines on Apple silicon, faster local AI workloads, and a host of enterprise features aimed a",
+      "translationStatus": "source"
+    },
+    {
+      "id": "785d253ae38ac63e0010",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 to Get Fitness Tracking Upgrades",
+      "url": "https://www.macrumors.com/2026/08/25/apple-watch-series-12-to-get-fitness-upgrades/",
+      "publishedAt": "2026-08-25T11:55:58.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-watch-series-12-activity-rings-fitness.png",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 12 to Get Fitness Tracking Upgrades",
+      "summaryJa": "Apple's new Apple Watch models will feature upgrades to fitness tracking, according to Bloomberg 's Mark Gurman , who otherwise characterized this year's changes to the lineup as \"minor.\" Gurman said much the same in July , pointing to faster performance and better health and fitness tracking in the absence of any design overhaul. Related Roundup: Apple Watch 11 Tags: Bloomberg , Mark Gurman Buyer's Guide: Apple Watch (Don't Buy) This article, \" Apple Watch Series 12 to Get Fitness Tracking Upgrades \" first appeared on MacRumors.com Discuss this article in our forums",
+      "translationStatus": "source"
+    },
+    {
+      "id": "7af471378645bed5c738",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "'MacBook Ultra' Coming Soon With Touchscreen and 5 Other Changes",
+      "url": "https://www.macrumors.com/2026/08/25/macbook-ultra-coming-soon-touchscreen-5-changes/",
+      "publishedAt": "2026-08-25T11:43:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/macbook-ultra.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "'MacBook Ultra' Coming Soon With Touchscreen and 5 Other Changes",
+      "summaryJa": "Reports and rumors suggest the next high-end MacBook Pro that Apple will release might not be a ‌MacBook Pro‌ at all. It could actually be something altogether new and more exciting – a \" MacBook Ultra \" – marketed as the company's top-tier laptop offering. The device is likely to sit above the current M5 Pro and M5 Max MacBook Pros, rather than replace them, suggesting that they will remain on sale. One thing to state up front is that Apple is expected to stick with the existing M5 Pro and M5 Max chips for its touchscreen \"Ultra\" model. Apple reportedly plans to skip what would have been the \"M6 Pro\" and \"M6 Max\" for more powerful \"M7 Pro\" and \"M7 Max\" chips. A new entry-level ‌MacBook Pro‌ with the M6 chip is still expected to launch later this year, while the second-generation MacBook U",
+      "translationStatus": "source"
+    },
+    {
+      "id": "0da7aecd2bdf90085b3b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MacBook Lock aims to keep your laptop safe in coffee shops",
+      "url": "https://9to5mac.com/2026/08/25/macbook-lock-aims-to-keep-your-laptop-safe-in-coffee-shops/",
+      "publishedAt": "2026-08-25T11:37:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/MacBook-Lock-aims-to-keep-your-laptop-safe-in-coffee-shops.jpg?quality=82&#038;strip=all&#038;w=1200",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBook Lock aims to keep your laptop safe in coffee shops",
+      "summaryJa": "Years ago, MacBooks incorporated a slot for using a cable lock to secure the device to a table leg or similar. They were most useful in coffee shops when you wanted to return to the counter to order another drink without having to carry your laptop with you. Those slots are long gone, but you can now buy adapters to secure your MacBook Neo , MacBook Air or MacBook Pro … Years ago, MacBooks incorporated a slot for using a cable lock to secure the device to a table leg or similar. They were most useful in coffee shops when you wanted to return to the counter to order another drink without having to carry your laptop with you. Those slots are long gone, but you can now buy adapters to secure your MacBook Neo, MacBook Air or MacBook Pro … You have to have been a relatively long-term MacBook us",
+      "translationStatus": "source"
+    },
+    {
       "id": "45f0e71af9e0fbf4cb1e",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4428,84 +4508,9 @@
       ],
       "titleJa": "ティム・クックCEOが退任を前に自身のレガシーや製品価格について語る",
       "summaryJa": "9月1日のジョン・ターナスへの引き継ぎを控え、ティム・クックCEOがCBS Newsのインタビューで自身のレガシーについて振り返りました。クック氏は、自身の業績は他者が語るものであり、人々から「善良でまともな人間だった」と言われることが目標だと述べています。また、COOのサビ・ハン氏はiPhoneやiPadなどの価格上昇について、メモリ部品の高騰が前例のないペースで進んでおり、サプライチェーンと協力して解決策を模索していると説明しました。"
-    },
-    {
-      "id": "848c64662cb014e97003",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 14, 2026 – Apple TV news, iPhone 18 expectations",
-      "url": "https://9to5mac.com/2026/08/14/daily-august-14-2026/",
-      "publishedAt": "2026-08-14T19:44:33.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18のProモデルの進化やApple TVの最新情報まとめ",
-      "summaryJa": "9to5Macのポッドキャスト番組にて、最新のApple関連ニュースが総括されています。iPhone 18シリーズではProモデル向けに2つの新たな上位アップグレードが噂されており、今後の展開が注目されています。また、Appleが政府渉外の責任者としてアメリカン航空の幹部を採用したことや、Apple TV関連の最新動向についても触れられています。"
-    },
-    {
-      "id": "6b9d5e28af4df6248c15",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Max vs Pro: Here’s how Apple will differentiate models",
-      "url": "https://9to5mac.com/2026/08/14/iphone-18-pro-max-vs-pro-heres-how-apple-will-differentiate-models/",
-      "publishedAt": "2026-08-14T19:35:33.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Pro MaxとProの違い、バッテリー容量やカメラの噂",
-      "summaryJa": "間もなく発表される見込みのiPhone 18 Proシリーズについて、Pro Maxモデルにより大きな差別化が図られると報じられています。流出した規制情報によると、iPhone 18 Pro Maxのバッテリー容量は約5567mAhとなり、前世代やProモデルに比べて大幅な増加が見込まれています。一方で、サイズや重量が増すほか、可変絞りシステムなどの独自のカメラ機能がPro Max限定で搭載される可能性も噂されています。"
-    },
-    {
-      "id": "d30e22939e86fa02e878",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple takes down billboard after accusations of normalizing ‘electronic babysitting’",
-      "url": "https://9to5mac.com/2026/08/14/apple-takes-down-billboard-after-accusations-of-normalizing-electronic-babysitting/",
-      "publishedAt": "2026-08-14T19:29:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-logo-milan-store.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、幼児とiPhoneを描いたミラノの広告看板を撤去",
-      "summaryJa": "Appleは「Relax, it's iPhone」キャンペーンの一環としてミラノに掲示した、幼児がiPhoneを持っている広告看板を撤去しました。この広告はイタリアの児童権利監視団体から「電子的な子守の正常化」にあたると批判を受けていました。批判を受けたAppleは速やかに看板を撤去し、現在は「探す」機能をアピールする別の広告へと差し替えています。"
-    },
-    {
-      "id": "200c7bb877b714c6d3a7",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Should You Buy an iPhone 17 Now or Wait for iPhone 18?",
-      "url": "https://www.macrumors.com/2026/08/14/iphone-17-vs-iphone-18-buying/",
-      "publishedAt": "2026-08-14T19:15:27.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 17を今すぐ買うべきか、次期モデルを待つべきか",
-      "summaryJa": "今秋の新型iPhoneの発売スケジュールや価格動向をめぐり、現行モデルを今購入すべきか次期モデルを待つべきか議論されています。今後は価格上昇の可能性や下取り価格の変動が予想されるため、購入のタイミングが重要になると伝えられています。"
-    },
-    {
-      "id": "cebf315fa5101ef6366a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV has 15+ new movies and it’s just the start of a big fall lineup",
-      "url": "https://9to5mac.com/2026/08/14/apple-tv-has-15-new-movies-and-its-just-the-start-of-a-big-fall-ahead/",
-      "publishedAt": "2026-08-14T18:28:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-tv-logo.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、秋の新作映画公開に向けて過去の名作を多数追加",
-      "summaryJa": "Apple TVは、秋に予定されている多数の新作映画の配信を控えて、購読者向けに人気の名作映画を大量に追加しました。今回の追加によりライブラリが一気に拡充され、今秋には受賞を狙う話題作からアクション映画まで幅広いオリジナル作品の配信も控えています。同サービスは月額12.99ドルから提供されています。"
     }
   ],
-  "updatedAt": "2026-08-25T11:37:01.472Z",
+  "updatedAt": "2026-08-25T12:06:09.134Z",
   "initialized": true,
   "summaryVersion": 4
 }
