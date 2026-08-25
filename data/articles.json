@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "b492cb02e545a0327504",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here are all the Apple devices with full Wi-Fi 7 support",
+      "url": "https://9to5mac.com/2026/08/25/here-are-all-the-apple-devices-with-full-wi-fi-7-support/",
+      "publishedAt": "2026-08-25T21:45:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/01/Generic-Wi-Fi-icon.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Wi-Fi 7完全対応のデバイスリストを公開",
+      "summaryJa": "Appleは最新のサポートドキュメントで、Wi-Fi 7のすべての機能に完全対応しているデバイスの公式リストを公開しました。M5世代以降のMacBook ProやiPhone 16 Proシリーズなどが対象に含まれています。なお、6GHz帯の利用は各地域の法規制に依存するため、対応していない地域では2.4GHz帯や5GHz帯のみでの接続となります。"
+    },
+    {
       "id": "3bde08bfe00b3556a337",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4491,24 +4506,9 @@
       ],
       "titleJa": "Apple、iPadOS 27などの開発者向けベータ6を配信",
       "summaryJa": "Appleは今秋の正式リリースに向け、iPadOS 27やtvOS 27などの開発者向けベータ6の提供を開始しました。8月に入りリリース周期が週単位へと加速しており、今回のベータ版では主にパフォーマンスの向上やバグの修正に焦点を当てて安定性を高めています。"
-    },
-    {
-      "id": "f79d1a7e9723bea7881f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds Sixth iOS 27 and iPadOS 27 Betas to Developers",
-      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-ios-27-developer-beta/",
-      "publishedAt": "2026-08-17T17:19:28.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、開発者向けにiOS 27とiPadOS 27のベータ6を公開",
-      "summaryJa": "Appleは登録開発者向けにiOS 27とiPadOS 27の第6ベータ版の提供を開始しました。前回のベータ版から1週間でのリリースとなり、AIを活用した新しいSiri機能やシステム全体のパフォーマンス改善などがテストされています。正式公開に向け、細かな調整と安定性の検証が進められています。"
     }
   ],
-  "updatedAt": "2026-08-25T21:21:16.163Z",
+  "updatedAt": "2026-08-25T21:51:03.900Z",
   "initialized": true,
   "summaryVersion": 4
 }
