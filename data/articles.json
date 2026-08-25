@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "7f65dd4fd845b3c5c94e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New Mac mini and more now available from Amazon for launch day pre-order",
+      "url": "https://9to5mac.com/2026/08/25/new-mac-mini-now-available-amazon-launch-day-preorder/",
+      "publishedAt": "2026-08-25T17:09:04.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-mac-studio-chips.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新型Mac miniや新型Mac Studioの予約受付が開始",
+      "summaryJa": "Appleの新製品発表に伴い、AmazonやApple公式サイトなどで新型Mac miniやアクセサリの予約受付が開始されました。新しいM6およびM5 Ultraチップを搭載し、パフォーマンスの向上やAI最適化などが図られています。確実な発売日受取りやカスタム構成を希望する場合はApple公式サイトでの購入が推奨されています。"
+    },
+    {
+      "id": "4cad328c16fb062077e7",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Mac Studio With M5 Ultra Chip and 512GB of RAM Launching in October",
+      "url": "https://www.macrumors.com/2026/08/25/mac-studio-m5-ultra-512gb-ram-october/",
+      "publishedAt": "2026-08-25T16:55:49.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/06/Mac-Studio-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "512GBメモリ搭載のMac Studio上位構成が10月に発売か",
+      "summaryJa": "Appleが新たに発表したM5 Ultraチップ搭載のMac Studioについて、512GBのRAMを備えた構成が10月下旬に追加されると報じられています。半導体不足の影響で前世代では一時提供が停止されていましたが、新型モデルで再び大容量メモリのオプションが復活する形となります。米国での価格は1万ドルを大きく超える見込みです。"
+    },
+    {
       "id": "9d517a158015dee79d94",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4476,39 +4506,9 @@
       ],
       "titleJa": "Sonosアプリ、iPhoneのライブアクティビティに対応",
       "summaryJa": "Sonosは最新のiOSアプリで、ユーザーから長く要望されていたライブアクティビティ機能に対応しました。再生を開始してアプリを閉じるとロック画面にコントローラーが表示され、現在の再生ルームやグループを確認できます。アルバムアートは非対応ですが、CarPlayやApple Watchでも利用でき、不要な場合は設定から無効化することが可能です。"
-    },
-    {
-      "id": "7ff6ea40f6f6d78f69db",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Wallet Driver's License Feature to Launch in Four More U.S. States",
-      "url": "https://www.macrumors.com/2026/08/17/apple-wallet-ids-expanding-to-four-more-states/",
-      "publishedAt": "2026-08-17T14:53:03.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/04/apple-wallet-drivers-license-feature-iPhone-15-pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleウォレットの身分証明書機能、4つの州へ拡大へ",
-      "summaryJa": "Appleウォレットに運転免許証や州の身分証明書を追加できる機能が、新たに4つの米国の州で導入される予定であることがコードや報道から明らかになりました。対象となるのはノースカロライナ州、オクラホマ州、ユタ州、バージニア州です。すでに導入済みの14州に続く形となりますが、店舗や法的機関での対応状況により当面は物理カードの携帯が推奨されています。"
-    },
-    {
-      "id": "f94b24d0ccdc7ae5078b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 Finally Fixes Replying to Android Texts",
-      "url": "https://www.macrumors.com/2026/08/17/ios-27-finally-fixes-replying-to-android-texts/",
-      "publishedAt": "2026-08-17T14:28:19.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/ios-27-rcs-replies.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27、Androidメッセージへの返信やリアクションに対応へ",
-      "summaryJa": "来月登場するiOS 27では、RCS Universal Profile 3.0の採用により、iPhoneからAndroidユーザーのメッセージに対して直接スレッド形式で返信や絵文字のリアクションを送ることができるようになります。これまではテキストで「画像を気に入りました」などと表示されていましたが、相手には実際の絵文字として正しく伝わるようになります。利用には通信事業者のサポートも必要となり、設定のRCSメッセージングから事前に対応状況を確認できます。"
     }
   ],
-  "updatedAt": "2026-08-25T16:34:39.611Z",
+  "updatedAt": "2026-08-25T17:12:05.174Z",
   "initialized": true,
   "summaryVersion": 4
 }
