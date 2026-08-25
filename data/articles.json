@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "e566a21ddefccd90af1b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Tom Selleck confirmed as guest star in upcoming Apple TV comedy series",
+      "url": "https://9to5mac.com/2026/08/24/tom-selleck-confirmed-as-guest-star-in-upcoming-apple-tv-comedy-series/",
+      "publishedAt": "2026-08-25T01:05:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-tv-logo.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVの新作コメディシリーズにトム・セックがゲスト出演か",
+      "summaryJa": "エリザベス・バンクスが主演を務めるApple TVの未発表コメディシリーズに、伝説的俳優のトム・セックがゲスト出演すると報じられています。本作は離婚直後の女性が父親の老後の恋愛事情をきっかけに騒動に巻き込まれるストーリーで、テッド・ダンソンら豪華なキャスト陣が揃っています。"
+    },
+    {
       "id": "fc8115d54b381510dea8",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "tvOS 27と新機能が促すApple TV 4Kの買い替え",
       "summaryJa": "まもなく登場するtvOS 27は、Siri AIなどの新機能を備え、古いモデルのサポートを終了することから、新しいApple TV 4Kへの買い替えを促す契機になると報じられています。これまでのモデルでは利用できない高度なAI機能や、旧機種のサポート終了が組み合わさることで、多くの家庭でハードウェアのアップグレードが検討される可能性があります。"
-    },
-    {
-      "id": "8f2a717ce3085d83795c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Best Apple Deals of the Week: Steep Discounts Hit AirPods, MacBook Pro, and Anker Accessories",
-      "url": "https://www.macrumors.com/2026/08/14/best-apple-deals-of-the-week-8-14-26/",
-      "publishedAt": "2026-08-14T14:18:44.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AirPodsやMacBook Proが対象の今週のセール情報",
-      "summaryJa": "Amazonの新学期セールに合わせ、AirPods ProやAirPods Max、MacBook Pro、さらにAnkerなどのアクセサリが大幅な割引価格で販売されています。AirPods Proなどは今年の中でも特に魅力的な価格となっており、関連製品をお得に購入できる絶好の機会となっています。"
     }
   ],
-  "updatedAt": "2026-08-24T23:59:09.195Z",
+  "updatedAt": "2026-08-25T01:46:57.173Z",
   "initialized": true,
   "summaryVersion": 4
 }
