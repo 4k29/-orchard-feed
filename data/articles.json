@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "203158994c96c671ef23",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: New Mac mini could launch before Apple’s September event",
+      "url": "https://9to5mac.com/2026/08/24/report-new-mac-mini-could-launch-before-apples-september-event/",
+      "publishedAt": "2026-08-25T02:26:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Mac-mini-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、新型Mac miniを9月のイベント前に発売か",
+      "summaryJa": "Bloombergの報道によると、Appleは9月のiPhone関連イベントを前に、数日内にも新型Mac miniを発表する可能性があると伝えられています。ローカルでのAIアプリ実行需要の高まりによりMac miniへの注目が集まっており、供給面での納期遅延や今後の展開にも関心が集まっています。"
+    },
+    {
+      "id": "bf96d754fed86615a0bb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Mac Mini Reportedly Set to Launch Before iPhone 18 Pro Event",
+      "url": "https://www.macrumors.com/2026/08/24/new-mac-mini-in-coming-days-report/",
+      "publishedAt": "2026-08-25T02:19:17.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/mac-mini-blue.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "次期Mac miniが9月のiPhoneイベント前に登場する可能性",
+      "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、Appleは数日以内に新型Mac miniを発表する見込みです。AIモデルの実行による需要増に伴い供給がひっぱくしているほか、米ヒューストンでの製造開始との関連性についても注目を集めています。"
+    },
+    {
+      "id": "44bc5223f47e3a36abeb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+      "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
+      "publishedAt": "2026-08-25T01:47:49.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/chatgpt-red.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、ChatGPT PlusのCodexとWorkで5時間制限を再導入",
+      "summaryJa": "OpenAIは、ChatGPT Plusのユーザーを対象に、一時的に停止していたCodexおよびChatGPT Workの5時間ごとの利用制限を再導入すると発表しました。サーバーへの負荷を平準化し、初心者のユーザーが1週間分の利用枠を知らずに使い切ってしまう混乱を防ぐ狙いがあると説明されています。"
+    },
+    {
       "id": "e566a21ddefccd90af1b",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4458,54 +4503,9 @@
       ],
       "titleJa": "M5搭載MacBook Airが公式整備済製品で200ドル引きに",
       "summaryJa": "Appleの公式整備済製品ストアにおいて、13インチのM5搭載MacBook Airが200ドル引きの1099ドルで販売されています。3色のカラーが用意されていますが、人気のためすぐに売り切れる傾向があります。また、AirPods Pro 3やAirPods Max 2などのセール情報もあわせて伝えられています。"
-    },
-    {
-      "id": "27e100dafcec5646c7eb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New Apple Watch models launch next month, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/08/14/new-apple-watch-models-launch-next-month-heres-whats-coming/",
-      "publishedAt": "2026-08-14T15:32:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-3-4-green.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "来月登場の新型Apple Watch、期待される新機能と変更点",
-      "summaryJa": "9月のイベントでは新型iPhoneと同時にApple Watch Ultra 4やSeries 12の発表が予想されています。プロセッサの性能向上のほか、Siri AIへの対応や血圧通知に関連するセンサーの強化、セラミックケースの復活などが噂されています。本格的な大型デザイン変更は来年以降になると報じられています。"
-    },
-    {
-      "id": "98acf76382842a8852f4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Ads Coming Soon to Apple Maps",
-      "url": "https://www.macrumors.com/2026/08/14/ads-coming-soon-to-apple-maps/",
-      "publishedAt": "2026-08-14T15:29:06.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/Ads-Are-Coming-to-Apple-Maps-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleマップ、米国とカナダで広告枠の販売を開始",
-      "summaryJa": "アメリカとカナダの企業を対象に、Appleマップ内の検索結果や新しい「おすすめの場所」セクションに表示される広告枠の販売が開始されました。広告は夏の間に順次展開される予定で、初回広告主にはクレジット還元などの特典も用意されています。現在のところ実際のマップ上にはまだ表示されていないようです。"
-    },
-    {
-      "id": "1a83cf0ad31682bee233",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "tvOS 27 could push you to upgrade to new Apple TV 4K",
-      "url": "https://9to5mac.com/2026/08/14/tvos-27-could-push-you-to-upgrade-to-new-apple-tv-4k/",
-      "publishedAt": "2026-08-14T14:21:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/tvos-27-apple-tv-4k-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "tvOS 27と新機能が促すApple TV 4Kの買い替え",
-      "summaryJa": "まもなく登場するtvOS 27は、Siri AIなどの新機能を備え、古いモデルのサポートを終了することから、新しいApple TV 4Kへの買い替えを促す契機になると報じられています。これまでのモデルでは利用できない高度なAI機能や、旧機種のサポート終了が組み合わさることで、多くの家庭でハードウェアのアップグレードが検討される可能性があります。"
     }
   ],
-  "updatedAt": "2026-08-25T01:46:57.173Z",
+  "updatedAt": "2026-08-25T02:49:48.068Z",
   "initialized": true,
   "summaryVersion": 4
 }
