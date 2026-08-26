@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "id": "fda28e0282ead8356984",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple upgrading recent Mac mini orders to M6, M5 Pro models for free",
+      "url": "https://9to5mac.com/2026/08/26/apple-upgrading-recent-mac-mini-orders-to-m6-m5-pro-models-for-free/",
+      "publishedAt": "2026-08-26T13:39:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Mac-mini-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple upgrading recent Mac mini orders to M6, M5 Pro models for free",
+      "summaryJa": "Apple launched a new Mac mini yesterday with M6 and M5 Pro chips, and reports online show that recent, backordered M4 purchases are being upgraded for free to the new model. Apple launched a new Mac mini yesterday with M6 and M5 Pro chips, and reports online show that recent, backordered M4 purchases are being upgraded for free to the new model. Recent M4 Mac mini orders being upgraded to new models As spotted by MacRumors, Apple has started contacting some customers who recently ordered an M4 Mac mini before the M6 and M5 models were announced. The Mac mini has been backordered in several configurations for a while. As a result, users who purchased an M4 model but were still awaiting delivery might have been disappointed by the announcement of a new model. But Apple has good news: it’s up",
+      "translationStatus": "source"
+    },
+    {
+      "id": "fc64c33e2d2b0a75f79f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Giving Some Mac Mini Customers a Free Upgrade",
+      "url": "https://www.macrumors.com/2026/08/26/apple-free-mac-mini-upgrade-email/",
+      "publishedAt": "2026-08-26T13:10:59.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/02/Mac-mini-M4-Top.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Giving Some Mac Mini Customers a Free Upgrade",
+      "summaryJa": "Apple has informed some customers who recently ordered a Mac mini with an M4 chip that has yet to ship that it will be upgrading their order to an equivalent version of the new Mac mini with an M6 chip at no additional cost. Apple's email to customers: Thank you for your recent Mac order. We know you're looking forward to receiving your purchase. As you may know, Apple recently announced the new Mac mini. Since your order has yet to ship, we automatically upgraded you to the new Mac mini at no additional cost. Given the Mac mini now starts at $899 instead of $799 in the U.S., some customers are effectively receiving a $100 discount on the new model. One customer on social media was delighted to learn that they would not only be receiving the new Mac mini at no additional cost, but also saw",
+      "translationStatus": "source"
+    },
+    {
+      "id": "4bdc55e4af8cd30d1e73",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Mac Studio Can Be Clustered Together for Faster AI Performance",
+      "url": "https://www.macrumors.com/2026/08/26/new-mac-studio-can-be-clustered-together/",
+      "publishedAt": "2026-08-26T12:56:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/11/mac-studio-purple.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "New Mac Studio Can Be Clustered Together for Faster AI Performance",
+      "summaryJa": "Multiple new Mac Studio units can be clustered together over Thunderbolt 5 and RDMA (remote direct memory access), creating a shared memory pool for running larger AI models. If four Mac Studio systems are clustered together, Apple says they can deliver 3x faster AI inference than running the same task on a single system, with the shared memory pool helping to load the largest and most demanding frontier-class open-weight models available today. Related Roundup: Mac Studio Buyer's Guide: Mac Studio (Buy Now) Related Forum: Mac Studio This article, \" New Mac Studio Can Be Clustered Together for Faster AI Performance \" first appeared on MacRumors.com Discuss this article in our forums",
+      "translationStatus": "source"
+    },
+    {
+      "id": "391485b2c313963513d0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "75% of US Adults Aren't Interested in a Foldable iPhone",
+      "url": "https://www.macrumors.com/2026/08/26/most-arent-interested-in-a-foldable-iphone/",
+      "publishedAt": "2026-08-26T12:53:46.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "75% of US Adults Aren't Interested in a Foldable iPhone",
+      "summaryJa": "Three out of four U.S. adults say they have no interest in buying a foldable iPhone, according to a new survey from CNET . CNET 's survey was conducted online by YouGov between August 13 and 17, polling 2,605 U.S. adults. It found that 75% are not interested in an Apple foldable device, and those who are would not pay anywhere near the rumored $2,000+ price. Interest is low across every generation surveyed. Boomers (1946–1964) and Gen Xers (1965–1980) are the least interested, at 83% and 77% respectively, while 69% of Gen Z (1997–2012) and 68% of millennials (1981–1996) also said they would pass on a foldable iPhone. CNET noted that a quarter of respondents still expressing interest in the device is a notable proportion for what remains a niche product category. On average, U.S. adults sai",
+      "translationStatus": "source"
+    },
+    {
       "id": "590f13897e3bcfd75b7f",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4446,69 +4510,9 @@
       ],
       "titleJa": "Apple、iOS 27などのパブリックベータ4を公開",
       "summaryJa": "Appleは開発者向けベータ6の公開に続き、iOS 27、iPadOS 27、macOS 27などのパブリックベータ4をテスター向けにリリースしました。今回のアップデートには、バグ修正やパフォーマンス向上のほか、macOSでの新しい壁紙やウィンドウコントロールの刷新などが含まれています。正式版のリリースに向け、対応デバイスの「設定」アプリなどから参加手続きを行うことで試用が可能です。"
-    },
-    {
-      "id": "5dcaf47600d7b6060a84",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
-      "url": "https://www.macrumors.com/2026/08/17/apple-ios-27-public-beta-4/",
-      "publishedAt": "2026-08-17T22:10:03.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Cool.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iOS 27やmacOS 27の最新パブリックベータをリリース",
-      "summaryJa": "Appleは一般登録者向けに、iOS 27やiPadOS 27、macOSなどの最新パブリックベータ4を配信開始しました。開発者向けベータの数時間後に公開されたもので、正式リリースが数週間後に迫る中、不具合の修正や細かな調整が行われています。参加を希望する場合は、Appleのベータソフトウェア公式サイトで登録後、デバイスの設定画面からアップデートを適用できます。"
-    },
-    {
-      "id": "6c208a2d0aa075fa4246",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Spotify’s new Playlist Notes let users add context to songs, podcasts, and audiobook picks",
-      "url": "https://9to5mac.com/2026/08/17/spotifys-new-playlist-notes-let-users-add-context-to-songs-podcasts-and-audiobook-picks/",
-      "publishedAt": "2026-08-17T21:00:47.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/Spotify.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Spotify、ポッドキャストやオーディオブックにも対応する「Playlist Notes」を発表",
-      "summaryJa": "Spotifyは、プレイベートな楽曲にメモを追加できる機能の拡張として、「Playlist Notes」を発表しました。この新機能により、ユーザーは楽曲だけでなく、プレイリストに追加したポッドキャストのエピソードやオーディオブックにも文脈や思い出を書き込めるようになります。iOSおよびAndroid向けに、100以上の市場で順次提供が開始されています。"
-    },
-    {
-      "id": "3bba60133a15c444757b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Adds More New Wallpapers in macOS Golden Gate",
-      "url": "https://www.macrumors.com/2026/08/17/macos-golden-gate-wallpapers-beta-6/",
-      "publishedAt": "2026-08-17T20:37:19.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/macos-golden-gate-day-wallpaper.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "macOS Golden Gateベータ6、新たな壁紙やウィンドウの変更を追加",
-      "summaryJa": "AppleはmacOS Golden Gateのベータ6において、ゴールデン・ゲイトをテーマにした新たな昼と夕方の壁紙オプションを追加しました。これらはMacのロック解除時にアニメーションし、スクリーンセーバーとしても設定可能です。さらに、トラフィックライトボタンの見た目も微調整され、新たなデザインが採用されています。"
-    },
-    {
-      "id": "e8aebfc770f56abd3b7f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Epic responds to Apple’s bid for settlement talks in App Store case",
-      "url": "https://9to5mac.com/2026/08/17/epic-responds-to-apples-bid-for-settlement-talks-in-app-store-case/",
-      "publishedAt": "2026-08-17T20:10:05.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Epic Games、App Store訴訟における和解協議の提案へ回答",
-      "summaryJa": "長引くApp Store訴訟をめぐり、Appleが裁判所に命じられた和解協議の実施を求めたことに対し、Epic Gamesが回答しました。Epic側は現段階での和解協議の必要性に疑問を呈しつつも、裁判所が命じた場合は誠実に対応する姿勢を示しています。両社の今後の動向と裁判所の判断に注目が集まっています。"
     }
   ],
-  "updatedAt": "2026-08-26T12:43:41.660Z",
+  "updatedAt": "2026-08-26T13:42:44.295Z",
   "initialized": true,
   "summaryVersion": 4
 }
