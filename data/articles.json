@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "1f9df798cf8f50ef7a18",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "BenQ's New iScreenBar is a Monitor Light Bar Made for the iMac",
+      "url": "https://www.macrumors.com/2026/08/25/benq-light-bar-for-imac/",
+      "publishedAt": "2026-08-26T00:32:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iscreenbar-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "BenQ、iMac専用に設計されたモニターライトバーを発売",
+      "summaryJa": "BenQは、iMacのデザインに調和し、カメラやマイクを遮らないiMac専用モニターライトバー「iScreenBar」を発表しました。アルミニウム製の本体はマグネットで背面に装着され、USB-Cポートから給電されます。非対称光学設計により画面への映り込みを抑え、macOSアプリによる明るさや色温度の調整も可能です。"
+    },
+    {
       "id": "dc1bf87bea847cec4c23",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4491,24 +4506,9 @@
       ],
       "titleJa": "macOS 27ベータ6、クラシックなMac OS X風のウィンドウボタンを導入",
       "summaryJa": "Appleが開発者およびパブリックテスター向けに配信した「macOS 27 Golden Gate」ベータ6において、ウィンドウのコントロールボタンが刷新されました。閉じる、最小化、最大化を示す赤・黄・緑のボタンが立体的なデザインに変更され、初期のOS X時代を彷彿とさせる外観になっています。"
-    },
-    {
-      "id": "04078571a32d303c6a09",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple rolls out Release Candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8",
-      "url": "https://9to5mac.com/2026/08/17/apple-rolls-out-release-candidates-for-macos-tahoe-26-7-and-macos-sequoia-15-8/",
-      "publishedAt": "2026-08-17T17:52:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/macOS-Tahoe.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOS Tahoe 26.7とmacOS Sequoia 15.8のRC版をリリース",
-      "summaryJa": "AppleがmacOS Tahoe 26.7およびmacOS Sequoia 15.8のリリース候補（RC）版を公開しました。主な内容は重要なセキュリティ修正となっており、ユーザーに適用が推奨されています。AIツールなどの活用により脆弱性への対応ペースが加速しています。"
     }
   ],
-  "updatedAt": "2026-08-25T23:45:22.979Z",
+  "updatedAt": "2026-08-26T00:36:32.914Z",
   "initialized": true,
   "summaryVersion": 4
 }
