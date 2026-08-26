@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "12cf31c6e47790d16d6e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple renews push for expedited discovery in OpenAI trade secret misappropriation lawsuit",
+      "url": "https://9to5mac.com/2026/08/25/apple-renews-push-for-expedited-discovery-in-openai-trade-secret-misappropriation-lawsuit/",
+      "publishedAt": "2026-08-26T02:58:54.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、OpenAI訴訟で迅速な証拠開示を改めて要求",
+      "summaryJa": "Appleは、元従業員やOpenAIらを相手取った営業秘密の不正流用訴訟において、迅速な証拠開示を求める申し立てに対する反論を提出しました。Appleは、OpenAIによる情報の不正利用が継続することで回復不可能な損害が拡大していると主張しており、早期の文書提出や証言録取などを求めています。"
+    },
+    {
       "id": "1f9df798cf8f50ef7a18",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4491,24 +4506,9 @@
       ],
       "titleJa": "iPhone 18 ProのA20チップや折りたたみモデルに関する新情報",
       "summaryJa": "中国の著名リーカーが、iPhone 18 Proに搭載されるA20 Proチップや、今ジ期後半に発売予定の折りたたみ式「iPhone Ultra」に関する詳細を伝えています。A20 ProはTSMCの2nmプロセスを採用し、処理速度や電力効率が大幅に向上すると報じられています。"
-    },
-    {
-      "id": "44aa949f258ece37d5b8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "macOS 27 Golden Gate beta 6 features redesigned traffic light window controls",
-      "url": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redesigned-traffic-light-window-controls/",
-      "publishedAt": "2026-08-17T18:05:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-golden-gate-wallpaper-bridge.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "macOS 27ベータ6、クラシックなMac OS X風のウィンドウボタンを導入",
-      "summaryJa": "Appleが開発者およびパブリックテスター向けに配信した「macOS 27 Golden Gate」ベータ6において、ウィンドウのコントロールボタンが刷新されました。閉じる、最小化、最大化を示す赤・黄・緑のボタンが立体的なデザインに変更され、初期のOS X時代を彷彿とさせる外観になっています。"
     }
   ],
-  "updatedAt": "2026-08-26T02:14:40.358Z",
+  "updatedAt": "2026-08-26T03:28:05.585Z",
   "initialized": true,
   "summaryVersion": 4
 }
