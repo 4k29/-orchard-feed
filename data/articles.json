@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "8ca3fdb773bf62b02fe2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Leaker says iPhone Ultra will come in these colors, with one surprise",
+      "url": "https://9to5mac.com/2026/08/26/leaker-says-iphone-ultra-will-come-in-these-colors-with-one-surprise/",
+      "publishedAt": "2026-08-26T18:17:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone Ultraのカラー展開にレッドが含まれるとの噂",
+      "summaryJa": "リーカーのエヴァン・ブラス氏によると、新型のiPhone Ultraにはブラックやホワイトに加えてレッドのオプションも用意される可能性があると報じられています。投稿された画像はAI生成の可能性が指摘されているものの、カラーラインナップの正確性については意見が分かれています。正式な発表は9月9日に予定されているAppleのイベントまで数週間と迫っており、実際の仕様に注目が集まっています。"
+    },
+    {
+      "id": "dc963881420888349942",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Astropad’s new Rock Paper Pencil 4 adds a graphite feel to Apple Pencil and iPad",
+      "url": "https://9to5mac.com/2026/08/26/astropads-new-rock-paper-pencil-4-adds-a-graphite-feel-to-apple-pencil-and-ipad/",
+      "publishedAt": "2026-08-26T18:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/rock-paper-pencil-4.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPad向けの書き心地を追求した「Rock Paper Pencil 4」が登場",
+      "summaryJa": "Astropadは、iPadの画面にナノテクスチャのような紙の質感を加える「Rock Paper Pencil 4.0」を発表しました。今回は従来のボールペン風のチップに加え、新たに鉛筆の2Bのような摩擦や抵抗感を再現するグラファイト製のペン先が追加されています。着脱可能な画面保護フィルムと専用チップの組み合わせにより、イラスト制作やメモ書きでより自然な描き心地を実現しています。"
+    },
+    {
+      "id": "61badf5b39f9c9d3ec66",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI expands free ChatGPT for Teachers to 55 school systems across 20 states",
+      "url": "https://9to5mac.com/2026/08/26/free-chatgpt-for-teachers-expansion/",
+      "publishedAt": "2026-08-26T17:46:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/chatgpt-teachers.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、教員向けChatGPTの無料提供プログラムを大幅拡大",
+      "summaryJa": "OpenAIは、米国の教職員向けに提供している「ChatGPT for Teachers」の対象地域を、新たに20州の55の学校システムへと拡大すると発表しました。これにより、10万人以上の教職員が新たに無料アクセスやトレーニングを受けられるようになります。プログラムは少なくとも2028年6月まで無料で継続される予定で、生徒のデータプライバシーに関する新たな枠組みも合わせて発表されています。"
+    },
+    {
+      "id": "f0c2ea9de6ae97995678",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Ultra is coming: Three new features will be worth the wait",
+      "url": "https://9to5mac.com/2026/08/26/iphone-ultra-is-coming-three-new-features-will-be-worth-the-wait/",
+      "publishedAt": "2026-08-26T17:18:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "9月9日の発表が噂される折りたたみ式iPhone Ultraの注目機能",
+      "summaryJa": "9月9日のイベントでの発表が期待されている折りたたみ式のiPhone Ultraについて、競合他社に遅れをとった分、優れた3つの特徴を備えていると伝えられています。画面の折り目がほとんど目立たないディスプレイや、バッテリー性能やパフォーマンスを犠牲にしない極薄の本体設計が特徴です。さらに、15年以上の技術を背景にした耐久性の高いヒンジ構造などが採用される見込みとなっています。"
+    },
+    {
       "id": "450c78015455dd4e96b3",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -14,6 +74,21 @@
       ],
       "titleJa": "Apple、9月9日のスペシャルイベント配信情報を公開",
       "summaryJa": "Appleは9月9日に開催されるスペシャルイベントの配信ページをYouTubeや公式サイトなどに公開しました。視聴者はYouTubeのリマインダー機能やApple Eventsサイトのカレンダー登録を利用して、各地域の開始時刻を確認することができます。基調講演は太平洋時間の午前10時に開始され、Apple TVアプリなどでもライブ配信が予定されています。"
+    },
+    {
+      "id": "c822b0e3e362a1620e05",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "1-800-APL-CARE Now Connects You With AI Assistant Instead of Human",
+      "url": "https://www.macrumors.com/2026/08/26/1-800-apl-care-ai-assistant/",
+      "publishedAt": "2026-08-26T16:40:19.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/08/Apple-Support-App-General-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleサポートの電話窓口、人間から生成AIアシスタントへ",
+      "summaryJa": "米国およびカナダのAppleサポート電話窓口において、生成AIを活用した音声アシスタントが導入されていると報じられています。このAIアシスタントは質問への回答や詳細なトラブルシューティングの手順案内を行いますが、必要に応じて人間のアドバイザーに引き継ぐことも可能です。また、社内ではAIを活用したカスタマーサービスの導入が進む一方で、将来的な人間のアドバイザーへの影響を懸念する声も上がっています。"
     },
     {
       "id": "96241d3a40b6e6127dc5",
@@ -4430,86 +4505,9 @@
       ],
       "titleJa": "OpenAI、未成年向けChatGPTモードを発表",
       "summaryJa": "OpenAIは、保護者による管理機能や学習向け機能を備えた未成年向けの「ChatGPT for Teens」を発表しました。批判的思考力を育み、安全にAIを活用できるよう設計されており、学習用プロンプトや休憩を促す機能などが組み込まれています。対象となる18歳未満のアカウントに自動適用され、8月18日より世界的に順次展開される予定です。"
-    },
-    {
-      "id": "22ce6f2c72071b7afbf8",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Changes for apps in the European Union",
-      "url": "https://developer.apple.com/news/?id=gmws0jgp",
-      "publishedAt": "2026-08-18T15:00:38.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple、EU域内におけるアプリのビジネス規約改定を実施",
-      "summaryJa": "Appleは欧州委員会との合意に基づき、EU域内でアプリを配信する開発者向けの取引条件を改定すると発表しました。従来の複雑な料金体系を整理し、ストア外でのデジタル取引に対する一律5パーセントの手数料などを新たに導入します。デベロッパプログラムのメンバーは新しい規約を確認し同意することが可能で、10月1日の施行に向けて準備が進められています。"
-    },
-    {
-      "id": "be9bb3162e241ee7a6c6",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Updated Apple Developer Program License Agreement now available",
-      "url": "https://developer.apple.com/news/?id=0cgo95n6",
-      "publishedAt": "2026-08-18T15:00:32.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple Developerプログラム利用規約が更新",
-      "summaryJa": "Apple Developerプログラムの利用規約が更新され、欧州連合におけるアプリの代替配信や代替決済、ビジネス条件に関する改定内容が追加されました。これらの新しい条件は2026年10月1日から発効する予定です。開発者はアカウントにサインインして変更内容を確認し、同意する必要があります。翻訳版も1ヶ月以内に公開されます。"
-    },
-    {
-      "id": "bcda3161025dc815f1a3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s big Home product overhaul leaked in new report",
-      "url": "https://9to5mac.com/2026/08/18/apples-big-home-product-overhaul-leaked-in-new-report/",
-      "publishedAt": "2026-08-18T14:31:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの次期ホーム製品の数々がコードから判明か",
-      "summaryJa": "新しいmacOSのコードから、Appleが開発中と噂される多くの未発表ホーム製品の存在が明らかになったと報じられています。ベース付きや壁掛け用の「HomePad」をはじめ、HomePod mini 2やスマートカメラ、新型Siri Remoteなどが含まれている模様です。これらの新製品は今後のイベントで発表される可能性があると伝えられています。"
-    },
-    {
-      "id": "dd6ff37f28a824c8ccc4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Peacock is the latest streaming service to increase prices, details here",
-      "url": "https://9to5mac.com/2026/08/18/peacock-is-the-latest-streaming-service-to-increase-prices-details-here/",
-      "publishedAt": "2026-08-18T14:30:18.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2022/04/peacock.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "動画配信サービスPeacockが値上げ、Appleのバンドルへの影響は",
-      "summaryJa": "米国の動画配信サービスPeacockがすべてのサブスクリプションプランで値上げを実施しました。月額または年額料金が引き上げられ、プレミアムプラスプランは月額20ドルとなります。一方で、Appleが提供する割引バンドルについては現時点で価格据え置きとなっている模様です。"
-    },
-    {
-      "id": "085e949df83f5b803b74",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Donating to Indonesian Earthquake Relief Efforts",
-      "url": "https://www.macrumors.com/2026/08/18/apple-donating-to-indonesia-earthquake-relief/",
-      "publishedAt": "2026-08-18T14:26:48.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-Red-Donating.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、インドネシアの地震被災地に寄付を実施へ",
-      "summaryJa": "Appleのティム・クック最高経営責任者（CEO）がソーシャルメディア上で、インドネシアで発生した甚大な地震と余震の被災地支援に向けて寄付を行うと表明しました。Appleは過去の自然災害時にも赤十字社等への寄付を行っていますが、具体的な寄付金額は通常非公開としています。"
     }
   ],
-  "updatedAt": "2026-08-26T16:56:24.086Z",
+  "updatedAt": "2026-08-26T19:14:34.371Z",
   "initialized": true,
   "summaryVersion": 4
 }
