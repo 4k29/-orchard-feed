@@ -374,6 +374,7 @@ function attachProductImage(card, product) {
   const image = card.querySelector(".product-image");
   let index = 0;
   image.alt = `${product.name}の製品画像`;
+  image.loading = "eager";
   image.addEventListener("load", () => {
     visual.hidden = false;
     card.classList.add("has-product-image");
