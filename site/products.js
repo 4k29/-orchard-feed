@@ -19,7 +19,7 @@ const A = document.querySelector("#advanced-filters");
 const M = document.querySelector("#load-more");
 const X = document.querySelector("#product-template");
 
-const C = ["iPhone", "iPad", "MacBook", "Mac", "Apple Watch", "AirPods", "AirTag", "HomePod", "Accessory"];
+const C = ["iPhone", "iPad", "MacBook", "Mac", "Apple Watch", "AirPods", "Beats", "AirTag", "HomePod", "Accessory"];
 const CONFIG = {
   iPhone: [{ key: "series", label: "シリーズ", order: ["Pro Max", "Pro", "Max", "Air", "Plus", "無印", "mini", "SE", "e"] }],
   iPad: [
@@ -42,6 +42,7 @@ const CONFIG = {
     { key: "series", label: "シリーズ", order: ["無印", "Pro", "Max"] },
     { key: "model", label: "世代", sort: "airpods" },
   ],
+  Beats: [{ key: "series", label: "種類", order: ["イヤフォン", "ヘッドフォン", "スピーカー", "その他"] }],
   Accessory: [{
     key: "series",
     label: "種類",
@@ -53,6 +54,7 @@ const uniq = (values) => [...new Set((values || []).filter(Boolean))];
 
 function category(product) {
   const text = `${product.family || ""} ${product.name || ""}`.toLowerCase();
+  if (String(product.family || "").toLowerCase() === "beats") return "Beats";
   if (String(product.family || "").toLowerCase() === "accessory") return "Accessory";
   if (text.includes("iphone")) return "iPhone";
   if (text.includes("ipad")) return "iPad";
@@ -165,6 +167,7 @@ function series(product) {
     if (/^AirPods Pro/i.test(name)) return "Pro";
     return "無印";
   }
+  if (product.category === "Beats") return product.beatsType || "その他";
   if (product.category === "Accessory") return product.accessoryType || "その他";
   return "";
 }
@@ -304,6 +307,8 @@ function mergeProducts(rows) {
       documentationUrl: raw.documentationUrl || raw.officialSourceUrl || "",
       documentationDirect: Boolean(raw.documentationDirect),
       accessoryType: raw.accessoryType || "",
+      beatsType: raw.beatsType || "",
+      imageCandidates: [],
     };
     product.released = [product.released, raw.released].filter(Boolean).sort()[0] || null;
     product.discontinued = [product.discontinued, raw.discontinued].filter(Boolean).sort().at(-1) || null;
@@ -313,6 +318,7 @@ function mergeProducts(rows) {
     product.chips = uniq([...product.chips, ...(raw.chips || [])]);
     product.models = uniq([...product.models, ...(raw.models || [])]);
     product.identifiers = uniq([...product.identifiers, ...(raw.identifiers || [])]);
+    product.imageCandidates = uniq([...product.imageCandidates, ...(raw.imageCandidates || [])]);
     product.hasDisplay ||= Boolean(raw.hasDisplay || raw.displayType || raw.maxBrightness || raw.displayRefreshRate);
     product.displayType ||= raw.displayType;
     if (brightnessValue(raw.maxBrightness) > brightnessValue(product.maxBrightness)) {
@@ -351,15 +357,43 @@ function fact(label, value) {
   return wrapper;
 }
 
+function productImageUrl(value) {
+  try {
+    const url = new URL(value);
+    return url.protocol === "https:" && url.hostname === "img.appledb.dev" ? url.href : "";
+  } catch {
+    return "";
+  }
+}
+
+function attachProductImage(card, product) {
+  if (!["Accessory", "Beats"].includes(product.category)) return;
+  const candidates = uniq((product.imageCandidates || []).map(productImageUrl).filter(Boolean));
+  if (!candidates.length) return;
+  const visual = card.querySelector(".product-visual");
+  const image = card.querySelector(".product-image");
+  let index = 0;
+  image.alt = `${product.name}の製品画像`;
+  image.addEventListener("load", () => {
+    visual.hidden = false;
+    card.classList.add("has-product-image");
+  });
+  image.addEventListener("error", () => {
+    index += 1;
+    if (index < candidates.length) image.src = candidates[index];
+  });
+  image.src = candidates[index];
+}
+
 function card(product) {
   const card = X.content.firstElementChild.cloneNode(true);
   card.querySelector(".product-family").textContent = product.category === "Accessory" ? "アクセサリー" : product.category;
   card.querySelector("h2").textContent = product.name;
   card.querySelector("time").textContent = product.released?.slice(0, 4) || "年代不明";
-  const facts = product.category === "Accessory"
+  const facts = product.category === "Accessory" || product.category === "Beats"
     ? [
         fact("発売日", date(product.released)),
-        fact("種類", product.accessoryType),
+        fact("種類", product.category === "Beats" ? product.beatsType : product.accessoryType),
         fact(product.priceHistory ? "価格履歴" : "発売時価格", product.prices.join(" → ")),
       ]
     : [
@@ -386,7 +420,7 @@ function card(product) {
 
   const details = card.querySelector(".product-details");
   const detailFacts = [];
-  if (!["AirPods", "AirTag", "Accessory"].includes(product.category)) {
+  if (!["AirPods", "AirTag", "Accessory", "Beats"].includes(product.category)) {
     detailFacts.push(fact("初期OS", product.initialOS));
   }
   if (product.hasDisplay) {
@@ -398,7 +432,7 @@ function card(product) {
   }
   detailFacts.push(
     fact("販売終了", date(product.discontinued)),
-    fact("日本向けモデル番号", product.models.join(", ")),
+    fact(["Accessory", "Beats"].includes(product.category) ? "モデル番号" : "日本向けモデル番号", product.models.join(", ")),
     fact("識別子", product.identifiers.join(", ")),
   );
   details.querySelector("dl").append(...detailFacts);
@@ -414,6 +448,7 @@ function card(product) {
     links.append(link);
     details.append(links);
   }
+  attachProductImage(card, product);
   return card;
 }
 
@@ -427,6 +462,7 @@ function haystack(product) {
     product.displayRefreshRate,
     product.maxBrightness,
     product.accessoryType,
+    product.beatsType,
     ...FILTER_KEYS.flatMap((key) => filterValues(product, key)),
     ...product.chips,
     ...product.storage,

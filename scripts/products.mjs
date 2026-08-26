@@ -4,7 +4,7 @@ import { fileURLToPath } from "node:url";
 import { load } from "cheerio";
 
 const wanted =
-  /iphone|ipad|apple watch|airpods|airtag|homepod|macbook|imac|mac mini|mac studio|mac pro|macintosh|powerbook|ibook|accessor(?:y|ies)|adapter|apple pencil|batter(?:y|ies)|cases?|keyboard|mouse|power|remote|trackpad|display/i;
+  /iphone|ipad|apple watch|airpods|airtag|homepod|macbook|imac|mac mini|mac studio|mac pro|macintosh|powerbook|ibook|beats|accessor(?:y|ies)|adapter|apple pencil|batter(?:y|ies)|cases?|keyboard|mouse|power|remote|trackpad|display/i;
 
 const iPhoneStorage = new Map([
   ["iPhone", ["4GB", "8GB", "16GB"]],
@@ -498,9 +498,10 @@ function files(root) {
   );
 }
 
-function category(product) {
+export function category(product) {
   const text = `${product.type} ${product.name}`.toLowerCase();
   const type = String(product.type || "").toLowerCase();
+  if (/^beats (?:earbuds|headphones|speakers)$/.test(type)) return "Beats";
   if (/^(?:accessories|adapters|apple pencil|batteries|cases|keyboard|mouse|power|remote|trackpad|display)$/.test(type)) return "Accessory";
   if (text.includes("iphone")) return "iPhone";
   if (text.includes("ipad")) return "iPad";
@@ -510,6 +511,14 @@ function category(product) {
   if (text.includes("homepod")) return "HomePod";
   if (/macbook|imac|mac mini|mac studio|mac pro|macintosh|powerbook|ibook/.test(text)) return "Mac";
   return "";
+}
+
+export function beatsType(product) {
+  const type = String(product.type || "").toLowerCase();
+  if (type === "beats earbuds") return "イヤフォン";
+  if (type === "beats headphones") return "ヘッドフォン";
+  if (type === "beats speakers") return "スピーカー";
+  return "その他";
 }
 
 function accessoryType(product) {
@@ -524,6 +533,23 @@ function accessoryType(product) {
   if (type === "power" || type === "batteries" || /cable|charger|charging|battery|magsafe/.test(name)) return "ケーブル・充電";
   if (type === "remote" || /remote/.test(name)) return "リモコン";
   return "その他";
+}
+
+export function appleDbImageCandidates(product) {
+  const key = String(product.imageKey || product.key || array(product.identifier)[0] || product.name || "").trim();
+  if (!key) return [];
+  const imageNames = unique([
+    ...array(product.colors).flatMap((color) =>
+      color && typeof color === "object" ? [color.key, color.name] : [],
+    ),
+    "0",
+  ]);
+  return imageNames.flatMap((name) =>
+    ["avif", "png"].map(
+      (extension) =>
+        `https://img.appledb.dev/device@preview/${encodeURIComponent(key)}/${encodeURIComponent(name)}.${extension}`,
+    ),
+  );
 }
 
 function isPart(product) {
@@ -820,6 +846,8 @@ export function buildProducts(root) {
       name,
       family,
       accessoryType: family === "Accessory" ? accessoryType(product) : "",
+      beatsType: family === "Beats" ? beatsType(product) : "",
+      imageCandidates: [],
       released: released[0] || null,
       discontinued: null,
       prices: [],
@@ -859,6 +887,10 @@ export function buildProducts(root) {
     item.chips = unique([...item.chips, ...array(product.soc)]);
     item.models = unique([...item.models, ...array(product.model)]);
     item.identifiers = unique([...item.identifiers, ...array(product.identifier)]);
+    if (family === "Accessory" || family === "Beats") {
+      item.imageCandidates = unique([...item.imageCandidates, ...appleDbImageCandidates(product)]);
+      if (item.imageCandidates.length) item.imageSource = "AppleDB Image CDN";
+    }
     const display = displayInfo(product);
     if (display || hasBuiltInDisplay(product)) {
       item.hasDisplay = true;

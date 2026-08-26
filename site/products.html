@@ -7,9 +7,9 @@
     <title>Product- Orchard</title>
     <link rel="icon" href="./icon.svg" type="image/svg+xml" />
     <link rel="stylesheet" href="./styles.css" />
-    <link rel="stylesheet" href="./products.css?v=7b79c29" />
+    <link rel="stylesheet" href="./products.css?v=20260826-beats-images" />
     <link rel="stylesheet" href="./manual-sync.css?v=20260723-3" />
-    <script src="./products.js?v=20260826-mac-accessories" defer></script>
+    <script src="./products.js?v=20260826-beats-images" defer></script>
     <script src="./products-ui.js?v=20260723-3" defer></script>
     <script src="./product-manual-sync.js?v=20260723-2" defer></script>
   </head>
@@ -82,19 +82,27 @@
 
       <template id="product-template">
         <article class="product-card">
-          <div class="product-card-head">
-            <div>
-              <p class="product-family"></p>
-              <h2></h2>
+          <div class="product-card-layout">
+            <div class="product-card-content">
+              <div class="product-card-head">
+                <div>
+                  <p class="product-family"></p>
+                  <h2></h2>
+                </div>
+                <time class="product-year"></time>
+              </div>
+              <dl class="product-facts"></dl>
+              <div class="color-list"></div>
+              <details class="product-details">
+                <summary>製品詳細</summary>
+                <dl></dl>
+              </details>
             </div>
-            <time class="product-year"></time>
+            <figure class="product-visual" hidden>
+              <img class="product-image" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />
+              <figcaption>Image: AppleDB</figcaption>
+            </figure>
           </div>
-          <dl class="product-facts"></dl>
-          <div class="color-list"></div>
-          <details class="product-details">
-            <summary>製品詳細</summary>
-            <dl></dl>
-          </details>
         </article>
       </template>
 
