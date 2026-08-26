@@ -1,19 +1,120 @@
 {
-  "updatedAt": "2026-08-24T04:09:55.438Z",
-  "metadataWarnings": [],
+  "updatedAt": "2026-08-26T05:30:45.956Z",
+  "metadataWarnings": [
+    "Mac documentation: Mac mini（M5 Pro）",
+    "Mac documentation: Mac mini（M6）",
+    "Mac documentation: Mac Studio（M5 Max）",
+    "Mac documentation: Mac Studio（M5 Ultra）"
+  ],
   "summary": {
-    "products": 188,
-    "targets": 140,
-    "missingDocs": 2,
-    "missingPrices": 27,
+    "products": 192,
+    "targets": 144,
+    "missingDocs": 6,
+    "missingPrices": 31,
     "missingPriceDates": 0,
     "duplicateKeys": 0,
     "airPods": 12,
     "watches": 18,
-    "macs": 56
+    "macs": 60
   },
   "duplicateKeys": [],
   "missingDocs": [
+    {
+      "name": "Mac mini（M5 Pro）",
+      "family": "Mac",
+      "released": "2026-09-22",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "M5 Pro"
+      ],
+      "models": [
+        "A3535"
+      ],
+      "identifiers": [
+        "Mac17,16"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "C9CACC"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88M5%20Pro%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
+      "name": "Mac mini（M6）",
+      "family": "Mac",
+      "released": "2026-09-22",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "M6"
+      ],
+      "models": [
+        "A3534"
+      ],
+      "identifiers": [
+        "Mac18,5"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "C9CACC"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88M6%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
+      "name": "Mac Studio（M5 Max）",
+      "family": "Mac",
+      "released": "2026-09-22",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "M5 Max"
+      ],
+      "models": [
+        "A3545"
+      ],
+      "identifiers": [
+        "Mac17,14"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "C9CACC"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Studio%EF%BC%88M5%20Max%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
+      "name": "Mac Studio（M5 Ultra）",
+      "family": "Mac",
+      "released": "2026-09-22",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "M5 Ultra"
+      ],
+      "models": [
+        "A3546"
+      ],
+      "identifiers": [
+        "Mac17,15"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "C9CACC"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Studio%EF%BC%88M5%20Ultra%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
     {
       "name": "AirTag（第2世代）",
       "family": "AirTag",
@@ -60,6 +161,102 @@
     }
   ],
   "missingPrices": [
+    {
+      "name": "Mac mini（M5 Pro）",
+      "family": "Mac",
+      "released": "2026-09-22",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "M5 Pro"
+      ],
+      "models": [
+        "A3535"
+      ],
+      "identifiers": [
+        "Mac17,16"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "C9CACC"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88M5%20Pro%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
+      "name": "Mac mini（M6）",
+      "family": "Mac",
+      "released": "2026-09-22",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "M6"
+      ],
+      "models": [
+        "A3534"
+      ],
+      "identifiers": [
+        "Mac18,5"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "C9CACC"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88M6%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
+      "name": "Mac Studio（M5 Max）",
+      "family": "Mac",
+      "released": "2026-09-22",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "M5 Max"
+      ],
+      "models": [
+        "A3545"
+      ],
+      "identifiers": [
+        "Mac17,14"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "C9CACC"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Studio%EF%BC%88M5%20Max%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
+      "name": "Mac Studio（M5 Ultra）",
+      "family": "Mac",
+      "released": "2026-09-22",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "M5 Ultra"
+      ],
+      "models": [
+        "A3546"
+      ],
+      "identifiers": [
+        "Mac17,15"
+      ],
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "C9CACC"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Studio%EF%BC%88M5%20Ultra%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
     {
       "name": "Mac Studio（M3 Ultra、2025）",
       "family": "Mac",
