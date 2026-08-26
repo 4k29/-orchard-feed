@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "b2d8cb9aff36e074bbd6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 reveals Apple TV 4K, HomePod may get powerful new features",
+      "url": "https://9to5mac.com/2026/08/26/ios-27-reveals-apple-tv-4k-homepod-may-get-powerful-new-features/",
+      "publishedAt": "2026-08-26T14:27:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVとHomePodにApple Intelligence対応の兆候か",
+      "summaryJa": "iOS 27のベータ版コードから、Apple TV 4KやHomePod向けにApple Intelligenceに関連する新機能が準備されていることが明らかになりました。WWDCでは言及されていませんでしたが、最新のベータ版ではホームアプリに専用のレポート項目が追加されています。新しいハードウェアの登場とともに、今秋にもAI機能が提供される可能性があると報じられています。"
+    },
+    {
+      "id": "2c16ecd36dcf27ff360b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Mac Mini and Mac Studio Add Genlock Support for Camera Syncing",
+      "url": "https://www.macrumors.com/2026/08/26/new-mac-mini-and-mac-studio-add-genlock/",
+      "publishedAt": "2026-08-26T14:25:41.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/mac-mini-blue.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型Mac miniとMac Studioがゲンロックをサポート",
+      "summaryJa": "アップルの新しいMac miniとMac Studioは、USB-C経由でのゲンロックに対応しました。これにより、追加の機材を使用することなく、ディスプレイとカメラのタイミング信号を正確に同期させることができます。マルチカメラ撮影時に映像のズレを防ぎ、プロの現場での利便性が大きく向上します。"
+    },
+    {
+      "id": "fedb33a4198cd1bb7e36",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Concept Video Imagines Apple's Foldable iPhone Ultra Reveal",
+      "url": "https://www.macrumors.com/2026/08/26/concept-video-imagines-foldable-iphone-reveal/",
+      "publishedAt": "2026-08-26T14:06:48.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみ式iPhoneの発表を想像したコンセプト動画",
+      "summaryJa": "秋の発表会を前に、噂される折りたたみ式iPhoneのリアルな姿を捉えたファン作成のコンセプト動画が公開されました。デザイナーのGunhoo Lee氏が手がけたもので、7.8インチの内部ディスプレイやメカニカルヒンジ、A20チップなどを搭載する仕様を精巧に表現しています。これまでの数々の噂やリーク情報に密接に基づいた内容となっており、実際の発表に向けた期待を高めています。"
+    },
+    {
+      "id": "cad11d3258a9720df77c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Hands-On: Sonnet Echo 21 Thunderbolt 5 SuperDock – a significant speed boost [Video]",
+      "url": "https://9to5mac.com/2026/08/26/sonnet-echo-21-thunderbolt-5-superdock-review/",
+      "publishedAt": "2026-08-26T14:06:38.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Sonnet-Echo-21-Thunderbolt-5-SuperDock.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Thunderbolt 5対応の拡張ドック「Echo 21」レビュー",
+      "summaryJa": "Sonnetの「Echo 21 Thunderbolt 5 SuperDock」は、1本のケーブルでMacに豊富なポートや機能を追加できる最新の拡張ドックです。MacBook ProやM5 Pro搭載の新型Mac miniに最適で、前モデルから大幅なスピード向上と機能強化が図られています。多彩な入出力ポートに加え、M.2 SSDスロットや最大3台までのディスプレイ出力をサポートし、プロフェッショナルな作業環境を将来に向けてアップデートできます。"
+    },
+    {
+      "id": "59f726969d9cda24299b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 Tweaks Apple Wallet's U.S. Passport Feature",
+      "url": "https://www.macrumors.com/2026/08/26/ios-27-tweaks-digital-id-feature/",
+      "publishedAt": "2026-08-26T13:46:25.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/06/ios-26-digital-id-passport-wallet.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOSベータ版でAppleウォレットの米国パスポート機能に不具合",
+      "summaryJa": "iOSのベータ版において、Appleウォレットアプリ内のデジタルIDパスポート機能に関連する情報やメニューが調整されました。この変更や関連するバグの影響により、一部のiPhoneユーザーの間でデジタルIDが無効化される事例が確認されています。Appleは影響を受けたユーザーに対し、再び利用するためにカードを一度削除してから再度追加するよう案内しています。"
+    },
+    {
       "id": "fda28e0282ead8356984",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -12,9 +87,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple upgrading recent Mac mini orders to M6, M5 Pro models for free",
-      "summaryJa": "Apple launched a new Mac mini yesterday with M6 and M5 Pro chips, and reports online show that recent, backordered M4 purchases are being upgraded for free to the new model. Apple launched a new Mac mini yesterday with M6 and M5 Pro chips, and reports online show that recent, backordered M4 purchases are being upgraded for free to the new model. Recent M4 Mac mini orders being upgraded to new models As spotted by MacRumors, Apple has started contacting some customers who recently ordered an M4 Mac mini before the M6 and M5 models were announced. The Mac mini has been backordered in several configurations for a while. As a result, users who purchased an M4 model but were still awaiting delivery might have been disappointed by the announcement of a new model. But Apple has good news: it’s up",
-      "translationStatus": "source"
+      "titleJa": "Apple、未発送のMac mini注文をM6やM5 Proへ無償アップグレード",
+      "summaryJa": "Appleは、M6およびM5 Proチップを搭載した新しいMac miniの発表前に旧モデルのM4版を購入し、まだ出荷されていなかった注文を対象に、追加料金なしで新型への自動アップグレードを実施しています。これにより、一部のユーザーは価格据え置きや実質的な割引、さらには配送予定日の前倒しといった恩恵を受けています。その一方で、自動アップグレードにより配送が遅れてしまった一部の学生などからは困惑の声も上がっていると報じられています。"
     },
     {
       "id": "fc64c33e2d2b0a75f79f",
@@ -28,9 +102,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Giving Some Mac Mini Customers a Free Upgrade",
-      "summaryJa": "Apple has informed some customers who recently ordered a Mac mini with an M4 chip that has yet to ship that it will be upgrading their order to an equivalent version of the new Mac mini with an M6 chip at no additional cost. Apple's email to customers: Thank you for your recent Mac order. We know you're looking forward to receiving your purchase. As you may know, Apple recently announced the new Mac mini. Since your order has yet to ship, we automatically upgraded you to the new Mac mini at no additional cost. Given the Mac mini now starts at $899 instead of $799 in the U.S., some customers are effectively receiving a $100 discount on the new model. One customer on social media was delighted to learn that they would not only be receiving the new Mac mini at no additional cost, but also saw",
-      "translationStatus": "source"
+      "titleJa": "Apple、未出荷のMac mini注文者を対象に無料アップグレードを実施",
+      "summaryJa": "Appleは、M4チップ搭載のMac miniを最近注文したもののまだ出荷されていない顧客に対し、追加料金なしで新型のM6チップ搭載モデルへと自動的にアップグレードする対応を進めています。米国での価格改定も相まって、ユーザーによっては事実上の割引や配送予定日の短縮といったメリットが生じています。ただし、この変更によって逆に配送が遅れたユーザーからは不満の声も聞かれており、選択肢がなかった点に戸惑う意見も存在します。"
     },
     {
       "id": "4bdc55e4af8cd30d1e73",
@@ -44,9 +117,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "New Mac Studio Can Be Clustered Together for Faster AI Performance",
-      "summaryJa": "Multiple new Mac Studio units can be clustered together over Thunderbolt 5 and RDMA (remote direct memory access), creating a shared memory pool for running larger AI models. If four Mac Studio systems are clustered together, Apple says they can deliver 3x faster AI inference than running the same task on a single system, with the shared memory pool helping to load the largest and most demanding frontier-class open-weight models available today. Related Roundup: Mac Studio Buyer's Guide: Mac Studio (Buy Now) Related Forum: Mac Studio This article, \" New Mac Studio Can Be Clustered Together for Faster AI Performance \" first appeared on MacRumors.com Discuss this article in our forums",
-      "translationStatus": "source"
+      "titleJa": "新型Mac Studio、AI性能向上のため複数台のクラスター接続に対応",
+      "summaryJa": "新しいMac Studioは、Thunderbolt 5とRDMAを介して複数のユニットをクラスター接続し、大規模なAIモデルを実行するための共有メモリプールを構築することが可能です。Appleによると、4台のMac Studioを連携させることで、単一システムでの実行と比較して最大3倍高速なAI推論を実現できるとしています。この機能により、現在利用可能な最大規模で最も負荷の高いオープンウェイトモデルの効率的な読み込みと処理がサポートされます。"
     },
     {
       "id": "391485b2c313963513d0",
@@ -60,9 +132,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "75% of US Adults Aren't Interested in a Foldable iPhone",
-      "summaryJa": "Three out of four U.S. adults say they have no interest in buying a foldable iPhone, according to a new survey from CNET . CNET 's survey was conducted online by YouGov between August 13 and 17, polling 2,605 U.S. adults. It found that 75% are not interested in an Apple foldable device, and those who are would not pay anywhere near the rumored $2,000+ price. Interest is low across every generation surveyed. Boomers (1946–1964) and Gen Xers (1965–1980) are the least interested, at 83% and 77% respectively, while 69% of Gen Z (1997–2012) and 68% of millennials (1981–1996) also said they would pass on a foldable iPhone. CNET noted that a quarter of respondents still expressing interest in the device is a notable proportion for what remains a niche product category. On average, U.S. adults sai",
-      "translationStatus": "source"
+      "titleJa": "米国の成人における75％が折りたたみ式iPhoneに関心なしとの調査",
+      "summaryJa": "CNETとYouGovによる最新の調査によると、米国の成人の4人に3人が折りたたみ式iPhoneの購入に関心がないと回答していることが明らかになりました。すべての世代で関心が低い傾向にあり、特に上の世代ほどその割合が高くなっています。また、購入を検討する層であっても噂される2000ドル超の価格には到底見合わないと考えており、期待される購入予算と予想価格の間には大きな開きがあることが示されています。"
     },
     {
       "id": "590f13897e3bcfd75b7f",
@@ -4435,84 +4506,9 @@
       ],
       "titleJa": "カメラ搭載AirPodsの動く姿か、macOS候補版から動画が発見",
       "summaryJa": "macOSの最新リリース候補版から、カメラを搭載すると噂される次期AirPodsのデモ動画が発見されました。映像ではSiriのビジュアルインテリジェンス機能と連携する様子が確認されており、コードネーム「B790」として開発が進められている模様です。早ければ来月のiPhone向けイベントでの発表が期待されています。"
-    },
-    {
-      "id": "84614cfcab737d865c7c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Camera-Equipped AirPods Confirmed: See Them in Action",
-      "url": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
-      "publishedAt": "2026-08-18T01:21:26.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-camera-airpods.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "カメラ搭載AirPodsのデモ映像が流出、ビジュアルインテリジェンス対応か",
-      "summaryJa": "macOSのリリース候補版コード内から、カメラを内蔵した新型AirPodsの動作を示す短い動画が見つかりました。着用者が見た本をSiriが認識して保存する機能などが紹介されており、周囲の環境情報を把握するビジュアルインテリジェンスに活用されます。Bloombergの報道によると、早ければ9月のイベントでの発表も噂されています。"
-    },
-    {
-      "id": "f5c1b089036ff0344e7a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple: DOJ’s latest challenge in antitrust case ‘fails at every level’",
-      "url": "https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/",
-      "publishedAt": "2026-08-18T00:56:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/tim-cook-apple-park-sep25.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、司法省による独占禁止法訴訟の最新の申し立てを批判",
-      "summaryJa": "Appleは、連邦政府機関からの資料開求を認めた裁判所の決定を覆そうとする米国司法省の動きに強く反発しています。同社は、政府がプライバシー機能のために自社製品を選んだことを示せば、反競争的ではない正当な理由を証明できると主張しています。これに対し司法省は、担当判事が誤った法的基準を適用したとして再検討を求めており、両者の攻防が続いています。"
-    },
-    {
-      "id": "b91e3d570fde8495be14",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "macOS Tahoe 26.7 is Full of References to Unreleased Apple Products",
-      "url": "https://www.macrumors.com/2026/08/17/macos-26-7-unreleased-apple-devices/",
-      "publishedAt": "2026-08-17T23:50:34.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/01/Apple-AI-Command-Center-Concept-Mock-1-Textless.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "macOS Tahoe 26.7に未発表製品の手がかりか",
-      "summaryJa": "Appleが提供を開始したmacOS Tahoe 26.7のリリース候補版から、ホームハブや新型HomePod mini、セキュリティカメラと噂されるデバイスなど、多くの未発表製品に関するコードや機能フラグが見つかっています。コード内ではホーム向けの新しいデバイス識別子や新色なども言及されており、今後の製品展開に注目が集まっています。"
-    },
-    {
-      "id": "edfc696d617ac2a9ab2f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "macOS 27 Golden Gate beta 6 adds fifth dynamic wallpaper, get them all here [Gallery]",
-      "url": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-adds-fifth-dynamic-wallpaper-get-them-all-here-gallery/",
-      "publishedAt": "2026-08-17T22:43:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/macos-27-wallpapers.png?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "macOS 27ベータ6、新たなダイナミック壁紙を追加",
-      "summaryJa": "macOS 27 Golden Gateベータ6の配信が開始され、サンフランシスコのゴールデン・ゲート・ブリッジをとらえた新しいダイナミック壁紙が追加されました。これにより、システムで使用できるダイナミック壁紙は合計5種類に拡張されています。各壁紙の静止画フレームや設定手順が紹介されており、ユーザーは高解像度画像をダウンロードして背景に適用することが可能です。"
-    },
-    {
-      "id": "3ee0b1cea120ce78890f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27",
-      "url": "https://9to5mac.com/2026/08/17/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/",
-      "publishedAt": "2026-08-17T22:12:02.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iOS 27などのパブリックベータ4を公開",
-      "summaryJa": "Appleは開発者向けベータ6の公開に続き、iOS 27、iPadOS 27、macOS 27などのパブリックベータ4をテスター向けにリリースしました。今回のアップデートには、バグ修正やパフォーマンス向上のほか、macOSでの新しい壁紙やウィンドウコントロールの刷新などが含まれています。正式版のリリースに向け、対応デバイスの「設定」アプリなどから参加手続きを行うことで試用が可能です。"
     }
   ],
-  "updatedAt": "2026-08-26T13:42:44.295Z",
+  "updatedAt": "2026-08-26T14:27:54.547Z",
   "initialized": true,
   "summaryVersion": 4
 }
