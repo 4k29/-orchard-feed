@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "590f13897e3bcfd75b7f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Ads have landed in Apple Maps, and they are as bad as expected",
+      "url": "https://9to5mac.com/2026/08/26/ads-have-landed-in-apple-maps-and-they-are-as-bad-as-expected/",
+      "publishedAt": "2026-08-26T12:31:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Ads-have-landed-in-Apple-Maps-and-its-as-bad-as-expected.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Maps、米国とカナダでマップ内広告の展開を開始",
+      "summaryJa": "Appleは、米国とカナダのApple Mapsにおいて広告の配信を開始しました。検索画面の「おすすめの場所」や関連する検索結果に広告が表示される仕組みとなっています。プライバシー保護を重視し、ユーザーの現在地や広告の閲覧履歴はAppleアカウントに紐付けられずデバイス内に保持されるとしていますが、有料ハードウェアを提供するAppleのブランドイメージやユーザーからの受け止め方を懸念する声も上がっています。"
+    },
+    {
+      "id": "a76bcb1420dc77938989",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's New Polishing Cloth Is Softer, Not Smaller Than Original",
+      "url": "https://www.macrumors.com/2026/08/26/new-apple-polishing-cloth-softer/",
+      "publishedAt": "2026-08-26T12:02:43.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-Polishing-Cloth-Gradient.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新しいAppleポリッシングクロスはより柔らかい素材に変更か",
+      "summaryJa": "Appleが新たに発売した9ドルのポリッシングクロスについて、サイズは従来のものとほぼ同じであるものの、素材の硬さが軽減され、より柔らかくなっていると報じられています。X上の比較投稿によると、新しい素材の質感は、ナノテクステクスチャーガラス向けディスプレイやVision Proに同梱されているクロスに近づいているとのことです。"
+    },
+    {
       "id": "7375aaa22599b0538aed",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4476,39 +4506,9 @@
       ],
       "titleJa": "Epic Games、App Store訴訟における和解協議の提案へ回答",
       "summaryJa": "長引くApp Store訴訟をめぐり、Appleが裁判所に命じられた和解協議の実施を求めたことに対し、Epic Gamesが回答しました。Epic側は現段階での和解協議の必要性に疑問を呈しつつも、裁判所が命じた場合は誠実に対応する姿勢を示しています。両社の今後の動向と裁判所の判断に注目が集まっています。"
-    },
-    {
-      "id": "43ba8666f5e1bceb6d33",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple official refurb store: Save a ton of cash with our top picks of the week",
-      "url": "https://9to5mac.com/2026/08/17/apple-official-refurb-store-top-picks-2/",
-      "publishedAt": "2026-08-17T20:00:58.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/9to5mac-refurb.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple公式認定整備済製品の注目ピックアップ",
-      "summaryJa": "Apple公式認定整備済ストアで販売されているiPhone、MacBook、Studio Displayなどの今週の注目製品を紹介しています。Appleによる厳格な整備プロセスを経た製品には1年間の限定保証が付属し、新品同様の安心感とともにコストを抑えられるのが魅力です。在庫は流動的ですが、信頼性の高い選択肢として人気を集めています。"
-    },
-    {
-      "id": "592a41ddd439d959ca7e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 26.6.1 and macOS Tahoe 26.6.2 Fix Nearly 30 Security Vulnerabilities",
-      "url": "https://www.macrumors.com/2026/08/17/ios-26-6-1-security-fixes/",
-      "publishedAt": "2026-08-17T19:25:39.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iOS 26.6.1とmacOS Tahoe 26.6.2を公開",
-      "summaryJa": "Appleは、約30件のセキュリティ脆弱性を修正するiOS 26.6.1、iPadOS 26.6.1、macOS Tahoe 26.6.2をリリースしました。WebKitやカーネルの不具合など多数の脆弱性に対処しており、悪用される前に早めのアップデートが推奨されています。また、対応していない旧モデル向けにiOS 18.7.10なども同時に提供されています。"
     }
   ],
-  "updatedAt": "2026-08-26T11:53:01.326Z",
+  "updatedAt": "2026-08-26T12:43:41.660Z",
   "initialized": true,
   "summaryVersion": 4
 }
