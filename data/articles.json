@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "637078e5a10628d26463",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Car Key Support Coming to Xiaomi Auto Vehicles",
+      "url": "https://www.macrumors.com/2026/08/26/apple-car-key-support-xiaomi-vehicles/",
+      "publishedAt": "2026-08-26T11:18:25.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/07/digital-car-key-iphone.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Xiaomi製EVにAppleの「Car Key」機能が対応か",
+      "summaryJa": "Appleのウォレットアプリのバックエンドやベータ版のコードから、中国のXiaomiが手がけるEV車両向けにCar Key機能の準備が進められていることが明らかになりました。iPhoneやApple Watchを車のリーダーにかざすだけで、ドアのロック解除やエンジンの始動が可能になります。スマートフォン分野ではライバル関係にある両社ですが、Appleのエコシステムが中国製EVへ拡大する契機となりそうです。"
+    },
+    {
+      "id": "a40a310094a47b92d0d0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "M5 vs. M6 Chip Buyer's Guide: How Much Better Really Is M6?",
+      "url": "https://www.macrumors.com/guide/m5-vs-m6/",
+      "publishedAt": "2026-08-26T10:58:04.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/m5-vs-m6-chip.png",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleの新型「M6」チップ、M5と性能を徹底比較",
+      "summaryJa": "Appleが新たに発表したM6チップは、2nmプロセスで製造され、新たに「スーパーコア」を加えた3種類のCPUコア構成を採用しています。M5と比べてマルチスレッドCPU性能が最大1.2倍、AI向けのGPU性能が約30%向上し、Neural Engineの性能も倍増しています。シングルスレッドで世界最速の性能を謳うほか、ゲームやスプレッドシートなどの処理速度の大幅な向上を実現しています。"
+    },
+    {
+      "id": "968c095644a0ca787747",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "There’s a $300 gotcha in an M5 Max Mac Studio upgrade",
+      "url": "https://9to5mac.com/2026/08/26/theres-a-300-gotcha-in-an-m5-max-mac-studio-upgrade/",
+      "publishedAt": "2026-08-26T10:56:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Theres-a-300-gotcha-in-an-M5-Max-Mac-Studio-upgrade.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "M5 Max搭載Mac StudioのGPUアップグレードに隠れた追加費用",
+      "summaryJa": "新型のM5 Maxを搭載したMac Studioは据え置きの価格からスタートしますが、GPUのアップグレードを行う際には注意が必要です。GPUコア数を増やすオプションを選択すると、自動的にメモリ容量も同時にアップグレードされる仕組みになっています。そのため、ウェブサイト上の表示よりも実際の追加費用が倍額になる仕様となっており、専門家やユーザーの間で話題になっています。"
+    },
+    {
       "id": "12cf31c6e47790d16d6e",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4461,54 +4506,9 @@
       ],
       "titleJa": "MagSafeウォレットの優れた予算向け代替製品",
       "summaryJa": "iPhoneの背面にカードや現金を装着できるMagSafeウォレットの代替製品として、「Urban Fit」が紹介されています。Apple純正品は「探す」機能に対応する一方で価格が高めですが、サードパーティ製の手頃な製品は半額程度のコストで同様の利便性を提供します。デジタルIDの普及過渡期において、薄型のMagSafeウォレットは依然として実用的な選択肢となっています。"
-    },
-    {
-      "id": "5713750a397a6bf0e9d3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 26.6.1 has fixes for 20+ security issues on iPhone, details here",
-      "url": "https://9to5mac.com/2026/08/17/ios-26-6-1-has-fixes-for-20-security-issues-on-iphone-details-here/",
-      "publishedAt": "2026-08-17T18:29:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-security.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、20件以上の脆弱性を修正する「iOS 26.6.1」を公開",
-      "summaryJa": "AppleはiPhone向けに、20件以上のセキュリティ問題を修正するソフトウェアアップデート「iOS 26.6.1」をリリースしました。主にWebKit関連の修正が含まれているほか、オーディオやカーネルなどのパッチも適用されています。AIを活用したハッキング試みの増加リスクに対応するため、今後も定期的なセキュリティ更新が計画されています。"
-    },
-    {
-      "id": "f3ec7acb282a7c19fb4b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Best Buy 60th Anniversary Sale Brings Massive Deals on Apple Products and More",
-      "url": "https://www.macrumors.com/2026/08/17/best-buy-anniversary-sale-2/",
-      "publishedAt": "2026-08-17T18:12:37.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Best-Buy-60th-Anniversary-Sale-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Best Buy、Apple製品などを対象にした創立60周年記念セールを開催",
-      "summaryJa": "米国の家電量販店Best Buyが創立60周年記念セールを開催し、多数のApple製品が割引販売されています。対象にはAirPods Pro 3やAirPods Max 2、MacBook Proなどが含まれており、期間限定の大規模なセールとなっています。"
-    },
-    {
-      "id": "adf150e387378598c91e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro and iPhone Ultra: New Details Leak as Apple Event Nears",
-      "url": "https://www.macrumors.com/2026/08/17/iphone-18-pro-and-iphone-ultra-rumors/",
-      "publishedAt": "2026-08-17T18:09:40.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 ProのA20チップや折りたたみモデルに関する新情報",
-      "summaryJa": "中国の著名リーカーが、iPhone 18 Proに搭載されるA20 Proチップや、今ジ期後半に発売予定の折りたたみ式「iPhone Ultra」に関する詳細を伝えています。A20 ProはTSMCの2nmプロセスを採用し、処理速度や電力効率が大幅に向上すると報じられています。"
     }
   ],
-  "updatedAt": "2026-08-26T10:46:48.001Z",
+  "updatedAt": "2026-08-26T11:18:48.549Z",
   "initialized": true,
   "summaryVersion": 4
 }
