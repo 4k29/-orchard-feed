@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "450c78015455dd4e96b3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Event Livestream: Where and When to Watch on September 9",
+      "url": "https://www.macrumors.com/2026/08/26/apple-event-livestream-youtube/",
+      "publishedAt": "2026-08-26T16:41:43.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、9月9日のスペシャルイベント配信情報を公開",
+      "summaryJa": "Appleは9月9日に開催されるスペシャルイベントの配信ページをYouTubeや公式サイトなどに公開しました。視聴者はYouTubeのリマインダー機能やApple Eventsサイトのカレンダー登録を利用して、各地域の開始時刻を確認することができます。基調講演は太平洋時間の午前10時に開始され、Apple TVアプリなどでもライブ配信が予定されています。"
+    },
+    {
+      "id": "96241d3a40b6e6127dc5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Leaked Images Give First Look at Apple's AI Servers",
+      "url": "https://www.macrumors.com/2026/08/26/leaked-images-of-apple-ai-servers/",
+      "publishedAt": "2026-08-26T16:34:32.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-silicon-gray.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AppleのAIサーバー内部とされる画像がネット上に流出か",
+      "summaryJa": "プライベートクラウドコンピューティング（PCC）を支えるとみられるApple製AIサーバーの内部を捉えた画像が、オンライン上に投稿されました。流出した画像には、独自シリコンやヒートシンクが配置されたモジュール式のシャーシ構造が収められています。ただし、ハードウェアの起動には物理的な認証が必要であると伝えられており、詳細な動作については不明な点も残されています。"
+    },
+    {
       "id": "142bfd157c396e9758ce",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -12,9 +42,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Event Announced for September 9: 'Surprise and Shine'",
-      "summaryJa": "Apple plans to hold its annual iPhone-centric event on Wednesday, September 9 at the Apple Park campus in Cupertino, California. The event will begin at 10:00 a.m. Pacific Time, with select members of the media invited to attend. The September 2026 iPhone event will see Apple announce the iPhone 18 Pro , the &zwnj;iPhone 18 Pro&zwnj; Max, and the foldable iPhone, which could be called the iPhone Ultra . There won't be an iPhone 18 this year because Apple is waiting until spring 2027 to launch the more affordable models. All three new iPhones will use Apple's latest A20 Pro chip built on a 2nm process for speed and efficiency improvements. The &zwnj;iPhone 18 Pro&zwnj; models could get an upgraded variable aperture rear camera, but will otherwise be similar to the iPhone 17 Pro models. We a",
-      "translationStatus": "source"
+      "titleJa": "Apple、9月9日にスペシャルイベントを開催へ",
+      "summaryJa": "Appleは9月9日にカリフォルニア州アップル・パークで恒例のiPhoneイベントを開催すると正式に発表しました。今回のイベントでは「iPhone 18 Pro」シリーズに加え、iPhone Ultraと呼ばれる可能性のある同社初の折りたたみモデルが発表される見通しです。標準モデルのiPhone 18は2027年春まで見送られると報じられており、秋の新製品発表はプロモデルと新型端末が中心になる見込みです。"
     },
     {
       "id": "7455208f921b1e92f714",
@@ -28,9 +57,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple officially announces iPhone 18 Pro and foldable iPhone event: ‘Surprise and shine’",
-      "summaryJa": "Apple has officially announced its next product event, where it will unveil the iPhone 18 Pro lineup and its first foldable iPhone. The event will take place on September 9 at 10 am, PT. The tagline reads “Surprise and shine,” and the invitation features a glowing Apple logo with a sun shining through. Apple has officially announced its next product event, where it will unveil the iPhone 18 Pro lineup and its first foldable iPhone. The event will take place on September 9 at 10 am, PT. The tagline reads “Surprise and shine,” and the invitation features a glowing Apple logo with a sun shining through. What to expect from Apple’s September event Apple is expected to announce three new iPhones: iPhone 18 Pro iPhone 18 Pro Max Apple’s first foldable iPhone, rumored to be called iPhone Ultra Th",
-      "translationStatus": "source"
+      "titleJa": "Apple、9月9日のイベント開催を発表 新作iPhoneを披露へ",
+      "summaryJa": "Appleは、9月9日午前10時（太平洋標準時）に新たな製品発表会を開催すると公式発表しました。「Surprise and shine」というタグラインが掲げられ、iPhone 18 Proシリーズや初となる折りたたみ式iPhoneがお披露目される予定です。今年の秋は標準モデルの展開が異なり、春に分割して投入されるとの情報もあり、新型のプロおよび折りたたみ端末に注目が集まっています。"
     },
     {
       "id": "4b4100af80a3e1dfebcc",
@@ -44,9 +72,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Pioneer releases its first collection of iPhone accessories",
-      "summaryJa": "Pioneer, the maker of many of our favorite CarPlay head units, is expanding into iPhone accessories for the first time. The company has launched a full lineup of in-car iPhone gear, including a MagSafe wireless charger and phone mount. Pioneer, the maker of many of our favorite CarPlay head units, is expanding into iPhone accessories for the first time. The company has launched a full lineup of in-car iPhone gear, including a MagSafe wireless charger and phone mount. Pioneer’s collection of iPhone accessories includes: Three new MagSafe vent mounts. There’s a mount-only model, one with MagSafe charging, and another with MagSafe charging plus a built-in cooling fan. Dual-port car charger: Your classic in-car dual-port charger with USB-C and USB-A ports. USB-C cables: Available in silicone a",
-      "translationStatus": "source"
+      "titleJa": "パイオニア、同社初となるiPhone向け車載アクセサリを発売",
+      "summaryJa": "カーオーディオなどで知られるパイオニアが、ブランド初となるiPhone向けの車載アクセサリコレクションを新たに展開します。MagSafe対応のワイヤレス充電器やスマホマウント、さらに冷却ファン付きモデルなどの多彩なベントマウントがラインナップされています。さらに、USB-CやUSB-Aを備えた車載チャージャーやケーブルも用意され、車内での利便性を高める製品群となっています。"
     },
     {
       "id": "fd6bba4212a512180004",
@@ -60,9 +87,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple TV reveals new crime thriller coming soon with major stars",
-      "summaryJa": "Apple TV just announced a heist-centric thriller series, ‘12 12 12,’ that premieres this fall with stars Anthony Mackie and Jamie Dornan. Here are the details and first look. Apple TV just announced a heist-centric thriller series, ‘12 12 12,’ that premieres this fall with stars Anthony Mackie and Jamie Dornan. Here are the details and first look. ‘12 12 12’ is new heist thriller series with Anthony Mackie and Jamie Dornan Crime thrillers are one of Apple TV’s top genres, and the company just revealed a new high-profile thriller that’s centered on an international heist. ‘12 12 12’ will premiere Friday, November 13 with its first two episodes, followed by weekly releases through December 25. The series stars Anthony Mackie and Jamie Dornan. Its name is based on the 12 months of planning a",
-      "translationStatus": "source"
+      "titleJa": "Apple TV、アンソニー・マッキーら出演の新作犯罪スリラーを発表",
+      "summaryJa": "Apple TVは、アンソニー・マッキーとジェイミー・ドーナンが出演する新作の強奪スリラーシリーズ「12 12 12」を今秋に配信すると発表しました。国際的な銀行強盗をテーマにした作品で、11月13日に最初の2話が公開された後、毎週エピソードが追加配信される予定です。計画に費やす12ヶ月、実行の12時間、そして追跡を逃れる12日間の3つの時間軸を描く緊迫したストーリーとなっています。"
     },
     {
       "id": "d14bed6e242277f52609",
@@ -138,6 +164,22 @@
       ],
       "titleJa": "Apple、アップデート後のSpotlightインデックス作成について解説",
       "summaryJa": "Appleは、ソフトウェアアップデート後にSpotlightのインデックス作成に時間がかかる理由を説明するサポート文書を公開しました。保存されているデータの量によっては数時間から数日かかる場合があり、デバイスが使用されておらず、電源とインターネットに接続されているときに処理が早く進むとしています。また、インデックスはローカルに保存され、プライバシーが保護されることも確認されています。"
+    },
+    {
+      "id": "77c6f01b5e51a197755a",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Surprise and shine",
+      "url": "https://developer.apple.com/news/?id=s6spdug0",
+      "publishedAt": "2026-08-26T15:00:55.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/EA4CFEB6-BA9E-490A-9723-5962EA23BF53/2048.jpeg",
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "Apple、9月9日にスペシャルイベント開催を発表",
+      "summaryJa": "Appleは、9月9日水曜日の太平洋時間午前10時より、特別なApple Eventを開催することを発表しました。当日の様子は、公式サイトのApple.comやApple TV、YouTube Liveを通じて世界中にライブ配信されます。新しい発表に向けた事前の準備が進められています。"
     },
     {
       "id": "12185c93c783e2f1692b",
@@ -4465,54 +4507,9 @@
       ],
       "titleJa": "Apple、インドネシアの地震被災地に寄付を実施へ",
       "summaryJa": "Appleのティム・クック最高経営責任者（CEO）がソーシャルメディア上で、インドネシアで発生した甚大な地震と余震の被災地支援に向けて寄付を行うと表明しました。Appleは過去の自然災害時にも赤十字社等への寄付を行っていますが、具体的な寄付金額は通常非公開としています。"
-    },
-    {
-      "id": "72fc0232f86b12af82c5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "New Apple TV to Come With Upgraded Siri Remote",
-      "url": "https://www.macrumors.com/2026/08/18/new-apple-tv-siri-remote-leak/",
-      "publishedAt": "2026-08-18T14:20:59.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/06/apple-tv-4k-new-orange.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型Apple TVに刷新されたSiri Remoteが付属するか",
-      "summaryJa": "macOSのコードから、次世代Apple TV 4Kに改良されたSiri Remoteが同梱される手がかりが見つかったと報じられています。コード内には具体的な変更点の詳細は記されていないものの、長年の噂を経て次期モデルが間もなく登場する可能性を示唆しています。新型はA17 Proチップなどを搭載し、今年秋にも発表される見通しです。"
-    },
-    {
-      "id": "09eb6bb1f3fd330dbbf3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's M4 iPad Air Gets Best-Ever Discounts Since Summer Price Hikes",
-      "url": "https://www.macrumors.com/2026/08/18/apples-m4-ipad-air-discounts/",
-      "publishedAt": "2026-08-18T14:08:27.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2020/03/m4-ipad-air-blue-2.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "M4搭載iPad Airが発売以来最大規模の割引に",
-      "summaryJa": "米国のAmazonやベスト・バイなどの大手家電量販店において、M4チップを搭載したiPad Airがセール対象となり過去最大級の割引価格で販売されています。11インチおよび13インチの各Wi-Fiモデルが揃って100ドル引きとなっており、今夏の価格改定以降でお得に入手できる絶好の機会となっています。"
-    },
-    {
-      "id": "4d5db36a073f4c8f66da",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New Apple TV 4K to have upgraded Siri Remote, per leak",
-      "url": "https://9to5mac.com/2026/08/18/new-apple-tv-4k-to-have-upgraded-siri-remote-per-leak/",
-      "publishedAt": "2026-08-18T13:29:40.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-tv-4k-tvos-26-lg.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "次期Apple TV 4Kには新しいSiri Remoteが付属するか",
-      "summaryJa": "Appleの未公開ソフトウェアのコードから、次期Apple TV 4Kに向けたとみられる新しいSiri Remoteの存在が明らかになったと報じられています。macOSのベータ版に含まれていた参照情報から次期モデルの登場が示唆されており、秋のイベントでの発表が期待されています。具体的な変更点は不明ですが、紛失防止機能の追加などが噂されています。"
     }
   ],
-  "updatedAt": "2026-08-26T16:04:31.873Z",
+  "updatedAt": "2026-08-26T16:56:24.086Z",
   "initialized": true,
   "summaryVersion": 4
 }
