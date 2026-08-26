@@ -19,7 +19,7 @@ const A = document.querySelector("#advanced-filters");
 const M = document.querySelector("#load-more");
 const X = document.querySelector("#product-template");
 
-const C = ["iPhone", "iPad", "MacBook", "Mac", "Apple Watch", "AirPods", "AirTag", "HomePod"];
+const C = ["iPhone", "iPad", "MacBook", "Mac", "Apple Watch", "AirPods", "AirTag", "HomePod", "Accessory"];
 const CONFIG = {
   iPhone: [{ key: "series", label: "シリーズ", order: ["Pro Max", "Pro", "Max", "Air", "Plus", "無印", "mini", "SE", "e"] }],
   iPad: [
@@ -42,12 +42,18 @@ const CONFIG = {
     { key: "series", label: "シリーズ", order: ["無印", "Pro", "Max"] },
     { key: "model", label: "世代", sort: "airpods" },
   ],
+  Accessory: [{
+    key: "series",
+    label: "種類",
+    order: ["Apple Pencil", "キーボード", "マウス・トラックパッド", "ケース・ストラップ", "ケーブル・充電", "アダプタ", "ディスプレイ", "リモコン", "その他"],
+  }],
 };
 
 const uniq = (values) => [...new Set((values || []).filter(Boolean))];
 
 function category(product) {
   const text = `${product.family || ""} ${product.name || ""}`.toLowerCase();
+  if (String(product.family || "").toLowerCase() === "accessory") return "Accessory";
   if (text.includes("iphone")) return "iPhone";
   if (text.includes("ipad")) return "iPad";
   if (text.includes("watch")) return "Apple Watch";
@@ -75,6 +81,9 @@ function isPart(product) {
   const name = product.name || "";
   const family = product.family || "";
   const text = `${name} ${family}`;
+  if (category(product) === "Accessory") {
+    return /beats|developer|diagnostic|try-on|store display|replacement|service part|logic board|demo unit|prototype|unreleased|unknown|module|housing|enclosure/i.test(text);
+  }
   if (/software|application/i.test(family)) return true;
   if (/(^|[ (])(left|right)([ )]|$)/i.test(name)) return true;
   if (/nano-sim card for ipad/i.test(name)) return true;
@@ -156,6 +165,7 @@ function series(product) {
     if (/^AirPods Pro/i.test(name)) return "Pro";
     return "無印";
   }
+  if (product.category === "Accessory") return product.accessoryType || "その他";
   return "";
 }
 
@@ -281,6 +291,7 @@ function mergeProducts(rows) {
       category: family,
       prices: [],
       storage: [],
+      memory: [],
       colors: [],
       chips: [],
       models: [],
@@ -292,11 +303,13 @@ function mergeProducts(rows) {
       initialOS: raw.initialOS || "",
       documentationUrl: raw.documentationUrl || raw.officialSourceUrl || "",
       documentationDirect: Boolean(raw.documentationDirect),
+      accessoryType: raw.accessoryType || "",
     };
     product.released = [product.released, raw.released].filter(Boolean).sort()[0] || null;
     product.discontinued = [product.discontinued, raw.discontinued].filter(Boolean).sort().at(-1) || null;
     product.prices = uniq([...product.prices, ...(raw.prices || [])]);
     product.storage = uniq([...product.storage, ...(raw.storage || [])]);
+    product.memory = uniq([...product.memory, ...(raw.memory || [])]);
     product.chips = uniq([...product.chips, ...(raw.chips || [])]);
     product.models = uniq([...product.models, ...(raw.models || [])]);
     product.identifiers = uniq([...product.identifiers, ...(raw.identifiers || [])]);
@@ -340,15 +353,24 @@ function fact(label, value) {
 
 function card(product) {
   const card = X.content.firstElementChild.cloneNode(true);
-  card.querySelector(".product-family").textContent = product.category;
+  card.querySelector(".product-family").textContent = product.category === "Accessory" ? "アクセサリー" : product.category;
   card.querySelector("h2").textContent = product.name;
   card.querySelector("time").textContent = product.released?.slice(0, 4) || "年代不明";
-  const facts = [
-    fact("発売日", date(product.released)),
-    fact("チップ", product.chips.join(" / ")),
-    fact("ストレージ", product.storage.join(" / ")),
-    fact(product.priceHistory ? "価格履歴" : "発売時価格", product.prices.join(" → ")),
-  ];
+  const facts = product.category === "Accessory"
+    ? [
+        fact("発売日", date(product.released)),
+        fact("種類", product.accessoryType),
+        fact(product.priceHistory ? "価格履歴" : "発売時価格", product.prices.join(" → ")),
+      ]
+    : [
+        fact("発売日", date(product.released)),
+        fact("チップ", product.chips.join(" / ")),
+        ...(product.category === "MacBook" || product.category === "Mac"
+          ? [fact("メモリ", product.memory.join(" / "))]
+          : []),
+        fact("ストレージ", product.storage.join(" / ")),
+        fact(product.priceHistory ? "価格履歴" : "発売時価格", product.prices.join(" → ")),
+      ];
   card.querySelector(".product-facts").append(...facts);
 
   const colors = card.querySelector(".color-list");
@@ -364,7 +386,7 @@ function card(product) {
 
   const details = card.querySelector(".product-details");
   const detailFacts = [];
-  if (!["AirPods", "AirTag"].includes(product.category)) {
+  if (!["AirPods", "AirTag", "Accessory"].includes(product.category)) {
     detailFacts.push(fact("初期OS", product.initialOS));
   }
   if (product.hasDisplay) {
@@ -404,9 +426,11 @@ function haystack(product) {
     product.displayType,
     product.displayRefreshRate,
     product.maxBrightness,
+    product.accessoryType,
     ...FILTER_KEYS.flatMap((key) => filterValues(product, key)),
     ...product.chips,
     ...product.storage,
+    ...product.memory,
     ...product.models,
     ...product.identifiers,
     ...product.colors.map((color) => color.name),
@@ -439,12 +463,12 @@ function apply() {
   draw();
 }
 
-function button(name, active, onClick, count = null) {
+function button(name, active, onClick, count = null, label = name) {
   const element = document.createElement("button");
   element.type = "button";
   element.className = `filter-button${active ? " active" : ""}`;
   element.dataset.filter = name;
-  element.textContent = count == null ? name : `${name} ${count}`;
+  element.textContent = count == null ? label : `${label} ${count}`;
   element.onclick = onClick;
   return element;
 }
@@ -527,7 +551,7 @@ function familyButtons() {
       F.querySelectorAll("button").forEach((item) => item.classList.toggle("active", item.dataset.filter === name));
       advancedFilters();
       apply();
-    }, count));
+    }, count, name === "Accessory" ? "アクセサリー" : name));
   });
 }
 

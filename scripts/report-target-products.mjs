@@ -23,6 +23,8 @@ const compact = (product) => ({
   chips: product.chips || [],
   models: product.models || [],
   identifiers: product.identifiers || [],
+  storage: product.storage || [],
+  memory: product.memory || [],
   colors: product.colors || [],
   documentationUrl: product.documentationUrl || "",
   documentationDirect: Boolean(product.documentationDirect),
@@ -44,6 +46,7 @@ const missingPriceDates = rows.filter((product) => {
 const airPods = targets.filter((product) => product.family === "AirPods").map(compact);
 const watches = targets.filter((product) => product.family === "Apple Watch").map(compact);
 const macs = targets.filter((product) => isMacBook(product) || isDesktopMac(product)).map(compact);
+const missingMacConfigurations = macs.filter((product) => !product.storage.length || !product.memory.length);
 
 const report = {
   updatedAt: data.updatedAt,
@@ -58,13 +61,19 @@ const report = {
     airPods: airPods.length,
     watches: watches.length,
     macs: macs.length,
+    missingMacConfigurations: missingMacConfigurations.length,
   },
   duplicateKeys,
   missingDocs,
   missingPrices,
   missingPriceDates,
   airPods,
+  missingMacConfigurations,
 };
+
+if (missingMacConfigurations.length) {
+  throw new Error(`Mac configuration metadata missing: ${missingMacConfigurations.map((product) => product.name).join(" / ")}`);
+}
 
 fs.writeFileSync(output, `${JSON.stringify(report, null, 2)}\n`);
 console.log(`Validated ${targets.length} target product records.`);

@@ -4,7 +4,7 @@ import { fileURLToPath } from "node:url";
 import { load } from "cheerio";
 
 const wanted =
-  /iphone|ipad|apple watch|airpods|airtag|homepod|macbook|imac|mac mini|mac studio|mac pro|macintosh|powerbook|ibook/i;
+  /iphone|ipad|apple watch|airpods|airtag|homepod|macbook|imac|mac mini|mac studio|mac pro|macintosh|powerbook|ibook|accessor(?:y|ies)|adapter|apple pencil|batter(?:y|ies)|cases?|keyboard|mouse|power|remote|trackpad|display/i;
 
 const iPhoneStorage = new Map([
   ["iPhone", ["4GB", "8GB", "16GB"]],
@@ -500,6 +500,8 @@ function files(root) {
 
 function category(product) {
   const text = `${product.type} ${product.name}`.toLowerCase();
+  const type = String(product.type || "").toLowerCase();
+  if (/^(?:accessories|adapters|apple pencil|batteries|cases|keyboard|mouse|power|remote|trackpad|display)$/.test(type)) return "Accessory";
   if (text.includes("iphone")) return "iPhone";
   if (text.includes("ipad")) return "iPad";
   if (text.includes("watch")) return "Apple Watch";
@@ -510,10 +512,30 @@ function category(product) {
   return "";
 }
 
+function accessoryType(product) {
+  const type = String(product.type || "").toLowerCase();
+  const name = String(product.name || "").toLowerCase();
+  if (type === "apple pencil" || name.includes("apple pencil")) return "Apple Pencil";
+  if (type === "cases" || /case|wallet|sleeve|smart folio|strap/.test(name)) return "ケース・ストラップ";
+  if (type === "keyboard" || /keyboard/.test(name)) return "キーボード";
+  if (type === "mouse" || type === "trackpad" || /mouse|trackpad/.test(name)) return "マウス・トラックパッド";
+  if (type === "adapters" || /adapter|reader|converter/.test(name)) return "アダプタ";
+  if (type === "display" || /display/.test(name)) return "ディスプレイ";
+  if (type === "power" || type === "batteries" || /cable|charger|charging|battery|magsafe/.test(name)) return "ケーブル・充電";
+  if (type === "remote" || /remote/.test(name)) return "リモコン";
+  return "その他";
+}
+
 function isPart(product) {
   const name = product.name || "";
   const family = product.type || "";
   const text = `${name} ${family}`;
+  if (category(product) === "Accessory") {
+    const type = String(product.type || "").toLowerCase();
+    if (type === "batteries" && !/magsafe battery|apple vision pro battery$/i.test(name)) return true;
+    if (/\((?:EUR|GBR|CHN|USA|AUS|KOR|IND|BRA|MEX|CAN)\)$/i.test(name)) return true;
+    return /beats|developer|diagnostic|try-on|store display|replacement|service part|logic board|demo unit|prototype|unreleased|unknown|module|housing|enclosure/i.test(text);
+  }
   if (/software|application/i.test(family)) return true;
   if (/(^|[ (])(left|right)([ )]|$)/i.test(name)) return true;
   if (/\bdock\b|raid card|superdrive|developer transition kit|virtual machine|riser|diagnostic dock|restore dock/i.test(name)) return true;
@@ -544,6 +566,8 @@ function nameJa(value, family) {
     name = name.replace(/,?\s*(?:Wi[‑-]Fi(?:\s*\+\s*Cellular)?|Cellular)\s*/gi, "");
   }
   return name
+    .replace(/^Polishing Cloth$/i, "ポリッシングクロス")
+    .replace(/^Crossbody Strap$/i, "クロスボディストラップ")
     .replace(/\(([^)]*)\)/g, "（$1）")
     .replace(/\s+（/g, "（")
     .replace(/\s*,\s*/g, "、")
@@ -795,10 +819,12 @@ export function buildProducts(root) {
     const item = grouped.get(key) || {
       name,
       family,
+      accessoryType: family === "Accessory" ? accessoryType(product) : "",
       released: released[0] || null,
       discontinued: null,
       prices: [],
       storage: [],
+      memory: [],
       colors: [],
       chips: [],
       models: [],
@@ -816,6 +842,10 @@ export function buildProducts(root) {
     item.discontinued = unique([item.discontinued, ...discontinued]).sort().at(-1) || null;
     item.prices = unique([...item.prices, ...priceValues(product)]);
     item.storage = unique([...item.storage, ...array(product.info).flatMap((info) => array(info?.Storage ?? info?.storage))]);
+    item.memory = unique([
+      ...item.memory,
+      ...array(product.info).flatMap((info) => array(info?.Memory ?? info?.memory ?? info?.RAM ?? info?.ram)),
+    ]);
     const verifiedStorage = officialValue(officialStorage, name);
     if (verifiedStorage) {
       item.storage = verifiedStorage;

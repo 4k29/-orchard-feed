@@ -1,120 +1,20 @@
 {
-  "updatedAt": "2026-08-26T05:30:45.956Z",
-  "metadataWarnings": [
-    "Mac documentation: Mac mini（M5 Pro）",
-    "Mac documentation: Mac mini（M6）",
-    "Mac documentation: Mac Studio（M5 Max）",
-    "Mac documentation: Mac Studio（M5 Ultra）"
-  ],
+  "updatedAt": "2026-08-26T05:47:55.007Z",
+  "metadataWarnings": [],
   "summary": {
-    "products": 192,
+    "products": 551,
     "targets": 144,
-    "missingDocs": 6,
+    "missingDocs": 2,
     "missingPrices": 31,
     "missingPriceDates": 0,
     "duplicateKeys": 0,
     "airPods": 12,
     "watches": 18,
-    "macs": 60
+    "macs": 60,
+    "missingMacConfigurations": 0
   },
   "duplicateKeys": [],
   "missingDocs": [
-    {
-      "name": "Mac mini（M5 Pro）",
-      "family": "Mac",
-      "released": "2026-09-22",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "M5 Pro"
-      ],
-      "models": [
-        "A3535"
-      ],
-      "identifiers": [
-        "Mac17,16"
-      ],
-      "colors": [
-        {
-          "name": "Silver",
-          "hex": "C9CACC"
-        }
-      ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88M5%20Pro%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
-    },
-    {
-      "name": "Mac mini（M6）",
-      "family": "Mac",
-      "released": "2026-09-22",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "M6"
-      ],
-      "models": [
-        "A3534"
-      ],
-      "identifiers": [
-        "Mac18,5"
-      ],
-      "colors": [
-        {
-          "name": "Silver",
-          "hex": "C9CACC"
-        }
-      ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88M6%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
-    },
-    {
-      "name": "Mac Studio（M5 Max）",
-      "family": "Mac",
-      "released": "2026-09-22",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "M5 Max"
-      ],
-      "models": [
-        "A3545"
-      ],
-      "identifiers": [
-        "Mac17,14"
-      ],
-      "colors": [
-        {
-          "name": "Silver",
-          "hex": "C9CACC"
-        }
-      ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Studio%EF%BC%88M5%20Max%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
-    },
-    {
-      "name": "Mac Studio（M5 Ultra）",
-      "family": "Mac",
-      "released": "2026-09-22",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "M5 Ultra"
-      ],
-      "models": [
-        "A3546"
-      ],
-      "identifiers": [
-        "Mac17,15"
-      ],
-      "colors": [
-        {
-          "name": "Silver",
-          "hex": "C9CACC"
-        }
-      ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Studio%EF%BC%88M5%20Ultra%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
-    },
     {
       "name": "AirTag（第2世代）",
       "family": "AirTag",
@@ -130,6 +30,8 @@
       "identifiers": [
         "afw2,4"
       ],
+      "storage": [],
+      "memory": [],
       "colors": [],
       "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirTag%EF%BC%88%E7%AC%AC2%E4%B8%96%E4%BB%A3%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
       "documentationDirect": false
@@ -155,6 +57,8 @@
         "afw1,5",
         "Device1,21760"
       ],
+      "storage": [],
+      "memory": [],
       "colors": [],
       "documentationUrl": "https://support.apple.com/ja-jp/search?query=AirTag%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
       "documentationDirect": false
@@ -176,14 +80,26 @@
       "identifiers": [
         "Mac17,16"
       ],
+      "storage": [
+        "512GB",
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "24GB",
+        "48GB",
+        "64GB"
+      ],
       "colors": [
         {
           "name": "Silver",
           "hex": "C9CACC"
         }
       ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88M5%20Pro%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
+      "documentationUrl": "https://www.apple.com/jp/mac-mini/specs/",
+      "documentationDirect": true
     },
     {
       "name": "Mac mini（M6）",
@@ -200,14 +116,25 @@
       "identifiers": [
         "Mac18,5"
       ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "memory": [
+        "16GB",
+        "24GB",
+        "32GB"
+      ],
       "colors": [
         {
           "name": "Silver",
           "hex": "C9CACC"
         }
       ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20mini%EF%BC%88M6%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
+      "documentationUrl": "https://www.apple.com/jp/mac-mini/specs/",
+      "documentationDirect": true
     },
     {
       "name": "Mac Studio（M5 Max）",
@@ -224,14 +151,27 @@
       "identifiers": [
         "Mac17,14"
       ],
+      "storage": [
+        "512GB",
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "36GB",
+        "48GB",
+        "64GB",
+        "128GB"
+      ],
       "colors": [
         {
           "name": "Silver",
           "hex": "C9CACC"
         }
       ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Studio%EF%BC%88M5%20Max%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
+      "documentationUrl": "https://www.apple.com/jp/mac-studio/specs/",
+      "documentationDirect": true
     },
     {
       "name": "Mac Studio（M5 Ultra）",
@@ -248,14 +188,26 @@
       "identifiers": [
         "Mac17,15"
       ],
+      "storage": [
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB",
+        "16TB"
+      ],
+      "memory": [
+        "96GB",
+        "256GB",
+        "512GB"
+      ],
       "colors": [
         {
           "name": "Silver",
           "hex": "C9CACC"
         }
       ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Mac%20Studio%EF%BC%88M5%20Ultra%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
+      "documentationUrl": "https://www.apple.com/jp/mac-studio/specs/",
+      "documentationDirect": true
     },
     {
       "name": "Mac Studio（M3 Ultra、2025）",
@@ -271,6 +223,18 @@
       ],
       "identifiers": [
         "Mac15,14"
+      ],
+      "storage": [
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB",
+        "16TB"
+      ],
+      "memory": [
+        "96GB",
+        "256GB",
+        "512GB"
       ],
       "colors": [
         {
@@ -296,6 +260,19 @@
       "identifiers": [
         "Mac16,9"
       ],
+      "storage": [
+        "512GB",
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "36GB",
+        "48GB",
+        "64GB",
+        "128GB"
+      ],
       "colors": [
         {
           "name": "Silver",
@@ -319,6 +296,17 @@
       ],
       "identifiers": [
         "Mac16,3"
+      ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "memory": [
+        "16GB",
+        "24GB",
+        "32GB"
       ],
       "colors": [
         {
@@ -368,6 +356,17 @@
       "identifiers": [
         "Mac16,2"
       ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "memory": [
+        "16GB",
+        "24GB",
+        "32GB"
+      ],
       "colors": [
         {
           "name": "Blue",
@@ -416,6 +415,18 @@
       "identifiers": [
         "Mac16,11"
       ],
+      "storage": [
+        "512GB",
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "24GB",
+        "48GB",
+        "64GB"
+      ],
       "colors": [
         {
           "name": "Silver",
@@ -440,6 +451,17 @@
       "identifiers": [
         "Mac16,10"
       ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "memory": [
+        "16GB",
+        "24GB",
+        "32GB"
+      ],
       "colors": [
         {
           "name": "Silver",
@@ -463,6 +485,18 @@
       ],
       "identifiers": [
         "Mac16,5"
+      ],
+      "storage": [
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "36GB",
+        "48GB",
+        "64GB",
+        "128GB"
       ],
       "colors": [
         {
@@ -492,6 +526,18 @@
       "identifiers": [
         "Mac16,6"
       ],
+      "storage": [
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "36GB",
+        "48GB",
+        "64GB",
+        "128GB"
+      ],
       "colors": [
         {
           "name": "Silver",
@@ -519,6 +565,16 @@
       ],
       "identifiers": [
         "Mac15,11"
+      ],
+      "storage": [
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "36GB",
+        "96GB"
       ],
       "colors": [
         {
@@ -548,6 +604,17 @@
       "identifiers": [
         "Mac15,9"
       ],
+      "storage": [
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "48GB",
+        "64GB",
+        "128GB"
+      ],
       "colors": [
         {
           "name": "Silver",
@@ -575,6 +642,16 @@
       ],
       "identifiers": [
         "Mac15,10"
+      ],
+      "storage": [
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "36GB",
+        "96GB"
       ],
       "colors": [
         {
@@ -604,6 +681,17 @@
       "identifiers": [
         "Mac15,8"
       ],
+      "storage": [
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "48GB",
+        "64GB",
+        "128GB"
+      ],
       "colors": [
         {
           "name": "Silver",
@@ -631,6 +719,17 @@
       ],
       "identifiers": [
         "Mac15,5"
+      ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "memory": [
+        "8GB",
+        "16GB",
+        "24GB"
       ],
       "colors": [
         {
@@ -680,6 +779,17 @@
       "identifiers": [
         "Mac15,4"
       ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "memory": [
+        "8GB",
+        "16GB",
+        "24GB"
+      ],
       "colors": [
         {
           "name": "Blue",
@@ -716,6 +826,17 @@
       "identifiers": [
         "Mac14,8"
       ],
+      "storage": [
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "64GB",
+        "128GB",
+        "192GB"
+      ],
       "colors": [
         {
           "name": "Silver",
@@ -739,6 +860,17 @@
       ],
       "identifiers": [
         "Mac14,8"
+      ],
+      "storage": [
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "64GB",
+        "128GB",
+        "192GB"
       ],
       "colors": [
         {
@@ -764,6 +896,18 @@
       "identifiers": [
         "Mac14,13"
       ],
+      "storage": [
+        "512GB",
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "32GB",
+        "64GB",
+        "96GB"
+      ],
       "colors": [
         {
           "name": "Silver",
@@ -787,6 +931,17 @@
       ],
       "identifiers": [
         "Mac14,14"
+      ],
+      "storage": [
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "64GB",
+        "128GB",
+        "192GB"
       ],
       "colors": [
         {
@@ -812,6 +967,17 @@
       "identifiers": [
         "Mac14,12"
       ],
+      "storage": [
+        "512GB",
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "16GB",
+        "32GB"
+      ],
       "colors": [
         {
           "name": "Silver",
@@ -836,6 +1002,17 @@
       "identifiers": [
         "Mac14,3"
       ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "memory": [
+        "8GB",
+        "16GB",
+        "24GB"
+      ],
       "colors": [
         {
           "name": "Silver",
@@ -859,6 +1036,18 @@
       ],
       "identifiers": [
         "Mac14,6"
+      ],
+      "storage": [
+        "512GB",
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "32GB",
+        "64GB",
+        "96GB"
       ],
       "colors": [
         {
@@ -888,6 +1077,18 @@
       "identifiers": [
         "Mac14,5"
       ],
+      "storage": [
+        "512GB",
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "32GB",
+        "64GB",
+        "96GB"
+      ],
       "colors": [
         {
           "name": "Silver",
@@ -916,6 +1117,17 @@
       "identifiers": [
         "Mac13,1"
       ],
+      "storage": [
+        "512GB",
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "32GB",
+        "64GB"
+      ],
       "colors": [
         {
           "name": "Silver",
@@ -940,6 +1152,16 @@
       "identifiers": [
         "Mac13,2"
       ],
+      "storage": [
+        "1TB",
+        "2TB",
+        "4TB",
+        "8TB"
+      ],
+      "memory": [
+        "64GB",
+        "128GB"
+      ],
       "colors": [
         {
           "name": "Silver",
@@ -963,6 +1185,16 @@
       ],
       "identifiers": [
         "iMac21,1"
+      ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "memory": [
+        "8GB",
+        "16GB"
       ],
       "colors": [
         {
@@ -1012,6 +1244,16 @@
       "identifiers": [
         "iMac21,2"
       ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "memory": [
+        "8GB",
+        "16GB"
+      ],
       "colors": [
         {
           "name": "Blue",
@@ -1048,6 +1290,16 @@
       "identifiers": [
         "Macmini9,1"
       ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "memory": [
+        "8GB",
+        "16GB"
+      ],
       "colors": [
         {
           "name": "Silver",
@@ -1079,6 +1331,8 @@
         "AirPods3,6",
         "Device1,8237"
       ],
+      "storage": [],
+      "memory": [],
       "colors": [
         {
           "name": "Blue",
@@ -1122,6 +1376,8 @@
         "AirPodsMax1,1",
         "Device1,8223"
       ],
+      "storage": [],
+      "memory": [],
       "colors": [
         {
           "name": "Blue",
@@ -1168,6 +1424,8 @@
         "AirPods3,1",
         "Device1,8228"
       ],
+      "storage": [],
+      "memory": [],
       "colors": [
         {
           "name": "White",
@@ -1200,6 +1458,8 @@
         "AirPods3,1",
         "Device1,8212"
       ],
+      "storage": [],
+      "memory": [],
       "colors": [
         {
           "name": "White",
@@ -1230,6 +1490,8 @@
         "Audio2,1",
         "Device1,8211"
       ],
+      "storage": [],
+      "memory": [],
       "colors": [
         {
           "name": "White",
@@ -1259,6 +1521,8 @@
         "iProd8,6",
         "Device1,8202"
       ],
+      "storage": [],
+      "memory": [],
       "colors": [
         {
           "name": "Space Gray",
@@ -1306,6 +1570,8 @@
         "iProd8,1",
         "Device1,8206"
       ],
+      "storage": [],
+      "memory": [],
       "colors": [
         {
           "name": "White",
@@ -1337,6 +1603,8 @@
         "AirPods2,1",
         "Device1,8207"
       ],
+      "storage": [],
+      "memory": [],
       "colors": [
         {
           "name": "White",
@@ -1365,6 +1633,8 @@
         "AirPods1,1",
         "Device1,8194"
       ],
+      "storage": [],
+      "memory": [],
       "colors": [
         {
           "name": "White",
@@ -1392,6 +1662,8 @@
         "A3054"
       ],
       "identifiers": [],
+      "storage": [],
+      "memory": [],
       "colors": [
         {
           "name": "White",
@@ -1419,6 +1691,8 @@
         "A3057"
       ],
       "identifiers": [],
+      "storage": [],
+      "memory": [],
       "colors": [
         {
           "name": "White",
@@ -1446,6 +1720,8 @@
         "A3065"
       ],
       "identifiers": [],
+      "storage": [],
+      "memory": [],
       "colors": [
         {
           "name": "White",
@@ -1455,5 +1731,6 @@
       "documentationUrl": "https://support.apple.com/ja-jp/125135",
       "documentationDirect": true
     }
-  ]
+  ],
+  "missingMacConfigurations": []
 }
