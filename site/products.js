@@ -1,4 +1,4 @@
-const U = "./data/products.json";
+const U = "./data/products.json?v=20260826-beats-images";
 const N = 48;
 const ALL = "All";
 const FILTER_KEYS = ["series", "size", "generation", "tier", "model"];
