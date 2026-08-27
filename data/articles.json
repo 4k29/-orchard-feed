@@ -1,6 +1,195 @@
 {
   "articles": [
     {
+      "id": "8f6b39bb79fd5ec5db26",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Pay is getting even better with four new features and more",
+      "url": "https://9to5mac.com/2026/08/27/apple-pay-is-getting-even-better-with-four-new-features/",
+      "publishedAt": "2026-08-27T23:34:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/apple-pay-header.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Pay、4つの新機能と決済インターフェイスの刷新を導入へ",
+      "summaryJa": "Apple Payは、今後のアップデートや新OSでさらに便利になる4つの新機能を迎えます。ウェブやアプリでの決済画面が刷新され、登録した複数のカード間を簡単にスワイプして切り替えられるようになるほか、アメリカン・エキスプレスとの提携によるリワードポイントの利用も可能になります。さらに、店舗での買い物がよりスムーズになる機能も順次展開される予定です。"
+    },
+    {
+      "id": "947b177db9732e66711e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI renews push to get Apple’s trade secret theft lawsuit tossed",
+      "url": "https://9to5mac.com/2026/08/27/openai-renews-push-to-get-apples-trade-secret-theft-lawsuit-tossed/",
+      "publishedAt": "2026-08-27T23:08:40.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-vs-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAIなど、Appleによる営業秘密侵害の訴訟棄却を裁判所に申し立て",
+      "summaryJa": "OpenAIや元Apple社員らは、Appleが提起した営業秘密の不正流用に関する訴訟について、請求を棄却するよう裁判所に新たな申し立てを行いました。被告側は、Appleが保護対象となる営業秘密を具体的に特定できておらず、損害の立証にも失敗していると主張しています。これに対しApple側は、具体的な不正行為や機密情報の持ち出しについて十分な根拠を示していると反論しており、法的な攻防が続いています。"
+    },
+    {
+      "id": "9acd49e969c424bbb157",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Tim Cook and John Ternus host Pikachu and The Pokémon Company CEO at Apple Park",
+      "url": "https://9to5mac.com/2026/08/27/tim-cook-and-john-ternus-host-pikachu-and-the-pokemon-company-ceo-at-apple-park/",
+      "publishedAt": "2026-08-27T22:24:41.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/cook-ternus-pokemon.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ピカチュウがApple Parkを訪問、ティム・クックCEOらが迎える",
+      "summaryJa": "ポケモン社のチームとピカチュウがApple Parkを訪問し、ティム・クックCEOや次期CEOに内定しているジョン・テナスらがその様子を公開しました。訪問の具体的な目的は明らかにされていないものの、公開された動画ではピカチュウが社内を散策する和やかな雰囲気が伝えられています。今回の交流は、App Storeの成長に影響を与えているとされるモバイルゲームの動向が注目される中で行われました。"
+    },
+    {
+      "id": "5f728f69657974398d7c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Pikachu Visits Apple Park, Meets Tim Cook and John Ternus",
+      "url": "https://www.macrumors.com/2026/08/27/pikachu-apple-park-cook-ternus/",
+      "publishedAt": "2026-08-27T22:10:19.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/cook-ternus-pikachu.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "ピカチュウがApple Parkに登場、ティム・クックCEOらと対面",
+      "summaryJa": "来週にCEO退任を控えるティム・クックが、次期CEOのジョン・テナスとともにポケモン社の一行とピカチュウをApple Parkで出迎えました。公開された動画には、ピカチュウがキャンパス内を歩き回ったりリンゴを採ろうとしたりするユーモラスな姿が収められています。両社の間で具体的な提携内容などは発表されていないものの、Appleのプラットフォームでは複数のポケモン関連ゲームが提供されています。"
+    },
+    {
+      "id": "bdff09e1b48834942be4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple announces App Store price changes in four countries",
+      "url": "https://9to5mac.com/2026/08/27/apple-announces-app-store-price-changes-in-four-countries/",
+      "publishedAt": "2026-08-27T20:31:32.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-developer.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple announces App Store price changes in four countries",
+      "summaryJa": "Apple’s Developer blog today announced tax and price updates for apps, In-App Purchases, and subscriptions in several regions. Here are the details. Apple’s Developer blog today announced tax and price updates for apps, In-App Purchases, and subscriptions in several regions. Here are the details. Tax changes hit three countries starting today In a new post on the Apple Developer blog, the company announced two rounds of tax and price updates that will be applied to apps and In-App Purchases across several App Store storefronts. The first, starting today, changes developer proceeds to account for new or updated taxes in three countries: Morocco: Value‑added tax (VAT) introduction of 20% Republic of the Congo: VAT introduction of 18% Tanzania: Digital sales tax (DST) rate increase from 2% to",
+      "translationStatus": "source"
+    },
+    {
+      "id": "bde867b5061dd7dddd35",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple cleared for the second time to pursue documents from federal agencies in antitrust case",
+      "url": "https://9to5mac.com/2026/08/27/apple-cleared-for-the-second-time-to-pursue-documents-from-federal-agencies-in-antitrust-case/",
+      "publishedAt": "2026-08-27T20:08:59.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple cleared for the second time to pursue documents from federal agencies in antitrust case",
+      "summaryJa": "Special Master Jose Linares has rejected the DOJ’s request to reconsider his decision allowing Apple to seek documents from 14 separate government agencies in the antitrust case against the company. Here are the details. Special Master Jose Linares has rejected the DOJ’s request to reconsider his decision allowing Apple to seek documents from 14 separate government agencies in the antitrust case against the company. Here are the details. A bit of background One of Apple’s defense strategies in the antitrust lawsuit the DOJ brought against the company involves the US government’s own use of its products. Apple’s basic argument is that some of the practices challenged by the DOJ are, in fact, legitimate security and privacy safeguards. Hoping to support that defense, Apple wants to examine h",
+      "translationStatus": "source"
+    },
+    {
+      "id": "95b5b1c119f2479943be",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New Apple TV 4K is coming: Four features launching soon",
+      "url": "https://9to5mac.com/2026/08/27/new-apple-tv-4k-is-coming-four-features-launching-soon/",
+      "publishedAt": "2026-08-27T19:30:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2022/10/Apple-TV-4K-2022.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "New Apple TV 4K is coming: Four features launching soon",
+      "summaryJa": "A new Apple TV 4K is long overdue , and was originally expected to launch last fall. But now that Siri AI is finally ready, all signs point to the new Apple TV 4K being unveiled soon—possibly at the September 9 event . Here’s what’s rumored. A new Apple TV 4K is long overdue, and was originally expected to launch last fall. But now that Siri AI is finally ready, all signs point to the new Apple TV 4K being unveiled soon—possibly at the September 9 event. Here’s what’s rumored. #1: Siri Remote update Though no details have been revealed, Apple reportedly has an updated Siri Remote coming with its new Apple TV 4K. Code leaked in a build of macOS 26.7 seemingly confirms the existence of the new Siri Remote. And before that leak, Mark Gurman had reported that a “tweaked Apple TV remote” was po",
+      "translationStatus": "source"
+    },
+    {
+      "id": "3fbf0f43162554c269ed",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New Mac mini, new Mac Studio announced as iPhone 18 Pro event confirmed",
+      "url": "https://9to5mac.com/2026/08/27/happy-hour-605/",
+      "publishedAt": "2026-08-27T19:20:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2018/04/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "New Mac mini, new Mac Studio announced as iPhone 18 Pro event confirmed",
+      "summaryJa": "Benjamin and Chance break down an action-packed week of news, with a new lineup of Mac mini and Mac Studio announced, invites officially going out for the September iPhone event, and even more rumors about what new products to expect later this fall. And in Happy Hour Plus , we discuss the reasons behind a (rare) round of Apple layoffs impacting about 200 people in total. Subscribe at 9to5mac.com/join . Sponsored by Bitwarden: Check out Bitwarden, featuring secure password management, passkey support, end-to-end encryption, and seamless autofill across all devices. Sponsored by Framer : The only free design tool that brings your ideas to the web. Visit framer.com/happyhour for 30% off a Framer Pro annual plan. Sponsored by NordStellar : Get an exclusive offer: Unlock your 10% discount on N",
+      "translationStatus": "source"
+    },
+    {
+      "id": "a255bb2fe45740b9fbc4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27’s Passwords app adds powerful feature that can save you time",
+      "url": "https://9to5mac.com/2026/08/27/ios-27s-passwords-app-can-change-your-passwords-for-you-automatically/",
+      "publishedAt": "2026-08-27T19:14:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/passwords-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27’s Passwords app adds powerful feature that can save you time",
+      "summaryJa": "Among the many Apple Intelligence features coming in iOS 27, the Passwords app is getting an especially powerful one: the ability to automatically change your passwords for you. Among the many Apple Intelligence features coming in iOS 27, the Passwords app is getting an especially powerful one: the ability to automatically change your passwords for you. Passwords app in iOS 27 can fix compromised logins on your behalf, powered by Apple Intelligence A new era of Apple Intelligence is at the heart of the forthcoming iOS 27 and companion software updates. One powerful new AI feature involves the Apple Passwords app. Passwords launched two years ago as a dedicated hub for logins, 2FA codes, Wi-Fi credentials, passkeys, and more. The app has always shown you if passwords in your database are pr",
+      "translationStatus": "source"
+    },
+    {
+      "id": "f0eb78e11233af120aa5",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Tax and price updates for apps, In-App Purchases, and subscriptions",
+      "url": "https://developer.apple.com/news/?id=artln8br",
+      "publishedAt": "2026-08-27T19:00:43.000Z",
+      "imageUrl": null,
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "Tax and price updates for apps, In-App Purchases, and subscriptions",
+      "summaryJa": "The App Store is designed to make it easy to sell your digital goods and services globally, with support for 43 currencies across 175 storefronts. From time to time, we may need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from reputable financial media (e.g., The Wall Street Journal) or financial companies (e.g., Bloomberg) to help make sure prices for apps and In-App Purchases stay consistent across all storefronts. As of August 27: Your proceeds from the sale of eligible apps and In‑App Purchases have been modified in: * Morocco: Value‑added tax (VAT) introduction of 20% Republic of the Congo: VAT introduction of 18% Tanzania: Digital sales tax (DST) rate incre",
+      "translationStatus": "source"
+    },
+    {
+      "id": "7f65dd4fd845b3c5c94e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New Mac mini and more now available from Amazon for launch day pre-order [Updated]",
+      "url": "https://9to5mac.com/2026/08/27/new-mac-mini-now-available-amazon-launch-day-preorder/",
+      "publishedAt": "2026-08-27T18:23:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-mac-studio-chips.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "New Mac mini and more now available from Amazon for launch day pre-order [Updated]",
+      "summaryJa": "Update August 27, 2026 : The new Mac Studio is also now available for pre-order on Amazon. Apple surprised us with some big Mac news today, including a new lineup of Mac Studio and Mac mini models. If you’re in the market for some of today’s new Apple gear, you now have the choice to pre-order from Amazon as well. Buy Mac mini from Amazon Buy Mac Studio from Amazon Update August 27, 2026: The new Mac Studio is also now available for pre-order on Amazon. Apple surprised us with some big Mac news today, including a new lineup of Mac Studio and Mac mini models. If you’re in the market for some of today’s new Apple gear, you now have the choice to pre-order from Amazon as well. Buy Mac mini from Amazon Buy Mac Studio from Amazon What’s new today? You get a primer on what’s new with the latest",
+      "translationStatus": "source"
+    },
+    {
+      "id": "fdbc80bd8b77f7ea2cbc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "M6 Mac mini: Three things Apple didn’t highlight in the announcement",
+      "url": "https://9to5mac.com/2026/08/27/m6-mac-mini-three-things-apple-didnt-highlight-in-the-announcement/",
+      "publishedAt": "2026-08-27T18:20:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-top-down-m6.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "M6 Mac mini: Three things Apple didn’t highlight in the announcement",
+      "summaryJa": "A new Mac mini with M6 and M5 Pro was unveiled this week, but we’ve since learned three things about the product that weren’t highlighted by Apple. A new Mac mini with M6 and M5 Pro was unveiled this week, but we’ve since learned three things about the product that weren’t highlighted by Apple. #1: Memory bandwidth varies among configurations If you’re planning to order a Mac mini, the pre-order page doesn’t tell the full story about a key spec: memory bandwidth. Digging into the technical specs reveals that your RAM choice might directly impact overall memory bandwidth. The base M6 Mac mini with 16GB of RAM offers 153GB/s memory bandwidth. But if you upgrade to 24GB or 32GB of RAM, that number bumps up to 170GB/s. Meanwhile, you’ll need to choose M5 Pro to get the maximum memory bandwidth",
+      "translationStatus": "source"
+    },
+    {
       "id": "66ac44e24cbd2e1d4114",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4325,189 +4514,9 @@
       ],
       "titleJa": "次期Apple TVに5つの新機能か、Siri AIやA17 Pro搭載の噂",
       "summaryJa": "次期Apple TV 4Kには、A17 Pro以降のチップや大容量RAMが搭載され、Siri AIに対応する可能性が報じられています。コード内から新しいSiriのエントリが見つかっており、tvOSのアップデートを通じてApple Intelligence機能が利用できるようになると期待されています。Wi-Fi 7をサポートするN1チップの採用や、リモコンの刷新も噂されています。"
-    },
-    {
-      "id": "95910690be73466149db",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "ClarityCheck people-finder left millions of face photos exposed, likely without their knowledge",
-      "url": "https://9to5mac.com/2026/08/19/claritycheck-people-finder-left-millions-of-face-photos-exposed-likely-without-their-knowledge/",
-      "publishedAt": "2026-08-19T14:17:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ClarityCheck-people-finder-left-millions-of-face-photos-exposed.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "顔認識ツール「ClarityCheck」で数百万枚の写真が流出か",
-      "summaryJa": "顔認証で個人検索を行うツール「ClarityCheck」において、数百万枚におよぶ顔写真がパスワード保護なしでインターネット上に公開状態になっていたことが判明しました。セキュリティ研究者によって発見されたこのデータベースには、大人や子どもの顔写真が含まれており、本人の同意なしにアップロードされた可能性が高いとされています。"
-    },
-    {
-      "id": "a0df527a8ca3aa92f9dd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Things 3.23 update now available with major repeating to-do improvements",
-      "url": "https://9to5mac.com/2026/08/19/things-3-23-update-now-available-with-major-repeating-to-do-improvements/",
-      "publishedAt": "2026-08-19T14:03:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/things-repeat.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "タスク管理アプリ「Things 3.23」が登場、繰り返しタスクを大幅刷新",
-      "summaryJa": "人気タスク管理アプリの最新版となる「Things 3.23」がリリースされ、繰り返しタスクの機能が大幅に向上しました。予定日より前に完了できるチェックボックスの追加や、スケジュール変更時に単発の例外とするか今後のルール全体を更新するかを選ぶ機能などが搭載されています。さらに、一括操作の対応やMacとiOS間でのコード共通化なども行われ、より柔軟な運用が可能になっています。"
-    },
-    {
-      "id": "19a8507700632fb64b8e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Things 3.23 Brings Long-Requested Overhaul of Repeating To-Dos",
-      "url": "https://www.macrumors.com/2026/08/19/things-3-23-brings-long-requested-overhaul-of-repeating-to-dos/",
-      "publishedAt": "2026-08-19T14:00:06.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/things-3-repeating-tasks-update.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Things 3.23配信開始、長年要望されていた繰り返しタスクの改善を実施",
-      "summaryJa": "Cultured Codeは、タスク管理アプリ「Things 3.23」をリリースしました。ユーザーから長年要望されていた繰り返しタスクの柔軟性を高めるアップデートで、期限前の完了やリスケジュール時の例外設定、一括操作などが可能になっています。また、繰り返し項目の専用検索や、セットアップ画面のデザイン刷新なども含まれています。"
-    },
-    {
-      "id": "f8112256f1053cb5aa2d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Amazon announces huge drone delivery expansion, here’s where it’s coming next",
-      "url": "https://9to5mac.com/2026/08/19/amazon-announces-huge-drone-delivery-expansion-heres-where-its-coming-next/",
-      "publishedAt": "2026-08-19T13:52:32.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/amazon-prime-air-drone-delivery.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Amazon、ドローン配送サービスを大幅拡大へ",
-      "summaryJa": "Amazonは、プライム会員向けのドローン配送サービス「Prime Air」を大幅に拡大する計画を発表しました。2026年末までに米国のおよそ500都市にサービスを届ける方針で、現在の提供エリアから数倍規模の拡大となります。食料品や日用品などを最短30分で届ける迅速な配送網が、今後さらに多くの地域で利用できるようになります。"
-    },
-    {
-      "id": "0c94941205662c0f68ee",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Amazon and Best Buy Offer Up to $500 Discounts on 2026 MacBook Pro",
-      "url": "https://www.macrumors.com/2026/08/19/500-discounts-macbook-pro/",
-      "publishedAt": "2026-08-19T13:51:40.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/macbook-pro-spring.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "米AmazonやBest BuyでMacBook Proが最大500ドル引きのセール",
-      "summaryJa": "米国のAmazonやBest Buyにおいて、M5 ProおよびM5 Maxを搭載したMacBook Proの一部モデルが割引価格で販売されています。対象モデルによって最大500ドルの値引きとなっており、14インチおよび16インチの複数の構成でお得な価格が確認されています。記念セールなどのタイミングに合わせて、より手頃に購入できる機会となっています。"
-    },
-    {
-      "id": "1771ec82e56bd42561cc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Hidden AirTag appears to confirm suspicions about illicit AI book scanning",
-      "url": "https://9to5mac.com/2026/08/19/hidden-airtag-appears-to-confirm-suspicions-about-illicit-ai-book-scanning/",
-      "publishedAt": "2026-08-19T12:20:38.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/airtag-2-01.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirTagの追跡で判明したAI企業による書籍の無断スキャン",
-      "summaryJa": "古本の大量購入がAI企業のトレーニング用スキャンではないかという疑惑について、調査メディアが隠したAirTagによって実態が明らかになりました。古本はAmazonの施設に送られ、AI学習用のテキストとして高速スキャンするために背表紙が切り落とされて処分されていることが確認されています。作家の同意や対価のないこうした無断使用には倫理的な問題があり、今回の追跡調査が決定的な証拠となりました。"
-    },
-    {
-      "id": "66faf350350c2bc3cf1c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPad Mini 8: Release Date, Pricing, and What to Expect",
-      "url": "https://www.macrumors.com/2026/08/19/ipad-mini-8-release-date-pricing-what-to-expect/",
-      "publishedAt": "2026-08-19T12:17:28.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/10/ipad-mini-7-feature-blue.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "次世代iPad miniの発売時期と性能の噂",
-      "summaryJa": "Appleが次世代の「iPad mini 8」の開発を進めており、近いうちに発表されるのではないかと報じられています。コードの解析から、プロセッサにはA19 Proチップの中位モデルが採用される可能性が指摘されています。また、新型ではGPU性能の向上や16コアのNeural Engineなどが搭載され、AIタスクへの対応強化が期待されています。"
-    },
-    {
-      "id": "d5b455f52b689e28d78b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "HomePad code suggests it’ll act like a giant Apple Watch",
-      "url": "https://9to5mac.com/2026/08/19/homepad-code-suggests-itll-act-like-a-giant-apple-watch/",
-      "publishedAt": "2026-08-19T11:44:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/homepad-rainbow-hello-homepod.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "次期ホームデバイス「HomePad」は巨大なApple Watchのようになる可能性か",
-      "summaryJa": "最新のmacOSベータ版コードから、長年噂されているディスプレイ付きスマートホームデバイス「HomePad」の詳細が明らかになると報じられています。tvOSをベースにしながらも、Apple Watchのような文字盤やウィジェットを備えたホーム画面を採用し、iPhoneが近くにある場合のみ個人情報を表示するプライバシー機能も搭載される見込みです。"
-    },
-    {
-      "id": "e4e66f961166c221a0bd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Otterbox and Astropad think iPhone 17 Pro cases will fit iPhone 18 Pro",
-      "url": "https://9to5mac.com/2026/08/19/otterbox-and-astropad-think-iphone-17-pro-cases-will-fit-iphone-18-pro/",
-      "publishedAt": "2026-08-19T11:21:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 17 Proのケースは次期モデル「iPhone 18 Pro」にも共用可能か",
-      "summaryJa": "アクセサリーメーカーが、現行のiPhone 17 Pro向けケースが次期iPhone 18 Proにもそのまま適合すると見込んでいると伝えられています。小売店のパッケージやサプライヤー情報から寸法が同じ可能性が指摘されているものの、本体の厚み増加に関する相反する噂もあり、今後の動向が注目されています。"
-    },
-    {
-      "id": "f40486f69c41136d0511",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 17 Pro Cases Fit iPhone 18 Pro - Or At Least Otterbox Thinks So",
-      "url": "https://www.macrumors.com/2026/08/19/iphone-17-pro-cases-fit-iphone-18-pro/",
-      "publishedAt": "2026-08-19T09:39:55.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iphone-17-18-pro-case-otterbox@2x-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "次期iPhone 18 ProのケースはiPhone 17 Proと互換性があるか",
-      "summaryJa": "米大手アクセサリーメーカーのOtterboxが、次期iPhone 18 Pro向けのケースをすでに販売していると報じられています。パッケージの表記によると、iPhone 17 ProとiPhone 18 Proの間でケースを互換利用できる仕様になっているとのことです。iPhone 18 Proシリーズは前モデルのデザインを概ね維持するとみられていますが、一部ではバッテリー容量の増加に伴う本体の厚みや重量の変化を指摘する声もあります。"
-    },
-    {
-      "id": "0b43c446ff4e48c0447b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's iPhone 18 Release Schedule: What's Coming and When",
-      "url": "https://www.macrumors.com/guide/iphone-18-release-schedule/",
-      "publishedAt": "2026-08-18T22:58:50.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18シリーズの発売スケジュールと新機能の噂",
-      "summaryJa": "Appleは従来のリリーススケジュールを変更し、2026年秋にはiPhone 18 Proシリーズや折りたたみ式iPhoneを投入する一方で、標準モデルのiPhone 18は2027年春に延期すると報じられています。秋モデルには、2nmプロセスのA20チップや可変絞りカメラが搭載され、メモリ不足の影響で価格が上昇する可能性が指摘されています。"
-    },
-    {
-      "id": "7dce47c9a97422014d94",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 18, 2026 – iOS 27 beta 6, AirPods leak",
-      "url": "https://9to5mac.com/2026/08/18/daily-august-18-2026/",
-      "publishedAt": "2026-08-18T21:56:50.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、米国の外部決済に最大15%の手数料を提案か",
-      "summaryJa": "最新のポッドキャストでは、米国でのApp Store外での購入に対する最大15%の手数料提案や、iPhone向けiOS 26.6.1のリリース、さらにベータ版が進行中のOSの最新状況などを振り返っています。セキュリティの修正や、カメラ搭載のAirPodsに関する新たな噂についても触れられています。Appleエコシステムを巡る最新の動向を音声で手軽に確認できる内容となっています。"
     }
   ],
-  "updatedAt": "2026-08-27T14:27:44.508Z",
+  "updatedAt": "2026-08-27T23:58:18.306Z",
   "initialized": true,
   "summaryVersion": 4
 }
