@@ -1,6 +1,187 @@
 {
   "articles": [
     {
+      "id": "66ac44e24cbd2e1d4114",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Arcade sees Sneaky Sasquatch/Subway Surfers+ crossover, with stickers too",
+      "url": "https://9to5mac.com/2026/08/27/apple-arcade-sees-sneaky-sasquatch-subway-surfers-crossover-with-stickers-too/",
+      "publishedAt": "2026-08-27T14:26:54.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-Arcade-Sneaky-Sasquatch-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Arcadeの人気ゲームがクロスオーバー企画を実施",
+      "summaryJa": "Apple Arcadeの人気ゲーム「Sneaky Sasquatch」が「Subway Surfers+」との限定クロスオーバーを実施すると発表されました。10月7日まで「Subway Surfers+」の世界がサスクワッチのスタイルへと変化し、専用のスキンやホバーボードなどが登場します。さらに、9月17日には30種類以上の鳥を撮影できるバードウォッチング機能などの大型アップデートも予定されています。"
+    },
+    {
+      "id": "694701fc56e301fe2d80",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Four advantages iPhone 18 Pro will have over the iPhone Ultra",
+      "url": "https://9to5mac.com/2026/08/27/four-advantages-iphone-18-pro-will-have-over-the-iphone-ultra/",
+      "publishedAt": "2026-08-27T14:22:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proが持つUltraモデルに対する優位性",
+      "summaryJa": "Appleが将来投入すると噂される新型のフラッグシップ機において、iPhone 18 Proがより高価格なiPhone Ultraモデルに対して持つ複数の優位性が報じられています。主な違いとして、可変絞りに対応するメインカメラや、Pro Maxシリーズにおける長持ちなバッテリー、そしてFace IDの継続採用などが挙げられています。"
+    },
+    {
+      "id": "c676107385dd2a7a26e3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's New Macs to Ship With macOS Golden Gate",
+      "url": "https://www.macrumors.com/2026/08/27/new-macs-to-ship-with-macos-golden-gate/",
+      "publishedAt": "2026-08-27T14:12:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型MacはmacOS Golden Gateを搭載して出荷か",
+      "summaryJa": "今週Appleが発表した新しいMac miniやMac Studioなどのモデルには、macOS Golden Gateがプレインストールされて出荷される予定であると伝えられています。製品ページやFCCの関連ドキュメントからもSiri AIなどの最新機能への対応が示唆されており、正式リリースに向けた動向が注目されています。"
+    },
+    {
+      "id": "078e4178702d7340b1a2",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "「Sneaky Sasquatch」のエキサイティングなアップデートがApple Arcadeに登場",
+      "url": "https://www.apple.com/jp/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
+      "publishedAt": "2026-08-27T14:00:20.256Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple ArcadeのSneaky Sasquatchが大型アップデート",
+      "summaryJa": "Apple Arcadeの人気タイトル「Sneaky Sasquatch」が「Subway Surfers+」との期間限定コラボレーションを開始しました。ゲーム内には専用のスキンやホバーボードが登場し、ラクーンコインなどの特別要素が追加されています。また、9月17日には多数の鳥を撮影して報酬を得られるバードウォッチングの追加アップデートも控えています。"
+    },
+    {
+      "id": "1d72933ac3b5252aa575",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
+      "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
+      "publishedAt": "2026-08-27T13:59:18.486Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple Arcade、人気ゲーム「Sneaky Sasquatch」の大型アップデートを配信",
+      "summaryJa": "Apple Arcadeの人気ゲーム「Sneaky Sasquatch」が、Subway Surfers+との限定コラボレーションや新機能となるバードウォッチングの追加を含む大型アップデートを配信しました。10月7日までの期間限定で、おなじみの世界観がサスクワッチ仕様に変更され、専用のスキンやホバーボードなどが登場します。アトレや熱心なコミュニティに向けて、今後も魅力的なアップデートが予定されています。"
+    },
+    {
+      "id": "7ba335324cb1e89359af",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "2026 MacBook Pro Sees Up to $500 Discounts at Amazon and Best Buy",
+      "url": "https://www.macrumors.com/2026/08/27/macbook-pro-500-discounts/",
+      "publishedAt": "2026-08-27T13:57:21.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/macbook-pro-spring.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "2026年型MacBook ProがAmazonとBest Buyで最大500ドルの割引に",
+      "summaryJa": "AmazonとBest Buyにおいて、M5 ProおよびM5 Maxチップを搭載した2026年モデルのMacBook Proが大幅な割引価格で販売されています。一部の構成では過去のセール価格からさらに値下がりし、最大500ドルの割引が適用されています。14インチおよび16インチの複数のモデルが対象となっており、Labor Dayセールに合わせてお得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "df0629ab0c1ddde427c7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple has announced 11 new products in 2026 so far, with more coming soon",
+      "url": "https://9to5mac.com/2026/08/27/apple-has-announced-11-new-products-in-2026-so-far-with-more-coming-soon/",
+      "publishedAt": "2026-08-27T13:25:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/tim-cook-apple-park-rainbow-night.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、2026年に早くも11の新製品を発表し秋のイベントへ",
+      "summaryJa": "Appleは2026年に入り、1月のAirTag 2をはじめ、3月の多数の新製品発表や8月のMacアップデートなど、すでに11のハードウェア製品を市場に投入しています。春にはiPhone 17eやM4 iPad Air、新型MacBookなどが登場し、今年は勢いのある展開を見せています。最大の発表イベントをまだ控えていることから、今後の動向にも注目が集まっています。"
+    },
+    {
+      "id": "ac6df3828229671144e6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Adobe Photoshop adds optional ‘AI Assisted Editor’ mode for fully prompt-based image editing",
+      "url": "https://9to5mac.com/2026/08/27/adobe-photoshop-adds-optional-ai-assisted-editor-mode-for-fully-prompt-based-image-editing/",
+      "publishedAt": "2026-08-27T13:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/photoshop-ai-assisted.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Adobe Photoshop、テキスト指示で編集できる「AI Assisted Editor」をベータ提供",
+      "summaryJa": "Adobeは、Photoshop向けにプロンプトベースで直感的な画像編集が行える新機能「AI Assisted Editor」のベータ版を発表しました。メニューバーから切り替え可能なこのモードでは、複雑な手動操作を省き、自然言語や簡単な描き込みだけで背景の削除や画像の拡張などが可能です。Adobe Fireflyを活用した高度な生成AI機能により、初心者からプロまで効率的な作業をサポートします。"
+    },
+    {
+      "id": "56b5c13a5d5aa2054899",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Announces Sneaky Sasquatch Updates, Files New Trademarks",
+      "url": "https://www.macrumors.com/2026/08/27/apple-seeks-sneaky-sasquatch-trademark-merchandise/",
+      "publishedAt": "2026-08-27T12:44:45.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-Arcade-Sneaky-Sasquatch-hero-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Arcadeの人気作「Sneaky Sasquatch」が大型アプデや商標出願を発表",
+      "summaryJa": "Appleは、Apple Arcadeで人気のゲーム「Sneaky Sasquatch」において、「Subway Surfers+」とのクロスオーバーや30種類以上の野鳥を撮影できる新たなバードウォッチングアップデートの配信を発表しました。さらに、EUや米国で同タイトルのアパレルやグッズ、映像作品などに関連する商標を出願していることが明らかになっています。これにより、同タイトルのグッズ展開やメディア展開がさらに広がる可能性があります。"
+    },
+    {
+      "id": "99a633ae26339d5997a5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple expands educational program for its supply-chain workers in Vietnam",
+      "url": "https://9to5mac.com/2026/08/27/apple-expands-educational-program-for-its-supply-chain-workers-in-vietnam/",
+      "publishedAt": "2026-08-27T12:42:50.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-expands-educational-program-for-its-supply-chain-workers-in-Vietnam.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、ベトナムのサプライチェーン労働者向け教育プログラムを拡充",
+      "summaryJa": "Appleは、サプライチェーンで働く労働者を支援する5000万ドルの教育基金「Supplier Employee Development Fund」の拡大を発表し、ベトナムに新たなApple教育センターを開設しました。ハノイ工科大学との提携により運営されるこの施設では、スマート製造の基礎やロボティクス、自動化技術などの実践的なスキルプログラムが提供されます。サプライチェーンの労働環境改善やスキル向上を目指す取り組みの一環として展開されています。"
+    },
+    {
+      "id": "e08b7bfd721d5f818c80",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Unprecedented teen protections on Instagram see $18B lawsuit settled",
+      "url": "https://9to5mac.com/2026/08/27/unprecedented-teen-protections-on-instagram-see-18b-lawsuit-settled/",
+      "publishedAt": "2026-08-27T11:51:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Unprecedented-teen-protections-on-Instagram-see-18B-lawsuit-settled.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Meta、Instagramの十代向け保護機能巡る180億ドルの訴訟で和解",
+      "summaryJa": "Metaは、Instagramが十代の若者たちに意図的な依存を引き起こしているとして米国各州から起こされていた180億ドルの訴訟について和解に合意しました。和解金は若者の安全性向上イニシアチブなどに充てられるほか、18歳未満のユーザーを対象とした前例のない利用制限機能が導入されます。具体的には、デフォルトでの1日の利用時間制限や、深夜帯のアクセス制限、学校の授業時間中の通知ミュートなどが適用される予定です。"
+    },
+    {
+      "id": "f4b988c34ab1275de2d6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Event Logo Hints at Two iPhone 18 Pro Features",
+      "url": "https://www.macrumors.com/2026/08/27/apple-event-hints-iphone-18-pro-features/",
+      "publishedAt": "2026-08-27T11:46:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-Surprise-Shine.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleのイベントロゴ、iPhone 18 Proの新機能や新色を匂わせか",
+      "summaryJa": "Appleが開催するイベントの招待状に描かれたロゴが、次期「iPhone 18 Pro」の新たな機能と新色を示唆していると報じられています。Bloombergのマーク・ガーマン記者によれば、ロゴの背後にある光の演出は「iPhone 18 Pro Max」に搭載されると噂されるメカニカルな可変絞りカメラを表現しており、招待状のスカイブルーの色合いは新しい本体カラーの可能性を指しているとのことです。発表イベントは約2週間後に迫っており、実際の詳細に注目が集まっています。"
+    },
+    {
       "id": "c4f1bbf122ae759ce352",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4324,189 +4505,9 @@
       ],
       "titleJa": "Apple、米国の外部決済に最大15%の手数料を提案か",
       "summaryJa": "最新のポッドキャストでは、米国でのApp Store外での購入に対する最大15%の手数料提案や、iPhone向けiOS 26.6.1のリリース、さらにベータ版が進行中のOSの最新状況などを振り返っています。セキュリティの修正や、カメラ搭載のAirPodsに関する新たな噂についても触れられています。Appleエコシステムを巡る最新の動向を音声で手軽に確認できる内容となっています。"
-    },
-    {
-      "id": "d9b988beeb6c61ef309c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Wallet driver’s licenses coming to these states next",
-      "url": "https://9to5mac.com/2026/08/18/apple-wallet-drivers-licenses-states-coming-soon/",
-      "publishedAt": "2026-08-18T20:57:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2022/11/colorado-dl.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleウォレットの身分証明書対応、今後の導入予定州が判明",
-      "summaryJa": "iPhoneのAppleウォレットに運転免許証や身分証明書を追加できる機能について、新たに導入を進めている州のリストが明らかになりました。現在までに14の州とプエルトリコで利用可能となっていますが、ケンタッキー州やノースカロライナ州など複数の州が今後の対応を予定または検討しています。米国全体での普及は州ごとに進捗が異なり、段階的な拡大となっています。"
-    },
-    {
-      "id": "6b1baad33b6687e5c342",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iCloud, Photos, Find My and More Experiencing Issues",
-      "url": "https://www.macrumors.com/2026/08/18/icloud-photos-find-my-service-issues/",
-      "publishedAt": "2026-08-18T20:56:35.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iCloudや写真など複数のAppleサービスで障害が発生か",
-      "summaryJa": "Appleのシステムステータスぺージによると、iCloudや写真、探す、ゲームセンターなど複数のサービスで一時的な障害が発生していることが確認されました。一部またはすべてのユーザーに影響が出ており、サービスが遅延したり利用できなくなったりしています。Appleは現在、問題の調査と復旧作業を進めています。"
-    },
-    {
-      "id": "607f3c89f840d0f78be4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Find My, iCloud, and several other Apple services are currently down for some users",
-      "url": "https://9to5mac.com/2026/08/18/find-my-icloud-and-several-other-apple-services-are-currently-down-for-some-users/",
-      "publishedAt": "2026-08-18T20:48:38.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "探すやiCloudなど複数のAppleサービスで一時的な障害が発生",
-      "summaryJa": "Appleのシステムステータス情報に基づき、ユーザーや開発者の間で一部のサービスにアクセスできない問題が報告されています。影響を受けているのは探す、ゲームセンター、写真、iCloud関連の各種サービスやiWorkなどで、開発者向けではXcode Cloudでも障害が発生しています。Appleは問題の解決に向けて対応に当たっています。"
-    },
-    {
-      "id": "ae18b0ecc0f881346b16",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Comcast just turned millions of Xfinity routers into motion sensors",
-      "url": "https://9to5mac.com/2026/08/18/comcast-just-turned-millions-of-xfinity-routers-into-motion-sensors/",
-      "publishedAt": "2026-08-18T20:33:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/comcast-xfinity-gateway-router.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Comcast、対応ルーターを動体検知センサーにする機能を提供開始",
-      "summaryJa": "Comcastは新しいホームセキュリティプラットフォーム「Xfinity Shield」を発表し、対応する家庭用Wi-Fiルーターを動体検知センサーとして活用できる機能の提供を開始しました。この機能はカメラや従来のセンサーを使わずに無線信号の変化を捉えて動きを検知するもので、異常を察知するとアプリを通じてユーザーに即座に通知を送信します。対象となる機器は一部のXBシリーズなどのルーターであり、ホームセキュリティの利便性を高める新しい試みとして注目されています。"
-    },
-    {
-      "id": "a51c122883896281370c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Firefox Smart Window adds AI web search, automatic tab groups, and more",
-      "url": "https://9to5mac.com/2026/08/18/firefox-smart-window-adds-ai-web-search-automatic-tab-groups-and-more/",
-      "publishedAt": "2026-08-18T20:23:57.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/firefox-smart-window.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "FirefoxのAI機能にスマートウィンドウの新機能や自動タブグループなど追加",
-      "summaryJa": "Mozillaは、ベータ版として提供しているFirefoxのAIアシスタント機能「スマートウィンドウ」のアップデートを発表しました。今回の更新により、関連するタブを自動でグループ化する機能や、ワンクリックで重複したタブを見つけて閉じられる機能が追加されました。さらに、AI検索企業Exaとの提携に基づくWeb検索機能の統合により、検索結果ページへ移動することなく最新情報の取得やソースの確認が可能になります。"
-    },
-    {
-      "id": "d379666afe314adc9af4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Home Hub Will Have a Widget Gallery With iPhone Widget Support",
-      "url": "https://www.macrumors.com/2026/08/18/apple-home-hub-widget-gallery/",
-      "publishedAt": "2026-08-18T19:56:49.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/11/Apple-AI-Command-Center-Concept-Mock-3.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AppleのホームハブはiPhoneウィジェット対応か",
-      "summaryJa": "Appleが開発中とされる新型ホームハブには、iPhoneのウィジェット機能に対応した「ウィジェットギャラリー」が搭載される見込みです。関連コードから、連携したiPhoneのウィジェットが提案・表示される仕組みや、スマートスタックへの対応、主要なApple製アプリのサポートなどが明らかになっています。"
-    },
-    {
-      "id": "2bcc9dacea16aefa6504",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s everything new for Apple Calendar in iOS 27",
-      "url": "https://9to5mac.com/2026/08/18/heres-everything-new-for-apple-calendar-in-ios-27/",
-      "publishedAt": "2026-08-18T19:37:21.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27におけるAppleカレンダーの新機能",
-      "summaryJa": "iOS 27のカレンダーアプリでは、Apple Intelligenceを活用した自然言語によるイベントおよびリモート入力機能「スマートイベント詳細」が追加されます。さらに、イベント詳細や作成画面のデザイン刷新に加え、iCloudカレンダーでの予定の空き・忙しい状態の表示設定が新たにサポートされます。"
-    },
-    {
-      "id": "cbbb668b892e6cf3ba05",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple pulls AI ‘nudify’ app promoted in Meta ads",
-      "url": "https://9to5mac.com/2026/08/18/apple-pulls-ai-nudify-app-promoted-in-meta-ads/",
-      "publishedAt": "2026-08-18T19:28:04.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/App-Store-fraud.webp?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、規約違反のAIヌード生成アプリをApp Storeから削除",
-      "summaryJa": "Appleは、AIを用いたディープフェイクのポルノ画像を作成できる規約違反のアプリ「Kromix」をApp Storeから削除しました。このアプリは当初の審査を通過した後に禁止された機能を追加したとされており、Metaの広告プラットフォーム上で著名な政治家に似た人物を使った広告を展開していました。メディアの指摘を受けて両社ともに対応を取り、アプリの削除および広告キャンペーンの停止が行われています。"
-    },
-    {
-      "id": "bde2d628e180c8587620",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "National Parks Apple Watch Activity Challenge Launching August 23",
-      "url": "https://www.macrumors.com/2026/08/18/national-parks-activity-challenge-2026/",
-      "publishedAt": "2026-08-18T19:09:16.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/national-parks-activity-2026.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、8月23日にナショナル・パークス・アクティビティチャレンジを開催",
-      "summaryJa": "Appleはアメリカの国立公園を記念し、恒例の「ナショナル・パークス・アクティビティチャレンジ」を8月23日に開催することを発表しました。Apple Watchユーザーは、当日に20分以上のウォーキング、ランニング、ハイキング、車いすのワークアウトを記録することで、限定のアワードとメッセージアプリで使えるアニメーションステッカーを獲得できます。"
-    },
-    {
-      "id": "f7c52f244c70abf34cf0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Next Apple Watch activity challenge supports national parks",
-      "url": "https://9to5mac.com/2026/08/18/next-apple-watch-activity-challenge-supports-national-parks-2/",
-      "publishedAt": "2026-08-18T19:00:26.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/watch-challenge-parks.webp?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch、国立公園をテーマにした新しいアクティビティチャレンジを開催へ",
-      "summaryJa": "Appleは、8月23日にApple Watchの新しいアクティビティチャレンジ「国立公園チャレンジ」を実施すると予告しています。当日はウォーキングやランニング、車いすなどのワークアウトを20分以上記録することで、仮想のトロフィーやメッセージアプリで使えるアニメーションステッカーが獲得できます。イベントが近づくと、Apple Watchに通知が届く仕組みになっています。"
-    },
-    {
-      "id": "a9be249f16d9071a01d7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Safari 26.6.1 patches multiple WebKit security flaws on macOS Sonoma and Sequoia",
-      "url": "https://9to5mac.com/2026/08/18/safari-26-6-1-patches-multiple-webkit-security-flaws-on-macos-sonoma-and-sequoia/",
-      "publishedAt": "2026-08-18T18:29:25.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/safari-ios26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOS SonomaとSequoia向けにSafari 26.6.1を公開し複数の脆弱性を修正",
-      "summaryJa": "Appleは、macOS SonomaおよびSequoia向けに「Safari 26.6.1」をリリースし、セキュリティの不具合に関する詳細を公開しました。今回のアップデートでは、WebKitに関連する22件の脆弱性が修正されており、悪意あるウェブコンテンツの処理によるメモリ破損などを防ぎます。また、セキュリティの脆弱性発見においてAIツールの役割がますます高まっていることも指摘されています。"
-    },
-    {
-      "id": "54ba72d38df5bf327964",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Camera AirPods May Launch as 'AirPods Pro,' Not 'AirPods Ultra'",
-      "url": "https://www.macrumors.com/2026/08/18/camera-airpods-naming/",
-      "publishedAt": "2026-08-18T18:01:46.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/airpods-pro-3-prime-day.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "カメラ搭載AirPodsはAirPods Proとして登場か",
-      "summaryJa": "Appleが開発を進めているカメラを搭載した新型AirPodsは、新ブランドの「AirPods Ultra」ではなく「AirPods Pro」のラインナップとして発売される可能性が高いと報じられています。macOS Tahoeのファイル内で新モデルを示す表記が見つかったほか、複数の内部コードネームの存在も噂されています。今後の正式発表や価格設定などに注目が集まっています。"
     }
   ],
-  "updatedAt": "2026-08-27T03:24:28.663Z",
+  "updatedAt": "2026-08-27T14:27:44.508Z",
   "initialized": true,
   "summaryVersion": 4
 }
