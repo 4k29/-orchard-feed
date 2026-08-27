@@ -1,6 +1,126 @@
 {
   "articles": [
     {
+      "id": "c4f1bbf122ae759ce352",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple says these three things can speed up the new Spotlight indexing",
+      "url": "https://9to5mac.com/2026/08/26/apple-says-these-three-things-can-speed-up-the-new-spotlight-indexing/",
+      "publishedAt": "2026-08-27T02:24:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/indexing-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、新しいSpotlightのインデックス作成を高速化する3つの条件を解説",
+      "summaryJa": "Appleは、各デバイスでSpotlightのインデックス作成を迅速に完了させるためのサポート文書を公開しました。データ量が多い場合、処理には数時間から数日かかることがありますが、デバイスを使用していない状態にし、電源とWi-FiまたはEthernetに接続することでプロセスがより早く完了すると説明しています。"
+    },
+    {
+      "id": "c4ab6a1ff720f38bc0e6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "The best displays to pair with your new Mac mini or Mac Studio",
+      "url": "https://9to5mac.com/2026/08/26/best-new-mac-displays/",
+      "publishedAt": "2026-08-27T00:28:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Asus-ProArt-Display-6K-Review.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Mac miniやMac Studioに最適な外部ディスプレイの推薦モデル",
+      "summaryJa": "新しく購入したMac miniやMac Studioに組み合わせるおすすめの外部ディスプレイを紹介しています。27インチ5K Retinaディスプレイを搭載したAppleのStudio Displayをはじめ、価格帯や機能に応じた様々な製品がピックアップされています。"
+    },
+    {
+      "id": "412b65e1f13367610e91",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "LM Studio adds GLM-5.3-Flash to Bionic, with image support and 1M-token context",
+      "url": "https://9to5mac.com/2026/08/26/lm-studio-adds-glm-5-3-flash-to-bionic-with-image-support-and-1m-token-context/",
+      "publishedAt": "2026-08-27T00:10:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/lm-studio-bionic.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "LM Studio、BionicプラットフォームにGLM-5.3-Flashモデルを追加",
+      "summaryJa": "AIエージェントプラットフォームのLM Studio Bionicに、Z.aiの新しい「GLM-5.3-Flash」モデルが追加されました。このモデルはマルチモーダル入力や100万トークンのコンテキストウィンドウをサポートし、従来モデルよりも大幅に低いコストで利用可能となっています。"
+    },
+    {
+      "id": "6ecbc0d7943fbb608562",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "PSA: Proton Mail and other Proton platforms facing widespread outage [U: Fixed]",
+      "url": "https://9to5mac.com/2026/08/26/psa-proton-mail-and-other-proton-platforms-facing-widespread-outage/",
+      "publishedAt": "2026-08-26T23:45:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2022/12/biggest-internet-outages.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Proton Mailなどで大規模なサービス障害が発生ののち復旧",
+      "summaryJa": "Proton MailやProton VPNなどのプラットフォームで大規模な障害が発生しました。エンジニアチームによる対応の結果、サービスはオンラインに復帰し大部分が解消されましたが、一部のユーザーではメールの送受信や通知に遅れが生じているとのことです。"
+    },
+    {
+      "id": "b482162e716ab5b2b1e9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's iPhone Event Tagline is Different in Every Country",
+      "url": "https://www.macrumors.com/2026/08/26/apple-iphone-event-taglines/",
+      "publishedAt": "2026-08-26T23:41:10.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Surprise-and-Shine-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AppleのiPhoneイベント、各国で異なるキャッチコピーを採用",
+      "summaryJa": "Appleが開催する恒例のiPhoneイベントに向けて、各国・地域別の公式ウェブサイトで様々なキャッチコピーが使われていることが明らかになりました。米国などでは「Surprise and Shine」が採用されていますが、直訳ではなく各国の言語や文化に合わせて異なる表現にローカライズされています。例えば、フランスやスペイン、イタリア、ブラジルなどではそれぞれ独自のニュアンスを持つフレーズが設定され、世界各地で異なる演出が行われています。"
+    },
+    {
+      "id": "e75e524b5121f17be655",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Astropad Launches Rock Paper Pencil 4.0 With New Graphite Apple Pencil Tip",
+      "url": "https://www.macrumors.com/2026/08/26/astropad-rock-paper-pencil-4/",
+      "publishedAt": "2026-08-26T23:26:07.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/rock-paper-pencil-4-0.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Astropad、新しい鉛筆の書き心地を再現したApple Pencil用ペン先「Rock Paper Pencil 4.0」を発表",
+      "summaryJa": "Astropadは、iPad向けのペーパーライク保護フィルムとApple Pencil用ペン先のセットの新バージョン「Rock Paper Pencil 4.0」を発表しました。新たにソフトなグラファイト鉛筆の感触を模した2B鉛筆風のペン先が追加され、スケッチや網掛けに最適な紙のような適度な抵抗感を実現しています。また、滑らかなジェルペンのようなボールペン先のペン先も付属し、NanoCling技術を用いた着脱可能な保護フィルムと合わせて利用できます。"
+    },
+    {
+      "id": "02b683fad69c12382997",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Meta Agrees to Limit Teens' Time on Facebook and Instagram, Calls on TikTok and YouTube to Match",
+      "url": "https://www.macrumors.com/2026/08/26/meta-teen-time-limit/",
+      "publishedAt": "2026-08-26T22:28:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Meta-16x9.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Meta、FacebookとInstagramで10代の利用時間を制限する方針へ",
+      "summaryJa": "Metaは全米の州との和解合意の一環として、FacebookとInstagramにおける10代のユーザー向け安全機能を大幅に強化すると発表しました。合意が承認されれば、18歳未満のユーザーに対して1日2時間の利用時間制限や夜間モード、学校向けの通知オフ機能などが導入されます。また、親による管理機能の強化や、不適切なフィルターの制限、アルゴリズム非依存のフィード選択なども含まれています。"
+    },
+    {
+      "id": "6f605457aa6380cc2fd6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases Safari Technology Preview 251 With Bug Fixes and Performance Improvements",
+      "url": "https://www.macrumors.com/2026/08/26/apple-releases-safari-technology-preview-251/",
+      "publishedAt": "2026-08-26T22:00:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、バグ修正と性能向上を行った「Safari Technology Preview 251」を公開",
+      "summaryJa": "Appleは実験的ブラウザである「Safari Technology Preview」の最新アップデート版となるバージョン251をリリースしました。将来のSafariリリース版に搭載予定の機能をテストするために設計されており、バグの修正やパフォーマンスの改善が含まれています。最新のmacOS環境に対応しており、開発者アカウントを持っていなくても誰でも無料でダウンロードして利用可能です。"
+    },
+    {
       "id": "df2e6a6449b234302144",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4384,130 +4504,9 @@
       ],
       "titleJa": "カメラ搭載AirPodsはAirPods Proとして登場か",
       "summaryJa": "Appleが開発を進めているカメラを搭載した新型AirPodsは、新ブランドの「AirPods Ultra」ではなく「AirPods Pro」のラインナップとして発売される可能性が高いと報じられています。macOS Tahoeのファイル内で新モデルを示す表記が見つかったほか、複数の内部コードネームの存在も噂されています。今後の正式発表や価格設定などに注目が集まっています。"
-    },
-    {
-      "id": "5899091bd5da194ff909",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "tvOS 27 to add Siri AI for Apple TV 4K, per new leak",
-      "url": "https://9to5mac.com/2026/08/18/tvos-27-to-add-siri-ai-for-apple-tv-4k-per-new-leak/",
-      "publishedAt": "2026-08-18T17:56:49.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai-apple-tv-4k-tvos-27-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "tvOS 27でApple TV 4KにSiri AIが追加される可能性",
-      "summaryJa": "6月に多くのAppleプラットフォーム向けに発表されたもののApple TVやHomePodでは見送られていたSiri AIですが、新しいtvOS 27のベータ版関連のコードから対応を示唆する手がかりが見つかりました。開発者向けのシミュレーターモード内アプリリストにSiri AIの内部コード名に関連する文字列が追加されています。これにより、次期OSでApple TVにも統合されたSiri体験が提供されると期待されています。"
-    },
-    {
-      "id": "d2967324f9e5db0f39c1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple pledges donation in support of Indonesia earthquake relief",
-      "url": "https://9to5mac.com/2026/08/18/apple-pledges-donation-in-support-of-indonesia-earthquake-relief/",
-      "publishedAt": "2026-08-18T17:31:33.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/tim-cook-apple-park-rainbow-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、インドネシアの地震被災地支援へ寄付を表明",
-      "summaryJa": "Appleのティム・クックCEOは、インドネシアで発生した大規模な地震を受け、現地の復興支援に向けた寄付を行うことを表明しました。同社はこれまでも世界各地の自然災害や緊急事態に対して支援を行っており、今回はマグニチュード7.7の地震に見舞われた人々への寄付を決定しました。なお、具体的な寄付金額や支援先については明らかにされていません。"
-    },
-    {
-      "id": "6b6d2e551727c4d05e34",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Anthropic says Claude Cowork is now available on mobile for all paid plans",
-      "url": "https://9to5mac.com/2026/08/18/anthropic-says-claude-cowork-is-now-available-on-mobile-for-all-paid-plans/",
-      "publishedAt": "2026-08-18T17:09:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AnthropicのClaude Cowork、全有料プランのモバイル版に対応",
-      "summaryJa": "Anthropicは、Mac向けに提供していた「Claude Cowork」をiPhoneとiPadなどのモバイル端末へ拡大し、すべての有料プランで利用可能になったと発表しました。これにより、ウェブ版やデスクトップ版と同様に、モバイル環境でもAIを活用した高度な協調作業が可能になります。なお、競合となるOpenAIも同様の機能を持つ「ChatGPT Work」を展開しており、各社によるビジネス向けAIツールの提供が加速しています。"
-    },
-    {
-      "id": "3ee0b1cea120ce78890f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27 [U: watchOS 27]",
-      "url": "https://9to5mac.com/2026/08/18/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/",
-      "publishedAt": "2026-08-18T17:07:54.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iOS 27などのパブリックベータ4をリリース",
-      "summaryJa": "Appleは、数週間後に控えた正式リリースへ向けて、iOS 27、iPadOS 27、macOS 27、tvOS 27、およびwatchOS 27のパブリックベータ4を公開しました。これは同日配信された開発者向けベータ6に相当するビルドで、各種のバグ修正やパフォーマンス改善が行われています。macOS 27のベータ版では新しい壁紙が追加されたほか、ウィンドウコントロールのデザイン調整なども含まれています。"
-    },
-    {
-      "id": "3a763608344ab0b94da7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "macOS 27 Golden Gate makes one design decision that I would change for MacBooks",
-      "url": "https://9to5mac.com/2026/08/18/macos-27-golden-gate-makes-one-design-decision-that-i-would-change-for-macbooks/",
-      "publishedAt": "2026-08-18T16:56:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "macOS 27のバッテリー残量表示のデザインに改善求める声",
-      "summaryJa": "間もなくリリースされるmacOS 27 Golden Gateにおいて、バッテリー残量のパーセンテージ表示がアイコンの内部に収まるデザインへ変更されました。iPhoneの表示形式に合わせたものとみられますが、Macの広い画面では視認性が低下しているとの指摘が出ています。ユーザーからは、以前のように一目で残量が分かりやすい表示への見直しを望む意見が寄せられています。"
-    },
-    {
-      "id": "e5d8c48ca9426b177e6a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple overhauls App Store fees in the EU with new unified terms",
-      "url": "https://9to5mac.com/2026/08/18/apple-overhauls-app-store-fees-in-the-eu-with-new-unified-terms/",
-      "publishedAt": "2026-08-18T16:35:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/app-store-eu.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、EUにおけるApp Storeの手数料体系を改定",
-      "summaryJa": "Appleは欧州連合（EU）におけるApp Storeの手数料とビジネス条件を大幅に改定し、新しい簡素化された体系を発表しました。従来の「コア技術手数料」は、アプリ外でのデジタル取引に対する一律5％の「コア技術手数料」へと置き換えられます。また、外部サイトへの誘導手数料が15％に引き下げられるほか、各種手数料の撤廃や調整が行われ、10月1日から施行される予定です。"
-    },
-    {
-      "id": "048d295af232629d3ad1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Overhauls EU App Store Fees to Settle Digital Markets Act Dispute",
-      "url": "https://www.macrumors.com/2026/08/18/eu-app-store-fee-change/",
-      "publishedAt": "2026-08-18T16:29:18.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-app-store-ios.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、デジタル市場法への対応でEUのApp Store手数料を刷新",
-      "summaryJa": "Appleは欧州委員会のデジタル市場法（DMA）を遵守するため、EUにおけるApp Storeのポリシーと手数料体系を刷新しました。欧州委員会との緊密な協議を経て決定され、初期買収手数料やストアサービス手数料が撤廃されます。さらに、代替決済の導入やアプリ外配信における新たな料金モデルが整備され、開発者の選択肢と負担構造が見直されます。"
-    },
-    {
-      "id": "edf535e5acef5dba2516",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、EU域内でのアプリに対する変更を発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "publishedAt": "2026-08-18T16:01:53.232Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、EU域内のアプリ向け取引条件の大幅変更を公表",
-      "summaryJa": "Appleは欧州委員会との協働を経て、EU域内におけるアプリの取引条件や手数料モデルの変更を発表しました。従来のインストールごとにかかるコアテクノロジーフィーを廃止し、ストア外の取引に対して一律5パーセントのコアテクノロジー手数料を導入します。また、代替決済とAppleのアプリ内購入の併用を可能にするなど、10月1日からの新条件適用に向けてデベロッパの選択肢を広げます。"
     }
   ],
-  "updatedAt": "2026-08-26T22:17:39.944Z",
+  "updatedAt": "2026-08-27T03:24:28.663Z",
   "initialized": true,
   "summaryVersion": 4
 }
