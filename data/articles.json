@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "ea477f96aabdc5b548db",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple pledges donation following deadly floods in Nepal and Tibet",
+      "url": "https://9to5mac.com/2026/08/27/apple-pledges-donation-following-deadly-floods-in-nepal-and-tibet/",
+      "publishedAt": "2026-08-28T03:14:41.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/Trump-says-Apple-will-invest-a-further-100B-in-US-production.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、ネパールとチベットの大規模洪水被災地に寄付を表明",
+      "summaryJa": "Appleのティム・クックCEOは、ヒマラヤ地域の氷河崩壊によってネパールとチベットで発生した大規模な洪水および土砂災害の被災地支援と復興に向け、寄付を行うことを表明しました。同社はこれまでも世界各地で自然災害が発生した際に救援活動への支援を行っており、従業員による寄付マッチングプログラムなども活用して被災地支援を続けています。"
+    },
+    {
+      "id": "a4e79f42e54339fcfbba",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Afterglow brings classic After Dark screen savers to modern Macs",
+      "url": "https://9to5mac.com/2026/08/27/afterglow-brings-classic-after-dark-screen-savers-to-modern-macs/",
+      "publishedAt": "2026-08-28T02:49:54.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/afterglow.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "名作スクリーンセーバー「After Dark」を現代のMacで動かすツールが登場",
+      "summaryJa": "1990年代にMacの定番として親しまれた名作スクリーンセーバー「After Dark」のモジュールを、現代のMac上で手軽に実行できるプロジェクト「Afterglow」が公開されました。開発者のジェフ・ハルター氏によるもので、従来の複雑なエミュレータ設定を不要にし、専用のエミュレーション環境を通じて「フライング・トースター」などの名作アニメーションを現代のmacOS上で楽しむことができます。"
+    },
+    {
+      "id": "c9db18ce5e946cd0d37b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: August 27, 2026 – AirPods 5 rumors, Apple Maps ads",
+      "url": "https://9to5mac.com/2026/08/27/daily-august-27-2026/",
+      "publishedAt": "2026-08-28T01:04:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Mapsでの広告展開や次期AirPodsの噂を振り返るポッドキャスト配信",
+      "summaryJa": "9to5Macのポッドキャスト番組にて、Appleに関する最新の動向や噂がまとめて報じられました。番組では、Apple Mapsにおける広告機能の展開や、来月に登場する可能性が噂される2つの新しいAirPods 5モデルに関する情報などが取り上げられています。また、次期CEO候補とされるジョン・テナス氏に関するアナリストの予測や、Mac miniの注文に関する話題も議論されました。"
+    },
+    {
+      "id": "23672054bc2f1aded822",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "‘Dark Matter’ season 2 premieres on Apple TV",
+      "url": "https://9to5mac.com/2026/08/27/dark-matter-season-2-premieres-on-apple-tv/",
+      "publishedAt": "2026-08-28T01:01:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/dark-matter.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVの人気SFスリラー「ダーク・マター」シーズン2の配信が開始",
+      "summaryJa": "Apple TVの人気SFスリラーシリーズ「ダーク・マター」のシーズン2第1話の配信が開始されました。ジョエル・エドガートンやジェニファー・コネリーらが出演し、別次元の世界に迷い込んだ物理学者の逃避行と家族のドラマを描く全10話の新作となっています。原作小説の人気も高く、シーズン1に続く展開に世界中から注目が集まっています。"
+    },
+    {
       "id": "8f6b39bb79fd5ec5db26",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -72,9 +132,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple announces App Store price changes in four countries",
-      "summaryJa": "Apple’s Developer blog today announced tax and price updates for apps, In-App Purchases, and subscriptions in several regions. Here are the details. Apple’s Developer blog today announced tax and price updates for apps, In-App Purchases, and subscriptions in several regions. Here are the details. Tax changes hit three countries starting today In a new post on the Apple Developer blog, the company announced two rounds of tax and price updates that will be applied to apps and In-App Purchases across several App Store storefronts. The first, starting today, changes developer proceeds to account for new or updated taxes in three countries: Morocco: Value‑added tax (VAT) introduction of 20% Republic of the Congo: VAT introduction of 18% Tanzania: Digital sales tax (DST) rate increase from 2% to",
-      "translationStatus": "source"
+      "titleJa": "Apple、App Storeにおける複数国の価格と税制改定を発表",
+      "summaryJa": "Appleは開発者向けブログにおいて、複数の地域におけるアプリやアプリ内課金、サブスクリプションの価格および税制の更新を発表しました。モロッコやコンゴ共和国などでは新たな付加価値税の導入に伴い、デベロッパーの収益配分や価格調整が順次適用されます。ベースとなるストアフロントの設定状況に応じて、各国の価格改定や他地域での価格均衡化が行われる仕組みです。"
     },
     {
       "id": "bde867b5061dd7dddd35",
@@ -88,9 +147,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple cleared for the second time to pursue documents from federal agencies in antitrust case",
-      "summaryJa": "Special Master Jose Linares has rejected the DOJ’s request to reconsider his decision allowing Apple to seek documents from 14 separate government agencies in the antitrust case against the company. Here are the details. Special Master Jose Linares has rejected the DOJ’s request to reconsider his decision allowing Apple to seek documents from 14 separate government agencies in the antitrust case against the company. Here are the details. A bit of background One of Apple’s defense strategies in the antitrust lawsuit the DOJ brought against the company involves the US government’s own use of its products. Apple’s basic argument is that some of the practices challenged by the DOJ are, in fact, legitimate security and privacy safeguards. Hoping to support that defense, Apple wants to examine h",
-      "translationStatus": "source"
+      "titleJa": "反トラスト法訴訟、連邦機関の文書提出めぐりAppleの請求が再び認められる",
+      "summaryJa": "米司法省によるAppleに対する反トラスト法訴訟をめぐり、特別審理人は司法省からの再検討申し立てを却下しました。これにより、Appleはセキュリティやプライバシーの確保が正当な保護策であることを証明するため、14の連邦政府機関に対して関連文書の提出を求めることが許可されています。Appleは各機関が調達やポリシー設定の際にどのようにセキュリティを評価しているかを調査する方針です。"
     },
     {
       "id": "95b5b1c119f2479943be",
@@ -104,9 +162,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "New Apple TV 4K is coming: Four features launching soon",
-      "summaryJa": "A new Apple TV 4K is long overdue , and was originally expected to launch last fall. But now that Siri AI is finally ready, all signs point to the new Apple TV 4K being unveiled soon—possibly at the September 9 event . Here’s what’s rumored. A new Apple TV 4K is long overdue, and was originally expected to launch last fall. But now that Siri AI is finally ready, all signs point to the new Apple TV 4K being unveiled soon—possibly at the September 9 event. Here’s what’s rumored. #1: Siri Remote update Though no details have been revealed, Apple reportedly has an updated Siri Remote coming with its new Apple TV 4K. Code leaked in a build of macOS 26.7 seemingly confirms the existence of the new Siri Remote. And before that leak, Mark Gurman had reported that a “tweaked Apple TV remote” was po",
-      "translationStatus": "source"
+      "titleJa": "新型Apple TV 4Kが間近か、新機能やSiri AI搭載の噂が浮上",
+      "summaryJa": "長らく期待されている新型Apple TV 4Kが近く発表される可能性が高まっています。次期モデルには新しいSiri Remoteのリモコンや、Apple Intelligenceに対応したSiri AI機能が搭載されると報じられています。さらに、パフォーマンスを大きく向上させる新しいAシリーズチップの採用も期待されており、秋のイベントでの発表に注目が集まっています。"
     },
     {
       "id": "3fbf0f43162554c269ed",
@@ -120,9 +177,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "New Mac mini, new Mac Studio announced as iPhone 18 Pro event confirmed",
-      "summaryJa": "Benjamin and Chance break down an action-packed week of news, with a new lineup of Mac mini and Mac Studio announced, invites officially going out for the September iPhone event, and even more rumors about what new products to expect later this fall. And in Happy Hour Plus , we discuss the reasons behind a (rare) round of Apple layoffs impacting about 200 people in total. Subscribe at 9to5mac.com/join . Sponsored by Bitwarden: Check out Bitwarden, featuring secure password management, passkey support, end-to-end encryption, and seamless autofill across all devices. Sponsored by Framer : The only free design tool that brings your ideas to the web. Visit framer.com/happyhour for 30% off a Framer Pro annual plan. Sponsored by NordStellar : Get an exclusive offer: Unlock your 10% discount on N",
-      "translationStatus": "source"
+      "titleJa": "新型Mac miniやMac Studioのほか、秋のiPhoneイベント招待状も発信",
+      "summaryJa": "新しいMac miniやMac Studioのラインナップが発表されたほか、9月に開催される恒例のiPhoneイベントの招待状が正式に送付されました。ポッドキャストの番組内では、これら一連の製品発表や秋に期待される新製品の噂について詳しく振り返っています。また、Apple社内で少数ながら発生したレイオフの背景についても議論が行われています。"
     },
     {
       "id": "a255bb2fe45740b9fbc4",
@@ -136,9 +192,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "iOS 27’s Passwords app adds powerful feature that can save you time",
-      "summaryJa": "Among the many Apple Intelligence features coming in iOS 27, the Passwords app is getting an especially powerful one: the ability to automatically change your passwords for you. Among the many Apple Intelligence features coming in iOS 27, the Passwords app is getting an especially powerful one: the ability to automatically change your passwords for you. Passwords app in iOS 27 can fix compromised logins on your behalf, powered by Apple Intelligence A new era of Apple Intelligence is at the heart of the forthcoming iOS 27 and companion software updates. One powerful new AI feature involves the Apple Passwords app. Passwords launched two years ago as a dedicated hub for logins, 2FA codes, Wi-Fi credentials, passkeys, and more. The app has always shown you if passwords in your database are pr",
-      "translationStatus": "source"
+      "titleJa": "iOS 27のパスワードアプリ、AIを活用して自動変更が可能に",
+      "summaryJa": "iOS 27の「パスワード」アプリに、Apple Intelligenceを活用した強力な新機能が追加されます。これまではデータ流出などで危険性が判別されたログイン情報の修正を手動で行う必要がありましたが、新しいエージェントAI機能により、多くのケースでパスワードを自動的に更新できるようになります。これにより、最小限の手間で強力なセキュリティを維持できるようになります。"
     },
     {
       "id": "f0eb78e11233af120aa5",
@@ -153,9 +208,8 @@
         "Developer",
         "公式"
       ],
-      "titleJa": "Tax and price updates for apps, In-App Purchases, and subscriptions",
-      "summaryJa": "The App Store is designed to make it easy to sell your digital goods and services globally, with support for 43 currencies across 175 storefronts. From time to time, we may need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from reputable financial media (e.g., The Wall Street Journal) or financial companies (e.g., Bloomberg) to help make sure prices for apps and In-App Purchases stay consistent across all storefronts. As of August 27: Your proceeds from the sale of eligible apps and In‑App Purchases have been modified in: * Morocco: Value‑added tax (VAT) introduction of 20% Republic of the Congo: VAT introduction of 18% Tanzania: Digital sales tax (DST) rate incre",
-      "translationStatus": "source"
+      "titleJa": "App Store、モロッコやコンゴなどの税制変更に伴う価格改定を実施",
+      "summaryJa": "Appleは、世界各国での税制変更や為替レートの変動を受け、App Storeにおけるアプリやアプリ内課金、サブスクリプションの税金および価格の調整を案内しています。モロッコやコンゴ共和国での付加価値税の導入や、タンザニアでのデジタルサービス税率の引き上げが反映されます。これに伴い、一部の国と地域では9月14日から価格が順次更新される予定です。"
     },
     {
       "id": "7f65dd4fd845b3c5c94e",
@@ -169,9 +223,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "New Mac mini and more now available from Amazon for launch day pre-order [Updated]",
-      "summaryJa": "Update August 27, 2026 : The new Mac Studio is also now available for pre-order on Amazon. Apple surprised us with some big Mac news today, including a new lineup of Mac Studio and Mac mini models. If you’re in the market for some of today’s new Apple gear, you now have the choice to pre-order from Amazon as well. Buy Mac mini from Amazon Buy Mac Studio from Amazon Update August 27, 2026: The new Mac Studio is also now available for pre-order on Amazon. Apple surprised us with some big Mac news today, including a new lineup of Mac Studio and Mac mini models. If you’re in the market for some of today’s new Apple gear, you now have the choice to pre-order from Amazon as well. Buy Mac mini from Amazon Buy Mac Studio from Amazon What’s new today? You get a primer on what’s new with the latest",
-      "translationStatus": "source"
+      "titleJa": "新型Mac miniやMac StudioがAmazonで予約受付を開始",
+      "summaryJa": "Appleによる新たなMac StudioおよびMac miniの発表を受け、Amazonでもこれらの新モデルの予約受付が開始されました。M6およびM5 Ultraといった次世代チップを搭載し、パフォーマンスの向上やAI機能の最適化が図られた最新デバイスを、発売日を前に購入できるようになっています。また、同時に発表された新しいMagic Keyboardなどのアクセサリー類も対象となっています。"
     },
     {
       "id": "fdbc80bd8b77f7ea2cbc",
@@ -185,9 +238,113 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "M6 Mac mini: Three things Apple didn’t highlight in the announcement",
-      "summaryJa": "A new Mac mini with M6 and M5 Pro was unveiled this week, but we’ve since learned three things about the product that weren’t highlighted by Apple. A new Mac mini with M6 and M5 Pro was unveiled this week, but we’ve since learned three things about the product that weren’t highlighted by Apple. #1: Memory bandwidth varies among configurations If you’re planning to order a Mac mini, the pre-order page doesn’t tell the full story about a key spec: memory bandwidth. Digging into the technical specs reveals that your RAM choice might directly impact overall memory bandwidth. The base M6 Mac mini with 16GB of RAM offers 153GB/s memory bandwidth. But if you upgrade to 24GB or 32GB of RAM, that number bumps up to 170GB/s. Meanwhile, you’ll need to choose M5 Pro to get the maximum memory bandwidth",
-      "translationStatus": "source"
+      "titleJa": "M6搭載Mac miniで発表時に触れられなかった3つの重要仕様",
+      "summaryJa": "今週発表された新型M6およびM5 Pro搭載のMac miniについて、Appleの公式発表では触れられなかった3つの詳細な仕様が明らかになりました。1つ目はRAMの容量によってメモリ帯域幅が異なる点、2つ目は新たに独自設計のN1チップを搭載しスマートホーム向けのThread規格に対応した点、3つ目は最新のmacOSがプリインストールされている点です。"
+    },
+    {
+      "id": "66c078594b072ca53d6a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Tim Cook Stepping Down as Apple CEO Next Week: 15 Years in Quotes",
+      "url": "https://www.macrumors.com/2026/08/27/tim-cook-15-years-of-quotes/",
+      "publishedAt": "2026-08-27T18:13:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Tim-Cook-Apple-Logo.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "ティム・クックCEOが来週退任、15年間の軌跡と名言集",
+      "summaryJa": "アップルのティム・クック最高経営責任者（CEO）が5日後に退任し、ハードウェアエンジニアリング責任者のジョン・ターナス氏が後任に就く予定です。15年の任期中には、優れた製品作りへのこだわりを語る一方で、マップの不具合に関する謝罪や自身の性的指向の公表など、歴史的な瞬間が数多くありました。新体制への移行を前に、これまでの象徴的な発言や歩みが改めて振り返られています。"
+    },
+    {
+      "id": "66bd97e7531fca38017f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "2025 vs. 2026 Mac Studio Buyer's Guide: All Upgrades Compared",
+      "url": "https://www.macrumors.com/guide/2025-vs-2026-mac-studio/",
+      "publishedAt": "2026-08-27T16:30:02.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/image.png",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "2026年版Mac Studioが登場、M5チップ搭載で内部が大幅進化",
+      "summaryJa": "アップルはM5 MaxおよびM5 Ultraチップを搭載した新しいMac Studioを発表しました。外観のデザインは5年連続で変更されていませんが、内部のパフォーマンスや接続性が大幅に強化されています。最新のN1チップによりWi-Fi 7とBluetooth 6に初めて対応したほか、次世代のSSDアーキテクチャ採用により読み書き速度が最大2倍に向上しています。"
+    },
+    {
+      "id": "96edbb75303125dab9a4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "How to watch Apple’s September event: iPhone 18 Pro, iPhone Ultra, more",
+      "url": "https://9to5mac.com/2026/08/27/how-to-watch-apples-september-event-iphone-18-pro-iphone-ultra-more/",
+      "publishedAt": "2026-08-27T15:44:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-event-logo-surprise-shine-september-9-small.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "アップルが9月9日にスペシャルイベント開催、新製品発表へ",
+      "summaryJa": "アップルは9月9日に新製品発表イベントを開催することを発表しました。「Surprise and shine」をキャッチコピーとしたこのイベントは、ジョン・ターナス新CEO体制での最初の大型製品発表となります。配信は公式YouTubeやApple TVアプリなどで視聴可能で、新型のiPhone 18 ProやApple Watchなどの発表が期待されています。"
+    },
+    {
+      "id": "13f9016b7ba200c1b54a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: iPhone 17 Pro up to $285 off, AirTag 2, AirPods Pro 3, Anker MagSafe Nano power bank, more",
+      "url": "https://9to5mac.com/2026/08/27/deals-iphone-17-pro-airtag-2-airpods-pro-3-power-bank/",
+      "publishedAt": "2026-08-27T15:31:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-iPhone-17-Pro-MagSafe-power-bank-homekit.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AmazonでiPhone 17 ProやAirTag 2などApple製品のセールが実施中",
+      "summaryJa": "今週はAirTag 2やAirPods Pro 3などの割引に加え、AmazonにてiPhone 17 Proが最大285ドル引きの過去最安値を記録しています。さらに、新発売されたM6 Mac miniのベースモデルや、Anker製のMagSafe対応バッテリーなどの関連アクセサリもお買い得価格で販売されています。新型モデルの登場を控える中、現行モデルをお得に入手できる注目のセールとなっています。"
+    },
+    {
+      "id": "0087c56ab45dd4befcc7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "M6 release schedule: Here’s every new Mac and iPad launching next",
+      "url": "https://9to5mac.com/2026/08/27/m6-release-schedule-heres-every-new-mac-and-ipad-launching-next/",
+      "publishedAt": "2026-08-27T15:22:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/m6_regular.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "M6搭載MacとiPadの今後のリリーススケジュールか",
+      "summaryJa": "Appleが新型Mac miniに次世代M6チップを投入した中、今後登場するM6搭載MacおよびiPadの噂される発売スケジュールが報じられています。2026年秋にはベースモデルのMacBook ProやiMacが登場し、2027年春にはiPad ProやMacBook Airが刷新される見通しです。M6チップの展開や冷却機構の強化など、今後の製品動向に注目が集まっています。"
+    },
+    {
+      "id": "7e65cde7ceca9416a340",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "LG Labor Day Sale Brings Major Discounts on OLED TVs and Monitors",
+      "url": "https://www.macrumors.com/2026/08/27/lg-labor-day-sale/",
+      "publishedAt": "2026-08-27T15:10:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/lg-summer-sale.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "LGがOLEDテレビやモニターの大幅割引セールを実施",
+      "summaryJa": "米国の労働者の日を記念して、LGが公式サイトにてモニターやテレビなどの大型セールを開催しています。割引は自動適用され、一部の2026年型OLED evo AIテレビなどが対象となって大幅な値引きが行われています。在庫が少なくなっている製品もあり、購入者向けの通知機能なども用意されています。"
+    },
+    {
+      "id": "17318f0895060f64fd1f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Event: Six New Products to Expect on September 9",
+      "url": "https://www.macrumors.com/2026/08/27/apple-event-announced-six-new-products/",
+      "publishedAt": "2026-08-27T15:00:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-Surprise-Shine.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、9月9日のイベントで6製品を発表か",
+      "summaryJa": "Appleが9月9日に開催を予定しているスペシャルイベントにおいて、多数の新製品が発表されると報じられています。iPhone 18 Proシリーズや同社初となる折りたたみ式のiPhone Ultraをはじめ、Apple Watch Series 12やApple Watch Ultra 4、新型AirPods 5などが登場する見込みです。それぞれの新機能やデザインの変更点に期待が高まっています。"
     },
     {
       "id": "66ac44e24cbd2e1d4114",
@@ -369,6 +526,21 @@
       ],
       "titleJa": "Appleのイベントロゴ、iPhone 18 Proの新機能や新色を匂わせか",
       "summaryJa": "Appleが開催するイベントの招待状に描かれたロゴが、次期「iPhone 18 Pro」の新たな機能と新色を示唆していると報じられています。Bloombergのマーク・ガーマン記者によれば、ロゴの背後にある光の演出は「iPhone 18 Pro Max」に搭載されると噂されるメカニカルな可変絞りカメラを表現しており、招待状のスカイブルーの色合いは新しい本体カラーの可能性を指しているとのことです。発表イベントは約2週間後に迫っており、実際の詳細に注目が集まっています。"
+    },
+    {
+      "id": "9b0e006265e5f9331241",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Announces New Education Center in Vietnam",
+      "url": "https://www.macrumors.com/2026/08/27/apple-announces-new-education-center-in-vietnam/",
+      "publishedAt": "2026-08-27T11:27:58.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-manufacturing-education-hub-vietnam-hanoi-factory.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、ベトナムに新しい教育センターを開設へ",
+      "summaryJa": "Appleはベトナムのハノイ工科大学と提携し、同国初となるApple教育センターの開設を発表しました。サプライチェーンの従業員を対象に、製造やロボット工学などの専門スキルやリーダーシップを育成するためのトレーニングプログラムを提供します。この取り組みは、Appleのサプライヤー従業員開発基金によって資金提供される最新のプロジェクトとなっています。"
     },
     {
       "id": "c4f1bbf122ae759ce352",
@@ -4334,189 +4506,9 @@
       ],
       "titleJa": "Apple製品が最大400ドル引きとなる特別セール開催",
       "summaryJa": "米国の家電量販店ベスト・バイの創立60周年記念セールに合わせ、Apple製品を対象とした1日限りの特別割引が実施されています。AirPods Pro 3やAirPods Max 2の大幅値引きに加え、M5 Pro搭載のMacBook Proが400ドル引き、iPhone Airが170ドル引きなど、複数の公式製品やアクセサリーが特別価格で販売されています。"
-    },
-    {
-      "id": "007f36456602e81c469f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "New Apple Store Reportedly Opening in Idaho",
-      "url": "https://www.macrumors.com/2026/08/19/new-apple-store-in-idaho-report/",
-      "publishedAt": "2026-08-19T19:46:44.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/07/Apple-Store-Logo.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "アイダホ州に新しいApple Storeがオープンか",
-      "summaryJa": "アイダホ州ボイシ近郊の屋外ショッピング施設に、新しいApple Storeがオープンする計画があると報じられています。確認された建築許可証によると、店舗の規模は約1万平方メートルとなり、9月の新型iPhone発売時期に合わせたオープンを目指していると伝えられています。"
-    },
-    {
-      "id": "139430f8f3db4d6251e0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 to bring back beloved design material, says leaker",
-      "url": "https://9to5mac.com/2026/08/19/apple-watch-series-12-to-bring-back-beloved-design-material-says-leaker/",
-      "publishedAt": "2026-08-19T19:32:06.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ceramic-s5.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Series 12にはセラミック素材が復活するか",
-      "summaryJa": "次期モデルとなるApple Watch Series 12に、かつて人気を集めたセラミック製のケースオプションが復活する可能性が報じられています。著名リーカーのKosutami氏がXに投稿した情報によると、9月のイベントで発表される新型モデルでセラミック素材が選択できるようになる見通しです。Bloombergのマーク・ガーマン記者も同様の計画があると伝えており、実現すればシリーズ5のEditionモデル以来のセラミック素材復活となります。"
-    },
-    {
-      "id": "fbd16b65ddfc78d4ef3c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "College Students Can Get a Free Year of Google AI Pro",
-      "url": "https://www.macrumors.com/2026/08/19/students-free-year-google-ai-pro/",
-      "publishedAt": "2026-08-19T19:00:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/google-ai-student-discount.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Google、大学生向けにAIプランを1年間無料で提供",
-      "summaryJa": "米国の適格な大学生を対象に「Google AI Pro」が1年間無料で提供されることになりました。米国以外の学生には「Google AI Plus」が提供され、Geminiの利用制限緩和や大容量のストレージ機能などが利用可能です。さらに、YouTube Premiumとの割引バンドルや、学習をサポートする新しいハブ機能などもあわせて展開されます。"
-    },
-    {
-      "id": "9d0c21282db02788dbc8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple is about to launch best reason yet to wear AirPods all day long",
-      "url": "https://9to5mac.com/2026/08/19/apple-is-about-to-launch-best-reason-yet-to-wear-airpods-all-day-long/",
-      "publishedAt": "2026-08-19T18:17:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "カメラ搭載AirPodsと新OS連携で変わる活用法か",
-      "summaryJa": "次期OSでのSiriのAI機能強化に加え、赤外線カメラを搭載した新型AirPodsの登場が報じられています。これにより、視覚情報をもとにSiriと対話するビジュアルインテリジェンスが利用できるようになるとされています。音楽鑑賞だけでなく、日常のさまざまな場面で終日着用する理由が増える可能性があり、注目を集めています。"
-    },
-    {
-      "id": "5805802cf5b323335989",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Beats 360 Over-Ear Headphones Leak in Retail Listings",
-      "url": "https://www.macrumors.com/2026/08/19/beats-360-headphones/",
-      "publishedAt": "2026-08-19T17:36:58.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Beats-360-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Beatsの新型オーバーイヤーヘッドホンか、小売サイトに情報掲載",
-      "summaryJa": "Beatsの新型オーバーイヤーヘッドホンとみられる「Beats 360」の情報が一時的に小売サイトに掲載され、詳細が明らかになったと報じられています。これまでのモデルとは異なる丸みを帯びたデザインを採用し、AirPods Maxのようなメッシュ生地のイヤーカップやヘッドバンドを備えるほか、ブランド初となる耐汗・耐水性能を搭載しているとのことです。"
-    },
-    {
-      "id": "4cd67f8ab0300a07d4d1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Anker and Jackery Kick Off Power Station Sales With Up to $1,500 Off",
-      "url": "https://www.macrumors.com/2026/08/19/anker-and-jackery-1500-off/",
-      "publishedAt": "2026-08-19T17:30:08.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/02/new-anker-solix.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AnkerやJackery、ポータブル電源の大規模セールを実施",
-      "summaryJa": "AnkerとJackeryが人気ポータブル電源の割引セールをそれぞれ開催しています。Amazonや公式サイトにて、最大1,500ドルの大幅値引きが行われており、防災シーズンに向けた備えとして注目を集めています。"
-    },
-    {
-      "id": "17476e088537858c2b0b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Meta AI is now available as a more capable desktop app for Mac",
-      "url": "https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/",
-      "publishedAt": "2026-08-19T17:29:29.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/meta-ai-mac-app.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Meta、Mac向けに専用のMeta AIデスクトップアプリを公開",
-      "summaryJa": "MetaがApple Silicon搭載Mac向けのネイティブアプリとして、Meta AIのベータ版をリリースしました。ショートカットによる素早い起動や音声入力、画面上のテキスト読み取り機能などを備え、デスクトップでの利便性を高めています。"
-    },
-    {
-      "id": "927056da0fd24baa9d1e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV hit comedy from Ted Lasso, Shrinking creator returns soon",
-      "url": "https://9to5mac.com/2026/08/19/apple-tv-hit-comedy-from-ted-lasso-shrinking-creator-returns-soon/",
-      "publishedAt": "2026-08-19T15:41:37.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/bad-monkey-s2-vince-vaughn-martinez.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVのコメディドラマ「バッド・モンキー」シーズン2が12月2日に配信決定",
-      "summaryJa": "Apple TVで人気のコメディドラマ「バッド・モンキー」シーズン2が、12月2日に最初のエピソードでプレミア配信されることが決定しました。ヴィンス・ヴォーン演じる主人公のアンドリュー・ヤンシーが、新たな事件や個性豊かなキャラクターたちとの騒動に巻き込まれていきます。シーズン2にはジョン・マルコヴィッチらも出演し、2月3日まで毎週エピソードが追加される予定です。"
-    },
-    {
-      "id": "376fb182618ce4f85d89",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: 1-day Apple sale – $400 off M5 Pro MacBook Pro, iPhone Air up to $406 off, iPad mini $450 off, AirPods, more",
-      "url": "https://9to5mac.com/2026/08/19/deals-1-day-apple-sale-macbook-pro-iphone-air-airpods/",
-      "publishedAt": "2026-08-19T15:31:25.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-MacBook-AirTag-AirPods.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ベストバイが1日限定のAppleセールを実施、MacBook ProやiPhoneがお得に",
-      "summaryJa": "米国の家電量販店ベストバイが60周年記念の一環として、1日限定のApple製品セールを開催しています。M5 Pro搭載MacBook Proが400ドル引きとなるほか、iPhone Airなどが過去最安値級で販売されています。また、AirPods Pro 3やAirPods Max 2などのオーディオ製品も大幅な割引価格で提供されています。"
-    },
-    {
-      "id": "534fe894857ed2eb0e5f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple will launch 10+ new products soon, with September event coming",
-      "url": "https://9to5mac.com/2026/08/19/apple-will-launch-10-new-products-soon-with-september-event-coming/",
-      "publishedAt": "2026-08-19T15:17:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus-product-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、9月のイベント開催へ向けて多数の新製品を準備中か",
-      "summaryJa": "Appleは間近に迫った9月のイベントにて、多数の新製品を発表すると報じられています。次期iPhoneシリーズやApple Watchをはじめ、赤外線カメラを搭載した新型AirPodsや、複数のホーム製品が含まれる可能性が伝えられています。"
-    },
-    {
-      "id": "4c0b89e28d4431e8a061",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Accidentally Leaked More Than 10 New Products in macOS Update",
-      "url": "https://www.macrumors.com/2026/08/19/apple-leak-macos-26-7/",
-      "publishedAt": "2026-08-19T15:03:06.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Apple-Event-Logo.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "macOSアップデートから10を超える未発表製品の存在が浮上",
-      "summaryJa": "Appleが公開したmacOSのベータ版コード内から、10を超える未発表のハードウェア製品に関する記述が見つかったと報じられています。赤外線カメラ搭載のAirPodsやスマートホームハブ、OLEDディスプレイを搭載したiPad miniなどが言及されている模様です。"
-    },
-    {
-      "id": "c12deb16946665c39cb9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Next Apple TV Rumored to Have Five New Features, Including Siri AI",
-      "url": "https://www.macrumors.com/2026/08/19/new-apple-tv-five-rumored-upgrades/",
-      "publishedAt": "2026-08-19T14:43:14.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2022/10/apple-tv-4k-yellow-bg-feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "次期Apple TVに5つの新機能か、Siri AIやA17 Pro搭載の噂",
-      "summaryJa": "次期Apple TV 4Kには、A17 Pro以降のチップや大容量RAMが搭載され、Siri AIに対応する可能性が報じられています。コード内から新しいSiriのエントリが見つかっており、tvOSのアップデートを通じてApple Intelligence機能が利用できるようになると期待されています。Wi-Fi 7をサポートするN1チップの採用や、リモコンの刷新も噂されています。"
     }
   ],
-  "updatedAt": "2026-08-27T23:58:18.306Z",
+  "updatedAt": "2026-08-28T11:14:33.937Z",
   "initialized": true,
   "summaryVersion": 4
 }
