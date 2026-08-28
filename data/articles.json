@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "8e9f216aa17d267f4df5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Overtime 079: The $899 Mac mini",
+      "url": "https://9to5mac.com/2026/08/28/9to5mac-overtime-079-the-899-mac-mini/",
+      "publishedAt": "2026-08-28T20:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/9to5Mac-Overtime-079.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "9to5Macポッドキャストが899ドルのMac miniなどを議論",
+      "summaryJa": "9to5Macのポッドキャスト番組「Overtime」の最新回において、899ドルのMac miniに関する議論が展開されました。番組では、従来のM4モデルと新たなM6 Mac miniの比較が行われています。また、M5 Proを搭載したMac miniや、M5 MaxおよびM5 Ultraを搭載した新しいMac Studioデスクトップについても言及されました。さらに、直近に控えるAppleのiPhone関連イベントのプレビューも行われています。"
+    },
+    {
+      "id": "f20f853701acc4297c94",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Photos in iOS 27 upgrades one of my favorite features in a big way",
+      "url": "https://9to5mac.com/2026/08/28/apple-photos-in-ios-27-upgrades-one-of-my-favorite-features-in-a-big-way/",
+      "publishedAt": "2026-08-28T19:26:40.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27-photos-app-icon-fi-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27の写真アプリで「iCloud共有アルバム」が大幅進化",
+      "summaryJa": "iOS 27の写真アプリにおける「iCloud共有アルバム」に、待望の大型アップデートが導入されました。今回のアップデートにより、共有アルバム内で写真や動画を高解像度のままサポートするほか、リアクションに任意の絵文字が使用できるようになります。また、AndroidやWindowsのユーザーもウェブ経由でアルバムへ直接参加できるようになり、権限設定や有効期限の管理も柔軟になりました。"
+    },
+    {
+      "id": "b65c7c2aaa1e656bfcbe",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Steve Jobs' 8th Grade Science Project Sells for $34,375",
+      "url": "https://www.macrumors.com/2026/08/28/steve-jobs-science-project-auction/",
+      "publishedAt": "2026-08-28T19:24:43.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/steve-jobs-rr-auction-science-project.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "スティーブ・ジョブズの中学時代の科学プロジェクトが出品",
+      "summaryJa": "Appleの共同創業者であるスティーブ・ジョブズが中学時代に制作した科学フェア向けのプロジェクトが出品され、3万4,375ドルで落札されました。この作品は、クパチーノ・ジュニア・ハイに通っていた当時に作られた「What is the SCR?」と題されたもので、シリコン制御整流器の仕組みを解説した木製モデルやテスト回路、10ページのレポートが含まれています。出品された品物は、義理の兄弟であるジョン・チョバネック氏を通じてオークションにかけられました。"
+    },
+    {
+      "id": "9fde9d35fc1e5ea66252",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "HomeKit Weekly: Linkind’s Smart Light Stick brings flame effects with Matter support",
+      "url": "https://9to5mac.com/2026/08/28/linkinds-smart-light-stick-brings-flame-effects-and-matter-support/",
+      "publishedAt": "2026-08-28T18:49:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Linkind-Smart-Light-Stick-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Matter対応で炎の効果を再現するLinkindのスマート電球",
+      "summaryJa": "Linkindの「Smart Light Stick」は、炎の揺らぎ効果を再現する機能を持つスマート電球であり、Matter規格を通じてApple Homeに対応しています。この電球は、標準的なE26ソケットに装着可能で、炎の大きさや明るさ、点滅速度などを自分好みに細かく調整できるのが特徴です。また、夕日のような光や溶岩をイメージした動きなど、多様なシーンに対応するプリセットも多数用意されています。"
+    },
+    {
+      "id": "9ac0e8b57366d4ccda0b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Which Macs Will Get an M6 Chip and Which Won't?",
+      "url": "https://www.macrumors.com/2026/08/28/m6-chip-macs/",
+      "publishedAt": "2026-08-28T18:11:45.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "M6チップ搭載Macの展開と今後のプロセッサ戦略",
+      "summaryJa": "Appleは新型Mac miniにベースモデルのM6チップを投入しましたが、今後は一部のモデルにのみM6が採用される見込みです。また、M6世代ではProやMaxチップがスキップされ、開発スケジュールが前倒しされる次世代のM7 ProおよびM7 Maxへ移行すると報じられています。そのため、ハイエンドモデルではM5 ProやM5 Maxがしばらく使われる可能性があります。"
+    },
+    {
+      "id": "235899a054585c7e09ba",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s how Apple Watch Ultra 4 will differentiate itself from prior models",
+      "url": "https://9to5mac.com/2026/08/28/heres-how-apple-watch-ultra-4-will-differentiate-itself-from-prior-models/",
+      "publishedAt": "2026-08-28T18:09:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-3-watchos-27-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch Ultra 4、内部センサー大幅強化か",
+      "summaryJa": "Apple Watch Ultra 4には、内部センサーの大幅なアップグレードやAI機能を見据えた新しいSクラスチップが搭載されると噂されています。健康管理機能の強化やAI対応がさらに進む見込みですが、デザイン面の大幅な刷新については情報が交錯しており、今後の動向が注目されています。"
+    },
+    {
+      "id": "0ce1f5e7039906abcae0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "ChatGPT and Codex now support multiple Gmail and Google Calendar accounts",
+      "url": "https://9to5mac.com/2026/08/28/chatgpt-and-codex-now-support-multiple-gmail-and-google-calendar-accounts/",
+      "publishedAt": "2026-08-28T18:01:41.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-teal.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ChatGPTがGmailやGoogleカレンダーの複数アカウントに対応",
+      "summaryJa": "OpenAIは、ChatGPTとCodexにおいて複数のGmailやGoogleカレンダー、連絡先アカウントを同時に接続できる機能の提供を開始しました。サイドバーのプラグイン設定から追加できるようになり、個人用と仕事用の受信トレイやスケジュールを一つのチャット画面から便利に使い分けられるようになります。"
+    },
+    {
+      "id": "d1c218234d3e4724c411",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Siri Settlement: Here's When iPhone Owners Can Submit Claims",
+      "url": "https://www.macrumors.com/2026/08/28/apple-siri-ai-settlement-claims-timing/",
+      "publishedAt": "2026-08-28T18:01:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/09/iphone-16-teal.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Siriを巡る集団訴訟、9月にも申請受付開始の可能性",
+      "summaryJa": "AppleがSiriの新機能の発売遅延をめぐる集団訴訟で和解金2億5000万ドルを支払うことで合意した件について、対象となるiPhoneユーザーによる和解金の申請受付が9月下旬にも開始される見通しとなりました。裁判所の承認を前提に、9月21日頃から通知と受付が始まり、12月下旬まで申請期間が設けられる予定です。"
+    },
+    {
+      "id": "126400e84bc7d52206e2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp rolls out new chat themes on iOS, including animated wallpapers",
+      "url": "https://9to5mac.com/2026/08/28/whatsapp-rolls-out-new-chat-themes-on-ios-including-animated-wallpapers/",
+      "publishedAt": "2026-08-28T16:30:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp、iPhone向けにアニメーション付き背景などの新チャットテーマを順次提供開始",
+      "summaryJa": "WhatsAppは、iPhoneユーザー向けに5つの新しいカテゴリから選べるチャットテーマの提供を開始しました。デザインチームが厳選した「Featured」や自然の風景を楽しめる「Nature」、背景がゆっくりと動く「Live」、シンプルでプレーンな「Live」、クラシックな「Doodle」などが用意されています。特に「Live」カテゴリでは、メッセージの読みやすさやアクセシビリティに配慮し、背景が邪魔にならないようあえてゆっくり動くアニメーション壁紙が採用されています。"
+    },
+    {
+      "id": "252159dadf36eefac513",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "This New App Brings 1990s 'After Dark' Screen Savers to Modern macOS",
+      "url": "https://www.macrumors.com/2026/08/28/after-dark-screen-savers-on-modern-macos/",
+      "publishedAt": "2026-08-28T16:16:15.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Afterglow.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "1990年代の名作スクリーンセーバー「After Dark」を現代のmacOSで動かすアプリが登場",
+      "summaryJa": "開発者のJeff Halter氏が、1990年代に一世を風靡したクラシックなスクリーンセーバー「After Dark」を現代のmacOS環境で実行できる新しいアプリ「Afterglow」をリリースしました。このアプリは単なるリメイクやポートではなく、ROMや古いMac OSへの依存なしに当時の68kモジュールコードを直接動作させる専用のエミュレーターとして構築されています。懐かしい宇宙シューティングゲームや様々なモジュールを手軽に楽しむことができます。"
+    },
+    {
+      "id": "708d0c8da198a0cdc47d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro: Two new features I’m excited to upgrade for",
+      "url": "https://9to5mac.com/2026/08/28/iphone-18-pro-two-new-features-im-excited-to-upgrade-for/",
+      "publishedAt": "2026-08-28T16:14:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの進化点とは？大刷新が噂されるカメラとA20 Proチップに期待",
+      "summaryJa": "Appleが9月9日に発表すると噂されているiPhone 18 Proについて、大幅な進化が期待される2つの注目機能が報じられています。1つ目はメインカメラと望遠カメラの大幅なハードウェア刷新で、可変絞りの採用などによる低照度性能の向上が見込まれています。2つ目は最先端の2ナノメートルプロセスで製造されるA20 Proチップであり、AI機能の処理性能向上や優れた電力効率の実現が期待されています。"
+    },
+    {
+      "id": "9a2ffae223058957488a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "The MacRumors Show: Apple's Surprisingly Big Week of Announcements",
+      "url": "https://www.macrumors.com/2026/08/28/the-macrumors-show-apple-week-of-announcements/",
+      "publishedAt": "2026-08-28T16:12:18.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、新Mac miniやM6チップを発表し、9月9日のスペシャルイベントを正式告知",
+      "summaryJa": "AppleはM6およびM5 Proチップを搭載した新しいMac miniを発表するとともに、9月9日にApple Parkでスペシャルイベントを開催することを正式に明らかにしました。M6チップはApple初となる2nmプロセスを採用し、CPUの構造を一新して高いパフォーマンスと電力効率を実現しています。イベントでは新型iPhone 18 ProシリーズやApple Watchなどの発表が予想されており、秋に向けた新製品の展開に大きな注目が集まっています。"
+    },
+    {
       "id": "ea477f96aabdc5b548db",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4326,189 +4506,9 @@
       ],
       "titleJa": "Apple、OpenAIの訴訟却下申し立てに反発",
       "summaryJa": "Appleは、元従業員らによる営業秘密の不正流用をめぐる訴訟について、OpenAIの却下申し立てに対する反論を提出しました。OpenAI側は十分な調査が行われていないなどと主張していましたが、Appleはこれを否定し、機密情報の不正持ち出しに関する核心的な主張を維持しています。"
-    },
-    {
-      "id": "ea9981dae03e1c12ccca",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Astropad Workbench 1.3 adds faster streaming, privacy curtain, and more",
-      "url": "https://9to5mac.com/2026/08/19/astropad-workbench-1-3-adds-faster-streaming-privacy-curtain-and-more/",
-      "publishedAt": "2026-08-20T01:19:48.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/astropad-workbench.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Astropad、ストリーミングを高速化した「Workbench 1.3」を配信",
-      "summaryJa": "Astropadは、リモートデスクトップアプリの最新アップデート「Workbench 1.3」をリリースしました。Appleシリコン向けに動画ストリーミングシステムを再構築し、処理速度が30%向上しています。また、リモートセッション中にMacのディスプレイを隠すプライバシー機能や、接続が切断された際にアプリを再起動する機能などが新たに追加されました。"
-    },
-    {
-      "id": "01b67ba66fa859af9f9b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "PSA: ChatGPT outage is blocking users from logging in or creating new accounts [U: Fixed]",
-      "url": "https://9to5mac.com/2026/08/19/psa-chatgpt-outage-is-blocking-users-from-logging-in-or-creating-new-accounts/",
-      "publishedAt": "2026-08-20T00:28:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/chatgpt-red.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ChatGPTで大規模な障害が発生、現在は復旧済みと発表",
-      "summaryJa": "OpenAIの「ChatGPT」において、アカウントへのログインや新規作成ができなくなる障害が発生しました。公式システムステータスでもサインアップとログインの停止が確認され、多くのユーザーに影響が出ていました。その後、OpenAI側で問題に対する修正対応を行い、現在は完全に復旧したと発表されています。"
-    },
-    {
-      "id": "063e0a54629e85e6c62f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "EU Welcomes Apple's App Store Changes, Epic Slams 'Junk Fees'",
-      "url": "https://www.macrumors.com/2026/08/19/ec-epic-apple-app-store-changes/",
-      "publishedAt": "2026-08-20T00:16:25.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/05/app-store-blue-banner-epic-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "欧州委員会、AppleによるApp Storeの規約変更を歓迎",
-      "summaryJa": "AppleがEUのデジタル市場法に対応してApp Storeの手数料体系を見直し、コアテクノロジー手数料を引き下げました。欧州委員会はこの変更を歓迎する姿勢を示しています。一方で、エピックゲームズなどの競合企業からは、新体制に対する批判的な意見も上がっており、今後の動向が注目されます。"
-    },
-    {
-      "id": "0f16eafeff4b42947573",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Camera-equipped AirPods reportedly won’t launch in 2026, despite demo video leak",
-      "url": "https://9to5mac.com/2026/08/19/camera-equipped-airpods-reportedly-wont-launch-in-2026-despite-demo-video-leak/",
-      "publishedAt": "2026-08-19T23:42:49.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "カメラ搭載AirPods、2026年の発売は見送りか",
-      "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、AppleがmacOSのベータ版コード内でビジュアルインテリジェンス機能のデモ動画を誤って公開したにもかかわらず、カメラを搭載したAirPodsの発売は2027年に予定されていると報じられています。社内では複数の開発コードネームが存在し初期のロードマップには2026年版も含まれていましたが、製品やソフトウェアの課題によりスケジュールが変更された模様です。"
-    },
-    {
-      "id": "e5ab2f785563d96ef176",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Camera AirPods Not Launching Until 2027 Despite Leaked Video",
-      "url": "https://www.macrumors.com/2026/08/19/airpods-with-cameras-2027-launch/",
-      "publishedAt": "2026-08-19T23:42:46.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/airpods-pro-3-peach.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "カメラ付きAirPodsは2027年まで登場しない見込み",
-      "summaryJa": "今週発見されたデモ動画によって早期の登場が期待されていたカメラ搭載AirPodsですが、2027年まで発売されないと報じられています。サプライチェーンやソフトウェアの課題が背景にあり、Appleは2026年のリリーススケジュールから該当モデルを除外しました。将来的なモデルには低解像度カメラが搭載され、Siriのビジュアルインテリジェンス機能と連携すると伝えられています。"
-    },
-    {
-      "id": "b894838ec29043e1ffad",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 19, 2026 – Apple TV 4K rumors, Apple Maps ads",
-      "url": "https://9to5mac.com/2026/08/19/daily-august-19-2026/",
-      "publishedAt": "2026-08-19T23:06:38.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV 4KやiPhone 18 Pro Maxの噂、Apple Mapsの広告開始などが話題に",
-      "summaryJa": "最新のApple製品やサービスに関する様々な噂や新情報が伝えられています。Apple TV 4Kの新モデルにおけるSiri Remoteの改良や、iPhone 18 Pro Max専用となる2つのカメラ機能の可能性が浮上しています。また、A20 Proチップの性能向上に関する詳細や、Appleマップにおける企業向け広告予約の開始なども取り上げられています。"
-    },
-    {
-      "id": "27d4c164ada0e7f2ee4d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Meta AI Launches Mac App With Screen Sharing and Dictation",
-      "url": "https://www.macrumors.com/2026/08/19/meta-ai-mac-app/",
-      "publishedAt": "2026-08-19T22:35:26.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/02/meta-ai.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Meta、画面共有や音声入力を備えたMac向けAIアプリを公開",
-      "summaryJa": "Metaは、ビジネスユーザーやコンテンツクリエーターを主な対象とした新しいMeta AIアプリのベータ版をMac向けにリリースしました。FacebookやInstagramと連携し、パフォーマンスに関する質問への回答やGoogle Workspaceへのアクセス機能を提供します。また、作業中の画面を共有できるウィンドウ共有機能や、Macの全アプリで使える音声入力機能も備えています。無料で使用できますが、プライバシーポリシーによりAIとのやり取りがモデルの学習に利用される点には注意が必要です。"
-    },
-    {
-      "id": "2972deaa8716b8bb8320",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Report: Smart wearables market set to generate more than $1 trillion through 2032",
-      "url": "https://9to5mac.com/2026/08/19/report-smart-wearables-market-set-to-generate-more-than-1-trillion-through-2032/",
-      "publishedAt": "2026-08-19T21:21:52.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-AirPods-Pro-3-lifestyle-01-250909.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "スマートウェアGの市場規模、2032年までに1兆ドル突破か",
-      "summaryJa": "カウンターポイント・リサーチの予測によると、世界の消費者向けウェアラブル市場は2032年までに累計1兆ドル以上の売上を記録する見通しです。スマートウォッチとワイヤレスイヤホンが市場を牽引し、ヘルスケア機能やオンデバイスAIの進化が平均単価の上昇を支えるとされています。健康パッチやスマートリングなど新しいカテゴリーの成長も期待されています。"
-    },
-    {
-      "id": "ba189f44a75cbf5bb33d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "macOS Golden Gate adds a new app to your Mac; here’s what it can do",
-      "url": "https://9to5mac.com/2026/08/19/macos-27-new-siri-app-features/",
-      "publishedAt": "2026-08-19T20:56:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-app-macOS-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Mac向け次期OSに専用のSiriアプリが追加か",
-      "summaryJa": "次期macOSでは、Mac向けとして初となる専用のSiriアプリがドックに追加されると報じられています。新しく再設計されたSiriアーキテクチャにより、パーソナルコンテキストの理解や画面上の認識機能などが統合され、会話履歴の閲覧やiCloudを通じたデバイス間の同期が可能になる見込みです。"
-    },
-    {
-      "id": "f01a924d93d1ff5cbdfd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Watch Susan Kare revisit the icons and graphics for the original Mac",
-      "url": "https://9to5mac.com/2026/08/19/watch-susan-kare-revisit-the-icons-and-graphics-for-the-original-mac/",
-      "publishedAt": "2026-08-19T20:14:37.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/happy-mac.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "初代Macの伝説的デザイナー、スーザン・ケアが語るアイコン制作の裏側",
-      "summaryJa": "初代Macintoshの発表から40年以上が経過した今、伝説のグラフィックデザイナーであるスーザン・ケアが当時のデザインやアイコン制作の裏側について振り返っています。Y Combinatorのイベントに登壇した彼女は、ビットマップグラフィックスやGUIが未開拓だった時代の情熱や苦悩を語りました。コマンドキーのシンボルやシステムフォントなど、彼女の仕事が現在のパーソナルコンピューティングの視覚言語に与えた影響の大きさが改めて紹介されています。"
-    },
-    {
-      "id": "aaaa9d9a09c2e169fcc0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro: Three new design updates are coming",
-      "url": "https://9to5mac.com/2026/08/19/iphone-18-pro-three-new-design-updates-are-coming-this-year/",
-      "publishedAt": "2026-08-19T20:03:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの3つのデザイン変更に関する噂",
-      "summaryJa": "次期モデルとなるiPhone 18 ProおよびPro Maxについて、いくつかのデザイン変更が計画されていると報じられています。背面ガラスとアルミニウムの色差を軽減した統一感のあるデザイン採用のほか、約35%小型化した新しいDynamic Islandの搭載、さらにダークチェリーをはじめとする新たな本体カラーの追加が噂されています。"
-    },
-    {
-      "id": "f7e500df3a1c42cbeb42",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Special 1-day Apple anniversary sale: AirPods Pro 3, MacBook Pro $400 off, iPhone Air/17 Pro, AirTag 2, more",
-      "url": "https://9to5mac.com/2026/08/19/special-1-day-apple-anniversary-sale-airpods/",
-      "publishedAt": "2026-08-19T19:53:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-anniversary-sale.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple製品が最大400ドル引きとなる特別セール開催",
-      "summaryJa": "米国の家電量販店ベスト・バイの創立60周年記念セールに合わせ、Apple製品を対象とした1日限りの特別割引が実施されています。AirPods Pro 3やAirPods Max 2の大幅値引きに加え、M5 Pro搭載のMacBook Proが400ドル引き、iPhone Airが170ドル引きなど、複数の公式製品やアクセサリーが特別価格で販売されています。"
     }
   ],
-  "updatedAt": "2026-08-28T11:14:33.937Z",
+  "updatedAt": "2026-08-28T21:27:13.536Z",
   "initialized": true,
   "summaryVersion": 4
 }
