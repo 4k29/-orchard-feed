@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "aa1b176034584a141938",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: August 28, 2026 – Foldable iPhone expectations, more",
+      "url": "https://9to5mac.com/2026/08/28/9to5mac-daily-august-28-2026-foldable-iphone-expectations-more/",
+      "publishedAt": "2026-08-29T01:02:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、折りたたみ式iPhoneの出荷予測や最新動向を網羅",
+      "summaryJa": "Appleの最新情報を毎日お届けするポッドキャスト番組の配信内容をお伝えしています。IDCによる折りたたみ式iPhoneの出荷予測をはじめ、Appleウォレットの運転免許証対応の拡大、iPhone Ultraに関する噂、iPhone 18 Proの進化に関する予測など、注目すべき話題が多数取り上げられています。"
+    },
+    {
+      "id": "bb92f4af89ac737b9249",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Most people overpay for their phone plan – Tello Mobile maxes out at $25/month",
+      "url": "https://9to5mac.com/2026/08/28/most-people-overpay-phone-plan-tello-mobile-maxes-out-at-25-month/",
+      "publishedAt": "2026-08-28T22:30:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Banner-2-1920-x-1080.png?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Tello Mobile、月額25ドルで利用できる格安プランを提供",
+      "summaryJa": "アメリカの携帯電話プランの料金は世界的に見ても高額ですが、Tello Mobileを利用することで費用を大幅に抑えることができます。アメリカの大手5Gネットワークを活用しながら、月額5ドルからの柔軟なプランや、月額25ドルのデータ使い放題プランを提供しています。契約期間の縛りがなく、隠れた手数料もないため、多くのユーザーから支持を集めています。"
+    },
+    {
+      "id": "30771e2718e3fd9fdd65",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Steve Jobs’ 1968 science fair project fetches $34,375 at auction",
+      "url": "https://9to5mac.com/2026/08/28/steve-jobs-1968-science-fair-project-fetches-34375-at-auction/",
+      "publishedAt": "2026-08-28T21:35:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Steve-Jobs-8th-grade-science-fair-project-goes-up-for-auction.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "スティーブ・ジョブズの1968年の科学フェア作品がオークションで落札",
+      "summaryJa": "スティーブ・ジョブズが中学時代に手作りした科学フェアの展示品が、オークションに出品され34,375ドルで落札されました。シリコン制御整流器をテーマにしたこのプロジェクトは、長年ジョブズの家族によって保管されていました。今回のオークションでは他にもApple関連の貴重なアイテムが出品され、歴史的な価値を持つApple-1コンピュータが高額で落札されています。"
+    },
+    {
       "id": "8e9f216aa17d267f4df5",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -179,6 +224,141 @@
       ],
       "titleJa": "Apple、新Mac miniやM6チップを発表し、9月9日のスペシャルイベントを正式告知",
       "summaryJa": "AppleはM6およびM5 Proチップを搭載した新しいMac miniを発表するとともに、9月9日にApple Parkでスペシャルイベントを開催することを正式に明らかにしました。M6チップはApple初となる2nmプロセスを採用し、CPUの構造を一新して高いパフォーマンスと電力効率を実現しています。イベントでは新型iPhone 18 ProシリーズやApple Watchなどの発表が予想されており、秋に向けた新製品の展開に大きな注目が集まっています。"
+    },
+    {
+      "id": "0a8f14a02c24a7290ce3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "This video experiment perfectly illustrates my frustration with iPhone Cinematic mode",
+      "url": "https://9to5mac.com/2026/08/28/this-video-experiment-perfectly-illustrates-my-frustration-with-iphone-cinematic-mode/",
+      "publishedAt": "2026-08-28T16:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/This-video-experiment-perfectly-illustrates-my-frustration-with-iPhone-Cinematic-mode.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhoneのシネマティックモードに対する検証動画と進化への期待",
+      "summaryJa": "Appleがシネマティックモードの開発を事実上放置しているのではないかという懸念の声が上がっています。実際の撮影実験を通じて、映像の仕上がりは優れているものの、被写体の動きや背景の処理において惜しい点が見受けられます。iPhoneの性能が大幅に向上している現在、将来の映像クリエイター向けにさらなる機能強化が望まれています。"
+    },
+    {
+      "id": "651227e3e8719b479576",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple TV Buys an Existing Hit for the First Time Ever",
+      "url": "https://www.macrumors.com/2026/08/28/apple-tv-buys-an-existing-hit-for-first-time/",
+      "publishedAt": "2026-08-28T15:52:49.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/10/Apple-TV-Color.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple TV、既存の人気英語ドラマの全世界配信権を初獲得",
+      "summaryJa": "Apple TVは、イギリスで放送されて高い評価を得たコメディドラマ「Small Prophets」の全世界向け配信権を獲得したと報じられています。Appleはこれまで、自社で企画から手掛けたオリジナル作品や、一部の外国語ドラマを除いて自社制作の作品を配信するモデルを基本としていました。すでに他国で放送され大ヒットとなった英語圏のシリーズ作品権を直接購入するのは今回が初めてとなります。"
+    },
+    {
+      "id": "34a7367a09763e954612",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: Amazon Labor Day sale, AirPods Pro 3, M6 Mac mini, Apple Watch $200, AirTag 2, more",
+      "url": "https://9to5mac.com/2026/08/28/deals-amazon-labor-day-sale-airpods-pro-3-m6-mac-mini/",
+      "publishedAt": "2026-08-28T15:29:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-M6-Mac-mini-AirPods-AirTag-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AmazonセールでAirPods Pro 3や新製品が割引に",
+      "summaryJa": "大規模なAmazonのレイバーデイセールにおいて、AirPods Pro 3やAirTag 2などが特別価格で販売されています。今回は、新しく登場したM6 Mac miniやM5 Pro Mac miniに対しても初めての割引が適用されており、多くのApple製品をお得に購入できるチャンスとなっています。AirTag 2の4パックなども過去最安値水準で販売されており、周辺機器を含めて幅広いアイテムが対象です。"
+    },
+    {
+      "id": "28603f398f04c4a296bd",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Pre-Orders May Start at an Unusual Time",
+      "url": "https://www.macrumors.com/2026/08/28/iphone-18-pro-pre-orders-may-start-at-unusual-time/",
+      "publishedAt": "2026-08-28T15:17:27.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの予約開始日が通常とは異なる可能性",
+      "summaryJa": "Appleが9月9日に開催を予定しているイベントで発表されるiPhone 18 Proなどの予約受付が、通常の金曜日ではなく9月12日の土曜日に開始される可能性があると報じられています。この日程変更は、9月11日が同時多発テロから25年を迎える記念日にあたるため、過去の事例と同様に配慮されたものとみられています。また、予約開始の時間帯も従来の午前5時から太平洋時間の深夜0時に変更されると伝えられています。"
+    },
+    {
+      "id": "a740c538281e8980ec61",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s new M6 adds feature previously exclusive to high-end chips",
+      "url": "https://9to5mac.com/2026/08/28/apples-new-m6-adds-feature-previously-exclusive-to-high-end-chips/",
+      "publishedAt": "2026-08-28T15:07:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/m6-lg-01.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "次世代M6チップ、従来は上位モデル限定の機能を搭載",
+      "summaryJa": "新型Mac miniに初搭載された次世代のM6チップに、これまで上位モデルのM5 ProやMaxに限定されていた機能が導入されていると伝えられています。M6はベースチップでありながら、従来の性能・効率コアに加えて、最上位のスーパーコアや新しいパフォーマンスコアを含む3種類のCPUコア構成を採用しています。これにより、基本性能を持つエントリー向けのチップでありながら、より高いマルチスレッド性能と電力効率を実現しています。"
+    },
+    {
+      "id": "54938cbb2d2fa4e1883a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "What NOT to Expect at Apple's 'Surprise and Shine' September 9 Event",
+      "url": "https://www.macrumors.com/2026/08/28/what-not-to-expect-apple-sept-9-event/",
+      "publishedAt": "2026-08-28T14:54:56.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/What-Not-To-Expect-From-Surprise-and-Shine-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleイベントで発表されないと噂される製品群",
+      "summaryJa": "9月9日のAppleのイベントでは新製品の発表が多数控えている一方で、今年は通常のiPhone 18が秋のイベントから外れ、来春以降の登場になると報じられています。分割発売戦略の一環として、秋のイベントは高価格帯のProモデルや折りたたみモデルを中心に展開される見通しです。そのため、ベースモデルのiPhoneや一部の噂される端末は今年の秋ではなく、後日または2027年に登場する可能性が高いと伝えられています。"
+    },
+    {
+      "id": "d6703abde3b6728f0635",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple will launch 15+ new products this fall, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/08/28/apple-will-launch-15-new-products-this-fall-heres-whats-coming/",
+      "publishedAt": "2026-08-28T14:16:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/04/Tim-Cook-opens-Apple-BKC.jpeg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "今秋登場と噂されるAppleの新製品ラインナップ",
+      "summaryJa": "Appleは今秋、iPhone 18 Proシリーズや初の折りたたみiPhoneに加え、Apple WatchやMac、iPadなど多数の新製品を投入すると報じられています。10月以降にはOLEDディスプレイ搭載のMacBook UltraやM6搭載のMacBook Pro、さらにOLED採用のiPad miniなども控えている模様です。ホーム製品も含めてAI対応を見据えた大規模な製品展開が計画されていると伝えられています。"
+    },
+    {
+      "id": "d16debdf31f92b7e9359",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple One Just Went Up in Price",
+      "url": "https://www.macrumors.com/2026/08/28/apple-one-price-increase/",
+      "publishedAt": "2026-08-28T14:01:44.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Apple-One-16x9-2026.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple TVの値上げに伴いApple One個人プランも値上がり",
+      "summaryJa": "Apple TVの価格改定に伴い、米国など一部の地域でApple Oneの個人プランが値上げされました。米国内では月額19.95ドルから21.95ドルに引き上げられています。なお、ファミリープランやプレミアプランは先月のApple Musicの値上げ時にすでに価格が改定されており、今回の対象外となっています。価格改定は現在、米国、ブラジル、チリ、メキシコで実施されていると伝えられています。"
+    },
+    {
+      "id": "63ada638f01316e60575",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro pre-orders could kick off slightly later than usual",
+      "url": "https://9to5mac.com/2026/08/28/iphone-18-pro-pre-orders-could-kick-off-slightly-later-than-usual/",
+      "publishedAt": "2026-08-28T13:45:13.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの予約受付は通常より遅れる可能性か",
+      "summaryJa": "9月9日に発表されるとみられるiPhone 18 Proの予約注文が、通常よりわずかに遅れて開始されるとの報道が出ています。今年は9月11日が25回目の追悼日にあたることから、例年の金曜日ではなく、9月12日の土曜日に予約が開始される可能性があると伝えられています。また、開始時間についても従来の太平洋時間の午前5時から深夜に変更されるとの情報がありますが、詳細は正式発表が待たれます。"
     },
     {
       "id": "ea477f96aabdc5b548db",
@@ -4326,189 +4506,9 @@
       ],
       "titleJa": "Apple Watch Series 11が米小売店で100ドル引きに",
       "summaryJa": "米国のBest BuyやAmazonなどの大手小売店にて、Apple Watch Series 11が100ドル引きで販売されています。対象は42mmおよび46mmのGPSアルミニウムモデルなどで、過去の最安値に近いお買い得な価格となっていますが、在庫は少なくなっていると伝えられています。"
-    },
-    {
-      "id": "2a2eec257c288075dca3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "These 5 Apple Products Will Reportedly Be Upgraded With OLED Displays",
-      "url": "https://www.macrumors.com/2026/08/20/five-apple-products-to-get-oled-displays/",
-      "publishedAt": "2026-08-20T13:50:38.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/11/Oled-iPads-and-MackBook-Pro-Notch.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPadやMacの複数製品にOLEDディスプレイ搭載か",
-      "summaryJa": "Appleが今後数年かけて、複数のiPadやMacにOLEDディスプレイを順次導入する計画であると報じられています。2026年から2029年にかけて、iPad miniやMacBook Pro、iPad Air、iMac、MacBook Airなどが対象となり、より優れた画質やコントラストがもたらされる見込みです。"
-    },
-    {
-      "id": "f812f43c18382c3a95f1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Ceramic Apple Watch Rumored to Return With Series 12",
-      "url": "https://www.macrumors.com/2026/08/20/ceramic-apple-watch-to-return-with-series-12/",
-      "publishedAt": "2026-08-20T13:17:31.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/ceramic-apple-watch-series-12.png",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "セラミック製Apple Watchがシリーズ12で復活か",
-      "summaryJa": "リーク情報で知られる人物によると、Appleは今年のApple Watch Series 12でセラミック製ケースを復活させる計画であると報じられています。セラミック素材はかつてApple Watch Editionなどに採用されていましたが、シリーズ6を最後にラインナップから姿を消していました。コレクターの間でも人気の高い高級感のある仕上げが、数年ぶりに再登場する可能性があります。"
-    },
-    {
-      "id": "28bf2313e28fab6d63cb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Adobe Firefly’s music, voiceover, and sound effects generation tools now generally available",
-      "url": "https://9to5mac.com/2026/08/20/adobe-fireflys-music-voiceover-and-sound-effects-generation-tools-now-generally-available/",
-      "publishedAt": "2026-08-20T13:00:05.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/adobe-generate-music.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Adobe Fireflyの音楽・音声生成ツールが一般提供へ",
-      "summaryJa": "Adobeは、AIアシスタント「Firefly」において、完全ライセンス付きの楽曲、音声、効果音を生成するツールの一般提供を開始しました。動画の長さや雰囲気に合わせたオリジナルのBGM作成や、自然なナレーションへの変換を手軽に行うことができます。商用利用時の著作権リスクやライセンス費用に悩むクリエイターの作業負担を軽減する新しい手段として期待されています。"
-    },
-    {
-      "id": "78fd92cb72fe865275f2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 Shared Albums Go Full Res at the Cost of Your iCloud Storage",
-      "url": "https://www.macrumors.com/2026/08/20/ios-27-shared-albums-eat-into-icloud-storage/",
-      "publishedAt": "2026-08-20T12:48:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/10/iCloud-iPhone-17-Pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOSの共有アルバムが高画質化、iCloud容量を消費へ",
-      "summaryJa": "次期iOSでは、写真アプリの共有アルバムがフル解像度を維持できるようになる一方で、iCloudのストレージ容量を消費する仕様に変更されると伝えられています。これまでは容量無制限で保存できましたが、今後は参加者が追加した写真もオーナーの容量にカウントされます。また、Appleアカウントを持たないAndroidやWindowsユーザーもウェブ経由で参加可能になるため、容量管理への注意が必要です。"
-    },
-    {
-      "id": "427e8a9c6fd2c67af8c2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Roblox still allows predators to contact children, says regulator",
-      "url": "https://9to5mac.com/2026/08/20/roblox-still-allows-predators-to-contact-children-says-regulator/",
-      "publishedAt": "2026-08-20T12:30:57.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Roblox-still-allows-predators-to-contact-children-says-regulator.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "人気ゲームRobloxの子ども保護機能に不備と指摘",
-      "summaryJa": "オーストラリアの規制当局が、子ども向けアプリ「Roblox」の安全対策が不十分であると指摘しました。大人が親の承認なしに子どもへ接続リクエストを送れるなどの脆弱性が複数見つかっています。これを受け、Roblox側は今後3ヶ月以内に保護機能を強化し、未成年者のアカウントのプライバシー設定をデフォルトで厳格化することに同意しています。"
-    },
-    {
-      "id": "83d3ef1d5c4bd64fa5d9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Fake Cases Hint at New Clear and TechWoven Colors for iPhone 18 Pro",
-      "url": "https://www.macrumors.com/2026/08/20/new-clear-and-techwoven-cases-for-iphone-18-pro/",
-      "publishedAt": "2026-08-20T11:59:35.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iphone-18-pro-max-case-techwoven-duanrui.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proのモックケースから新色やアクセサリが判明か",
-      "summaryJa": "中国で流通しているiPhone 18 Pro Max向けのフェイクケースから、新型アクセサリのカラーオプションに関する情報が浮上したと報じられています。リークされた動画などによると、MagSafe部分のリングを隠す仕様を受け継いだ薄いブルーのクリアケースや、豊富なカラー展開のTechWovenケースが含まれている模様です。これらは例年、正式発表前に出回るダミーケースですが、次期モデルの本体カラーや公式アクセサリを早期に指し示すヒントとして注目を集めています。"
-    },
-    {
-      "id": "95bf5fed759005aef247",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Bought Logitech kit during the Trump tariff mess? You may be due a refund …",
-      "url": "https://9to5mac.com/2026/08/20/bought-logitech-kit-during-the-trump-tariff-mess-you-may-be-due-a-refund/",
-      "publishedAt": "2026-08-20T11:37:58.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Logitech-tariff-refunds.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ロジスティック製周辺機器の関税返金めぐり集団訴訟か",
-      "summaryJa": "米中貿易摩擦の最中に関税の引き上げ分を価格に上関していたロジクールなどの企業に対し、消費者が返金を求める集団訴訟が動き出しています。連邦最高裁が過去の関税を違法と判断してメーカーへの返還を命じたものの、実質的に負担した消費者への還元が行われていないことが問題視されています。今後の司法判断や企業の対応に注目が集まっています。"
-    },
-    {
-      "id": "0b8ab9e2c6ab51af53c6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Strong iPhone Sales Are Giving Samsung Display a Big OLED Boost",
-      "url": "https://www.macrumors.com/2026/08/20/strong-iphone-sales-boosting-samsung-oled/",
-      "publishedAt": "2026-08-20T11:10:55.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2022/09/iPhone-14-Pro-Display-Two-Times-Brighter-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhoneの好調な販売がSamsung DisplayのOLED出荷増を牽引",
-      "summaryJa": "好調なiPhoneの販売を背景に、Samsung DisplayのフレキシブルOLEDパネルの出荷数が大幅に増加していると報じられています。今年上半期の出荷数は前年同期比で約35%増加し、世界全体のシェア拡大に大きく貢献しました。市場調査会社は、今後の新型iPhoneなどの発表も控え、下半期も引き続き高い需要が維持されると予測しています。"
-    },
-    {
-      "id": "673a1d1b650661b2aa0d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 20, 2026 – Apple RAM suppliers, iPhone Ultra rumors",
-      "url": "https://9to5mac.com/2026/08/20/daily-august-20-2026/",
-      "publishedAt": "2026-08-20T11:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AppleのRAM供給元やiPhone Ultraの噂など最新情報",
-      "summaryJa": "9to5Macのポッドキャスト番組にて、中国製メモリチップの調達を巡る動きや、新モデル「iPhone Ultra」に関する発売時期や名称の噂、さらにスマートホーム製品の大幅な刷新に関する最新レポートが議論されています。日々のApple関連ニュースを手軽に音声で振り返ることができます。"
-    },
-    {
-      "id": "e105f704d97787ae025a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s long-running app store battle with the EU appears to finally be over",
-      "url": "https://9to5mac.com/2026/08/20/apples-long-running-app-store-battle-with-the-eu-appears-to-finally-be-over/",
-      "publishedAt": "2026-08-20T10:52:18.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/09/iPhone-Diary-iPhone-16-Pro-Max-expectations.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AppleとEUの長引くApp Storeを巡る争いが終結か",
-      "summaryJa": "Appleと欧州連合（EU）の間で続いていたアプリ販売に関する長年の反トラスト法を巡る争いが、ついに解決に向かっていると伝えられています。EUは、同地域内でAppleが提示した5%から26%の新しい手数料や規約の変更を歓迎する姿勢を示しています。サードパーティ製アプリストアや代替決済への対応をめぐり議論が続いていましたが、今回の新条件により決着した模様です。"
-    },
-    {
-      "id": "30ee1ef5c45e19d3701e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Fires Back at OpenAI's Bid to Toss Trade Secrets Suit",
-      "url": "https://www.macrumors.com/2026/08/20/apple-fires-back-openai-bid-toss-lawsuit/",
-      "publishedAt": "2026-08-20T10:40:54.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/05/OpenAI-vs-Apple-Feature-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、OpenAIによる営業秘密侵害訴訟の棄却申し立てに反論",
-      "summaryJa": "Appleは、OpenAIが求めた営業秘密侵害訴訟の棄却申し立てを却下するよう連邦判事に要請しました。Appleは、OpenAIが元従業員を引き抜いて機密情報を不正に入手したと主張しており、OpenAI側の主張は臆測や歪曲に基づいていると非難しています。両社の法的紛争は今後、裁判所のディスカバリー手続きを通じて事実関係の審理へと移行する見通しです。"
-    },
-    {
-      "id": "bf51b792ab3e94696c1a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple hits back at OpenAI’s bid to dismiss lawsuit, reaffirms ‘pervasive trade secret misappropriation’",
-      "url": "https://9to5mac.com/2026/08/19/apple-hits-back-at-openais-bid-to-dismiss-lawsuit-reaffirms-pervasive-trade-secret-misappropriation/",
-      "publishedAt": "2026-08-20T02:21:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-vs-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、OpenAIの訴訟却下申し立てに反発",
-      "summaryJa": "Appleは、元従業員らによる営業秘密の不正流用をめぐる訴訟について、OpenAIの却下申し立てに対する反論を提出しました。OpenAI側は十分な調査が行われていないなどと主張していましたが、Appleはこれを否定し、機密情報の不正持ち出しに関する核心的な主張を維持しています。"
     }
   ],
-  "updatedAt": "2026-08-28T21:27:13.536Z",
+  "updatedAt": "2026-08-29T03:20:11.124Z",
   "initialized": true,
   "summaryVersion": 4
 }
