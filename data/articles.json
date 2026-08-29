@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "37a254c95a6be679c79d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Indie App Spotlight: ‘Laytr’ is a one stop shop for logging everything you want to see later",
+      "url": "https://9to5mac.com/2026/08/29/indie-app-spotlight-laytr-is-a-one-stop-shop-for-logging-everything-you-want-to-find-later/",
+      "publishedAt": "2026-08-29T19:30:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Laytr-app.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "デジタル保存を一つにまとめるiOSアプリ「Laytr」",
+      "summaryJa": "日常の中で保存しておきたいウェブページや情報があちこち散らばってしまう悩みを解決するiOS向けインディーアプリ「Laytr」が紹介されています。ネイティブの共有シートに対応しており、直感的なUIで今見るべきものやタイムライン、ライブラリなどを簡単に整理できます。また、iCloudなどの同期やアカウント作成を行わず、すべてのデータがデバイス上にのみ保存されるプライバシー重視の設計も特徴です。"
+    },
+    {
       "id": "b033c1de24930c155685",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4491,24 +4506,9 @@
       ],
       "titleJa": "Apple、iOS 27の新機能に対応したAirPodsベータファームウェアを公開",
       "summaryJa": "Appleはデベロッパーおよびパブリックベータテスター向けに、AirPods ProやAirPods Maxなどの新ベータファームウェアをリリースしました。次期OSであるiOS 27などで導入される新しいAirPodsインターフェイスや、アダプティブモードの専用スライダー、カスタムEQのサポートなどが追加されています。対象デバイスの接続設定からベータアップデートを有効にすることでインストールが行われます。"
-    },
-    {
-      "id": "163a2ed927b93b2467ac",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AirPods Pro 3 and more just got new firmware release in beta",
-      "url": "https://9to5mac.com/2026/08/20/airpods-pro-3-and-more-just-got-new-firmware-release-in-beta/",
-      "publishedAt": "2026-08-20T18:33:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.05.11.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、AirPods向けに新ベータファームウェアを配信",
-      "summaryJa": "Appleは開発者およびパブリックベータテスター向けに、AirPods向けの新しいベータファームウェアをリリースしました。対象となるのはH2チップを搭載したAirPods Pro 3などのモデルで、ビルド番号は9A5347aとなっています。来月に予定されているOSの大型アップデートを見据え、新機能への対応や準備を進めている段階です。"
     }
   ],
-  "updatedAt": "2026-08-29T18:31:44.125Z",
+  "updatedAt": "2026-08-29T21:09:51.370Z",
   "initialized": true,
   "summaryVersion": 4
 }
