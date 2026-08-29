@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "id": "a772774d38023c1486ab",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Top Stories: Apple's 'Surprise and Shine' Event, Plus New Mac mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/29/top-stories-apple-surprise-and-shine-event-invites/",
+      "publishedAt": "2026-08-29T13:00:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/top-stories-2026-08-29.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Top Stories: Apple's 'Surprise and Shine' Event, Plus New Mac mini and Mac Studio",
+      "summaryJa": "It turned out to be a big week for Apple news this week, as we not only got an official announcement about the upcoming iPhone event but also several hardware announcements including updated Mac mini and Mac Studio models. Anticipation continues to build for Apple's first foldable iPhone coming at next month's event, while subscribers to the Apple TV streaming service are getting hit with another price increase, so read on below for all of the details. Top Stories Apple Event Announced for September 9: 'Surprise and Shine' Apple this week announced that it plans to hold its annual iPhone-centric event on Wednesday, September 9, at the Apple Park campus in Cupertino, California. The event will begin at 10:00 a.m. Pacific Time, with select members of the media invited to attend. The Septembe",
+      "translationStatus": "source"
+    },
+    {
+      "id": "9edf243d3addfb837506",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Amazon Offers Early Savings on 2026 Mac Mini, Plus Record Low on AirTag 2",
+      "url": "https://www.macrumors.com/2026/08/29/best-apple-deals-of-the-week-8-28-26/",
+      "publishedAt": "2026-08-29T12:31:59.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazon Offers Early Savings on 2026 Mac Mini, Plus Record Low on AirTag 2",
+      "summaryJa": "Apple introduced the M6 and M5 Pro Mac mini this week, and Amazon currently has the first pre-order discounts on these models ahead of their September launch. Below, we're also tracking a new record low price on the AirTag 2 during Amazon's Labor Day event. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Mac Mini Pre-Orders What's the deal? Take up to $29 off Mac mini pre-orders Where can I get it? Amazon Where can I find the original deal? Right here $19 OFF M6 Mac mini 16GB/256GB for $879.99 $29 OFF M6 Mac mini 16GB/512GB for $1,069.99 $29 OFF M5 Pro Mac mini 24GB/512GB for $1,669.99 Amazon this week introduced the first cash discounts on Apple's brand new",
+      "translationStatus": "source"
+    },
+    {
+      "id": "e0b6957782647d147c06",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more",
+      "url": "https://9to5mac.com/2026/08/29/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/",
+      "publishedAt": "2026-08-29T12:13:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-weekend-deals-late-August-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more",
+      "summaryJa": "We are ready to touch down for your 9to5Toys Lunch Break weekend edition. This time around our deals are landing alongside truck loads of price drops from the Amazon 2026 Labor Day sale, as well as the ongoing $50 discount on AirPods Pro 3 and the all-time low on AirTag 2 at $20 a pop. Some other highlights include Amazon’s best prices ever on iPhone 17 Pro at up to $290 off the new list prices and the very first discounts on Apple’s brand new M6 and M5 Pro Mac mini. Check it all out below – you’ll also find loads of deals on accessories, chargers, and smart home gear. We are ready to touch down for your 9to5Toys Lunch Break weekend edition. This time around our deals are landing alongside truck loads of price drops from the Amazon 2026 Labor Day sale, as well as the ongoing $50 discount o",
+      "translationStatus": "source"
+    },
+    {
+      "id": "498b757444b7a520bc7c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon",
+      "url": "https://9to5mac.com/2026/08/29/parallels-desktop-27/",
+      "publishedAt": "2026-08-29T12:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Parallels-27-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon",
+      "summaryJa": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . Virtualization on macOS has become rock-solid in the Apple Silicon era. Parallels Desktop 27 pushes that further with a new Metal-based graphics driver, OpenGL 4.3 support for Windows virtual machines on Apple silicon, faster local AI workloads, and a host of enterprise features aimed a",
+      "translationStatus": "source"
+    },
+    {
       "id": "aa1b176034584a141938",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4446,69 +4510,9 @@
       ],
       "titleJa": "Mac向けChatGPTがAppleのメッセージ統合に対応",
       "summaryJa": "Mac向けのChatGPT最新アップデートにより、Appleのメッセージアプリとの連携機能が追加されました。iMessageやSMSなどの会話を読み取って検索したり、メッセージの作成や送信を行ったりすることが可能です。プライバシー保護の観点から、送信時は原則としてユーザーの承認が必要となります。"
-    },
-    {
-      "id": "9eccb2b81dabb02c9a5d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "watchOS 27 adds three new Apple Watch features I’ve been loving",
-      "url": "https://9to5mac.com/2026/08/20/watchos-27-adds-three-new-apple-watch-features-ive-been-loving/",
-      "publishedAt": "2026-08-20T17:50:06.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/watchos-27-watch-face-red.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "watchOS 27のベータ版で体験する新機能の魅力",
-      "summaryJa": "まもなくリリースされる次期Apple Watch向けソフトウェア「watchOS 27」のベータ版における注目機能が紹介されています。よく使う5つのアプリを動的に表示する新しいホーム画面ビューや、スマートスタックを便利に操作できる新しいタップジェスチャーなどが高く評価されています。"
-    },
-    {
-      "id": "7d0ba551f3b50b8c2b44",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Card Turns Seven With Big Change Ahead",
-      "url": "https://www.macrumors.com/2026/08/20/apple-card-turns-seven-with-big-change-ahead/",
-      "publishedAt": "2026-08-20T16:19:07.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/01/Apple-Card-iPhone-16-Pro-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Card、発行元をチェース銀行へ変更へ",
-      "summaryJa": "米国でのサービス開始から7周年を迎えたApple Cardについて、発行元がゴールドマン・サックスからチェース銀行へ移行する予定であることが報じられました。消費者向け融資事業から撤退するゴールドマン・サックスに代わり、2028年初頭までに移行が完了する計画です。ユーザーは当面これまで通りカードを利用でき、移行期日近づくにつれて詳細が案内される見通しです。"
-    },
-    {
-      "id": "a9842c28319dfe4aa140",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "MacBook Ultra is coming: Six new features launching this fall",
-      "url": "https://9to5mac.com/2026/08/20/macbook-ultra-is-coming-six-new-features-launching-this-fall/",
-      "publishedAt": "2026-08-20T16:18:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macbook-ultra-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "MacBook Ultraが今秋登場か、新機能の噂",
-      "summaryJa": "Appleが今秋の発売に向けて準備を進めていると噂される「MacBook Ultra」について、6つの新機能が伝えられています。従来のMacBook Proより薄型・軽量な完全再設計モデルとなり、Mac初となるタッチスクリーンやOLEDディスプレイを搭載する可能性が指摘されています。チップにはM5 ProやM5 Maxが採用され、高度な機能を提供するプレミアムな選択肢として登場すると期待されています。"
-    },
-    {
-      "id": "f8e11c96a8e6efdf0070",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Alerted Runner to Serious Heart Problem",
-      "url": "https://www.macrumors.com/2026/08/20/apple-watch-alerted-runner-to-heart-problem/",
-      "publishedAt": "2026-08-20T15:58:20.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch、ランナーの深刻な心疾患を検出し命を救う",
-      "summaryJa": "Appleが公開した新しい広告動画の中で、Apple Watchの心電図アプリがランナーの心房細動の兆候を検出し、命を救った事例が紹介されました。トレーニング中に異変を感じたアスリートが検査したところ、先天性の心疾患が判明し、早期の外科手術につながりました。Apple Watchの心電図機能が予期せぬ健康上のリスクを発見したことで、早期治療に大きく貢献した実例として注目を集めています。"
     }
   ],
-  "updatedAt": "2026-08-29T10:16:07.744Z",
+  "updatedAt": "2026-08-29T15:09:36.618Z",
   "initialized": true,
   "summaryVersion": 4
 }
