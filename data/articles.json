@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "b033c1de24930c155685",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "As a relatively new Apple Vision Pro user, this is my favorite way to use it",
+      "url": "https://9to5mac.com/2026/08/29/heres-how-i-enjoy-using-apple-vision-pro/",
+      "publishedAt": "2026-08-29T17:50:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/m5-vision-pro-chance.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Vision Proで最も快適なコンテンツ鑑賞スタイル",
+      "summaryJa": "Apple Vision Proの重量や価格面でのハードルが指摘される中、多くのユーザーやアップル幹部の間で最も楽しまれているのが動画コンテンツの鑑賞です。ディズニーやYouTubeなどの主要なストリーミングアプリが利用でき、特に横になりながら映画やドラマを楽しむスタイルが非常に高い評価を得ています。"
+    },
+    {
+      "id": "64b0fce746fba4b638d6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives",
+      "url": "https://9to5mac.com/2026/08/29/apple-carplay-gaining-a-new-ai-chatbot-app-before-siri-ai-arrives/",
+      "publishedAt": "2026-08-29T17:13:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/best-carplay-apps.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple CarPlay、新たにMeta AIチャットボットに対応か",
+      "summaryJa": "Apple CarPlayがサードパーティ製AIチャットボットとして新たにMeta AIに対応しました。ChatGPTやPerplexity、Grokに続く形となりますが、現時点では一部のアカウントで利用制限があるなど限定的なテスト段階とみられています。本格的なSiri AIの登場を前に、車載システムでの選択肢がさらに広がっています。"
+    },
+    {
+      "id": "7ed09a7da0e7e1bcd7a3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Tested: You have to see Sharge’s impressive new metal unibody power bank with display [Launch deal]",
+      "url": "https://9to5toys.com/2026/08/29/sharge-impressive-metal-power-bank-display-review/",
+      "publishedAt": "2026-08-29T15:51:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Shargeek-300-Power-Bank-review-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Sharge、ディスプレイ搭載の金属製モバイルバッテリーを発売",
+      "summaryJa": "周辺機器メーカーのShargeから、内部構造が見えるユニークな窓やディスプレイを備えた新型モバイルバッテリー「Shargeek 300」が登場しました。頑丈な金属製ユニボディを採用し、2台のMacBookを同時に充電できる高い性能と優れたデザイン性を兼ね備えています。"
+    },
+    {
+      "id": "889d23dd60aa68ff9bd3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple will be launching its first pair of smart glasses next year: Here’s what’s coming",
+      "url": "https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/",
+      "publishedAt": "2026-08-29T14:48:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、初のAI搭載スマートグラスを来年にも発売か",
+      "summaryJa": "Appleがディスプレイ非搭載の音声とカメラ中心となる初のAIスマートグラスを来年にも投入するとの見方が伝えられています。視覚インテリジェンス機能やSiriの統合により周囲の状況を認識できるほか、自社デザインによる複数のフレームスタイルが用意されると報じられています。"
+    },
+    {
       "id": "a772774d38023c1486ab",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -12,9 +72,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Top Stories: Apple's 'Surprise and Shine' Event, Plus New Mac mini and Mac Studio",
-      "summaryJa": "It turned out to be a big week for Apple news this week, as we not only got an official announcement about the upcoming iPhone event but also several hardware announcements including updated Mac mini and Mac Studio models. Anticipation continues to build for Apple's first foldable iPhone coming at next month's event, while subscribers to the Apple TV streaming service are getting hit with another price increase, so read on below for all of the details. Top Stories Apple Event Announced for September 9: 'Surprise and Shine' Apple this week announced that it plans to hold its annual iPhone-centric event on Wednesday, September 9, at the Apple Park campus in Cupertino, California. The event will begin at 10:00 a.m. Pacific Time, with select members of the media invited to attend. The Septembe",
-      "translationStatus": "source"
+      "titleJa": "Apple、9月9日に新製品発表イベントを開催へ",
+      "summaryJa": "Appleは9月9日にクパチーノのApple Parkで特別なイベントを開催すると発表しました。タグラインに「Surprise and Shine」を掲げたこのイベントでは、iPhone 18 Proシリーズや折りたたみ式iPhoneのほか、新しいMac miniやMac Studioなどのハードウェアが発表される見込みです。"
     },
     {
       "id": "9edf243d3addfb837506",
@@ -28,9 +87,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Amazon Offers Early Savings on 2026 Mac Mini, Plus Record Low on AirTag 2",
-      "summaryJa": "Apple introduced the M6 and M5 Pro Mac mini this week, and Amazon currently has the first pre-order discounts on these models ahead of their September launch. Below, we're also tracking a new record low price on the AirTag 2 during Amazon's Labor Day event. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Mac Mini Pre-Orders What's the deal? Take up to $29 off Mac mini pre-orders Where can I get it? Amazon Where can I find the original deal? Right here $19 OFF M6 Mac mini 16GB/256GB for $879.99 $29 OFF M6 Mac mini 16GB/512GB for $1,069.99 $29 OFF M5 Pro Mac mini 24GB/512GB for $1,669.99 Amazon this week introduced the first cash discounts on Apple's brand new",
-      "translationStatus": "source"
+      "titleJa": "新型Mac miniやAirTag 2がAmazonで早くも割引に",
+      "summaryJa": "Amazonのセールにおいて、発表されたばかりのM6およびM5 Proチップを搭載した新しいMac miniの事前割引が行われています。さらに、AirTag 2をはじめとする人気アクセサリも対象となり、発売前やイベント期間中にお得な価格で購入できるチャンスとなっています。"
     },
     {
       "id": "e0b6957782647d147c06",
@@ -44,9 +102,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more",
-      "summaryJa": "We are ready to touch down for your 9to5Toys Lunch Break weekend edition. This time around our deals are landing alongside truck loads of price drops from the Amazon 2026 Labor Day sale, as well as the ongoing $50 discount on AirPods Pro 3 and the all-time low on AirTag 2 at $20 a pop. Some other highlights include Amazon’s best prices ever on iPhone 17 Pro at up to $290 off the new list prices and the very first discounts on Apple’s brand new M6 and M5 Pro Mac mini. Check it all out below – you’ll also find loads of deals on accessories, chargers, and smart home gear. We are ready to touch down for your 9to5Toys Lunch Break weekend edition. This time around our deals are landing alongside truck loads of price drops from the Amazon 2026 Labor Day sale, as well as the ongoing $50 discount o",
-      "translationStatus": "source"
+      "titleJa": "AmazonセールでApple製品が続々とお買い得価格に",
+      "summaryJa": "労働者の日を記念した大規模なセールがAmazonで開催されており、新製品のMac miniやAirTag 2、AirPods Pro 3などが割引価格で販売されています。iPhone 17 Proも過去最大級の割引対象となっており、各種アクセサリやスマートホーム製品も含めて多くのApple製品をお得に入手できる機会となっています。"
     },
     {
       "id": "498b757444b7a520bc7c",
@@ -60,9 +117,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon",
-      "summaryJa": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . Virtualization on macOS has become rock-solid in the Apple Silicon era. Parallels Desktop 27 pushes that further with a new Metal-based graphics driver, OpenGL 4.3 support for Windows virtual machines on Apple silicon, faster local AI workloads, and a host of enterprise features aimed a",
-      "translationStatus": "source"
+      "titleJa": "Parallels Desktop 27がAppleシリコン向けに登場",
+      "summaryJa": "Appleシリコン搭載Mac向けに最適化されたParallels Desktop 27がリリースされ、新しいMetalベースのグラフィックスドライバーやOpenGL 4.3のサポートが追加されました。これにより、Windows仮想環境でのローカルAI処理の高速化やグラフィックス性能の向上が実現し、企業のIT管理者向け機能も強化されています。"
     },
     {
       "id": "aa1b176034584a141938",
@@ -4450,69 +4506,9 @@
       ],
       "titleJa": "Apple、AirPods向けに新ベータファームウェアを配信",
       "summaryJa": "Appleは開発者およびパブリックベータテスター向けに、AirPods向けの新しいベータファームウェアをリリースしました。対象となるのはH2チップを搭載したAirPods Pro 3などのモデルで、ビルド番号は9A5347aとなっています。来月に予定されているOSの大型アップデートを見据え、新機能への対応や準備を進めている段階です。"
-    },
-    {
-      "id": "2c938c5f3519e558e284",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AirPods 4 vs AirPods Pro 3: Which should you buy in 2026?",
-      "url": "https://9to5mac.com/2026/08/20/airpods-4-vs-airpods-pro-3-which-should-you-buy-in-2026/",
-      "publishedAt": "2026-08-20T18:28:27.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-noise-cancellation-anc.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirPods 4とAirPods Pro 3の選び方ガイド",
-      "summaryJa": "オープン型で快適な装着感と手頃さを重視したAirPods 4と、優れたノイズキャンセリングや心拍数測定機能を備えた多機能なAirPods Pro 3の特徴を比較しています。装着感や予算、必要な機能に合わせて選ぶのがポイントですが、将来的にカメラ搭載モデルの登場を待つという選択肢もあるかもしれません。"
-    },
-    {
-      "id": "0df5a8a22ad3f3e7f9d3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple, Where is CarPlay Ultra?",
-      "url": "https://www.macrumors.com/2026/08/20/apple-where-is-carplay-ultra/",
-      "publishedAt": "2026-08-20T18:25:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/02/Aston-Martin-CarPlay-Ultra-Screen.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "次世代車載システム「CarPlay Ultra」の展開状況",
-      "summaryJa": "Appleが提供を開始した次世代の車載システム「CarPlay Ultra」は、発表から1年以上が経過した現在もアストンマーティンの一部高級車でのみ利用可能な状態が続いています。当初はヒュンダイやキアなど多くの自動車ブランドが対応を予定していましたが、今のところ大規模な普及には至っていません。今後は主要メーカーの新型車へ導入されるとの見方も報じられています。"
-    },
-    {
-      "id": "974c5de07e69064d4463",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AirPods with camera leak, iOS 27 beta 6, iPhone 18 Pro cases",
-      "url": "https://9to5mac.com/2026/08/20/happy-hour-604/",
-      "publishedAt": "2026-08-20T18:00:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2018/04/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "カメラ付きAirPodsの噂やiOS 27ベータ版の話題",
-      "summaryJa": "カメラを搭載した次世代AirPodsのデモ動画や、iOS 27ベータ6の変更点、Siri AIの利用体験についてポッドキャストで語られています。また、iPhone 18 Proのケース互換性の噂や、画面付きHomePodに関するリーク情報についても言及されています。"
-    },
-    {
-      "id": "8dec85db61789f2aa4d2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "ChatGPT update adds Apple Messages integration on Mac",
-      "url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/",
-      "publishedAt": "2026-08-20T17:59:38.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/chatgpt-messages.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Mac向けChatGPTがAppleのメッセージ統合に対応",
-      "summaryJa": "Mac向けのChatGPT最新アップデートにより、Appleのメッセージアプリとの連携機能が追加されました。iMessageやSMSなどの会話を読み取って検索したり、メッセージの作成や送信を行ったりすることが可能です。プライバシー保護の観点から、送信時は原則としてユーザーの承認が必要となります。"
     }
   ],
-  "updatedAt": "2026-08-29T15:09:36.618Z",
+  "updatedAt": "2026-08-29T18:31:44.125Z",
   "initialized": true,
   "summaryVersion": 4
 }
