@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "699bae8414e2c9f1a019",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Card keeps getting better, here’s everything new",
+      "url": "https://9to5mac.com/2026/08/29/apple-card-keeps-getting-better-heres-everything-new/",
+      "publishedAt": "2026-08-29T23:18:38.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-card-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Cardの新機能と最新の特典情報まとめ",
+      "summaryJa": "Apple Cardにウォレットアプリでの定期的な取引管理機能などの新しい機能や特典が追加されました。旅行者向けのBooking.comとの提携による上級ステータスの付与や、Hertzでの優待など、ユーザーの利便性を高める様々なアップデートが提供されています。"
+    },
+    {
+      "id": "fe2ce5ff009b8a4968af",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Will Apple’s ‘revamped’ Health app with AI health coach debut next month?",
+      "url": "https://9to5mac.com/2026/08/29/apple-health-revamp-ai-coach-new-apple-watch-next-month/",
+      "publishedAt": "2026-08-29T21:38:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-health.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AIヘルスコーチ機能を含むHealthアプリの刷新は来月登場するか",
+      "summaryJa": "当初予定から延期されているAppleのHealthアプリの大規模な刷新とAI機能が、来月の新ハードウェア発表に合わせて登場するのではないかと報じられています。過去の事例では秋のイベントで新機能が発表されることが多く、今後の動向が注目されています。"
+    },
+    {
       "id": "37a254c95a6be679c79d",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4476,39 +4506,9 @@
       ],
       "titleJa": "WhatsApp、iOS版アプリでLiquid Glassデザインの適用範囲を拡大か",
       "summaryJa": "WhatsAppがiOS版アプリのベータ版において、新しい「Liquid Glass」デザインをさらに多くのインターフェイス要素へ拡充していると報じられています。今回の変更により、描画エディターや動画プレイヤーのプログレスバーなどが新しいデザインに準拠する予定です。Metaは同社のビジュアル言語を各プラットフォームへ統合する取り組みを進めています。"
-    },
-    {
-      "id": "499c5edd417f55e0c418",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Music will soon get visible labels for AI-generated content",
-      "url": "https://9to5mac.com/2026/08/20/apple-music-will-soon-get-visible-labels-for-ai-generated-content/",
-      "publishedAt": "2026-08-20T20:08:57.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Apple-Music-iOS-26-icon.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Music、AI生成コンテンツに明確なラベル表示を義務化へ",
-      "summaryJa": "Appleは、Apple MusicにおけるAI生成コンテンツの透明性を高めるため、今后プラットフォーム上で「Made With AI」ラベルをユーザー向けに表示することをクリエイター向けに通知しました。AIが主要な部分の作成に関与したトラックやアートワークなどが対象となります。ストリーミング各社がAI楽曲の増加に対する対応を進める中での新たな施策となります。"
-    },
-    {
-      "id": "36ad811900b2ef44a656",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases New AirPods Beta Firmware With iOS 27 Features",
-      "url": "https://www.macrumors.com/2026/08/20/airpods-beta-firmware-9a5347a/",
-      "publishedAt": "2026-08-20T19:10:34.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/06/AirPods-Pro-Beta-Firmware-2.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iOS 27の新機能に対応したAirPodsベータファームウェアを公開",
-      "summaryJa": "Appleはデベロッパーおよびパブリックベータテスター向けに、AirPods ProやAirPods Maxなどの新ベータファームウェアをリリースしました。次期OSであるiOS 27などで導入される新しいAirPodsインターフェイスや、アダプティブモードの専用スライダー、カスタムEQのサポートなどが追加されています。対象デバイスの接続設定からベータアップデートを有効にすることでインストールが行われます。"
     }
   ],
-  "updatedAt": "2026-08-29T21:09:51.370Z",
+  "updatedAt": "2026-08-29T23:21:14.048Z",
   "initialized": true,
   "summaryVersion": 4
 }
