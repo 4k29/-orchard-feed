@@ -1,6 +1,111 @@
 {
   "articles": [
     {
+      "id": "0dedaa8201432f334a46",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s next iPad mini is almost ready, here’s what to expect",
+      "url": "https://9to5mac.com/2026/08/30/apples-next-ipad-mini-is-almost-here-heres-what-to-expect/",
+      "publishedAt": "2026-08-30T16:54:54.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ipad-mini-6-jb.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "次期iPad miniは10月発売か、OLED搭載や高速化の噂",
+      "summaryJa": "ブルームバーグのマーク・ガーマン記者のニュースレターによると、OLEDディスプレイを搭載した次期iPad miniが10月末までに発売される見込みです。新型モデルには、A19 ProまたはA20 Proチップによるパフォーマンス向上、再設計された筐体による防水性能の強化、新しい振動ベースのスピーカーシステムなどが期待されています。"
+    },
+    {
+      "id": "c9d53908b58b5c2b67af",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "publishedAt": "2026-08-30T15:52:05.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Mac miniとMac Studioの異例の早期発表、AI需要が背景か",
+      "summaryJa": "Appleが今週、Mac miniとMac Studioの新型モデルを異例のタイミングで発表した背景には、企業におけるAIハードウェアの強い需要があったと報じられています。巨大なAIモデルを動かすための強力なデスクトップMacを求める法人の動きが予想以上に強く、世界的なメモリ不足も相まって品薄状態が続いています。"
+    },
+    {
+      "id": "f73d61ded18fedc9d7d5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Apple Watch Series 12 and Apple Watch Ultra 4 Features Revealed",
+      "url": "https://www.macrumors.com/2026/08/30/apple-watch-series-12-ultra-4-features/",
+      "publishedAt": "2026-08-30T14:54:09.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/05/Apple-Watch-Ultra-2-Black-Titanium.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 12の機能が浮上、セラミック製ケースか",
+      "summaryJa": "ブルームバーグのマーク・ガーマン記者が、9月9日に発表予定のApple Watch Series 12やApple Watch Ultra 4に関する予想を明かしました。今年は大幅なデザイン変更はないものの、Series 12ではセラミック製ケースのオプションが復活する可能性があり、パフォーマンスの向上や健康管理機能の強化が図られる見込みです。"
+    },
+    {
+      "id": "3734f825820632232f49",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple reportedly considered launching a new Apple Pencil for iPhone Ultra",
+      "url": "https://9to5mac.com/2026/08/30/iphone-ultra-apple-pencil-support-tested/",
+      "publishedAt": "2026-08-30T14:38:37.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、折りたたみiPhone向けApple Pencilを検討したか",
+      "summaryJa": "Appleが開発中の折りたたみ式iPhoneであるiPhone Ultra向けに、専用のApple Pencilの投入を検討していたと報じられています。現行のiPad用とは異なり、短めのサイズで側面への磁気吸着や充電に対応する設計がテストされたものの、ディスプレイへの影響や使い勝手の面から、実際に市場に投入される可能性は低いとみられています。"
+    },
+    {
+      "id": "20730b8c2e6a2e3d2076",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Pencil for iPhone Ultra Was Tested",
+      "url": "https://www.macrumors.com/2026/08/30/apple-pencil-for-iphone-ultra-was-tested/",
+      "publishedAt": "2026-08-30T14:27:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-Pencil-Pro-iPad-Pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみiPhone向けApple Pencilが内部テストされていたか",
+      "summaryJa": "Bloombergのマーク・ガーマン記者によると、Appleは開発中の折りたたみiPhone向けに、側面に磁気吸着して充電できる小型のApple Pencilを内部で試作・テストしていたと報じられています。ただし、このアクセサリが実際に製品としてリリースされる可能性は低いと見られています。同デバイスは「iPhone Ultra」という名称になるとの噂もあり、今年9月9日のイベントでの発表が予想されています。"
+    },
+    {
+      "id": "2558854c6ac604edc8cf",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: Apple Watch Series 12 may feature always-on heart-rate tracking, new Fitness app",
+      "url": "https://9to5mac.com/2026/08/30/apple-watch-series-12-last-minute-leaks-new-fitness-app-heart-rate/",
+      "publishedAt": "2026-08-30T14:27:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/07/apple-watch-heart-rate-app-watchos-10.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch Series 12に常時心拍数追跡機能が搭載か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者によると、AppleはApple Watch Series 12およびUltra 4向けに、常時心拍数の記録機能や新しいフィットネスアプリのデザインを準備していると伝えられています。ヘルスケアデータをより分かりやすく表示することで、健康志向のユーザーへの訴求力を高める狙いがあります。また、セラミック仕様モデルにはホワイトとダークグレーの2つの仕上げがテストされているようです。"
+    },
+    {
+      "id": "27b8861ee1131ff35362",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Beyond iPhone 18 Pro: AirPods 5 in September, iPad Mini With OLED Display in October",
+      "url": "https://www.macrumors.com/2026/08/30/iphone-18-pro-airpods-5-ipad-mini-oled/",
+      "publishedAt": "2026-08-30T14:25:52.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/airpods-4-new-new-orange.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "9月にAirPods 5、10月にOLED搭載iPad miniが登場か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者がニュースレターで伝えたところによると、Appleは9月9日のイベントでiPhone 18 Proシリーズや折りたたみiPhone、Apple Watch Series 12などとともに、AirPods 5を早ければ9月にも発売する見込みです。さらに、有機EL（OLED）ディスプレイを搭載した新しいiPad miniが10月末までに登場すると予想されています。"
+    },
+    {
       "id": "e0b6957782647d147c06",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4401,114 +4506,9 @@
       ],
       "titleJa": "9to5Mac Dailyの最新エピソード概要",
       "summaryJa": "日々の主要なApple関連ニュースを振り返る9to5Mac Dailyのポッドキャストです。今回は、HomePadのコードに関する情報やApple Watch Series 12のデザイン素材についての噂、カメラ搭載AirPodsの発売時期に関する話題などが取り上げられています。番組はApple Podcastsなどの各種プラットフォームで配信されています。"
-    },
-    {
-      "id": "cc1fe01878d7cd1b1606",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Camera AirPods Code Reveals Image Capture Resolution, Status Light, Person Detection, and More",
-      "url": "https://www.macrumors.com/2026/08/21/camera-airpods-code-reveals-hardware-details/",
-      "publishedAt": "2026-08-21T09:32:05.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/airpods-pro-3-orange.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "カメラ搭載AirPodsのコードから解像度や機能が判明か",
-      "summaryJa": "Appleが開発中と噂されるカメラ搭載AirPodsに関する詳細な情報が、macOSのコードから新たに発見されました。左右のイヤホンにそれぞれカメラセンサーが搭載され、Visual Intelligence機能のために最大1メガピクセルの静止画を同期してキャプチャする仕組みになっていると伝えられています。アクティブモードとパッシブモードで異なる解像度が使い分けられ、背景環境の認識などに活用される可能性があります。"
-    },
-    {
-      "id": "118c853199dc92780d47",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "‘The Dynasty: UConn Huskies’ now available to stream on Apple TV",
-      "url": "https://9to5mac.com/2026/08/20/the-dynasty-uconn-huskies-now-available-to-stream-on-apple-tv/",
-      "publishedAt": "2026-08-21T01:00:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/dynasty-huskies.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、UCT大学バスケットボールを描くドキュメンタリーを配信開始",
-      "summaryJa": "Apple TVは、全米大学バスケットボールの強豪として知られるコネチカット大学女子バスケットボールチームの歴史を追った3部作のドキュメンタリー番組『The Dynasty: UConn Huskies』の配信を開始しました。本作では、数世代にわたるコーチや選手、関係者への独占インタビューや未公開のアーカイブ映像を通じて、圧倒的な強さを誇るプログラムの裏側にあるプレッシャーや厳格な文化に迫ります。Apple TVの豊富なスポーツコンテンツのラインナップに新たに加わります。"
-    },
-    {
-      "id": "dd51aa985c5859477d9a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Dark Cherry and More: Every iPhone 18 Pro and iPhone Ultra Color Rumor",
-      "url": "https://www.macrumors.com/guide/iphone-18-pro-ultra-colors/",
-      "publishedAt": "2026-08-21T00:33:41.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/iPhone-18-Pro-Rumored-Colors.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "次期iPhone 18 Proの新色に関する噂が浮上",
-      "summaryJa": "次期iPhone 18 ProおよびPro Maxモデルの新色について、赤と紫の中間に位置する「ダークチェリー」などのカラーオプションが採用される可能性が報じられています。これまでの鮮やかなオレンジ系から、より深みのある落ち着いた色合いへと変更される見通しです。正確な色味は照明条件によって異なり、シルバー、ダークグレー、ライトブルーとともに展開されると伝えられています。"
-    },
-    {
-      "id": "aced013a38983e01564e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Music to Label AI-Generated Songs",
-      "url": "https://www.macrumors.com/2026/08/20/apple-music-to-label-ai-generated-songs/",
-      "publishedAt": "2026-08-20T23:41:33.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/08/apple-music.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Music、AI生成楽曲に専用ラベルを表示へ",
-      "summaryJa": "Appleは音楽業界パートナーに対し、Apple Music上でAIによって生成されたコンテンツに「Made With AI」ラベルを今年後半から付与すると通知しました。AIプラットフォームで生成された楽曲などの主要な部分にAIが使用された場合に表示が義務付けられます。月間アップロードの3分の1以上がAIによるものとするデータもあるなか、クリエイター自身の申告を基に導入が進められる予定です。"
-    },
-    {
-      "id": "14672fb3831b70ee30c4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "ChatGPT Can Now Read and Send iMessages on Mac",
-      "url": "https://www.macrumors.com/2026/08/20/chatgpt-imessages-mac/",
-      "publishedAt": "2026-08-20T23:12:55.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/01/General-Apps-Messages-Redux.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Mac版ChatGPTがiMessageの読み書きに対応か",
-      "summaryJa": "OpenAIがMac用のChatGPT向けに新しいAppleメッセージプラグインを発表しました。これにより、ChatGPTはMac上でメッセージの検索や下書き、会話の分析、返信の送信ができるようになります。Appleシリコンを搭載したMacのChatGPT WorkおよびCodexのデスクトップ版で利用可能ですが、フルディスクアクセスなどの権限が必要となります。"
-    },
-    {
-      "id": "26f57b65e2b429f1177e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple reportedly lays off 60 Vision employees amid shifting priorities",
-      "url": "https://9to5mac.com/2026/08/20/apple-reportedly-lays-off-60-vision-employees-amid-shifting-priorities/",
-      "publishedAt": "2026-08-20T22:47:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus-apple-vision-pro.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、VR開発チームの縮小で60人以上を解雇か",
-      "summaryJa": "AppleがVR開発に特化したチームを解雇し、少なくとも60人の従業員が影響を受けたと報じられています。AppleはビジョンOSや空間コンピューティングの野望に引き続き取り組む姿勢を見せていますが、組織の再編が進められている模様です。"
-    },
-    {
-      "id": "874e41cd8a9da1aed270",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple bucks downward trend as reports show global smartphone shipment and sales declines",
-      "url": "https://9to5mac.com/2026/08/20/apple-bucks-downward-trend-as-reports-show-global-smartphone-shipment-and-sales-declines/",
-      "publishedAt": "2026-08-20T21:45:29.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-17-pro-and-max.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "世界的なスマートフォン市場の低迷下でAppleが成長を維持",
-      "summaryJa": "調査会社カウンターポイント・リサーチのデータにより、ヨーロッパや中国、インドなどの世界的なスマートフォン市場で出荷台数や販売が減少していることが明らかになりました。メモリ不足や価格上昇が需要に影響を与えている一方で、Appleは各地域で堅調なシェア拡大や前年比での売上増加を記録し、市場全体の下降トレンドに逆行する形となっています。"
     }
   ],
-  "updatedAt": "2026-08-30T12:49:28.694Z",
+  "updatedAt": "2026-08-30T17:02:46.760Z",
   "initialized": true,
   "summaryVersion": 4
 }
