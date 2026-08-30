@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "998859cb938ebde57312",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple CarPlay just added a major weather app",
+      "url": "https://9to5mac.com/2026/08/30/apple-carplay-just-added-a-major-weather-app/",
+      "publishedAt": "2026-08-30T19:57:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/storm-radar-carplay-app.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone用「Storm Radar」がCarPlayに対応",
+      "summaryJa": "The Weather Channelの天気アプリ「Storm Radar」のiPhone版がアップデートされ、新たにCarPlayに対応しました。車載ディスプレイ上で現在地の気象状況や衛星ビュー、レーダーマップなどを確認できるほか、移動中の経路に合わせた天気アラートや到着予定時刻の表示機能も備えています。"
+    },
+    {
       "id": "0dedaa8201432f334a46",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4491,24 +4506,9 @@
       ],
       "titleJa": "Apple、Vision製品グループで約60人の従業員を解雇か",
       "summaryJa": "AppleがVR開発チームの従業員少なくとも60人を解雇したと報じられています。Vision Proの低調な販売を受けてチームが再編成され、次世代モデルの開発中止やスマートグラスへの移行が進んでいる模様です。アナリストは新たなヘッドセットの投入は早くても2028年後半になると予想しています。"
-    },
-    {
-      "id": "459aaa5af8f94624a3c6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 21, 2026 – AirPods with cameras, more",
-      "url": "https://9to5mac.com/2026/08/21/daily-august-21-2026/",
-      "publishedAt": "2026-08-21T11:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "9to5Mac Dailyの最新エピソード概要",
-      "summaryJa": "日々の主要なApple関連ニュースを振り返る9to5Mac Dailyのポッドキャストです。今回は、HomePadのコードに関する情報やApple Watch Series 12のデザイン素材についての噂、カメラ搭載AirPodsの発売時期に関する話題などが取り上げられています。番組はApple Podcastsなどの各種プラットフォームで配信されています。"
     }
   ],
-  "updatedAt": "2026-08-30T19:47:36.067Z",
+  "updatedAt": "2026-08-30T22:12:30.443Z",
   "initialized": true,
   "summaryVersion": 4
 }
