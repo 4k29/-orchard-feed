@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "e0b6957782647d147c06",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more [Updated]",
+      "url": "https://9to5mac.com/2026/08/30/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/",
+      "publishedAt": "2026-08-30T12:15:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-weekend-deals-late-August-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AmazonセールでApple製品が特価に、M6 Mac miniやAirPods Pro 3など",
+      "summaryJa": "Amazonの労働者の日セールなどの開催に伴い、多くのApple製品が特別価格で販売されています。AirPods Pro 3の割引やAirTag 2の最安値更新に加え、最新のM6およびM5 Pro搭載Mac miniも初めての割引対象となっています。各種アクセサリや充電器なども含め、幅広い製品がセール価格で展開されています。"
+    },
+    {
       "id": "699bae8414e2c9f1a019",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4491,24 +4506,9 @@
       ],
       "titleJa": "世界的なスマートフォン市場の低迷下でAppleが成長を維持",
       "summaryJa": "調査会社カウンターポイント・リサーチのデータにより、ヨーロッパや中国、インドなどの世界的なスマートフォン市場で出荷台数や販売が減少していることが明らかになりました。メモリ不足や価格上昇が需要に影響を与えている一方で、Appleは各地域で堅調なシェア拡大や前年比での売上増加を記録し、市場全体の下降トレンドに逆行する形となっています。"
-    },
-    {
-      "id": "28d7e3334bac6d9edf17",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp is working on even more Liquid Glass interface changes on iOS",
-      "url": "https://9to5mac.com/2026/08/20/whatsapp-is-working-on-even-more-liquid-glass-interface-changes-on-ios/",
-      "publishedAt": "2026-08-20T20:55:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/whatsapp-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp、iOS版アプリでLiquid Glassデザインの適用範囲を拡大か",
-      "summaryJa": "WhatsAppがiOS版アプリのベータ版において、新しい「Liquid Glass」デザインをさらに多くのインターフェイス要素へ拡充していると報じられています。今回の変更により、描画エディターや動画プレイヤーのプログレスバーなどが新しいデザインに準拠する予定です。Metaは同社のビジュアル言語を各プラットフォームへ統合する取り組みを進めています。"
     }
   ],
-  "updatedAt": "2026-08-30T07:03:42.832Z",
+  "updatedAt": "2026-08-30T12:49:28.694Z",
   "initialized": true,
   "summaryVersion": 4
 }
