@@ -1,6 +1,126 @@
 {
   "articles": [
     {
+      "id": "d02cdd539399936c6519",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Today is Tim Cook’s last day as Apple CEO, John Ternus takes over tomorrow",
+      "url": "https://9to5mac.com/2026/08/31/tim-cook-last-day-john-ternus-apple-ceo/",
+      "publishedAt": "2026-08-31T13:52:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/john-ternus-tim-cook-ceo-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ティム・クックがCEOを退任、後任にはジョン・ターナスが就任へ",
+      "summaryJa": "15年間にわたりAppleを率いてきたティム・クックがCEOを退任する最後の日を迎え、翌日からはハードウェアエンジニアリング担当のジョン・ターナスが新CEOに就任します。クックは今後、取締役会のエグゼクティブ・チェアマンに就任し、米国政府や中国政府との関係構築を引き続き担当する予定です。Apple Parkでは先週、クックの送別ディナーが開催され、多くの関係者からこれまでの功績を称える声が寄せられました。"
+    },
+    {
+      "id": "b1f384eff809849066b9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple pundits say Vision Pro is by far the best way to watch baseball",
+      "url": "https://9to5mac.com/2026/08/31/apple-pundits-say-vision-pro-is-by-far-the-best-way-to-watch-baseball/",
+      "publishedAt": "2026-08-31T13:51:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-pundits-say-Vision-Pro-is-the-best-way-to-watch-baseball.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Vision Proでの野球観戦が最高体験と専門家が評価",
+      "summaryJa": "Appleの「Friday Night Baseball」による没入感あふれる映像体験を経て、多くの識者やネットユーザーの間で、Vision Proが野球観戦に最適なデバイスであるという評価が広がっています。180度の視野を持つ8Kの3D映像によるライブ中継は、まるで実際の球場にいるかのような圧倒的な臨場感をもたらしました。高価でまだ普及途上のデバイスではあるものの、その圧倒的なライブ体験の価値は高く評価されています。"
+    },
+    {
+      "id": "3a69def3b4a87569c518",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Google Maps Showing 'Lake America' in U.S., Apple Maps Yet to Follow",
+      "url": "https://www.macrumors.com/2026/08/31/google-maps-lake-america/",
+      "publishedAt": "2026-08-31T13:33:16.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-Maps-Google-Maps-Icons.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Googleマップが「レイク・アメリカ」表記に変更、Appleマップは未対応",
+      "summaryJa": "米国の地理名情報システム（GNIS）の更新を受け、Googleマップの米国ユーザー向け表示でオンタリオ湖の名称が「レイク・アメリカ」に変更されました。この変更はカナダ国内では適用されず、米国以外の地域では両方の名称が表示されます。一方、Appleマップでは従来の「オンタリオ湖」のままとなっており、今後の対応に注目が集まっています。"
+    },
+    {
+      "id": "91251410f0caa232a224",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Tim Cook Steps Down as Apple CEO Tomorrow",
+      "url": "https://www.macrumors.com/2026/08/31/tim-cook-steps-down-as-apple-ceo-tomorrow/",
+      "publishedAt": "2026-08-31T12:42:47.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Tim-Cook-Apple-Logo.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "ティム・クックが15年の任期を終えてAppleのCEOを退任",
+      "summaryJa": "2011年から15年間にわたりAppleのCEOを務めてきたティム・クックが、9月1日付でその職を退くことになりました。後任にはハードウェアエンジニアリング責任者のジョン・ターナスが就任し、クックは取締役会のエグゼクティブ・チェアマンとして世界中の政策立案者との対話などをサポートします。クックの指導のもと、Appleは数々の革新的な製品やサービスを世に送り出し、強固な財務基盤を築き上げてきました。"
+    },
+    {
+      "id": "41d9c72b354cf04eaa85",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Maps still shows Lake Ontario as Google Maps changes name",
+      "url": "https://9to5mac.com/2026/08/31/apple-maps-still-shows-lake-ontario-as-google-maps-changes-name/",
+      "publishedAt": "2026-08-31T12:20:27.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-Maps-still-shows-Lake-Ontario-as-Google-Maps-changes-name.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Maps、オンタリオ湖の名称変更に追随せず従来のまま維持",
+      "summaryJa": "米国の政権によるオンタリオ湖の名称変更命令に対し、Googleマップは地域に応じて名称を更新した一方で、Apple Mapsはこれまでのところ実際の名称を維持し続けています。政治的な騒動を避けてきたAppleが今後どのように対応するのか注目されています。"
+    },
+    {
+      "id": "6d2ccfacf0b8f3e9c7a0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "CarPlay keeps getting better with three recent exciting app updates",
+      "url": "https://9to5mac.com/2026/08/31/carplay-keeps-getting-better-with-three-recent-exciting-app-updates/",
+      "publishedAt": "2026-08-31T12:11:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/carplay-ios-26-liquid-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "CarPlay対応アプリが拡充、MLBやMeta AIなどが登場",
+      "summaryJa": "9月のiOS 27リリースを控える中、CarPlay向けの人気アプリが8月に相次いでアップデートされました。MLBアプリが試合の音声配信やスコア表示に対応したほか、Meta AIのチャットボットや天気アプリ「Storm Radar」が新たに追加され、車内での利便性がさらに向上しています。"
+    },
+    {
+      "id": "6f55a904831b0ed0cd7c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Unusual timing of Mac mini and Mac Studio updates all about AI, claims report",
+      "url": "https://9to5mac.com/2026/08/31/unusual-timing-of-mac-mini-and-mac-studio-updates-all-about-ai-claims-report/",
+      "publishedAt": "2026-08-31T11:50:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Unusual-timing-of-Mac-mini-and-Mac-Studio-updates-all-about-AI-claims-report.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Mac miniとMac Studioの異例な前倒し発表はAI需要が背景か",
+      "summaryJa": "Appleが9月のイベントの直前にMac miniとMac Studioをひそかに発表した理由について、AI用途での需要が予想以上に高まったためだとする報道が登場しました。ローカル環境でAIモデルを実行するユーザーが増加しており、構成によっては数カ月待ちになるほどの高い人気が背景にあると伝えられています。"
+    },
+    {
+      "id": "8846de7f636168995cea",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s the likely reason the iPhone Ultra isn’t getting an Apple Pencil",
+      "url": "https://9to5mac.com/2026/08/31/heres-the-likely-reason-the-iphone-ultra-isnt-getting-an-apple-pencil/",
+      "publishedAt": "2026-08-31T11:06:32.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Heres-the-likely-reason-the-iPhone-Ultra-isnt-getting-an-Apple-Pencil.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone Ultra向けApple Pencilが見送られた3つの理由",
+      "summaryJa": "Appleが次期iPhone Ultra向けに専用のApple Pencilの検討を見送った理由について、ブルームバーグが3つの要因を挙げて報じました。持ちやすさへの懸念やスティーブ・ジョブズの哲学への抵触、ディスプレイへの影響などが背景にあるとされていますが、実際の決定打は別のところにあった可能性も指摘されています。"
+    },
+    {
       "id": "998859cb938ebde57312",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4386,129 +4506,9 @@
       ],
       "titleJa": "iPhone 18 Proの進化点、カメラと独自モデムの噂",
       "summaryJa": "来月発表と噂されるiPhone 18 Proについて、従来モデルとの大きな差別化ポイントに関する情報が伝えられています。メインカメラには大型化に伴う厚みの増加や大幅なハードウェア強化が予定されているほか、自社設計の「C2」モデムへの移行によりバッテリー効率や信頼性の向上が見込まれています。"
-    },
-    {
-      "id": "38cbafd3c024b8ffd079",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Biggest Summer Deals Drop: AirPods Max 2 Plummet to $429, M4 iPad Air $100 Off",
-      "url": "https://www.macrumors.com/2026/08/21/best-apple-deals-of-the-week-8-21-26/",
-      "publishedAt": "2026-08-21T14:23:42.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/02/Best-Apple-Deals-Feature-0007-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AmazonなどでAirPods MaxやM4 iPad Airがセールに",
-      "summaryJa": "ベストバイの記念セールやAmazonなどの各種割引により、Apple製品や関連アクセサリーが特別価格で販売されています。AirPods Max 2やM4 iPad Airなどが対象となり、今夏で最も手頃な価格で購入できるチャンスとなっています。"
-    },
-    {
-      "id": "fe11105e875738eab56b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Walmart to Begin Accepting Apple Pay in U.S. Stores",
-      "url": "https://www.macrumors.com/2026/08/21/walmart-to-begin-accepting-apple-pay-in-us/",
-      "publishedAt": "2026-08-21T14:12:47.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/01/Apple-Pay-Walmart-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "ウォルマート、米国店舗でApple Payの導入を順次開始へ",
-      "summaryJa": "米小売大手ウォルマートは、8月24日から一部の店舗でApple Payなどのタッチ決済への対応を開始すると発表しました。これまで独自決済システムを優先していましたが、顧客の要望に応える形で対応を進め、2026年末までに全米の全店舗へ拡大する予定です。"
-    },
-    {
-      "id": "23e0c1c71aface021468",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "John Ternus as CEO could bring ‘bigger acquisitions,’ new product categories: analyst",
-      "url": "https://9to5mac.com/2026/08/21/john-ternus-as-ceo-could-bring-bigger-acquisitions-new-product-categories-analyst/",
-      "publishedAt": "2026-08-21T14:05:36.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/m4-macbook-pro-video-event.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "次期CEO就任のジョン・テラス氏、より大胆な買収や新製品を模索か",
-      "summaryJa": "バンク・オブ・アメリカのアナリストによると、9月1日にAppleの最高経営責任者に就任予定のジョン・テラス氏は、ティム・クック氏の路線を継承しつつも、よりリスクを取った経営を行う可能性があると報じられています。AIグラスやスマートリングなどの新カテゴリー参入や、積極的な研究開発および企業買収が期待されています。"
-    },
-    {
-      "id": "a512f179499f49f98ea8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Walmart finally launching Apple Pay support next week",
-      "url": "https://9to5mac.com/2026/08/21/walmart-finally-launching-apple-pay-support-next-week/",
-      "publishedAt": "2026-08-21T13:56:25.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/05/Apple-Pay-walmart@0.5x.jpg?quality=82&#038;strip=all&#038;w=1400",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ウォルマート、来週からApple Payに対応へ",
-      "summaryJa": "米ウォルマートは、長年の消費者からの要望を受けて、来週からApple Payを含むタッチ決済への対応を順次開始すると発表しました。8月24日から一部の店舗やサムズ・クラブで導入され、今年末までには米国の全店舗へ拡大される予定です。これまで独自システムを優先して導入を見送ってきた同社の対応変更は、利用者にとって大きな朗報となります。"
-    },
-    {
-      "id": "876eb5a1aea95c49844d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Paid $17 Billion in Taxes to Ireland Last Year",
-      "url": "https://www.macrumors.com/2026/08/21/apple-paid-17-billion-in-taxes-to-ireland/",
-      "publishedAt": "2026-08-21T13:46:01.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2022/01/Apple-Logo-Cash-Feature-Mint.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、アイルランドへ昨年度170億ドルの税金を納付",
-      "summaryJa": "Appleが昨年、アイルランドに対して170億ドルの税金を支払っていたことが明らかになりました。これは同社の全世界での総納税額の40%を占める規模です。EUの新たな国別財務報告規則に基づいて初めて開示されたもので、2024年に最高裁判所が命じた未払い分の追徴課税が含まれています。"
-    },
-    {
-      "id": "81e0ed509426b6ed8e91",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Smartphone Sales Are Falling Worldwide, But Apple Keeps Growing",
-      "url": "https://www.macrumors.com/2026/08/21/smartphone-sales-falling-but-apple-grows/",
-      "publishedAt": "2026-08-21T13:38:47.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iPhone-17-17-Pro-and-Air-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "世界的なスマホ市場の低迷下でもAppleは成長を維持",
-      "summaryJa": "調査会社のデータにより、インドやラテンアメリカ、ヨーロッパなどのスマートフォン市場が縮小傾向にある中、Appleだけがシェアを伸ばしていることが分かりました。iPhoneの根強い需要や手頃な価格設定、部品コストの上昇を吸収する戦略などが功を奏しています。市場全体が落ち込む一方で、Appleはライバルを大きく引き離す健闘を見せています。"
-    },
-    {
-      "id": "04f2cb1df52e841df613",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "The camera I always have with me keeps paying dividends",
-      "url": "https://9to5mac.com/2026/08/21/the-camera-i-always-have-with-me-keeps-paying-dividends/",
-      "publishedAt": "2026-08-21T12:45:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/London-sunset-by-the-Thames.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhoneのカメラが映像制作で重宝される理由",
-      "summaryJa": "日常的に持ち歩くiPhoneのカメラは、子供の撮影やソーシャルイベントだけでなく、映像プロジェクトのBロール素材としても大いに役立っている。ロンドンの夕方に撮影した短尺クリップを実験的なシネマティックモードのプロジェクトに活用し、その利便性を実感した。AirDropを使えば、撮影した映像をその場で簡単にシェアできるメリットもある。"
-    },
-    {
-      "id": "da93e11afdf13049ce16",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Reportedly Lays Off 60 Vision Products Group Employees",
-      "url": "https://www.macrumors.com/2026/08/21/apple-lays-off-vision-products-employees/",
-      "publishedAt": "2026-08-21T11:28:57.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/10/Apple-Vision-Pro-Dual-Knit-Band.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、Vision製品グループで約60人の従業員を解雇か",
-      "summaryJa": "AppleがVR開発チームの従業員少なくとも60人を解雇したと報じられています。Vision Proの低調な販売を受けてチームが再編成され、次世代モデルの開発中止やスマートグラスへの移行が進んでいる模様です。アナリストは新たなヘッドセットの投入は早くても2028年後半になると予想しています。"
     }
   ],
-  "updatedAt": "2026-08-31T06:14:37.284Z",
+  "updatedAt": "2026-08-31T14:04:28.222Z",
   "initialized": true,
   "summaryVersion": 4
 }
