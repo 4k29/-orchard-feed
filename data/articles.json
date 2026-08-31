@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "2ff0c11f76362b7e1154",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Save up to $1600 on Roborock products, including the flagship Saros 20",
+      "url": "https://9to5mac.com/2026/08/31/save-1600-roborock-products-including-flagship-saros-20/",
+      "publishedAt": "2026-08-31T22:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Save-up-to-630-on-Roborock-products-including-the-flagship-Saros-20.jpg?quality=82&#038;strip=all&#038;w=1400",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Roborockが12周年セールを開催、最大1,600ドルの割引を実施",
+      "summaryJa": "ロボット掃除機メーカーのRoborockが創立12周年を記念し、フラッグシップモデルの「Saros 20」や各種製品を対象とした大規模な割引セールを9月6日まで開催しています。割引率は25%から50%以上に及び、最大で1,600ドルの大幅な節約となります。今回のセールでは、高度な自律ナビゲーションやAIを活用した賢い清掃機能を備えた最新の掃除機などが対象となっています。"
+    },
+    {
+      "id": "711307ecf789c17705dc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Codex report: Four months of building joy on my Mac with ChatGPT",
+      "url": "https://9to5mac.com/2026/08/31/codex-report-four-months-of-building-joy-on-my-mac-with-chatgpt/",
+      "publishedAt": "2026-08-31T22:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/codex_60df2b.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Mac版ChatGPTのCodexを活用した4ヶ月間の体験談",
+      "summaryJa": "ChatGPTのデスクトップアプリに統合されたOpenAIの「Codex」エージェント機能について、Macでの実際の活用体験が報じられています。非プログラマーの執筆者であっても、「Computer Use」プラグインの追加によって作業の効率化や新たな学びのシーズンがもたらされたと語られています。かつてAppleに買収されたWorkflowの系譜を継ぐこのAI機能は、Macでの作業スタイルを大きく変える存在として注目を集めています。"
+    },
+    {
+      "id": "3a274dab9aafd4c72728",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro: Three reasons you might want to upgrade from iPhone 17 Pro",
+      "url": "https://9to5mac.com/2026/08/31/iphone-18-pro-three-reasons-you-might-want-to-upgrade-from-iphone-17-pro/",
+      "publishedAt": "2026-08-31T20:21:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro、iPhone 17 Proからのアップグレードを検討すべき3つの理由",
+      "summaryJa": "まもなく発表されると予想される「iPhone 18 Pro」について、前モデルからの買い替えを検討したくなる3つの主要な特徴が報じられています。1つ目は省電力ディスプレイやA20 Proチップ、自社製モデムなどによるバッテリー寿命の大幅な向上です。2つ目は可変絞り機能の搭載などが噂される、近年で最大規模となるカメラハードウェアの進化があげられています。3つ目はデザインの小規模な刷新であり、多くのユーザーの関心を集めるポイントとなっています。"
+    },
+    {
+      "id": "699d244d96f78adfaf9b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple reveals ‘shocking evidence’ from ex-employee’s MacBook in OpenAI suit",
+      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+      "publishedAt": "2026-08-31T20:20:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、OpenAI訴訟で元従業員のMacBookから「衝撃的な証拠」を発見と主張",
+      "summaryJa": "Appleは、OpenAIを相手取った進行中の訴訟において、元従業員が使用していたMacBookの初期フォレンジック調査に基づく「衝撃的な証拠」を新たに提出しました。訴訟では、元シニアシステム電気エンジニアのチャン・リウ氏が機密の回路図をダウンロードし、OpenAIでの業務に使用していたことなどが主張されています。さらに、社内調査の発覚後に証拠隠滅の指示を出していた疑いなども指摘されており、迅速な証拠開示を強く求めています。"
+    },
+    {
       "id": "0d0e17a8a703adfbeda5",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -179,6 +239,126 @@
       ],
       "titleJa": "Apple、開発者向けにwatchOS 27ベータ8を配信開始",
       "summaryJa": "Appleは開発者向けにwatchOS 27のベータ8をリリースしました。このバージョンでは、対応するiPhoneと連携して動作する新しいSiri AIが導入され、情報の検索や自然な対話が可能になっています。さらに、Liquid Glassの視認性向上や、ワークアウト機能の強化、バッテリー効率の最適化なども行われています。"
+    },
+    {
+      "id": "20503edc3dd3fb4f73e7",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Phil Schiller Scales Back Role as John Ternus Era Begins",
+      "url": "https://www.macrumors.com/2026/08/31/phil-schiller-stepping-down-app-store/",
+      "publishedAt": "2026-08-31T16:54:47.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2020/08/applephilschiller.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "フィル・シラー、App Storeと製品イベントの統括を退任へ",
+      "summaryJa": "アップルフェローを務めるフィル・シラーが、App Storeおよび製品発表イベントの責任者から退くことが報じられました。今後は特定のプロジェクトに注力し、社内では引退に向けた段階的なステップと受け止められています。App Storeの運営はエディ・キュー率いるサービス部門へと移行される予定です。"
+    },
+    {
+      "id": "4ba020cb8d7575491f00",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Phil Schiller steps down from leading the App Store and Apple events",
+      "url": "https://9to5mac.com/2026/08/31/phil-schiller-steps-down-from-leading-the-app-store-and-apple-events/",
+      "publishedAt": "2026-08-31T16:54:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/Phil-Schiller-advances-to-apple-fellow_08042020_big.jpg.large_2x-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "アップル、App Storeおよびイベントの統括責任者を変更へ",
+      "summaryJa": "長年App Storeや製品発表イベントを率いてきたフィル・シラーがその役割から退き、App Storeの管轄がエディ・キュー率いるサービス部門へ移管されます。日々の運営はカーソン・オリバーが引き継ぎ、イベント運営はノラ・ワインスタインが担当します。シラーはアップルフェローとして今後も社内に留まります。"
+    },
+    {
+      "id": "2e15c3bbc25aa33f2df5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple could discontinue 10+ popular products next week",
+      "url": "https://9to5mac.com/2026/08/31/apple-could-discontinue-10-popular-products-next-week/",
+      "publishedAt": "2026-08-31T16:04:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-17-pro-and-max.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "アップル、来週のイベントに伴い10製品以上を販売終了か",
+      "summaryJa": "9月開催のスペシャルイベントに合わせて、複数の旧モデルiPhoneやApple Watchなどが販売終了になると報じられています。新型モデルの登場に伴う通常のラインナップ整理だけでなく、価格改定や新製品の投入スケジュールによっては従来の販売継続パターンが変わる可能性もあります。"
+    },
+    {
+      "id": "5d2aebe0198081a8d140",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Tim Cook Comments on His Final Day as Apple CEO",
+      "url": "https://www.macrumors.com/2026/08/31/tim-cook-messages-on-final-day-as-apple-ceo/",
+      "publishedAt": "2026-08-31T15:39:34.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/tim-cook-john-ternus-apple-ceo.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "ティム・クック、CEO最終日に従業員へ向けた感謝のメモを公開",
+      "summaryJa": "ティム・クックが最高経営責任者（CEO）としての最終日を迎えるにあたり、全従業員に向けて感謝のメッセージを送りました。後任にはハードウェアエンジニアリング担当のジョン・ターナスが就任します。クックは従業員の優れた文化と情熱を称え、リーダーとして過ごした日々を振り返りました。"
+    },
+    {
+      "id": "4d5cbd770c03b637ad95",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AirPods 5: Here’s what rumors say will launch next week",
+      "url": "https://9to5mac.com/2026/08/31/airpods-5-heres-what-rumors-say-will-launch-next-week/",
+      "publishedAt": "2026-08-31T15:28:54.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-5-mockup-single-4-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPods 5が来週のイベントで登場か、カメラ非搭載との報道",
+      "summaryJa": "Appleが来週開催するスペシャルイベントにおいて、新型のAirPods 5が発表されると報じられています。今回のモデルはアクティブノイズキャンセリングの有無による2種類が用意される見込みですが、噂されていたカメラ機能の搭載はまだ先になると伝えられています。"
+    },
+    {
+      "id": "d5120ded8a4e93a57a8d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Read Tim Cook’s full memo to Apple employees on his last day as CEO",
+      "url": "https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/",
+      "publishedAt": "2026-08-31T15:14:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/tim-cook-wwdc26-keynote-wave.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ティム・クックCEOが退任、社員へ送った最後の手紙を公開",
+      "summaryJa": "ティム・クックがAppleの最高経営責任者（CEO）としての最後の日を迎え、社内に向けた感動的なメッセージを公開しました。長年のサポートと社員の努力に対する深い感謝を述べるとともに、後任となるジョン・ターナスへの全幅の信頼を示しています。"
+    },
+    {
+      "id": "75d074fd9f391218a692",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: AirPods from $80, MagSafe Battery up to 60% off, AirTag 2 $20 each, Apple Pencil, more",
+      "url": "https://9to5mac.com/2026/08/31/deals-airpods-magsafe-battery-airtag-2-apple-pencil/",
+      "publishedAt": "2026-08-31T15:05:48.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-AirPods-Apple-Pencil-AirTag-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AmazonセールでAirTag 2やApple製品が大幅割引に",
+      "summaryJa": "Amazonのレイバーデイセールにおいて、AirTag 2や各種Apple製品が過去最安値圏で販売されています。AirTag 2の単体や4パックセットのほか、MagSafeバッテリーなどが大幅な割引価格で提供されており、一部の商品は在庫限りとなっています。"
+    },
+    {
+      "id": "4b4697ebefa686c6da0c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "MapQuest Tops App Store Charts After Refusing 'Lake America' Change",
+      "url": "https://www.macrumors.com/2026/08/31/mapquest-tops-app-store-charts/",
+      "publishedAt": "2026-08-31T14:49:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/MapQuest-Logo-2026.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "地図名称の変更を拒否したMapQuestがApp Storeで急上昇",
+      "summaryJa": "米大統領令による湖の名称変更要求を拒否した地図サービス「MapQuest」が、App Storeのランキングで急上昇しています。従来の名称を維持した対応が大きな話題を呼び、週末だけで数百万のダウンロードや記録的な利用急増につながりました。"
     },
     {
       "id": "d02cdd539399936c6519",
@@ -4326,189 +4506,9 @@
       ],
       "titleJa": "ChatGPTのiPhoneアプリに写真の添付が簡単になるショートカットが登場",
       "summaryJa": "OpenAIは、ChatGPTのiPhone向けアプリにおいて、最近の写真を手軽に添付できる新しいジェスチャーを追加しました。プロンプト入力ボックスの左側にある「+」ボタンを長押しするだけで、直近の4枚の写真が表示され、素早く選択して会話に利用できるようになります。この機能は、視覚的な検索ややり取りをよりスムーズにするための今週のアップデートの一環として提供されています。"
-    },
-    {
-      "id": "53edc10988b0cca9c322",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "10 Ways to Improve Your iPhone's Battery Life",
-      "url": "https://www.macrumors.com/guide/iphone-battery-life-10-tips/",
-      "publishedAt": "2026-08-21T22:53:10.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/08/iOS-26-Battery-Glass-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhoneのバッテリー持ちを改善する10の方法",
-      "summaryJa": "長時間の外出時にiPhoneのバッテリー消費を抑えるための10のヒントが紹介されています。適応型電力機能の活用や低電力モードの自動化、常時表示ディスプレイのオフなど、日常で役立つ具体的な節約術がまとめられています。"
-    },
-    {
-      "id": "efdf2ba7b8520e2c451f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Emmy-winning ‘Stillwater’ returns to Apple TV with five new episodes",
-      "url": "https://9to5mac.com/2026/08/21/emmy-winning-stillwater-returns-to-apple-tv-with-five-new-episodes/",
-      "publishedAt": "2026-08-21T21:53:41.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/stillwater-s5-panda.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、アニメ「スティルウォーター」シーズン5の配信を開始",
-      "summaryJa": "Apple TVの人気アニメシリーズ「スティルウォーター」のシーズン5となる全5話の配信が開始されました。マインドフルネスをテーマにしたこの作品は、賢いパンダが3人のきょうだいに日々の課題や感情への向き合い方を教える物語です。これまでにピーボディ賞やデイリータイム・エミー賞を受賞するなど高く評価されており、サブスクリプション加入者は追加料金なしですべてのエピソードを楽しむことができます。"
-    },
-    {
-      "id": "edf9d90bd13c4a960267",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Epic accuses Apple of sidestepping App Store antitrust deal in Brazil",
-      "url": "https://9to5mac.com/2026/08/21/epic-accuses-apple-of-sidestepping-app-store-antitrust-deal-in-brazil/",
-      "publishedAt": "2026-08-21T21:20:58.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Epic、ブラジルの独禁法和解めぐりAppleを非難か",
-      "summaryJa": "Epic Gamesは、ブラジルの独占禁止法監視機関に対し、AppleがApp Storeの和解における義務の履行を制限的に解釈していると申し立てました。Appleが代替マーケットプレイスの導入やiPadOSの適用範囲などを巡り、アクセス障壁を作っていると主張しています。ブラジル当局への対応期限は月曜日に迫っており、今後の動向が注目されています。"
-    },
-    {
-      "id": "be0fde5625780d59216a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 and Ultra 4 to get one big upgrade at perfect time",
-      "url": "https://9to5mac.com/2026/08/21/apple-watch-series-12-and-ultra-4-to-get-one-big-upgrade-at-perfect-time/",
-      "publishedAt": "2026-08-21T20:53:21.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "次期Apple Watchに大幅なチップ性能向上の噂",
-      "summaryJa": "次期Apple Watchモデルには、待望の大幅なチップ性能向上が施されると報じられています。Apple Watchのプロセッサは数年ごとにしか大きな進化を遂げてきませんでしたが、新モデルではAI機能に対応する新しいチップが搭載される見込みです。これにより、新OSで導入されるAIアシスタントの快適な動作が期待されています。"
-    },
-    {
-      "id": "6c695f198800a1706f35",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "When is Apple Pay coming to your Walmart? Here’s the full schedule",
-      "url": "https://9to5mac.com/2026/08/21/when-is-apple-pay-coming-to-your-walmart-heres-the-full-schedule/",
-      "publishedAt": "2026-08-21T20:31:01.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/07/apple-pay.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "米ウォルマート、Apple Payなどの非接触決済に対応へ",
-      "summaryJa": "米ウォルマートは、10年以上見送ってきたApple Payなどの非接触型決済への対応を来週から順次開始すると発表しました。全米の店舗への導入は段階的に進められ、今年末までに完了する予定です。Apple Payだけでなく、Google Payや非接触対応のクレジット・デビットカードなども利用できるようになります。"
-    },
-    {
-      "id": "e8f73289c6c36a4546d7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple paid Ireland $17 billion last year as EU back-tax case came due",
-      "url": "https://9to5mac.com/2026/08/21/apple-paid-ireland-17-billion-last-year-as-eu-back-tax-case-came-due/",
-      "publishedAt": "2026-08-21T20:29:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/slack-imgs.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、アイルランドに170億ドルの法人税を納税",
-      "summaryJa": "新たな税務開示資料により、Appleが2025年にアイルランドへ170億ドルの法人税を支払っていたことが明らかになりました。この金額には、欧州連合（EU）との長きにわたる追徴課税をめぐる紛争の解決に伴う未払い分の税金が含まれています。Appleはアイルランドでの事業活動における利益について、米国の知財に関連するものであると主張してきましたが、最高裁判所の判断を受けて多額の納税を行うこととなりました。"
-    },
-    {
-      "id": "a3f1cbf13a993e11934c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Camera-Equipped AirPods: All the New Rumors",
-      "url": "https://www.macrumors.com/guide/airpods-ultra/",
-      "publishedAt": "2026-08-21T19:58:59.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/AirPods-Pro-4-With-Camera-Thumb.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、カメラ搭載AirPodsを2027年にも投入か",
-      "summaryJa": "AppleがSiriに視覚情報を送るためのカメラを搭載したAirPodsを開発していると報じられています。この新しいイヤホンは初のAIウェアラブル端末となり、2027年の発売が予想されています。周囲の状況を把握してビジュアルインテリジェンス機能と連携する仕組みや、複数の開発コードネームが存在することも伝えられています。"
-    },
-    {
-      "id": "a87b83a02beda8de350d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's New Beats 360 Headphones Spotted in Another Regulatory Filing",
-      "url": "https://www.macrumors.com/2026/08/21/beats-360-regulatory-filing/",
-      "publishedAt": "2026-08-21T19:55:30.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Beats-360-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleの新型ヘッドホン「Beats 360」がUAEの認証機関に登場",
-      "summaryJa": "Appleの未発表ヘッドホン「Beats 360」が、アラブ首長国連邦の規制データベースに登録されていることが確認されました。モデル番号A3577として登録されており、すでに米国やブラジルの規制機関にも登場しています。相次ぐデータベースへの登録や小売店向けの情報から、近日の正式発表が期待されています。"
-    },
-    {
-      "id": "5aaafa72e5bb1469f212",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple refurb store: Apple TV 4K is back, Apple Watch Ultra 3 offers, more",
-      "url": "https://9to5mac.com/2026/08/21/apple-refurb-store-apple-tv-4k-ultra/",
-      "publishedAt": "2026-08-21T19:43:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-4k-homekit.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの認定整備済ストアにApple TV 4KやMacBookなどが登場",
-      "summaryJa": "Appleの公式認定整備済ストアに、Apple TV 4Kや最新のMacBookシリーズ、Apple Watch Ultra 3などが再登場しました。整備済製品は厳格なプロセスを経て販売されており、最大15%オフの割引価格で購入できるほか、1年間の限定保証も付帯しています。在庫は常に変動するため、購入を検討している場合は早めのチェックがおすすめです。"
-    },
-    {
-      "id": "9a040d9ac44bbd23e897",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple lays off 200+ people across Vision Pro and Siri teams",
-      "url": "https://9to5mac.com/2026/08/21/apple-lays-off-200-people-across-vision-pro-and-siri-teams/",
-      "publishedAt": "2026-08-21T19:17:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、Vision ProやSiri開発チームなどで200名以上をレイオフか",
-      "summaryJa": "AppleがBloombergの報道によると、Vision ProやSiri、ソフトウェアエンジニアリングの各チームで合計200名以上の人員削減を実施したと報じられています。このうちVision Pro関連ではゲーム部門の縮小や没入型動画制作の規模縮小が行われ、約100名が対象となりました。また、Siri AIプラットフォームの刷新に向けた技術的アーキテクチャの変更に伴い、Siri関連のチームでも約100名が削減されたと伝えられています。"
-    },
-    {
-      "id": "6a0d6a1bf28b282f8c0e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Guts Vision Pro Gaming and Immersive Video Teams, Trims Siri Staff",
-      "url": "https://www.macrumors.com/2026/08/21/apple-guts-vision-pro-teams/",
-      "publishedAt": "2026-08-21T19:16:26.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/04/Apple-Immersive-Video-Utility-Vision-Pro.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、Vision Proのゲームや映像制作部門を縮小しSiriスタッフも削減か",
-      "summaryJa": "AppleがVision Proのゲームおよび没入型動画制作チームを大幅に縮小し、SiriおよびAI部門の人員も削減したと報じられています。Vision Products Groupから約100名、Siriとソフトウェアグループから約100名がレイオフの対象となりました。同社はユーザーの利用状況に合わせて優先順位を再調整しており、今後は社内での映像制作を減らし外部の3Dコンテンツに頼る方針です。また、SiriチームではAI機能への移行に伴う新たな人員配置が進められています。"
-    },
-    {
-      "id": "58582a1a1b3ab5e678d1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "HomeKit Weekly: Homey secures Matter 1.5 certification to expand bridging and energy support",
-      "url": "https://9to5mac.com/2026/08/21/homekit-weekly-homey-secures-matter-1-5-certification-to-expand-bridging-and-energy-support/",
-      "publishedAt": "2026-08-21T18:52:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Homey-Matter-1.5-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "スマートホームプラットフォームHomeyがMatter 1.5認証を取得",
-      "summaryJa": "Athomは、自社のHomeyソフトウェアコンポーネントがMatter 1.5認証を正式に取得したと発表しました。これにより、Homey Proやセルフホストサーバーなどでネイティブデバイスの統合やクロスプラットフォームのブリッジ機能が強化されます。新しいMatter 1.5では、EV充電器やヒートポンプ、ソーラーパネルなどのエネルギー関連ハードウェアカテゴリへのネイティブ対応が追加されました。また、Homeyのマルチプロトコルアーキテクチャを活用することで、非MatterデバイスをApple Homeなどにブリッジ接続することが可能になります。"
     }
   ],
-  "updatedAt": "2026-08-31T19:59:31.398Z",
+  "updatedAt": "2026-08-31T23:45:53.430Z",
   "initialized": true,
   "summaryVersion": 4
 }
