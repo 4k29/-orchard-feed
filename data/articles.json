@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "0d0e17a8a703adfbeda5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "How to run Mario Kart 64 with native Metal rendering, high frame rate, and HD textures on iPhone [Video]",
+      "url": "https://9to5mac.com/2026/08/31/how-to-run-mario-kart-64-with-native-metal-rendering-high-frame-rate-and-hd-textures-on-iphone-video/",
+      "publishedAt": "2026-08-31T19:50:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Mario-Kart-64-SpaghettiPad-Tutorial-Native-Metal-Rendering-iPhone-018.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhoneでマリオカート64をネイティブ動作させる方法",
+      "summaryJa": "エミュレーターではなくMetalレンダリングを活用し、iPhoneでマリオカート64をネイティブ動作させるアプリが登場しました。最大120fpsの高フレームレートや高解像度テクスチャ、ワイド画面に対応し、Bluetoothコントローラーと組み合わせることで快適なプレイ環境を実現します。"
+    },
+    {
+      "id": "3f2346bbadbcdaf1e177",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirPods With Cameras Could Bring Improved Spatial Audio Head Tracking",
+      "url": "https://www.macrumors.com/2026/08/31/camera-airpods-spatial-audio-head-tracking/",
+      "publishedAt": "2026-08-31T19:02:40.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/AirPods-Pro-4-With-Camera-Thumb.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "カメラ搭載AirPodsで空間オーディオの頭部追従が向上するか",
+      "summaryJa": "Appleが開発中とされるカメラ搭載のAirPodsに関する詳細が、macOSのコードから明らかになりました。装着者が視線を向けているディスプレイをカメラで検出し、モーションセンサーのデータと組み合わせることで、より精度の高い空間オーディオや視覚知覚機能を実現すると報じられています。"
+    },
+    {
+      "id": "591bf6b5d2f3af7a4d0d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Ultra release timing: Here’s what the latest reporting says",
+      "url": "https://9to5mac.com/2026/08/31/iphone-ultra-release-timing-heres-what-the-latest-reporting-says/",
+      "publishedAt": "2026-08-31T18:55:25.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "折りたたみ式iPhone Ultraの発売時期を巡る最新情報",
+      "summaryJa": "Appleが9月のイベントで初の折りたたみ式モデルとなるiPhone Ultraを発表すると報じられています。発売時期については遅れるとの憶測もあったものの、サプライチェーンの情報筋によると9月中の発売が見込まれており、初期の供給量は極めて限られる可能性が指摘されています。"
+    },
+    {
+      "id": "a6c4d2a073fdc5d25777",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Adds Three More Macs to Obsolete Products List",
+      "url": "https://www.macrumors.com/2026/08/31/apple-retina-macbook-air-obsolete/",
+      "publishedAt": "2026-08-31T18:37:51.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2018/10/MacBook-Air-family-10302018.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、2018年製のMacBook Airなどをビンテージ製品に追加",
+      "summaryJa": "Appleは、2018年のRetina搭載MacBook Airや一部のMacBook Proモデルを新たにオブソリート製品リストに追加しました。これにより公式での通常修理対応が終了となりますが、Macノートブックのバッテリー交換については最長10年間まで継続して対応する方針となっています。"
+    },
+    {
+      "id": "73c7a624f10c027a286a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MagSafe Monday: Anker’s foldable 3-in-1 charger brings 25-watt Qi2 charging into something pocket-sized",
+      "url": "https://9to5mac.com/2026/08/31/ankers-foldable-3-in-1-charger-brings-25w-qi2-charging-into-something-pocket-sized/",
+      "publishedAt": "2026-08-31T18:30:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/bradley_60288f.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Anker、ポケットサイズの折り畳み式25W Qi2充電器を発表",
+      "summaryJa": "Ankerの新しいプライムQi2 25W折り畳み式3-in-1ワイヤレス充電器は、旅行時に持ち運びやすいポケットサイズのデザインを採用しています。iPhone、Apple Watch、AirPodsを同時に充電でき、新しいQi2規格により最大25ワットの高速充電に対応しています。また、独自の冷却システムを搭載することで発熱を抑え、バッテリーの健康を保ちながら安全かつ効率的な充電を実現している点が大きな特徴です。"
+    },
+    {
+      "id": "dc95c365744240af93a2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seemingly Made a Mistake When Announcing the New Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/31/apple-edits-mac-studio-press-release/",
+      "publishedAt": "2026-08-31T18:19:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/06/Mac-Studio-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型Mac Studio発表時のプレスリリース記載ミスか",
+      "summaryJa": "AppleがM5 MaxおよびM5 Ultraチップを搭載した新しいMac Studioを発表した際、プレスリリースにPCIe Gen 6ベースのSSDアーキテクチャを採用していると一時記載されていましたが、その後削除されました。競合や同世代のMacBook Proの仕様から、実際にはPCIe 5.0のサポートである可能性が高いと報じられています。Appleからの公式なコメントはまだ出ていませんが、単純な記載ミスの可能性が指摘されています。"
+    },
+    {
+      "id": "e890d489080ea7bf1894",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases beta 8 for iPadOS 27, watchOS 27, and more",
+      "url": "https://9to5mac.com/2026/08/31/apple-releases-beta-8-for-ipados-27-watchos-27-and-more/",
+      "publishedAt": "2026-08-31T17:16:48.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iPadOS-27-b8.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPadOSやwatchOSなどのベータ8を公開",
+      "summaryJa": "Appleは開発者およびテスター向けに、iPadOSやwatchOS、tvOSなどの次期OSのベータ8を新たにリリースしました。今回のアップデートは、来週予定されているイベントでのRC版公開や、数週間後に控えた正式リリースに向けた細かなバグ修正とパフォーマンス向上が中心となっています。大きな新機能の追加は控えめですが、正式版リリース前の最終調整段階に入っています。"
+    },
+    {
+      "id": "fc2d280129a3a1a83601",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27 developer beta 8 now available, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/08/31/macos-27-developer-beta-8-now-available-heres-whats-coming/",
+      "publishedAt": "2026-08-31T17:16:05.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/macOS-27-beta-8.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、開発者向けにmacOS 27ベータ8をリリース",
+      "summaryJa": "Appleは正式リリースに向けて、開発者向けにmacOS 27のベータ8の提供を開始しました。このバージョンでは、細かなバグ修正やパフォーマンスの最適化を中心に進められており、まもなく登場するRC版や一般公開に向けた最終調整が行われています。macOS 27では、刷新されたSiriやAIを活用したショートカット機能、新しい壁紙などが導入される予定です。"
+    },
+    {
+      "id": "d4385dcea91a1dec2b57",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases macOS Golden Gate Beta 8",
+      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-macos-27-beta-8/",
+      "publishedAt": "2026-08-31T17:14:06.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、開発者向けにmacOS Golden Gateベータ8を配信",
+      "summaryJa": "Appleは開発者に向けて「macOS Golden Gate」のベータ8をリリースしました。このアップデートでは、デザインの改善や透明度の調整機能、さらにAI機能を統合した新しいSiriなどが導入されています。システム全体での使い勝手やパフォーマンスの向上が図られており、正式公開に向けたテストが進められています。"
+    },
+    {
+      "id": "38218513104d48987b0e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds Eighth iOS 27 and iPadOS 27 Betas to Developers",
+      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-ios-27-beta-8/",
+      "publishedAt": "2026-08-31T17:13:25.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、開発者向けにiOS 27およびiPadOS 27のベータ8を公開",
+      "summaryJa": "Appleはテストの一環として、開発者向けにiOS 27とiPadOS 27のベータ8を配信開始しました。新機能のSiri AIをはじめ、PhotosやSafariなどのアプリ全体でApple Intelligenceが拡充されています。また、Liquid Glassのデザイン調整やシステム全体のパフォーマンス向上も含まれています。"
+    },
+    {
+      "id": "5049110d8107d3c8e992",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 beta 8 now available as Apple tests major Siri AI upgrade",
+      "url": "https://9to5mac.com/2026/08/31/ios-27-beta-8/",
+      "publishedAt": "2026-08-31T17:12:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iOS-27-b8.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Siri AIを強化したiOS 27ベータ8を開発者向けにリリース",
+      "summaryJa": "Appleは9月の一般向けリリースを控え、開発者向けにiOS 27ベータ8を公開しました。今回のアップデートはSiri AIの刷新が中心となっており、次世代のApple Foundation Modelsを活用した高度な会話や画面認識機能が搭載されています。また、Liquid Glassデザインの改良や各アプリでのAI機能の拡張も進められています。"
+    },
+    {
+      "id": "d49958f1f3db6b168564",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds watchOS 27 Beta 8 to Developers",
+      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-watchos-27-beta-8/",
+      "publishedAt": "2026-08-31T17:12:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、開発者向けにwatchOS 27ベータ8を配信開始",
+      "summaryJa": "Appleは開発者向けにwatchOS 27のベータ8をリリースしました。このバージョンでは、対応するiPhoneと連携して動作する新しいSiri AIが導入され、情報の検索や自然な対話が可能になっています。さらに、Liquid Glassの視認性向上や、ワークアウト機能の強化、バッテリー効率の最適化なども行われています。"
+    },
+    {
       "id": "d02cdd539399936c6519",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4326,189 +4506,9 @@
       ],
       "titleJa": "スマートホームプラットフォームHomeyがMatter 1.5認証を取得",
       "summaryJa": "Athomは、自社のHomeyソフトウェアコンポーネントがMatter 1.5認証を正式に取得したと発表しました。これにより、Homey Proやセルフホストサーバーなどでネイティブデバイスの統合やクロスプラットフォームのブリッジ機能が強化されます。新しいMatter 1.5では、EV充電器やヒートポンプ、ソーラーパネルなどのエネルギー関連ハードウェアカテゴリへのネイティブ対応が追加されました。また、Homeyのマルチプロトコルアーキテクチャを活用することで、非MatterデバイスをApple Homeなどにブリッジ接続することが可能になります。"
-    },
-    {
-      "id": "6617fb21e34c6b59664f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPadOS 27 adds three features to make iPad more like the Mac",
-      "url": "https://9to5mac.com/2026/08/21/ipados-27-adds-three-features-to-make-ipad-more-like-the-mac/",
-      "publishedAt": "2026-08-21T18:50:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPadOS 27がMacに近づく3つの新機能を採用",
-      "summaryJa": "iPadOS 27では、Macの使い勝手に近づけるための3つの新機能が追加されます。ステータスバーへのアクティブアプリ名表示や、常に表示可能なメニューバーなどが含まれており、キーボード操作時の利便性が大幅に向上します。"
-    },
-    {
-      "id": "72095fa85313aacda7fc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Grok Bot is an all-new iPhone and Mac app from SpaceXAI and Cursor [U]",
-      "url": "https://9to5mac.com/2026/08/21/grok-bot-is-an-all-new-iphone-and-mac-app-from-spacexai-and-cursor/",
-      "publishedAt": "2026-08-21T18:16:22.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhoneとMac向けAIエージェントアプリ「Grok Bot」が登場",
-      "summaryJa": "SpaceXAIとCursorによる新しいAIエージェントアプリ「Grok Bot」がMacおよびiOS向けにベータ版としてリリースされました。各ボットが専用のコンピュータを持ち、ユーザーが普段使っているアプリやサービスにサインインして複雑なタスクを自動で処理します。会話を記憶して好みを学習し、利用を重ねるごとに精度が向上する仕組みとなっています。"
-    },
-    {
-      "id": "a74d100497e8e5b67528",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "The MacRumors Show: Michael Fisher Talks iPhone Ultra",
-      "url": "https://www.macrumors.com/2026/08/21/the-macrumors-show-michael-fisher-iphone-ultra/",
-      "publishedAt": "2026-08-21T17:48:57.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみiPhone「iPhone Ultra」の最新動向か",
-      "summaryJa": "著名YouTuberを迎えたポッドキャスト番組にて、折りたたみiPhoneと噂される「iPhone Ultra」に関する詳細が議論されました。この端末は7.8インチの内側ディスプレイやA20チップを搭載し、今秋にiPhone 18 Proとともに発表される可能性があると報じられています。画面の折り目を目立たなくするため、積層ガラス構造やリキッドメタルヒンジが採用される見通しです。"
-    },
-    {
-      "id": "67ba77706da916ebf05d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro release date: Here’s when Apple’s new flagship is coming",
-      "url": "https://9to5mac.com/2026/08/21/iphone-18-release-date-when-apples-new-model-is-coming/",
-      "publishedAt": "2026-08-21T17:47:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの発表時期は9月上旬か",
-      "summaryJa": "Appleの新フラッグシップモデルであるiPhone 18 ProやiPhone Ultraは、例年通りのスケジュールであれば9月上旬に発表される見通しです。今年の労働者の日（レーバー・デー）が遅い日程となるため、イベント開催日は9月9日頃になると予想されています。また、今秋のラインナップにはベースモデルが含まれず、Proモデルと折りたたみモデルが中心になると報じられています。"
-    },
-    {
-      "id": "de7a4f05bcb9cde53eec",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Another disguised Russian banking app has topped the US iPhone App Store",
-      "url": "https://9to5mac.com/2026/08/21/another-russian-banking-app-in-disguise-has-topped-the-us-app-store/",
-      "publishedAt": "2026-08-21T16:47:04.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/app-store.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "偽装されたロシアの銀行アプリが米App Storeで再び上位に浮上か",
-      "summaryJa": "米国の制裁対象となっているロシアの銀行が、審査をすり抜けてApp Storeにクライアントアプリを潜り込ませている問題が再び浮上しました。今回はARキッチンモデリングアプリを装った「K8CHEN PRO」というアプリが上位にランクインし、実際にはT-Bankのアプリであることが判明しています。こうした偽装アプリがなぜ審査を通過し続けるのか、その状況に疑問の声が上がっています。"
-    },
-    {
-      "id": "26c700b3b1873a44dfaa",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Pay Supporting U.S. National Park Foundation Over the Next Week",
-      "url": "https://www.macrumors.com/2026/08/21/apple-pay-supports-national-park-foundation/",
-      "publishedAt": "2026-08-21T15:52:21.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-National-Parks.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、全米教科基金への寄付キャンペーンを実施",
-      "summaryJa": "Appleは、Apple Payを利用した米国内での買い物ごとに10ドルを国立公園財団へ寄付するキャンペーンを開始しました。最大100万ドルまでの寄付を予定しており、期間は8月28日までとなっています。また、恒例となっているApple Watchの「国立公園アクティビティチャレンジ」も8月23日に開催される予定です。"
-    },
-    {
-      "id": "5803c7e36ef4d9fd7842",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s everything we learned about AirPods with cameras this week",
-      "url": "https://9to5mac.com/2026/08/21/airpods-pro-with-cameras-biggest-leak-yet-features/",
-      "publishedAt": "2026-08-21T15:34:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-sound-vibrations.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "カメラ搭載AirPodsに関する新たな手がかりが浮上",
-      "summaryJa": "macOSのベータ版コードや関連情報から、カメラを搭載した次期AirPods Proに関する詳細が明らかになると報じられています。左右のイヤホンにそれぞれカメラセンサーが搭載され、同時に画像をキャプチャする仕組みや、プライバシーインジケーターランプの存在などが確認されています。詳細な仕様や機能については今後の続報が待たれる状況です。"
-    },
-    {
-      "id": "458aedc2ca397e01aee7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV has three big new releases coming very soon",
-      "url": "https://9to5mac.com/2026/08/21/apple-tv-has-three-big-new-releases-coming-soon/",
-      "publishedAt": "2026-08-21T15:30:23.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-tv-logo-mountains.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、注目作「ダーク・マター」シーズン2などを配信",
-      "summaryJa": "Apple TVで配信中の人気作に加え、今後公開される大型の新作ラインナップが注目を集めています。SF小説を原作とした人気シリーズ「ダーク・マター」のシーズン2が8月28日から毎週配信されるほか、ライアン・レイノルズ主演の新作映画「Mayday」も9月4日に独占配信が予定されています。秋に向けて充実したコンテンツが順次登場する見込みです。"
-    },
-    {
-      "id": "5d89a6d2e71636c62d0f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: M5 Pro MacBook Pro $500 off, AirTag 2 from $20, Find My Wallet Card $25, AirPods Pro 3, more",
-      "url": "https://9to5mac.com/2026/08/21/deals-macbook-pro-airtag-2-find-my-card-airpods-pro-3/",
-      "publishedAt": "2026-08-21T15:28:06.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-M5-Pro-MacBook-Pro-AirTag-2-AirPods-Pro3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "M5 Pro搭載MacBook ProやAirPodsが特別価格に",
-      "summaryJa": "Amazonや各家電量販店のセールにおいて、Apple製品を対象とした割引販売が実施されています。14インチのM5 Pro搭載MacBook Proが500ドル引きとなるほか、AirPods Pro 3やAirPods Max 2などもお得な価格で販売されています。また、Apple公式認定整備ストアでは、M4 Mac miniの割引販売も一時的に登場するなど注目を集めました。"
-    },
-    {
-      "id": "894ec1c5596f3e79f0b8",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "MG Could Be Next Automaker to Get Apple Car Key Support",
-      "url": "https://www.macrumors.com/2026/08/21/mg-apple-car-key-support/",
-      "publishedAt": "2026-08-21T15:04:24.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/07/iPhone-Car-Key-Kia.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "MGの車両がApple Car Keyに対応か、コードから判明",
-      "summaryJa": "Appleのバックエンドシステム内のコードから、上海汽車傘下のMGブランドの車両がApple Car Keyのサポート対象に追加される可能性が浮上しました。iPhoneやApple Watchを使って車両のロックやエンジン始動が可能になるとみられています。具体的な対応モデルやリリース時期はまだ発表されていませんが、欧州などで急速に普及する同社の電動車両向けに近く提供されると期待されています。"
-    },
-    {
-      "id": "622c2ec3bae650612d9c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Revisiting Apple Watch Edition: Hands-on with the white ceramic Series 5",
-      "url": "https://9to5mac.com/2026/08/21/apple-watch-series-5-edition/",
-      "publishedAt": "2026-08-21T15:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2019/09/Apple-Watch-Series-5-Ceramic.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Series 5のホワイトセラミックモデルを振り返る",
-      "summaryJa": "Apple Watch Series 12でセラミックモデルが復活するとの噂を受け、過去に発売されたApple Watch Series 5のセラミックEditionモデルの魅力が改めて注目されています。2019年に登場したホワイトセラミックケースは、アルミニウムやステンレススチールとは異なる高級感を持ち、今なお根強い人気を誇る特別な仕上げとして知られています。"
-    },
-    {
-      "id": "541f6191e567a793cf9b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s how iPhone 18 Pro will differentiate itself from prior models",
-      "url": "https://9to5mac.com/2026/08/21/heres-how-iphone-18-pro-will-differentiate-itself-from-prior-models/",
-      "publishedAt": "2026-08-21T14:58:32.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの進化点、カメラと独自モデムの噂",
-      "summaryJa": "来月発表と噂されるiPhone 18 Proについて、従来モデルとの大きな差別化ポイントに関する情報が伝えられています。メインカメラには大型化に伴う厚みの増加や大幅なハードウェア強化が予定されているほか、自社設計の「C2」モデムへの移行によりバッテリー効率や信頼性の向上が見込まれています。"
     }
   ],
-  "updatedAt": "2026-08-31T14:04:28.222Z",
+  "updatedAt": "2026-08-31T19:59:31.398Z",
   "initialized": true,
   "summaryVersion": 4
 }
