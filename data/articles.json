@@ -1,6 +1,141 @@
 {
   "articles": [
     {
+      "id": "4f9786ad5dd1dc5bbf58",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "macOS Golden Gate Seems to Hint at MacBook Pro With OLED Display",
+      "url": "https://www.macrumors.com/2026/09/01/macos-golden-gate-hdr-liquid-glass/",
+      "publishedAt": "2026-09-01T19:34:56.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/macOS-Golden-Gate-Liquid-Glass-UI-HDR.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "macOSベータ版からOLED搭載MacBook Proの存在が浮上か",
+      "summaryJa": "macOS Golden Gateのベータ版に含まれるインターフェース要素から、OLEDディスプレイ向けとみられる描画の最適化が見つかりました。Appleは2027年初頭までにOLEDを搭載した新型MacBook Proや「MacBook Ultra」の投入を計画していると噂されており、今回の発見はその事前準備である可能性があります。"
+    },
+    {
+      "id": "c13f4b0e7511fce302ac",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12: Three new features coming next week",
+      "url": "https://9to5mac.com/2026/09/01/apple-watch-series-12-three-new-features-coming-next-week/",
+      "publishedAt": "2026-09-01T19:18:04.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch Series 12に導入される3つの新機能の噂",
+      "summaryJa": "次期Apple Watch Series 12には、AI機能の処理性能を高めた新しいSクラスチップが搭載されると報じられています。また、高血圧の通知機能や常時駆動に対応した心臓血管センサーのほか、2019年以来となるセラミックケースのオプションがホワイトとダークグレーで復活する見込みです。"
+    },
+    {
+      "id": "9e7463320f14528c4c77",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Anthropic Launches Claude Fable 5.1 With Lower Costs and Fewer False Positives",
+      "url": "https://www.macrumors.com/2026/09/01/anthropic-claude-fable-5-1/",
+      "publishedAt": "2026-09-01T19:15:25.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/anthopic-claude.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Anthropicがコーディング性能を高めた新モデルを発表",
+      "summaryJa": "Anthropicが、高度なコーディングや知的作業に特化した新AIモデルを発表しました。従来モデルと比べてコストが削減され、誤検知を大幅に減らすことに成功しています。セキュリティの安全性を高めつつ、科学的な研究など幅広い用途での活用が期待されています。"
+    },
+    {
+      "id": "f7d2602cb6abc350c79c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Foldable iPhone Ultra Likely Has MagSafe Charging",
+      "url": "https://www.macrumors.com/2026/09/01/foldable-iphone-ultra-magsafe/",
+      "publishedAt": "2026-09-01T19:05:54.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみ式iPhone UltraはMagSafe充電に対応か",
+      "summaryJa": "Appleが開発中とされる折りたたみ式の「iPhone Ultra」には、MagSafe充電機能が搭載される可能性が高いと報じられています。本体の薄型化に伴い搭載が懸念されていましたが、関係者によれば薄型モデルへの実装実績から問題なく組み込まれる見通しです。本機は9月のイベントでiPhone 18 Proと同時に発表されると予想されています。"
+    },
+    {
+      "id": "3011b3ecd150c52ecef1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Read John Ternus' First Memo to Apple Employees as CEO",
+      "url": "https://www.macrumors.com/2026/09/01/john-ternus-first-memo/",
+      "publishedAt": "2026-09-01T18:47:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/John-Ternus-CEO-16x9-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleのジョン・テラス新CEO、全社員に向けた初の社内メモを公開",
+      "summaryJa": "Appleの新CEOに就任したジョン・テラスが、全従業員に向けて初めての社内メールを送りました。ティム・クック前CEOのこれまでの貢献に深い感謝を述べるとともに、来週に控えている大規模な新製品発表に向けて期待感を示しています。テラスは2001年からAppleに在籍し、これまでハードウェアエンジニアリング担当のシニアバイスプレジデントを務めていました。"
+    },
+    {
+      "id": "8ef3dc8b74811cdc4f09",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Ex-Apple CFO Luca Maestri Winding Down His Time at the Company",
+      "url": "https://www.macrumors.com/2026/09/01/luca-maestri-apple-winding-down/",
+      "publishedAt": "2026-09-01T18:17:22.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/08/apple-cfo-luca-maestri.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "元AppleのCFOルカ・マエストリ、社内業務をさらに縮小か",
+      "summaryJa": "元AppleのCFOであるルカ・マエストリが同社での活動をさらに縮小させていると報じられています。マエストリは今年1月にCFOを退任した後もコーポレートサービス部門を率いていましたが、最近になってその役職からも退きました。現在はApple Universityで講義を行う以外に実務上の責任はなく、週に1度ほどオフィスを訪れるのみとなっている模様です。"
+    },
+    {
+      "id": "402a9b28178c01c151e1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Anthropic upgrades Claude with new Fable 5.1 model, details here",
+      "url": "https://9to5mac.com/2026/09/01/anthropic-upgrades-claude-with-new-fable-5-1-model-details-here/",
+      "publishedAt": "2026-09-01T18:10:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Anthropic、AIモデル「Claude Fable 5.1」を発表",
+      "summaryJa": "AnthropicがAIモデル「Claude」のアップグレード版である「Fable 5.1」を発表しました。この新モデルはコーディングや知識労働、長時間の問題解決タスクにおいて新たな基準を打ち立てるとされています。Fable 5よりもコストを抑えつつ同等以上のパフォーマンスを発揮し、ソフトウェアの根本的な問題解決能力が大幅に向上しているのが特徴です。"
+    },
+    {
+      "id": "788ac55ee7213cc1e047",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Teases 'Huge Launch' Next Week",
+      "url": "https://www.macrumors.com/2026/09/01/apple-teases-huge-launch-next-week/",
+      "publishedAt": "2026-09-01T18:03:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Surprise-and-Shine-Alt-Angle-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、来週開催のイベントで大規模な新製品発表を予告",
+      "summaryJa": "Appleのジョン・テラス新CEOが社員向けメモの中で、来週に「素晴らしい大規模な発表」が控えていると予告しました。また、マーケティング担当責任者のグレッグ・ジョズウィアクも、9月9日に開催されるスペシャルイベントに向けて「さらに伝えるべきことがある」とソーシャルメディアで示唆しています。イベントでは、新型iPhoneやApple Watchなどの発表が期待されています。"
+    },
+    {
+      "id": "8bcb8f624975a1c5f075",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Read John Ternus’s full memo to Apple employees on his first day as CEO",
+      "url": "https://9to5mac.com/2026/09/01/read-new-apple-ceo-john-ternuss-full-memo-to-employees/",
+      "publishedAt": "2026-09-01T17:26:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/IMG_0032.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ジョン・ターナス新CEOがApple社員へ向けた初の全社メッセージを公開",
+      "summaryJa": "Appleの新しいCEOに就任したジョン・ターナスが、全社員に向け初めてのメッセージを送信しました。前任のティム・クックに対する感謝の意を示し、来週予定されている特別な新製品発表イベントへの期待を語っています。また、現在開発が進められている素晴らしい製品や未来への展望についても触れられています。"
+    },
+    {
       "id": "da61d00a11efa513688b",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -179,6 +314,52 @@
       ],
       "titleJa": "Perplexity、Mac向けにプライバシー重視のハイブリッドAI機能を公開",
       "summaryJa": "Perplexityは、クラウドとMac上のローカルモデルで処理を分散させる「ハイブリッドコンピュート」機能をMac向けアプリで提供開始しました。機密データや個人情報を扱う処理をローカルで安全に実行し、プライバシーを保護する仕組みとなっています。利用にはAppleシリコンを搭載したMacと最低24GBのユニファイドメモリが必要となります。"
+    },
+    {
+      "id": "6ded39781d85511f23cb",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Upcoming changes to Rosetta support for Intel-based macOS apps",
+      "url": "https://developer.apple.com/news/?id=w5ngl9k2",
+      "publishedAt": "2026-09-01T15:00:41.000Z",
+      "imageUrl": null,
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "Apple、Intel版Macアプリ向けのRosettaサポート終了計画を案内",
+      "summaryJa": "Appleは、MacのAppleシリコン移行に伴い提供してきた翻訳レイヤー「Rosetta」のサポート終了に向けた今後の変更点を開発者向けに発表しました。macOS 26.4以降ではRosettaに依存するアプリの起動時に警告が表示されるようになり、macOS 27がIntel専用アプリをサポートする最後のバージョンとなります。開発者に対しては、ユニバーサルバイナリとしてのビルドやAppleシリコンへのネイティブ対応を急ぐよう呼びかけています。"
+    },
+    {
+      "id": "a8e795b965038e751ff0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Cibby is a beautifully designed iOS app for physical video game collectors",
+      "url": "https://9to5mac.com/2026/09/01/cibby-is-a-beautifully-designed-ios-app-for-physical-video-game-collectors/",
+      "publishedAt": "2026-09-01T15:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/cibby.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "物理ゲームコレクター向けのデザイン性に優れたiOSアプリ「Cibby」が登場",
+      "summaryJa": "パッケージ版のビデオゲームコレクター向けに開発された新しいiOSアプリ「Cibby」がリリースされました。著名なデザイナーであるマイケル・フララップ氏が手がけたもので、ユーザーは自分のコレクションを美しいインタラクティブな3D表示で探索して楽しむことができます。"
+    },
+    {
+      "id": "d5f46f22d63715734615",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s everything new Apple TV has coming in September",
+      "url": "https://9to5mac.com/2026/09/01/heres-everything-new-apple-tv-has-coming-in-september-2026/",
+      "publishedAt": "2026-09-01T14:48:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-tv-fall-mountains.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、9月に配信予定の注目映画やドラマのラインナップを公開",
+      "summaryJa": "Apple TVで9月に配信される注目の新作映画やテレビ番組のラインナップが発表されました。ライアン・レイノルズ主演のアクションコメディ映画『Mayday』や、人気スパイ・スリラー『窓際のスパイ』シーズン6などが秋のシーズンを彩ります。話題作の続編や新規タイトルの配信が順次スタートする予定です。"
     },
     {
       "id": "6f28fa970ac5ac8ad541",
@@ -4326,189 +4507,9 @@
       ],
       "titleJa": "Apple、watchOS 27 開発者向けベータ7をリリース",
       "summaryJa": "Appleは開発者向けに「watchOS 27 ベータ 7」を公開しました。前回のベータ版から1週間での提供となり、無料のデベロッパーアカウントを持つユーザーが対象となっています。watchOS 27では、新機能「Siri AI」による高度な対話や情報の取得が可能になるほか、スマートスタックの提案機能の向上やバッテリー駆動時間の最適化などが図られています。"
-    },
-    {
-      "id": "284914355110d5b8ce40",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds Seventh visionOS 27 Beta to Developers",
-      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-visionos-27-beta-7/",
-      "publishedAt": "2026-08-24T17:29:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/curved_windows_visionos-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、visionOS 27 開発者向けベータ7を配信",
-      "summaryJa": "AppleはVision Pro向けに「visionOS 27 ベータ 7」を開発者向けに配信開始しました。視線操作で拡張される通知機能や、Siri AIによる高度な対話機能などがテストされています。また、パノラマ写真から作成する新しい没入型環境や、開発者向けのウェブ環境サポートなども含まれており、空間コンピューティング体験のさらなる向上が図られています。"
-    },
-    {
-      "id": "99148d5de288ebc7bab6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 beta 7 now available as Apple tests major Siri AI upgrade",
-      "url": "https://9to5mac.com/2026/08/24/ios-27-beta-7/",
-      "publishedAt": "2026-08-24T17:28:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iOS-27-b7.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iOS 27 開発者向けベータ7をリリース",
-      "summaryJa": "Appleは今秋の正式リリースに向け、開発者向けに「iOS 27 ベータ 7」を公開しました。今回のアップデートの目玉である新機能「Siri AI」や刷新されたApple Intelligence関連の機能を中心に、バグ修正やパフォーマンスの改善が続けられています。正式版の一般公開を来月に控え、ベータテストの最終段階に入っています。"
-    },
-    {
-      "id": "94cb4097f486bd6f441a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds tvOS 27 Beta 7 to Developers",
-      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-tvos-27-beta-7-to-developers/",
-      "publishedAt": "2026-08-24T17:27:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/tvOS-27-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、開発者向けにtvOS 27ベータ7を公開",
-      "summaryJa": "Appleは開発者に向けてtvOS 27のベータ7をテスト用として公開しました。前回のベータ版から1週間でのリリースとなります。今回のアップデートでは、ポッドキャストアプリの再設計やテキストサイズの拡大オプション、コントロールセンターの応答性向上が含まれています。"
-    },
-    {
-      "id": "e666b00669437079243a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12: Everything to Expect Next Month",
-      "url": "https://www.macrumors.com/2026/08/24/apple-watch-series-12-everything-to-expect/",
-      "publishedAt": "2026-08-24T15:55:35.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-watch-series-12.png",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Series 12の最新情報と噂まとめ",
-      "summaryJa": "来月のiPhoneイベントでの発表が確実視されているApple Watch Series 12は、デザインの大きな変更はないものの、内部のアップデートが中心になると報じられています。長らく同じ世代のチップが採用されていましたが、今回は新プロセッサの搭載やバッテリー寿命の向上、さらに血圧通知機能などの健康・フィットネス機能の改善が期待されています。"
-    },
-    {
-      "id": "74e9812f7623221ba3bd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple is about to launch five new products that I’m very excited for",
-      "url": "https://9to5mac.com/2026/08/24/apple-is-about-to-launch-five-new-products-that-im-very-excited-for/",
-      "publishedAt": "2026-08-24T15:43:52.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/08/iPhone-15-event-date.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "今年登場が期待される注目のApple製新製品5選",
-      "summaryJa": "今年後半に登場が予想される10以上の新製品の中から、特に期待を集める5つのデバイスについて解説しています。初の折りたたみ式iPhoneとなるモデルや、スマートホームの中核を担う新型ディスプレイ、さらに進化を遂げたApple TV 4Kなど、AI機能や新たなハードウェア設計によって体験がどう変わるのかが注目されています。"
-    },
-    {
-      "id": "b261c48117c38269b9c0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27: All the New Safari Features",
-      "url": "https://www.macrumors.com/guide/ios-27-safari/",
-      "publishedAt": "2026-08-24T15:42:25.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Whats-New-in-Safari-on-iOS-27-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27のSafariに追加される新機能とAI活用",
-      "summaryJa": "次期OSのiOS 27におけるSafariでは、Apple Intelligenceを活用した新機能が多数導入されます。開いているタブを関連するトピックごとに自動で整理する機能や、最近閉じたタブや他デバイスのタブを素早く再開できるセクションが追加されます。また、AIを使って独自のカスタム拡張機能を作成できる新しいオプションも用意され、ブラウジングの利便性が大きく向上します。"
-    },
-    {
-      "id": "e0f7e35abee94e227f20",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "ESPN streaming prices are going up, including Disney+ and Hulu bundles",
-      "url": "https://9to5mac.com/2026/08/24/espn-streaming-prices-are-going-up-along-with-disney-and-hulu-bundles/",
-      "publishedAt": "2026-08-24T15:36:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/espn-streaming-service-flagship.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ESPNストリーミングサービスと関連バンドルが値上げ",
-      "summaryJa": "ESPNは、ストリーミングサービスの「ESPN Select」および「ESPN Unlimited」の月額料金と年額料金を値上げすると発表しました。この価格改定は9月17日から適用され、Disney+やHuluを含む関連バンドルプランの料金にも影響が及びます。ストリーミング業界全体で値上げの動きが相次ぐ中、今後の動向が注目されています。"
-    },
-    {
-      "id": "3dc55888d7ec0b6a5e6d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: AirTag 2 best price ever from $20 each, AirPods, M5 MacBook Pro $320 off, Find My gear, more",
-      "url": "https://9to5mac.com/2026/08/24/deals-airtag-2-best-price-ever-m5-macbook-pro/",
-      "publishedAt": "2026-08-24T15:21:50.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-AirTag-2-MacBook-Pro.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirTag 2の4パックが過去最安値に、Amazonで20ドルから販売中",
-      "summaryJa": "Amazonにて、AppleのAirTag 2の4パックが過去最安値となる80ドルで販売されています。1個あたり20ドルという手頃な価格で購入可能になりました。また、AirPodsシリーズやM5搭載MacBook Proなども割引対象となっており、様々なApple製品がお得に購入できるセールが実施されています。"
-    },
-    {
-      "id": "e4396a5f371ac721df0d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Affordable iPhone accessories for CarPlay worth trying",
-      "url": "https://9to5mac.com/2026/08/24/affordable-iphone-accessories-for-carplay-worth-trying/",
-      "publishedAt": "2026-08-24T15:18:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/best-carplay-apps.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "CarPlayを快適にするおすすめのお手頃な車載アクセサリ",
-      "summaryJa": "車内でCarPlayをより快適に利用するためのお手頃なアクセサリが紹介されています。有線接続を無線化するアダプターや、古い車種でもCarPlayを使えるようにするポータブルディスプレイなどがピックアップされています。高額な費用をかけずに車内の利便性を大きく向上させることが可能です。"
-    },
-    {
-      "id": "e0c23d882a1a0dbde3bf",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Ted Lasso season 5 gets exciting new status update",
-      "url": "https://9to5mac.com/2026/08/24/ted-lasso-season-5-gets-exciting-new-status-update/",
-      "publishedAt": "2026-08-24T15:07:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/11/ted-lasso-characters-wizard-of-oz.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Ted Lassoシーズン5、来年1月に撮影開始か",
-      "summaryJa": "Apple TV+の人気コメディドラマ「Ted Lasso」のシーズン5が、2027年夏の配信を目指し、来年1月からロンドンで撮影が開始されると報じられています。現在はシーズン4の新しいエピソードが公開中ですが、複数の情報筋によると、すでに次のシーズンに向けた準備が進められているようです。"
-    },
-    {
-      "id": "03ce8f9bdd5adf1d25dc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple starts testing AI shopping assistant in the Apple Store app",
-      "url": "https://9to5mac.com/2026/08/24/apple-store-app-is-testing-an-ai-shopping-assistant/",
-      "publishedAt": "2026-08-24T14:07:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-store-ai-shopping.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Storeアプリ、AIショッピングアシスタントのテストを開始か",
-      "summaryJa": "Appleは、iPhoneおよびiPadのApple Storeアプリで新しいAIを活用したショッピングアシスタントのテストを一部のユーザー向けに「初期プレビュー」として開始しました。アプリ内のチャットアイコンから仮想アシスタントと会話できるようになり、製品の検索や注文内容の確認、専門家への相談などが可能になります。AIによる不正確な回答が含まれる可能性があり、品質向上や不正防止のために会話記録が利用される場合があります。"
-    },
-    {
-      "id": "2e169d6a3e0a3cfaf4ac",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Amazon Offers Up to $150 Discounts on M5 MacBook Air",
-      "url": "https://www.macrumors.com/2026/08/24/amazon-150-discount-m5-macbook-air/",
-      "publishedAt": "2026-08-24T14:01:26.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macbook-air-prime-day-2.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Amazon、M5搭載MacBook Airを最大150ドル引きで販売",
-      "summaryJa": "Amazonにおいて、M5チップを搭載したMacBook Airの複数のモデルを対象に最大150ドルの割引セールが実施されています。今回のセールは主に13インチモデルに焦点を当てており、16GB/1TBモデルや24GB/1TBモデルなどが対象となっています。夏の価格改定以降では非常にお得な価格となっており、購入のチャンスとなっています。"
     }
   ],
-  "updatedAt": "2026-09-01T17:25:45.551Z",
+  "updatedAt": "2026-09-01T20:07:54.397Z",
   "initialized": true,
   "summaryVersion": 4
 }
