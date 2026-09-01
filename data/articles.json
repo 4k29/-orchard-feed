@@ -1,6 +1,141 @@
 {
   "articles": [
     {
+      "id": "6f28fa970ac5ac8ad541",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Firefox for iOS Gets Built-In Ad Blocker",
+      "url": "https://www.macrumors.com/2026/09/01/firefox-ios-ad-blocker/",
+      "publishedAt": "2026-09-01T13:00:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/08/mozilla-firefox-banner-fixed.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "FirefoxのiOS版に組み込み型広告ブロック機能が登場",
+      "summaryJa": "Mozillaは、iOS版Firefoxにサードパーティ製の広告やトラッカーをブロックする機能を新たに追加しました。Safari用のコンテンツブロック技術であるWebKitを活用し、アプリ内に直接組み込むことで機能を実現しています。初期設定ではオフになっており、設定メニューから手動で有効化することが可能です。"
+    },
+    {
+      "id": "7b633b6c6c3df97e42fc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Dropbox breach seemingly caused by egregious authentication failure",
+      "url": "https://9to5mac.com/2026/09/01/dropbox-login-breach-seemingly-caused-by-egregious-authentication-failure/",
+      "publishedAt": "2026-09-01T12:54:49.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Dropbox-breach-seemingly-caused-by-egregious-authentication-failure.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Dropbox、サードパーティ連携の認証不備で不正アクセス被害か",
+      "summaryJa": "クラウドストレージサービスのDropboxで、Lenovo IDを用いたシングルサインオン機能の認証不備に起因する不正アクセスが発生したと報じられています。一部のユーザーに対してアカウントへの不正アクセスがあったことを知らせる通知メールが送られました。Dropbox側はLenovoのメール検証プロセスに問題があったとしていますが、追加の認証を求めていなかった点も指摘されています。"
+    },
+    {
+      "id": "4103eb7bd423391d8a86",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Dispute With OpenAI Said to Be a 'Mess of Apple's Own Making'",
+      "url": "https://www.macrumors.com/2026/09/01/dispute-said-to-be-mess-of-apples-own-making/",
+      "publishedAt": "2026-09-01T12:07:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/05/OpenAI-vs-Apple-Feature-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "OpenAI、Appleからの営業秘密侵害の訴えに反論",
+      "summaryJa": "OpenAIは、Appleが元従業員による営業秘密の窃盗を主張している裁判において、情報が盗まれた証拠を示せていないと連邦裁判所で反論しました。今回の法廷文書の中で、この法的な紛争はApple自身が招いた混乱であると主張しています。さらに、カリフォルニア州法のもとでの従業員の転職の自由や、Appleの退職者対応の不備についても言及しています。"
+    },
+    {
+      "id": "75c6e7c37bbd37876a1b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AAPL gained 2,736% under Cook, but Ternus doesn’t have to emulate him",
+      "url": "https://9to5mac.com/2026/09/01/aapl-gained-2736-under-cook-but-ternus-doesnt-have-to-emulate-him/",
+      "publishedAt": "2026-09-01T11:46:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/m4-macbook-pro-video-event.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ティム・クック体制下のApple株価と次期CEOへの期待",
+      "summaryJa": "ティム・クックがCEOを務めた期間中にAppleの株価が配当を含めて2,736%という驚異的な上昇を記録したことが報じられています。巨大な時価総額を築いたクックの後任となるジョン・テラスにとって、同様の財務的成功をそのまま真似る必要はないとの見方が示されています。過去の偉大な経営者たちと同様に、数字を追いかけるのではなく最高の製品作りに集中すべきだという哲学が強調されています。"
+    },
+    {
+      "id": "da932c81fc21641e58dd",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Vision Pro Layoffs Were Broader Than First Reported",
+      "url": "https://www.macrumors.com/2026/09/01/vision-pro-layoffs-were-broader/",
+      "publishedAt": "2026-09-01T11:18:35.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/03/apple-vision-pro-orange.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AppleのVision Pro関連レイオフは全社的な規模に拡大か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者が、AppleのVision Pro関連チームにおける人員削減が当初の報道よりも広範囲に及んでいると報じています。当初はゲームや没入型動画部門が対象とされていましたが、デバイスセキュリティやオーディオ、Siri統合、visionOSの開発チームなど社内の他部署にも影響が及んでいます。販売が低迷する中、新CEOに就任したジョン・ターナス氏の姿勢や、スマートグラスなど将来の製品戦略への影響にも注目が集まっています。"
+    },
+    {
+      "id": "60d1104d674adc089ad3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI calls trade secret dispute ‘a mess of Apple’s own making’",
+      "url": "https://9to5mac.com/2026/09/01/openai-calls-trade-secret-dispute-a-mess-of-apples-own-making/",
+      "publishedAt": "2026-09-01T11:07:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/OpenAI-calls-trade-secret-dispute-a-mess-of-Apples-own-making.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、Appleの営業秘密をめぐる訴訟で反論を展開",
+      "summaryJa": "Appleが元従業員のMacBook分析から「衝撃的な証拠」を発見したと主張した件に対し、OpenAI側が独自の法的文書で反論しました。OpenAIは、この問題はApple自身のずさんな手順や手続きによって引き起こされたものだと主張しています。この訴訟は、元エンジニアらがOpenAIでのAIハードウェア開発を支援するために機密情報を不正に持ち出したかどうかを争うものです。"
+    },
+    {
+      "id": "e782de9ea9c5731aee2d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Security Bite Podcast: Why Apple’s making big changes to its bug bounty program (Part 1)",
+      "url": "https://9to5mac.com/2026/09/01/security-bite-podcast-why-apples-making-big-changes-to-its-bug-bounty-program-part-1/",
+      "publishedAt": "2026-09-01T10:40:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleのバグ報奨金プログラムの変更点をポッドキャストで解説",
+      "summaryJa": "セキュリティに関するポッドキャスト番組の最新エピソードにおいて、Appleのバグ報奨金プログラムにおける近年の変更点について専門家らが議論を行っています。Objective-Seeのパトリック・ウォードル氏らをゲストに迎え、プログラムの見直しや現在のmacOSを取り巻く脅威の状況について詳しく語られています。今後のセキュリティカンファレンスやプラットフォーム全体の安全性向上に向けた動向に関心が集まっています。"
+    },
+    {
+      "id": "8f6f4cc5bf08b2ae4353",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple leadership page updated as John Ternus becomes the new CEO",
+      "url": "https://9to5mac.com/2026/09/01/apple-leadership-page-updated-as-john-ternus-becomes-the-new-ceo/",
+      "publishedAt": "2026-09-01T10:09:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-leadership-page-john-ternus.jpg?quality=82&#038;strip=all&#038;w=1594",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、ジョン・ターナス新CEOへの移行に伴い指導部ページを更新",
+      "summaryJa": "Appleはティム・クック氏からジョン・ターナス氏へのCEO引き継ぎを正式に完了し、企業のリーダーシップページを更新しました。クック氏はエグゼクティブ・チェアとして取締役会に加わり、ターナス新体制のもとで新たな時代が始まります。ターナス氏は製品志向のビジョンを持ち、今後開催される秋のイベントで新製品の発表を行う予定です。"
+    },
+    {
+      "id": "b9697cf7cf42570306a8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work Podcast: The human side of AI adoption in the enterprise",
+      "url": "https://9to5mac.com/2026/09/01/apple-work-podcast-the-human-side-of-ai-adoption-in-the-enterprise/",
+      "publishedAt": "2026-09-01T10:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple @ Work：企業におけるAI導入のヒューマンサイド",
+      "summaryJa": "最新のポッドキャストエピソードでは、ゲストとしてグレブ・ツィプルスキー博士が出演し、企業におけるAI導入の人間的な側面や、自身の著作などについて語っています。組織における新しいテクノロジーの受け入れ方や、現場で直面する課題について解説しています。"
+    },
+    {
       "id": "25b6beab590c6cf1e798",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4371,144 +4506,9 @@
       ],
       "titleJa": "Mophie、ケーブル内蔵型で持ち運びに便利な新型バッテリーを発表",
       "summaryJa": "Mophieは、iPhone向けに5000mAhと10000mAhの容量を持つ新しい「PowerStation Plus」バッテリーを発表しました。ポケットに入れやすいサイズで、本体の側面には充電用のUSB-Cケーブルが内蔵されており、一部のモデルでは複数のデバイスを同時に充電することも可能です。手頃な価格設定に加え、飛行機への持ち込みにも配慮された設計となっています。"
-    },
-    {
-      "id": "e4f48ee84993cd4deecf",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Retail Stores Preparing for New Home Product Launches",
-      "url": "https://www.macrumors.com/2026/08/23/apple-stores-prepare-new-home-products/",
-      "publishedAt": "2026-08-23T19:20:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、直営店で新型ホーム製品に向けたレイアウト変更を準備か",
-      "summaryJa": "Appleが今秋に向けて直営店の店内レイアウトの再編を進めており、新型ホーム製品の発売に向けた準備を行っていると報じられています。周辺の壁面ディスプレイエリアを調整し、新しいアクセサリベイを追加する作業が進められている模様です。噂されているディスプレイ付きスマートホームハブや、新型Apple TV、HomePod miniの登場に向けた布石ではないかと注目を集めています。"
-    },
-    {
-      "id": "91abe2efe5dbc560b5d0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "M6 iMac Coming This Year in New Colors",
-      "url": "https://www.macrumors.com/2026/08/23/m6-imac-this-year-new-colors/",
-      "publishedAt": "2026-08-23T18:36:39.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "M6搭載の新型iMacが新色とともに今年後半登場か",
-      "summaryJa": "Bloombergのマーク・ガーマン記者によると、AppleはM6チップを搭載した新型24インチiMacを開発中で、今年末までに発売される可能性が高いと報じられています。現行のM4モデルの後継として登場し、新たなカラーバリエーションが追加される見込みです。デザインの大幅な変更はないと予想されており、数年後にはOLEDディスプレイを搭載したモデルの登場も噂されています。"
-    },
-    {
-      "id": "8b427060f02df783767d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Gurman: iPhone Ultra Wows Early Testers, Except for Its Camera",
-      "url": "https://www.macrumors.com/2026/08/23/apple-foldable-iphone-early-tester-thoughts/",
-      "publishedAt": "2026-08-23T18:19:25.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみ式iPhone Ultra、初期テスターから高評価か",
-      "summaryJa": "Apple初の折りたたみ式デバイスと噂される「iPhone Ultra」が、初期のテスターの間で高い評価を得ていると報じられています。携帯性の良さやヒンジの耐久性、大きな画面を活かしたアプリのレイアウトなどが称賛されている一方、望遠レンズ非搭載のカメラ性能には課題も残されているようです。本体は非常に薄型に設計されており、9月上旬のイベントでの発表が予想されています。"
-    },
-    {
-      "id": "4f13dd017b192ee1858f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Report: Apple launching updated iMac with M6 chip and new colors later this year",
-      "url": "https://9to5mac.com/2026/08/23/apple-refreshed-imac-m6-chip-new-colors/",
-      "publishedAt": "2026-08-23T15:20:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/m4-imac-vs-m3-imac-colors.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、M6チップ搭載の新型iMacを年末までに発売か",
-      "summaryJa": "Bloombergのマーク・ガーマン記者によると、AppleはM6チップを搭載し新たなカラーオプションを用意した新型iMacを開発しており、今年末までに発売される見込みです。M6チップは2nmプロセスをベースにした最初のMac向けチップになると報じられており、iMacのほかにも秋には新モデルの登場が控えている可能性があります。"
-    },
-    {
-      "id": "c0f1cd73bacb1ac436d8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s what people who have used the iPhone Ultra like most",
-      "url": "https://9to5mac.com/2026/08/23/heres-what-people-who-have-used-the-iphone-ultra-like-most/",
-      "publishedAt": "2026-08-23T14:41:50.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "折りたたみ式iPhone Ultraの内部での評価に関する報道",
-      "summaryJa": "ブルームバーグのマーク・ガーマン記者が、未発表の折りたたみ式iPhone Ultraを実際に試用したApple社内の関係者からのフィードバックについて報じています。ポケットへの収まりの良さやヒンジの耐久性、内側ディスプレイを活用したiPadのようなアプリレイアウトなどが高く評価されていると伝えられています。価格は2,000ドル以上になると予想されており、生体認証にはFace IDではなくTouch IDが採用される見通しです。"
-    },
-    {
-      "id": "4dbce720d3c661b76a03",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Stores preparing ‘significant’ changes for new Home product launches: report",
-      "url": "https://9to5mac.com/2026/08/23/apple-preparing-for-homepod-mini-apple-tv-smart-home-launches/",
-      "publishedAt": "2026-08-23T14:33:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/homepod-siri-ai-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Storeがホーム製品の刷新に向けて大幅な変更を準備か",
-      "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、Appleは今秋予定している新しいホーム製品の発売に向けて、直営店の小売店舗で大規模な売り場変更を準備していると報じられています。新型のHomePod miniやApple TV 4Kのほか、長年噂されてきたディスプレイ付きのスマートホームハブが同時に登場する可能性があると伝えられています。店舗の改修規模から、通常の製品アップデートにとどまらない大型新製品の投入が期待されています。"
-    },
-    {
-      "id": "20144a08b36e82355198",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirTag 2 4-Pack Hits New Low Price of $85 on Amazon",
-      "url": "https://www.macrumors.com/2026/08/23/airtag-2-85-amazon/",
-      "publishedAt": "2026-08-23T13:52:53.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/new-airtag-2-peach.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AmazonにてAirTag 2の4パックが過去最安値の85ドルで販売中",
-      "summaryJa": "Amazonで「AirTag 2」の4パックが通常99.00ドルから85.00ドルに値下げされ、これまでの最安値を更新するセールが開催されています。また、1パックも29.00ドルから24.00ドルへと割引されています。第2世代となるAirTagは、第2世代の超広帯域チップを搭載しており、従来モデルよりも最大50%遠い距離から正確な位置を見つける機能を利用できます。"
-    },
-    {
-      "id": "1513ca03049c2f847e95",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Google’s new Pixel 11 offers an incredible camera feature that Apple should copy",
-      "url": "https://9to5mac.com/2026/08/22/pixel-11-new-camera-feature-apple-should-copy/",
-      "publishedAt": "2026-08-22T20:43:49.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-cosmic-orange-cameras-angle.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "GoogleのPixel 11の新カメラ機能、Appleが学ぶべき点",
-      "summaryJa": "Googleが新たに発表したPixel 11シリーズには、撮影前の画像処理をより細かくコントロールできる新しいカメラ機能が搭載されました。iPhoneの「フォトグラフスタイル」に似つつも、昔のデジカメのような質感や低処理の自然な風合いを楽しめる独自のプリセットが用意されています。スマートフォンの過度な画像処理トレンドから離れたこうしたアプローチについて、次期iPhoneでの採用に期待が寄せられています。"
-    },
-    {
-      "id": "ccbef7137d4e11c138d8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Indie App Spotlight: ‘CloudGear’ brings all cloud gaming platforms into one tvOS app",
-      "url": "https://9to5mac.com/2026/08/22/indie-app-spotlight-cloudgear-brings-all-cloud-gaming-platforms-into-one-tvos-app/",
-      "publishedAt": "2026-08-22T19:30:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/CloudGear-aligned.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV向け統合クラウドゲームアプリ「CloudGear」が登場",
-      "summaryJa": "CloudGearは、主要なすべてのクラウドゲーミングプラットフォームを一つのインターフェースに統合するtvOSおよびiOS向けアプリです。GeForce Now、Xbox Cloud Gaming、Amazon Luna、Boosteroidに対応し、最高5K解像度や120FPSでのストリーミングを実現します。また、コントローラーの振動機能やiPhoneのTaptic Engineとの連携、さらにはARグラスへの対応など、多彩な機能を備えています。"
     }
   ],
-  "updatedAt": "2026-09-01T07:58:14.017Z",
+  "updatedAt": "2026-09-01T13:27:06.341Z",
   "initialized": true,
   "summaryVersion": 4
 }
