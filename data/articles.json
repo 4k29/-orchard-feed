@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "25b6beab590c6cf1e798",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: August 31, 2026 – Apple TV price hikes, more",
+      "url": "https://9to5mac.com/2026/08/31/daily-august-31-2026/",
+      "publishedAt": "2026-09-01T02:18:49.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVの値上げや次期Apple Watchの噂など",
+      "summaryJa": "9to5Macのポッドキャスト番組にて、Apple TVおよびApple Oneサブスクリプションの価格引き上げや、iPhone 18 Proの予約開始時期に関する噂が取り上げられています。また、次期Apple Watch Series 12での常時心拍数トラッキング機能の搭載や、新しいフィットネスアプリの導入についても言及されました。"
+    },
+    {
       "id": "2ff0c11f76362b7e1154",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -359,6 +374,51 @@
       ],
       "titleJa": "地図名称の変更を拒否したMapQuestがApp Storeで急上昇",
       "summaryJa": "米大統領令による湖の名称変更要求を拒否した地図サービス「MapQuest」が、App Storeのランキングで急上昇しています。従来の名称を維持した対応が大きな話題を呼び、週末だけで数百万のダウンロードや記録的な利用急増につながりました。"
+    },
+    {
+      "id": "5262bff32626a6c5b2a4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Trump ‘directly’ pushing Apple to update Lake Ontario name to Lake America in Maps",
+      "url": "https://9to5mac.com/2026/08/31/trump-directly-pushing-apple-to-update-lake-ontario-name-to-lake-america-in-maps/",
+      "publishedAt": "2026-08-31T14:47:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-maps-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "トランプ大統領、Apple Mapsのオンタリオ湖名変更を要請か",
+      "summaryJa": "アメリカのダグ・バーガム内務長官によると、トランプ大統領が「Apple Maps」上のオンタリオ湖の名称をレーク・アメリカに変更するようAppleに直接働きかけたとのことです。カナダとの関税を巡る対立を受けた動きであり、Google Mapsですでにラベルが変更されているほか、Appleも過去に同様の大統領令を受けてメキシコ湾の表記を変更した経緯があります。"
+    },
+    {
+      "id": "0f4064e08eb3ffe8ebcc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Inducted Into 'Brand Hall of Fame' for Iconic Ads",
+      "url": "https://www.macrumors.com/2026/08/31/apple-inducted-into-brand-hall-of-fame/",
+      "publishedAt": "2026-08-31T14:06:15.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPod-Ad-Silhouette-.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、数々の名作広告でブランド殿堂入りを果たす",
+      "summaryJa": "広告およびデザイン分野の非営利団体であるThe One Club for Creativityは、新たに設立した「ブランド殿堂入り」の最初のブランドとしてAppleを選出したと発表しました。初代Macintoshの「1984」スーパーボウルCMや「Think Different」キャンペーン、iPodのシルエット広告など、数々の象徴的な広告が評価されています。"
+    },
+    {
+      "id": "e02c0944619300b4e733",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro is coming: Here’s what’s new with each model",
+      "url": "https://9to5mac.com/2026/08/31/iphone-18-pro-is-coming-heres-whats-new-with-each-model/",
+      "publishedAt": "2026-08-31T14:06:04.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proシリーズの噂まとめ、性能やカメラが進化か",
+      "summaryJa": "9月9日に発表が予想されるiPhone 18 ProおよびPro Maxについて、最新の噂や新機能の予測が伝えられています。新チップ「A20 Pro」の搭載によるパフォーマンスやバッテリーの向上に加え、可変絞りを含むカメラシステムの刷新や、小型化したDynamic Islandなどのデザイン変更が報じられています。"
     },
     {
       "id": "d02cdd539399936c6519",
@@ -4446,69 +4506,9 @@
       ],
       "titleJa": "macOSベータ版からカメラ搭載AirPodsや未発表製品が判明",
       "summaryJa": "最新のmacOSのビルド内から、カメラを搭載したAirPodsや未発表のApple製品に関する情報が複数発見されました。Visual Intelligence機能に関連するデモ動画なども含まれており、今後の新製品展開への期待が高まっています。"
-    },
-    {
-      "id": "05cac685164c957fa437",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
-      "url": "https://9to5mac.com/2026/08/22/which-do-you-plan-to-buy-iphone-18-pro-or-foldable-iphone-ultra-poll/",
-      "publishedAt": "2026-08-22T13:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "次期iPhoneのラインナップや折りたたみモデルの噂",
-      "summaryJa": "Appleの秋のiPhone発表会では例年と異なるフラッグシップ中心の展開が噂されています。iPhone 18 Proシリーズに加え、初の折りたたみモデルであるiPhone Ultraが登場する可能性が報じられています。新モデルでは高性能なA20 Proチップやカメラの大幅な進化が期待される一方で、折りたたみモデルは高価格帯になると予想されています。"
-    },
-    {
-      "id": "9fdeefa260a59614cbf7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Weekend Apple deals: $500 off MacBook Pro, AirPods Pro 3, AirPods Max 2 $120 off, AirTag 2, more",
-      "url": "https://9to5mac.com/2026/08/22/weekend-apple-deals-macbook-pro-airpods-pro-3/",
-      "publishedAt": "2026-08-22T12:17:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-weekend-deals-AirPods-Pro-3-MacBook-Neo-AirTag.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "MacBook ProやAirPodsなどが週末限定でお得に",
-      "summaryJa": "週末限定のセールや認定整備済製品の情報が公開され、M5 Pro搭載MacBook Proの大幅な値引きやAirPodsシリーズの割引などが登場しています。公式のApple認定整備済製品でもM5搭載MacBook Airなどが特別価格で販売されており、複数の人気製品をお得に購入できるチャンスとなっています。"
-    },
-    {
-      "id": "167952fc26ae3a7dcc63",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Vision Pro Was Almost Called 'Reality Pro'",
-      "url": "https://www.macrumors.com/2026/08/22/vision-pro-was-almost-called-reality-pro/",
-      "publishedAt": "2026-08-22T07:30:49.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2023/09/Vision-Pro-Person.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Vision Proの初期開発コード名はReality Proだったか",
-      "summaryJa": "Apple Vision Proは開発の大部分において「Reality Pro」と呼ばれていたと報じられています。プロトタイプコレクターが共有した内部文字列や、以前に出願された商標などから、当初はOSも含めて「Reality」の名称が検討されていたことが明らかになりました。最終的に製品名としてVision Proが採用され、OSもvisionOSに変更されています。"
-    },
-    {
-      "id": "b9c3fb19f9ce15e752c8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "ChatGPT’s iPhone app gets a handy shortcut to attach recent photos more quickly",
-      "url": "https://9to5mac.com/2026/08/21/chatgpts-iphone-app-gets-a-handy-shortcut-to-attach-recent-photos-more-quickly/",
-      "publishedAt": "2026-08-21T23:50:13.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ChatGPTのiPhoneアプリに写真の添付が簡単になるショートカットが登場",
-      "summaryJa": "OpenAIは、ChatGPTのiPhone向けアプリにおいて、最近の写真を手軽に添付できる新しいジェスチャーを追加しました。プロンプト入力ボックスの左側にある「+」ボタンを長押しするだけで、直近の4枚の写真が表示され、素早く選択して会話に利用できるようになります。この機能は、視覚的な検索ややり取りをよりスムーズにするための今週のアップデートの一環として提供されています。"
     }
   ],
-  "updatedAt": "2026-08-31T23:45:53.430Z",
+  "updatedAt": "2026-09-01T02:22:44.333Z",
   "initialized": true,
   "summaryVersion": 4
 }
