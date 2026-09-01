@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "0ecdf063997b548648be",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s how much Apple is paying John Ternus as CEO, Tim Cook as executive chairman",
+      "url": "https://9to5mac.com/2026/09/01/john-ternus-gets-58m-pay-package-as-ceo-tim-cook-47m-as-chairman/",
+      "publishedAt": "2026-09-01T22:10:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/cook-ternus-pokemon.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新CEOジョン・ターナス氏とクック会長の報酬パッケージが明らかに",
+      "summaryJa": "米証券取引委員会への提出書類から、新たな最高経営責任者に就任したジョン・ターナス氏の総報酬額が明らかになりました。基本給に加えて多額の株式報酬が含まれており、取締役会長に就任するティム・クック氏の新たな報酬詳細も併せて公開されています。クック氏の報酬は以前より減額されたものの、会長職としては異例の大型パッケージとなっています。"
+    },
+    {
+      "id": "277f300d4cf2a848f188",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Here's What Apple is Paying John Ternus to Run the Company",
+      "url": "https://www.macrumors.com/2026/09/01/apple-ceo-john-ternus-compensation/",
+      "publishedAt": "2026-09-01T21:50:43.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/01/Apple-Logo-Cash-Feature-Mint.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、新CEOジョン・ターナス氏の巨額な報酬プランを公開",
+      "summaryJa": "Appleは、新CEOに就任したジョン・ターナス氏の目標報酬を5800万ドルに設定したことをSECへの提出書類で明らかにしました。これには3百万ドルの基本給と、業績や株価連動型の株式報酬が含まれています。一方、エグゼクティブ・チェアマンへ移行するティム・クック氏の報酬は4700万ドルとなり、前年から減額されることになります。"
+    },
+    {
+      "id": "1fe3e861e80d32d72288",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Maps Renames Lake Ontario 'Lake America'",
+      "url": "https://www.macrumors.com/2026/09/01/apple-maps-lake-america/",
+      "publishedAt": "2026-09-01T20:58:35.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/trump-lake-america.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleマップ、米国内でオンタリオ湖を「レイク・アメリカ」に変更",
+      "summaryJa": "Appleはマップアプリにおいて、米国内のユーザーを対象にオンタリオ湖の表記を「レイク・アメリカ」に変更し始めました。これはトランプ米大統領による大統領令やカナダとの貿易摩擦を受けた措置で、国内ユーザー向けに順次適用されています。カナダでは従来の名称が維持され、その他の地域では両方の名称が表示される仕組みとなっています。"
+    },
+    {
+      "id": "d0525dab73e2858bfbb7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Maps now uses ‘Lake America’ instead of ‘Lake Ontario’ after Trump order",
+      "url": "https://9to5mac.com/2026/09/01/apple-maps-renaming-lake-ontario-to-lake-america-following-trump-order/",
+      "publishedAt": "2026-09-01T20:49:50.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-maps-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleマップがオンタリオ湖の名称を米国内で「レイク・アメリカ」に変更",
+      "summaryJa": "Appleはマップアプリで、オンタリオ湖の表記を米国内のユーザー向けに「レイク・アメリカ」へと変更し始めました。これは先週のトランプ大統領による名称変更の指示を受けたもので、米政府機関のデータベース更新に追随した形となります。カナダ国内のユーザーには従来の名称が表示され、世界中のその他の地域では両方の名称が併記されます。"
+    },
+    {
+      "id": "0e0da9f431de570d40aa",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New iPhone Ultra details arrive for specs, multitasking, launch timing, more",
+      "url": "https://9to5mac.com/2026/09/01/new-iphone-ultra-details-arrive-for-specs-multitasking-launch-timing-more/",
+      "publishedAt": "2026-09-01T20:25:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone Ultraの仕様やマルチタスク機能の最新情報か",
+      "summaryJa": "著名記者のマーク・ガーマン氏が、来週発表されると噂の折りたたみ式iPhoneに関する新たな詳細を明かしました。5.5インチの外側ディスプレイや7.8インチの内側ディスプレイを搭載し、MagSafeにも対応すると報じられています。また、耐久性のあるヒンジ構造や、iPadのようなマルチタスク機能がサポートされる見込みです。"
+    },
+    {
       "id": "4f9786ad5dd1dc5bbf58",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -362,6 +437,66 @@
       "summaryJa": "Apple TVで9月に配信される注目の新作映画やテレビ番組のラインナップが発表されました。ライアン・レイノルズ主演のアクションコメディ映画『Mayday』や、人気スパイ・スリラー『窓際のスパイ』シーズン6などが秋のシーズンを彩ります。話題作の続編や新規タイトルの配信が順次スタートする予定です。"
     },
     {
+      "id": "be9ef06e8dc5d8626a83",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "John Ternus just revealed his priorities in first introduction as Apple CEO",
+      "url": "https://9to5mac.com/2026/09/01/john-ternus-just-revealed-his-priorities-in-first-introduction-as-apple-ceo/",
+      "publishedAt": "2026-09-01T14:36:50.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/john-ternus-apple-park.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新CEO就任のジョン・ターナス氏が掲げる製品戦略とは",
+      "summaryJa": "新たにAppleのCEOに就任したジョン・ターナス氏の公式プロフィールが更新され、同氏の重要な優先事項が明らかになりました。耐久性や信頼性の向上に加え、リサイクル素材の活用や3Dプリント製チタンの導入など、環境負荷低減とハードウェア設計における革新に深く注力していることが示されています。"
+    },
+    {
+      "id": "cf988e6b8b19f5bac2fc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "John Ternus is Now Apple's CEO",
+      "url": "https://www.macrumors.com/2026/09/01/john-ternus-is-now-apple-ceo/",
+      "publishedAt": "2026-09-01T14:23:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/John-Ternus-CEO-16x9-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleの新CEOにジョン・ターナス氏が正式就任",
+      "summaryJa": "Appleのハードウェアエンジニアリング部門を率いてきたジョン・ターナス氏が、同社の新しいCEOに正式に就任しました。15年間CEOを務めたティム・クック氏は、今後は取締役会のエグゼクティブ・チェアマンに移行し、世界中の政策立案者との関わりなどをサポートしていく予定です。"
+    },
+    {
+      "id": "806cb95e3a2fe24bc8dd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 1, 2026 – Tim Cook steps down, Ternus takes over",
+      "url": "https://9to5mac.com/2026/09/01/daily-september-1-2026/",
+      "publishedAt": "2026-09-01T13:46:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ティム・クック氏がCEO退任、ターナス氏への移行を詳報",
+      "summaryJa": "Appleの長年のCEOであったティム・クック氏が退任し、ジョン・ターナス氏が新たにCEOに就任した日の動向が伝えられています。App StoreやAppleイベントを担当してきたフィル・シラー氏の退任なども含め、同社の大きな経営陣の移行期間における主要なニュースが振り返られています。"
+    },
+    {
+      "id": "b11759c34cea7028877a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here are iPhone 18 Pro’s new colors, says leaker",
+      "url": "https://9to5mac.com/2026/09/01/here-are-iphone-18-pros-new-colors-says-leaker/",
+      "publishedAt": "2026-09-01T13:45:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの新しいカラーラインナップか",
+      "summaryJa": "次期iPhone 18 Proに関する新たなリーク情報が報じられ、ダークチェリーやバーガンディ、スカイブルー、ブラックといった新しいカラーオプションが導入される可能性があると伝えられています。昨年見送られたブラックが復活する一方、シルバーは提供されないとの予想も示されており、今後の正式発表に注目が集まっています。"
+    },
+    {
       "id": "6f28fa970ac5ac8ad541",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -375,6 +510,22 @@
       ],
       "titleJa": "FirefoxのiOS版に組み込み型広告ブロック機能が登場",
       "summaryJa": "Mozillaは、iOS版Firefoxにサードパーティ製の広告やトラッカーをブロックする機能を新たに追加しました。Safari用のコンテンツブロック技術であるWebKitを活用し、アプリ内に直接組み込むことで機能を実現しています。初期設定ではオフになっており、設定メニューから手動で有効化することが可能です。"
+    },
+    {
+      "id": "0fcf19fa8db0eafa8e19",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "“The impact was the biggest surprise“: Swiggy’s transition to native pays off",
+      "url": "https://developer.apple.com/news/?id=o5spbekm",
+      "publishedAt": "2026-09-01T13:00:01.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/7A572641-A4F5-4C16-848E-0BFC18A5853F/2048.jpeg",
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "スウィギーがネイティブ移行で成果を報告",
+      "summaryJa": "インドのオンデマンドサービスを展開するスウィギーが、SwiftとSwiftUIを活用したネイティブアプリへの移行によるパフォーマンス改善や設計への影響について語っています。ハイブリッド構成の限界を解消するため主要な機能を段階的に刷新し、読み込み速度の向上や安定性の確保を実現したと述べています。"
     },
     {
       "id": "7b633b6c6c3df97e42fc",
@@ -4356,160 +4507,9 @@
       ],
       "titleJa": "折りたたみ式iPhone Ultraの噂、主要機能に制限か",
       "summaryJa": "Apple初の折りたたみ式iPhoneとされる「iPhone Ultra」が約2週間後にも発表されると報じられています。2000ドルを超える高価格になると予想される一方で、望遠カメラやアクションボタン、Face ID、MagSafeなどが非搭載となる大きな制限が設けられる可能性があると伝えられています。薄型デザインの実現や構造上の理由から、生体認証には側面のTouch IDが採用される見通しです。"
-    },
-    {
-      "id": "a0cbcb94e59dcd513cb2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 24, 2026 – Walmart Apple Pay rollout, Apple layoffs",
-      "url": "https://9to5mac.com/2026/08/24/daily-august-24-2026/",
-      "publishedAt": "2026-08-24T18:38:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ウォルマートのApple Pay対応や人員削減の噂",
-      "summaryJa": "9to5Macのポッドキャスト番組にて、ウォルマートによるApple Payの来週からの導入や、Vision ProおよびSiriチームにおける200名以上の人員削減など、その日の主要なニュースが振り返られています。"
-    },
-    {
-      "id": "02701cda8fd34fb67c2e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro’s new price might be better than expected",
-      "url": "https://9to5mac.com/2026/08/24/iphone-18-pros-new-price-might-be-better-than-expected/",
-      "publishedAt": "2026-08-24T18:22:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-price-dollar-cost.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの価格上昇は予想よりも小幅に",
-      "summaryJa": "Appleが間もなく発売するとみられるiPhone 18 Proの価格について、一部のアナリストが予測していたほど高額にはならない可能性があると報じられています。サムスンやグーグルと同様に、部品コストの高騰に対応して100ドルの値上げにとどまる見通しです。"
-    },
-    {
-      "id": "15755a2f69be2c296731",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "MagSafe Monday: The TUCCH Mag Wallet feels like a real wallet, not just a slot to stick cards in",
-      "url": "https://9to5mac.com/2026/08/24/tucch-mag-wallet/",
-      "publishedAt": "2026-08-24T18:18:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/bradley.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "二つ折りで使える便利なTUCCHのMagSafeウォレット",
-      "summaryJa": "多くのMagSafeウォレットが単なるカードスロットであるのに対し、TUCCHのPUレザー製ウォレットは伝統的な二つ折り財布のようにしっかりと折り畳める仕様になっています。透明な身分証用ウインドウや複数のカードスロットを備え、強力な磁力でiPhoneにしっかりと吸着します。"
-    },
-    {
-      "id": "fa2d8814c7117ff042b8",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Update: New domain for Sign in with Apple",
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "publishedAt": "2026-08-24T18:00:46.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple、「Appleでサインイン」の新ドメインを発表",
-      "summaryJa": "Appleは、今年後半から「Appleでサインイン」の新しいメールアドレスが従来のドメインから変更される予定であることを明らかにしました。開発者は、アカウントシステムやメール検証のロジックが新しいドメインに対応しているか確認する必要があります。"
-    },
-    {
-      "id": "1ceb061d94f01dfde908",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases beta 7 for iPadOS 27, watchOS 27, and more",
-      "url": "https://9to5mac.com/2026/08/24/apple-releases-beta-7-for-ipados-27-tvos-27-and-more/",
-      "publishedAt": "2026-08-24T17:35:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPadOSやwatchOSなどのベータ7を開発者向けに公開",
-      "summaryJa": "Appleは次期OSの正式リリースに向けて、iPadOSなどのベータ7を開発者向けに公開しました。ベータサイクルの終盤に差し掛かっているため、今回の主な焦点は新機能の追加ではなく不具合の修正やシステムの安定性向上となっています。例年通りであれば、まもなくRC版の登場や秋の新型iPhone発表イベントの開催が期待される時期です。"
-    },
-    {
-      "id": "595ccf57d4e46a9d9f0e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases macOS Golden Gate Beta 7",
-      "url": "https://www.macrumors.com/2026/08/24/apple-releases-macos-golden-gate-beta-7/",
-      "publishedAt": "2026-08-24T17:35:05.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、macOS Golden Gateのベータ7をリリース",
-      "summaryJa": "Appleは開発者向けにmacOS Golden Gateのベータ7をリリースしました。このバージョンでは、デザインの細かな調整や新機能となるチャットボット形式のSiri AIなどが導入されています。SafariのAIによるタブ整理や写真アプリの編集機能なども含まれており、秋の正式リリースに向けた最終調整が進められています。"
-    },
-    {
-      "id": "7c29a130154f1a5eaa9d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds Seventh iOS 27 and iPadOS 27 Betas to Developers",
-      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-ios-27-beta-7/",
-      "publishedAt": "2026-08-24T17:34:02.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iOS 27とiPadOS 27のベータ7を開発者向けに配信",
-      "summaryJa": "Appleはテスト目的でiOS 27とiPadOS 27のベータ7を開発者向けに配信開始しました。新機能としてSiri AIが統合され、写真やSafariなどのアプリ全体でAI機能が強化されています。また、システム全体のパフォーマンス向上も図られており、旧型のデバイスでも動作が軽快になるなどの改善が見られます。"
-    },
-    {
-      "id": "28dcee6a245e58a40f6b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Second Release Candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8 now available",
-      "url": "https://9to5mac.com/2026/08/24/second-release-candidates-for-macos-tahoe-26-7-and-macos-sequoia-15-8-now-available/",
-      "publishedAt": "2026-08-24T17:33:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOS Tahoe 26.7などの第2弾RC版を提供",
-      "summaryJa": "Appleは開発者向けにmacOS Tahoe 26.7とmacOS Sequoia 15.8の第2弾リリース候補版（RC）の提供を開始しました。先週公開された最初のRC版のコードからは、カメラ搭載AirPodsに関する詳細な情報が見つかって話題になりました。今回のアップデートでは主にセキュリティ修正や最後の仕上げが行われているとみられます。"
-    },
-    {
-      "id": "7eb603a4e6a2e53f3e9a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "macOS 27 Golden Gate developer beta 7 now available, here’s how to install it",
-      "url": "https://9to5mac.com/2026/08/24/macos-27-golden-gate-developer-beta-7-now-available-heres-how-to-install-it/",
-      "publishedAt": "2026-08-24T17:32:22.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/macOS-27-b7.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOS 27 開発者向けベータ7を配信開始",
-      "summaryJa": "Appleは開発者向けに「macOS 27 ゴールデンゲート ベータ 7」の配信を開始しました。前回のベータ6からわずか1週間でのリリースとなります。今回のバージョンでは、ウィンドウコントロールのデザイン調整や新機能の不具合修正、パフォーマンスおよびセキュリティの向上が進められています。正式リリースを控え、細部の調整が急ピッチで進められている状況です。"
-    },
-    {
-      "id": "650ce8c4c1fe3b25e5b4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds watchOS 27 Beta 7 to Developers",
-      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-watchos-27-beta-7-to-developers/",
-      "publishedAt": "2026-08-24T17:30:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、watchOS 27 開発者向けベータ7をリリース",
-      "summaryJa": "Appleは開発者向けに「watchOS 27 ベータ 7」を公開しました。前回のベータ版から1週間での提供となり、無料のデベロッパーアカウントを持つユーザーが対象となっています。watchOS 27では、新機能「Siri AI」による高度な対話や情報の取得が可能になるほか、スマートスタックの提案機能の向上やバッテリー駆動時間の最適化などが図られています。"
     }
   ],
-  "updatedAt": "2026-09-01T20:07:54.397Z",
+  "updatedAt": "2026-09-01T22:37:00.035Z",
   "initialized": true,
   "summaryVersion": 4
 }
