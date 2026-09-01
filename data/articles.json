@@ -16,6 +16,21 @@
       "summaryJa": "9to5Macのポッドキャスト番組にて、Apple TVおよびApple Oneサブスクリプションの価格引き上げや、iPhone 18 Proの予約開始時期に関する噂が取り上げられています。また、次期Apple Watch Series 12での常時心拍数トラッキング機能の搭載や、新しいフィットネスアプリの導入についても言及されました。"
     },
     {
+      "id": "4a4ea3ea89b7d4ab03ad",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Qualcomm Raising Chip Prices Starting Tomorrow",
+      "url": "https://www.macrumors.com/2026/08/31/qualcomm-chip-price-increase/",
+      "publishedAt": "2026-08-31T23:39:44.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/03/Apple-5G-Modem-Feature-16x9.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "クアルコム、2桁台のチップ値上げを実施へ",
+      "summaryJa": "クアルコムはサプライヤーのコスト増を吸収できないとして、チップ価格を2桁台の引き上げを実施すると発表しました。Appleは独自のモデムチップへの移行を進めていますが、iPhone 17モデルなどで引き続きクアルコム製チップを採用しています。一方で、DRAMやストレージの価格高騰も重なり、将来のiPhoneモデルの値上げにつながる可能性が指摘されています。"
+    },
+    {
       "id": "2ff0c11f76362b7e1154",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -44,6 +59,36 @@
       ],
       "titleJa": "Mac版ChatGPTのCodexを活用した4ヶ月間の体験談",
       "summaryJa": "ChatGPTのデスクトップアプリに統合されたOpenAIの「Codex」エージェント機能について、Macでの実際の活用体験が報じられています。非プログラマーの執筆者であっても、「Computer Use」プラグインの追加によって作業の効率化や新たな学びのシーズンがもたらされたと語られています。かつてAppleに買収されたWorkflowの系譜を継ぐこのAI機能は、Macでの作業スタイルを大きく変える存在として注目を集めています。"
+    },
+    {
+      "id": "279b9a37bd6cc85f2a83",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
+      "url": "https://www.macrumors.com/2026/08/31/apple-ios-27-public-beta-6/",
+      "publishedAt": "2026-08-31T21:13:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Cool.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、各OSのパブリックベータ第6版を公開",
+      "summaryJa": "Appleは登録ユーザー向けに、iOSやiPadOS、tvOSなどのパブリックベータ第6版をリリースしました。開発者向けベータの第8版公開に続くもので、9月のイベント後に予定されている正式リリースに向けた最終調整の段階に入っています。今回のベータ版では目立った新機能の追加は含まれておらず、安定性の向上やバグ修正が中心となっています。"
+    },
+    {
+      "id": "d154f9b70b630bbf1769",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Says Former Engineer Used Stolen Trade Secrets at OpenAI, Taught AI Agent to Run Them",
+      "url": "https://www.macrumors.com/2026/08/31/apple-openai-lawsuit-trade-secret-theft-evidence/",
+      "publishedAt": "2026-08-31T20:22:40.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/05/OpenAI-vs-Apple-Feature-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、元エンジニアが機密を不正利用した証拠を提出",
+      "summaryJa": "Appleは、元従業員が機密情報を盗み出してOpenAIでの業務に利用したとする訴訟において、新たな証拠を追加提出しました。元従業員のラップトップのフォレンジック調査から、機密の回路図面を不正にダウンロードしAIエージェントの訓練などに利用していたことが判明しています。Appleは迅速な証拠開示手続きを進めるよう裁判所に求めており、法的な対立が続いています。"
     },
     {
       "id": "3a274dab9aafd4c72728",
@@ -254,6 +299,36 @@
       ],
       "titleJa": "Apple、開発者向けにwatchOS 27ベータ8を配信開始",
       "summaryJa": "Appleは開発者向けにwatchOS 27のベータ8をリリースしました。このバージョンでは、対応するiPhoneと連携して動作する新しいSiri AIが導入され、情報の検索や自然な対話が可能になっています。さらに、Liquid Glassの視認性向上や、ワークアウト機能の強化、バッテリー効率の最適化なども行われています。"
+    },
+    {
+      "id": "a34c4a8eaa699456f8be",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds tvOS 27 Beta 8 to Developers",
+      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-tvos-27-beta-8/",
+      "publishedAt": "2026-08-31T17:11:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/tvOS-27-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、開発者向けにtvOS 27ベータ8を配信",
+      "summaryJa": "Appleはテスト用として、開発者向けにtvOS 27のベータ8を配信開始しました。前回のベータ版から約1週間でのリリースとなり、設定アプリからダウンロードしてインストールすることが可能です。今回のアップデートでは、ポッドキャストアプリの再設計や文字サイズ拡大オプション、応答性が向上したコントロールセンターなどが含まれています。"
+    },
+    {
+      "id": "db589570e040c6cef114",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds Eighth visionOS 27 Beta to Developers",
+      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-visionos-27-beta-8/",
+      "publishedAt": "2026-08-31T17:10:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/curved_windows_visionos-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、開発者向けにvisionOS 27ベータ8を配信開始",
+      "summaryJa": "Appleは開発者向けに次期「visionOS 27」のベータ8をリリースしました。今回のアップデートでは、よりスマートになったSiri AIや空間環境へ変換できるパノラマ写真機能などが含まれており、各種システムの改良が進められています。"
     },
     {
       "id": "20503edc3dd3fb4f73e7",
@@ -4431,84 +4506,9 @@
       ],
       "titleJa": "Apple TV向け統合クラウドゲームアプリ「CloudGear」が登場",
       "summaryJa": "CloudGearは、主要なすべてのクラウドゲーミングプラットフォームを一つのインターフェースに統合するtvOSおよびiOS向けアプリです。GeForce Now、Xbox Cloud Gaming、Amazon Luna、Boosteroidに対応し、最高5K解像度や120FPSでのストリーミングを実現します。また、コントローラーの振動機能やiPhoneのTaptic Engineとの連携、さらにはARグラスへの対応など、多彩な機能を備えています。"
-    },
-    {
-      "id": "1035709f589539fb6556",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "We’re just two months away from the first touchscreen MacBook: Here’s what to expect",
-      "url": "https://9to5mac.com/2026/08/22/touchscreen-macbook-ultra-coming-soon-heres-whats-coming/",
-      "publishedAt": "2026-08-22T17:58:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-macbook.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "初のタッチスクリーン搭載MacBookが10月にも登場か",
-      "summaryJa": "Appleが長年採用を見送ってきたタッチスクリーンを搭載した最初のMacBookを、10月にも発売する可能性が報じられています。新型MacBook Proのデザイン刷新に合わせて展開され、Tandem OLEDディスプレイやDynamic Islandの搭載、タッチ操作向けのソフトウェア最適化が施される見込みです。"
-    },
-    {
-      "id": "e32695a162fc7c9b729b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro event date: When Apple announced its event over the last six years",
-      "url": "https://9to5mac.com/2026/08/22/iphone-18-pro-event-date-when-announcement/",
-      "publishedAt": "2026-08-22T17:32:09.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "次期iPhone発表イベントの時期を過去の傾向から予測する",
-      "summaryJa": "Appleの過去数年間の発表スケジュールに基づくと、次期iPhone発表イベントは9月上旬に開催される可能性が高いと報じられています。近年の傾向では、イベント日の14日前に正式アナウンスが行われており、従業員の募集情報などからも9月上旬の開催が示唆されています。労働の日との兼ね合いから、水曜日の開催が有力視されています。"
-    },
-    {
-      "id": "9a1fc2600ecb613d7755",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple @ Work: Most IT leaders want AI to help manage their Macs, but few are ready for it",
-      "url": "https://9to5mac.com/2026/08/22/apple-work-most-it-leaders-want-ai-to-manage-their-macs-but-few-are-ready-for-it/",
-      "publishedAt": "2026-08-22T13:30:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Macの管理にAI活用を望むITリーダー、準備はまだ途上か",
-      "summaryJa": "多くの企業がMacの管理にAIを活用したいと考えている一方で、実際の現場ではまだ導入の準備が整っていないと感じていることが、Fleetの調査レポートにより明らかになりました。大規模な企業組織に所属する500名以上のIT責任者を対象に調査が行われ、デバイス管理におけるAI活用の現状と課題が浮き彫りになっています。"
-    },
-    {
-      "id": "be2e878a93096733bef8",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Biggest Summer Deals Drop: AirPods Max 2 Plummet to $429, M4 iPad Air $100 Off",
-      "url": "https://www.macrumors.com/2026/08/22/best-apple-deals-of-the-week-8-21-26/",
-      "publishedAt": "2026-08-22T13:05:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/02/Best-Apple-Deals-Feature-0007-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "米Best BuyのセールでAirPods MaxやM4 iPad Airが特価に",
-      "summaryJa": "米国の家電量販店Best Buyによる記念セールが開催され、複数のApple製品が大幅な割引価格で販売されています。AirPods Maxが通常より安く購入できるほか、M4 iPad Airも値引き対象となっており、夏の時期のお得な購入機会として注目を集めています。"
-    },
-    {
-      "id": "be8213a42bce1694ed4d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Top Stories: Apple Leaks - Camera-Equipped AirPods, Beats 360, and More",
-      "url": "https://www.macrumors.com/2026/08/22/top-stories-apple-leaks-camera-airpods/",
-      "publishedAt": "2026-08-22T13:00:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/top-stories-2026-08-22.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "macOSベータ版からカメラ搭載AirPodsや未発表製品が判明",
-      "summaryJa": "最新のmacOSのビルド内から、カメラを搭載したAirPodsや未発表のApple製品に関する情報が複数発見されました。Visual Intelligence機能に関連するデモ動画なども含まれており、今後の新製品展開への期待が高まっています。"
     }
   ],
-  "updatedAt": "2026-09-01T02:27:09.725Z",
+  "updatedAt": "2026-09-01T07:58:14.017Z",
   "initialized": true,
   "summaryVersion": 4
 }
