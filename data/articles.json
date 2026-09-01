@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "da61d00a11efa513688b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Steve Jobs in 1996: ‘I still think Apple has a future’",
+      "url": "https://9to5mac.com/2026/09/01/steve-jobs-in-1996-i-still-think-apple-has-a-future/",
+      "publishedAt": "2026-09-01T17:24:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/steve-jobs.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "1996年当時のスティーブ・ジョブズのインタビュー映像が公開",
+      "summaryJa": "Appleの新しいCEO就任の話題に合わせ、1996年に公開されたスティーブ・ジョブズの古いインタビュー映像が再び注目を集めています。映像の中でジョブズは、Appleが窮地を脱するためには「切り捨てて燃やすのではなく、イノベーションを起こすことだ」と語っています。この言葉通り、のちに同社は革新によって栄光を取り戻し、ピクサーなどでの成功にもつながりました。"
+    },
+    {
+      "id": "b2beeb291d9d9c318879",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "John Ternus’s first day as Apple CEO: Here’s the latest",
+      "url": "https://9to5mac.com/2026/09/01/john-ternuss-first-day-as-apple-ceo-heres-the-latest/",
+      "publishedAt": "2026-09-01T17:18:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus-product-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ジョン・ターナス氏がAppleの新CEOに就任、経営陣の変更も",
+      "summaryJa": "ジョン・ターナス氏がAppleの新しいCEOとしての初日を迎えました。これに伴う新たな報道によると、ルカ・マエストリ氏がコーポレートサービス部門のリーダーを退任したほか、M&A部門の責任者であるエイドリアン・ペリカ氏が新しいリーダーシップページから外れるなど、経営陣の再編が進められています。関係者の間では、ターナス体制の下で退任する幹部の処遇や企業買収の戦略に変化が生じる可能性が指摘されています。"
+    },
+    {
+      "id": "6d1fc105ac52b8679f4a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Meta launches Muse Voice Transcribe for real-time voice dictation on Mac",
+      "url": "https://9to5mac.com/2026/09/01/meta-launches-muse-voice-transcribe-for-real-time-voice-dictation-on-mac/",
+      "publishedAt": "2026-09-01T17:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/meta-ai-mac-app.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Meta、Mac向けリアルタイム音声文字起こしモデルを発表",
+      "summaryJa": "Metaは、リアルタイムでの音声認識や話者識別などを可能にする新しい音声認識モデル「Muse Voice Transcribe」を発表しました。このモデルはすでにMeta AI for Macなどのシステム全体の音声入力機能に組み込まれており、長時間の音声や複数の言語、コードスイッチングを正確に処理することができます。適応型遅延技術を採用することで、スピードと精度のバランスを取りながらスムーズな文字起こしを実現しています。"
+    },
+    {
+      "id": "c1a6f731b538e8f2c84e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's M4 iPad Air Gets Best Discounts Since Summer Price Hikes",
+      "url": "https://www.macrumors.com/2026/09/01/m4-ipad-air-best-discounts/",
+      "publishedAt": "2026-09-01T16:44:59.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2020/03/m4-ipad-air-blue-2.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "M4搭載iPad Airが夏の値上げ以降で最大の割引セールに",
+      "summaryJa": "AmazonやBest Buyなどの米小売り大手において、M4チップを搭載したiPad Airの各モデルが大幅な割引価格で販売されています。夏の価格改定以降では最大規模の値引きとなっており、11インチおよび13インチのWi-Fiモデルが対象です。M4チップのほかC1XモデムやWi-Fi 7などを備えた最新モデルをお得に入手できる機会となっています。"
+    },
+    {
+      "id": "b96e46c12460484a1e20",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Sonos unveils ‘Sonos 27’ software with four new features",
+      "url": "https://9to5mac.com/2026/09/01/sonos-unveils-sonos-27-software-with-four-new-features/",
+      "publishedAt": "2026-09-01T16:12:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sonos-white-product-speaker.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Sonos、ソフトウェアプラットフォームを「Sonos 27」に刷新",
+      "summaryJa": "Sonosはソフトウェアプラットフォームの名称を「Sonos 27」に改め、今秋に向けて4つの新機能を導入すると発表しました。ポータブルスピーカーをワイヤレスリアサラウンドとして活用できる機能や、ヘッドホンとSonosスピーカー間でシームレスに音声を切り替える機能などが含まれます。また、自然な対話形式で音楽をリクエストできる新しい音声操作機能も順次提供される予定です。"
+    },
+    {
+      "id": "71b7a532c25ad651b5b0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's New CEO John Ternus is Now on X",
+      "url": "https://www.macrumors.com/2026/09/01/apples-new-ceo-john-ternus-is-now-on-x/",
+      "publishedAt": "2026-09-01T16:01:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/John-Ternus-CEO-16x9-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleの新しいCEOに就任したジョン・ターナス氏がXアカウントを開設",
+      "summaryJa": "Appleの新CEOであるジョン・ターナス氏が公式のXアカウントを開設し、最初の挨拶を投稿しました。これまでターナス氏は個人の公開ソーシャルメディアを持っていませんでした。前CEOのティム・クック氏はエグゼクティブ・チェアマンに就任し、自身のXアカウントのプロフィールもその変更に合わせて更新されています。"
+    },
+    {
+      "id": "cc14ab35895611b3d96a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Sonos launches new ‘Ultra’ headphones and soundbar, plus more",
+      "url": "https://9to5mac.com/2026/09/01/sonos-launches-new-ultra-headphones-and-soundbar-plus-more/",
+      "publishedAt": "2026-09-01T15:57:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sonos-ace-ultra-headphones.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Sonos、新ヘッドホンとサウンドバー「Ultra」シリーズを発表",
+      "summaryJa": "Sonosは新しいハードウェア製品として「Sonos Ace Ultra」ヘッドホンと「Sonos Beam Ultra」サウンドバーを発表しました。同時にソフトウェア基盤を「Sonos 27」へとリブランドすることも明らかにしています。新製品はいずれも予約受付が開始されており、9月29日より出荷が開始される予定です。"
+    },
+    {
+      "id": "d01a876dc151bc958d51",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New Apple CEO John Ternus now has his own X account",
+      "url": "https://9to5mac.com/2026/09/01/new-apple-ceo-john-ternus-now-has-his-own-x-account/",
+      "publishedAt": "2026-09-01T15:43:58.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-joins-twitter.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの新CEOジョン・ターナス氏がXのアカウントを開設",
+      "summaryJa": "Appleの新CEOに就任したジョン・ターナス氏が、Xで公式アカウントを開設し最初の投稿を行いました。本日はターナス氏がCEOとしての初日を迎えており、前任のティム・クック氏はエグゼクティブ・チェアマンへと移行しています。今後は新製品の発表や会社の取り組みに関する発信など、前CEOと同様の活用が見込まれています。"
+    },
+    {
+      "id": "7a8e9496da3ec4cd9429",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: iPhone Air up to $359 off, iPhone 17 Pro, M5 MacBook Air $240 off, AirTag 2, more",
+      "url": "https://9to5mac.com/2026/09/01/deals-iphone-air-iphone-17-pro-m5-macbook-air/",
+      "publishedAt": "2026-09-01T15:31:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-iPhone-M6-Mac-mini-AirTag-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone AirやM5 MacBook Airがセールで最大359ドル引きに",
+      "summaryJa": "米国の各小売店で労働節に向けた大規模なセールが開催されており、Apple製品の大幅な割引が実施されています。新型のiPhone Airが通常価格から150ドル引きとなっているほか、状態の良いオープンボックス品では最大359ドル引きで販売されています。また、M5を搭載したMacBook AirやAirTag 2なども過去最安値圏の特価で提供されています。"
+    },
+    {
+      "id": "288aa0406c9a9e7d959a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV just added a ton of free classic movies, here’s everything new",
+      "url": "https://9to5mac.com/2026/09/01/apple-tv-just-added-a-ton-of-free-classic-movies-heres-everything-new/",
+      "publishedAt": "2026-09-01T15:25:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/appl-tv-icon-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、サブスク向けに名作映画15本を追加",
+      "summaryJa": "Apple TVのライブラリに、新たに15本のクラシック映画が追加され、加入者向けに無料で配信が開始されました。『ソーシャル・ネットワーク』や『宇宙戦争』、『スクール・オブ・ロック』などの人気タイトルが含まれています。Apple TVではオリジナル作品を中心に展開してきましたが、近年はライセンス作品の追加も行われています。なお、前月に配信されていた作品の多くは終了しており、地域や時期によって視聴できる作品が異なる場合があります。"
+    },
+    {
+      "id": "9044a35bb2447b2696f0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Colors Apparently Include Black, But Skip Silver",
+      "url": "https://www.macrumors.com/2026/09/01/iphone-18-pro-colors-include-black-but-skip-silver/",
+      "publishedAt": "2026-09-01T15:22:57.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/iphone-17-pro-black-feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proのカラーはブラック追加か、シルバーは除外の噂",
+      "summaryJa": "次期モデルとなるiPhone 18 Proのカラーバリエーションについて、ダークチェリー、スカイブルー、ブラックが採用され、シルバーは除外される可能性が高いと報じられています。リーク情報によると、すでに量産体制に入っており、これまでのProモデルとは異なる独自の配色ラインナップになる見通しです。正式な発表は9月に予定されているAppleのイベントで行われると期待されています。"
+    },
+    {
+      "id": "f3aa53799ffcb0837da5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Perplexity launches privacy-minded ‘hybrid compute’ AI feature for Mac",
+      "url": "https://9to5mac.com/2026/09/01/perplexity-launches-privacy-minded-hybrid-compute-ai-feature-for-mac/",
+      "publishedAt": "2026-09-01T15:20:50.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Perplexity、Mac向けにプライバシー重視のハイブリッドAI機能を公開",
+      "summaryJa": "Perplexityは、クラウドとMac上のローカルモデルで処理を分散させる「ハイブリッドコンピュート」機能をMac向けアプリで提供開始しました。機密データや個人情報を扱う処理をローカルで安全に実行し、プライバシーを保護する仕組みとなっています。利用にはAppleシリコンを搭載したMacと最低24GBのユニファイドメモリが必要となります。"
+    },
+    {
       "id": "6f28fa970ac5ac8ad541",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4326,189 +4506,9 @@
       ],
       "titleJa": "Amazon、M5搭載MacBook Airを最大150ドル引きで販売",
       "summaryJa": "Amazonにおいて、M5チップを搭載したMacBook Airの複数のモデルを対象に最大150ドルの割引セールが実施されています。今回のセールは主に13インチモデルに焦点を当てており、16GB/1TBモデルや24GB/1TBモデルなどが対象となっています。夏の価格改定以降では非常にお得な価格となっており、購入のチャンスとなっています。"
-    },
-    {
-      "id": "68ebd6b7e9f8fc1ca4ef",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 20 Pro’s all-glass design gets new update from leaker",
-      "url": "https://9to5mac.com/2026/08/24/iphone-20-pros-all-glass-design-gets-new-update-from-leaker/",
-      "publishedAt": "2026-08-24T13:48:09.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "来年のiPhone Pro、全面ガラスデザインに関する新たな噂が浮上",
-      "summaryJa": "来年の登場が予想されるiPhoneの20周年記念モデルについて、新しい全面ガラスデザインの進捗状況が報じられています。リーク情報によると、iPhone Airと同様のガラス組み立てプロセスを用いつつ、より丸みを帯びた素材を使うための改良が進められています。また、放熱性や薄型化の面でも改善が図られており、Proユーザーが求める性能やバッテリー駆動時間を維持しつつ独自のガラスデザインを実現する見込みです。"
-    },
-    {
-      "id": "7d91a98f07c73f5ec1a9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro and iPhone Ultra: When Will Apple Event Be Announced?",
-      "url": "https://www.macrumors.com/2026/08/24/iphone-18-pro-iphone-ultra-apple-event-when/",
-      "publishedAt": "2026-08-24T13:45:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、9月のiPhone 18 Proおよび折りたたみモデル発表イベントの開催時期は",
-      "summaryJa": "Appleが例年9月に開催する新型iPhoneの発表イベントについて、開催日の予測が報じられています。今年はiPhone 18 Proシリーズに加え、初の折りたたみモデルとなるiPhone Ultraの発表が期待されています。労働者の日や9月11日の記念日といったスケジュール上の配慮から、イベント日程や予約開始日の調整が行われる可能性があると見られています。"
-    },
-    {
-      "id": "51745604eca573f3f1b0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AirTag 2 now just $20 each ahead of new feature coming soon",
-      "url": "https://9to5mac.com/2026/08/24/airtag-2-deal-best-price/",
-      "publishedAt": "2026-08-24T13:20:18.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airtag-2-radiating-sound.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirTag 2が過去最安値に、4個入りパックが1個あたり20ドルに",
-      "summaryJa": "Amazonにおいて、Appleの最新AirTag 2の4個入りパックが過去最安値となる79.99ドルで販売されています。1個あたり約20ドルという破格の割引となっており、1個単体の価格も24ドルに下がっています。AirTag 2は、従来モデルよりも遠くから探せる高精度な探索機能や、最大50%音量が大きくなったスピーカーなどを搭載しています。"
-    },
-    {
-      "id": "f2a47d8a3d6ffad0f034",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirTag 2 4-Pack Hits New Low Price of $79.99 on Amazon [Updated]",
-      "url": "https://www.macrumors.com/2026/08/24/airtag-2-85-amazon/",
-      "publishedAt": "2026-08-24T13:02:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/new-airtag-2-peach.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AirTag 2の4個パックがAmazonで過去最安値に",
-      "summaryJa": "Amazonにおいて、AirTag 2の4個パックが従来の99.00ドルから79.99ドルに値下げされ、過去最安値を記録しました。1個パックも29.00ドルから24.00ドルに値下がりしています。新型AirTagには第2世代の超広帯域チップが搭載されており、従来モデルよりも最大50%遠い距離から正確な場所を見つけることができます。"
-    },
-    {
-      "id": "6f7fcbd710f047b3735a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Store App Rolling Out 'Early Preview' of New Shopping Assistant",
-      "url": "https://www.macrumors.com/2026/08/24/apple-store-app-virtual-shopping-assistant/",
-      "publishedAt": "2026-08-24T12:56:14.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-Store-App-Rolling-Out-Early-Preview-of-AI-Shopping-Assistant-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Storeアプリ、AIショッピングアシスタントの早期プレビューを提供開始か",
-      "summaryJa": "iPhone向けのApple Storeアプリにおいて、一部のユーザーを対象にAIを活用した新しいバーチャルショッピングアシスタントの早期プレビュー版の提供が開始されたと報じられています。画面右下のチャットアイコンから起動し、Apple製品や注文状況、下取り価格などについて質問できる仕組みです。現時点では公式発表はなく、一部のユーザー向けに小規模なテストを行っている段階とみられています。"
-    },
-    {
-      "id": "6e74ca947b05d572027c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 20's Curved Glass Design to Be Made Like iPhone Air",
-      "url": "https://www.macrumors.com/2026/08/24/iphone-20-curved-glass-to-be-like-iphone-air/",
-      "publishedAt": "2026-08-24T12:42:09.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "20周年記念iPhone、iPhone Airと同様のガラス加工技術を採用か",
-      "summaryJa": "2027年に登場が予想される20周年記念の新型iPhoneには、iPhone Air向けに開発されたガラス製造プロセスが採用されると報じられています。リーク情報によると、改良された製造設備を使用することで丸みを帯びたガラス部品を効率的に作り、コスト削減や放熱性の向上、薄型化を実現しているとのことです。同モデルは全面ガラスの湾曲したデザインになると噂されています。"
-    },
-    {
-      "id": "ef33cf80b3a943cf7733",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 fixes three of the most annoying Messages bugs",
-      "url": "https://9to5mac.com/2026/08/24/ios-27-fixes-three-of-the-most-annoying-messages-bugs/",
-      "publishedAt": "2026-08-24T12:11:38.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOSの「メッセージ」アプリ、次期アップデートで不満の多い3つのバグを修正か",
-      "summaryJa": "次期iOSアップデートでは、メッセージアプリにおけるユーザーの不満解消に向けた機能強化が行われます。具体的には、送信失敗したメッセージの自動再送機能、写真や動画の独立した連続送信機能、そしてデバイス間のより信頼性の高い同期機能が導入される予定です。これにより、メッセージ送信時のボトルネックが解消され、より快適な利用が可能になります。"
-    },
-    {
-      "id": "aa3fd2b5fb3290719b7e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Tim Cook Replaced Steve Jobs 15 Years Ago Today, He Leaves Sept 1",
-      "url": "https://www.macrumors.com/2026/08/24/tim-cook-replaced-steve-jobs-15-years-ago-today/",
-      "publishedAt": "2026-08-24T11:38:17.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2018/08/Tim-Cook-Steve-Jobs.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "ティム・クックCEOが退任へ、後任にはジョン・ターナス氏",
-      "summaryJa": "スティーブ・ジョブズ氏の辞任から15年を経て、ティム・クックCEOが9月1日付で退任し、後任としてハードウェアエンジニアリング担当シニアバイスプレジデントのジョン・ターナス氏が就任すると報じられています。クック氏はエグゼクティブチェアマンとしてAppleに残り、規制当局への対応などをサポートする予定です。新体制のもと、新しいiPhone 18 Proや同社初となる折りたたみ式iPhoneの発表を控えています。"
-    },
-    {
-      "id": "61da53108dc69f961883",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Preparing to Increase iPhone Prices",
-      "url": "https://www.macrumors.com/2026/08/24/apple-preparing-to-increase-iphone-prices/",
-      "publishedAt": "2026-08-24T11:17:31.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhoneの値上げを検討か",
-      "summaryJa": "Appleがメモリや半導体のサプライチェーンにおけるコスト高騰を受け、iPhoneの値上げに向けて準備を進めていると報じられています。競合他社が最新スマートフォンの価格を約100ドル引き上げた動向を注視しており、iPhone 18 Proの価格にも同様の影響が及ぶ可能性があります。すでにMacやiPadの大幅な値上げが実施されている中、新たなサブスクリプションプログラムを活用することでユーザーへの負担を緩和する狙いもあるとされています。"
-    },
-    {
-      "id": "3cb722f902bd9e81cab1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "How Apple Leaked Itself",
-      "url": "https://www.macrumors.com/2026/08/24/how-apple-leaked-itself/",
-      "publishedAt": "2026-08-24T10:00:55.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/07/apple-leak-feature-blue.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleの最新ベータ版で未発表製品が多数流出した理由とは",
-      "summaryJa": "先週配信されたmacOS Tahoe 26.7のリリース候補版に、未発表のホームデバイスやiPhone、カメラ付きAirPodsなどのコードが含まれていたことが話題となっています。Bloombergのマーク・ガーマン氏によると、内部向けの未発表ハードウェア対応ビルドが通常のリリース用コードと誤ってマージされてしまった可能性が高いとのことです。本来は外部に出るはずのない内部データが、開発部門の手違いによって混入してしまったとみられています。"
-    },
-    {
-      "id": "fcf35936cbf740a8b80b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "These are the best MacBook deals right now: August 2026 Buyer’s Guide",
-      "url": "https://9to5mac.com/2026/08/23/best-apple-macbook-deals-right-now-august/",
-      "publishedAt": "2026-08-24T02:54:40.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/M4-MacBook-Air-take-two.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "MacBook各モデルの現在のお得なセール情報まとめ",
-      "summaryJa": "近年のMacは価格の手頃さが魅力となっていたが、メモリ不足の影響により大幅な値上げが実施された。しかし、Amazonなどのオンラインショップでは依然として一部のMacBook Airモデルで割引価格が提供されており、新しいコンピュータを必要としている人にとってはお得な選択肢となっている。"
-    },
-    {
-      "id": "b132cc48f7f4ea8ec5dd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Hands-on: Mophie’s new battery banks offer pocketable power, built-in cables at low price",
-      "url": "https://9to5mac.com/2026/08/23/mophie-new-pocketable-battery-banks-for-iphone/",
-      "publishedAt": "2026-08-23T20:27:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Mophie-4-batteries.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Mophie、ケーブル内蔵型で持ち運びに便利な新型バッテリーを発表",
-      "summaryJa": "Mophieは、iPhone向けに5000mAhと10000mAhの容量を持つ新しい「PowerStation Plus」バッテリーを発表しました。ポケットに入れやすいサイズで、本体の側面には充電用のUSB-Cケーブルが内蔵されており、一部のモデルでは複数のデバイスを同時に充電することも可能です。手頃な価格設定に加え、飛行機への持ち込みにも配慮された設計となっています。"
     }
   ],
-  "updatedAt": "2026-09-01T13:45:09.427Z",
+  "updatedAt": "2026-09-01T17:25:45.551Z",
   "initialized": true,
   "summaryVersion": 4
 }
