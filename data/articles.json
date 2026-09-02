@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "292b163d6203cc9b165b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Launching Eight New Products This Month",
+      "url": "https://www.macrumors.com/2026/09/02/apple-launching-eight-new-products-next-month/",
+      "publishedAt": "2026-09-02T08:15:35.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/11/Apple-Store-Logo-Livat-Beijing.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "今月中に8つの新製品が投入される可能性",
+      "summaryJa": "Appleは今月、新型のMac miniやMac Studioに加え、iPhone 18 Proシリーズや折りたたみiPhone、Apple Watch、AirPodsなど多数の新製品を投入すると報じられています。すでに発表された製品の出荷開始に加え、秋のイベントでの新製品発表も控えており、非常に慌ただしい月になりそうです。"
+    },
+    {
       "id": "f185ffe24257376fc055",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4492,24 +4507,9 @@
       ],
       "titleJa": "Apple公式認定整備済ストア、今週のおすすめ製品と割引情報",
       "summaryJa": "Apple公式認定整備済ストアにて、MacBook Proなどの人気製品が最大500ドル引きで販売されています。厳格な整備プロセスを経て出荷される整備済製品には、新品と同様の1年間限定保証や14日間の返品ポリシーが適用され、コストパフォーマンスに優れています。"
-    },
-    {
-      "id": "baa2e25273113bffc3e5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Holds Farewell Party for Tim Cook as Ternus Prepares to Take Over",
-      "url": "https://www.macrumors.com/2026/08/24/apple-tim-cook-farewell-party/",
-      "publishedAt": "2026-08-24T19:58:55.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/tim-cook-wwdc-2026.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、ティム・クックCEOの送別会を開催",
-      "summaryJa": "Appleは、9月1日に最高経営責任者（CEO）を退任するティム・クックの送別会を社内で開催しました。クックは今後、取締役会の執行会長に就任し、後任にはハードウェアエンジニアリング担当上級副社長のジョン・ターナスが就任します。今後はジョン・ターナスが新体制を率いることになります。"
     }
   ],
-  "updatedAt": "2026-09-02T05:02:01.022Z",
+  "updatedAt": "2026-09-02T09:32:03.884Z",
   "initialized": true,
   "summaryVersion": 4
 }
