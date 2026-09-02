@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "675e24cb7802d6f46f24",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Driver's License Feature in Apple Wallet Just Launched in 16th U.S. State",
+      "url": "https://www.macrumors.com/2026/09/02/apple-wallet-id-feature-16th-us-state/",
+      "publishedAt": "2026-09-02T13:38:58.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/apple-wallet-drivers-license-feature-iPhone-15-pro-purple-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Wallet、米オクラホマ州で運転免許証に対応",
+      "summaryJa": "米オクラホマ州の住民は、iPhoneやApple WatchのApple Walletアプリにデジタル運転免許証を追加できるようになりました。対応するのは米国で16番目の州となります。対応空港のTSAチェックポイントや一部の店舗、アプリなどで身分証明として利用可能ですが、法執行機関などでは引き続き物理的な身分証明書が必要です。"
+    },
+    {
+      "id": "429699406b7077e47a4e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Siri AI won’t be your friend, and here’s why that really matters",
+      "url": "https://9to5mac.com/2026/09/02/siri-ai-wont-be-your-friend-and-heres-why-that-really-matters/",
+      "publishedAt": "2026-09-02T13:21:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Siri-AI-wont-act-as-your-friend-and-heres-why-that-really-matters.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AppleのAI戦略が示す、Siriを「友だち」にしない理由",
+      "summaryJa": "米国の調査により、多くの人がAIチャットボットを親しい友人やセラピストのように捉えていることが明らかになりました。孤独感を和らげる一方で、人間関係の希薄化を招く懸念が指摘されています。Appleの幹部は、新しいSiriがAIの恋人や友人として機能しないよう設計されていると明言しており、こうした擬似的な関係の構築を避ける方針を堅持しています。"
+    },
+    {
+      "id": "84199307ba9b67879e13",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Adobe brings Photoshop, Firefly, and 70+ creative tools to Slack with MCP app",
+      "url": "https://9to5mac.com/2026/09/02/adobe-brings-photoshop-firefly-and-70-creative-tools-to-slack-with-mcp-app/",
+      "publishedAt": "2026-09-02T13:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/adobe-slack.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Adobe、Slack向けにPhotoshopやFireflyなどのクリエイティブツールを提供開始",
+      "summaryJa": "Adobeは、Slack内で直接画像や動画、デザインなどを編集できる「Adobe for Slack」アプリの提供を開始しました。Slackbotを通じてPhotoshopやFirefly、Acrobatなどの70以上のプロ向けツールを利用でき、プロジェクトの文脈を活かした資料作成や画像編集が可能です。この機能は全世界のSlack Business+およびEnterprise+の顧客向けに展開されています。"
+    },
+    {
+      "id": "f2c4e3257b425826ae98",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 2, 2026 – Apple vs OpenAI update, more",
+      "url": "https://9to5mac.com/2026/09/02/daily-september-2-2026/",
+      "publishedAt": "2026-09-02T12:50:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新しいOLED搭載iPad miniが10月末までに登場か",
+      "summaryJa": "9to5Mac Dailyのポッドキャスト番組にて、最新のApple関連ニュースが報じられました。注目のトピックとして、OLEDディスプレイを搭載した新しいiPad miniが10月末までに登場する見込みであることが伝えられています。また、新CEOに就任したジョン・ターナス氏の動向や、OpenAIを巡る訴訟の新たな証拠についても言及されています。"
+    },
+    {
+      "id": "4ee6f17e36b592d2aff6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AI will be the defining test of Apple’s environmental commitments, says Greenpeace",
+      "url": "https://9to5mac.com/2026/09/02/ai-will-be-the-defining-test-of-apples-environmental-commitments-says-greenpeace/",
+      "publishedAt": "2026-09-02T12:24:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/AI-will-be-the-defining-test-of-Apples-environmental-commitments-says-Greenpeace.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AIの導入がAppleの環境目標における最大の試練に",
+      "summaryJa": "環境保護団体グリーンピースは、AI機能の導入がAppleの環境保護への取り組みにとって最大の試練になると指摘しています。Apple IntelligenceやSiri AIを支える大規模データセンターは大量の電力や水を消費するため、これまでの再生可能エネルギーへの取り組みが試されることになります。同団体は、排出量の削減や追加の再生可能エネルギーへの投資を通じてAIの成長に対応する必要があると求めています。"
+    },
+    {
+      "id": "6d1f9238b1ea640729ac",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Labor Day 2026 deals now live: AirPods Pro 3, M6 Mac mini, AirTag 2, iPhone, more [Updated]",
+      "url": "https://9to5mac.com/2026/09/02/apple-labor-day-2026-deals-live/",
+      "publishedAt": "2026-09-02T12:17:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-Labor-Day-deals-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AmazonのレイバーデーセールでApple製品が特別価格に",
+      "summaryJa": "Amazonが大規模なレイバーデーセールを開催し、多数のApple製品が割引販売されています。AirPods Pro 3が50ドル引きの199ドルで販売されているほか、AirTag 2やiPhone 17 Pro、Apple Watch SE 3などが特別価格となっています。さらに、新発売のM6 Mac miniなどの製品も割引の対象となっており、幅広いカテゴリーでお得な価格が提供されています。"
+    },
+    {
+      "id": "fe2ab295e43b04f10771",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Mac Studio Buyer's Guide: M5 Max vs. M5 Ultra",
+      "url": "https://www.macrumors.com/guide/m5-max-vs-m5-ultra/",
+      "publishedAt": "2026-09-02T12:07:59.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/m5-max-vs-m5-ultra-mac-studio.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "M5 MaxとM5 Ultraを搭載した新しいMac Studioが登場",
+      "summaryJa": "AppleはM5 Maxおよび新開発のM5 Ultraチップを搭載した2つの新しいMac Studioを発表しました。M5 Maxモデルは2,499ドルから、M5 Ultraモデルは5,499ドルからの価格設定となっています。両モデルはThunderbolt 5やWi-Fi 7などの最新規格を共通して備える一方で、価格差は3,000ドルに達しており、用途に応じた選択ガイドが注目されています。"
+    },
+    {
+      "id": "75b5721f8658db44bf48",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's iPhone Ultra Crease Fix Set for Android Foldables Next Year",
+      "url": "https://www.macrumors.com/2026/09/02/iphone-ultra-crease-coming-to-android-foldables/",
+      "publishedAt": "2026-09-02T11:57:16.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleの折りたたみiPhone採用技術、Android陣営も導入か",
+      "summaryJa": "韓国メディアThe Elecの報道によると、GoogleやOppo、VivoなどのAndroidメーカーが、来年発売の折りたたみスマートフォンに超薄型ガラス（UTG）を採用する計画であると伝えられています。Appleが近日発表すると予想される折りたたみ式のiPhone Ultraでは、ディスプレイを2層のUTGで挟み込むことで折り目の軽減と耐久性の向上を図る独自の構造が採用される見込みです。この方式はサムスンによって量産され、2027年にはAndroidの折りたたみ端末にも広く採用されると報じられています。"
+    },
+    {
+      "id": "7b633b6c6c3df97e42fc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Dropbox breach seemingly caused by egregious authentication failure [U]",
+      "url": "https://9to5mac.com/2026/09/02/dropbox-login-breach-seemingly-caused-by-egregious-authentication-failure/",
+      "publishedAt": "2026-09-02T11:43:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Dropbox-breach-seemingly-caused-by-egregious-authentication-failure.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Dropboxでアカウント不正アクセス発生、認証の不備が原因か",
+      "summaryJa": "Dropboxは、サードパーティのシングルサインオン（SSO）機能に関連する認証の不備により、約5,000のアカウントが不正アクセスを受けたとユーザーに通知しました。Lenovo IDのメール認証プロセスを悪用されたことが原因とされていますが、Dropbox側が新しいSSO設定時に既存のログイン確認を求めていなかった点も問題視されています。この問題により、約1,500のアカウントでファイルがダウンロードされた形跡が確認されています。"
+    },
+    {
+      "id": "e0abfd4ccd47ab690eb9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "FBI investigates as hackers sell digital scans of 153M drivers licenses",
+      "url": "https://9to5mac.com/2026/09/02/fbi-investigates-as-hackers-sell-digital-scans-of-153m-drivers-licenses/",
+      "publishedAt": "2026-09-02T11:28:58.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/FBI-says-cyber-fraud-cost-Americans-21B-last-year-–-heres-what-you-need-to-know.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "1.5億件超の免許証画像がダークウェブで販売、FBIが捜査か",
+      "summaryJa": "アメリカやカナダの住民を対象とした1億5300万件以上の運転免許証のデジタルスキャン画像がダークウェブ上で販売されていることが分かり、FBIが公式な調査を開始したと報じられています。医療カードなども含まれるこの大規模なデータ流出は、身元確認サービスを手掛ける企業のハッキングが原因とみられています。サイバー犯罪者らは現在も情報の取得元にアクセスし続けていると主張しており、さらなる被害の拡大が懸念されています。"
+    },
+    {
+      "id": "db733b57e6fec9c541a8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Leakers battle over whether third iPhone 18 Pro color will be silver or black",
+      "url": "https://9to5mac.com/2026/09/02/leakers-battle-over-whether-third-iphone-18-pro-color-will-be-silver-or-black/",
+      "publishedAt": "2026-09-02T10:53:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-18-pro-colors-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの3色目を巡り、著名リーカーの間で情報が交錯",
+      "summaryJa": "来週の発表が控えるとされるiPhone 18 Proの本体カラーについて、3色目の選択肢がシルバーになるかブラックになるかで、著名リーカーの間で意見が分かれています。これまでのリークではダークチェリーやスカイブルーの採用が有力視されていますが、ブラックの有無については異なる予測が出されています。実物のSIMトレイの写真やこれまでのダミーモデルを巡り、議論が続いています。"
+    },
+    {
+      "id": "f1d339a65bf84104ab66",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Leaked iPhone 18 Pro Parts Point to Three Color Options Excluding Black",
+      "url": "https://www.macrumors.com/2026/09/02/leaked-iphone-18-pro-parts-point-to-three-colors/",
+      "publishedAt": "2026-09-02T10:17:17.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/sim-trays-iphone-18-pro-sonny-dickson@2x-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの新色を巡り、黒の採用否定するリーク画像",
+      "summaryJa": "著名リーカーのソニー・ディクソン氏が公開したSIMカードトレイの画像から、次期iPhone 18 Proのカラーバリエーションはシルバー、ダークチェリー、スカイブルーの3色になると報じられています。中国のリーカーからも黒は採用されないとの情報が出ており、昨年に続いてハイエンドモデルからブラック系が除外される可能性があります。欧州や中国などで販売されるモデルのトレイを元にした情報ですが、正式発表への関心が高まっています。"
+    },
+    {
       "id": "292b163d6203cc9b165b",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4327,189 +4507,9 @@
       ],
       "titleJa": "次期Mac miniが9月のiPhoneイベント前に登場する可能性",
       "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、Appleは数日以内に新型Mac miniを発表する見込みです。AIモデルの実行による需要増に伴い供給がひっぱくしているほか、米ヒューストンでの製造開始との関連性についても注目を集めています。"
-    },
-    {
-      "id": "3edef13b8541de883699",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Reportedly Will Announce iPhone 18 Pro Event Date This Week",
-      "url": "https://www.macrumors.com/2026/08/24/apple-invites-iphone-18-pro-event-soon/",
-      "publishedAt": "2026-08-25T02:15:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Apple-Event-Logo.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhone 18 Pro発表イベントの招待状を今週送付か",
-      "summaryJa": "Appleが恒例のiPhone発表イベントの招待状を今週中にも送付する予定であると報じられています。イベントは9月9日に開催される見込みで、iPhone 18 Proシリーズや折りたたみiPhoneに加え、新型Apple WatchやAirPods 5などが発表されると予想されています。"
-    },
-    {
-      "id": "44bc5223f47e3a36abeb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-      "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
-      "publishedAt": "2026-08-25T01:47:49.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/chatgpt-red.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI、ChatGPT PlusのCodexとWorkで5時間制限を再導入",
-      "summaryJa": "OpenAIは、ChatGPT Plusのユーザーを対象に、一時的に停止していたCodexおよびChatGPT Workの5時間ごとの利用制限を再導入すると発表しました。サーバーへの負荷を平準化し、初心者のユーザーが1週間分の利用枠を知らずに使い切ってしまう混乱を防ぐ狙いがあると説明されています。"
-    },
-    {
-      "id": "e566a21ddefccd90af1b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Tom Selleck confirmed as guest star in upcoming Apple TV comedy series",
-      "url": "https://9to5mac.com/2026/08/24/tom-selleck-confirmed-as-guest-star-in-upcoming-apple-tv-comedy-series/",
-      "publishedAt": "2026-08-25T01:05:52.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-tv-logo.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVの新作コメディシリーズにトム・セックがゲスト出演か",
-      "summaryJa": "エリザベス・バンクスが主演を務めるApple TVの未発表コメディシリーズに、伝説的俳優のトム・セックがゲスト出演すると報じられています。本作は離婚直後の女性が父親の老後の恋愛事情をきっかけに騒動に巻き込まれるストーリーで、テッド・ダンソンら豪華なキャスト陣が揃っています。"
-    },
-    {
-      "id": "fc8115d54b381510dea8",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Siri AI Will Have a Waitlist When iOS 27 Launches",
-      "url": "https://www.macrumors.com/2026/08/24/siri-ai-ios-27-waitlist/",
-      "publishedAt": "2026-08-24T23:37:02.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27などのSiri AI利用開始にはウェイリストが導入される見込みか",
-      "summaryJa": "次期OSとなるiOS 27やiPadOS 27などのベータ版から、Siri AIの利用に向けたウェイリスト機能の存在が発見されました。Appleはサーバー側で需要や容量に応じた動的な待ち時間管理を行うとみられ、公開リリース後には順次利用可能になる見通しです。"
-    },
-    {
-      "id": "b236160278c477b42f3f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
-      "url": "https://www.macrumors.com/2026/08/24/apple-releases-ios-27-public-beta-5/",
-      "publishedAt": "2026-08-24T22:51:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Cool.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iOS 27などの各パブリックベータ5を公開",
-      "summaryJa": "Appleは、対応デバイスを持つ一般ユーザー向けに「iOS 27」「iPadOS 27」「tvOS 27」および「macOS Golden Gate」のパブリックベータ5をリリースしました。開発者向けベータの数時間後、前回から約1週間ぶりの提供となります。テストプロセスが終盤に近づいており、今回のベータ版では目立った新機能は発見されていません。"
-    },
-    {
-      "id": "ebc1219364777e965f9d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New public betas now available for iOS 27, iPadOS 27, macOS 27 Golden Gate, more",
-      "url": "https://9to5mac.com/2026/08/24/new-public-betas-now-available-for-ios-27-ipados-27-macos-27-golden-gate-more/",
-      "publishedAt": "2026-08-24T22:45:50.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iOS 27やmacOS 27などの最新パブリックベータを公開",
-      "summaryJa": "Appleは、開発者向けベータ第7版の公開に続き、iOS 27やiPadOS 27、macOS 27などの次期OSにおける最新のパブリックベータ版の提供を開始しました。今回のビルドは開発者向けのものと同一であり、数週間後に予定されている正式リリースに向け、主にバグ修正や安定性の向上が図られています。参加を希望するユーザーは、Apple Beta Software Programの公式サイトから登録して各デバイスにインストールすることが可能です。"
-    },
-    {
-      "id": "4a7044f56dd2fc1c5039",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "ChatGPT now lets users create custom iMessage and WhatsApp stickers",
-      "url": "https://9to5mac.com/2026/08/24/chatgpt-now-lets-users-create-custom-imessage-and-whatsapp-stickers/",
-      "publishedAt": "2026-08-24T22:15:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/chatgpt-messages.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ChatGPTが写真からカスタムステッカーを作成しiMessageへ書き出し可能に",
-      "summaryJa": "OpenAIは、ユーザーが自分の写真やアイデアを元にしてカスタムステッカーを作成し、iMessageやWhatsAppへ直接書き出せる新機能を発表しました。ユーザーは画像をアップロードしてステッカー化を依頼したり、スタイルを指定して調整したりすることが可能です。作成したステッカーはチャットアプリへ簡単に追加でき、iMessageでは専用のセクションに表示されて手軽に利用できるようになります。"
-    },
-    {
-      "id": "29cdce7fb443eae1bdaa",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple reverses planned Hide My Email domain change after user pushback",
-      "url": "https://9to5mac.com/2026/08/24/apple-reverses-planned-hide-my-email-domain-change-after-user-pushback/",
-      "publishedAt": "2026-08-24T21:05:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-mail-app-icon-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、メールを隠す機能のドメイン変更を撤回",
-      "summaryJa": "Appleは、iCloud+の「メールを隠す」機能で予定していた新ドメインへの移行を中止し、既存のicloud.comを継続すると発表しました。ユーザーやコミュニティからの反発を受けたもので、ウェブサイト側による機能のブロックを防ぐ狙いがあります。なお、サインイン用のアドレスについては今年後半から新ドメインへ移行する予定です。"
-    },
-    {
-      "id": "07304cb60be634f6ed6a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Home Hub Code Hints at Face-Based Profile Switching",
-      "url": "https://www.macrumors.com/2026/08/24/home-hub-ambient-sending/",
-      "publishedAt": "2026-08-24T20:53:28.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/11/Apple-AI-Command-Center-Concept-Mock-3.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleの次期ホームハブ、顔認証によるプロファイル切替か",
-      "summaryJa": "Appleの次期ホームハブに関するコードから、顔認識や環境センシングを用いた自動プロファイル切り替え機能が示唆されています。カメラとセンサーでユーザーを識別し、個人向けコンテンツを表示するとみられます。本製品には2つのモデルが用意される見込みです。"
-    },
-    {
-      "id": "a07ddec56f392bb10794",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s Emergency SOS Live Video is now available in Brazil",
-      "url": "https://9to5mac.com/2026/08/24/apples-emergency-sos-live-video-is-now-available-in-brazil/",
-      "publishedAt": "2026-08-24T20:28:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/emergency-video-call.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhoneの緊急SOSライブ映像機能がブラジルで利用可能に",
-      "summaryJa": "RapidSOSとの提携により、ブラジルの緊急通報機関でiPhoneの「緊急SOSライブ映像」が利用可能になりました。iPhone 14以降のユーザーは、緊急通報時に190番からの要請に応じてライブ映像を安全に共有できるようになります。この機能は米国で導入された技術と同じ仕組みを活用しています。"
-    },
-    {
-      "id": "22ef1e056455514160e1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Won't Change Hide My Email Domain After Backlash",
-      "url": "https://www.macrumors.com/2026/08/24/apple-hide-my-email-domain/",
-      "publishedAt": "2026-08-24T20:17:23.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/12/iCloud-General-Feature-Redux.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、「メールを隠す」のドメイン変更を撤回",
-      "summaryJa": "Appleは、iCloudの「メールを隠す」機能で使用するメールアドレスのドメイン変更計画を撤回しました。ユーザーからの反発を受け、従来のicloud.comドメインがそのまま維持されることになります。なお、「Appleでサインイン」については、今年後半から新しいドメインへ移行する予定です。"
-    },
-    {
-      "id": "e71785c87f303107e13b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple official refurb store: This week’s top picks at up to $500 off",
-      "url": "https://9to5mac.com/2026/08/24/apple-official-refurb-store-best-offers/",
-      "publishedAt": "2026-08-24T20:04:21.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-refurbished.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple公式認定整備済ストア、今週のおすすめ製品と割引情報",
-      "summaryJa": "Apple公式認定整備済ストアにて、MacBook Proなどの人気製品が最大500ドル引きで販売されています。厳格な整備プロセスを経て出荷される整備済製品には、新品と同様の1年間限定保証や14日間の返品ポリシーが適用され、コストパフォーマンスに優れています。"
     }
   ],
-  "updatedAt": "2026-09-02T09:32:03.884Z",
+  "updatedAt": "2026-09-02T13:50:20.951Z",
   "initialized": true,
   "summaryVersion": 4
 }
