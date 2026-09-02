@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "35e6cbfe6b6b94f82bbc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Mac App Store Apps Can Now Drop Support for Intel Macs",
+      "url": "https://www.macrumors.com/2026/09/01/mac-app-store-intel-mac-support/",
+      "publishedAt": "2026-09-01T23:50:09.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/06/intel-macs-no-more-updates.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Mac App Storeアプリ、Intel Macのサポート終了が可能に",
+      "summaryJa": "Appleは開発者に対し、macOS 13以降を必須とするユニバーサルMac App Storeアプリにおいて、Intelプロセッサ搭載Macのサポートを終了できるようになったと通知しました。これにより開発の簡素化やアプリサイズの最適化を図ることができますが、Intel Macユーザーは最後に互換性のあったバージョンを引き続き使用可能です。"
+    },
+    {
+      "id": "516f9a37a075d3d35108",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Air Review: One Year With Apple's Super Thin $999 iPhone",
+      "url": "https://www.macrumors.com/2026/09/01/iphone-air-one-year-review/",
+      "publishedAt": "2026-09-01T23:35:51.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone Airの1年使用レビュー：超薄型モデルの長所と課題",
+      "summaryJa": "Appleの超薄型スマートフォンとして登場したiPhone Airを約1年間使用した長期レビューが公開されました。持ちやすさや軽さ、6.5インチのOLEDディスプレイが魅力である一方、バッテリー持ちの限界やシングルカメラの仕様、そして999ドルという価格設定がネックとなり、販売面では苦戦したと伝えられています。"
+    },
+    {
+      "id": "7d131025bf0990221aa8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Ford explains why it chose Apple Maps over Google for its new EVs",
+      "url": "https://9to5mac.com/2026/09/01/ford-explains-why-it-chose-apple-maps-over-google-for-its-new-evs/",
+      "publishedAt": "2026-09-01T23:33:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-maps-generic-3d.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "フォードが新型EVにGoogleではなくApple Mapsを選んだ理由",
+      "summaryJa": "フォードの幹部がインタビューに応じ、次世代EVプラットフォームでGoogleマップではなくApple Mapsを採用した理由を明かしました。近年大幅に向上したマップの品質に加え、航続距離の予測や充電器の空き状況、天候データなどを正確に統合するため、Appleの柔軟なチーム体制と優れたソリューションが最適であると判断したとしています。"
+    },
+    {
       "id": "0ecdf063997b548648be",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4462,54 +4507,9 @@
       ],
       "titleJa": "Epic、Appleの外部決済手数料に関するデータ非公開化の動きに反対",
       "summaryJa": "Epic Gamesは、App Store外でのリンク購入に関するAppleの手数料提案を巡り、Appleが提出した関連データの非公開化を求める申し立てに反対を表明しました。Epicは、Appleが過度に広範な範囲で情報を隠そうとしていると主張しています。今回の争点は、開発者に課す手数料の妥当性を判断する上で中心となる重要なデータを含んでおり、裁判所記録の公開基準が問われています。"
-    },
-    {
-      "id": "0eec3566ef535b3ace36",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 adds three new iPhone features I’ve been really loving",
-      "url": "https://9to5mac.com/2026/08/24/ios-27-adds-three-new-iphone-features-ive-been-really-loving/",
-      "publishedAt": "2026-08-24T19:23:04.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-iphone-side-angle-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOSに搭載されたAI時代の新機能とSiriアプリ",
-      "summaryJa": "iOSにはメッセージやメモ、Apple Walletなど全体にわたって多くの新機能が追加されています。その中でもAI時代に向けて刷新された専用のSiriアプリは、iCloudを介してデバイス間で会話履歴を同期できるのが特徴です。また、メッセージアプリでは文脈に応じたワンタップの提案機能が提供され、よりスムーズにリマインダーやメモ作成を行えるようになっています。"
-    },
-    {
-      "id": "d5f46f22d63715734615",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s everything new Apple TV has coming in September",
-      "url": "https://9to5mac.com/2026/08/24/heres-everything-new-apple-tv-has-coming-in-september-2026/",
-      "publishedAt": "2026-08-24T19:12:48.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-tv-fall-mountains.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、9月に配信される注目の新作映画やドラマ",
-      "summaryJa": "Apple TVでは秋の初めにあわせて、ライアン・レイノルズ主演のアクションコメディ映画『Mayday』や、スリラー作品『Last Seen』、人気スパイ作品『窓際のスパイ』シーズン6など多数の話題作が配信されます。実力派キャストが揃う注目作が目白押しで、秋のラインナップを盛り上げます。気になる作品はウォッチリストに追加して配信に備えることができます。"
-    },
-    {
-      "id": "4342e14686702ebd15e3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Ultra is coming, but it might not have these key features",
-      "url": "https://9to5mac.com/2026/08/24/iphone-ultra-wont-have-these-five-features/",
-      "publishedAt": "2026-08-24T18:58:49.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "折りたたみ式iPhone Ultraの噂、主要機能に制限か",
-      "summaryJa": "Apple初の折りたたみ式iPhoneとされる「iPhone Ultra」が約2週間後にも発表されると報じられています。2000ドルを超える高価格になると予想される一方で、望遠カメラやアクションボタン、Face ID、MagSafeなどが非搭載となる大きな制限が設けられる可能性があると伝えられています。薄型デザインの実現や構造上の理由から、生体認証には側面のTouch IDが採用される見通しです。"
     }
   ],
-  "updatedAt": "2026-09-01T22:37:00.035Z",
+  "updatedAt": "2026-09-02T00:33:17.559Z",
   "initialized": true,
   "summaryVersion": 4
 }
