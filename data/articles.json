@@ -1,6 +1,126 @@
 {
   "articles": [
     {
+      "id": "4309c39bb665f490386e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "'I Wouldn't Be Talking to You': Apple Shares Apple Watch Survival Story",
+      "url": "https://www.macrumors.com/2026/09/02/apple-watch-heart-story/",
+      "publishedAt": "2026-09-02T17:25:29.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、Apple Watchが命を救ったユーザーの体験談を公開",
+      "summaryJa": "Appleは、Apple Watchの通知をきっかけに白血病の早期発見と治療につながったユーザーの体験談を紹介する動画を公開しました。着用者は安静時心拍数などの異常を知らせる通知を受け取って医師を受診し、急性骨髄性白血病と診断されて治療を経て寛解に至りました。日常的な健康モニタリング機能が命を救った実例として注目を集めています。"
+    },
+    {
+      "id": "16cb8448eded111f3430",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s new film from ‘Best Picture’ Oscar winner gets first trailer",
+      "url": "https://9to5mac.com/2026/09/02/apples-new-film-from-best-picture-oscar-winner-gets-first-trailer/",
+      "publishedAt": "2026-09-02T16:41:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/being-heumann-courtroom.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、映画賞受賞監督による新作「Being Heumann」の予告編を公開",
+      "summaryJa": "Appleは、映画「コーダ あいのうた」でアカデミー賞作品賞を受賞したシアン・ヘダー監督による新作映画「Being Heumann」の予告編を公開しました。実話を基にした本作は、1977年に障害を持つ女性と仲間たちが政府ビルの占拠闘争を通じて権利獲得を目指した革命的な物語を描いています。11月13日よりApple TVでの配信が予定されており、新たな受賞候補作として期待されています。"
+    },
+    {
+      "id": "d13f0a157521a3b062b3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Open the Current App's Settings From Control Center",
+      "url": "https://www.macrumors.com/how-to/open-the-current-apps-settings-from-control-center/",
+      "publishedAt": "2026-09-02T15:36:54.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Shortcuts-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "コントロールセンターから現在のアプリ設定を素早く開く小技",
+      "summaryJa": "iPhoneで現在開いているアプリの設定画面へ素早くアクセスできる便利なショートカット活用法が紹介されています。通常は設定アプリの深い階層から探す必要がある各アプリの個別メニューを、ショートカットを作成してコントロールセンターやアクションボタンに割り当てることでワンタップで呼び出せるようになります。日常的な操作の手間を大幅に軽減できる実用的なテクニックです。"
+    },
+    {
+      "id": "3b54c9dba3d99f1455bd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "M6 MacBook Pro: Three new upgrades launching this fall",
+      "url": "https://9to5mac.com/2026/09/02/m6-macbook-pro-three-new-upgrades-launching-this-fall/",
+      "publishedAt": "2026-09-02T15:36:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/m6-macbook-pro-angle.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "今秋登場のM6 MacBook Proに期待される3つの進化点",
+      "summaryJa": "今秋の発売が噂されるM6チップを搭載したMacBook Proについて、3つの主要なアップグレード内容が伝えられています。新しいM6チップにはデュアル16コアNeural Engineが搭載され、オンデバイスAIの処理性能が大幅に向上するほか、12コアCPUおよびGPUや優れた電力効率を実現する2nmプロセスが採用される見込みです。"
+    },
+    {
+      "id": "a87736615062a934ae63",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: AirPods Pro 3 $50 off, M5 MacBook Air $240 off, M6 Mac mini, accessories from $5.50, more",
+      "url": "https://9to5mac.com/2026/09/02/deals-airpods-pro-3-m5-macbook-air-m6-mac-mini/",
+      "publishedAt": "2026-09-02T15:27:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-Pro-3-MacBook-Air-M5-Mac-mini-M6.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AmazonのセールでAirPods Pro 3が50ドル引きに",
+      "summaryJa": "Amazonで開催中のLabor Dayセールにおいて、最新のAirPods Pro 3が通常より50ドル安い199ドルで販売されています。他にもAirTag 2や公式整備済製品のMacBook Airなど、複数のApple製品が割引対象となっています。"
+    },
+    {
+      "id": "7821a9bc7b3515b51ddb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's New Mac Mini Already Discounted - See the Pre-Order Deals",
+      "url": "https://www.macrumors.com/2026/09/02/pre-order-discounts-mac-mini/",
+      "publishedAt": "2026-09-02T15:11:36.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/mac-mini-2026-blue.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型Mac miniが発売を前に早くも割引価格で予約受付中",
+      "summaryJa": "Amazonにて、発表されたばかりの新型Mac miniの予約受付が開始され、早くも割引価格で販売されています。対象となるのはM6モデルやM5 Proモデルで、9月22日の正式発売を前に少しお得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "346a6d4e8f89dd12a4ae",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 gives Apple Pay its best upgrade in years with redesign",
+      "url": "https://9to5mac.com/2026/09/02/ios-27-gives-apple-pay-its-best-upgrade-in-years-with-redesign/",
+      "publishedAt": "2026-09-02T14:26:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-pay-card-ios-27-checkout.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27のApple Payは長年で最大の使いやすさを実現",
+      "summaryJa": "iOS 27ではApple Payのチェックアウト画面が刷新され、数年ぶりとなる大幅なデザイン改良が行われました。カードの切り替え操作が直感的になり、配送先や請求先などの情報もひと目で確認しやすくなっています。"
+    },
+    {
+      "id": "54bd68bed34c47f38f78",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Wallet driver’s license support launches in Oklahoma",
+      "url": "https://9to5mac.com/2026/09/02/apple-wallet-drivers-license-support-launches-in-oklahoma/",
+      "publishedAt": "2026-09-02T13:52:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ok.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleウォレットの運転免許証対応がオクラホマ州に拡大",
+      "summaryJa": "Appleはウォレットアプリの運転免許証および身分証明書機能の対応州を拡大し、オクラホマ州の住民もiPhoneやApple Watchに追加できるようになりました。全米で16番目の導入となり、対応空港のTSAセキュリティチェックなどで利用可能です。"
+    },
+    {
       "id": "675e24cb7802d6f46f24",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4387,129 +4507,9 @@
       ],
       "titleJa": "MacBookの盗難を防ぐ専用ケーブルロックアダプタが登場",
       "summaryJa": "かつてMacBookの側面に備わっていたセキュリティスロットの機能を現代のモデルでも利用できるようにする専用アダプタが登場しました。CompuLockが展開するこの製品は、MacBook AirやMacBook Proなどの本体に取り付けることで、テーブルの脚などにケーブルで固定できるようになります。数秒の隙を突いた持ち去り被害を防ぐための低セキュリティ向けの対策ですが、カフェや図書館などで席を離れる際の簡易的な防犯手段として役立ちます。"
-    },
-    {
-      "id": "45f0e71af9e0fbf4cb1e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Trade-In Values Slide Ahead of New Model Launch",
-      "url": "https://www.macrumors.com/2026/08/25/iphone-trade-in-values-slide-ahead-of-launch/",
-      "publishedAt": "2026-08-25T11:27:41.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/05/apple-trade-in-2024.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型iPhone発表直前の下取り価格低下傾向",
-      "summaryJa": "新モデルの発表を控える時期には、多くのiPhoneの下取り価格が発表から発売までの間に下落する傾向があることが調査で分かりました。過去の機種では発表日と発売日の間で大部分のモデルで価値が下がっており、特に旧モデルや一部の大容量モデルで下落幅が目立っています。そのため多くのユーザーは、手元に新しい端末が届いてデータ移行を済ませるまで下取りに出さない選択をしています。"
-    },
-    {
-      "id": "ada153361b33089832ad",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Prepare to wait for Siri AI access when iOS 27 launches next month",
-      "url": "https://9to5mac.com/2026/08/25/prepare-to-wait-for-siri-ai-access-when-ios-27-launches-next-month/",
-      "publishedAt": "2026-08-25T11:01:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Prepare-to-wait-for-Siri-AI-access-when-iOS-27-launches-next-month.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27などのSiri AI機能に待ち行列が導入か",
-      "summaryJa": "来月に正式リリースされるiOS 27やmacOS 27では、新しいSiri AI機能の利用に待機リストが適用されると報じられています。ベータ版と同様に、サーバー容量や需要のバランスに応じてアクセス可能になるまで数週間の待ち時間が発生する可能性があります。製品版では、サーバーから送信されるパーソナライズされた待ち時間メッセージに対応するインフラが追加されています。"
-    },
-    {
-      "id": "27134ef21b7e4e91cef3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple @ Work Podcast: Breaking down Apple’s bug bounty cap and cool down period",
-      "url": "https://9to5mac.com/2026/08/25/breaking-down-apples-bug-bounty-cap-and-cool-down-period/",
-      "publishedAt": "2026-08-25T10:23:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleのバグ報奨金プログラム変更とクールダウン期間の導入",
-      "summaryJa": "Apple @ Workポッドキャストの最新エピソードでは、Appleがセキュリティのバグ報奨金プログラムに導入したクールダウン期間や報酬上限の変更について詳しく解説しています。AI生成による不具合報告の急増に対応するための新たな取り組みの背景に迫っています。"
-    },
-    {
-      "id": "309057496692ee1b77a8",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "New iPad Mini With Four Upgrades Expected to Launch by Late October",
-      "url": "https://www.macrumors.com/2026/08/24/new-ipad-mini-by-end-of-october-report/",
-      "publishedAt": "2026-08-25T03:33:31.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/10/ipad-mini-7-feature-red-and-blue.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "有機EL搭載の新型iPad miniが10月下旬にも登場か",
-      "summaryJa": "Appleが有機ELディスプレイを搭載した新型iPad miniを10月下旬にも発売する予定であると報じられています。次期モデルではOLED化による画質向上のほか、スピーカーシステムの刷新や防水性能の向上が見込まれており、価格が上昇する可能性があります。"
-    },
-    {
-      "id": "8f07281d9b0b81e1f6b1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirPods 5 to Launch as Early as Next Month",
-      "url": "https://www.macrumors.com/2026/08/24/airpods-5-to-launch-as-early-as-next-month/",
-      "publishedAt": "2026-08-25T03:00:32.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/airpods-4-new-new-orange.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型AirPods 5が早ければ来月にも発表か",
-      "summaryJa": "Appleが早ければ9月にも2つの新型AirPods 5モデルを発表する計画であると報じられています。アクティブノイズキャンセリング搭載モデルと非搭載モデルが用意される見込みで、次回のiPhoneイベントでの発表が噂されています。"
-    },
-    {
-      "id": "e0b345ce2b031339ccba",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple could debut two AirPods 5 models next month, per report",
-      "url": "https://9to5mac.com/2026/08/24/apple-could-debut-two-airpods-5-models-next-month-per-report/",
-      "publishedAt": "2026-08-25T02:56:09.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、来月開催のイベントでAirPods 5などを発表か",
-      "summaryJa": "Appleが来月開催されるとみられるiPhoneイベントにおいて、早ければAirPods 5を発表する可能性があると報じられています。AirPods 5には通常モデルとノイズキャンセリング搭載モデルが用意され、カメラ搭載型は来年以降になると伝えられています。"
-    },
-    {
-      "id": "203158994c96c671ef23",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Report: New Mac mini could launch before Apple’s September event",
-      "url": "https://9to5mac.com/2026/08/24/report-new-mac-mini-could-launch-before-apples-september-event/",
-      "publishedAt": "2026-08-25T02:26:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Mac-mini-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、新型Mac miniを9月のイベント前に発売か",
-      "summaryJa": "Bloombergの報道によると、Appleは9月のiPhone関連イベントを前に、数日内にも新型Mac miniを発表する可能性があると伝えられています。ローカルでのAIアプリ実行需要の高まりによりMac miniへの注目が集まっており、供給面での納期遅延や今後の展開にも関心が集まっています。"
-    },
-    {
-      "id": "bf96d754fed86615a0bb",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "New Mac Mini Reportedly Set to Launch Before iPhone 18 Pro Event",
-      "url": "https://www.macrumors.com/2026/08/24/new-mac-mini-in-coming-days-report/",
-      "publishedAt": "2026-08-25T02:19:17.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/mac-mini-blue.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "次期Mac miniが9月のiPhoneイベント前に登場する可能性",
-      "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、Appleは数日以内に新型Mac miniを発表する見込みです。AIモデルの実行による需要増に伴い供給がひっぱくしているほか、米ヒューストンでの製造開始との関連性についても注目を集めています。"
     }
   ],
-  "updatedAt": "2026-09-02T13:50:20.951Z",
+  "updatedAt": "2026-09-02T17:29:48.094Z",
   "initialized": true,
   "summaryVersion": 4
 }
