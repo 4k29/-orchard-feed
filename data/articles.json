@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "f185ffe24257376fc055",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple tells Mac App Store developers they can now drop Intel support",
+      "url": "https://9to5mac.com/2026/09/01/apple-tells-mac-app-store-developers-they-can-now-drop-intel-support/",
+      "publishedAt": "2026-09-02T00:50:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/Sequoia-intel.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Mac App Storeの開発者、Intelサポートの終了が可能に",
+      "summaryJa": "Appleは、macOS 13以降を必要とするMac App Storeのユニバーサルアプリにおいて、IntelベースMacのサポートを終了できるようになったと開発者に通知しました。これにより開発者は開発作業を簡素化し、ダウンロードサイズを最適化できるようになります。Intelユーザーは引き続き互換性のある最後のバージョンを利用可能です。"
+    },
+    {
       "id": "35e6cbfe6b6b94f82bbc",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4492,24 +4507,9 @@
       ],
       "titleJa": "Apple、ティム・クックCEOの送別会を開催",
       "summaryJa": "Appleは、9月1日に最高経営責任者（CEO）を退任するティム・クックの送別会を社内で開催しました。クックは今後、取締役会の執行会長に就任し、後任にはハードウェアエンジニアリング担当上級副社長のジョン・ターナスが就任します。今後はジョン・ターナスが新体制を率いることになります。"
-    },
-    {
-      "id": "69a05813b97c063eab16",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Epic fights Apple’s bid to seal key data behind proposed fees on linked-out purchases",
-      "url": "https://9to5mac.com/2026/08/24/epic-fights-apples-bid-to-seal-key-data-behind-proposed-fees-on-linked-out-purchases/",
-      "publishedAt": "2026-08-24T19:49:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Epic、Appleの外部決済手数料に関するデータ非公開化の動きに反対",
-      "summaryJa": "Epic Gamesは、App Store外でのリンク購入に関するAppleの手数料提案を巡り、Appleが提出した関連データの非公開化を求める申し立てに反対を表明しました。Epicは、Appleが過度に広範な範囲で情報を隠そうとしていると主張しています。今回の争点は、開発者に課す手数料の妥当性を判断する上で中心となる重要なデータを含んでおり、裁判所記録の公開基準が問われています。"
     }
   ],
-  "updatedAt": "2026-09-02T00:33:17.559Z",
+  "updatedAt": "2026-09-02T05:02:01.022Z",
   "initialized": true,
   "summaryVersion": 4
 }
