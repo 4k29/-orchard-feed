@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "887916420692a087a7c0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Rare Working Apple-1 Could Fetch $800,000 at Auction",
+      "url": "https://www.macrumors.com/2026/09/02/hatfield-apple-1-auction/",
+      "publishedAt": "2026-09-02T21:10:43.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/hatfield-apple-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "動作する希少なApple-1コンピュータがオークションに登場",
+      "summaryJa": "現存数が少なく、実際に動作する希少なApple-1コンピュータが10月にオークションへ出品されます。この機体はスティーブ・ウォズニアックの署名やスティーブ・ジョブズの直筆手紙が付属しており、高額での落札が予想されています。過去の修復を経て現在も良好な稼働状態を維持しており、世界各地で一般公開が予定されています。"
+    },
+    {
       "id": "e080dcdaa6c2a4b00079",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4493,24 +4508,9 @@
       ],
       "titleJa": "Apple、M6とM5 Proを搭載して大幅に性能向上した新型Mac miniを発表",
       "summaryJa": "Appleは約2年ぶりとなるMac miniのアップデートを発表しました。コンパクトな本体デザインを維持しつつ、ベースモデルには初となる2nmプロセスのM6チップを、上位にはM5 Proを採用しています。AI処理性能が最大4倍に高まり、Wi-Fi 7などの最新接続機能も備えて本日より予約受付が始まっています。"
-    },
-    {
-      "id": "c4f0c55cff98dd1ed43d",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "publishedAt": "2026-08-25T12:59:36.109Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、M6とM5 Proを搭載しAI性能を大幅に強化した新型Mac miniを発表",
-      "summaryJa": "AppleはM6およびM5 Proチップを搭載した新型Mac miniを発表しました。超小型のデスクトップデザインはそのままに、AIパフォーマンスが最大4倍、グラフィックスやストレージが最大2倍高速化されています。Wi-Fi 7やBluetooth 6への対応など接続機能も強化され、高度な作業やオンデバイスでのAI処理を強力にサポートします。"
     }
   ],
-  "updatedAt": "2026-09-02T20:04:24.137Z",
+  "updatedAt": "2026-09-02T22:34:54.353Z",
   "initialized": true,
   "summaryVersion": 4
 }
