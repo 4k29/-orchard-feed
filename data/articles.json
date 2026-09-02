@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "e080dcdaa6c2a4b00079",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Ryan Reynolds’ new Apple TV spy movie is a winner, reviews here",
+      "url": "https://9to5mac.com/2026/09/02/ryan-reynolds-new-apple-tv-spy-movie-is-a-winner-reviews-here/",
+      "publishedAt": "2026-09-02T19:53:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ryan-reynolds-mayday-jacket.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ライアン・レイノルズ主演のApple TV新作映画「Mayday」が初期レビューで高評価を獲得",
+      "summaryJa": "Apple TVの秋の新作ラインナップとして配信されるライアン・レイノルズ主演のアクション・スパイ・コメディ映画「Mayday」の初期レビューが公開されました。アクションやユーモア、主演2人の相性の良さが絶賛されており、映画館で公開されるべきだったとの声も上がるほど高い評価を得ています。配信開始は9月4日金曜日を予定しています。"
+    },
+    {
+      "id": "f1daa944849cbb197592",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 Introduces New 'iPhone Handoff' Feature",
+      "url": "https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/",
+      "publishedAt": "2026-09-02T19:35:53.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-iOS-27-Feature.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27、同じ電話番号で2台のiPhoneを切り替えて使える「iPhone Handoff」機能を導入へ",
+      "summaryJa": "AppleがiOS 27で追加した新機能「iPhone Handoff」の動作デモ動画が公開されました。同じ電話番号を設定した2台のiPhone間で、メインとサブのeSIMを活用してデバイスを交互に切り替えられる機能となります。設定アプリのモバイル通信メニューから構成でき、米国Tモバイルなどのキャリアサポートが必要になると見られています。"
+    },
+    {
+      "id": "35214d3e8e936c2f8be9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Anthropic upgrades Claude’s computer use to run in the background on Mac",
+      "url": "https://9to5mac.com/2026/09/02/anthropic-upgrades-claude-codes-computer-use-to-run-in-the-background-on-mac/",
+      "publishedAt": "2026-09-02T19:14:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/claude-code-auto-mode.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Anthropic、Mac向けClaudeのコンピュータ操作機能にバックグラウンド実行を追加",
+      "summaryJa": "Anthropicは、Mac向けのClaude CodeおよびClaude Coworkにおいて、コンピュータ操作機能をバックグラウンドで実行できるようになったと発表しました。ProおよびMaxプランのユーザーを対象としており、作業中にClaudeが裏でアプリの操作やクリック、タイピングなどを自動で行うため、Macでのマルチタスク効率が大幅に向上します。"
+    },
+    {
+      "id": "a3b341215b72cae885ab",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 fixes Apple Mail in three ways longtime users will love",
+      "url": "https://9to5mac.com/2026/09/02/ios-27-fixes-apple-mail-in-three-ways-longtime-users-will-love/",
+      "publishedAt": "2026-09-02T19:00:40.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-mail-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27のApple Mailが長年のユーザーが喜ぶ3つの重要な不具合修正を実施",
+      "summaryJa": "iOS 27では多くの新機能に加えて、標準のメールアプリにおける使い勝手の改善も含まれています。未読バッジの精度向上、メッセージの読み込み速度の高速化、そして検索インデックスの信頼性向上という3つの重要な修正が行われます。これにより、日々のメール確認がこれまでよりもスムーズかつ快適になることが期待されています。"
+    },
+    {
+      "id": "5d8346da1942b000353a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro will have three upgrades that have been rumored for years",
+      "url": "https://9to5mac.com/2026/09/02/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
+      "publishedAt": "2026-09-02T18:21:33.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proに搭載される長年の噂の3つの新機能",
+      "summaryJa": "間もなく登場すると噂されるiPhone 18 Proには、長年取り沙汰されてきた3つの主要なアップグレードが搭載される見込みです。メインカメラへの可変絞り機構の採用や、従来より約35%小型化されるダイナミックアイランド、そして自社製の次世代C2モデムへの切り替えが予定されていると報じられています。正式な発表と詳細な機能の全貌は、まもなく開催されるイベントで明らかにされる見通しです。"
+    },
+    {
+      "id": "7f085520424555681302",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
+      "url": "https://9to5mac.com/2026/09/02/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
+      "publishedAt": "2026-09-02T18:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-GymKit-iPhone.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27でiPhoneとAirPodsがジムでのワークアウトに対応",
+      "summaryJa": "AppleはiOS 27において、Apple Watchなしでも対応ジム機器と連携できる「GymKit」の機能をiPhoneとAirPodsに拡張します。対応するトレッドミルなどの機器にiPhoneをタッチしてワークアウトを開始すると、AirPodsが心拍数を測定し、機器から距離や傾斜などのデータをiPhoneのフィットネスアプリに送信します。これにより、時計を着用していなくても正確なワークアウトの追跡が可能になり、ジムでの利便性がさらに向上します。"
+    },
+    {
       "id": "4309c39bb665f490386e",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -89,6 +179,22 @@
       ],
       "titleJa": "新型Mac miniが発売を前に早くも割引価格で予約受付中",
       "summaryJa": "Amazonにて、発表されたばかりの新型Mac miniの予約受付が開始され、早くも割引価格で販売されています。対象となるのはM6モデルやM5 Proモデルで、9月22日の正式発売を前に少しお得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "cbe7131703e591f3255b",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Hello Developer: September 2026",
+      "url": "https://developer.apple.com/news/?id=ote61lrx",
+      "publishedAt": "2026-09-02T15:00:02.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/118D6B92-8A93-4879-BBB4-EE5F98F8B216/2048.jpeg",
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "Apple Developerニュース2026年9月号が公開",
+      "summaryJa": "Apple Developerの最新情報となる2026年9月号が公開されました。今回は特別なAppleイベントに向けた準備をはじめ、App Store Connectにおけるアナリティクスの活用方法、さらにクパチーノで開催される新しいデベロッパー向けイベントへの登録案内などが含まれています。開発者は最新の案内を確認し、今後のイベントやツール利用の準備を進めることができます。"
     },
     {
       "id": "346a6d4e8f89dd12a4ae",
@@ -4402,114 +4508,9 @@
       ],
       "titleJa": "Apple、M6とM5 Proを搭載しAI性能を大幅に強化した新型Mac miniを発表",
       "summaryJa": "AppleはM6およびM5 Proチップを搭載した新型Mac miniを発表しました。超小型のデスクトップデザインはそのままに、AIパフォーマンスが最大4倍、グラフィックスやストレージが最大2倍高速化されています。Wi-Fi 7やBluetooth 6への対応など接続機能も強化され、高度な作業やオンデバイスでのAI処理を強力にサポートします。"
-    },
-    {
-      "id": "a6b5741e1a79863e8470",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "publishedAt": "2026-08-25T12:58:13.056Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、性能とAI処理を大幅に強化したM6およびM5 Ultraを発表",
-      "summaryJa": "Appleは、新型Mac mini向けの「M6」と新型Mac Studio向けの「M5 Ultra」を発表しました。M6はApple初となる2ナノメートルプロセスを採用し、12コアCPUやデュアル16コアNeural Engineを搭載して電力効率と日常のパフォーマンスを飛躍的に高めています。一方のM5 Ultraは初のクアッドダイ構成を採用し、最大36コアCPUと80コアGPU、大容量のユニファイドメモリ帯域を備えることでプロ向けの圧倒的な処理能力を実現しています。"
-    },
-    {
-      "id": "2148cf805e751a2439de",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AI awaiting its iPhone moment, says Altman; needs to learn key Apple lesson",
-      "url": "https://9to5mac.com/2026/08/25/ai-awaiting-its-iphone-moment-says-altman-needs-to-learn-key-apple-lesson/",
-      "publishedAt": "2026-08-25T12:18:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/AI-awaiting-its-iPhone-moment.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AIにはまだ「iPhoneモーメント」が必要、OpenAIのアルトマン氏が語る",
-      "summaryJa": "OpenAIのサム・アルトマンCEOがポッドキャスト番組に出演し、現在のAI技術はまだ「iPhoneの登場前夜」の段階にあるとの見解を示しました。必要な技術ピースは揃いつつあるものの、人々のテクノロジーとの向き合い方を根本から変えるような決定的な体験はまだ実現していないと述べています。また、Appleのように多くの良いアイデアの中から本当に大切なものに絞り込む姿勢を見習う必要があると語りました。AIが経済に与える影響のスピードについては自身の見通しが野心的すぎたと認めつつも、今後は新たなビジネスチャンスが生まれるとの考えを示しています。"
-    },
-    {
-      "id": "ec170db7db871b54a1b0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "DuckDuckGo survey highlights how much personal information users share with AI",
-      "url": "https://9to5mac.com/2026/08/25/duckduckgo-survey-highlights-how-much-personal-information-users-share-with-ai/",
-      "publishedAt": "2026-08-25T12:00:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/duckduckgo-ai-survey.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "DuckDuckGo、AIチャットでの個人情報共有に関する調査結果を公開",
-      "summaryJa": "プライバシー重視の検索エンジンを提供するDuckDuckGoが、AIチャットボットでの個人情報の共有実態に関する調査結果を公開しました。調査によると、3人に1人近くのユーザーが友人や家族にも話さないような内容をAIに伝えている一方で、多くの人がチャット内容がデフォルトでAIの学習に利用されていることを知らないことが明らかになっています。"
-    },
-    {
-      "id": "498b757444b7a520bc7c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon",
-      "url": "https://9to5mac.com/2026/08/25/parallels-desktop-27/",
-      "publishedAt": "2026-08-25T12:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Parallels-27-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Parallels Desktop 27がApple Silicon向けに登場、OpenGL 4.3やAI処理を強化",
-      "summaryJa": "仮想化ソフトの最新版「Parallels Desktop 27」がリリースされ、Apple Silicon搭載MacでのWindows仮想環境における機能がさらに強化されました。MetalベースのグラフィックスドライバーやOpenGL 4.3のサポートに加え、ローカルでのAI処理の高速化が図られています。IT管理者がMac上でWindowsを効率的に展開・管理するための企業向け機能も多数追加されました。"
-    },
-    {
-      "id": "785d253ae38ac63e0010",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 to Get Fitness Tracking Upgrades",
-      "url": "https://www.macrumors.com/2026/08/25/apple-watch-series-12-to-get-fitness-upgrades/",
-      "publishedAt": "2026-08-25T11:55:58.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-watch-series-12-activity-rings-fitness.png",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch、次期モデルではフィットネス追跡機能が強化か",
-      "summaryJa": "Bloombergのマーク・ガーマン記者が報じたところによると、今後のApple Watchシリーズではデザインの大幅な変更はないものの、フィットネス追跡機能のアップグレードやパフォーマンスの高速化が予定されているとのことです。今年の変更点は小規模にとどまると予想されていますが、ヘルスケア機能の進化に引き続き注目が集まっています。"
-    },
-    {
-      "id": "7af471378645bed5c738",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "'MacBook Ultra' Coming Soon With Touchscreen and 5 Other Changes",
-      "url": "https://www.macrumors.com/2026/08/25/macbook-ultra-coming-soon-touchscreen-5-changes/",
-      "publishedAt": "2026-08-25T11:43:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/macbook-ultra.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、タッチスクリーン搭載の「MacBook Ultra」を準備中か",
-      "summaryJa": "Appleが従来のMacBook Proの上位に位置する、新しいハイエンドモデル「MacBook Ultra」を計画していると報じられています。このモデルにはOLEDディスプレイやタッチスクリーンが採用される可能性が指摘されており、今後の展開や具体的な仕様について大きな関心が寄せられています。"
-    },
-    {
-      "id": "0da7aecd2bdf90085b3b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "MacBook Lock aims to keep your laptop safe in coffee shops",
-      "url": "https://9to5mac.com/2026/08/25/macbook-lock-aims-to-keep-your-laptop-safe-in-coffee-shops/",
-      "publishedAt": "2026-08-25T11:37:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/MacBook-Lock-aims-to-keep-your-laptop-safe-in-coffee-shops.jpg?quality=82&#038;strip=all&#038;w=1200",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "MacBookの盗難を防ぐ専用ケーブルロックアダプタが登場",
-      "summaryJa": "かつてMacBookの側面に備わっていたセキュリティスロットの機能を現代のモデルでも利用できるようにする専用アダプタが登場しました。CompuLockが展開するこの製品は、MacBook AirやMacBook Proなどの本体に取り付けることで、テーブルの脚などにケーブルで固定できるようになります。数秒の隙を突いた持ち去り被害を防ぐための低セキュリティ向けの対策ですが、カフェや図書館などで席を離れる際の簡易的な防犯手段として役立ちます。"
     }
   ],
-  "updatedAt": "2026-09-02T17:29:48.094Z",
+  "updatedAt": "2026-09-02T20:04:24.137Z",
   "initialized": true,
   "summaryVersion": 4
 }
