@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "8d4f3b0661634c94fad1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch loses a useful multitasking feature in watchOS 27 that I’ve been missing",
+      "url": "https://9to5mac.com/2026/09/03/apple-watch-loses-a-useful-multitasking-feature-in-watchos-27-that-ive-been-missing/",
+      "publishedAt": "2026-09-03T17:44:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-modular-face.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "watchOSのベータ版でデジタルクラウンの二度押し機能が廃止か",
+      "summaryJa": "最新のwatchOSベータ版において、デジタルクラウンの二度押しによるアプリの素早い切り替え機能が削除されていることが分かりました。Appleは新しく「ダイナミックAppグリッド」の訴求に力を入れており、これに伴い従来使われていたマルチタスキング操作ができなくなっています。ユーザーの間では長年親しまれてきた便利な操作であり、今後の正式版での仕様変更が注目されています。"
+    },
+    {
+      "id": "fb70edb1d0f190f77851",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple has reportedly canceled innovative product that was ‘Ternus priority’",
+      "url": "https://9to5mac.com/2026/09/03/apple-has-reportedly-canceled-innovative-product-that-was-ternus-priority/",
+      "publishedAt": "2026-09-03T16:24:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/john-ternus-apple-park.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、折りたたみ式iPadやMacBookの開発を中止したとの報道",
+      "summaryJa": "調査会社Omdiaの最新レポートによると、Appleが長年開発を進めていた折りたたみ式ディスプレイ搭載のMacおよびiPadのハイブリッド製品計画を中止したと伝えられています。このプロジェクトは幹部のジョン・ターナス氏が注力していたことで知られていましたが、市場投入は見送られた模様です。高価格化や市場の動向を慎重に見極めた結果、現時点では実現が難しいと判断された可能性があります。"
+    },
+    {
+      "id": "6fafe94e08c3d96ea96d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Lenovo IdeaPad Vibe is a MacBook Neo competitor starting at $699",
+      "url": "https://9to5google.com/2026/09/03/lenovo-ideapad-vibe-is-a-macbook-neo-competitor-starting-at-699/",
+      "publishedAt": "2026-09-03T16:08:40.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/lenovo-ideapad-vibe-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "レノボ、MacBookに対抗するカラフルな新型ノートPCを発表",
+      "summaryJa": "レノボがMacBookの競合製品となる新しいノートパソコン「IdeaPad Vibe」を発表しました。手頃な価格帯を意識した鮮やかなデザインのモデルとして展開され、市場での選択肢を広げる存在となりそうです。"
+    },
+    {
+      "id": "85655cd436b9b6bd5471",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s big roadmap for new Mac and iPad models revealed: report",
+      "url": "https://9to5mac.com/2026/09/03/apples-big-roadmap-for-new-mac-and-ipad-models-revealed-report/",
+      "publishedAt": "2026-09-03T15:49:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/macbook-air-m4-m3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OmdiaがMacBookやiPadの今後のロードマップを予測",
+      "summaryJa": "調査会社Omdiaの最新レポートにより、今後数年間に登場するMacBook Pro、MacBook Air、iPad各モデルのディスプレイに関する詳細なロードマップが明らかになりました。2026年以降、OLEDディスプレイを搭載したモデルが順次投入される見通しです。また、ミニLEDを搭載したMacBook Proも一定期間併売されるなど、今後の製品展開に注目が集まっています。"
+    },
+    {
+      "id": "cc2ba913121b1283691d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: AirPods Pro 3, 2026 Apple Studio Display $214 off, iPad Air $100 off, charging gear, more",
+      "url": "https://9to5mac.com/2026/09/03/deals-airpods-pro-3-2026-apple-studio-display-ipad-air/",
+      "publishedAt": "2026-09-03T15:29:04.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Apple-Studio-Display-AirPods-Mac-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AmazonセールでAirPods Pro 3などが大幅割引",
+      "summaryJa": "Amazonの労働者の日セールにおいて、AirPods Pro 3が50ドルオフの199ドルで販売されているほか、2026年型のApple Studio DisplayやiPad Airなどが特別価格で登場しています。さらに、アンカーの最新モバイルバッテリーやPowerbeats Pro 2などもセール対象となり、多数のApple製品や関連アクセサリーをお得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "a84b88c9241373ab8da1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AI outage: Claude, ChatGPT, and Grok are currently down for many users [U]",
+      "url": "https://9to5mac.com/2026/09/03/chatgpt-and-codex-are-experiencing-an-outage-for-many-users/",
+      "publishedAt": "2026-09-03T14:57:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ai-outage.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ClaudeやChatGPTなどの主要AIサービスで大規模障害",
+      "summaryJa": "ClaudeやChatGPT、Grokなどの主要な生成AIサービスにおいて、多くのユーザーが利用できない大規模な障害が発生しました。各社は復旧作業を進めており、一部のサービスではすでに正常化しつつあります。今回の障害はOpenAIが次世代モデルの発表を控えているタイミングで発生し、ネット上で大きな話題となりました。"
+    },
+    {
+      "id": "29a3b1c029001e95e385",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Hit With $2.7 Billion Lawsuit Over App Tracking Rules",
+      "url": "https://www.macrumors.com/2026/09/03/apple-hit-with-lawsuit-over-app-tracking/",
+      "publishedAt": "2026-09-03T14:46:47.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/04/generic-tracking-prompt-orange.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、アプリの追跡ルールめぐり約27億円の集団訴訟",
+      "summaryJa": "Appleがロンドンの裁判所に、アプリのトラッキング透明性ルールを巡る約20億ポンド規模の集団訴訟を提起されました。原告側は、Appleが自社の広告サービスには適用しない厳しい制限をサードパーティ製アプリの開発者に課していると主張しています。この訴訟が正式に進行するためには、今後 tribunal による認定を受ける必要があります。"
+    },
+    {
+      "id": "603d8b0d55cb97c286d0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's 2026 Studio Display Gets Steep $214 Discount on Amazon",
+      "url": "https://www.macrumors.com/2026/09/03/studio-display-214-discount/",
+      "publishedAt": "2026-09-03T14:38:53.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/studio-display-2026-pink.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Studio DisplayがAmazonで過去最大級の割引",
+      "summaryJa": "Amazonにて、Nano-Textureガラスと傾き調整スタンドを搭載した2026年型のApple Studio Displayが大幅値引きされています。ページ上のクーポンを適用することで、通常より214ドル安い1,684.88ドルで購入可能です。2026年モデルのStudio Displayシリーズに対する目立った割引としては数ヶ月ぶりであり、大変お得な価格設定となっています。"
+    },
+    {
+      "id": "bc596a300dc3f248e8a5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Ultra's Very High Price and Features Revealed in New Report",
+      "url": "https://www.macrumors.com/2026/09/03/iphone-ultra-features-price-specs/",
+      "publishedAt": "2026-09-03T14:33:59.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみiPhone「iPhone Ultra」の価格と仕様に関する報道",
+      "summaryJa": "台湾の調査会社TrendForceが、Appleが発表すると噂される初の折りたたみ式iPhone「iPhone Ultra」の価格帯や主な仕様について報じました。米国での開始価格は2,099ドルから2,299ドル程度と見込まれ、最高構成では3,000ドルを超える可能性があるとされています。本体には5.5インチの外側ディスプレイと7.8インチの内側ディスプレイを搭載し、A20 Proチップや12GBのメモリを備えると伝えられています。"
+    },
+    {
+      "id": "25b223ad25d2eb7d9f82",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple will launch six major new products next week, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/09/03/apple-will-launch-six-major-new-products-next-week-heres-whats-coming/",
+      "publishedAt": "2026-09-03T14:25:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/07/apple-park-rainbow.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleが9月のイベントで6つの主要新製品を投入するか",
+      "summaryJa": "Appleの次期大型イベントを控え、新世代のiPhoneやApple Watch、AirPodsなど6つの主要製品が登場すると報じられています。iPhoneシリーズではProモデルに加えて初の折りたたみ式モデルが予定され、Apple WatchやAirPodsの新型も控えていると伝えられています。さらに、スマートホーム向けの新型ハブ端末といった新製品の発表も噂されており、注目が集まっています。"
+    },
+    {
+      "id": "3374a383557fdfd62ae6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Apparently Cancels Plans for Two New MacBooks",
+      "url": "https://www.macrumors.com/2026/09/03/apple-cancels-plans-for-two-new-macbooks/",
+      "publishedAt": "2026-09-03T14:12:51.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/10/M5-MacBook-Pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、折りたたみMacBookと大型OLEDモデルの計画を中止か",
+      "summaryJa": "調査会社Omdiaによれば、Appleが大型の折りたたみ式MacBookおよび大型のOLED搭載MacBook Proの開発計画を取りやめたと伝えられています。これまで噂されていたこれらの製品群は開発が見送られたものの、OLEDディスプレイを採用する製品戦略自体は変更されていません。今後は新たな13.8インチのMacBookモデルなどが計画に組み込まれ、製品ラインナップの再構築が進められている模様です。"
+    },
+    {
+      "id": "630815b61b16d721b12f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Mini-LED MacBook Pro Models Could Stick Around Until 2028",
+      "url": "https://www.macrumors.com/2026/09/03/mini-led-macbook-pro-models-until-2028/",
+      "publishedAt": "2026-09-03T14:08:28.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens-2.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "MacBook ProのミニLEDモデルは2028年まで継続か",
+      "summaryJa": "調査会社Omdiaの最新ロードマップによると、AppleがMacBookシリーズへのOLEDディスプレイ採用計画を見直し、既存のミニLEDバックライトを搭載したLCDモデルを2028年まで継続して販売する可能性があると報じられています。部品コストの高騰などが背景にあるとされており、OLEDモデルの導入ペースに影響を与えています。このため、しばらくの間は従来モデルと新型が並行して販売される見通しです。"
+    },
+    {
       "id": "5dcbc9aae0305f83646c",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -72,9 +252,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Leaker claims iPhone 18 Pro chip will have 7 GPU cores and faster RAM",
-      "summaryJa": "A Chinese leaker with some track record has posted images of claimed circuit diagrams of the upcoming iPhone 18 Pro models. These suggest that the new A20 Pro chip may have seven GPU cores – one more than its predecessor – and a faster memory interface … more… A Chinese leaker with some track record has posted images of claimed circuit diagrams of the upcoming iPhone 18 Pro models. These suggest that the new A20 Pro chip may have seven GPU cores – one more than its predecessor – and a faster memory interface … The images posted by Weibo user Fried White Rice are not of the A20 Pro chip itself, but rather diagrams of where the chip will be attached to the underlying circuit board. From this, they’re making inferences about the power and architecture of the new chip, drawing two main conclus",
-      "translationStatus": "source"
+      "titleJa": "iPhone 18 ProのA20 Proチップ、GPUが7コアに強化か",
+      "summaryJa": "Weiboに投稿された回路図の解析から、iPhone 18 Pro向けとされるA20 Proチップに関する詳細が報じられています。それによると、新しいプロセッサはGPUコア数が前世代から1つ増えて7コアになり、効率コアのL2キャッシュも拡大する可能性があると伝えられています。"
     },
     {
       "id": "c5707387f1650812f72a",
@@ -88,9 +267,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "iPhone 18 Pro Chip Leak Indicates Major GPU and Memory Bandwidth Improvements",
-      "summaryJa": "An alleged solder joint diagram for Apple's A20 Pro chip suggests the processor will deliver a number of significant upgrades, including a seven-core GPU, a wider memory interface, and a larger L2 cache for its efficiency cores. The claims come from a Weibo user who says the layout was reconstructed by mapping the chip's solder ball positions and overlaying them with die level images to sketch out where each block of the processor sits. According to the post, the resulting outline points to a two and four core CPU configuration and a seven core GPU, with the top of the die housing the GPU and the CPU occupying the center. Based on the layout, the leaker expects the A20 Pro's efficiency cores to share an 8MB L2 cache, up from 6MB on the A19 Pro, while the performance cores retain their exis",
-      "translationStatus": "source"
+      "titleJa": "iPhone 18 ProのA20 Proチップに大幅なGPU・メモリ強化の噂",
+      "summaryJa": "AppleのA20 Proチップに関する半田接合図のリーク情報から、大幅な性能向上の可能性が浮上しています。7コアのGPUや96ビットのメモリインターフェイスを採用し、効率コアのL2キャッシュ容量が増加すると報じられています。"
     },
     {
       "id": "148a8fb6d2063711b484",
@@ -104,9 +282,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "9to5Mac Daily: September 3, 2026 – More Apple executive news, Apple Maps",
-      "summaryJa": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff : Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. more… Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsor",
-      "translationStatus": "source"
+      "titleJa": "Apple Mapsの表記変更やジョン・ターナスCEO就任を振り返るポッドキャスト",
+      "summaryJa": "9to5Macのデイリーポッドキャスト番組にて、大統領令を受けたApple Mapsの湖の名称変更や、ジョン・ターナスの新CEO就任に関する一連の動きが取り上げられています。Apple社内の役員人事や報酬に関する話題も詳しく解説されています。"
     },
     {
       "id": "c19df6ab3351e8be33da",
@@ -120,9 +297,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple paying 400% more for iPhone 18 Pro memory, says TrendForce",
-      "summaryJa": "A new market intelligence report suggests that Apple will be paying four times more for iPhone 18 Pro memory than it did for last year’s model. TrendForce says that Apple won’t be passing on the full impact to customers, and will be increasingly looking to Services revenue to offset higher hardware manufacturing costs … more… A new market intelligence report suggests that Apple will be paying four times more for iPhone 18 Pro memory than it did for last year’s model. TrendForce says that Apple won’t be passing on the full impact to customers, and will be increasingly looking to Services revenue to offset higher hardware manufacturing costs … Apple announced significant price increases across most of its products back in June, stating that it had done everything possible to delay this but n",
-      "translationStatus": "source"
+      "titleJa": "iPhone 18 Proのメモリコスト、Appleの調達費が4倍に高騰か",
+      "summaryJa": "調査会社TrendForceのレポートによると、iPhone 18 Proで使用されるメモリのコストが前年モデルから最大400%近く上昇すると報じられています。Appleはコスト増の一部をサービス部門の収益で相殺しようとするものの、販売価格への転嫁は避けられないとの見方が示されています。"
     },
     {
       "id": "f464d8f4de3f0a760f26",
@@ -136,9 +312,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Syncing Hue lights to your TV now starts at $120; Nanoleaf integration too",
-      "summaryJa": "Syncing your Philips Hue lights to your TV display used to be a rather expensive undertaking, at $385 for the company’s Sync Box 8K. A couple of new products now bring that cost down to as little as $120. Additionally, you can now integrate Nanoleaf wall panels into your Philips Hue ecosystem thanks to a new $40 Wall Light Module … more… Syncing your Philips Hue lights to your TV display used to be a rather expensive undertaking, at $385 for the company’s Sync Box 8K. A couple of new products now bring that cost down to as little as $120. Additionally, you can now integrate Nanoleaf wall panels into your Philips Hue ecosystem thanks to a new $40 Wall Light Module … Syncing Hue lights to your TV Synchronizing your Philips Hue lights to your TV display can create an extremely immersive exper",
-      "translationStatus": "source"
+      "titleJa": "フィリップス、テレビと同期するHueの新製品を発売",
+      "summaryJa": "Philips Hueのテレビ照明同期システムに、より手頃な価格の新製品2モデルが登場しました。従来の高価な同期ボックスに加え、HDMI対応の4Kモデルや、カメラ方式を採用した120ドルの製品が追加されています。これにより、映画やゲームでの没入感をより低コストで楽しめるようになります。"
     },
     {
       "id": "102d79120e466632473a",
@@ -152,9 +327,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "iPhone 18 Pro Prices Estimated Ahead of Apple Event Next Week",
-      "summaryJa": "Less than a week before Apple debuts new iPhone 18 Pro models, research firm TrendForce has estimated the prices of the devices based on the latest hardware cost environment. TrendForce's price estimates compared to last year's models look like this: Model Starting Price Model Starting Price Change iPhone 17 Pro $1,099 iPhone 18 Pro $1,249-$1,299 +$150 to +$200 iPhone 17 Pro Max $1,199 iPhone 18 Pro Max $1,349-$1,399 +$150 to +$200 Apple is likely to raise iPhone 18 Pro and iPhone 18 Pro Max prices by around 10-20% compared to last year's Pro models, according to the firm. Taking TrendForce's June forecast of a 14-18% increase, which fits within its latest broader 10-20% range and translates more neatly to Apple's typical pricing scheme, we could see the iPhone 18 Pro starting price jump t",
-      "translationStatus": "source"
+      "titleJa": "iPhone 18 Proの価格は10〜20%値上がりか",
+      "summaryJa": "調査会社TrendForceが、来週に迫ったAppleの発表イベントを前に、iPhone 18 ProおよびiPhone 18 Pro Maxの予想価格を公開しました。ハードウェアコストの高騰を背景に、価格は従来モデルから10%から20%ほど引き上げられると報じられています。また、初の折りたたみ式iPhoneの予想価格についても言及されています。"
     },
     {
       "id": "9e4a102f6806d4e13c9f",
@@ -4331,189 +4505,9 @@
       ],
       "titleJa": "M6チップの発表から見えてくるiPhone 18 Proの進化と2nmプロセスの期待",
       "summaryJa": "Appleが発表した次世代のM6チップは、将来的にiPhone 18 ProのA20 Proにも採用される可能性のある血縁のチップです。M6は最先端の2nmプロセス技術を用いて製造されており、優れた電力効率とパフォーマンスの大幅な向上を実現しています。また、最大2倍のピーク演算処理能力を持つデュアル16コアNeural Engineを搭載し、デバイス上のAIワークフローを加速させます。このアーキテクチャの進化により、次期iPhoneのプロセッサでも同様の大幅な性能向上が期待されます。"
-    },
-    {
-      "id": "362e08e78c14eb582b09",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Anthropic update unifies memory feature across Claude Cowork and chat",
-      "url": "https://9to5mac.com/2026/08/25/anthropic-update-unifies-memory-feature-across-claude-cowork-and-chat/",
-      "publishedAt": "2026-08-25T17:20:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/claude-code-auto-mode.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Anthropic、ClaudeのチャットとCowork間で記憶機能を統合",
-      "summaryJa": "Anthropicは、Claudeのチャット機能とClaude Coworkの間で記憶機能を統合する新しいアップデートを発表しました。これにより、クラウド上でタスクを実行する際にもこれまでのチャットの文脈が引き継がれ、繰り返し説明する手間が省けるようになります。この機能は無料プランおよび有料プランのMacやiOSアプリを含む各プラットフォームで標準提供され、健康や信条などの機密性の高いトピックの記憶はデフォルトでオフになっています。"
-    },
-    {
-      "id": "7f65dd4fd845b3c5c94e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New Mac mini and more now available from Amazon for launch day pre-order",
-      "url": "https://9to5mac.com/2026/08/25/new-mac-mini-now-available-amazon-launch-day-preorder/",
-      "publishedAt": "2026-08-25T17:09:04.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-mac-studio-chips.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新型Mac miniや新型Mac Studioの予約受付が開始",
-      "summaryJa": "Appleの新製品発表に伴い、AmazonやApple公式サイトなどで新型Mac miniやアクセサリの予約受付が開始されました。新しいM6およびM5 Ultraチップを搭載し、パフォーマンスの向上やAI最適化などが図られています。確実な発売日受取りやカスタム構成を希望する場合はApple公式サイトでの購入が推奨されています。"
-    },
-    {
-      "id": "4cad328c16fb062077e7",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Mac Studio With M5 Ultra Chip and 512GB of RAM Launching in October",
-      "url": "https://www.macrumors.com/2026/08/25/mac-studio-m5-ultra-512gb-ram-october/",
-      "publishedAt": "2026-08-25T16:55:49.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/06/Mac-Studio-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "512GBメモリ搭載のMac Studio上位構成が10月に発売か",
-      "summaryJa": "Appleが新たに発表したM5 Ultraチップ搭載のMac Studioについて、512GBのRAMを備えた構成が10月下旬に追加されると報じられています。半導体不足の影響で前世代では一時提供が停止されていましたが、新型モデルで再び大容量メモリのオプションが復活する形となります。米国での価格は1万ドルを大きく超える見込みです。"
-    },
-    {
-      "id": "9d517a158015dee79d94",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "New Macs and More: Here's Everything Apple Announced Today",
-      "url": "https://www.macrumors.com/2026/08/25/everything-apple-announced-today/",
-      "publishedAt": "2026-08-25T16:10:21.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、M5/M6チップ搭載の新型Mac miniやMac Studioなどを発表",
-      "summaryJa": "Appleは新世代のM6およびM5シリーズチップを搭載した「Mac mini」と「Mac Studio」を発表しました。あわせて、価格を改定したポリッシングクロスや、最新のMagic Keyboardなども順次発売されます。新型のMac製品は本日から予約受付を開始し、9月22日に発売される予定です。"
-    },
-    {
-      "id": "83a331e7840f9a80b286",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV unveils Matthew McConaughey comedy series from ‘The Office’ alum",
-      "url": "https://9to5mac.com/2026/08/25/apple-tv-unveils-matthew-mcconaughey-comedy-series-from-the-office-alum/",
-      "publishedAt": "2026-08-25T15:28:41.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/brothers-matthew-mcconaughey-cake.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、マシュー・マコノヒー主演の新作コメディドラマを公開へ",
-      "summaryJa": "Apple TVは、マシュー・マコノヒーとウディ・ハレルソンが本人役で共演する新作オリジナルコメディドラマ「Brothers」を来月23日に配信開始すると発表しました。長年の友人である2人が、自分たちが実は兄弟かもしれないという秘密を知ったことから巻き起こる騒動を描くハートフルなコメディです。「オフィス」を手掛けたリー・アイゼンバーグがショーランナーを務め、9月23日の初回2話配信を皮切りに順次公開されます。"
-    },
-    {
-      "id": "e4134543903e2a4a7769",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: M6 Mac mini $500+ off with M4 trades, AirTag 2 $20 each, 48GB M5 Pro MacBook Pro $400 off, more",
-      "url": "https://9to5mac.com/2026/08/25/deals-m6-mac-mini-airtag-2-48gb-macbook-pro/",
-      "publishedAt": "2026-08-25T15:24:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-M6-Mac-mini-preorder-Macbook-AirTag-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirTag 2や新型Mac miniがセールに、各所の割引情報が登場",
-      "summaryJa": "最新のAirTag 2が過去最安値となる1個20ドル前後からのセール価格で販売されています。また、新型のM6 Mac miniの予約受付が開始され、旧モデルの下取りを適用することで大幅な割引が受けられるほか、AirPodsシリーズやM5 Pro搭載MacBook Proなども割引価格の対象となっています。Amazonなどの各ECサイトで注目のApple製品がお得に購入できるチャンスとなっています。"
-    },
-    {
-      "id": "003755da2211833b71d2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Smart Home Display Still Coming This Year",
-      "url": "https://www.macrumors.com/2026/08/25/apple-smart-home-display-still-coming/",
-      "publishedAt": "2026-08-25T15:19:48.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple初のスマートホームディスプレイが年内に登場か",
-      "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、Appleは画面付きのスマートホームデバイスを今年中にも発売する予定です。このデバイスは、顔認識機能を使用してユーザーを識別し、個人に合わせたコンテンツを表示する機能を持つと報じられています。コードネームや周辺機器の刷新の動きからも、Appleのスマートホーム分野への本格的な参入が近づいていることがうかがえます。"
-    },
-    {
-      "id": "a9556cb88f2ae3851a2d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases new Magic Keyboards with one notable change",
-      "url": "https://9to5mac.com/2026/08/25/apple-releases-new-magic-keyboards-with-one-notable-change/",
-      "publishedAt": "2026-08-25T14:52:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/magic-keyboard-new-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、キー刻印をアイコンに変更した新型Magic Keyboardを発表",
-      "summaryJa": "Appleは、新型Mac miniおよびMac Studioの発表にあわせ、Magic Keyboardのラインナップを更新しました。今回の刷新により、タブやcaps lock、shift、deleteなどの主要なキーからテキスト表記が削除され、代わりに視覚的なアイコンが採用されています。この変更は今年初めに登場した新型MacBookシリーズと同様の仕様であり、USB-C対応や基本的な機能は従来モデルを継承しています。"
-    },
-    {
-      "id": "b116181ba6213cdc2590",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Labor Day Accessory Deals on Anker, Sony, Samsung, and More Live Now",
-      "url": "https://www.macrumors.com/2026/08/25/labor-day-accessory-deals/",
-      "publishedAt": "2026-08-25T14:39:51.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/samsung-sony-amazon-sale.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AmazonでAnkerやソニーなどの周辺機器がセール対象に",
-      "summaryJa": "Amazonにて、Ankerの充電器やソニーのノイズキャンセリングヘッドホン、サムスンのモニターなど、人気アクセサリーを対象とした大規模なセールが開催されています。ソニーのWH-1000XM5やSonosのオーディオ製品、サムスンのスマートモニターなどが割引価格で提供されています。各種USB-C充電器やポータブルバッテリー、ドック製品などもあわせてセール対象となっています。"
-    },
-    {
-      "id": "1c8de9245605c842661c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "M6 Mac mini vs M4 Mac mini: Here are all the new features",
-      "url": "https://9to5mac.com/2026/08/25/m6-mac-mini-vs-m4-mac-mini-here-are-all-the-new-features/",
-      "publishedAt": "2026-08-25T14:25:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-m6-m5-pro-vs-m4.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新世代チップを搭載した新型Mac miniが登場",
-      "summaryJa": "Appleは新たにM6およびM5 Proチップを搭載したMac miniを発表しました。2nmプロセスで製造されたM6チップは、前世代のM4と比べてCPU性能やストレージ速度が大幅に向上しているほか、AI処理性能が最大4倍に高められています。また、M5 Pro搭載モデルではより高度なマルチコア構成や高いメモリ帯域幅を実現し、レンダリングや画像処理のパフォーマンスが強化されています。"
-    },
-    {
-      "id": "6fb2770a388fc9ecb20e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Quietly Refreshes Magic Keyboards",
-      "url": "https://www.macrumors.com/2026/08/25/apple-quietly-refreshes-magic-keyboards/",
-      "publishedAt": "2026-08-25T14:22:41.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-magic-keyboard-with-glyphs-2026-refresh.png",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、キー表記をアイコンに変更したMagic Keyboardを発売",
-      "summaryJa": "Appleは、英語キーボードのキートップ表記を文字からアイコンへと変更した新しいMagic Keyboardを静かにリリースしました。tabやcaps lock、shift、returnなどのキーに加え、テンキー付きモデルのHomeやPage Upなどのキーでもテキスト表記がシンボルに置き換えられています。この変更は今年のマックブック各モデルのデザイン方針を受け継いだもので、Touch ID搭載モデルなどを中心に全4モデルが更新されました。"
-    },
-    {
-      "id": "b22b7c01bbee6113d583",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases new Polishing Cloth for $9",
-      "url": "https://9to5mac.com/2026/08/25/apple-releases-new-polishing-cloth-for-9/",
-      "publishedAt": "2026-08-25T14:10:40.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/Apple-Polishing-Cloth.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、価格を改定した新しいポリシングクロスの販売を開始",
-      "summaryJa": "Appleは、Apple製ディスプレイのお手入れに適した「ポリシングクロス」の新モデルを発売しました。従来の19ドルから9ドルへと値下げされ、より手頃な価格で購入できるようになっています。素材やデザインなどの具体的な変更点については言及されていませんが、従来と同様にナノテクスチャガラスを含むあらゆるディスプレイを安全に掃除できます。"
     }
   ],
-  "updatedAt": "2026-09-03T14:03:18.235Z",
+  "updatedAt": "2026-09-03T17:49:18.701Z",
   "initialized": true,
   "summaryVersion": 4
 }
