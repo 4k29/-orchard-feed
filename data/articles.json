@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "9e4a102f6806d4e13c9f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Anker's New MindBase Home Hub Runs AI Locally, Doubles as NAS",
+      "url": "https://www.macrumors.com/2026/09/03/anker-mindbase-new-cameras/",
+      "publishedAt": "2026-09-03T07:30:13.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/anker-mindbase.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Anker、ローカルAI処理とNAS機能に対応したホームハブを発表",
+      "summaryJa": "Ankerは、約100種類の自社製品およびMatter対応スマートホーム機器と連携するAIホームハブ「Anker MindBase」を発表しました。デバイス上で動作するAIエージェントを搭載し、最大48TBのローカルストレージを追加してNASとしても機能します。さらに、同社製のセキュリティカメラや各種センサーと統合することで、リアルタイムでのリスク評価や安全対策を実現するセキュリティキットも展開されます。"
+    },
+    {
+      "id": "865fb582290d1984d5ef",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Aqara Debuts Five Matter Smart Lights With Apple Home Support",
+      "url": "https://www.macrumors.com/2026/09/03/aqara-matter-smart-lights/",
+      "publishedAt": "2026-09-03T07:00:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/aqara-floor-lamp.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Aqara、Apple Homeに対応するMatter準拠のスマート照明5製品を発表",
+      "summaryJa": "Aqaraは、Apple Home、Thread、Zigbeeに対応する新しいMatter準拠のスマート照明5製品を発表しました。カラーや色温度を細かく調整できるフロアランプやダウンライト、間接照明向けのLEDテープライト、屋外用のストリングライトなどがラインナップされています。各種センサーやスイッチとの連携も可能で、詳細な価格や発売時期については今後発表される予定です。"
+    },
+    {
+      "id": "a6ae8eb19ff3df4c02d3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Govee Debuts $400 Matter-Enabled Sky Ceiling Light",
+      "url": "https://www.macrumors.com/2026/09/03/govee-sky-ceiling-light/",
+      "publishedAt": "2026-09-03T06:00:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/govee-ceiling-light.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Govee、AI機能を搭載したMatter対応の「Sky Ceiling Light」などを発表",
+      "summaryJa": "Goveeは、AI照明ボットによってユーザーの気分や要望に合わせた調光が可能な「Sky Ceiling Light」など3つの照明製品を発表しました。約400ドルの天井照明は、自然光に近い色温度スペクトラムを取り入れることで室内での快適なリズムをサポートします。他にもCOBストリップライトや屋外用のパーマネントライトが順次発売される予定です。"
+    },
+    {
       "id": "00eca06d3f07e5324d5f",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4463,54 +4508,9 @@
       ],
       "titleJa": "Apple、同社初の2nmプロセスを採用したM6チップを発表",
       "summaryJa": "Appleは、同社初となる2ナノメートルプロセスで製造された次世代チップ「M6」を発表しました。トランジスタ密度を高めたことで、パフォーマンスと電力効率が大幅に向上し、デュアル16コアNeural Engineを新たに搭載しています。CPUやGPUのコア数も増加し、シングルスレッドおよびマルチスレッド性能だけでなく、オンデバイスのLLM処理におけるAIパフォーマンスも飛躍的に強化されています。"
-    },
-    {
-      "id": "76f374c4057119ef1340",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "publishedAt": "2026-08-25T13:00:23.969Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、AI性能を飛躍的に高めた新しいMac Studioを公開",
-      "summaryJa": "Appleは、M5 Maxおよび新開発のM5 Ultraチップを搭載した新しいMac Studioを発表しました。AI処理性能が最大4.3倍に向上したほか、最大512GBのユニファイドメモリや最大2倍高速なストレージを備え、最先端のプロフェッショナル作業や大規模なLLMのローカル実行を強力にサポートします。コンパクトなデザインを維持しながら、グラフィックス性能や接続性も大幅に強化されました。"
-    },
-    {
-      "id": "7cf4f39d640f82f588d0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple unveils new Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://9to5mac.com/2026/08/25/apple-unveils-next-generation-mac-studio-with-m5-max-and-m5-ultra/",
-      "publishedAt": "2026-08-25T13:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-studio.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、M5 MaxとM5 Ultraを搭載した新型Mac Studioを公開",
-      "summaryJa": "Appleは次世代のMac Studioを発表しました。新モデルはM5 MaxおよびM5 Ultraチップを搭載し、最大512GBの統合メモリをサポートします。M5 Max版は従来比でLLMのプロセッサ処理などが大幅に高速化されており、本日より予約注文の受付が開始されています。"
-    },
-    {
-      "id": "a7d59e06a04d691326d8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple launches next-gen Apple Silicon chips: M6 and M5 Ultra",
-      "url": "https://9to5mac.com/2026/08/25/apple-launches-next-gen-apple-silicon-chips-m6-and-m5-ultra/",
-      "publishedAt": "2026-08-25T13:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/m5-ultra-m6-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、初の2nmプロセスを採用した次世代チップ「M6」を発表",
-      "summaryJa": "Appleは新たなApple SiliconとなるM6およびM5 Ultraチップを発表しました。M6はApple初となる2nmプロセスのプロセッサであり、新型Mac miniに搭載されます。3種類のCPUコアを組み合わせることで優れた電力効率と世界最速のシングルスレッド性能を実現し、AI処理性能も大きく向上しています。"
     }
   ],
-  "updatedAt": "2026-09-03T05:07:16.052Z",
+  "updatedAt": "2026-09-03T09:51:51.160Z",
   "initialized": true,
   "summaryVersion": 4
 }
