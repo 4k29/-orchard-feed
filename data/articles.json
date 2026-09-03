@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "36b0b1169c0d874a7d9d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "M6 vs. M5 Pro Mac Mini Buyer's Guide",
+      "url": "https://www.macrumors.com/guide/m6-vs-m5-pro-mac-mini/",
+      "publishedAt": "2026-09-03T22:00:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/mac-mini-2026-blue.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新世代チップを搭載したMac miniの選び方ガイド",
+      "summaryJa": "Appleが発表した新しいMac miniは、エントリーモデルに新世代のM6チップ、上位モデルにM5 Proチップを搭載するという構成になっています。物理的なデザインやWi-Fi 7などの最新機能は共通しつつも、価格差がこれまで以上に広がっているのが特徴です。自身の用途や必要な性能に合わせて、どちらのモデルが最適かを慎重に選ぶことが重要となります。"
+    },
+    {
+      "id": "655a4b5167544f464bbd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MacBook Neo 2: Here’s everything we know so far",
+      "url": "https://9to5mac.com/2026/09/03/macbook-neo-2-features-release-date/",
+      "publishedAt": "2026-09-03T21:00:37.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-citrus.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "次期MacBook Neoの噂、A19 Proチップ搭載か",
+      "summaryJa": "手頃な価格のラップトップとして成功を収めているMacBook Neoの次世代モデルに関する情報が報じられています。次期モデルには、各GPUコアにNeural Acceleratorを統合したA19 Proチップと12GBのメモリが搭載される見込みです。これにより、グラフィックス性能の大幅な向上や、デバイス上の高度なAI機能へのサポートが期待されています。"
+    },
+    {
+      "id": "b6d74a41a04d706ea024",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro and Pro Max: Two new display upgrades coming next week",
+      "url": "https://9to5mac.com/2026/09/03/iphone-18-pro-new-display-upgrades-are-coming-in-two-ways/",
+      "publishedAt": "2026-09-03T20:29:33.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max-cosmic-orange-fi-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proのディスプレイに2つの新機能か",
+      "summaryJa": "次期iPhone 18 ProおよびPro Maxでは、画面サイズを維持しながらディスプレイに2つの大きな進化が加わると噂されています。駆動用トランジスタにも酸化物材料を適用する「LTPO+」技術によりバッテリー効率と表示性能が向上し、さらにDynamic Islandの切り抜きが約35%小型化される見通しです。"
+    },
+    {
       "id": "523e4998a26fd829210e",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4460,54 +4505,9 @@
       ],
       "titleJa": "Apple、Wi-Fi 7完全対応のデバイスリストを公開",
       "summaryJa": "Appleは最新のサポートドキュメントで、Wi-Fi 7のすべての機能に完全対応しているデバイスの公式リストを公開しました。M5世代以降のMacBook ProやiPhone 16 Proシリーズなどが対象に含まれています。なお、6GHz帯の利用は各地域の法規制に依存するため、対応していない地域では2.4GHz帯や5GHz帯のみでの接続となります。"
-    },
-    {
-      "id": "3bde08bfe00b3556a337",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI announces the Admin plugin for ChatGPT Work and Codex",
-      "url": "https://9to5mac.com/2026/08/25/openai-announces-the-admin-plugin-for-chatgpt-work-and-codex/",
-      "publishedAt": "2026-08-25T20:56:02.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-teal.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI、ChatGPT Work向けの管理者向けプラグインを公開",
-      "summaryJa": "OpenAIは、ChatGPT WorkおよびCodex向けに新しい「Adminプラグイン」を発表しました。このツールにより、ワークスペースの管理者は会話形式で直接ユーザーの管理、権限の設定、利用状況の分析、レポートの作成などが可能になります。日常的なタスクの効率化や、チームの利用制限の調整などをスムーズに行えるようになります。"
-    },
-    {
-      "id": "d296325dfefd2c4fbf73",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 release date: Here’s when the new iPhone update will launch",
-      "url": "https://9to5mac.com/2026/08/25/ios-27-release-date-when-next-major-iphone-update-is-coming/",
-      "publishedAt": "2026-08-25T20:45:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-icon-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの次期iOS 27、9月中旬にリリースか",
-      "summaryJa": "iPhone向け次期ソフトウェア「iOS 27」が、9月中旬にも公開される見通しです。過去のリリース日程から、9月14日週の配信が予想されています。このアップデートでは、ウォレットや写真などの主要アプリの刷新に加え、SiriのAI機能強化などが含まれる予定です。"
-    },
-    {
-      "id": "2c65133ce660d858a409",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Maps Ads Are Here, and There's No Way to Turn Them Off",
-      "url": "https://www.macrumors.com/2026/08/25/apple-maps-ads-live/",
-      "publishedAt": "2026-08-25T20:40:17.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-maps-ads-live.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleマップ、米国などで広告表示を開始",
-      "summaryJa": "Appleマップアプリ内に広告の表示機能が導入され、米国とカナダで開始されました。ユーザーが場所の検索や候補地の閲覧を行う際に広告が表示される仕組みで、現時点で非表示にする設定はありません。表示される広告には青い「Ad」のラベルが明記されており、プライバシーに配慮した運用方針となっています。"
     }
   ],
-  "updatedAt": "2026-09-03T20:14:44.096Z",
+  "updatedAt": "2026-09-03T22:41:39.472Z",
   "initialized": true,
   "summaryVersion": 4
 }
