@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "523e4998a26fd829210e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Foldable iPhone Ultra: The Latest Rumors Before Apple's Event",
+      "url": "https://www.macrumors.com/2026/09/03/iphone-ultra-latest-rumors/",
+      "publishedAt": "2026-09-03T20:10:51.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみiPhone Ultraの最新情報と直前噂まとめ",
+      "summaryJa": "Apple初となる折りたたみ式iPhoneの発表を控え、MagSafe対応やわずか4.5mmの薄型設計、Touch IDの搭載などが報じられています。画面の折り目は完全に消えないものの最小限にとどめられ、A20 Proチップやマルチタスクに対応するiOS 27を搭載する見込みです。"
+    },
+    {
+      "id": "22e7fc8c07083c553949",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "John Ternus is now Apple CEO, last-minute iPhone event rumors, Apple TV price increase",
+      "url": "https://9to5mac.com/2026/09/03/happy-hour-606/",
+      "publishedAt": "2026-09-03T20:00:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新CEOジョン・ターナス氏の初週とAppleの最新動向",
+      "summaryJa": "ジョン・ターナス氏がAppleのCEOに就任してからの1週間の動向や、ティム・クック氏の関わりについて伝えられています。また、Apple Watch Series 12の健康機能に関する直前の噂や、Apple TVのサブスクリプション料金の値上げについても言及されています。"
+    },
+    {
+      "id": "f870ff15667b7f85eb6b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s Calendar app in iOS 27 has brand new design for key features",
+      "url": "https://9to5mac.com/2026/09/03/apples-calendar-app-in-ios-27-has-brand-new-design-for-key-features/",
+      "publishedAt": "2026-09-03T19:02:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27のカレンダーアプリ、大幅なデザイン刷新へ",
+      "summaryJa": "iOS 27では、メモやリマインダーに加え、カレンダーアプリも大きくデザインが刷新されます。イベント詳細の表示や作成・編集画面が改良され、アイコンの追加や情報の再編成により視認性と操作性が向上しています。"
+    },
+    {
+      "id": "e0d97c9d1739bb9a1435",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI releasing major upgrade to ChatGPT and Codex with GPT-6 Astra, details here",
+      "url": "https://9to5mac.com/2026/09/03/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
+      "publishedAt": "2026-09-03T18:48:48.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、高度な新モデル「GPT-6 Astra」を発表",
+      "summaryJa": "OpenAIがChatGPTやCodexを強化する最新モデル「GPT-6 Astra」を発表しました。コンピュータ操作やソフトウェアエンジニアリング、科学研究などの分野で非常に高い性能を発揮し、複雑なマルチステップのワークフローを効率的に処理できるようになります。"
+    },
+    {
+      "id": "0df568eeee182b83e025",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Three advantages iPhone Ultra will have over iPhone 18 Pro",
+      "url": "https://9to5mac.com/2026/09/03/three-advantages-iphone-ultra-will-have-over-iphone-18-pro/",
+      "publishedAt": "2026-09-03T18:17:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone UltraがiPhone 18 Proより優れる3つのポイント",
+      "summaryJa": "新型のiPhone Ultraは、iPhone 18 Proシリーズと比較して、折りたたみ式ならではの大型・小型ディスプレイの双方を兼ね備える点や、優れた携帯性、そしてiOS 27における専用のマルチタスク機能という3つの優位性を持つと報じられています。Proモデルとは異なる独自の魅力で、ハイエンド市場の選択肢となりそうです。"
+    },
+    {
+      "id": "8769dbfb6d965e915a50",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Vision Pro was just used in a first-of-its-kind surgery",
+      "url": "https://9to5mac.com/2026/09/03/apple-vision-pro-was-just-used-in-a-first-of-its-kind-surgery/",
+      "publishedAt": "2026-09-03T17:59:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ssv_press-release-hero.jpeg?quality=82&#038;strip=all&#038;w=1278",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Vision Proが世界初の外科手術で活用",
+      "summaryJa": "医療分野での活用が進むApple Vision Proを使い、股関節鏡視下手術での世界初の施術がストライカー社の専用アプリ「SportSuite Vision」を用いて実施されました。この技術により、術野の近くにCT画像や関節鏡映像などのデジタルデータを仮想空間として配置できるようになり、執刀医の効率的なワークフローを支援します。"
+    },
+    {
       "id": "8d4f3b0661634c94fad1",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -181,6 +271,21 @@
       "summaryJa": "調査会社Omdiaの最新ロードマップによると、AppleがMacBookシリーズへのOLEDディスプレイ採用計画を見直し、既存のミニLEDバックライトを搭載したLCDモデルを2028年まで継続して販売する可能性があると報じられています。部品コストの高騰などが背景にあるとされており、OLEDモデルの導入ペースに影響を与えています。このため、しばらくの間は従来モデルと新型が並行して販売される見通しです。"
     },
     {
+      "id": "85aab859393d770570bc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "We need to talk about Siri AI for Apple Watch",
+      "url": "https://9to5mac.com/2026/09/03/we-need-to-talk-about-siri-ai-for-apple-watch/",
+      "publishedAt": "2026-09-03T14:07:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-apple-watch-1.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch向けSiri AIの最新ベータ版で動作が改善か",
+      "summaryJa": "今夏のwatchOS 27ベータ版でApple Watchに導入されたSiri AIは、動作が極めて遅く、実用に耐えない状態が続いていました。しかし、最近リリースされたベータ8においてパフォーマンスの改善が見られ、これまで指摘されていた問題点がようやく解消に向かっていると伝えられています。"
+    },
+    {
       "id": "5dcbc9aae0305f83646c",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -344,6 +449,21 @@
       ],
       "titleJa": "Anker、ローカルAI処理とNAS機能に対応したホームハブを発表",
       "summaryJa": "Ankerは、約100種類の自社製品およびMatter対応スマートホーム機器と連携するAIホームハブ「Anker MindBase」を発表しました。デバイス上で動作するAIエージェントを搭載し、最大48TBのローカルストレージを追加してNASとしても機能します。さらに、同社製のセキュリティカメラや各種センサーと統合することで、リアルタイムでのリスク評価や安全対策を実現するセキュリティキットも展開されます。"
+    },
+    {
+      "id": "82e3d60c525df54fdc94",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Claude, ChatGPT, and Grok Are Down on iPhone and Web",
+      "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/",
+      "publishedAt": "2026-09-03T07:01:33.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/ChatGPT-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhoneやウェブで主要なAIチャットボットに障害が発生",
+      "summaryJa": "ChatGPT、Claude、Grokといった主要なAIチャットボットのサービスが、iPhoneアプリやウェブ版で一時的に利用できなくなる障害が発生しました。各社のステータスページでもエラーや問題の発生が確認されており、運営元がそれぞれ原因の調査と復旧作業にあたっています。"
     },
     {
       "id": "865fb582290d1984d5ef",
@@ -4385,129 +4505,9 @@
       ],
       "titleJa": "Appleマップ、米国などで広告表示を開始",
       "summaryJa": "Appleマップアプリ内に広告の表示機能が導入され、米国とカナダで開始されました。ユーザーが場所の検索や候補地の閲覧を行う際に広告が表示される仕組みで、現時点で非表示にする設定はありません。表示される広告には青い「Ad」のラベルが明記されており、プライバシーに配慮した運用方針となっています。"
-    },
-    {
-      "id": "4ad2ff9e828c4c2cbe9f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp announces three ways to make accounts more secure",
-      "url": "https://9to5mac.com/2026/08/25/whatsapp-announces-three-ways-to-make-accounts-more-secure/",
-      "publishedAt": "2026-08-25T20:10:26.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/whatsapp-security.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp、アカウントのセキュリティを強化する複数の新機能を発表",
-      "summaryJa": "MetaはWhatsAppのセキュリティを強化する新たな機能を複数発表しました。同一アカウントでの複数パスキーのサポート拡大や、英数字の特殊文字にも対応するより強力な二段階認証が導入されます。また、Android向けには未知の番号からの通話に対する安全性や詳細情報を高める新機能も追加されています。"
-    },
-    {
-      "id": "f14ad343a1939a3398ab",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Three new Macs are launching this fall, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/08/25/three-new-macs-are-launching-this-fall-heres-whats-coming/",
-      "publishedAt": "2026-08-25T19:54:57.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/macbook-pro-touch-bar-gold-glow.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "今秋登場か、新モデルのMacに関する噂が浮上",
-      "summaryJa": "Appleが新型Macの投入を進めていると報じられています。今秋にはM6チップを搭載したMacBook Proや、新型デザインに有機ELディスプレイやタッチスクリーンを搭載したハイエンドMac、さらにM6チップを採用する新型iMacなどの登場が噂されており、今後の展開に注目が集まっています。"
-    },
-    {
-      "id": "6303f4824883f63c07aa",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "This new Android & iPhone tracker hides in your bike or golf clubs with 3-year battery life [Gallery]",
-      "url": "https://9to5google.com/2026/08/25/pebblebee-loc8-android-iphone-bike-tracker/",
-      "publishedAt": "2026-08-25T18:48:18.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/pebblebee-loc8-find-hub-7.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "自転車やゴルフ用品に隠せるApple対応の紛失防止トラッカーが登場",
-      "summaryJa": "Pebblebeeは、AndroidとAppleの「探す」ネットワークに対応した新型トラッカー「LÔC8」を発表しました。自転車のハンドルやゴルフルのクラブなどの内部に隠して持ち物を追跡できるように設計されており、最長3年のバッテリー寿命を備えています。"
-    },
-    {
-      "id": "e2bab7ff939bd0b9be25",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "New Mac Mini and Mac Studio: 13 Things You Might Have Missed",
-      "url": "https://www.macrumors.com/2026/08/25/mac-studio-mac-mini-tidbits/",
-      "publishedAt": "2026-08-25T18:41:44.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-New-Macs-and-Polishing-Cloth.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新Mac miniとMac Studioの注目すべき変更点まとめ",
-      "summaryJa": "Appleが発表した新型Mac miniおよびMac Studioに関する詳細情報が明らかになりました。今回のモデルでは、Wi-Fi 7やBluetooth 6への対応をはじめ、USB-C経由のゲンロックサポート、2.5Gbイーサネットの標準搭載など、多くの改良が施されています。また、M6チップにはAIワークフローを高速化する改良型のNeural Engineが搭載されています。"
-    },
-    {
-      "id": "2c8a15355f6e49c670e4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Maps launches ads on iPhone, here’s what’s new",
-      "url": "https://9to5mac.com/2026/08/25/apple-maps-launches-ads-on-iphone-heres-whats-new/",
-      "publishedAt": "2026-08-25T18:33:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-maps-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Maps、アメリカとカナダで広告配信を開始",
-      "summaryJa": "Appleは、Appleマップアプリ内での広告配信を米国とカナダで正式に開始しました。広告は検索画面のサジェストや関連する検索結果に表示され、青い「Ad」のバッジで区別されます。Appleは、ユーザーの位置情報や広告の閲覧履歴がApple Accountに紐づけられないなど、プライバシー保護を徹底していると強調しています。"
-    },
-    {
-      "id": "d0261778a16050832df0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple to Release 13 More New Products Later This Year",
-      "url": "https://www.macrumors.com/2026/08/25/apple-13-more-products-later-this-year/",
-      "publishedAt": "2026-08-25T18:03:38.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/10/imac-video-apple-feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、今年後半に13以上の新製品を発売か",
-      "summaryJa": "Appleは今年後半に向けて、iPhone 18 Proシリーズや折りたたみ式iPhone、新しいApple Watch、AirPodsなど、13以上の新製品を準備していると報じられています。次期モデルでは新しいチップの搭載やカメラ機能の向上、セラミックケースのオプションなどが噂されています。詳細な仕様や発売時期については、今後の正式発表が注目されています。"
-    },
-    {
-      "id": "ee97d3a761a2b2910c7e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's 40W Dynamic Power Adapter Expands to More Countries",
-      "url": "https://www.macrumors.com/2026/08/25/apple-40w-dynamic-power-adapter-europe/",
-      "publishedAt": "2026-08-25T17:45:29.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apples-40W-Dynamic-Power-Adapter-Now-Available-in-Europe-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、40Wダイナミック電源アダプタの提供国を欧州やベトナムへ拡大",
-      "summaryJa": "Appleは新しいMac StudioおよびMac miniの発表に合わせ、40Wダイナミック電源アダプタの対応地域をベトナムや欧州のCタイプ2ピン電源プラグを使用する国々に拡大しました。この電源アダプタは、20W充電器と同じコンパクトなサイズでありながら通常40W、最大60Wの急速充電をサポートし、iPhone 17シリーズやiPad Proなどの急速充電に対応します。価格は多くのユーロ圏の国で45ユーロとなっています。"
-    },
-    {
-      "id": "9fa4fbc6a10a2e3761b4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple just revealed two ways iPhone 18 Pro could get big upgrades",
-      "url": "https://9to5mac.com/2026/08/25/apple-just-revealed-two-ways-iphone-18-pro-could-get-big-upgrades/",
-      "publishedAt": "2026-08-25T17:30:58.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "M6チップの発表から見えてくるiPhone 18 Proの進化と2nmプロセスの期待",
-      "summaryJa": "Appleが発表した次世代のM6チップは、将来的にiPhone 18 ProのA20 Proにも採用される可能性のある血縁のチップです。M6は最先端の2nmプロセス技術を用いて製造されており、優れた電力効率とパフォーマンスの大幅な向上を実現しています。また、最大2倍のピーク演算処理能力を持つデュアル16コアNeural Engineを搭載し、デバイス上のAIワークフローを加速させます。このアーキテクチャの進化により、次期iPhoneのプロセッサでも同様の大幅な性能向上が期待されます。"
     }
   ],
-  "updatedAt": "2026-09-03T17:49:18.701Z",
+  "updatedAt": "2026-09-03T20:14:44.096Z",
   "initialized": true,
   "summaryVersion": 4
 }
