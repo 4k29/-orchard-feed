@@ -1,6 +1,162 @@
 {
   "articles": [
     {
+      "id": "5dcbc9aae0305f83646c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Brydge announces color-matched keyboards for the entry-level iPad",
+      "url": "https://9to5mac.com/2026/09/03/brydge-announces-color-matched-keyboards-for-the-entry-level-ipad/",
+      "publishedAt": "2026-09-03T14:00:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Brydge-announces-color-matched-keyboards-for-the-entry-level-iPad.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Brydge、エントリー向けiPadの本体カラーに合わせたキーボードを発表",
+      "summaryJa": "周辺機器メーカーのBrydgeが、エントリー向けiPadの4つの本体色に合わせたアルミニウム製キーボードを発表しました。iPadの色と完全にマッチするアルマイト処理が施されており、ガラス製マルチタッチトラックパッドやバックライト付きキーを搭載しています。価格は159ドルで、今月中旬から同社サイトやAmazonストアなどで販売される予定です。"
+    },
+    {
+      "id": "132cc99ff556554c38b4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "'MacBook Ultra' Rumored to Have M5 Ultra Chip Option",
+      "url": "https://www.macrumors.com/2026/09/03/macbook-ultra-m5-ultra-chip-rumor/",
+      "publishedAt": "2026-09-03T13:56:33.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "MacBook Ultra、M5 Ultraチップ搭載の可能性が浮上",
+      "summaryJa": "調査会社Omdiaのアナリストであるデヴィッド・シエ氏によると、Appleが2027年初頭までに発売すると予測されるOLEDディスプレイ搭載のMacBook Proモデルに、M5 Ultraチップのオプションが用意される可能性があると報じられています。このモデルは「MacBook Ultra」として展開されるとの見方もありますが、過去にUltraチップを搭載したMacBookが存在しないため、今後の動向に注目が集まっています。"
+    },
+    {
+      "id": "791046ab7f98e06a4bf9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Reportedly Planning All-New MacBook Model Between Air and Pro",
+      "url": "https://www.macrumors.com/2026/09/03/apple-new-oled-macbook-between-air-pro/",
+      "publishedAt": "2026-09-03T13:50:28.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/MacBook-Air-Hello.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、AirとProの間に位置する新型13.8インチOLED搭載MacBookを計画か",
+      "summaryJa": "調査会社Omdiaの最新ロードマップによると、Appleは2029年にMacBook AirとMacBook Proの中間に位置する13.8インチの新型OLED MacBookを投入する可能性があると伝えられています。この新型モデルは、ハイブリッドOLEDパネルやLTPO+バックパネルを採用し、画面下カメラなどの新機能が組み込まれる見通しです。ただし、Appleの計画は変更される可能性もあるため、今後の正式発表が注目されます。"
+    },
+    {
+      "id": "d1eb6cf1146f2923d0c2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple faces yet another lawsuit over App Tracking Transparency, with a twist",
+      "url": "https://9to5mac.com/2026/09/03/apple-faces-yet-another-lawsuit-over-app-tracking-transparency-with-a-twist/",
+      "publishedAt": "2026-09-03T13:20:58.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-faces-yet-another-lawsuit-over-App-Tracking-Transparency.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、アプリのトラッキング透明性をめぐり英国で新たな訴訟に直面",
+      "summaryJa": "Appleのプライバシー保護機能である「App Tracking Transparency（ATT）」をめぐり、英国で新たな訴訟が提起されました。ATTはユーザーにデータの追跡許可を選択させる仕組みですが、Apple自身のアプリには同様の許可ポップアップが表示されないことなどを理由に、これまでも独占禁止法関連の訴訟や規制当局からの追及が相次いでいます。プライバシー重視の姿勢が再び法的な議論の的となっています。"
+    },
+    {
+      "id": "e14783558630be4275bd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Leaker claims iPhone 18 Pro chip will have 7 GPU cores and faster RAM",
+      "url": "https://9to5mac.com/2026/09/03/leaker-claims-iphone-18-pro-chip-will-have-7-gpu-cores-and-faster-ram/",
+      "publishedAt": "2026-09-03T12:15:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Leaker-claims-iPhone-18-Pro-chip-will-have-7-GPU-cores-and-faster-RAM.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Leaker claims iPhone 18 Pro chip will have 7 GPU cores and faster RAM",
+      "summaryJa": "A Chinese leaker with some track record has posted images of claimed circuit diagrams of the upcoming iPhone 18 Pro models. These suggest that the new A20 Pro chip may have seven GPU cores – one more than its predecessor – and a faster memory interface … more… A Chinese leaker with some track record has posted images of claimed circuit diagrams of the upcoming iPhone 18 Pro models. These suggest that the new A20 Pro chip may have seven GPU cores – one more than its predecessor – and a faster memory interface … The images posted by Weibo user Fried White Rice are not of the A20 Pro chip itself, but rather diagrams of where the chip will be attached to the underlying circuit board. From this, they’re making inferences about the power and architecture of the new chip, drawing two main conclus",
+      "translationStatus": "source"
+    },
+    {
+      "id": "c5707387f1650812f72a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Chip Leak Indicates Major GPU and Memory Bandwidth Improvements",
+      "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-chip-leak-suggests-improvements/",
+      "publishedAt": "2026-09-03T12:06:35.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/10/A20-Chip-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Pro Chip Leak Indicates Major GPU and Memory Bandwidth Improvements",
+      "summaryJa": "An alleged solder joint diagram for Apple's A20 Pro chip suggests the processor will deliver a number of significant upgrades, including a seven-core GPU, a wider memory interface, and a larger L2 cache for its efficiency cores. The claims come from a Weibo user who says the layout was reconstructed by mapping the chip's solder ball positions and overlaying them with die level images to sketch out where each block of the processor sits. According to the post, the resulting outline points to a two and four core CPU configuration and a seven core GPU, with the top of the die housing the GPU and the CPU occupying the center. Based on the layout, the leaker expects the A20 Pro's efficiency cores to share an 8MB L2 cache, up from 6MB on the A19 Pro, while the performance cores retain their exis",
+      "translationStatus": "source"
+    },
+    {
+      "id": "148a8fb6d2063711b484",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 3, 2026 – More Apple executive news, Apple Maps",
+      "url": "https://9to5mac.com/2026/09/03/daily-september-3-2026/",
+      "publishedAt": "2026-09-03T12:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "9to5Mac Daily: September 3, 2026 – More Apple executive news, Apple Maps",
+      "summaryJa": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff : Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. more… Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsor",
+      "translationStatus": "source"
+    },
+    {
+      "id": "c19df6ab3351e8be33da",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple paying 400% more for iPhone 18 Pro memory, says TrendForce",
+      "url": "https://9to5mac.com/2026/09/03/apple-paying-400-more-for-iphone-18-pro-memory-says-trendforce/",
+      "publishedAt": "2026-09-03T11:37:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple paying 400% more for iPhone 18 Pro memory, says TrendForce",
+      "summaryJa": "A new market intelligence report suggests that Apple will be paying four times more for iPhone 18 Pro memory than it did for last year’s model. TrendForce says that Apple won’t be passing on the full impact to customers, and will be increasingly looking to Services revenue to offset higher hardware manufacturing costs … more… A new market intelligence report suggests that Apple will be paying four times more for iPhone 18 Pro memory than it did for last year’s model. TrendForce says that Apple won’t be passing on the full impact to customers, and will be increasingly looking to Services revenue to offset higher hardware manufacturing costs … Apple announced significant price increases across most of its products back in June, stating that it had done everything possible to delay this but n",
+      "translationStatus": "source"
+    },
+    {
+      "id": "f464d8f4de3f0a760f26",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Syncing Hue lights to your TV now starts at $120; Nanoleaf integration too",
+      "url": "https://9to5mac.com/2026/09/03/syncing-hue-lights-to-your-tv-now-starts-at-120-nanoleaf-integration-too/",
+      "publishedAt": "2026-09-03T11:04:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Syncing-Hue-lights-to-your-TV-now-starts-at-120.jpeg?quality=82&#038;strip=all&#038;w=1120",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Syncing Hue lights to your TV now starts at $120; Nanoleaf integration too",
+      "summaryJa": "Syncing your Philips Hue lights to your TV display used to be a rather expensive undertaking, at $385 for the company’s Sync Box 8K. A couple of new products now bring that cost down to as little as $120. Additionally, you can now integrate Nanoleaf wall panels into your Philips Hue ecosystem thanks to a new $40 Wall Light Module … more… Syncing your Philips Hue lights to your TV display used to be a rather expensive undertaking, at $385 for the company’s Sync Box 8K. A couple of new products now bring that cost down to as little as $120. Additionally, you can now integrate Nanoleaf wall panels into your Philips Hue ecosystem thanks to a new $40 Wall Light Module … Syncing Hue lights to your TV Synchronizing your Philips Hue lights to your TV display can create an extremely immersive exper",
+      "translationStatus": "source"
+    },
+    {
+      "id": "102d79120e466632473a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Prices Estimated Ahead of Apple Event Next Week",
+      "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-prices-apple-event-next-week/",
+      "publishedAt": "2026-09-03T10:41:31.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Pro Prices Estimated Ahead of Apple Event Next Week",
+      "summaryJa": "Less than a week before Apple debuts new iPhone 18 Pro models, research firm TrendForce has estimated the prices of the devices based on the latest hardware cost environment. TrendForce's price estimates compared to last year's models look like this: Model Starting Price Model Starting Price Change iPhone 17 Pro $1,099 iPhone 18 Pro $1,249-$1,299 +$150 to +$200 iPhone 17 Pro Max $1,199 iPhone 18 Pro Max $1,349-$1,399 +$150 to +$200 Apple is likely to raise iPhone 18 Pro and iPhone 18 Pro Max prices by around 10-20% compared to last year's Pro models, according to the firm. Taking TrendForce's June forecast of a 14-18% increase, which fits within its latest broader 10-20% range and translates more neatly to Apple's typical pricing scheme, we could see the iPhone 18 Pro starting price jump t",
+      "translationStatus": "source"
+    },
+    {
       "id": "9e4a102f6806d4e13c9f",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4355,162 +4511,9 @@
       ],
       "titleJa": "Apple、価格を改定した新しいポリシングクロスの販売を開始",
       "summaryJa": "Appleは、Apple製ディスプレイのお手入れに適した「ポリシングクロス」の新モデルを発売しました。従来の19ドルから9ドルへと値下げされ、より手頃な価格で購入できるようになっています。素材やデザインなどの具体的な変更点については言及されていませんが、従来と同様にナノテクスチャガラスを含むあらゆるディスプレイを安全に掃除できます。"
-    },
-    {
-      "id": "eca9506ff70b552d6265",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、M5 MaxとM5 Ultraを搭載した新しいMac Studioを発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "publishedAt": "2026-08-25T14:00:45.049Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、M5 MaxとM5 Ultra搭載の新しいMac Studioを発表",
-      "summaryJa": "Appleは、M5 MaxおよびM5 Ultraチップを搭載した新しいMac Studioを発表しました。最大512GBのユニファイドメモリを備え、オンデバイスAIや極めて負荷の高いプロのワークフローにおいて圧倒的なパフォーマンスを発揮します。Wi-Fi 7やThunderbolt 5への対応により接続性も強化されており、本日から予約注文が開始され、9月22日に発売されます。"
-    },
-    {
-      "id": "80d02beafbb9ca6a35cf",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases New Polishing Cloth",
-      "url": "https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/",
-      "publishedAt": "2026-08-25T13:50:36.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-Polishing-Cloth-Gradient.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、価格を改定した新しいポリッシングクロスを発売",
-      "summaryJa": "Appleはオンラインストアで新しいバージョンのポリッシングクロスを発売しました。米国での価格は従来の19ドルから9ドルへと引き下げられています。素材は従来同様に柔らかい非研磨性のものが使われており、ナノテクスチャーガラスを含むあらゆるApple製ディスプレイの清掃に使用可能です。"
-    },
-    {
-      "id": "761991b19ddfe12dfec7",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's New Mac Mini and Mac Studio Are Now Available to Pre-Order",
-      "url": "https://www.macrumors.com/2026/08/25/apples-mac-mini-mac-studio-available-pre-order/",
-      "publishedAt": "2026-08-25T13:45:35.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型Mac miniとMac Studioの予約注文が受付開始",
-      "summaryJa": "Appleが発表した新しいMac miniとMac Studioの予約注文が、米国をはじめとする世界各国で開始されました。AIデータセンターの急拡大によるメモリやストレージチップの需要高騰を受け、一部モデルは従来機より価格が引き上げられています。製品の出荷および店頭販売は9月22日から順次開始される予定です。"
-    },
-    {
-      "id": "1d542f2779bd9cf6cd14",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple outlines 50 ways to make devices easier to use as we age",
-      "url": "https://9to5mac.com/2026/08/25/apple-outlines-50-ways-to-make-devices-easier-to-use-as-we-age/",
-      "publishedAt": "2026-08-25T13:30:02.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-outlines-50-ways-to-make-devices-easier-to-use-as-we-age.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、高齢ユーザー向けにアクセシビリティを活用した50のヒントを公開",
-      "summaryJa": "Appleは、高齢のユーザー層に向けてデバイスをより使いやすくするための50の方法をまとめた新しいサポートページを公開しました。視覚、聴覚、運動能力、認知機能など10のカテゴリに分かれ、アクセシビリティ機能を活用して文字サイズを変更したり日常の通知を受け取ったりする方法を紹介しています。"
-    },
-    {
-      "id": "d3e5195773e8b2a0a62c",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、新しいM6とM5 Proを搭載し、さらにパワフルになったMac miniを発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "publishedAt": "2026-08-25T13:13:33.729Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、M6とM5 Proチップを搭載した新しいMac miniを発表",
-      "summaryJa": "Appleは、新しいM6およびM5 Proチップを搭載し、パフォーマンスとAI処理能力を飛躍的に向上させた新しいMac miniを発表しました。M6モデルは最大4倍高速なAIパフォーマンスや2倍高速なグラフィックスを備え、コンパクトなボディでありながら優れた処理能力を発揮します。新しいMac miniは本日より予約注文が開始され、9月22日に発売されます。"
-    },
-    {
-      "id": "d66fda92c59ab59b41e7",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Debuts M5 Ultra as Most Powerful Chip Ever",
-      "url": "https://www.macrumors.com/2026/08/25/apple-debuts-m5-ultra/",
-      "publishedAt": "2026-08-25T13:12:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/m5-ultra-chip.png",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、史上最もパワフルなチップ「M5 Ultra」を発表",
-      "summaryJa": "Appleは、同社史上最も強力なチップとなる「M5 Ultra」を発表しました。クアッドダイアーキテクチャを採用し、最大36コアのCPUや80コアのGPU、最大512GBのユニファイドメモリをサポートしています。このチップは新しいMac Studioにのみ搭載され、本日から予約注文を受け付けています。"
-    },
-    {
-      "id": "be6a4983a23ce156d145",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Announces New Mac Mini With M6 and M5 Pro Chips and More",
-      "url": "https://www.macrumors.com/2026/08/25/apple-announces-2026-mac-mini/",
-      "publishedAt": "2026-08-25T13:11:44.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/06/mac-mini-orange.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、M6およびM5 Pro搭載の新型Mac miniを発表",
-      "summaryJa": "Appleは次世代のMac miniを発表し、新開発のM6チップまたはM5 Proチップを選択可能にしました。M6チップは12コアのCPUとGPUを備え、AIタスクで前世代比最大4倍のパフォーマンスを実現しています。米国での価格はM6モデルが899ドルから、M5 Proモデルが1,699ドルからとなっています。"
-    },
-    {
-      "id": "0f1ce67b2129e0b8ac47",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、パフォーマンスとAI演算の大幅な向上をもたらすM6とM5 Ultraを発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "publishedAt": "2026-08-25T13:08:09.315Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、パフォーマンスとAI演算を強化するM6およびM5 Ultraを発表",
-      "summaryJa": "Appleは、Mac mini向けの「M6」とMac Studio向けの「M5 Ultra」という2つの新しいAppleシリコンを発表しました。M6はApple初の2ナノメートルチップで、デュアル16コアNeural EngineによりAI処理が大幅に強化されています。一方のM5 Ultraは、クアッドダイアーキテクチャによって圧倒的なデスクトップパフォーマンスを提供します。"
-    },
-    {
-      "id": "22a9989a0ff0694443c6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Announces New Mac Studio With M5 Ultra Chip",
-      "url": "https://www.macrumors.com/2026/08/25/apple-announces-new-mac-studio-with-m5-ultra-chip/",
-      "publishedAt": "2026-08-25T13:07:09.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/11/mac-studio-purple.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、M5 MaxおよびM5 Ultraチップを搭載したMac Studioを発表",
-      "summaryJa": "Appleは、強力な新型チップ「M5 Max」および「M5 Ultra」を搭載した新しいMac Studioを発表しました。M5 Ultraチップは2つのM5 Maxダイを接続するUltraFusionテクノロジーを採用し、最大512GBのユニファイドメモリや最大80コアのGPUを備えています。また、高速なPCIe Gen 6ベースのSSDアーキテクチャやThunderbolt 5ポートを搭載し、オンデバイスでのAI処理やプロ向けの重いワークフローで圧倒的なパフォーマンスを発揮します。"
-    },
-    {
-      "id": "e71ba707fdd503a77436",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Reveals M6 as First-Ever 2nm Chip",
-      "url": "https://www.macrumors.com/2026/08/25/apple-reveals-m6/",
-      "publishedAt": "2026-08-25T13:05:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/m6-chip.png",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、同社初の2nmプロセスを採用したM6チップを発表",
-      "summaryJa": "Appleは、同社初となる2ナノメートルプロセスで製造された次世代チップ「M6」を発表しました。トランジスタ密度を高めたことで、パフォーマンスと電力効率が大幅に向上し、デュアル16コアNeural Engineを新たに搭載しています。CPUやGPUのコア数も増加し、シングルスレッドおよびマルチスレッド性能だけでなく、オンデバイスのLLM処理におけるAIパフォーマンスも飛躍的に強化されています。"
     }
   ],
-  "updatedAt": "2026-09-03T09:51:51.160Z",
+  "updatedAt": "2026-09-03T14:03:18.235Z",
   "initialized": true,
   "summaryVersion": 4
 }
