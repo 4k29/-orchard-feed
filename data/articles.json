@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "00eca06d3f07e5324d5f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "When is Apple releasing new AirPods?",
+      "url": "https://9to5mac.com/2026/09/02/when-is-apple-releasing-new-airpods/",
+      "publishedAt": "2026-09-03T00:47:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/airpods-pro-3-table.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "カメラ内蔵AirPodsは2027年末に発売延期か",
+      "summaryJa": "Appleが開発中と噂されている、カメラを内蔵した次世代AirPodsの発売時期が、2027年末へと延期されたと報じられています。このカメラは写真や動画の撮影用ではなく、Siriに周囲の環境を認識させるための目として機能し、コンテキストに応じた情報提供を行う予定です。Apple IntelligenceやSiri関連の遅延が影響していると伝えられています。"
+    },
+    {
       "id": "887916420692a087a7c0",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4493,24 +4508,9 @@
       ],
       "titleJa": "Apple、初の2nmプロセスを採用した次世代チップ「M6」を発表",
       "summaryJa": "Appleは新たなApple SiliconとなるM6およびM5 Ultraチップを発表しました。M6はApple初となる2nmプロセスのプロセッサであり、新型Mac miniに搭載されます。3種類のCPUコアを組み合わせることで優れた電力効率と世界最速のシングルスレッド性能を実現し、AI処理性能も大きく向上しています。"
-    },
-    {
-      "id": "c2f3a932923f55332c63",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple announces updated Mac mini, here’s everything new",
-      "url": "https://9to5mac.com/2026/08/25/apple-announces-new-mac-mini-heres-everything-new/",
-      "publishedAt": "2026-08-25T13:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mini-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、M6とM5 Proを搭載して大幅に性能向上した新型Mac miniを発表",
-      "summaryJa": "Appleは約2年ぶりとなるMac miniのアップデートを発表しました。コンパクトな本体デザインを維持しつつ、ベースモデルには初となる2nmプロセスのM6チップを、上位にはM5 Proを採用しています。AI処理性能が最大4倍に高まり、Wi-Fi 7などの最新接続機能も備えて本日より予約受付が始まっています。"
     }
   ],
-  "updatedAt": "2026-09-03T00:38:28.267Z",
+  "updatedAt": "2026-09-03T05:07:16.052Z",
   "initialized": true,
   "summaryVersion": 4
 }
