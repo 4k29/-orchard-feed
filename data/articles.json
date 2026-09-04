@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "0996ef2deb4650c6a553",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Ultra, iPhone 18 Pro, and More: Apple's September 9 Event Preview",
+      "url": "https://www.macrumors.com/guide/apple-september-2026-what-to-expect/",
+      "publishedAt": "2026-09-04T22:26:17.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、9月9日にイベント開催か 新しいiPhoneや折りたたみモデルの噂",
+      "summaryJa": "Appleが9月9日に開催するイベントでは、新型iPhoneのラインナップに加え、ブランド初となる折りたたみ式デバイスが発表されるとの見方が伝えられています。本体には約5.5インチの外側ディスプレイと約7.8インチの内側ディスプレイを備え、iPad miniのような形状になると噂されています。また、新しいApple WatchやAirPodsの登場も期待されており、最新の動向に注目が集まっています。"
+    },
+    {
       "id": "b322ee5cf405f6ce6a57",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -1124,6 +1139,21 @@
       ],
       "titleJa": "カメラ内蔵AirPodsは2027年末に発売延期か",
       "summaryJa": "Appleが開発中と噂されている、カメラを内蔵した次世代AirPodsの発売時期が、2027年末へと延期されたと報じられています。このカメラは写真や動画の撮影用ではなく、Siriに周囲の環境を認識させるための目として機能し、コンテキストに応じた情報提供を行う予定です。Apple IntelligenceやSiri関連の遅延が影響していると伝えられています。"
+    },
+    {
+      "id": "0d72936e12d424670831",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Foldable 'iPhone Ultra' Still Likely to Be Missing These Five Features",
+      "url": "https://www.macrumors.com/2026/09/04/foldable-iphone-likely-to-be-missing-these-features/",
+      "publishedAt": "2026-09-02T21:31:30.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Foldable-iPhone-Ultra-Still-Likely-to-Be-Missing-These-Five-Features-16x9-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみiPhone Ultra、一部機能が非搭載となる可能性",
+      "summaryJa": "Apple初の折りたたみ式iPhoneと噂されるモデルには、高価格帯でありながらiPhone 18 Proに搭載される一部の機能が含まれない可能性が報じられています。極薄デザインを採用するため、Face ID用のTrueDepthカメラや望遠カメラ、物理SIMカードスロットなどが省かれ、代わりに側面のTouch IDなどが採用される見通しです。"
     },
     {
       "id": "887916420692a087a7c0",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "OpenAI、教員向けChatGPTの無料提供プログラムを大幅拡大",
       "summaryJa": "OpenAIは、米国の教職員向けに提供している「ChatGPT for Teachers」の対象地域を、新たに20州の55の学校システムへと拡大すると発表しました。これにより、10万人以上の教職員が新たに無料アクセスやトレーニングを受けられるようになります。プログラムは少なくとも2028年6月まで無料で継続される予定で、生徒のデータプライバシーに関する新たな枠組みも合わせて発表されています。"
-    },
-    {
-      "id": "f0c2ea9de6ae97995678",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Ultra is coming: Three new features will be worth the wait",
-      "url": "https://9to5mac.com/2026/08/26/iphone-ultra-is-coming-three-new-features-will-be-worth-the-wait/",
-      "publishedAt": "2026-08-26T17:18:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "9月9日の発表が噂される折りたたみ式iPhone Ultraの注目機能",
-      "summaryJa": "9月9日のイベントでの発表が期待されている折りたたみ式のiPhone Ultraについて、競合他社に遅れをとった分、優れた3つの特徴を備えていると伝えられています。画面の折り目がほとんど目立たないディスプレイや、バッテリー性能やパフォーマンスを犠牲にしない極薄の本体設計が特徴です。さらに、15年以上の技術を背景にした耐久性の高いヒンジ構造などが採用される見込みとなっています。"
-    },
-    {
-      "id": "450c78015455dd4e96b3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Event Livestream: Where and When to Watch on September 9",
-      "url": "https://www.macrumors.com/2026/08/26/apple-event-livestream-youtube/",
-      "publishedAt": "2026-08-26T16:41:43.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、9月9日のスペシャルイベント配信情報を公開",
-      "summaryJa": "Appleは9月9日に開催されるスペシャルイベントの配信ページをYouTubeや公式サイトなどに公開しました。視聴者はYouTubeのリマインダー機能やApple Eventsサイトのカレンダー登録を利用して、各地域の開始時刻を確認することができます。基調講演は太平洋時間の午前10時に開始され、Apple TVアプリなどでもライブ配信が予定されています。"
     }
   ],
-  "updatedAt": "2026-09-04T21:50:52.210Z",
+  "updatedAt": "2026-09-04T23:34:13.565Z",
   "initialized": true,
   "summaryVersion": 4
 }
