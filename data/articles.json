@@ -1,6 +1,141 @@
 {
   "articles": [
     {
+      "id": "b322ee5cf405f6ce6a57",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "CarPlay now works with five major chatbot apps",
+      "url": "https://9to5mac.com/2026/09/04/carplay-now-works-with-five-major-chatbot-apps/",
+      "publishedAt": "2026-09-04T21:17:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "CarPlayの会話型アプリにClaudeが対応",
+      "summaryJa": "AnthropicのiPhone向けアプリ「Claude」が最新のアップデートによりCarPlayに対応しました。CarPlayではChatGPTやPerplexityなどに続いてAIチャットボットの対応が進んでおり、運転中でも音声でClaudeと会話できるようになっています。"
+    },
+    {
+      "id": "f5c166130d82190176b7",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Planning AI Home Security Camera and Service for 2027",
+      "url": "https://www.macrumors.com/2026/09/04/apple-home-security-camera-2027/",
+      "publishedAt": "2026-09-04T21:05:45.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/11/homekit-showdown-redux.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、AIを活用したホームセキュリティカメラとサービスを2027年にも投入か",
+      "summaryJa": "Appleがプライバシーに配慮した独自のホームセキュリティカメラおよび監視サービスを2027年にリリースする計画であると報じられています。このカメラは実際の映像ではなくAIを利用して周辺環境を監視する仕組みで、今後のスマートホーム戦略の柱として期待されています。"
+    },
+    {
+      "id": "603d52fe8477cb960efe",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Anthropic's Claude Comes to CarPlay",
+      "url": "https://www.macrumors.com/2026/09/04/anthropics-claude-is-coming-to-carplay/",
+      "publishedAt": "2026-09-04T20:43:31.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/06/CarPlay-Liquid-Glass-Light.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "ClaudeのiOSアプリがCarPlay統合に対応",
+      "summaryJa": "AnthropicがiOS版「Claude」アプリでCarPlayへの対応を開始し、車載インフォテインメントシステムを介して音声でClaudeを利用できるようになりました。ユーザーはハンズフリーで過去のチャットの再開や新規の音声会話を行えますが、車両やiPhoneの直接制御には対応していません。"
+    },
+    {
+      "id": "ceb5f4bcfb9b74739c42",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "macOS 26.7 Code Hints at Two Unreleased Apple Game Controllers",
+      "url": "https://www.macrumors.com/2026/09/04/macos-26-7-code-game-controllers/",
+      "publishedAt": "2026-09-04T20:40:31.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/10/apple-game-controller-graphic.jpg.png",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "macOSのコードから未発表のApple製ゲームコントローラーの存在が浮上",
+      "summaryJa": "macOSのリリース候補版のコード内から、Apple製とみられる2種類の未発表ゲームコントローラーのプロファイルが見つかったと伝えられています。これらは異なるハプティクス設計や各種ボタンを備えており、内部テスト用ハードウェアの可能性も含めて今後の動向が注目されています。"
+    },
+    {
+      "id": "92f80bdd3e62c887f8a3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "watchOS 27 removes three features that Apple Watch users might miss after updating",
+      "url": "https://9to5mac.com/2026/09/04/watchos-27-removes-three-features-that-apple-watch-users-might-miss-after-updating/",
+      "publishedAt": "2026-09-04T20:36:32.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-apple-watch-1.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "watchOS 27で削除される3つの機能",
+      "summaryJa": "今月後半にリリースされるwatchOS 27では、Apple Watchからいくつかの機能が削除されることが分かりました。削除対象となったのは、リアルタイム音声通話アプリのトランシーバー、デジタルクラウンのダブルクリックによるマルチタスクショートカット、そして単押し時の挙動の変更です。ユーザーの間ではこれらの変更を惜しむ声や、将来的な復活を期待する意見が出ています。"
+    },
+    {
+      "id": "3869a1c11c91e880f30f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo?",
+      "url": "https://www.macrumors.com/2026/09/04/iphone-duo/",
+      "publishedAt": "2026-09-04T19:54:45.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみiPhoneの名称は「iPhone Duo」になる可能性も？",
+      "summaryJa": "長年噂されている折りたたみiPhoneの名称について、これまでの「iPhone Ultra」や「iPhone Fold」に加え、「iPhone Duo」という候補が浮上しています。Appleは過去にPowerBook DuoやMagSafe DuoでDuoの名称を使用しており、デュアルスクリーンを搭載する折りたたみモデルに適している可能性があります。ただし、現時点で正式な証拠はなく、社内ではiPhone Ultraと呼ばれることが多いと報じられており、今後の発表に注目が集まっています。"
+    },
+    {
+      "id": "d3a8f9ec0f6861af5339",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Alogic Expands Display Lineup With New 5K and 6K Models, Debuts New Peripherals",
+      "url": "https://www.macrumors.com/2026/09/04/alogic-new-displays-peripherals/",
+      "publishedAt": "2026-09-04T19:51:13.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/alogic-aspekt-displays.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Alogic、5Kおよび6Kの新ディスプレイや周辺機器を発表",
+      "summaryJa": "アクセサリーブランドのAlogicが、ディスプレイ製品のラインナップを大幅に拡充し、新たな5Kおよび6Kモデルを発表しました。タッチ操作対応のAspektシリーズや、12メガピクセルカメラを搭載したClarityシリーズなど、多様なモデルが今後数ヶ月にかけて順次発売される予定です。また、強力な拡張性を持つThunderbolt 5対応のドッキングステーションなどの新しい周辺機器も同時に登場します。"
+    },
+    {
+      "id": "53941617ec4fe35fd800",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Fender MIX headphones now have an iPhone app for tuning your sound",
+      "url": "https://9to5mac.com/2026/09/04/fender-mix-headphones-now-have-an-iphone-app-for-tuning-your-sound/",
+      "publishedAt": "2026-09-04T19:46:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Fender-MIX-app.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Fender MIXヘッドホン、音質調整ができる専用iPhoneアプリが登場",
+      "summaryJa": "Fenderが8月に発売したワイヤレスヘッドホン「MIX」向けに、サウンドのチューニングが可能な専用のiPhoneアプリがリリースされました。このアプリでは、プリセットや5バンドのイコライザーを使った細かな音質調整に加え、バッテリー残量の確認やホーム画面ウィジェットの設定が可能になります。MIXは交換可能なバッテリーや低遅延のUSB-Cワイヤレス送信機を備えており、優れたリスニング体験を提供します。"
+    },
+    {
+      "id": "def13fd5a7862c39e682",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Review: Acer's 6K Touchscreen Display Turns Your Mac Into a Giant iPad, Sort Of",
+      "url": "https://www.macrumors.com/review/acer-6k-touchscreen-display/",
+      "publishedAt": "2026-09-04T19:45:56.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/acer-display-main-image.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Acerの6Kタッチディスプレイを試す",
+      "summaryJa": "Acerの新しい31.5インチ6Kディスプレイ「ProDesigner PE320QXT」のレビュー記事が公開されました。Macと組み合わせてタッチ操作ができる点が特徴ですが、本体が厚く重いことや、輝度が400ニトとやや控えめである点などの妥協点についても触れられています。"
+    },
+    {
       "id": "18d6e01df806a73f9087",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4369,144 +4504,9 @@
       ],
       "titleJa": "Apple、9月9日のスペシャルイベント配信情報を公開",
       "summaryJa": "Appleは9月9日に開催されるスペシャルイベントの配信ページをYouTubeや公式サイトなどに公開しました。視聴者はYouTubeのリマインダー機能やApple Eventsサイトのカレンダー登録を利用して、各地域の開始時刻を確認することができます。基調講演は太平洋時間の午前10時に開始され、Apple TVアプリなどでもライブ配信が予定されています。"
-    },
-    {
-      "id": "c822b0e3e362a1620e05",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "1-800-APL-CARE Now Connects You With AI Assistant Instead of Human",
-      "url": "https://www.macrumors.com/2026/08/26/1-800-apl-care-ai-assistant/",
-      "publishedAt": "2026-08-26T16:40:19.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2023/08/Apple-Support-App-General-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleサポートの電話窓口、人間から生成AIアシスタントへ",
-      "summaryJa": "米国およびカナダのAppleサポート電話窓口において、生成AIを活用した音声アシスタントが導入されていると報じられています。このAIアシスタントは質問への回答や詳細なトラブルシューティングの手順案内を行いますが、必要に応じて人間のアドバイザーに引き継ぐことも可能です。また、社内ではAIを活用したカスタマーサービスの導入が進む一方で、将来的な人間のアドバイザーへの影響を懸念する声も上がっています。"
-    },
-    {
-      "id": "96241d3a40b6e6127dc5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Leaked Images Give First Look at Apple's AI Servers",
-      "url": "https://www.macrumors.com/2026/08/26/leaked-images-of-apple-ai-servers/",
-      "publishedAt": "2026-08-26T16:34:32.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-silicon-gray.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AppleのAIサーバー内部とされる画像がネット上に流出か",
-      "summaryJa": "プライベートクラウドコンピューティング（PCC）を支えるとみられるApple製AIサーバーの内部を捉えた画像が、オンライン上に投稿されました。流出した画像には、独自シリコンやヒートシンクが配置されたモジュール式のシャーシ構造が収められています。ただし、ハードウェアの起動には物理的な認証が必要であると伝えられており、詳細な動作については不明な点も残されています。"
-    },
-    {
-      "id": "142bfd157c396e9758ce",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Event Announced for September 9: 'Surprise and Shine'",
-      "url": "https://www.macrumors.com/2026/08/26/apple-iphone-event-2026/",
-      "publishedAt": "2026-08-26T16:02:57.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-september-2026.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、9月9日にスペシャルイベントを開催へ",
-      "summaryJa": "Appleは9月9日にカリフォルニア州アップル・パークで恒例のiPhoneイベントを開催すると正式に発表しました。今回のイベントでは「iPhone 18 Pro」シリーズに加え、iPhone Ultraと呼ばれる可能性のある同社初の折りたたみモデルが発表される見通しです。標準モデルのiPhone 18は2027年春まで見送られると報じられており、秋の新製品発表はプロモデルと新型端末が中心になる見込みです。"
-    },
-    {
-      "id": "7455208f921b1e92f714",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple officially announces iPhone 18 Pro and foldable iPhone event: ‘Surprise and shine’",
-      "url": "https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/",
-      "publishedAt": "2026-08-26T16:02:04.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/john-ternus-apple-park.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、9月9日のイベント開催を発表 新作iPhoneを披露へ",
-      "summaryJa": "Appleは、9月9日午前10時（太平洋標準時）に新たな製品発表会を開催すると公式発表しました。「Surprise and shine」というタグラインが掲げられ、iPhone 18 Proシリーズや初となる折りたたみ式iPhoneがお披露目される予定です。今年の秋は標準モデルの展開が異なり、春に分割して投入されるとの情報もあり、新型のプロおよび折りたたみ端末に注目が集まっています。"
-    },
-    {
-      "id": "4b4100af80a3e1dfebcc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Pioneer releases its first collection of iPhone accessories",
-      "url": "https://9to5mac.com/2026/08/26/pioneer-releases-its-first-collection-of-iphone-accessories/",
-      "publishedAt": "2026-08-26T15:45:22.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/pioneer.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "パイオニア、同社初となるiPhone向け車載アクセサリを発売",
-      "summaryJa": "カーオーディオなどで知られるパイオニアが、ブランド初となるiPhone向けの車載アクセサリコレクションを新たに展開します。MagSafe対応のワイヤレス充電器やスマホマウント、さらに冷却ファン付きモデルなどの多彩なベントマウントがラインナップされています。さらに、USB-CやUSB-Aを備えた車載チャージャーやケーブルも用意され、車内での利便性を高める製品群となっています。"
-    },
-    {
-      "id": "fd6bba4212a512180004",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV reveals new crime thriller coming soon with major stars",
-      "url": "https://9to5mac.com/2026/08/26/apple-tv-reveals-new-crime-thriller-coming-soon-with-major-stars/",
-      "publishedAt": "2026-08-26T15:33:26.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/121212-anthony-mackie-jamie-dornan.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、アンソニー・マッキーら出演の新作犯罪スリラーを発表",
-      "summaryJa": "Apple TVは、アンソニー・マッキーとジェイミー・ドーナンが出演する新作の強奪スリラーシリーズ「12 12 12」を今秋に配信すると発表しました。国際的な銀行強盗をテーマにした作品で、11月13日に最初の2話が公開された後、毎週エピソードが追加配信される予定です。計画に費やす12ヶ月、実行の12時間、そして追跡を逃れる12日間の3つの時間軸を描く緊迫したストーリーとなっています。"
-    },
-    {
-      "id": "d14bed6e242277f52609",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: AirPods, AirTag 2, M6 Mac mini trades up to $500 off, iPhone 17 Pro $220 off, Anker Smart Display power bank, more",
-      "url": "https://9to5mac.com/2026/08/26/deals-airpods-airtag-2-m6-mac-mini-iphone-17-pro/",
-      "publishedAt": "2026-08-26T15:29:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-iPhone-17-Pro-M6-Mac-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirTag 2や新型Mac miniがセールに",
-      "summaryJa": "Amazonなどの各小売店で、AirTag 2や新型Mac mini、AirPodsシリーズなどのApple製品が割引価格で販売されています。AirTag 2は最安値圏での販売となっており、新登場となったM6チップ搭載のMac miniなども在庫が復活しています。各種アクセサリーを含めて、お得に購入できる注目のセール情報が多数登場しています。"
-    },
-    {
-      "id": "7a71ef44a1d275b24eb4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Wallet driver’s license support just launched in a new state",
-      "url": "https://9to5mac.com/2026/08/26/apple-wallet-drivers-license-support-launches-in-virginia/",
-      "publishedAt": "2026-08-26T15:25:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-wallet-virginia-id.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleウォレット、バージニア州で運転免許証に対応",
-      "summaryJa": "Apple Walletの身分証明書機能がアメリカのバージニア州でも利用可能になりました。同州の住民はiPhoneやApple Watchのウォレットアプリに運転免許証を追加し、対応する国内の空港のTSA保安検査場などでデジタル身分証として提示できます。この機能に対応する州はこれで15に拡大し、利便性がさらに向上しています。"
-    },
-    {
-      "id": "aa7dd3519f3de9ddee56",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 17 Remains World's Best Selling Smartphone",
-      "url": "https://www.macrumors.com/2026/08/26/iphone-17-remains-best-selling-smartphone/",
-      "publishedAt": "2026-08-26T15:19:29.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/iphone-17-models.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 17が世界で最も売れたスマートフォンに",
-      "summaryJa": "調査会社の最新データによると、iPhone 17が2026年第2四半期も世界で最も売れたスマートフォンとなりました。上位3モデルにはiPhone 17シリーズが独占してランクインし、インドや日本、中東などの主要市場外での成長が貢献しています。また、手頃な価格設定となったiPhone 17eなども全体の売上を押し上げる要因となりました。"
     }
   ],
-  "updatedAt": "2026-09-04T19:38:18.234Z",
+  "updatedAt": "2026-09-04T21:50:52.210Z",
   "initialized": true,
   "summaryVersion": 4
 }
