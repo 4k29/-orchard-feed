@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "id": "092fe0890cf5672c532d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple plans to launch home security and monitoring service: report",
+      "url": "https://9to5mac.com/2026/09/04/apple-plans-to-launch-home-security-and-monitoring-service-report/",
+      "publishedAt": "2026-09-04T13:29:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/11/An-Apple-security-camera-could-recognize-people-even-if-their-face-isnt-visible.jpg?quality=82&#038;strip=all&#038;w=1200",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple plans to launch home security and monitoring service: report",
+      "summaryJa": "Apple is about to launch several new Home products, but per a new Bloomberg report , the company has a home security and monitoring service in the works for 2027 too. more… Apple is about to launch several new Home products, but per a new Bloomberg report, the company has a home security and monitoring service in the works for 2027 too. Apple home security and monitoring service planned for 2027, per Mark Gurman Apple is about to kick off a major overhaul of its Home products, with a new Apple TV 4K, HomePod mini, home hub (HomePad), and more expected to debut soon. And in a new report outlining products in Apple’s pipeline, Mark Gurman says there’s a service component to the company’s Home ambitions too. When discussing products planned for launch in 2027, Gurman writes: In-home security",
+      "translationStatus": "source"
+    },
+    {
+      "id": "622ecdcd87456fdb6c82",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple making just a few hundred iPhone Ultras per day, per report",
+      "url": "https://9to5mac.com/2026/09/04/apple-making-just-a-few-hundred-iphone-ultras-per-day-per-report/",
+      "publishedAt": "2026-09-04T13:11:04.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple making just a few hundred iPhone Ultras per day, per report",
+      "summaryJa": "We’re less than a week away from Apple announcing its first-ever foldable iPhone. A new supply chain report today says that Apple’s “extremely high quality control standards” have led to a much slower ramp for iPhone Ultra production so far. more… We’re less than a week away from Apple announcing its first-ever foldable iPhone. A new supply chain report today says that Apple’s “extremely high quality control standards” have led to a much slower ramp for iPhone Ultra production so far. iPhone Ultra production status According to Nikkei Asia, Apple is currently making “a few hundred” iPhone Ultra units per day. This could make it “challenging” for Apple to meet market demand for the device. The report says that Apple added an extra trial run of iPhone Ultra production in August to “ensure th",
+      "translationStatus": "source"
+    },
+    {
+      "id": "658aeea69830e4569d6d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Ugreen Launches HomeAgent AI Hubs and Liquid-Cooled Qi2 Charger",
+      "url": "https://www.macrumors.com/2026/09/04/ugreen-launches-homeagent-hubs-qi2-chargers/",
+      "publishedAt": "2026-09-04T11:57:58.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/ugreen-HA100-2.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Ugreen Launches HomeAgent AI Hubs and Liquid-Cooled Qi2 Charger",
+      "summaryJa": "Consumer technology maker Ugreen has announced HomeAgent, its first smart home platform, combining security camera storage, on-device AI, and Matter-based device control in a single hub. The hub is capable of processing and storing camera footage, files, and other media with no monthly storage fee. Ugreen says the onboard AI can also identify people, vehicles, pets, and packages in footage, as well as summarize events and search recorded video by keyword. The hub is then able to create highlight reels from camera footage as well as stored photo libraries, and it can display them on Ugreen's Gallery LCD Smart Frames. The hub works as a Matter controller and can talk to third-party devices over Wi-Fi, Zigbee, Thread, Bluetooth, NFC, ONVIF/RTSP, and PoE. Ugreen's compatibility list includes d",
+      "translationStatus": "source"
+    },
+    {
+      "id": "f2cdb5c305dbc82d3ff5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Ultra Production Hitting Just 'a Few Hundred' a Day, Says Nikkei",
+      "url": "https://www.macrumors.com/2026/09/04/iphone-ultra-production-extremely-limited/",
+      "publishedAt": "2026-09-04T10:09:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone Ultra Production Hitting Just 'a Few Hundred' a Day, Says Nikkei",
+      "summaryJa": "Apple last month only managed to produce \"a few hundred units a day\" of its upcoming foldable iPhone because of the company's extremely high quality control standards, according to Nikkei Asia ($), citing supply chain sources. From today's report: \"Production is ramping up slowly, with output currently at only a few hundred units a day in late August. That initial volume could be challenging to meet market demand,\" one supply chain manager with knowledge of the matter told Nikkei Asia. Multiple reports have suggested the iPhone Ultra's production has faced hurdles because of how difficult the device is to build, with the hinge structure and display durability testing having been the principal bottlenecks . Those issues were thought to have been resolved during trial production at Foxconn ,",
+      "translationStatus": "source"
+    },
+    {
       "id": "2223a7e80bfaa785c3be",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4445,69 +4509,9 @@
       ],
       "titleJa": "Appleの新型「M6」チップ、M5と性能を徹底比較",
       "summaryJa": "Appleが新たに発表したM6チップは、2nmプロセスで製造され、新たに「スーパーコア」を加えた3種類のCPUコア構成を採用しています。M5と比べてマルチスレッドCPU性能が最大1.2倍、AI向けのGPU性能が約30%向上し、Neural Engineの性能も倍増しています。シングルスレッドで世界最速の性能を謳うほか、ゲームやスプレッドシートなどの処理速度の大幅な向上を実現しています。"
-    },
-    {
-      "id": "968c095644a0ca787747",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "There’s a $300 gotcha in an M5 Max Mac Studio upgrade",
-      "url": "https://9to5mac.com/2026/08/26/theres-a-300-gotcha-in-an-m5-max-mac-studio-upgrade/",
-      "publishedAt": "2026-08-26T10:56:23.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Theres-a-300-gotcha-in-an-M5-Max-Mac-Studio-upgrade.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "M5 Max搭載Mac StudioのGPUアップグレードに隠れた追加費用",
-      "summaryJa": "新型のM5 Maxを搭載したMac Studioは据え置きの価格からスタートしますが、GPUのアップグレードを行う際には注意が必要です。GPUコア数を増やすオプションを選択すると、自動的にメモリ容量も同時にアップグレードされる仕組みになっています。そのため、ウェブサイト上の表示よりも実際の追加費用が倍額になる仕様となっており、専門家やユーザーの間で話題になっています。"
-    },
-    {
-      "id": "12cf31c6e47790d16d6e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple renews push for expedited discovery in OpenAI trade secret misappropriation lawsuit",
-      "url": "https://9to5mac.com/2026/08/25/apple-renews-push-for-expedited-discovery-in-openai-trade-secret-misappropriation-lawsuit/",
-      "publishedAt": "2026-08-26T02:58:54.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、OpenAI訴訟で迅速な証拠開示を改めて要求",
-      "summaryJa": "Appleは、元従業員やOpenAIらを相手取った営業秘密の不正流用訴訟において、迅速な証拠開示を求める申し立てに対する反論を提出しました。Appleは、OpenAIによる情報の不正利用が継続することで回復不可能な損害が拡大していると主張しており、早期の文書提出や証言録取などを求めています。"
-    },
-    {
-      "id": "1f9df798cf8f50ef7a18",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "BenQ's New iScreenBar is a Monitor Light Bar Made for the iMac",
-      "url": "https://www.macrumors.com/2026/08/25/benq-light-bar-for-imac/",
-      "publishedAt": "2026-08-26T00:32:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iscreenbar-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "BenQ、iMac専用に設計されたモニターライトバーを発売",
-      "summaryJa": "BenQは、iMacのデザインに調和し、カメラやマイクを遮らないiMac専用モニターライトバー「iScreenBar」を発表しました。アルミニウム製の本体はマグネットで背面に装着され、USB-Cポートから給電されます。非対称光学設計により画面への映り込みを抑え、macOSアプリによる明るさや色温度の調整も可能です。"
-    },
-    {
-      "id": "dc1bf87bea847cec4c23",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple shares behind-the-scenes video for its fun new Mac mini ad",
-      "url": "https://9to5mac.com/2026/08/25/apple-shares-behind-the-scenes-video-for-its-fun-new-mac-mini-ad/",
-      "publishedAt": "2026-08-25T23:26:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-ad.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、新しいMac mini広告の舞台裏動画を公開",
-      "summaryJa": "Appleは新しいMac miniのプロモーション動画の制作舞台裏を紹介するショート動画を公式Instagramで公開しました。動画ではアニメーターやアートディレクターらが登場し、すべて手作業で彫刻や小道具を作り上げた気の遠くなるような制作プロセスやストップモーションの技術を披露しています。実写と手作業にこだわった丁寧なメイキング映像を確認できます。"
     }
   ],
-  "updatedAt": "2026-09-04T09:35:21.890Z",
+  "updatedAt": "2026-09-04T13:46:45.337Z",
   "initialized": true,
   "summaryVersion": 4
 }
