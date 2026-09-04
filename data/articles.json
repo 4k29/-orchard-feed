@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "bb4d4ee9a88c0f53491f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Six Sleeps Until iPhone 18 Pro: Here's What We Know",
+      "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-heres-what-we-know/",
+      "publishedAt": "2026-09-04T02:25:46.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-What-We-Know-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの噂と最新情報まとめ",
+      "summaryJa": "今秋の発表が噂されるiPhone 18 ProおよびPro Maxモデルに関する最新の予測が伝えられています。デザインは前モデルを踏襲しつつ、バッテリーの大型化や、ディスプレイ下に一部のFace IDコンポーネントを配置することでDynamic Islandが小型化される見込みです。また、TSMCの2nmプロセスを採用したA20 Proチップや、新しいカメラセンサーの搭載などが報じられています。"
+    },
+    {
       "id": "36b0b1169c0d874a7d9d",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4490,24 +4505,9 @@
       ],
       "titleJa": "新型Mac miniとMac Studioが登場、9to5Mac Dailyが解説",
       "summaryJa": "ポッドキャスト番組9to5Mac Dailyが、最新のAppleニュースを音声で振り返ります。今回のエピソードでは、M6およびM5 Proチップを搭載した新しいMac miniや、M5 MaxおよびM5 Ultraを搭載した新しいMac Studioの登場をはじめとする、次世代Appleシリコンに関する注目トピックが紹介されています。"
-    },
-    {
-      "id": "b492cb02e545a0327504",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here are all the Apple devices with full Wi-Fi 7 support",
-      "url": "https://9to5mac.com/2026/08/25/here-are-all-the-apple-devices-with-full-wi-fi-7-support/",
-      "publishedAt": "2026-08-25T21:45:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/01/Generic-Wi-Fi-icon.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、Wi-Fi 7完全対応のデバイスリストを公開",
-      "summaryJa": "Appleは最新のサポートドキュメントで、Wi-Fi 7のすべての機能に完全対応しているデバイスの公式リストを公開しました。M5世代以降のMacBook ProやiPhone 16 Proシリーズなどが対象に含まれています。なお、6GHz帯の利用は各地域の法規制に依存するため、対応していない地域では2.4GHz帯や5GHz帯のみでの接続となります。"
     }
   ],
-  "updatedAt": "2026-09-04T00:28:27.380Z",
+  "updatedAt": "2026-09-04T05:02:18.513Z",
   "initialized": true,
   "summaryVersion": 4
 }
