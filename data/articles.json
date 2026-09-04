@@ -1,6 +1,111 @@
 {
   "articles": [
     {
+      "id": "18d6e01df806a73f9087",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New profile of John Ternus offers insight into life and reputation of Apple CEO",
+      "url": "https://9to5mac.com/2026/09/04/new-profile-of-john-ternus-offers-insight-into-life-and-reputation-of-apple-ceo/",
+      "publishedAt": "2026-09-04T19:17:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-01.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの新CEOジョン・テラスの人柄に迫る記事が公開",
+      "summaryJa": "ティム・クックからバトンを受け継ぎAppleのCEOに就任したジョン・テラスについて、フィナンシャル・タイムズ紙が社内での評判や経歴を伝える詳細なプロフィール記事を公開しました。社内では非常に有能かつ控えめな人物として知られており、長年の取引先であるコーニングのCEOからも高い称賛を受けています。車好きの一面や卓越した集中力など、彼の知られざる人となりや周囲からの評価が明らかにされています。"
+    },
+    {
+      "id": "e0d97c9d1739bb9a1435",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI releasing major upgrade to ChatGPT and Codex with GPT-6 Astra, details here",
+      "url": "https://9to5mac.com/2026/09/04/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
+      "publishedAt": "2026-09-04T18:52:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、高度な新モデル「GPT-6 Astra」を発表",
+      "summaryJa": "OpenAIは、コンピュータの操作やソフトウェア工学、科学分野などで優れた性能を発揮する世界最高水準のAIモデル「GPT-6 Astra」を発表しました。この新モデルはMacなどのデスクトップ操作をバックグラウンドで実行し、複雑なマルチステップのワークフローや文書作成を高速かつ正確にこなす能力を備えています。まずは高価格帯のProプラン利用者向けに順次ロールアウトされる予定となっています。"
+    },
+    {
+      "id": "167ef7f9962755756db6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "HomeKit Weekly: ULTRALOQ’s Bolt Fingerprint has everything you’d want except Home Key",
+      "url": "https://9to5mac.com/2026/09/04/ultraloq-bolt-fingerprint/",
+      "publishedAt": "2026-09-04T18:39:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ULTRALOQ-Bolt-Fingerprint-WiFi-Smart-Lock-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Homeに対応した「ULTRALOQ Bolt Fingerprint」スマートロック",
+      "summaryJa": "Apple Homeに完全統合され、内蔵Wi-Fiや多彩な解錠方法を備えたスマートロック「ULTRALOQ Bolt Fingerprint」が紹介されています。指紋認証やPINコードなど豊富な解錠オプションを持ち、HomeアプリやSiriを通じた操作が可能となっています。唯一の惜しい点としてiPhoneやApple Watchをかざして解錠するHome Keyには非対応ですが、優れたスマートホーム連携を実現しています。"
+    },
+    {
+      "id": "958cec5b380da9d03696",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "SpaceXAI expands Grok Bot to iPad as access expands to cheaper plans",
+      "url": "https://9to5mac.com/2026/09/04/spacexai-expands-grok-bot-to-ipad-as-access-expands-to-cheaper-plans/",
+      "publishedAt": "2026-09-04T18:30:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "SpaceXAIの「Grok Bot」がiPadに対応し価格も大幅引き下げ",
+      "summaryJa": "iMessage風のAIシステムである「Grok Bot」がiPadおよびAndroid向けに拡張され、利用料金も大幅に引き下げられました。初期リリース時は高額なサブスクリプションが必要でしたが、Cursorの買収やエンタープライズ対応に伴い、手頃な価格で利用できるようになっています。Appleユーザーにとって、iPadでもAIエージェントを活用した作業がより身近になりました。"
+    },
+    {
+      "id": "8f330c1167fbc039b0c4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "MacRumors Giveaway: Win an iPad Air and Revamped Rock Paper Pencil Kit From Astropad",
+      "url": "https://www.macrumors.com/2026/09/04/macrumors-giveaway-astropad-september/",
+      "publishedAt": "2026-09-04T17:41:16.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/astropad-kit-main.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPad Airと紙のような書き心地を実現するアクセサリのプレゼント企画",
+      "summaryJa": "海外メディアMacRumorsが、Astropadとの共同企画としてM4 iPad AirやApple Pencil Pro、専用の画面保護フィルムとペン先キットが当たるプレゼントキャンペーンを実施しています。この「Rock Paper Pencil」キットは、ガラスディスプレイの滑るような感触を改善し、まるで紙に書いているような自然な描き心地を実現する人気のアクセサリです。最新の第4世代では、スケッチ向けのグラファイト風のペン先や、滑らかなボールペン風のペン先が追加されており、用途に合わせて使い分けることが可能です。不要な時は簡単に取り外して収納できるナノ吸着技術を採用しており、iPadでの手書き作業を快適にするアイテムとして注目されています。"
+    },
+    {
+      "id": "a3ddd9cf3bd2993d06f1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Silo season 4 just got its release date on Apple TV and first trailer",
+      "url": "https://9to5mac.com/2026/09/04/silo-season-4-just-got-its-release-date-on-apple-tv-and-first-trailer/",
+      "publishedAt": "2026-09-04T17:35:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/silo-s3-juliette-rebecca-ferguson.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVのSFドラマ「サイロ」シーズン4が2027年7月9日に配信決定",
+      "summaryJa": "Apple TVの人気SFドラマシリーズ「サイロ」のシーズン3最終回が配信され、早くもシーズン4の配信日が2027年7月9日に決定したことが発表されました。同作はヒュー・ハウイーのベストセラー小説三部作を原作としており、シーズン4が最終シーズンとして物語の完結を描く予定です。SF作品では新シーズンの公開までに数年を要することが多い中、1年未満という比較的早いスパンでの retorno はファンにとって大きな朗報となります。あわせてシーズン3のネタバレを含むシーズン4の最初の予告編も公開されており、物語がどのように結末を迎えるのかに関心が集まっています。"
+    },
+    {
+      "id": "324b921f3f792d676fbe",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Aqara Debuts Five Matter Smart Lights With Apple Home Support",
+      "url": "https://www.macrumors.com/2026/09/04/aqara-matter-smart-lights-2/",
+      "publishedAt": "2026-09-04T17:12:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/aqara-floor-lamp.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Aqara、Apple Homeに対応したMatter対応のスマート照明5製品を発表",
+      "summaryJa": "Aqaraが、Apple Home、Thread、Zigbeeに対応したMatter対応のスマート照明5製品を発表しました。フロアランプやダウンライト、トリミング可能なLEDテープライト、屋外用のストリングライトや常設ライトなど、多彩なラインナップが揃っています。製品によって異なるカラーゾーンの制御や、2000Kから9000Kまでの白色光調整機能を備えており、時間帯や環境、他のスマートホーム機器のトリガーに応じて柔軟に調光可能です。IFAで展示されたこれらの新製品について、現時点では価格や発売時期の詳細な情報は明らかにされていません。"
+    },
+    {
       "id": "ff38e0fdb599a9ee1fd9",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -12,9 +117,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "The MacRumors Show: iPhone 18 Pro Event Expectations",
-      "summaryJa": "Ahead of Apple's \"Surprise and shine\" event on September 9, we talk through everything to expect on this week's episode of The MacRumors Show . Subscribe to The MacRumors Show YouTube channel for more videos The event begins at 10:00 a.m. Pacific Time at the Apple Park campus in Cupertino, California, and will be streamed on Apple's website, on YouTube, and through the Apple TV app. It is the first keynote since John Ternus succeeded Tim Cook as chief executive on September 1. Rumors suggest at least six new products will arrive at the event. The Apple Watch Series 12 is expected to add a new chip, improved fitness tracking , better battery life , continuous heart-rate collection, and redesigned Health and Fitness experiences. A ceramic case option may return in white or dark gray, but no",
-      "translationStatus": "source"
+      "titleJa": "9月9日のイベントに向けたiPhone 18 Proの予想",
+      "summaryJa": "9月9日に開催されるAppleのイベントでは、新チップやフィットネス機能の向上が見込まれるApple Watch Series 12をはじめ、複数の新製品が発表されると報じられています。また、Apple Watch Ultra 4やアクティブノイズキャンセリング機能の有無を選べるAirPods 5などの登場も予想されています。"
     },
     {
       "id": "36e59ef282dd243829d3",
@@ -28,9 +132,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Will the iPhone 18 Pro’s biggest upgrade really deliver?",
-      "summaryJa": "In general, we’re not expecting the iPhone 18 Pro to be a significant upgrade over its predecessor. Indeed, if you currently have an older iPhone there are arguments for buying the iPhone 17 Pro ahead of next week’s launch. Of the few upgrades we are expecting, the biggest one on paper is going to be a variable aperture lens for the primary camera. But will this make a significant difference in reality … ? more… In general, we’re not expecting the iPhone 18 Pro to be a significant upgrade over its predecessor. Indeed, if you currently have an older iPhone there are arguments for buying the iPhone 17 Pro ahead of next week’s launch. Of the few upgrades we are expecting, the biggest one on paper is going to be a variable aperture lens for the primary camera. But will this make a significant",
-      "translationStatus": "source"
+      "titleJa": "iPhone 18 Proの最大の特徴となる可変絞りレンズ",
+      "summaryJa": "次期iPhone 18 Proでは大きな進化は期待されていないものの、メインカメラに可変絞りレンズが搭載される見込みです。これにより、従来の一眼レフカメラのように被写界深度のコントロールが可能になり、ポートレート撮影や風景撮影での表現力が向上すると注目されています。"
     },
     {
       "id": "f6b4949645deb19cac9b",
@@ -44,9 +147,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Just Fixed TestFlight",
-      "summaryJa": "As noted by MacStories editor-in-chief Federico Viticci, TestFlight now shows recent betas by default again for all users. In July, Apple updated TestFlight with a search field for quickly finding apps that you are beta testing, but some users started to see their apps presented in alphabetical order. It is not entirely clear if this was a bug or an intentional change, but many users did not like it, and TestFlight version 4.3.1 reverses course. The update with the fix is available in the App Store now. The search field remains. Tag: TestFlight This article, \" Apple Just Fixed TestFlight \" first appeared on MacRumors.com Discuss this article in our forums",
-      "translationStatus": "source"
+      "titleJa": "Apple、TestFlightの表示不具合を修正へ",
+      "summaryJa": "Appleは、TestFlightアプリでベータ版アプリの表示順がアルファベット順になっていた仕様を修正し、最新のベータ版をデフォルトで再び表示するように変更しました。今年7月のアップデートで検索機能が追加された際に表示方法が変わっていましたが、最新のバージョン4.3.1で改善されています。"
     },
     {
       "id": "efcaf3b9d33a2b493d86",
@@ -60,9 +162,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Leaked iPhone roadmap reveals plans for larger foldable, ‘biggest overhaul,’ more",
-      "summaryJa": "Apple is launching new iPhones next week , and a Bloomberg report today details what to expect from those models as well as the roadmap for 2027 and 2028 debuts. more… Apple is launching new iPhones next week, and a Bloomberg report today details what to expect from those models as well as the roadmap for 2027 and 2028 debuts. Apple reportedly has 10+ new iPhone models coming through 2028, details here Ahead of Apple’s big September event next week, Mark Gurman today published an overview of new products in the works for this fall and beyond. He details hardware that’s in the pipeline for all the way through 2028. Here’s what Gurman says about new iPhones expected to launch: 2026: Coming next week at September 9 event iPhone 18 Pro and Pro Max: Mechanical aperture camera feature, dark red",
-      "translationStatus": "source"
+      "titleJa": "将来のiPhoneロードマップと折りたたみモデルの噂",
+      "summaryJa": "ブルームバーグの報道によると、Appleは今後数年間の新製品ロードマップを進めており、2026年のイベントではiPhone 18 Proシリーズや折りたたみ式モデルが登場すると伝えられています。さらに、2027年にはiPhoneの20周年を記念した大幅なデザイン刷新や、次世代のiPhone Airなどが計画されていると報じられています。"
     },
     {
       "id": "48b15cbdef0fc618100c",
@@ -76,9 +177,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Labor Day Deals Offer Up to $330 Off Studio Displays and Mac Mini Pre-Order Savings",
-      "summaryJa": "It's Labor Day weekend, and we're tracking big discounts across a wide variety of Apple and Apple-related products, including some of the best prices of the year on Studio Displays. You can also still get pre-order discounts on the new Mac minis on Amazon. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Mac Mini Pre-Orders What's the deal? Take up to $29 off Mac mini pre-orders Where can I get it? Amazon Where can I find the original deal? Right here $19 OFF M6 Mac mini 16GB/256GB for $879.99 $29 OFF M6 Mac mini 16GB/512GB for $1,069.99 $29 OFF M5 Pro Mac mini 24GB/512GB for $1,669.99 Amazon this week introduced the first cash discounts on Apple's brand new M",
-      "translationStatus": "source"
+      "titleJa": "労働節セールでStudio DisplayやMac miniが割引に",
+      "summaryJa": "米国の労働節の週末に合わせ、AmazonなどでApple製品のセールが実施されています。Studio Displayが大幅値引きとなっているほか、新型Mac miniの予約割引なども登場しており、今年最安値水準の価格で購入できるチャンスとなっています。"
     },
     {
       "id": "b13ace474df2ab9afa2e",
@@ -92,9 +192,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Deals: AirPods, Apple 2026 Studio Displays up to $500 off, M5 MacBook Air $150 off, new Dark Cherry chargers, more",
-      "summaryJa": "We are heading into the weekend with the massive Labor Day sale at Amazon and the ongoing $50 price drop on AirPods Pro 3, but at $329 off, this standard Studio Display model at the all-time low, and some Apple Refurb options at up to $500 off . Just be sure to also scope out this Midnight 16GB/1TB 13-inch M5 MacBook Air is $150 off via Amazon and this new Dark Cherry smart display charging collection to match your new iPhone 18 Pro – there are some notable launch deals live . Check it all out below. more… We are heading into the weekend with the massive Labor Day sale at Amazon and the ongoing $50 price drop on AirPods Pro 3, but Best Buy has now updated its sale event with new deals and we have some fresh offers to scope out elsewhere. We still have the 2026 Apple Studio Display XDR hitt",
-      "translationStatus": "source"
+      "titleJa": "AmazonとBest Buyが労働節セールでApple製品を多数値下げ",
+      "summaryJa": "労働節の週末セールに向け、AmazonやBest Buyなどの大手小売がApple製品の大型割引を展開しています。AirPods Pro 3やStudio Display、M5搭載MacBook Airなどが特別価格となっており、各種アクセサリもあわせてお買い得になっています。"
     },
     {
       "id": "84365bbb8cbe34997bf1",
@@ -108,9 +207,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Testing New HomePod With Siri AI",
-      "summaryJa": "Apple has been testing a new full-sized HomePod with Siri AI support, according to Bloomberg 's Mark Gurman . Unfortunately, in his report outlining upcoming Apple products today, Gurman said the new full-sized HomePod \"doesn't appear to be imminent,\" so do not expect the speaker to be updated soon. The current HomePod was unveiled in January 2023 . Related Roundup: HomePod Tags: Mark Gurman , Siri Buyer's Guide: HomePod (Caution) This article, \" Apple Testing New HomePod With Siri AI \" first appeared on MacRumors.com Discuss this article in our forums",
-      "translationStatus": "source"
+      "titleJa": "Apple、Siri AI対応の新型HomePodをテスト中か",
+      "summaryJa": "AppleがSiriにAI機能を統合した新しい大型HomePodをテストしていると、Bloombergのマーク・ガーマン記者が報じました。ただし、現時点で新モデルの発売は差し迫ったものではないとされており、すぐの登場は期待薄と見られています。"
     },
     {
       "id": "1c4883ae3779a4d10818",
@@ -124,9 +222,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "iPhone 20 Rumored to Have Biggest Revamp Since iPhone X",
-      "summaryJa": "Apple plans to release a special 20th-anniversary iPhone next year with the biggest design changes since the iPhone X, according to Bloomberg 's Mark Gurman . Unveiled by Steve Jobs in 2007, the iPhone turns 20 next year. To mark the occasion, the report said Apple plans to release a 20th-anniversary iPhone with \"curved glass around all corners and edges\" and thinner bezels around the screen. \"It will be the biggest overhaul to what is now the iPhone Pro line since the iPhone X,\" the report said, but no further details were provided. Released in 2017, the iPhone X was the first iPhone with Face ID. The removal of the Touch ID button allowed for the iPhone X's screen to extend more towards the edges of the device compared to previous models. It seems like the 20th-anniversary iPhone would g",
-      "translationStatus": "source"
+      "titleJa": "次世代iPhoneはiPhone X以来の大幅な刷新を計画か",
+      "summaryJa": "Appleが誕生20周年を迎える時期に合わせて、iPhone X以来最大規模となるデザイン刷新を計画していると報じられました。すべての角や縁が曲面ガラスで覆われ、ベゼルがさらに薄くなった記念モデルが登場する可能性があると伝えられています。"
     },
     {
       "id": "ef546865b72610552cb3",
@@ -140,9 +237,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple TV’s big fall lineup: Here’s every new show and movie coming soon",
-      "summaryJa": "Apple TV is now airing Ted Lasso season 4 , and more high-profile shows and movies are coming to the streamer soon. Here’s everything in Apple TV’s fall lineup so far, which could keep growing as more premieres are announced. more… Apple TV is now airing Ted Lasso season 4, and more high-profile shows and movies are coming to the streamer soon. Here’s everything in Apple TV’s fall lineup so far, which could keep growing as more premieres are announced. September Mayday When: September 4 What: Movie Genre: Action-Comedy Ryan Reynolds and Kenneth Branagh team up in “Mayday,” a genre-bending, action-packed buddy comedy that flips the spy thriller on its head. When hotshot U.S. Navy pilot Lieutenant Troy “Assassin” Kelly (Reynolds) is sent on a top-secret mission into Russian territory at the",
-      "translationStatus": "source"
+      "titleJa": "Apple TV、今秋配信の注目作品ラインナップを公開",
+      "summaryJa": "Apple TVで配信される今秋の注目映画やテレビ番組のラインナップが明らかになりました。ライアン・レイノルズとケネス・ブラナーが共演するアクションコメディ映画『Mayday』や、行方不明の娘を捜す警察官を描くスリラー番組『Last Seen』などが順次登場する予定です。今後もさらなるプレミア公開の発表が期待されており、配信作品の充実に注目が集まります。"
     },
     {
       "id": "7579dcbf5615dc84a1ee",
@@ -156,9 +252,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "9to5Mac Daily: September 4, 2026 – iPhone Ultra and iPhone 18 Pro rumors",
-      "summaryJa": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff : Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. more… Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsor",
-      "translationStatus": "source"
+      "titleJa": "iPhone UltraやiPhone 18 Proの最新動向を解説",
+      "summaryJa": "ポッドキャスト番組9to5Mac Dailyの最新エピソードでは、Apple関連の注目ニュースが総括されています。Mac App StoreアプリでのIntelサポート終了に関する通知や、新型iPhone Ultraの仕様およびマルチタスク機能の噂が取り上げられています。さらに、iPhone 18 Pro向けメモリ価格の上昇傾向や、オープンAIとアップルを巡る動向についても触れられています。"
     },
     {
       "id": "ebcce5cc19a81b7e3a2d",
@@ -172,9 +267,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "New iPhone 18 Pro report details flagship camera feature and more",
-      "summaryJa": "iPhone 18 Pro and Pro Max will be unveiled next week , and a new report offers fresh details on the flagship “mechanical aperture” camera feature that’s coming, plus mentions an improved vapor chamber and more. more… iPhone 18 Pro and Pro Max will be unveiled next week, and a new report offers fresh details on the flagship “mechanical aperture” camera feature that’s coming, plus mentions an improved vapor chamber and more. Here’s what’s coming with iPhone 18 Pro and Pro Max, per Mark Gurman Today Mark Gurman at Bloomberg published his latest expectations for the new iPhones being introduced on September 9. While most of the report covers features reported previously, a few noteworthy details stand out. For example, Apple has a new “mechanical aperture” camera feature coming to iPhone 18 Pr",
-      "translationStatus": "source"
+      "titleJa": "iPhone 18 Proの新機能、メカニカル絞りや冷却性能について報道",
+      "summaryJa": "Bloombergのマーク・ガーマン記者が、来週発表される予定のiPhone 18 ProおよびPro Maxに関する最新の予測を報じました。新たに「メカニカル絞り」と呼ばれるカメラ機能が搭載され、光の微調整や深度コントロールが可能になると伝えられています。また、バッテリー駆動時間の向上に加え、発熱を抑えるための改良されたベイパーチャンバーや独自開発のC2モデムの搭載も言及されています。"
     },
     {
       "id": "78b7b0e2be1e167dc1a1",
@@ -188,9 +282,38 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Planning to Update MacBook Neo in Three Ways",
-      "summaryJa": "Bloomberg 's Mark Gurman today reported that Apple plans to release a second-generation MacBook Neo in 2027 with three updates: an A19 Pro chip, 12GB of RAM, and new color options. Released in March 2026, the current MacBook Neo has an A18 Pro chip with 8GB of RAM, and it is available in Silver, Blush, Citrus, and Indigo. In the U.S., the laptop initially started at $599, but Apple raised the price to $699 in June. Apple continues to offer a $100 discount to college students and educational staff. Related Roundup: MacBook Neo Tag: Mark Gurman Buyer's Guide: MacBook Neo (Buy Now) Related Forum: MacBook Neo This article, \" Apple Planning to Update MacBook Neo in Three Ways \" first appeared on MacRumors.com Discuss this article in our forums",
-      "translationStatus": "source"
+      "titleJa": "Apple、第2世代MacBook Neoを2027年に計画か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者が、Appleが2027年に第2世代となるMacBook Neoのリリースを計画していると報じました。次期モデルではA19 Proチップの搭載、12GBへのメモリ増設、そして新しいカラーバリエーションの追加という3つのアップデートが行われる見通しです。現行モデルはA18 Proチップと8GBメモリを搭載して2026年3月に発売されており、今後の展開に関心が寄せられています。"
+    },
+    {
+      "id": "1b7124a75f834e7f8b39",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Reportedly Plans to Release These 14 Products by Early Next Year",
+      "url": "https://www.macrumors.com/2026/09/04/apple-14-more-products-by-early-next-year/",
+      "publishedAt": "2026-09-04T13:55:33.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Apple-Event-Logo.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleが今後早期に投入すると噂される14製品のリストが報じられる",
+      "summaryJa": "Bloombergのマーク・ガーマン記者が、Appleが今後数週間から2027年初頭にかけて発表すると予想される製品の長いリストを共有しました。新型のiPhone 18 Proシリーズや、7.7インチの内側ディスプレイを備えると噂される折りたたみ式の「iPhone Ultra」などが挙げられています。また、Apple Watch Series 12やApple Watch Ultra 4といった次世代スマートウォッチについても、より高速なチップや健康トラッキング機能の向上が期待されています。これらの新製品は今後のイベントやリリースを通じて順次明らかにされる見通しです。"
+    },
+    {
+      "id": "3b96635c6cb40b64d4ec",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple working on new surround sound, Party Mode features for HomePod",
+      "url": "https://9to5mac.com/2026/09/04/apple-working-on-new-surround-sound-party-mode-features-for-homepod/",
+      "publishedAt": "2026-09-04T13:47:17.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/homepod-ios-27-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、HomePod向けの新機能やサラウンド技術を開発中か",
+      "summaryJa": "audioOSのコードから、AppleがHomePod向けに新しいサラウンドサウンドシステムや「パーティモード」などの新機能を開発していることが判明したと報じられています。コードには、4台の第2世代HomePodを組み合わせてそれぞれの役割を最適化する立体音響システムなどが含まれており、今後のアップデートや新ハードウェアへの展開が注目されています。"
     },
     {
       "id": "092fe0890cf5672c532d",
@@ -204,9 +327,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple plans to launch home security and monitoring service: report",
-      "summaryJa": "Apple is about to launch several new Home products, but per a new Bloomberg report , the company has a home security and monitoring service in the works for 2027 too. more… Apple is about to launch several new Home products, but per a new Bloomberg report, the company has a home security and monitoring service in the works for 2027 too. Apple home security and monitoring service planned for 2027, per Mark Gurman Apple is about to kick off a major overhaul of its Home products, with a new Apple TV 4K, HomePod mini, home hub (HomePad), and more expected to debut soon. And in a new report outlining products in Apple’s pipeline, Mark Gurman says there’s a service component to the company’s Home ambitions too. When discussing products planned for launch in 2027, Gurman writes: In-home security",
-      "translationStatus": "source"
+      "titleJa": "Apple、2027年にホームセキュリティおよび監視サービスを計画か",
+      "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、Appleは2027年に向けたホームセキュリティおよび監視サービスの投入を計画していると報じられています。プライバシーに配慮し、実際の映像ではなくAIを用いて周辺環境を監視する仕組みや、新しいセキュリティカメラ・自動化デバイスの連動が検討されている模様です。将来的にApple Oneへの統合なども期待されています。"
     },
     {
       "id": "622ecdcd87456fdb6c82",
@@ -220,9 +342,23 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple making just a few hundred iPhone Ultras per day, per report",
-      "summaryJa": "We’re less than a week away from Apple announcing its first-ever foldable iPhone. A new supply chain report today says that Apple’s “extremely high quality control standards” have led to a much slower ramp for iPhone Ultra production so far. more… We’re less than a week away from Apple announcing its first-ever foldable iPhone. A new supply chain report today says that Apple’s “extremely high quality control standards” have led to a much slower ramp for iPhone Ultra production so far. iPhone Ultra production status According to Nikkei Asia, Apple is currently making “a few hundred” iPhone Ultra units per day. This could make it “challenging” for Apple to meet market demand for the device. The report says that Apple added an extra trial run of iPhone Ultra production in August to “ensure th",
-      "translationStatus": "source"
+      "titleJa": "折りたたみiPhone Ultra、品質基準により生産台数が制限か",
+      "summaryJa": "Appleが初の折りたたみ式iPhoneである「iPhone Ultra」の生産において、厳しい品質管理基準により現在は1日あたり数百台規模の製造にとどまっていると報じられています。表面の平らさやヒンジの性能向上に向けた試行錯誤が続いており、市場の需要を満たす上で課題となる可能性があります。"
+    },
+    {
+      "id": "9a8b5d6603831c1b7a2a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple fixes frustrating TestFlight app regression that search feature update added",
+      "url": "https://9to5mac.com/2026/09/04/apple-fixes-frustrating-testflight-app-regression-that-search-feature-update-added/",
+      "publishedAt": "2026-09-04T13:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/testflight-app.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、TestFlightアプリの検索機能追加に伴う不具合を修正",
+      "summaryJa": "AppleがTestFlightアプリに検索機能を追加した最新アップデートにおいて、期限切れのベータ版アプリが有効なベータ版のリストに混ざってアルファベット順に表示されるようになる不具合が発生しました。待望の検索機能の実装一方で、予期せぬ表示崩れに戸惑うユーザーの声が上がっており、今後の修正による改善が期待されます。"
     },
     {
       "id": "658aeea69830e4569d6d",
@@ -236,9 +372,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Ugreen Launches HomeAgent AI Hubs and Liquid-Cooled Qi2 Charger",
-      "summaryJa": "Consumer technology maker Ugreen has announced HomeAgent, its first smart home platform, combining security camera storage, on-device AI, and Matter-based device control in a single hub. The hub is capable of processing and storing camera footage, files, and other media with no monthly storage fee. Ugreen says the onboard AI can also identify people, vehicles, pets, and packages in footage, as well as summarize events and search recorded video by keyword. The hub is then able to create highlight reels from camera footage as well as stored photo libraries, and it can display them on Ugreen's Gallery LCD Smart Frames. The hub works as a Matter controller and can talk to third-party devices over Wi-Fi, Zigbee, Thread, Bluetooth, NFC, ONVIF/RTSP, and PoE. Ugreen's compatibility list includes d",
-      "translationStatus": "source"
+      "titleJa": "Ugreen、セキュリティストレージやAI機能を備えたホームハブを発表",
+      "summaryJa": "周辺機器メーカーのUgreenが、セキュリティカメラのストレージやデバイス制御を統合した初のスマートホームプラットフォーム「HomeAgent」を発表しました。月額料金なしでの映像保存やオンデバイスAIによる人物・ペット等の認識機能を備え、Matter規格に対応した多彩なサードパーティ製スマート家電の操作が可能です。"
     },
     {
       "id": "f2cdb5c305dbc82d3ff5",
@@ -252,9 +387,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "iPhone Ultra Production Hitting Just 'a Few Hundred' a Day, Says Nikkei",
-      "summaryJa": "Apple last month only managed to produce \"a few hundred units a day\" of its upcoming foldable iPhone because of the company's extremely high quality control standards, according to Nikkei Asia ($), citing supply chain sources. From today's report: \"Production is ramping up slowly, with output currently at only a few hundred units a day in late August. That initial volume could be challenging to meet market demand,\" one supply chain manager with knowledge of the matter told Nikkei Asia. Multiple reports have suggested the iPhone Ultra's production has faced hurdles because of how difficult the device is to build, with the hinge structure and display durability testing having been the principal bottlenecks . Those issues were thought to have been resolved during trial production at Foxconn ,",
-      "translationStatus": "source"
+      "titleJa": "折りたたみiPhoneの生産、品質基準の高さから1日数百台にとどまるとの報道",
+      "summaryJa": "Nikkei Asiaの報道によると、Appleが準備を進めている新型折りたたみ式iPhoneの生産台数が、厳格な品質管理基準の影響で8月下旬時点で1日あたりわずか数百台にとどまっていると伝えられています。ディスプレイの耐久性テストやヒンジ構造の歩留まり向上が主なボトルネックとなっており、発売時の供給体制に影響を与える可能性があります。"
     },
     {
       "id": "2223a7e80bfaa785c3be",
@@ -4370,160 +4504,9 @@
       ],
       "titleJa": "iPhone 17が世界で最も売れたスマートフォンに",
       "summaryJa": "調査会社の最新データによると、iPhone 17が2026年第2四半期も世界で最も売れたスマートフォンとなりました。上位3モデルにはiPhone 17シリーズが独占してランクインし、インドや日本、中東などの主要市場外での成長が貢献しています。また、手頃な価格設定となったiPhone 17eなども全体の売上を押し上げる要因となりました。"
-    },
-    {
-      "id": "4165ee6de1f4ee84086e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Volvo details CarPlay update that adds Spatial Audio feature for three models",
-      "url": "https://9to5mac.com/2026/08/26/volvo-details-carplay-update-that-adds-spatial-audio-feature-for-three-models/",
-      "publishedAt": "2026-08-26T15:07:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/volvo.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ボルボ、CarPlayでの空間オーディオ対応車種を発表",
-      "summaryJa": "ボルボはCarPlayにおけるApple Musicなどの空間オーディオ対応について、詳細を発表しました。最新のソフトウェアアップデートにより、Bowers & Wilkinsのプレミアムサウンドシステムを搭載したEX90などの車両でDolby Atmosによる立体的なサウンドを楽しめるようになります。臨場感あふれる音楽体験を通じて、車内でのエンターテインメント性がさらに高まります。"
-    },
-    {
-      "id": "cbaddb57cb4c44bceb49",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Explains Why Spotlight Indexing Can Take Days After an Update",
-      "url": "https://www.macrumors.com/2026/08/26/apple-explains-spotlight-indexing/",
-      "publishedAt": "2026-08-26T15:06:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-Search-or-Ask.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、アップデート後のSpotlightインデックス作成について解説",
-      "summaryJa": "Appleは、ソフトウェアアップデート後にSpotlightのインデックス作成に時間がかかる理由を説明するサポート文書を公開しました。保存されているデータの量によっては数時間から数日かかる場合があり、デバイスが使用されておらず、電源とインターネットに接続されているときに処理が早く進むとしています。また、インデックスはローカルに保存され、プライバシーが保護されることも確認されています。"
-    },
-    {
-      "id": "77c6f01b5e51a197755a",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Surprise and shine",
-      "url": "https://developer.apple.com/news/?id=s6spdug0",
-      "publishedAt": "2026-08-26T15:00:55.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/EA4CFEB6-BA9E-490A-9723-5962EA23BF53/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple、9月9日にスペシャルイベント開催を発表",
-      "summaryJa": "Appleは、9月9日水曜日の太平洋時間午前10時より、特別なApple Eventを開催することを発表しました。当日の様子は、公式サイトのApple.comやApple TV、YouTube Liveを通じて世界中にライブ配信されます。新しい発表に向けた事前の準備が進められています。"
-    },
-    {
-      "id": "12185c93c783e2f1692b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Wallet Driver's License Feature Just Launched in Virginia",
-      "url": "https://www.macrumors.com/2026/08/26/apple-wallet-id-feature-launches-in-15th-state/",
-      "publishedAt": "2026-08-26T14:57:58.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/apple-wallet-drivers-license-feature-iPhone-15-pro-purple-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleウォレット、バージニア州で運転免許証に対応",
-      "summaryJa": "米バージニア州の住民は、iPhoneやApple WatchのAppleウォレットアプリに運転免許証を追加できるようになりました。対象の空港のTSAチェックポイントや一部の企業などで身分証明として利用可能になります。米国では15番目の導入州となり、プライバシーに配慮した安全な本人確認手段として順次拡大しています。"
-    },
-    {
-      "id": "d7366657c2b289f9cacd",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Pre-Ordering a Mac Mini or Mac Studio? Here's How to Get Money Back at Best Buy",
-      "url": "https://www.macrumors.com/2026/08/26/best-buy-mac-mini-mac-studio/",
-      "publishedAt": "2026-08-26T14:54:44.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/mac-mini-2026-blue.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "ベスト・バイ、新型Mac miniなどの予約で特典還元を実施",
-      "summaryJa": "米国の家電量販店ベスト・バイは、発表されたばかりの新型Mac miniやMac Studioの予約購入者に向けて、特典還元キャンペーンを実施しています。会員プログラムの有料会員を対象に、購入金額の2%分がベスト・バイのリワードとして還元される仕組みです。発売日に向けたお得な購入方法として、多くの関心を集めています。"
-    },
-    {
-      "id": "b2d8cb9aff36e074bbd6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 reveals Apple TV 4K, HomePod may get powerful new features",
-      "url": "https://9to5mac.com/2026/08/26/ios-27-reveals-apple-tv-4k-homepod-may-get-powerful-new-features/",
-      "publishedAt": "2026-08-26T14:27:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVとHomePodにApple Intelligence対応の兆候か",
-      "summaryJa": "iOS 27のベータ版コードから、Apple TV 4KやHomePod向けにApple Intelligenceに関連する新機能が準備されていることが明らかになりました。WWDCでは言及されていませんでしたが、最新のベータ版ではホームアプリに専用のレポート項目が追加されています。新しいハードウェアの登場とともに、今秋にもAI機能が提供される可能性があると報じられています。"
-    },
-    {
-      "id": "2c16ecd36dcf27ff360b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "New Mac Mini and Mac Studio Add Genlock Support for Camera Syncing",
-      "url": "https://www.macrumors.com/2026/08/26/new-mac-mini-and-mac-studio-add-genlock/",
-      "publishedAt": "2026-08-26T14:25:41.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/mac-mini-blue.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型Mac miniとMac Studioがゲンロックをサポート",
-      "summaryJa": "アップルの新しいMac miniとMac Studioは、USB-C経由でのゲンロックに対応しました。これにより、追加の機材を使用することなく、ディスプレイとカメラのタイミング信号を正確に同期させることができます。マルチカメラ撮影時に映像のズレを防ぎ、プロの現場での利便性が大きく向上します。"
-    },
-    {
-      "id": "fedb33a4198cd1bb7e36",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Concept Video Imagines Apple's Foldable iPhone Ultra Reveal",
-      "url": "https://www.macrumors.com/2026/08/26/concept-video-imagines-foldable-iphone-reveal/",
-      "publishedAt": "2026-08-26T14:06:48.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみ式iPhoneの発表を想像したコンセプト動画",
-      "summaryJa": "秋の発表会を前に、噂される折りたたみ式iPhoneのリアルな姿を捉えたファン作成のコンセプト動画が公開されました。デザイナーのGunhoo Lee氏が手がけたもので、7.8インチの内部ディスプレイやメカニカルヒンジ、A20チップなどを搭載する仕様を精巧に表現しています。これまでの数々の噂やリーク情報に密接に基づいた内容となっており、実際の発表に向けた期待を高めています。"
-    },
-    {
-      "id": "cad11d3258a9720df77c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Hands-On: Sonnet Echo 21 Thunderbolt 5 SuperDock – a significant speed boost [Video]",
-      "url": "https://9to5mac.com/2026/08/26/sonnet-echo-21-thunderbolt-5-superdock-review/",
-      "publishedAt": "2026-08-26T14:06:38.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Sonnet-Echo-21-Thunderbolt-5-SuperDock.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Thunderbolt 5対応の拡張ドック「Echo 21」レビュー",
-      "summaryJa": "Sonnetの「Echo 21 Thunderbolt 5 SuperDock」は、1本のケーブルでMacに豊富なポートや機能を追加できる最新の拡張ドックです。MacBook ProやM5 Pro搭載の新型Mac miniに最適で、前モデルから大幅なスピード向上と機能強化が図られています。多彩な入出力ポートに加え、M.2 SSDスロットや最大3台までのディスプレイ出力をサポートし、プロフェッショナルな作業環境を将来に向けてアップデートできます。"
-    },
-    {
-      "id": "59f726969d9cda24299b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 Tweaks Apple Wallet's U.S. Passport Feature",
-      "url": "https://www.macrumors.com/2026/08/26/ios-27-tweaks-digital-id-feature/",
-      "publishedAt": "2026-08-26T13:46:25.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/06/ios-26-digital-id-passport-wallet.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOSベータ版でAppleウォレットの米国パスポート機能に不具合",
-      "summaryJa": "iOSのベータ版において、Appleウォレットアプリ内のデジタルIDパスポート機能に関連する情報やメニューが調整されました。この変更や関連するバグの影響により、一部のiPhoneユーザーの間でデジタルIDが無効化される事例が確認されています。Appleは影響を受けたユーザーに対し、再び利用するためにカードを一度削除してから再度追加するよう案内しています。"
     }
   ],
-  "updatedAt": "2026-09-04T17:12:10.261Z",
+  "updatedAt": "2026-09-04T19:38:18.234Z",
   "initialized": true,
   "summaryVersion": 4
 }
