@@ -1,6 +1,198 @@
 {
   "articles": [
     {
+      "id": "ff38e0fdb599a9ee1fd9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "The MacRumors Show: iPhone 18 Pro Event Expectations",
+      "url": "https://www.macrumors.com/2026/09/04/the-macrumors-show-iphone-18-pro-event-expectations/",
+      "publishedAt": "2026-09-04T16:13:18.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "The MacRumors Show: iPhone 18 Pro Event Expectations",
+      "summaryJa": "Ahead of Apple's \"Surprise and shine\" event on September 9, we talk through everything to expect on this week's episode of The MacRumors Show . Subscribe to The MacRumors Show YouTube channel for more videos The event begins at 10:00 a.m. Pacific Time at the Apple Park campus in Cupertino, California, and will be streamed on Apple's website, on YouTube, and through the Apple TV app. It is the first keynote since John Ternus succeeded Tim Cook as chief executive on September 1. Rumors suggest at least six new products will arrive at the event. The Apple Watch Series 12 is expected to add a new chip, improved fitness tracking , better battery life , continuous heart-rate collection, and redesigned Health and Fitness experiences. A ceramic case option may return in white or dark gray, but no",
+      "translationStatus": "source"
+    },
+    {
+      "id": "36e59ef282dd243829d3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Will the iPhone 18 Pro’s biggest upgrade really deliver?",
+      "url": "https://9to5mac.com/2026/09/04/will-the-iphone-18-pros-biggest-upgrade-really-deliver/",
+      "publishedAt": "2026-09-04T16:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Will-the-iPhone-18-Pros-biggest-upgrade-really-deliver.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Will the iPhone 18 Pro’s biggest upgrade really deliver?",
+      "summaryJa": "In general, we’re not expecting the iPhone 18 Pro to be a significant upgrade over its predecessor. Indeed, if you currently have an older iPhone there are arguments for buying the iPhone 17 Pro ahead of next week’s launch. Of the few upgrades we are expecting, the biggest one on paper is going to be a variable aperture lens for the primary camera. But will this make a significant difference in reality … ? more… In general, we’re not expecting the iPhone 18 Pro to be a significant upgrade over its predecessor. Indeed, if you currently have an older iPhone there are arguments for buying the iPhone 17 Pro ahead of next week’s launch. Of the few upgrades we are expecting, the biggest one on paper is going to be a variable aperture lens for the primary camera. But will this make a significant",
+      "translationStatus": "source"
+    },
+    {
+      "id": "f6b4949645deb19cac9b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Just Fixed TestFlight",
+      "url": "https://www.macrumors.com/2026/09/04/apple-just-fixed-testflight/",
+      "publishedAt": "2026-09-04T15:56:25.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/TestFlight-App-Store.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Just Fixed TestFlight",
+      "summaryJa": "As noted by MacStories editor-in-chief Federico Viticci, TestFlight now shows recent betas by default again for all users. In July, Apple updated TestFlight with a search field for quickly finding apps that you are beta testing, but some users started to see their apps presented in alphabetical order. It is not entirely clear if this was a bug or an intentional change, but many users did not like it, and TestFlight version 4.3.1 reverses course. The update with the fix is available in the App Store now. The search field remains. Tag: TestFlight This article, \" Apple Just Fixed TestFlight \" first appeared on MacRumors.com Discuss this article in our forums",
+      "translationStatus": "source"
+    },
+    {
+      "id": "efcaf3b9d33a2b493d86",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Leaked iPhone roadmap reveals plans for larger foldable, ‘biggest overhaul,’ more",
+      "url": "https://9to5mac.com/2026/09/04/leaked-iphone-roadmap-reveals-plans-for-larger-foldable-biggest-overhaul-more/",
+      "publishedAt": "2026-09-04T15:48:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tim-cook-iphone-15-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Leaked iPhone roadmap reveals plans for larger foldable, ‘biggest overhaul,’ more",
+      "summaryJa": "Apple is launching new iPhones next week , and a Bloomberg report today details what to expect from those models as well as the roadmap for 2027 and 2028 debuts. more… Apple is launching new iPhones next week, and a Bloomberg report today details what to expect from those models as well as the roadmap for 2027 and 2028 debuts. Apple reportedly has 10+ new iPhone models coming through 2028, details here Ahead of Apple’s big September event next week, Mark Gurman today published an overview of new products in the works for this fall and beyond. He details hardware that’s in the pipeline for all the way through 2028. Here’s what Gurman says about new iPhones expected to launch: 2026: Coming next week at September 9 event iPhone 18 Pro and Pro Max: Mechanical aperture camera feature, dark red",
+      "translationStatus": "source"
+    },
+    {
+      "id": "48b15cbdef0fc618100c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Labor Day Deals Offer Up to $330 Off Studio Displays and Mac Mini Pre-Order Savings",
+      "url": "https://www.macrumors.com/2026/09/04/best-apple-deals-of-the-week-9-4-26/",
+      "publishedAt": "2026-09-04T15:34:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Labor Day Deals Offer Up to $330 Off Studio Displays and Mac Mini Pre-Order Savings",
+      "summaryJa": "It's Labor Day weekend, and we're tracking big discounts across a wide variety of Apple and Apple-related products, including some of the best prices of the year on Studio Displays. You can also still get pre-order discounts on the new Mac minis on Amazon. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Mac Mini Pre-Orders What's the deal? Take up to $29 off Mac mini pre-orders Where can I get it? Amazon Where can I find the original deal? Right here $19 OFF M6 Mac mini 16GB/256GB for $879.99 $29 OFF M6 Mac mini 16GB/512GB for $1,069.99 $29 OFF M5 Pro Mac mini 24GB/512GB for $1,669.99 Amazon this week introduced the first cash discounts on Apple's brand new M",
+      "translationStatus": "source"
+    },
+    {
+      "id": "b13ace474df2ab9afa2e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: AirPods, Apple 2026 Studio Displays up to $500 off, M5 MacBook Air $150 off, new Dark Cherry chargers, more",
+      "url": "https://9to5mac.com/2026/09/04/deals-airpods-apple-studio-display-m5-macbook-air/",
+      "publishedAt": "2026-09-04T15:29:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-MacBook-Air-Dark-Cherry-chargers.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Deals: AirPods, Apple 2026 Studio Displays up to $500 off, M5 MacBook Air $150 off, new Dark Cherry chargers, more",
+      "summaryJa": "We are heading into the weekend with the massive Labor Day sale at Amazon and the ongoing $50 price drop on AirPods Pro 3, but at $329 off, this standard Studio Display model at the all-time low, and some Apple Refurb options at up to $500 off . Just be sure to also scope out this Midnight 16GB/1TB 13-inch M5 MacBook Air is $150 off via Amazon and this new Dark Cherry smart display charging collection to match your new iPhone 18 Pro – there are some notable launch deals live . Check it all out below. more… We are heading into the weekend with the massive Labor Day sale at Amazon and the ongoing $50 price drop on AirPods Pro 3, but Best Buy has now updated its sale event with new deals and we have some fresh offers to scope out elsewhere. We still have the 2026 Apple Studio Display XDR hitt",
+      "translationStatus": "source"
+    },
+    {
+      "id": "84365bbb8cbe34997bf1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Testing New HomePod With Siri AI",
+      "url": "https://www.macrumors.com/2026/09/04/apple-testing-new-homepod-with-siri-ai/",
+      "publishedAt": "2026-09-04T15:25:33.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/01/HomePod-2-White-and-Midnight-Feature-Blue-Orange.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Testing New HomePod With Siri AI",
+      "summaryJa": "Apple has been testing a new full-sized HomePod with Siri AI support, according to Bloomberg 's Mark Gurman . Unfortunately, in his report outlining upcoming Apple products today, Gurman said the new full-sized HomePod \"doesn't appear to be imminent,\" so do not expect the speaker to be updated soon. The current HomePod was unveiled in January 2023 . Related Roundup: HomePod Tags: Mark Gurman , Siri Buyer's Guide: HomePod (Caution) This article, \" Apple Testing New HomePod With Siri AI \" first appeared on MacRumors.com Discuss this article in our forums",
+      "translationStatus": "source"
+    },
+    {
+      "id": "1c4883ae3779a4d10818",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 20 Rumored to Have Biggest Revamp Since iPhone X",
+      "url": "https://www.macrumors.com/2026/09/04/iphone-20-biggest-revamp-since-iphone-x/",
+      "publishedAt": "2026-09-04T15:10:58.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/All-Screen-iPhone-2030-Feature-Sans-Text.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 20 Rumored to Have Biggest Revamp Since iPhone X",
+      "summaryJa": "Apple plans to release a special 20th-anniversary iPhone next year with the biggest design changes since the iPhone X, according to Bloomberg 's Mark Gurman . Unveiled by Steve Jobs in 2007, the iPhone turns 20 next year. To mark the occasion, the report said Apple plans to release a 20th-anniversary iPhone with \"curved glass around all corners and edges\" and thinner bezels around the screen. \"It will be the biggest overhaul to what is now the iPhone Pro line since the iPhone X,\" the report said, but no further details were provided. Released in 2017, the iPhone X was the first iPhone with Face ID. The removal of the Touch ID button allowed for the iPhone X's screen to extend more towards the edges of the device compared to previous models. It seems like the 20th-anniversary iPhone would g",
+      "translationStatus": "source"
+    },
+    {
+      "id": "ef546865b72610552cb3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV’s big fall lineup: Here’s every new show and movie coming soon",
+      "url": "https://9to5mac.com/2026/09/04/apple-tvs-fall-lineup-reveals-every-new-show-and-movie-coming-soon/",
+      "publishedAt": "2026-09-04T15:02:32.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-tv-logo-mountains-lg.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV’s big fall lineup: Here’s every new show and movie coming soon",
+      "summaryJa": "Apple TV is now airing Ted Lasso season 4 , and more high-profile shows and movies are coming to the streamer soon. Here’s everything in Apple TV’s fall lineup so far, which could keep growing as more premieres are announced. more… Apple TV is now airing Ted Lasso season 4, and more high-profile shows and movies are coming to the streamer soon. Here’s everything in Apple TV’s fall lineup so far, which could keep growing as more premieres are announced. September Mayday When: September 4 What: Movie Genre: Action-Comedy Ryan Reynolds and Kenneth Branagh team up in “Mayday,” a genre-bending, action-packed buddy comedy that flips the spy thriller on its head. When hotshot U.S. Navy pilot Lieutenant Troy “Assassin” Kelly (Reynolds) is sent on a top-secret mission into Russian territory at the",
+      "translationStatus": "source"
+    },
+    {
+      "id": "7579dcbf5615dc84a1ee",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 4, 2026 – iPhone Ultra and iPhone 18 Pro rumors",
+      "url": "https://9to5mac.com/2026/09/04/daily-september-4-2026/",
+      "publishedAt": "2026-09-04T14:55:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "9to5Mac Daily: September 4, 2026 – iPhone Ultra and iPhone 18 Pro rumors",
+      "summaryJa": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff : Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. more… Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsor",
+      "translationStatus": "source"
+    },
+    {
+      "id": "ebcce5cc19a81b7e3a2d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New iPhone 18 Pro report details flagship camera feature and more",
+      "url": "https://9to5mac.com/2026/09/04/new-iphone-18-pro-report-details-flagship-camera-feature-and-more/",
+      "publishedAt": "2026-09-04T14:36:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "New iPhone 18 Pro report details flagship camera feature and more",
+      "summaryJa": "iPhone 18 Pro and Pro Max will be unveiled next week , and a new report offers fresh details on the flagship “mechanical aperture” camera feature that’s coming, plus mentions an improved vapor chamber and more. more… iPhone 18 Pro and Pro Max will be unveiled next week, and a new report offers fresh details on the flagship “mechanical aperture” camera feature that’s coming, plus mentions an improved vapor chamber and more. Here’s what’s coming with iPhone 18 Pro and Pro Max, per Mark Gurman Today Mark Gurman at Bloomberg published his latest expectations for the new iPhones being introduced on September 9. While most of the report covers features reported previously, a few noteworthy details stand out. For example, Apple has a new “mechanical aperture” camera feature coming to iPhone 18 Pr",
+      "translationStatus": "source"
+    },
+    {
+      "id": "78b7b0e2be1e167dc1a1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Planning to Update MacBook Neo in Three Ways",
+      "url": "https://www.macrumors.com/2026/09/04/macbook-neo-2-rumors/",
+      "publishedAt": "2026-09-04T14:17:36.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/MacBook-Neo-on-Yellow-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Planning to Update MacBook Neo in Three Ways",
+      "summaryJa": "Bloomberg 's Mark Gurman today reported that Apple plans to release a second-generation MacBook Neo in 2027 with three updates: an A19 Pro chip, 12GB of RAM, and new color options. Released in March 2026, the current MacBook Neo has an A18 Pro chip with 8GB of RAM, and it is available in Silver, Blush, Citrus, and Indigo. In the U.S., the laptop initially started at $599, but Apple raised the price to $699 in June. Apple continues to offer a $100 discount to college students and educational staff. Related Roundup: MacBook Neo Tag: Mark Gurman Buyer's Guide: MacBook Neo (Buy Now) Related Forum: MacBook Neo This article, \" Apple Planning to Update MacBook Neo in Three Ways \" first appeared on MacRumors.com Discuss this article in our forums",
+      "translationStatus": "source"
+    },
+    {
       "id": "092fe0890cf5672c532d",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4329,189 +4521,9 @@
       ],
       "titleJa": "iOSベータ版でAppleウォレットの米国パスポート機能に不具合",
       "summaryJa": "iOSのベータ版において、Appleウォレットアプリ内のデジタルIDパスポート機能に関連する情報やメニューが調整されました。この変更や関連するバグの影響により、一部のiPhoneユーザーの間でデジタルIDが無効化される事例が確認されています。Appleは影響を受けたユーザーに対し、再び利用するためにカードを一度削除してから再度追加するよう案内しています。"
-    },
-    {
-      "id": "fda28e0282ead8356984",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple upgrading recent Mac mini orders to M6, M5 Pro models for free",
-      "url": "https://9to5mac.com/2026/08/26/apple-upgrading-recent-mac-mini-orders-to-m6-m5-pro-models-for-free/",
-      "publishedAt": "2026-08-26T13:39:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Mac-mini-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、未発送のMac mini注文をM6やM5 Proへ無償アップグレード",
-      "summaryJa": "Appleは、M6およびM5 Proチップを搭載した新しいMac miniの発表前に旧モデルのM4版を購入し、まだ出荷されていなかった注文を対象に、追加料金なしで新型への自動アップグレードを実施しています。これにより、一部のユーザーは価格据え置きや実質的な割引、さらには配送予定日の前倒しといった恩恵を受けています。その一方で、自動アップグレードにより配送が遅れてしまった一部の学生などからは困惑の声も上がっていると報じられています。"
-    },
-    {
-      "id": "fc64c33e2d2b0a75f79f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Giving Some Mac Mini Customers a Free Upgrade",
-      "url": "https://www.macrumors.com/2026/08/26/apple-free-mac-mini-upgrade-email/",
-      "publishedAt": "2026-08-26T13:10:59.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/02/Mac-mini-M4-Top.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、未出荷のMac mini注文者を対象に無料アップグレードを実施",
-      "summaryJa": "Appleは、M4チップ搭載のMac miniを最近注文したもののまだ出荷されていない顧客に対し、追加料金なしで新型のM6チップ搭載モデルへと自動的にアップグレードする対応を進めています。米国での価格改定も相まって、ユーザーによっては事実上の割引や配送予定日の短縮といったメリットが生じています。ただし、この変更によって逆に配送が遅れたユーザーからは不満の声も聞かれており、選択肢がなかった点に戸惑う意見も存在します。"
-    },
-    {
-      "id": "4bdc55e4af8cd30d1e73",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "New Mac Studio Can Be Clustered Together for Faster AI Performance",
-      "url": "https://www.macrumors.com/2026/08/26/new-mac-studio-can-be-clustered-together/",
-      "publishedAt": "2026-08-26T12:56:48.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/11/mac-studio-purple.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型Mac Studio、AI性能向上のため複数台のクラスター接続に対応",
-      "summaryJa": "新しいMac Studioは、Thunderbolt 5とRDMAを介して複数のユニットをクラスター接続し、大規模なAIモデルを実行するための共有メモリプールを構築することが可能です。Appleによると、4台のMac Studioを連携させることで、単一システムでの実行と比較して最大3倍高速なAI推論を実現できるとしています。この機能により、現在利用可能な最大規模で最も負荷の高いオープンウェイトモデルの効率的な読み込みと処理がサポートされます。"
-    },
-    {
-      "id": "391485b2c313963513d0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "75% of US Adults Aren't Interested in a Foldable iPhone",
-      "url": "https://www.macrumors.com/2026/08/26/most-arent-interested-in-a-foldable-iphone/",
-      "publishedAt": "2026-08-26T12:53:46.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "米国の成人における75％が折りたたみ式iPhoneに関心なしとの調査",
-      "summaryJa": "CNETとYouGovによる最新の調査によると、米国の成人の4人に3人が折りたたみ式iPhoneの購入に関心がないと回答していることが明らかになりました。すべての世代で関心が低い傾向にあり、特に上の世代ほどその割合が高くなっています。また、購入を検討する層であっても噂される2000ドル超の価格には到底見合わないと考えており、期待される購入予算と予想価格の間には大きな開きがあることが示されています。"
-    },
-    {
-      "id": "590f13897e3bcfd75b7f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Ads have landed in Apple Maps, and they are as bad as expected",
-      "url": "https://9to5mac.com/2026/08/26/ads-have-landed-in-apple-maps-and-they-are-as-bad-as-expected/",
-      "publishedAt": "2026-08-26T12:31:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Ads-have-landed-in-Apple-Maps-and-its-as-bad-as-expected.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Maps、米国とカナダでマップ内広告の展開を開始",
-      "summaryJa": "Appleは、米国とカナダのApple Mapsにおいて広告の配信を開始しました。検索画面の「おすすめの場所」や関連する検索結果に広告が表示される仕組みとなっています。プライバシー保護を重視し、ユーザーの現在地や広告の閲覧履歴はAppleアカウントに紐付けられずデバイス内に保持されるとしていますが、有料ハードウェアを提供するAppleのブランドイメージやユーザーからの受け止め方を懸念する声も上がっています。"
-    },
-    {
-      "id": "a76bcb1420dc77938989",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's New Polishing Cloth Is Softer, Not Smaller Than Original",
-      "url": "https://www.macrumors.com/2026/08/26/new-apple-polishing-cloth-softer/",
-      "publishedAt": "2026-08-26T12:02:43.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-Polishing-Cloth-Gradient.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新しいAppleポリッシングクロスはより柔らかい素材に変更か",
-      "summaryJa": "Appleが新たに発売した9ドルのポリッシングクロスについて、サイズは従来のものとほぼ同じであるものの、素材の硬さが軽減され、より柔らかくなっていると報じられています。X上の比較投稿によると、新しい素材の質感は、ナノテクステクスチャーガラス向けディスプレイやVision Proに同梱されているクロスに近づいているとのことです。"
-    },
-    {
-      "id": "7375aaa22599b0538aed",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "New Mac Mini Bumps Display Refresh Rates to 165Hz",
-      "url": "https://www.macrumors.com/2026/08/26/new-mac-mini-bumps-display-refresh-rates/",
-      "publishedAt": "2026-08-26T11:50:29.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/10/Apple-Mac-mini-back-facing-ports-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型Mac mini、外部ディスプレイのリフレッシュレートが向上",
-      "summaryJa": "Appleが発表した新しいMac miniのM6およびM5 Pro搭載モデルでは、外部ディスプレイのサポート仕様が刷新され、より高いリフレッシュレートに対応することが技術仕様から明らかになりました。M6モデルでは4K解像度で最大165Hz、M5 Proモデルではさらに高精細な設定やマルチディスプレイ時の出力性能が向上しています。予約受付がすでに開始されており、9月22日の出荷および店頭販売が予定されています。"
-    },
-    {
-      "id": "60008ba51a690cfe3a74",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Instagram can now create Reels automatically – but Meta doesn’t want to upset creators",
-      "url": "https://9to5mac.com/2026/08/26/instagram-can-now-create-reels-automatically-but-meta-doesnt-want-to-upset-creators/",
-      "publishedAt": "2026-08-26T11:43:14.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Instagram-can-now-create-Reels-automatically-–-but-Meta-doesnt-want-to-upset-creators.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Instagram、iPhone向けに動画を自動編集する新機能を追加",
-      "summaryJa": "InstagramのiPhone向けアプリに、クリップを選択するだけでリール動画を自動作成する「First draft」機能が新たに追加されました。ワンタップで無音部分のカットやトリミングを行い、クリエイターが編集作業の初期段階を素早く進められるように設計されています。Meta社はクリエイターの編集技術を置き換えるものではないと慎重な姿勢を示しており、作成された内容はすべて手動で調整ややり直しが可能です。"
-    },
-    {
-      "id": "67d5bd3474aee359db15",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Alleged Foldable iPhone Motherboard Photos Surface Online",
-      "url": "https://www.macrumors.com/2026/08/26/foldable-iphone-motherboard-photos-surface/",
-      "publishedAt": "2026-08-26T11:34:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/foldable-iphone-boards.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみ式iPhoneのものとされるロジスティック写真が流出",
-      "summaryJa": "Appleが準備を進めていると噂される折りたたみ式iPhoneの基板とされる回路の画像や動画が、Xや中国のソーシャルメディア上に投稿されました。投稿された画像にはCPUやヒンジコネクタ、フレキシブルケーブルのコネクタなどが捉えられています。真偽は不明ですが、来月に予定されているiPhone 18 Proモデルとの同時発表の可能性などが取り沙汰されており、発売時期が近づいている兆候ではないかと注目を集めています。"
-    },
-    {
-      "id": "6b05dde6c2ea2b246c35",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "25% of US adults are interested in the iPhone Ultra – but won’t pay for it",
-      "url": "https://9to5mac.com/2026/08/26/25-of-us-adults-are-interested-in-the-iphone-ultra-but-wont-pay-for-it/",
-      "publishedAt": "2026-08-26T11:23:25.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "米国成人の4分の1が折りたたみ式iPhoneに関心を示すも価格面に課題",
-      "summaryJa": "新しい折りたたみ式iPhoneに関する米国の調査で、全成人の4分の1にあたる25%が関心を示していることが明らかになりました。世代別ではミレニアル世代やZ世代からの関心が比較的高い一方で、購入希望者が支払ってもよいと考える平均価格は予想される実勢価格を大きく下回っています。製造コストや価格設定の面から、当面はニッチな製品にとどまる可能性が指摘されています。"
-    },
-    {
-      "id": "637078e5a10628d26463",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Car Key Support Coming to Xiaomi Auto Vehicles",
-      "url": "https://www.macrumors.com/2026/08/26/apple-car-key-support-xiaomi-vehicles/",
-      "publishedAt": "2026-08-26T11:18:25.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/07/digital-car-key-iphone.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Xiaomi製EVにAppleの「Car Key」機能が対応か",
-      "summaryJa": "Appleのウォレットアプリのバックエンドやベータ版のコードから、中国のXiaomiが手がけるEV車両向けにCar Key機能の準備が進められていることが明らかになりました。iPhoneやApple Watchを車のリーダーにかざすだけで、ドアのロック解除やエンジンの始動が可能になります。スマートフォン分野ではライバル関係にある両社ですが、Appleのエコシステムが中国製EVへ拡大する契機となりそうです。"
-    },
-    {
-      "id": "a40a310094a47b92d0d0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "M5 vs. M6 Chip Buyer's Guide: How Much Better Really Is M6?",
-      "url": "https://www.macrumors.com/guide/m5-vs-m6/",
-      "publishedAt": "2026-08-26T10:58:04.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/m5-vs-m6-chip.png",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleの新型「M6」チップ、M5と性能を徹底比較",
-      "summaryJa": "Appleが新たに発表したM6チップは、2nmプロセスで製造され、新たに「スーパーコア」を加えた3種類のCPUコア構成を採用しています。M5と比べてマルチスレッドCPU性能が最大1.2倍、AI向けのGPU性能が約30%向上し、Neural Engineの性能も倍増しています。シングルスレッドで世界最速の性能を謳うほか、ゲームやスプレッドシートなどの処理速度の大幅な向上を実現しています。"
     }
   ],
-  "updatedAt": "2026-09-04T13:46:45.337Z",
+  "updatedAt": "2026-09-04T17:12:10.261Z",
   "initialized": true,
   "summaryVersion": 4
 }
