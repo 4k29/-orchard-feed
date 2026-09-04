@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "2223a7e80bfaa785c3be",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Is Testing a Four-HomePod Surround System, Code Suggests",
+      "url": "https://www.macrumors.com/2026/09/04/apple-testing-four-homepod-surround-system/",
+      "publishedAt": "2026-09-04T09:30:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/homepods-four.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、4基のHomePodを用いたサラウンドシステムをテスト中か",
+      "summaryJa": "audioOSのベータ版コードから、Appleが4基のHomePodを組み合わせたホームシアター向けのサラウンドシステムや、新しいパーティモードをテストしていることが明らかになりました。ソフトウェア内では、フロントとリアに配置した4台のスピーカーの自動キャリブレーションや位置マッピングなどの言及が見つかっています。これが将来の製品として実際にリリースされるかは現時点不明です。"
+    },
+    {
+      "id": "f9a40b362b42c89de825",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New action comedy movie Mayday is now streaming on Apple TV",
+      "url": "https://9to5mac.com/2026/09/04/new-action-comedy-movie-mayday-is-now-streaming-on-apple-tv/",
+      "publishedAt": "2026-09-04T09:10:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-mayday.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVでアクションコメディ映画「Mayday」の配信が開始",
+      "summaryJa": "ライアン・レイノルズとケネス・ブラナーが出演する新作アクションコメディ映画「Mayday」が、Apple TVでの配信を開始しました。冷戦中のソ連領内に潜入した主人公と元KGBエージェントの意外な共闘を描いた作品となっています。Apple TVのサブスクリプション加入者は追加料金なしで視聴可能で、批評家からも高い評価を受けています。"
+    },
+    {
       "id": "bb4d4ee9a88c0f53491f",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4475,39 +4505,9 @@
       ],
       "titleJa": "Apple、新しいMac mini広告の舞台裏動画を公開",
       "summaryJa": "Appleは新しいMac miniのプロモーション動画の制作舞台裏を紹介するショート動画を公式Instagramで公開しました。動画ではアニメーターやアートディレクターらが登場し、すべて手作業で彫刻や小道具を作り上げた気の遠くなるような制作プロセスやストップモーションの技術を披露しています。実写と手作業にこだわった丁寧なメイキング映像を確認できます。"
-    },
-    {
-      "id": "6bb9143476109d828661",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Notability can now organize meeting recordings, transcriptions, and notes around your calendar",
-      "url": "https://9to5mac.com/2026/08/25/notability-can-now-organize-meeting-recordings-transcriptions-and-notes-around-your-calendar/",
-      "publishedAt": "2026-08-25T22:49:13.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/notability.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Notability、カレンダーと連携する会議記録・文字起こし機能を提供開始",
-      "summaryJa": "人気ノートアプリのNotabilityが、MacおよびWindows向けにカレンダーイベントと直接連携する新しいデスクトップワークフローを発表しました。ユーザーはカレンダーから直接会議や講義の録音を開始でき、音声、文字起こし、手書きノートを単一のイベント紐付けドキュメントに自動整理できます。ボットを参加させる必要がなくシステム音声を直接キャッチできるのが特徴で、今後はシラバスのインポート機能も追加される予定です。"
-    },
-    {
-      "id": "933cb249840a1b89e00a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 25, 2026 – New Mac mini and Mac Studio unveiled",
-      "url": "https://9to5mac.com/2026/08/25/daily-august-25-2026/",
-      "publishedAt": "2026-08-25T22:48:14.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新型Mac miniとMac Studioが登場、9to5Mac Dailyが解説",
-      "summaryJa": "ポッドキャスト番組9to5Mac Dailyが、最新のAppleニュースを音声で振り返ります。今回のエピソードでは、M6およびM5 Proチップを搭載した新しいMac miniや、M5 MaxおよびM5 Ultraを搭載した新しいMac Studioの登場をはじめとする、次世代Appleシリコンに関する注目トピックが紹介されています。"
     }
   ],
-  "updatedAt": "2026-09-04T05:02:18.513Z",
+  "updatedAt": "2026-09-04T09:35:21.890Z",
   "initialized": true,
   "summaryVersion": 4
 }
