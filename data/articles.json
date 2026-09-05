@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "7d362ac3d082a8bd849f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Top Stories: 'Surprise and Shine' Apple Event Preview, John Ternus Takes Over, and More",
+      "url": "https://www.macrumors.com/2026/09/05/top-stories-suprise-and-shine-preview/",
+      "publishedAt": "2026-09-05T13:00:10.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/top-stories-2026-09-05.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、9月9日にスペシャルイベントを開催へ",
+      "summaryJa": "Appleは9月9日に新製品発表イベントを開催すると予告しました。このイベントでは、長年噂されてきた初の折りたたみ式iPhoneをはじめとする次世代iPhoneラインナップや、新しいApple Watch、AirPodsなどの登場が期待されています。また、ティム・クックの後任としてジョン・ターナスが新CEOに就任したばかりであり、新体制での初の大型イベントとして注目を集めています。"
+    },
+    {
+      "id": "4dbe6a4634a807cee7a9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Labor Day weekend deals: AirPods Pro 3, Studio Display, Mac mini, AirTag 2, chargers, more",
+      "url": "https://9to5mac.com/2026/09/05/apple-labor-day-weekend-deals-airpods/",
+      "publishedAt": "2026-09-05T12:12:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Labor-Day-weekend-Apple-deals.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AmazonなどでApple製品のレイバーデーセールが開催中",
+      "summaryJa": "米国のレイバーデー連休に合わせ、Amazonやベストバイなどの大手小売店でApple製品の大規模なセールが実施されています。AirPods Pro 3やAirTag 2、M6およびM5 Proを搭載した新しいMac mini、M5 MacBook Airなどが割引価格で販売されています。周辺機器や充電アクセサリなども対象となっており、各製品がセール価格や過去最安値水準で登場しています。"
+    },
+    {
       "id": "0996ef2deb4650c6a553",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "iPhone Ultraのカラー展開にレッドが含まれるとの噂",
       "summaryJa": "リーカーのエヴァン・ブラス氏によると、新型のiPhone Ultraにはブラックやホワイトに加えてレッドのオプションも用意される可能性があると報じられています。投稿された画像はAI生成の可能性が指摘されているものの、カラーラインナップの正確性については意見が分かれています。正式な発表は9月9日に予定されているAppleのイベントまで数週間と迫っており、実際の仕様に注目が集まっています。"
-    },
-    {
-      "id": "dc963881420888349942",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Astropad’s new Rock Paper Pencil 4 adds a graphite feel to Apple Pencil and iPad",
-      "url": "https://9to5mac.com/2026/08/26/astropads-new-rock-paper-pencil-4-adds-a-graphite-feel-to-apple-pencil-and-ipad/",
-      "publishedAt": "2026-08-26T18:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/rock-paper-pencil-4.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPad向けの書き心地を追求した「Rock Paper Pencil 4」が登場",
-      "summaryJa": "Astropadは、iPadの画面にナノテクスチャのような紙の質感を加える「Rock Paper Pencil 4.0」を発表しました。今回は従来のボールペン風のチップに加え、新たに鉛筆の2Bのような摩擦や抵抗感を再現するグラファイト製のペン先が追加されています。着脱可能な画面保護フィルムと専用チップの組み合わせにより、イラスト制作やメモ書きでより自然な描き心地を実現しています。"
-    },
-    {
-      "id": "61badf5b39f9c9d3ec66",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI expands free ChatGPT for Teachers to 55 school systems across 20 states",
-      "url": "https://9to5mac.com/2026/08/26/free-chatgpt-for-teachers-expansion/",
-      "publishedAt": "2026-08-26T17:46:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/chatgpt-teachers.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI、教員向けChatGPTの無料提供プログラムを大幅拡大",
-      "summaryJa": "OpenAIは、米国の教職員向けに提供している「ChatGPT for Teachers」の対象地域を、新たに20州の55の学校システムへと拡大すると発表しました。これにより、10万人以上の教職員が新たに無料アクセスやトレーニングを受けられるようになります。プログラムは少なくとも2028年6月まで無料で継続される予定で、生徒のデータプライバシーに関する新たな枠組みも合わせて発表されています。"
     }
   ],
-  "updatedAt": "2026-09-05T10:28:34.105Z",
+  "updatedAt": "2026-09-05T13:31:26.310Z",
   "initialized": true,
   "summaryVersion": 4
 }
