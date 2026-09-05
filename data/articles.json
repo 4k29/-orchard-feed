@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "9b6166065fd7f6280e79",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Indie App Spotlight: ‘KeyAlarm’ turns your most important calendar events into alarms",
+      "url": "https://9to5mac.com/2026/09/05/indie-app-spotlight-keyalarm-calendar-events-into-alarms/",
+      "publishedAt": "2026-09-05T19:30:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/KeyAlarm.png?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "カレンダーの重要イベントをアラーム化する「KeyAlarm」",
+      "summaryJa": "KeyAlarmは、指定したキーワードに一致するカレンダーの予定を自動でアラームに変換してくれるiOSアプリです。通知を見落としがちな重要な予定の時間を事前に知らせてくれ、複数のアラーム設定やカレンダーごとの条件指定にも対応しています。iOSの「AlarmKit」フレームワークを活用しており、App Storeから無料でダウンロードして利用可能です。"
+    },
+    {
+      "id": "76dc5a713ee6bd110b57",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s how iPhone Ultra’s form factor could compare to other Apple products",
+      "url": "https://9to5mac.com/2026/09/05/iphone-ultra-form-factor-comparison/",
+      "publishedAt": "2026-09-05T19:15:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "折りたたみiPhone Ultraのサイズ感を他社製品と比較",
+      "summaryJa": "今月発表されると噂されているApple初の折りたたみ式iPhone「iPhone Ultra」について、同等の画面サイズを持つサムスン製端末を元にしたサイズ感の比較が話題になっています。外側5.5インチ、内側7.6インチのディスプレイを搭載し、開いた状態ではiPad miniのような大画面をポケットに入れて持ち運べるようになると報じられています。"
+    },
+    {
       "id": "b5782279780a297165fe",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "iPhone 17、2026年第2四半期の世界売上トップに",
       "summaryJa": "調査会社Counterpoint Researchの報告によると、2026年第2四半期の世界スマートフォン売上トップにiPhone 17が輝きました。Appleはトップ10のうち5つの枠を占め、市場全体が低迷する中でもインドや日本などで売上を伸ばしています。"
-    },
-    {
-      "id": "fa1f7ff03166b2acea16",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple just did something rare that signals big September event",
-      "url": "https://9to5mac.com/2026/08/26/apple-just-did-something-rare-that-signals-big-september-event/",
-      "publishedAt": "2026-08-26T19:57:26.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/hands-on-steve-jobs-theater-2018.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、異例の8月新製品発表で9月イベントを予告か",
-      "summaryJa": "Appleが9月のイベントを前に、8月下旬という異例のタイミングで新製品のMacを発表しました。これは9月の発表イベントの予定がすでに多くの新製品で埋まっているためではないかと報じられており、今後の発表に大きな期待が寄せられています。"
-    },
-    {
-      "id": "5dca86200fe6fa17d01f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27: 13 Ways the Messages App is Smarter and Less Annoying",
-      "url": "https://www.macrumors.com/guide/ios-27-messages/",
-      "publishedAt": "2026-08-26T19:47:04.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/ios-27-messages-actions.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOSのメッセージアプリ、AI活用による新機能や改善点まとめ",
-      "summaryJa": "次期iOSのメッセージアプリでは、Apple Intelligenceを活用した文脈に基づくワンタップ提案機能やSiriによる文章作成サポートなどが追加されます。会話の内容から写真の添付やカレンダーへの予定追加をスムーズに提案してくれるほか、新しく手書きスケッチ機能も利用できるようになり、より便利で使いやすくなります。"
     }
   ],
-  "updatedAt": "2026-09-05T18:21:58.624Z",
+  "updatedAt": "2026-09-05T20:33:16.305Z",
   "initialized": true,
   "summaryVersion": 4
 }
