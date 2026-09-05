@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "b5782279780a297165fe",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirTag 2 4-Pack Drops to $79.99 on Amazon, Matching Record Low",
+      "url": "https://www.macrumors.com/2026/09/05/airtag-2-4-pack-on-sale/",
+      "publishedAt": "2026-09-05T16:09:38.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/new-airtag-2-peach.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AmazonでAirTag 2の4個パックが過去最安値に",
+      "summaryJa": "Amazonにて、AirTag 2の4個パックが通常99.00ドルから79.99ドルに値引きされ、これまでの最安値と同等の価格で購入可能になっています。AirTag 2は第2世代の超広帯域チップを搭載し、正確な場所を見つける機能の対応距離が従来モデルから最大50%向上しています。"
+    },
+    {
+      "id": "f2eb870abf0e6a6a7127",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro: Everything M6 Tells Us About the A20 Chip",
+      "url": "https://www.macrumors.com/2026/09/05/what-m6-tells-us-about-a20/",
+      "publishedAt": "2026-09-05T16:00:13.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/m6-a20-pro-chips.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "M6チップから見えてくるiPhone 18 ProのA20チップ",
+      "summaryJa": "先週発表されたM6チップの情報をもとに、iPhone 18 Pro向けと予想されるA20チップの仕様について報じられています。M6はTSMCの2nmプロセスを採用しており、A20シリーズも同様の製造プロセスへ移行することでパフォーマンスや電力効率の向上が期待されています。"
+    },
+    {
+      "id": "448488cd84eeb0e7bd64",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work: Capping bug bounty submissions is the wrong response in the AI era of security threats",
+      "url": "https://9to5mac.com/2026/09/05/capping-bug-bounty-submissions-is-the-wrong-response-in-the-ai-era-of-security-threats/",
+      "publishedAt": "2026-09-05T13:01:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの脆弱性報告の件数制限に懸念の声",
+      "summaryJa": "Appleがセキュリティ研究者による脆弱性報告の受付件数に上限を設け、制限に達した場合は30日間のクールダウン期間を導入したことが確認されました。AI生成によるバグ報告の急増に対応するための措置ですが、セキュリティ脅威が増す現代において逆効果ではないかとの指摘がなされています。"
+    },
+    {
       "id": "7d362ac3d082a8bd849f",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4459,54 +4504,9 @@
       ],
       "titleJa": "iOSのメッセージアプリ、AI活用による新機能や改善点まとめ",
       "summaryJa": "次期iOSのメッセージアプリでは、Apple Intelligenceを活用した文脈に基づくワンタップ提案機能やSiriによる文章作成サポートなどが追加されます。会話の内容から写真の添付やカレンダーへの予定追加をスムーズに提案してくれるほか、新しく手書きスケッチ機能も利用できるようになり、より便利で使いやすくなります。"
-    },
-    {
-      "id": "94e5b8493e808d4de0a2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Google Translate thinks Apple’s iPhone Ultra event tagline in China includes a hidden ‘foldable’ teaser",
-      "url": "https://9to5mac.com/2026/08/26/apples-iphone-ultra-event-tagline-in-china-includes-a-hidden-foldable-teaser/",
-      "publishedAt": "2026-08-26T19:41:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/translated-apple-event-tagline-china.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleのイベント標語、中国語の自動翻訳で折りたたみ端末を暗示と話題に",
-      "summaryJa": "9月のAppleイベントの標語「Surprise and shine」について、中国語のローカライズをGoogle翻訳にかけたところ「新しい章が展開する」という意味が含まれているように読めると話題になっています。折りたたみ式iPhoneの発表が期待される中での機械翻訳による偶然の結果ですが、発表に向けたファンの期待を高める面白い要素となっています。"
-    },
-    {
-      "id": "96fa0473e4fd14ae47a4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s ‘Surprise and shine’ hashmoji is already live on X",
-      "url": "https://9to5mac.com/2026/08/26/apples-surprise-and-shine-hashmoji-is-already-live-on-x/",
-      "publishedAt": "2026-08-26T19:36:54.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-surprise-hashmoji.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Xで「#AppleEvent」のカスタムハッシュモジが早くも利用可能に",
-      "summaryJa": "9月9日のスペシャルイベント開催に向けて、Xで「#AppleEvent」のハッシュタグを付けた投稿にカスタムAppleロゴが表示されるハッシュモジが利用開始されました。イベントでは新型iPhoneやApple Watchなどの発表が予想されています。また、マークティング担当役員らの予告投稿に続き、ティム・クックCEOの動向にも注目が集まっています。"
-    },
-    {
-      "id": "8ca3fdb773bf62b02fe2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Leaker says iPhone Ultra will come in these colors, with one surprise",
-      "url": "https://9to5mac.com/2026/08/26/leaker-says-iphone-ultra-will-come-in-these-colors-with-one-surprise/",
-      "publishedAt": "2026-08-26T18:17:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone Ultraのカラー展開にレッドが含まれるとの噂",
-      "summaryJa": "リーカーのエヴァン・ブラス氏によると、新型のiPhone Ultraにはブラックやホワイトに加えてレッドのオプションも用意される可能性があると報じられています。投稿された画像はAI生成の可能性が指摘されているものの、カラーラインナップの正確性については意見が分かれています。正式な発表は9月9日に予定されているAppleのイベントまで数週間と迫っており、実際の仕様に注目が集まっています。"
     }
   ],
-  "updatedAt": "2026-09-05T13:31:26.310Z",
+  "updatedAt": "2026-09-05T16:13:30.904Z",
   "initialized": true,
   "summaryVersion": 4
 }
