@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "2f225e3acaa74c5d6c1a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple might soon make App Store changes to raise revenue, increase margins: report",
+      "url": "https://9to5mac.com/2026/09/06/apple-might-soon-make-app-store-changes-to-raise-revenue-increase-margins-report/",
+      "publishedAt": "2026-09-06T14:53:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、収益改善に向けApp Storeの変更を検討か",
+      "summaryJa": "Appleがプラットフォームからの継続的な収益を増やし、利益率を向上させるためのApp Storeの変更を検討していると報じられています。具体的な内容は不明ですが、開発者メンバーシップの値上げや、トラフィックに応じた大規模開発者への料金課金などが想定されています。こうした動きは開発者や各国政府との関係に影響を与える可能性があり、社内でも議論を呼んでいるとのことです。"
+    },
+    {
       "id": "25aeb1d0237fce83d2c6",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "Apple、バグ修正と性能向上を行った「Safari Technology Preview 251」を公開",
       "summaryJa": "Appleは実験的ブラウザである「Safari Technology Preview」の最新アップデート版となるバージョン251をリリースしました。将来のSafariリリース版に搭載予定の機能をテストするために設計されており、バグの修正やパフォーマンスの改善が含まれています。最新のmacOS環境に対応しており、開発者アカウントを持っていなくても誰でも無料でダウンロードして利用可能です。"
-    },
-    {
-      "id": "df2e6a6449b234302144",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s how many foldable iPhones IDC expects Apple to ship in one year",
-      "url": "https://9to5mac.com/2026/08/26/heres-how-many-foldable-iphones-idc-expects-apple-to-ship-in-one-year/",
-      "publishedAt": "2026-08-26T21:13:32.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "折りたたみiPhone、初年度出荷台数が1000万台突破か",
-      "summaryJa": "調査会社IDCの予測によると、Appleが発表を噂される初の折りたたみiPhoneは、高価格ながら発売初年度に1000万台を超える出荷台数を記録する見通しです。ブック型デザインを採用し、世界の折りたたみスマホ市場の成長を牽引すると期待されています。"
     }
   ],
-  "updatedAt": "2026-09-06T12:26:54.594Z",
+  "updatedAt": "2026-09-06T15:43:09.728Z",
   "initialized": true,
   "summaryVersion": 4
 }
