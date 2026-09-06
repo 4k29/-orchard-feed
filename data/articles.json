@@ -61,6 +61,21 @@
       "summaryJa": "iPadOSで導入されたウィンドウ管理システムについて、よりシンプルなマルチタスク機能との統合や操作性に関するユーザーの不満や改善への期待が語られています。複雑なウィンドウ操作なしでSplit Viewなどを直感的に使いたいという声があがっています。"
     },
     {
+      "id": "e4396a5f371ac721df0d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Affordable iPhone accessories for CarPlay worth trying",
+      "url": "https://9to5mac.com/2026/09/05/affordable-iphone-accessories-for-carplay-worth-trying/",
+      "publishedAt": "2026-09-05T22:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/best-carplay-apps.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "CarPlayを快適にする手頃なアクセサリ",
+      "summaryJa": "有線のみのCarPlayをワイヤレス化するアダプタや、CarPlay非搭載の旧型車でも手軽に導入できるポータブルディスプレイなど、コストを抑えて車内環境を快適にする便利なアクセサリが紹介されています。長距離ドライブでのiPhoneの充電や冷却をサポートするアイテムも含まれており、手頃な投資で愛車の利便性を大きく高めることが可能です。"
+    },
+    {
       "id": "9b6166065fd7f6280e79",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "Astropad、新しい鉛筆の書き心地を再現したApple Pencil用ペン先「Rock Paper Pencil 4.0」を発表",
       "summaryJa": "Astropadは、iPad向けのペーパーライク保護フィルムとApple Pencil用ペン先のセットの新バージョン「Rock Paper Pencil 4.0」を発表しました。新たにソフトなグラファイト鉛筆の感触を模した2B鉛筆風のペン先が追加され、スケッチや網掛けに最適な紙のような適度な抵抗感を実現しています。また、滑らかなジェルペンのようなボールペン先のペン先も付属し、NanoCling技術を用いた着脱可能な保護フィルムと合わせて利用できます。"
-    },
-    {
-      "id": "02b683fad69c12382997",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Meta Agrees to Limit Teens' Time on Facebook and Instagram, Calls on TikTok and YouTube to Match",
-      "url": "https://www.macrumors.com/2026/08/26/meta-teen-time-limit/",
-      "publishedAt": "2026-08-26T22:28:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Meta-16x9.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Meta、FacebookとInstagramで10代の利用時間を制限する方針へ",
-      "summaryJa": "Metaは全米の州との和解合意の一環として、FacebookとInstagramにおける10代のユーザー向け安全機能を大幅に強化すると発表しました。合意が承認されれば、18歳未満のユーザーに対して1日2時間の利用時間制限や夜間モード、学校向けの通知オフ機能などが導入されます。また、親による管理機能の強化や、不適切なフィルターの制限、アルゴリズム非依存のフィード選択なども含まれています。"
     }
   ],
-  "updatedAt": "2026-09-06T21:44:16.224Z",
+  "updatedAt": "2026-09-06T23:15:18.261Z",
   "initialized": true,
   "summaryVersion": 4
 }
