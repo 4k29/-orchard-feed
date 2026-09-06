@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "510c40182e588ef9ac18",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Netflix includes 80+ ad-free iPhone and iPad games, here’s every app",
+      "url": "https://9to5mac.com/2026/09/06/youre-paying-for-80-iphone-and-ipad-games-through-netflix-heres-the-full-catalog/",
+      "publishedAt": "2026-09-06T16:41:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/netflix-games.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Netflixのサブスクで追加料金なしで遊べるiPhone・iPadゲーム一覧",
+      "summaryJa": "Netflixの加入者は、追加料金や広告、アプリ内課金なしで80種類以上の高品質なiPhoneおよびiPad向けゲームを楽しむことができます。月額の低価格プランを含むすべての会員プランが対象となっており、App StoreからダウンロードしてNetflixのアカウントでサインインするだけでプレイ可能です。インディーの名作から大作まで幅広いタイトルが揃っており、モバイルゲーミングの選択肢の一つとして注目されています。"
+    },
+    {
       "id": "2f225e3acaa74c5d6c1a",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "Meta、FacebookとInstagramで10代の利用時間を制限する方針へ",
       "summaryJa": "Metaは全米の州との和解合意の一環として、FacebookとInstagramにおける10代のユーザー向け安全機能を大幅に強化すると発表しました。合意が承認されれば、18歳未満のユーザーに対して1日2時間の利用時間制限や夜間モード、学校向けの通知オフ機能などが導入されます。また、親による管理機能の強化や、不適切なフィルターの制限、アルゴリズム非依存のフィード選択なども含まれています。"
-    },
-    {
-      "id": "6f605457aa6380cc2fd6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases Safari Technology Preview 251 With Bug Fixes and Performance Improvements",
-      "url": "https://www.macrumors.com/2026/08/26/apple-releases-safari-technology-preview-251/",
-      "publishedAt": "2026-08-26T22:00:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、バグ修正と性能向上を行った「Safari Technology Preview 251」を公開",
-      "summaryJa": "Appleは実験的ブラウザである「Safari Technology Preview」の最新アップデート版となるバージョン251をリリースしました。将来のSafariリリース版に搭載予定の機能をテストするために設計されており、バグの修正やパフォーマンスの改善が含まれています。最新のmacOS環境に対応しており、開発者アカウントを持っていなくても誰でも無料でダウンロードして利用可能です。"
     }
   ],
-  "updatedAt": "2026-09-06T15:43:09.728Z",
+  "updatedAt": "2026-09-06T17:44:48.021Z",
   "initialized": true,
   "summaryVersion": 4
 }
