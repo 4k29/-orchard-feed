@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "25aeb1d0237fce83d2c6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "This new reveal suggests MacBook Ultra might cost more than we think",
+      "url": "https://9to5mac.com/2026/09/05/macbook-ultra-pricing-lineup-rumor/",
+      "publishedAt": "2026-09-06T03:02:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/macbook-ultra-mockup-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBook UltraはOLED搭載で高価格帯モデルになる可能性か",
+      "summaryJa": "次世代のMacBookラインナップに関する新たな予測が報じられています。OLEDディスプレイやタッチスクリーンを搭載すると噂される上位モデルはMacBook Ultraという名称になり、現行のminiLED搭載MacBook Proが併売されることで、より高価格な位置づけになると伝えられています。"
+    },
+    {
+      "id": "5705cd12496423cb9e2f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPadOS 27 still needs simpler multitasking, here’s what I’d like to see",
+      "url": "https://9to5mac.com/2026/09/05/ipados-27-still-needs-simpler-multitasking-heres-what-id-like-to-see/",
+      "publishedAt": "2026-09-06T00:26:17.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/m4-ipad-pro-hero-image.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPadOSのマルチタスク機能に対する改善の要望",
+      "summaryJa": "iPadOSで導入されたウィンドウ管理システムについて、よりシンプルなマルチタスク機能との統合や操作性に関するユーザーの不満や改善への期待が語られています。複雑なウィンドウ操作なしでSplit Viewなどを直感的に使いたいという声があがっています。"
+    },
+    {
       "id": "9b6166065fd7f6280e79",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "折りたたみiPhone、初年度出荷台数が1000万台突破か",
       "summaryJa": "調査会社IDCの予測によると、Appleが発表を噂される初の折りたたみiPhoneは、高価格ながら発売初年度に1000万台を超える出荷台数を記録する見通しです。ブック型デザインを採用し、世界の折りたたみスマホ市場の成長を牽引すると期待されています。"
-    },
-    {
-      "id": "74d8b48e2df0ba35c687",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s everything new for Reminders in iOS 27",
-      "url": "https://9to5mac.com/2026/08/26/heres-everything-new-for-reminders-in-ios-27/",
-      "publishedAt": "2026-08-26T20:24:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/reminders-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27のリマインダーアプリに新機能が登場",
-      "summaryJa": "iOS 27のリマインダーアプリでは、Apple Intelligenceを活用した新しいタスク作成機能が追加されます。自分の言葉で説明するだけで、期日や位置情報などの関連メタデータを自動で設定できるようになり、タスク管理がよりスムーズになります。"
-    },
-    {
-      "id": "21b36ac14a3f86c27e10",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Counterpoint: iPhone 17 topped worldwide smartphone sales during Q2",
-      "url": "https://9to5mac.com/2026/08/26/counterpoint-iphone-17-topped-worldwide-smartphone-sales-during-q2/",
-      "publishedAt": "2026-08-26T20:07:02.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-17-purple-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 17、2026年第2四半期の世界売上トップに",
-      "summaryJa": "調査会社Counterpoint Researchの報告によると、2026年第2四半期の世界スマートフォン売上トップにiPhone 17が輝きました。Appleはトップ10のうち5つの枠を占め、市場全体が低迷する中でもインドや日本などで売上を伸ばしています。"
     }
   ],
-  "updatedAt": "2026-09-05T23:58:29.531Z",
+  "updatedAt": "2026-09-06T04:26:02.290Z",
   "initialized": true,
   "summaryVersion": 4
 }
