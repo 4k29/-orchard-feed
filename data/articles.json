@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "a495d27650d2e6d71ffb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp will soon let users chat with up to five third-party AI agents",
+      "url": "https://9to5mac.com/2026/09/07/whatsapp-will-soon-let-users-chat-with-up-to-five-third-party-ai-agents/",
+      "publishedAt": "2026-09-07T21:36:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp、サードパーティ製AIエージェントのサポート機能か",
+      "summaryJa": "WhatsAppがサードパーティ製のAIエージェントをアプリに接続し、チャットを通じてタスクの実行指示を出せる新機能を開発していると報じられています。専用のチャットでAPIキーを使って連携する仕組みとなり、現在は個別チャットでのみ利用可能です。競合のTelegramなどが先行する中、公式なサポート提供に向けて準備が進められています。"
+    },
+    {
       "id": "a8f74ceb86f6626b4091",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "Apple Arcadeの人気ゲームがクロスオーバー企画を実施",
       "summaryJa": "Apple Arcadeの人気ゲーム「Sneaky Sasquatch」が「Subway Surfers+」との限定クロスオーバーを実施すると発表されました。10月7日まで「Subway Surfers+」の世界がサスクワッチのスタイルへと変化し、専用のスキンやホバーボードなどが登場します。さらに、9月17日には30種類以上の鳥を撮影できるバードウォッチング機能などの大型アップデートも予定されています。"
-    },
-    {
-      "id": "694701fc56e301fe2d80",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Four advantages iPhone 18 Pro will have over the iPhone Ultra",
-      "url": "https://9to5mac.com/2026/08/27/four-advantages-iphone-18-pro-will-have-over-the-iphone-ultra/",
-      "publishedAt": "2026-08-27T14:22:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proが持つUltraモデルに対する優位性",
-      "summaryJa": "Appleが将来投入すると噂される新型のフラッグシップ機において、iPhone 18 Proがより高価格なiPhone Ultraモデルに対して持つ複数の優位性が報じられています。主な違いとして、可変絞りに対応するメインカメラや、Pro Maxシリーズにおける長持ちなバッテリー、そしてFace IDの継続採用などが挙げられています。"
     }
   ],
-  "updatedAt": "2026-09-07T20:53:04.679Z",
+  "updatedAt": "2026-09-07T23:15:31.235Z",
   "initialized": true,
   "summaryVersion": 4
 }
