@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "643ae23e5074ab5396ed",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "This AI-generated iPhone 18 Pro mock ad makes me actually love dark cherry color",
+      "url": "https://9to5mac.com/2026/09/06/this-ai-generated-iphone-18-pro-mock-ad-makes-me-actually-love-dark-cherry-color/",
+      "publishedAt": "2026-09-07T05:01:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/dark-cherry-iphone-18-pro-mock-ad.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの噂のダークチェリー色をAIで再現した動画",
+      "summaryJa": "新型iPhoneの発表週を控え、秋のイベントで登場すると噂されているiPhone 18 Proの新色ダークチェリーレッドをAIで視覚化したモック動画が話題になっています。制作者はこれがリークではなくAI生成によるものであることを明記しており、洗練された色合いが注目を集めました。Appleは9月9日にスペシャルイベントの開催を予定しています。"
+    },
+    {
       "id": "510c40182e588ef9ac18",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "AppleのiPhoneイベント、各国で異なるキャッチコピーを採用",
       "summaryJa": "Appleが開催する恒例のiPhoneイベントに向けて、各国・地域別の公式ウェブサイトで様々なキャッチコピーが使われていることが明らかになりました。米国などでは「Surprise and Shine」が採用されていますが、直訳ではなく各国の言語や文化に合わせて異なる表現にローカライズされています。例えば、フランスやスペイン、イタリア、ブラジルなどではそれぞれ独自のニュアンスを持つフレーズが設定され、世界各地で異なる演出が行われています。"
-    },
-    {
-      "id": "e75e524b5121f17be655",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Astropad Launches Rock Paper Pencil 4.0 With New Graphite Apple Pencil Tip",
-      "url": "https://www.macrumors.com/2026/08/26/astropad-rock-paper-pencil-4/",
-      "publishedAt": "2026-08-26T23:26:07.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/rock-paper-pencil-4-0.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Astropad、新しい鉛筆の書き心地を再現したApple Pencil用ペン先「Rock Paper Pencil 4.0」を発表",
-      "summaryJa": "Astropadは、iPad向けのペーパーライク保護フィルムとApple Pencil用ペン先のセットの新バージョン「Rock Paper Pencil 4.0」を発表しました。新たにソフトなグラファイト鉛筆の感触を模した2B鉛筆風のペン先が追加され、スケッチや網掛けに最適な紙のような適度な抵抗感を実現しています。また、滑らかなジェルペンのようなボールペン先のペン先も付属し、NanoCling技術を用いた着脱可能な保護フィルムと合わせて利用できます。"
     }
   ],
-  "updatedAt": "2026-09-07T01:05:18.156Z",
+  "updatedAt": "2026-09-07T06:03:01.399Z",
   "initialized": true,
   "summaryVersion": 4
 }
