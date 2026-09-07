@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "a8f74ceb86f6626b4091",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple invites developers to submit browser interoperability ideas for Interop 2027",
+      "url": "https://9to5mac.com/2026/09/07/apple-invites-developers-to-submit-browser-interoperability-ideas-for-interop-2027/",
+      "publishedAt": "2026-09-07T20:31:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/safari-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Interop 2027に向けたブラウザ相互運用性のアイデアを募集",
+      "summaryJa": "AppleのWebKitチームは、クロスブラウザの相互運用性を向上させる取り組み「Interop 2027」に向けたアイデアの募集を開始しました。GoogleやMicrosoftなどの主要ブラウザメーカーと協力し、ウェブ標準の改善を目指す年間プロジェクトの一環です。開発者からの提案は9月23日まで受け付けられ、テスト可能な成熟したウェブ標準に基づいていることが求められます。"
+    },
+    {
       "id": "96f5c1f0ba87198c2495",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "iPhone 18 Proが持つUltraモデルに対する優位性",
       "summaryJa": "Appleが将来投入すると噂される新型のフラッグシップ機において、iPhone 18 Proがより高価格なiPhone Ultraモデルに対して持つ複数の優位性が報じられています。主な違いとして、可変絞りに対応するメインカメラや、Pro Maxシリーズにおける長持ちなバッテリー、そしてFace IDの継続採用などが挙げられています。"
-    },
-    {
-      "id": "c676107385dd2a7a26e3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's New Macs to Ship With macOS Golden Gate",
-      "url": "https://www.macrumors.com/2026/08/27/new-macs-to-ship-with-macos-golden-gate/",
-      "publishedAt": "2026-08-27T14:12:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型MacはmacOS Golden Gateを搭載して出荷か",
-      "summaryJa": "今週Appleが発表した新しいMac miniやMac Studioなどのモデルには、macOS Golden Gateがプレインストールされて出荷される予定であると伝えられています。製品ページやFCCの関連ドキュメントからもSiri AIなどの最新機能への対応が示唆されており、正式リリースに向けた動向が注目されています。"
     }
   ],
-  "updatedAt": "2026-09-07T17:48:05.894Z",
+  "updatedAt": "2026-09-07T20:53:04.679Z",
   "initialized": true,
   "summaryVersion": 4
 }
