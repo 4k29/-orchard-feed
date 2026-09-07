@@ -1,6 +1,156 @@
 {
   "articles": [
     {
+      "id": "96f5c1f0ba87198c2495",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: Apple TV working on spin-off to its hit series Silo",
+      "url": "https://9to5mac.com/2026/09/07/report-apple-tv-working-on-silo-spin-off/",
+      "publishedAt": "2026-09-07T17:15:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-silo.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVの人気ドラマ「SILO：サイロ」のスピンオフが開発中か",
+      "summaryJa": "Apple TVのSF大ヒットドラマ「SILO：サイロ」について、新たなスピンオフ作品が開発されていると報じられています。信頼できる情報筋によると、サイロのセットが撮影終了後も解体されずに残されていることから、将来的な再利用が計画されている可能性が高いと見られています。原作小説に基づくサイロ40の出来事を描く内容になるとみられ、公式発表はまだありませんが今後の展開に注目が集まっています。"
+    },
+    {
+      "id": "681c443e20a2a92f4b55",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Five iPhone 18 Pro Camera Features Seemingly Leak in Code",
+      "url": "https://www.macrumors.com/2026/09/07/five-iphone-18-pro-camera-features-seemingly-leak/",
+      "publishedAt": "2026-09-07T16:07:47.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-dark-blue-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "次期iPhone Pro向けカメラの新機能がベータ版コードから判明か",
+      "summaryJa": "iOSのベータ版コードの解析から、将来のiPhone Proモデル向けとみられるカメラアプリの改良機能が複数発見されました。露出を判断するための波形やヒストグラム表示、ピントのエッジを強調するフォーカスピーキング、連続セルフタイマー撮影機能などが含まれています。マニュアルフォーカスの制御や新しい画像補正処理などもテストされており、今後のソフトウェアアップデートや新機種での実装が期待されています。"
+    },
+    {
+      "id": "20a83549e01f2a17f1cc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Leak Hints at Four New Features for Apple Watch Series 12 and Ultra 4",
+      "url": "https://www.macrumors.com/2026/09/07/leak-hints-at-four-new-apple-watch-features/",
+      "publishedAt": "2026-09-07T15:58:06.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-watch-series-12.png",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch次期モデルの機能がwatchOSベータ版から浮上",
+      "summaryJa": "watchOSおよびiOSのベータ版コードから、次期Apple Watchシリーズに向けたとみられるいくつかの新機能が明らかになりました。コード内には新しい「Readiness」アプリのほか、筋トレの詳細な記録機能や、パルス信号の読み取りを改善する新しい光学センサーシステムが含まれています。さらに、内蔵ストレージが従来の64GBから128GBへと倍増する可能性があることも指摘されています。"
+    },
+    {
+      "id": "e9e02ea4b8f8bd640fb1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Xiaomi Announces Foldable iPhone Rival",
+      "url": "https://www.macrumors.com/2026/09/07/xiaomi-announces-foldable-iphone-rival/",
+      "publishedAt": "2026-09-07T15:26:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Xiaomi-18-Fold-image.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Xiaomiが新型折りたたみスマホ「18 Fold」を正式発表",
+      "summaryJa": "中国のXiaomiが、ワイド型の新しい折りたたみスマートフォン「18 Fold」を公式発表しました。外側と内側に高輝度なLTPOディスプレイを搭載し、自社製の3nmプロセスチップやライカ共同開発のカメラを備えています。Samsungの「Galaxy Z Fold8」などに対抗するモデルであり、折りたたみスマートフォン市場における今後の動向に注目が集まっています。"
+    },
+    {
+      "id": "4baf5524cbec944e0b71",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "A foldable Mac is years away, but Apple is still working on it",
+      "url": "https://9to5mac.com/2026/09/07/a-foldable-mac-is-years-away-but-apple-is-still-working-on-it/",
+      "publishedAt": "2026-09-07T14:58:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/Folding-MacBook-would-be-along-the-lines-of-the-Lenovo-Yogabook.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "折りたたみ式Macの登場にはまだ数年かかる見込み",
+      "summaryJa": "Appleが開発を進めていると噂される折りたたみ式の端末について、ハイブリッド端末の構想は一連の機能統合により事実上置き換えられたと指摘されています。しかし、ソフトキーボードがハードウェアの代替として実用的になる技術が整えば、最終的には全画面の折りたたみ式Macが登場するだろうと予測されています。"
+    },
+    {
+      "id": "9e0bd1a78bd42d63eab0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Event Could Hit Apple Shares, KeyBanc Warns",
+      "url": "https://www.macrumors.com/2026/09/07/iphone-18-pro-event-could-hit-apple-shares/",
+      "publishedAt": "2026-09-07T14:33:56.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-surprise-and-shine-event.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの発表イベントが株価に下落圧力をもたらす可能性",
+      "summaryJa": "金融機関のKeyBancが、9月9日に予定されているiPhoneの発表イベントがApple株の下落要因になる可能性があると警告しています。コスト上昇が需要や利益率に与える影響や、一部モデルの大幅な値上げ観測などが投資家の懸念材料になると分析されており、過去の傾向からも発表前後に株価が調整するアノマリーが指摘されています。"
+    },
+    {
+      "id": "59225cc53ad59522e34f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro appears to show new colors in a retail store, but likely fake",
+      "url": "https://9to5mac.com/2026/09/07/iphone-18-pro-appears-to-show-new-colors-in-a-retail-store-but-likely-fake/",
+      "publishedAt": "2026-09-07T13:30:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-18-Pro-appears-to-show-new-colors-in-a-retail-store-but-likely-fake.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "店舗でのiPhone 18 Pro新色リーク動画、フェイクの可能性が高いと指摘",
+      "summaryJa": "実績のあるリーク情報発信者が共有した、店頭でのiPhone 18 Proの新色とみられる端末をとらえた短い動画について、ほぼ確実にフェイクであると報じられています。映像の不自然な店舗環境や、流通している精巧なモックアップの存在を考慮すると、実際に本物のデモ機が流出した可能性は低いとみられています。"
+    },
+    {
+      "id": "72011ccdb8712d137a88",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "All of the best Apple Labor Day deals: AirPods, Mac, charging gear, accessories, more",
+      "url": "https://9to5mac.com/2026/09/07/best-apple-labor-day-deals/",
+      "publishedAt": "2026-09-07T13:00:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-Labor-Day-deals-2026.png?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPodsやMacなど、Apple製品がセールで大幅値引きに",
+      "summaryJa": "労働者の日の祝日に合わせてAmazonやBest Buyなどの大規模セールが開催され、多くのApple製品が特別価格で販売されています。AirPods Pro 3やAirPods Max 2、AirTag 2のほか、新型のM6 Mac miniやM5 MacBook Airなどもセール対象となり、お得に購入できる最後のチャンスとなっています。"
+    },
+    {
+      "id": "1d1a40b36fa555fe3982",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "How do Apple Refurbished products compare with Amazon and Walmart?",
+      "url": "https://9to5mac.com/2026/09/07/how-do-apple-refurbished-products-compare-with-amazon-and-walmart/",
+      "publishedAt": "2026-09-07T12:50:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Refurbished-store.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple認定整備済製品と他社リユース品の比較",
+      "summaryJa": "Appleの認定整備済製品は、新品同様の品質や1年間の正規保証が付く信頼性の高い選択肢です。一方、AmazonやWalmartなどの他社リユース品は価格が手頃な場合があるものの、外観の傷やバッテリー容量の低下、短い保証期間などの違いがあります。購入を検討する際は、それぞれの基準や保証内容をしっかりと理解することが重要です。"
+    },
+    {
+      "id": "29c67d66d61b3cb45d14",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Three new iPhones launch this week, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/09/07/three-new-iphones-launch-this-week-heres-whats-coming/",
+      "publishedAt": "2026-09-07T12:23:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、9月のイベントで新型iPhoneを発表か",
+      "summaryJa": "今週水曜日に開催されるAppleのイベントでは、iPhone 18 Proシリーズや折りたたみ式モデルと噂されるiPhone Ultraなど、3つの新型iPhoneが登場すると報じられています。新モデルにはA20 Proチップやカメラ性能の大幅な向上、バッテリー駆動時間の改善などが期待されています。詳細な仕様や価格設定についてもイベントでの正式発表に注目が集まっています。"
+    },
+    {
       "id": "170b57fd95d63172bc3f",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4353,160 +4503,9 @@
       ],
       "titleJa": "新型MacはmacOS Golden Gateを搭載して出荷か",
       "summaryJa": "今週Appleが発表した新しいMac miniやMac Studioなどのモデルには、macOS Golden Gateがプレインストールされて出荷される予定であると伝えられています。製品ページやFCCの関連ドキュメントからもSiri AIなどの最新機能への対応が示唆されており、正式リリースに向けた動向が注目されています。"
-    },
-    {
-      "id": "078e4178702d7340b1a2",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "「Sneaky Sasquatch」のエキサイティングなアップデートがApple Arcadeに登場",
-      "url": "https://www.apple.com/jp/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
-      "publishedAt": "2026-08-27T14:00:20.256Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple ArcadeのSneaky Sasquatchが大型アップデート",
-      "summaryJa": "Apple Arcadeの人気タイトル「Sneaky Sasquatch」が「Subway Surfers+」との期間限定コラボレーションを開始しました。ゲーム内には専用のスキンやホバーボードが登場し、ラクーンコインなどの特別要素が追加されています。また、9月17日には多数の鳥を撮影して報酬を得られるバードウォッチングの追加アップデートも控えています。"
-    },
-    {
-      "id": "1d72933ac3b5252aa575",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
-      "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
-      "publishedAt": "2026-08-27T13:59:18.486Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple Arcade、人気ゲーム「Sneaky Sasquatch」の大型アップデートを配信",
-      "summaryJa": "Apple Arcadeの人気ゲーム「Sneaky Sasquatch」が、Subway Surfers+との限定コラボレーションや新機能となるバードウォッチングの追加を含む大型アップデートを配信しました。10月7日までの期間限定で、おなじみの世界観がサスクワッチ仕様に変更され、専用のスキンやホバーボードなどが登場します。アトレや熱心なコミュニティに向けて、今後も魅力的なアップデートが予定されています。"
-    },
-    {
-      "id": "7ba335324cb1e89359af",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "2026 MacBook Pro Sees Up to $500 Discounts at Amazon and Best Buy",
-      "url": "https://www.macrumors.com/2026/08/27/macbook-pro-500-discounts/",
-      "publishedAt": "2026-08-27T13:57:21.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/macbook-pro-spring.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "2026年型MacBook ProがAmazonとBest Buyで最大500ドルの割引に",
-      "summaryJa": "AmazonとBest Buyにおいて、M5 ProおよびM5 Maxチップを搭載した2026年モデルのMacBook Proが大幅な割引価格で販売されています。一部の構成では過去のセール価格からさらに値下がりし、最大500ドルの割引が適用されています。14インチおよび16インチの複数のモデルが対象となっており、Labor Dayセールに合わせてお得に購入できるチャンスとなっています。"
-    },
-    {
-      "id": "df0629ab0c1ddde427c7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple has announced 11 new products in 2026 so far, with more coming soon",
-      "url": "https://9to5mac.com/2026/08/27/apple-has-announced-11-new-products-in-2026-so-far-with-more-coming-soon/",
-      "publishedAt": "2026-08-27T13:25:36.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/tim-cook-apple-park-rainbow-night.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、2026年に早くも11の新製品を発表し秋のイベントへ",
-      "summaryJa": "Appleは2026年に入り、1月のAirTag 2をはじめ、3月の多数の新製品発表や8月のMacアップデートなど、すでに11のハードウェア製品を市場に投入しています。春にはiPhone 17eやM4 iPad Air、新型MacBookなどが登場し、今年は勢いのある展開を見せています。最大の発表イベントをまだ控えていることから、今後の動向にも注目が集まっています。"
-    },
-    {
-      "id": "ac6df3828229671144e6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Adobe Photoshop adds optional ‘AI Assisted Editor’ mode for fully prompt-based image editing",
-      "url": "https://9to5mac.com/2026/08/27/adobe-photoshop-adds-optional-ai-assisted-editor-mode-for-fully-prompt-based-image-editing/",
-      "publishedAt": "2026-08-27T13:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/photoshop-ai-assisted.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Adobe Photoshop、テキスト指示で編集できる「AI Assisted Editor」をベータ提供",
-      "summaryJa": "Adobeは、Photoshop向けにプロンプトベースで直感的な画像編集が行える新機能「AI Assisted Editor」のベータ版を発表しました。メニューバーから切り替え可能なこのモードでは、複雑な手動操作を省き、自然言語や簡単な描き込みだけで背景の削除や画像の拡張などが可能です。Adobe Fireflyを活用した高度な生成AI機能により、初心者からプロまで効率的な作業をサポートします。"
-    },
-    {
-      "id": "56b5c13a5d5aa2054899",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Announces Sneaky Sasquatch Updates, Files New Trademarks",
-      "url": "https://www.macrumors.com/2026/08/27/apple-seeks-sneaky-sasquatch-trademark-merchandise/",
-      "publishedAt": "2026-08-27T12:44:45.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-Arcade-Sneaky-Sasquatch-hero-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Arcadeの人気作「Sneaky Sasquatch」が大型アプデや商標出願を発表",
-      "summaryJa": "Appleは、Apple Arcadeで人気のゲーム「Sneaky Sasquatch」において、「Subway Surfers+」とのクロスオーバーや30種類以上の野鳥を撮影できる新たなバードウォッチングアップデートの配信を発表しました。さらに、EUや米国で同タイトルのアパレルやグッズ、映像作品などに関連する商標を出願していることが明らかになっています。これにより、同タイトルのグッズ展開やメディア展開がさらに広がる可能性があります。"
-    },
-    {
-      "id": "99a633ae26339d5997a5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple expands educational program for its supply-chain workers in Vietnam",
-      "url": "https://9to5mac.com/2026/08/27/apple-expands-educational-program-for-its-supply-chain-workers-in-vietnam/",
-      "publishedAt": "2026-08-27T12:42:50.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-expands-educational-program-for-its-supply-chain-workers-in-Vietnam.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、ベトナムのサプライチェーン労働者向け教育プログラムを拡充",
-      "summaryJa": "Appleは、サプライチェーンで働く労働者を支援する5000万ドルの教育基金「Supplier Employee Development Fund」の拡大を発表し、ベトナムに新たなApple教育センターを開設しました。ハノイ工科大学との提携により運営されるこの施設では、スマート製造の基礎やロボティクス、自動化技術などの実践的なスキルプログラムが提供されます。サプライチェーンの労働環境改善やスキル向上を目指す取り組みの一環として展開されています。"
-    },
-    {
-      "id": "e08b7bfd721d5f818c80",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Unprecedented teen protections on Instagram see $18B lawsuit settled",
-      "url": "https://9to5mac.com/2026/08/27/unprecedented-teen-protections-on-instagram-see-18b-lawsuit-settled/",
-      "publishedAt": "2026-08-27T11:51:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Unprecedented-teen-protections-on-Instagram-see-18B-lawsuit-settled.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Meta、Instagramの十代向け保護機能巡る180億ドルの訴訟で和解",
-      "summaryJa": "Metaは、Instagramが十代の若者たちに意図的な依存を引き起こしているとして米国各州から起こされていた180億ドルの訴訟について和解に合意しました。和解金は若者の安全性向上イニシアチブなどに充てられるほか、18歳未満のユーザーを対象とした前例のない利用制限機能が導入されます。具体的には、デフォルトでの1日の利用時間制限や、深夜帯のアクセス制限、学校の授業時間中の通知ミュートなどが適用される予定です。"
-    },
-    {
-      "id": "f4b988c34ab1275de2d6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Event Logo Hints at Two iPhone 18 Pro Features",
-      "url": "https://www.macrumors.com/2026/08/27/apple-event-hints-iphone-18-pro-features/",
-      "publishedAt": "2026-08-27T11:46:03.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-Surprise-Shine.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleのイベントロゴ、iPhone 18 Proの新機能や新色を匂わせか",
-      "summaryJa": "Appleが開催するイベントの招待状に描かれたロゴが、次期「iPhone 18 Pro」の新たな機能と新色を示唆していると報じられています。Bloombergのマーク・ガーマン記者によれば、ロゴの背後にある光の演出は「iPhone 18 Pro Max」に搭載されると噂されるメカニカルな可変絞りカメラを表現しており、招待状のスカイブルーの色合いは新しい本体カラーの可能性を指しているとのことです。発表イベントは約2週間後に迫っており、実際の詳細に注目が集まっています。"
-    },
-    {
-      "id": "9b0e006265e5f9331241",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Announces New Education Center in Vietnam",
-      "url": "https://www.macrumors.com/2026/08/27/apple-announces-new-education-center-in-vietnam/",
-      "publishedAt": "2026-08-27T11:27:58.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-manufacturing-education-hub-vietnam-hanoi-factory.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、ベトナムに新しい教育センターを開設へ",
-      "summaryJa": "Appleはベトナムのハノイ工科大学と提携し、同国初となるApple教育センターの開設を発表しました。サプライチェーンの従業員を対象に、製造やロボット工学などの専門スキルやリーダーシップを育成するためのトレーニングプログラムを提供します。この取り組みは、Appleのサプライヤー従業員開発基金によって資金提供される最新のプロジェクトとなっています。"
     }
   ],
-  "updatedAt": "2026-09-07T12:21:43.365Z",
+  "updatedAt": "2026-09-07T17:48:05.894Z",
   "initialized": true,
   "summaryVersion": 4
 }
