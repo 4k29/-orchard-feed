@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "170b57fd95d63172bc3f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro: Nine Reasons Not to Upgrade This Year",
+      "url": "https://www.macrumors.com/2026/09/07/iphone-18-pro-reasons-not-to-upgrade-this-year/",
+      "publishedAt": "2026-09-07T12:01:37.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/All-Screen-iPhone-2030-Feature-Sans-Text.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proを見送り翌年を待つべき9つの理由",
+      "summaryJa": "今秋発表が噂されるiPhone 18 Proモデルは、前世代から大きな変更がない小幅なアップデートにとどまると予想されています。一方で、翌年には記念すべき次世代iPhoneとして、四辺が湾曲したオールガラスデザインや先進的なOLED技術、画面下埋め込み型Face IDなどの大幅な刷新が計画されていると報じられています。そのため、今年のモデルからのアップグレードを思い止まる理由になる可能性があると伝えられています。"
+    },
+    {
+      "id": "84edc9958ec5a549acb3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Reports describe two ways for Apple to make more money; only one is good",
+      "url": "https://9to5mac.com/2026/09/07/reports-describe-two-ways-for-apple-to-make-more-money-only-one-is-good/",
+      "publishedAt": "2026-09-07T11:43:38.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Reports-describe-two-ways-for-Apple-to-make-more-money.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの収益拡大策、ホームセキュリティとApp Store強化の評価",
+      "summaryJa": "Appleがサービス部門の収益を拡大させるための2つの異なる経路について報じられています。1つ目はプライバシーを重視したAIを活用した新しいホームセキュリティおよび見守りサービスであり、これは歓迎すべき方向性だと評価されています。しかし2つ目のApp Storeからの収益や利益率をさらに絞り出そうとする動きについては、世界的な独占禁止法の規制や開発者との関係悪化を招く大きな間違いであると指摘されています。"
+    },
+    {
+      "id": "75e882213d83f6a0acf0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Plans to Squeeze More Revenue From the App Store, Report Says",
+      "url": "https://www.macrumors.com/2026/09/07/apple-squeeze-more-revenue-from-app-store/",
+      "publishedAt": "2026-09-07T10:19:14.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/12/Liquid-Glass-App-Store-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、App Storeからの収益化強化を模索か",
+      "summaryJa": "AppleがApp Storeからの収益をさらに高め、継続的な収入を増やすための新たな方法を模索していると報じられています。新最高経営責任者であるジョン・ターナス氏とサービス部門の責任者であるエディ・キュー氏がこの取り組みを主導しているとされています。一方で、長年App Storeを率いてきたフィル・シラー氏は、こうした方針が開発者や政府との摩擦を招くだけだと懸念し、この動きに関わることを避けて担当から離れたと伝えられています。"
+    },
+    {
+      "id": "ff866468b8d4812a0a86",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Tim Cook Won't Appear in Apple's September 9 Event Video",
+      "url": "https://www.macrumors.com/2026/09/07/tim-cook-wont-appear-apple-sept-9-event-video/",
+      "publishedAt": "2026-09-07T09:27:45.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Tim-Cook-Executive-Chair-16x9-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "ティム・クック氏、9月9日のイベント動画には出演せず",
+      "summaryJa": "9月1日に執行役に就任したティム・クック氏は、今週水曜日に開催されるAppleのイベント上映会には出席するものの、イベントの映像自体には出演しないと報じられています。Appleは新最高経営責任者となったジョン・ターナス氏を今後の新製品の顔として前面に出す移行を慎重に進めており、クック氏の出演はそれを損なう可能性があるためだと伝えられています。"
+    },
+    {
+      "id": "5c0a1333b8cef44f3b26",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV leads Emmys wins so far, with Widows Bay set for awards sweep",
+      "url": "https://9to5mac.com/2026/09/07/apple-tv-leads-emmys-awards-widows-bay/",
+      "publishedAt": "2026-09-07T09:17:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/widows-bay-cast-creepy.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVがエミー賞のクリエイティブ・アーツ部門で最多の20勝を獲得",
+      "summaryJa": "テレビ界の権威あるエミー賞のクリエイティブ・アーツ部門の受賞結果が発表され、Apple TVが過去最多となる20勝を記録して首位に立ちました。特に話題のコメディシリーズ「Widows Bay」が8つの賞を獲得するなど、コメディ部門を中心に高く評価されています。プライムタイム・エミー賞の主要部門の発表は9月14日に控えており、さらなる受賞への期待が高まっています。"
+    },
+    {
       "id": "643ae23e5074ab5396ed",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4429,84 +4504,9 @@
       ],
       "titleJa": "Apple、ベトナムに新しい教育センターを開設へ",
       "summaryJa": "Appleはベトナムのハノイ工科大学と提携し、同国初となるApple教育センターの開設を発表しました。サプライチェーンの従業員を対象に、製造やロボット工学などの専門スキルやリーダーシップを育成するためのトレーニングプログラムを提供します。この取り組みは、Appleのサプライヤー従業員開発基金によって資金提供される最新のプロジェクトとなっています。"
-    },
-    {
-      "id": "c4f1bbf122ae759ce352",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple says these three things can speed up the new Spotlight indexing",
-      "url": "https://9to5mac.com/2026/08/26/apple-says-these-three-things-can-speed-up-the-new-spotlight-indexing/",
-      "publishedAt": "2026-08-27T02:24:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/indexing-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、新しいSpotlightのインデックス作成を高速化する3つの条件を解説",
-      "summaryJa": "Appleは、各デバイスでSpotlightのインデックス作成を迅速に完了させるためのサポート文書を公開しました。データ量が多い場合、処理には数時間から数日かかることがありますが、デバイスを使用していない状態にし、電源とWi-FiまたはEthernetに接続することでプロセスがより早く完了すると説明しています。"
-    },
-    {
-      "id": "c4ab6a1ff720f38bc0e6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "The best displays to pair with your new Mac mini or Mac Studio",
-      "url": "https://9to5mac.com/2026/08/26/best-new-mac-displays/",
-      "publishedAt": "2026-08-27T00:28:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Asus-ProArt-Display-6K-Review.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Mac miniやMac Studioに最適な外部ディスプレイの推薦モデル",
-      "summaryJa": "新しく購入したMac miniやMac Studioに組み合わせるおすすめの外部ディスプレイを紹介しています。27インチ5K Retinaディスプレイを搭載したAppleのStudio Displayをはじめ、価格帯や機能に応じた様々な製品がピックアップされています。"
-    },
-    {
-      "id": "412b65e1f13367610e91",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "LM Studio adds GLM-5.3-Flash to Bionic, with image support and 1M-token context",
-      "url": "https://9to5mac.com/2026/08/26/lm-studio-adds-glm-5-3-flash-to-bionic-with-image-support-and-1m-token-context/",
-      "publishedAt": "2026-08-27T00:10:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/lm-studio-bionic.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "LM Studio、BionicプラットフォームにGLM-5.3-Flashモデルを追加",
-      "summaryJa": "AIエージェントプラットフォームのLM Studio Bionicに、Z.aiの新しい「GLM-5.3-Flash」モデルが追加されました。このモデルはマルチモーダル入力や100万トークンのコンテキストウィンドウをサポートし、従来モデルよりも大幅に低いコストで利用可能となっています。"
-    },
-    {
-      "id": "6ecbc0d7943fbb608562",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "PSA: Proton Mail and other Proton platforms facing widespread outage [U: Fixed]",
-      "url": "https://9to5mac.com/2026/08/26/psa-proton-mail-and-other-proton-platforms-facing-widespread-outage/",
-      "publishedAt": "2026-08-26T23:45:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2022/12/biggest-internet-outages.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Proton Mailなどで大規模なサービス障害が発生ののち復旧",
-      "summaryJa": "Proton MailやProton VPNなどのプラットフォームで大規模な障害が発生しました。エンジニアチームによる対応の結果、サービスはオンラインに復帰し大部分が解消されましたが、一部のユーザーではメールの送受信や通知に遅れが生じているとのことです。"
-    },
-    {
-      "id": "b482162e716ab5b2b1e9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's iPhone Event Tagline is Different in Every Country",
-      "url": "https://www.macrumors.com/2026/08/26/apple-iphone-event-taglines/",
-      "publishedAt": "2026-08-26T23:41:10.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Surprise-and-Shine-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AppleのiPhoneイベント、各国で異なるキャッチコピーを採用",
-      "summaryJa": "Appleが開催する恒例のiPhoneイベントに向けて、各国・地域別の公式ウェブサイトで様々なキャッチコピーが使われていることが明らかになりました。米国などでは「Surprise and Shine」が採用されていますが、直訳ではなく各国の言語や文化に合わせて異なる表現にローカライズされています。例えば、フランスやスペイン、イタリア、ブラジルなどではそれぞれ独自のニュアンスを持つフレーズが設定され、世界各地で異なる演出が行われています。"
     }
   ],
-  "updatedAt": "2026-09-07T06:03:01.399Z",
+  "updatedAt": "2026-09-07T12:21:43.365Z",
   "initialized": true,
   "summaryVersion": 4
 }
