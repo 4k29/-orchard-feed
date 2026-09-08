@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "b8b4a6ecfc40b9c32a64",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New Apple TV 4K will be more powerful upgrade than we thought, per leak",
+      "url": "https://9to5mac.com/2026/09/08/new-apple-tv-4k-will-be-more-powerful-upgrade-than-we-thought-per-leak/",
+      "publishedAt": "2026-09-08T18:25:25.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-tv-4k-tvos-26-lg.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新型Apple TV 4KにはA19チップ搭載の可能性か",
+      "summaryJa": "次期Apple TV 4Kには、当初噂されていたよりも強力なA19またはA19 Proチップが搭載される可能性があると報じられています。コード内から発見された識別子によると、iPhone 17シリーズと同等のプロセッサを採用し、Apple Intelligenceを強力にサポートする見込みです。長らくハードウェアの更新が途絶えていた同モデルの大幅な性能向上が期待されます。"
+    },
+    {
+      "id": "a45e9b3a888f37ec3d6d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases iOS 26.6.2",
+      "url": "https://www.macrumors.com/2026/09/08/apple-releases-ios-26-6-2/",
+      "publishedAt": "2026-09-08T17:47:02.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-26-6-2.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、セルラー回線でのアップデート不具合を修正するiOS 26.6.2を配信開始",
+      "summaryJa": "Appleは、セルラー回線経由でのソフトウェアアップデートのダウンロードに失敗する不具合を修正したiOS 26.6.2をリリースしました。このマイナーアップデートはiPhone 11以降を対象に現在配信されており、同時に同じ修正を含むiPadOS 26.6.2も公開されています。今月後半に控える大規模な次期OSリリースへの円滑な移行に向けた重要な修正となっています。"
+    },
+    {
+      "id": "0cc234deb617900fa5c7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "tvOS 27 removes a feature that some Apple TV users might miss after updating",
+      "url": "https://9to5mac.com/2026/09/08/tvos-27-removes-a-feature-that-some-apple-tv-users-might-miss-after-updating/",
+      "publishedAt": "2026-09-08T17:39:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/tvos-27-apple-tv-4k-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "tvOS 27のPodcastアプリでカスタムURLによる番組追加機能が削除か",
+      "summaryJa": "今月後半にリリースされるtvOS 27では、Podcastアプリが一新され新しいビデオ配信技術に対応する一方で、カスタムURLで追加した番組のサポートが削除されることが分かりました。有料Podcastのメンバーシップ用フィードなどがApple TV上で利用できなくなります。なお、この制限はtvOS 27が導入される第2および第3世代のApple TV 4Kが対象となっています。"
+    },
+    {
+      "id": "cc0e19e2b09e8446d6d4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases iOS 26.6.2 for iPhone, here’s what’s new",
+      "url": "https://9to5mac.com/2026/09/08/apple-releases-ios-26-6-2-for-iphone-heres-whats-new/",
+      "publishedAt": "2026-09-08T17:36:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、セルラー回線の不具合を修正するiOS 26.6.2を公開",
+      "summaryJa": "Appleは大規模な新製品発表イベントを前に、iPhone向けにiOS 26.6.2の配信を開始しました。今回のアップデートでは、セルラー回線を通じたソフトウェアアップデートのダウンロードができない不具合が修正されています。まもなく登場予定の次期iOS 27へのスムーズな移行を見据え、ユーザーが事前に問題を解消できるようにタイムリーに提供されました。"
+    },
+    {
+      "id": "8b3a768a1d8548c30f8c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch SE 3 is now unavailable ahead of launch event",
+      "url": "https://9to5mac.com/2026/09/08/apple-watch-se-3-is-now-unavailable-ahead-of-launch-event/",
+      "publishedAt": "2026-09-08T17:25:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-Watch-SE-3-launch-deals.webp?w=1400",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch SE 3が公式サイトで突然購入不可に",
+      "summaryJa": "Apple公式サイトにおいて、Apple Watch SE 3の全構成が一時的に購入不可の状態になっていると報じられています。明日開催される大型発表イベントを前に在庫が引き上げられた形ですが、今回は新型モデルの登場予定が事前になかったため、システム上の不具合か何らかのサプライズ発表があるのか注目されています。"
+    },
+    {
+      "id": "656078f561cfeec142ab",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Event Tomorrow: iPhone 18 Pro and iPhone Ultra Cheat Sheet",
+      "url": "https://www.macrumors.com/2026/09/08/apple-event-week-iphone-18-pro-cheat-sheet/",
+      "publishedAt": "2026-09-08T17:24:56.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proおよび折りたたみモデルの最新情報まとめ",
+      "summaryJa": "明日に迫ったAppleの大型イベントを前に、次世代のiPhone 18 Proシリーズや折りたたみ式の新型モデルに関する噂がまとめて伝えられています。デザインの変更点やA20 Proチップ、カメラ機能の強化、メモリ容量の増大など、数多くのアップグレード情報や仕様の予想が浮上しています。"
+    },
+    {
+      "id": "31e138b56855aa44a899",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Next Apple TV's Chip Revealed in Latest Leak",
+      "url": "https://www.macrumors.com/2026/09/08/next-apple-tv-chip-leak/",
+      "publishedAt": "2026-09-08T17:19:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Where-is-the-New-Apple-TV-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "次期Apple TVのプロセッサに関する新たなリーク情報",
+      "summaryJa": "Appleのコード内から発見された情報をもとに、次期Apple TV 4KにはA19またはA19 Proチップが搭載されると報じられています。現行モデルからメモリ容量も大幅に増加するほか、SiriによるAI機能のサポートやWi-Fi 7に対応した独自ワイヤレスチップの搭載などが噂されています。"
+    },
+    {
+      "id": "ca1eb5edec48356ea4e2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch SE 3 is Suddenly Unavailable",
+      "url": "https://www.macrumors.com/2026/09/08/apple-watch-se-3-currently-unavailable/",
+      "publishedAt": "2026-09-08T17:00:37.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/Apple-Watch-SE-3-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch SE 3が国内外のオンラインストアで品切れに",
+      "summaryJa": "米国などのAppleオンラインストアにて、Apple Watch SE 3のほとんどの構成が突然購入できない状態になっていると伝えられています。今週開催される新製品発表イベントとの関連性が注目されていますが、これまでのサイクルから新型の登場は予想されておらず、一時的な在庫問題の可能性もあります。"
+    },
+    {
+      "id": "81bfba52ebbb4240cfc3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirPods Turn 10",
+      "url": "https://www.macrumors.com/2026/09/08/airpods-turn-10/",
+      "publishedAt": "2026-09-08T16:37:49.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/12/Original-AirPods-iPhone-7.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "初代AirPodsの発表から10年が経過",
+      "summaryJa": "Appleが初代AirPodsを2016年9月に発表してから10年が経過しました。当時、同時に発表されたiPhone 7シリーズでヘッドホンジャックが廃止されたことは大きな議論を呼びました。現在でもAppleは、様々なデバイス向けに有線イヤホンのEarPodsを販売し続けています。"
+    },
+    {
+      "id": "dd0f869ca0678f301b1e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Slow Horses season 6 hailed as ‘the best one yet’ in first reviews",
+      "url": "https://9to5mac.com/2026/09/08/slow-horses-season-6-hailed-as-the-best-one-yet-in-first-reviews/",
+      "publishedAt": "2026-09-08T16:20:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/slow-horses-s6-lamb-cartwright.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVの人気ドラマ『窓際のスパイ』シーズン6に絶賛の声",
+      "summaryJa": "Apple TVで配信される人気スパイシリーズ『窓際のスパイ』シーズン6について、初期のレビューで「これまでで最高傑作」との高い評価が寄せられています。新体制のもと制作された今回は、毎話のように驚きの展開が用意されており、9月16日の初回配信を皮切りに順次公開されます。"
+    },
+    {
+      "id": "d68c006fd9a99c776af8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Google Chrome starts two-week release cycle with version 153",
+      "url": "https://9to5google.com/2026/09/08/chrome-updates-two-weeks/",
+      "publishedAt": "2026-09-08T16:14:58.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/google-chrome-logo-circle-4.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Google Chrome、バージョン153から2週間ごとのリリースサイクルへ移行",
+      "summaryJa": "Googleは、予告していた通りGoogle Chromeのアップデートサイクルを刷新し、バージョン153から2週間ごとのリリースを開始しました。これにより、新機能や修正がこれまでよりも早いペースで提供されることになります。"
+    },
+    {
+      "id": "e7622e118112ae46e502",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple to Introduce All-New 'Readiness' App Tomorrow",
+      "url": "https://www.macrumors.com/2026/09/08/apple-to-announce-readiness-app/",
+      "publishedAt": "2026-09-08T15:55:52.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-watch-series-12-activity-rings-fitness.png",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、新アプリ「Readiness」をイベントで発表か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者によると、Appleは「Surprise and Shine」イベントで新しい「Readiness」アプリを発表する見込みです。このアプリはApple WatchのVitalsアプリの派生版となり、WhoopやOuraなどの健康管理デバイスに対抗する狙いがあると報じられています。"
+    },
+    {
       "id": "631beee9f71abdbb7f93",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4323,189 +4503,9 @@
       ],
       "titleJa": "Apple Watch SE（第3世代）が過去最安値に",
       "summaryJa": "Amazonにて、44mm GPSモデルのApple Watch SEが通常279.00ドルから199.99ドルへと大幅に値下げされました。これまでよりも約30ドル安く、40mmモデルの最安値と同等の価格水準となっています。ミッドナイトのアルミニウムケースとスポーツバンドの組み合わせが対象で、在庫限りの非常に珍しいセールとなっています。"
-    },
-    {
-      "id": "8b92b9b8a6689a4fba3a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Pledges Donation for Nepal and Tibet Flood Relief",
-      "url": "https://www.macrumors.com/2026/08/28/apple-pledges-donation-for-flood-relief/",
-      "publishedAt": "2026-08-28T13:03:47.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2022/07/Apple-Park-View.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、ネパールとチベットの洪水被害に対し寄付を表明",
-      "summaryJa": "Appleのティム・クックCEOは、ヒマラヤの氷河崩落による大規模な洪水と土砂崩れが発生したネパールとチベットの救援および復興支援に向けて、寄付を行うことを表明しました。同社による災害支援の表明は過去2ヶ月弱で5回目となります。クック氏はCEOとしての任期終盤を迎えており、9月1日からはジョン・ターナス氏が新CEOに就任し、クック氏は新設されるエグゼクティブ・チェアマンに就任する予定です。"
-    },
-    {
-      "id": "251eb02f476ac6efee72",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV acquires breakout British hit comedy for global streaming",
-      "url": "https://9to5mac.com/2026/08/28/apple-tv-small-prophets-comedy/",
-      "publishedAt": "2026-08-28T12:36:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-tv-small-prophets.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、イギリスで大ヒットしたコメディシリーズの全世界配信権を獲得",
-      "summaryJa": "Apple TVは、BBCで記録的な視聴率を叩き出した話題の新作コメディシリーズ「Small Prophets」の全世界における配信権を獲得したと発表しました。イギリスでの放送から数ヶ月後に権利を買い取るという同社としては異例の形での取得となります。失踪した恋人の謎を追う主人公を描いた本作は、10月7日から米国などで配信が開始され、イギリスでは来年に配信される予定です。"
-    },
-    {
-      "id": "f3d763c1386a223b7278",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Spatial Audio in CarPlay Now Rolling Out in Volvo Vehicles",
-      "url": "https://www.macrumors.com/2026/08/28/volvo-spatial-audio-now-rolling-out/",
-      "publishedAt": "2026-08-28T12:35:53.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/volvo-interior.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "ボルボ、CarPlayでの空間オーディオ対応を「EX90」向けに順次展開",
-      "summaryJa": "ボルボは今週、Dolby AtmosによるCarPlayの空間オーディオサポートを、ソフトウェアアップデートを通じて「EX90」モデルに順次展開していることを明らかにしました。この機能は、今年7月にボルボが詳細を発表していたもので、利用にはオプションのBowers & Wilkinsサウンドシステムが必要となります。"
-    },
-    {
-      "id": "6d1f9238b1ea640729ac",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Labor Day 2026 deals now live: AirPods, M6 Mac mini, AirTag 2, iPhone, more",
-      "url": "https://9to5mac.com/2026/08/28/apple-labor-day-2026-deals-live/",
-      "publishedAt": "2026-08-28T12:18:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-Labor-Day-deals-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Amazon、レイバーデイセールでApple製品を多数割引価格で販売開始",
-      "summaryJa": "Amazonは大規模な2026年レイバーデイセールを正式に開始し、多数のApple製品が割引価格で販売されています。AirPods Pro 3が50ドル引きとなっているほか、AirTag 2やiPhone 17 Pro、Apple Watch SE 3などがセール対象となっています。さらに、新登場のM6 Mac miniなどの製品も早くも割引の対象に含まれており、幅広いカテゴリーでお得な価格となっています。"
-    },
-    {
-      "id": "ea477f96aabdc5b548db",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple pledges donation following deadly floods in Nepal and Tibet",
-      "url": "https://9to5mac.com/2026/08/27/apple-pledges-donation-following-deadly-floods-in-nepal-and-tibet/",
-      "publishedAt": "2026-08-28T03:14:41.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/Trump-says-Apple-will-invest-a-further-100B-in-US-production.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、ネパールとチベットの大規模洪水被災地に寄付を表明",
-      "summaryJa": "Appleのティム・クックCEOは、ヒマラヤ地域の氷河崩壊によってネパールとチベットで発生した大規模な洪水および土砂災害の被災地支援と復興に向け、寄付を行うことを表明しました。同社はこれまでも世界各地で自然災害が発生した際に救援活動への支援を行っており、従業員による寄付マッチングプログラムなども活用して被災地支援を続けています。"
-    },
-    {
-      "id": "a4e79f42e54339fcfbba",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Afterglow brings classic After Dark screen savers to modern Macs",
-      "url": "https://9to5mac.com/2026/08/27/afterglow-brings-classic-after-dark-screen-savers-to-modern-macs/",
-      "publishedAt": "2026-08-28T02:49:54.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/afterglow.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "名作スクリーンセーバー「After Dark」を現代のMacで動かすツールが登場",
-      "summaryJa": "1990年代にMacの定番として親しまれた名作スクリーンセーバー「After Dark」のモジュールを、現代のMac上で手軽に実行できるプロジェクト「Afterglow」が公開されました。開発者のジェフ・ハルター氏によるもので、従来の複雑なエミュレータ設定を不要にし、専用のエミュレーション環境を通じて「フライング・トースター」などの名作アニメーションを現代のmacOS上で楽しむことができます。"
-    },
-    {
-      "id": "c9db18ce5e946cd0d37b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 27, 2026 – AirPods 5 rumors, Apple Maps ads",
-      "url": "https://9to5mac.com/2026/08/27/daily-august-27-2026/",
-      "publishedAt": "2026-08-28T01:04:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Mapsでの広告展開や次期AirPodsの噂を振り返るポッドキャスト配信",
-      "summaryJa": "9to5Macのポッドキャスト番組にて、Appleに関する最新の動向や噂がまとめて報じられました。番組では、Apple Mapsにおける広告機能の展開や、来月に登場する可能性が噂される2つの新しいAirPods 5モデルに関する情報などが取り上げられています。また、次期CEO候補とされるジョン・テナス氏に関するアナリストの予測や、Mac miniの注文に関する話題も議論されました。"
-    },
-    {
-      "id": "23672054bc2f1aded822",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "‘Dark Matter’ season 2 premieres on Apple TV",
-      "url": "https://9to5mac.com/2026/08/27/dark-matter-season-2-premieres-on-apple-tv/",
-      "publishedAt": "2026-08-28T01:01:22.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/dark-matter.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVの人気SFスリラー「ダーク・マター」シーズン2の配信が開始",
-      "summaryJa": "Apple TVの人気SFスリラーシリーズ「ダーク・マター」のシーズン2第1話の配信が開始されました。ジョエル・エドガートンやジェニファー・コネリーらが出演し、別次元の世界に迷い込んだ物理学者の逃避行と家族のドラマを描く全10話の新作となっています。原作小説の人気も高く、シーズン1に続く展開に世界中から注目が集まっています。"
-    },
-    {
-      "id": "8f6b39bb79fd5ec5db26",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Pay is getting even better with four new features and more",
-      "url": "https://9to5mac.com/2026/08/27/apple-pay-is-getting-even-better-with-four-new-features/",
-      "publishedAt": "2026-08-27T23:34:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/apple-pay-header.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Pay、4つの新機能と決済インターフェイスの刷新を導入へ",
-      "summaryJa": "Apple Payは、今後のアップデートや新OSでさらに便利になる4つの新機能を迎えます。ウェブやアプリでの決済画面が刷新され、登録した複数のカード間を簡単にスワイプして切り替えられるようになるほか、アメリカン・エキスプレスとの提携によるリワードポイントの利用も可能になります。さらに、店舗での買い物がよりスムーズになる機能も順次展開される予定です。"
-    },
-    {
-      "id": "947b177db9732e66711e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI renews push to get Apple’s trade secret theft lawsuit tossed",
-      "url": "https://9to5mac.com/2026/08/27/openai-renews-push-to-get-apples-trade-secret-theft-lawsuit-tossed/",
-      "publishedAt": "2026-08-27T23:08:40.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-vs-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAIなど、Appleによる営業秘密侵害の訴訟棄却を裁判所に申し立て",
-      "summaryJa": "OpenAIや元Apple社員らは、Appleが提起した営業秘密の不正流用に関する訴訟について、請求を棄却するよう裁判所に新たな申し立てを行いました。被告側は、Appleが保護対象となる営業秘密を具体的に特定できておらず、損害の立証にも失敗していると主張しています。これに対しApple側は、具体的な不正行為や機密情報の持ち出しについて十分な根拠を示していると反論しており、法的な攻防が続いています。"
-    },
-    {
-      "id": "9acd49e969c424bbb157",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Tim Cook and John Ternus host Pikachu and The Pokémon Company CEO at Apple Park",
-      "url": "https://9to5mac.com/2026/08/27/tim-cook-and-john-ternus-host-pikachu-and-the-pokemon-company-ceo-at-apple-park/",
-      "publishedAt": "2026-08-27T22:24:41.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/cook-ternus-pokemon.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ピカチュウがApple Parkを訪問、ティム・クックCEOらが迎える",
-      "summaryJa": "ポケモン社のチームとピカチュウがApple Parkを訪問し、ティム・クックCEOや次期CEOに内定しているジョン・テナスらがその様子を公開しました。訪問の具体的な目的は明らかにされていないものの、公開された動画ではピカチュウが社内を散策する和やかな雰囲気が伝えられています。今回の交流は、App Storeの成長に影響を与えているとされるモバイルゲームの動向が注目される中で行われました。"
-    },
-    {
-      "id": "5f728f69657974398d7c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Pikachu Visits Apple Park, Meets Tim Cook and John Ternus",
-      "url": "https://www.macrumors.com/2026/08/27/pikachu-apple-park-cook-ternus/",
-      "publishedAt": "2026-08-27T22:10:19.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/cook-ternus-pikachu.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "ピカチュウがApple Parkに登場、ティム・クックCEOらと対面",
-      "summaryJa": "来週にCEO退任を控えるティム・クックが、次期CEOのジョン・テナスとともにポケモン社の一行とピカチュウをApple Parkで出迎えました。公開された動画には、ピカチュウがキャンパス内を歩き回ったりリンゴを採ろうとしたりするユーモラスな姿が収められています。両社の間で具体的な提携内容などは発表されていないものの、Appleのプラットフォームでは複数のポケモン関連ゲームが提供されています。"
     }
   ],
-  "updatedAt": "2026-09-08T15:09:16.363Z",
+  "updatedAt": "2026-09-08T18:42:14.862Z",
   "initialized": true,
   "summaryVersion": 4
 }
