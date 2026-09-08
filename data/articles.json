@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "774e11ed1c8e3ee9f9fa",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work: The printer is the least secure piece of equipment you have",
+      "url": "https://9to5mac.com/2026/09/08/the-printer-is-the-least-secure-piece-of-equipment-you-have/",
+      "publishedAt": "2026-09-08T10:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple @ Work：企業におけるプリンターのセキュリティ課題",
+      "summaryJa": "最新のApple @ Workポッドキャストでは、PharosのKevin Pickhardt氏をゲストに迎え、企業における情報セキュリティの課題について議論しています。特に紙のバックアップや監査証跡周辺のバランス調整など、見落とされがちなセキュリティリスクに焦点を当てています。安全なデバイス運用と管理を考える上で重要な視点を提供しています。"
+    },
+    {
+      "id": "b0c0c667544079cf95c5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Logitech launches $99 MX Keypad for coding and AI workflows",
+      "url": "https://9to5mac.com/2026/09/08/logitech-launches-99-mx-keypad-for-coding-and-ai-workflows/",
+      "publishedAt": "2026-09-08T07:01:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Logi-MX-Keys.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Logitech、コーディング向け9キー搭載「MX Keypad」を発表",
+      "summaryJa": "Logitechは、カスタマイズ可能な9つのフルカラーLCDキーを搭載した「MX Keypad」を99.99ドルで発表しました。専用アプリ「Logi Options+」を通じて、ショートカットやマクロ、AIツールへのアクセスを簡単に割り当てることができます。クリエイター向けの既存コンソールからキーパッド部分だけを独立させ、開発者やAIワークフローを中心に訴求しています。"
+    },
+    {
       "id": "c83973a3e61ffcaad2c4",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -12,9 +42,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "9to5Mac Overtime 080: Six new Apple products",
-      "summaryJa": "Fernando connects from IFA in Berlin to discuss Apple’s forthcoming iPhone Ultra, alongside the five other products that will be announced at this Wednesday’s Surprise and Shine event. Sponsored by Bitwarden: Register for the free, virtual Open Source Security Summit on September 17, featuring cybersecurity leaders David Sanger and Joseph Menn — and check out Bitwarden for trusted open source password, passkey, and secrets management, with end-to-end encryption and seamless autofill across all your devices. more… Fernando connects from IFA in Berlin to discuss Apple’s forthcoming iPhone Ultra, alongside the five other products that will be announced at this Wednesday’s Surprise and Shine event. Sponsored by Bitwarden: Register for the free, virtual Open Source Security Summit on September",
-      "translationStatus": "source"
+      "titleJa": "Appleの新製品やiPhone Ultraの噂をポッドキャストで討論",
+      "summaryJa": "9to5Macのポッドキャスト番組において、ベルリンで開催中のIFAから接続したフェルナンド氏らが、今後噂されているiPhone Ultraや今週の新製品イベントで発表される可能性のある5つの製品について議論しています。番組ではAppleエコシステムに関する興味深い観察や、愛用している周辺機器についても触れられています。"
     },
     {
       "id": "d417727d26c3fd27a2ba",
@@ -4474,39 +4503,9 @@
       ],
       "titleJa": "AmazonでiPhone 17 ProやAirTag 2などApple製品のセールが実施中",
       "summaryJa": "今週はAirTag 2やAirPods Pro 3などの割引に加え、AmazonにてiPhone 17 Proが最大285ドル引きの過去最安値を記録しています。さらに、新発売されたM6 Mac miniのベースモデルや、Anker製のMagSafe対応バッテリーなどの関連アクセサリもお買い得価格で販売されています。新型モデルの登場を控える中、現行モデルをお得に入手できる注目のセールとなっています。"
-    },
-    {
-      "id": "0087c56ab45dd4befcc7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "M6 release schedule: Here’s every new Mac and iPad launching next",
-      "url": "https://9to5mac.com/2026/08/27/m6-release-schedule-heres-every-new-mac-and-ipad-launching-next/",
-      "publishedAt": "2026-08-27T15:22:29.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/m6_regular.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "M6搭載MacとiPadの今後のリリーススケジュールか",
-      "summaryJa": "Appleが新型Mac miniに次世代M6チップを投入した中、今後登場するM6搭載MacおよびiPadの噂される発売スケジュールが報じられています。2026年秋にはベースモデルのMacBook ProやiMacが登場し、2027年春にはiPad ProやMacBook Airが刷新される見通しです。M6チップの展開や冷却機構の強化など、今後の製品動向に注目が集まっています。"
-    },
-    {
-      "id": "7e65cde7ceca9416a340",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "LG Labor Day Sale Brings Major Discounts on OLED TVs and Monitors",
-      "url": "https://www.macrumors.com/2026/08/27/lg-labor-day-sale/",
-      "publishedAt": "2026-08-27T15:10:55.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/lg-summer-sale.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "LGがOLEDテレビやモニターの大幅割引セールを実施",
-      "summaryJa": "米国の労働者の日を記念して、LGが公式サイトにてモニターやテレビなどの大型セールを開催しています。割引は自動適用され、一部の2026年型OLED evo AIテレビなどが対象となって大幅な値引きが行われています。在庫が少なくなっている製品もあり、購入者向けの通知機能なども用意されています。"
     }
   ],
-  "updatedAt": "2026-09-08T06:05:45.102Z",
+  "updatedAt": "2026-09-08T11:12:01.781Z",
   "initialized": true,
   "summaryVersion": 4
 }
