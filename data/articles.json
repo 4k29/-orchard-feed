@@ -1,6 +1,187 @@
 {
   "articles": [
     {
+      "id": "631beee9f71abdbb7f93",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "'Small Prophets' Renewed for Season 2 Following Apple TV Deal",
+      "url": "https://www.macrumors.com/2026/09/08/small-prophets-renewed-for-season-2/",
+      "publishedAt": "2026-09-08T14:56:53.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/small-prophets.jpg.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple TV、コメディ番組「Small Prophets」シーズン2の制作を決定",
+      "summaryJa": "Apple TVが世界配給権を獲得したコメディ番組「Small Prophets」のシーズン2制作が決定しました。同社が既存の番組の配信権を獲得するのはこれが初めてとなります。シーズン1は10月7日から世界配信が予定されており、クリエイターのマッケンジー・クルックが引き続き脚本と監督を務めます。"
+    },
+    {
+      "id": "0f5126c8cb17bb993ab3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s latest acquisition is about technology that sounds futuristic",
+      "url": "https://9to5mac.com/2026/09/08/apples-latest-acquisition-is-about-technology-that-sounds-futuristic/",
+      "publishedAt": "2026-09-08T14:55:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/Nothing-CEO-says-Apple-no-longer-creative-smartphone-future-is-a-single-app.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、脳活動を測定する技術を持つSoneraを買収",
+      "summaryJa": "EUの規制当局への提出書類から、Appleが磁気場を測定して脳活動を読み取るウェアラブル向け技術を開発する企業Soneraを買収したことが明らかになりました。この技術は体に触れることなく生体磁場を非侵襲的に測定できるもので、将来のウェアラブル製品やヘルスケア機能への活用が期待されます。"
+    },
+    {
+      "id": "e1b7c0cb2abb369a8fe8",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Sued Over Alleged Face ID Patent Infringement",
+      "url": "https://www.macrumors.com/2026/09/08/apple-sued-over-face-id-patent-infringement/",
+      "publishedAt": "2026-09-08T14:51:22.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/09/face-id.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、Face IDの特許侵害でドイツ企業の傘下から提訴される",
+      "summaryJa": "独BASFの傘下企業であるtrinamiXが、Face IDに使用されている顔認証技術の特許を侵害されたとして、テキサス州の裁判所でAppleを提訴しました。訴状によると、同社は写真やマスクなどによる不正な顔認証回避を防ぐための技術を長年開発しており、近年のiPhoneやiPadがこれらの特許を侵害していると主張しています。"
+    },
+    {
+      "id": "18de9361ae76e3decee9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Arcade Adds 'Pusheen's Place' and Four More Games in October",
+      "url": "https://www.macrumors.com/2026/09/08/apple-arcade-adds-five-more-games-in-october/",
+      "publishedAt": "2026-09-08T14:34:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/05/Apple-Arcade-new-games-hero.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Arcade、10月に「Pusheen's Place」など新作5タイトルを追加",
+      "summaryJa": "Appleは、Apple Arcadeにて10月から配信される新作ゲーム5タイトルを発表しました。人気キャラクター「うさぎのプシーン」を起用した初の公式ゲーム「Pusheen's Place」をはじめ、「River City Survivors」や「Terraria+」などが追加されます。これらはすべて広告や追加課金なしでプレイ可能です。"
+    },
+    {
+      "id": "ed305e88eecb180eaf87",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Arcade unveils five new games being added soon",
+      "url": "https://9to5mac.com/2026/09/08/apple-arcade-unveils-five-new-games-being-added-soon/",
+      "publishedAt": "2026-09-08T14:25:49.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/11/apple-arcade-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Arcade、10月に新タイトル5作を追加へ",
+      "summaryJa": "Appleは、サブスクリプションサービス「Apple Arcade」において、10月1日より5つの新しいゲームを追加することを発表しました。今回は、人気の「ねこのプシーン」を起用した新作「Pusheen’s Place」や、ゾンビアクションの「River City Survivors」といった完全新作に加え、「テラリア+」などのApp Storeの人気作が広告やアプリ内課金なしの特別版として登場します。"
+    },
+    {
+      "id": "d6620c54f6b37f3a9d84",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Acquires Startup Working on 'Breakthrough Sensing Technology'",
+      "url": "https://www.macrumors.com/2026/09/08/apple-acquires-sonera/",
+      "publishedAt": "2026-09-08T14:15:10.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2014/09/series6leds.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、脳や身体の磁場を測定する技術を持つ新興企業を買収",
+      "summaryJa": "Appleが今年、生体磁気チップの開発を手がける米国の新興企業Soneraを買収していたことが欧州委員会の公開文書から明らかになりました。同社は身体や脳が発する磁場を非接触で測定する画期的な技術を開発しており、心拍数や体温と同様に脳の活動を簡単に測定できるとしています。この買収により、将来的なApple Watchのヘルスケア機能やアクセシビリティ機能の向上が期待されています。"
+    },
+    {
+      "id": "7e0f9eefb62e2d5cf7ae",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "インターネットで大人気の猫が「Pusheen’s Place」でApple Arcadeに登場",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/",
+      "publishedAt": "2026-09-08T14:02:07.998Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "「ねこのプシーン」のゲームが登場、Apple Arcadeの10月ラインナップ",
+      "summaryJa": "Apple Arcadeは10月1日より、「ねこのプシーン」の公式ライセンス作「Pusheen’s Place」や「くにおくんのサバイバーズ・オブ・ザ・デッド」などの新作ゲームを配信開始します。さらに、「テラリア+」をはじめとするApp Storeの人気作3タイトルも広告やアプリ内課金なしの特別版として同時にラインナップへ加わります。ユーザーは自分の好みに合わせて、癒やし系からアクションまで多彩なゲームを存分に楽しむことができます。"
+    },
+    {
+      "id": "9e330bba3ec7ca08403b",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "The internet’s favorite cat comes to Apple Arcade with Pusheen’s Place",
+      "url": "https://www.apple.com/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/",
+      "publishedAt": "2026-09-08T13:59:40.685Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple Arcade、10月に「ねこのプシーン」など注目作を追加",
+      "summaryJa": "Appleは、定額制ゲーム配信サービスのApple Arcadeにて、10月1日から提供される新たなゲームラインナップを発表しました。大人気キャラクターのプシーン初となる公式ゲーム「Pusheen’s Place」や、爽快感のある「River City Survivors」などの新作が加わります。また、既存の人気作である「テラリア+」なども広告なしでプレイ可能になり、幅広いプレイヤー層に向けた魅力的なタイトルが揃います。"
+    },
+    {
+      "id": "9a505d3df722afd3c11a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "watchOS 27 code reveals four changes for Apple Watch Ultra 4, more",
+      "url": "https://9to5mac.com/2026/09/08/watchos-27-code-reveals-four-changes-for-apple-watch-ultra-4-more/",
+      "publishedAt": "2026-09-08T13:57:17.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/watchos-27-apple-watch-ultra-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "watchOS 27コードからApple Watch Ultra 4の新機能が判明か",
+      "summaryJa": "watchOSの最新コードから、Apple Watch Ultra 4や次期モデル向けの新機能に関する詳細が明らかになりました。デフォルト画面に配置される「Readiness」アプリの追加や、セット回数や重量などを詳細に記録できる筋トレ機能の強化、新たな光学式センサーシステムの搭載などが含まれています。また、次期チップセットによる128GBストレージの搭載を示唆する兆候も見つかっています。"
+    },
+    {
+      "id": "b40a07b1580986a510b5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Amazon Takes Up to $150 Off M5 MacBook Air",
+      "url": "https://www.macrumors.com/2026/09/08/amazon-150-off-m5-macbook-air/",
+      "publishedAt": "2026-09-08T13:55:33.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macbook-air-prime-day-2.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazon、M5搭載MacBook Airを最大150ドル引きで販売",
+      "summaryJa": "米Amazonにおいて、M5チップを搭載した13インチおよび15インチのMacBook Airが最大150ドルの割引価格で販売されています。15インチモデルの16GB/512GB構成などが値引き対象となっており、今夏の価格改定以降では非常にお得な価格で購入可能です。13インチモデルでも同様に複数の構成で割引が実施されており、Apple製品の購入を検討しているユーザーにとって見逃せないセールとなっています。"
+    },
+    {
+      "id": "447c01b4d85d6fc783d8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Which of the upcoming new Apple products most excites you? [Poll]",
+      "url": "https://9to5mac.com/2026/09/08/which-of-the-upcoming-new-apple-products-most-excites-you-poll/",
+      "publishedAt": "2026-09-08T13:54:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Surprise-and-shine-new-products.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleのイベント直前、注目を集める新製品の数々",
+      "summaryJa": "Appleの新製品発表イベントを翌日に控え、多数の新デバイス登場に対する期待が高まっています。今回のイベントでは6から9製品の発表が予想されており、中でも同社初となる折りたたみ式のiPhone Ultraが最大の話題を集めています。高価格帯が予想される折りたたみモデルに加え、その他の実用的な新製品や発表内容のどれに最も期待するか、ユーザーの間で関心が寄せられています。"
+    },
+    {
+      "id": "742d9cf8623abc43db0e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "The Cadillac Lyriq EV is the first crack in GM’s CarPlay ban",
+      "url": "https://9to5mac.com/2026/09/08/the-cadillac-lyriq-ev-is-the-first-crack-in-gms-carplay-ban/",
+      "publishedAt": "2026-09-08T13:21:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/The-Cadillac-Lyriq-EV-is-the-first-crack-in-GMs-CarPlay-ban.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "GMのキャデラック LyriqがCarPlay対応を維持した理由",
+      "summaryJa": "ゼネラルモーターズは将来の電気自動車からCarPlayを廃止する方針を示していましたが、キャデラックのLyriqでは標準搭載を継続していることが分かりました。顧客からの強いフィードバックを受けた方針転換とみられており、ネイティブの車載体験を重視しつつもユーザーの要望に配慮した形です。CarPlay非搭載のGM製EV向けには、サードパーティー製のワイヤレスアダプターといった回避策も登場しています。"
+    },
+    {
       "id": "774e11ed1c8e3ee9f9fa",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4322,190 +4503,9 @@
       ],
       "titleJa": "ピカチュウがApple Parkに登場、ティム・クックCEOらと対面",
       "summaryJa": "来週にCEO退任を控えるティム・クックが、次期CEOのジョン・テナスとともにポケモン社の一行とピカチュウをApple Parkで出迎えました。公開された動画には、ピカチュウがキャンパス内を歩き回ったりリンゴを採ろうとしたりするユーモラスな姿が収められています。両社の間で具体的な提携内容などは発表されていないものの、Appleのプラットフォームでは複数のポケモン関連ゲームが提供されています。"
-    },
-    {
-      "id": "bdff09e1b48834942be4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple announces App Store price changes in four countries",
-      "url": "https://9to5mac.com/2026/08/27/apple-announces-app-store-price-changes-in-four-countries/",
-      "publishedAt": "2026-08-27T20:31:32.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-developer.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、App Storeにおける複数国の価格と税制改定を発表",
-      "summaryJa": "Appleは開発者向けブログにおいて、複数の地域におけるアプリやアプリ内課金、サブスクリプションの価格および税制の更新を発表しました。モロッコやコンゴ共和国などでは新たな付加価値税の導入に伴い、デベロッパーの収益配分や価格調整が順次適用されます。ベースとなるストアフロントの設定状況に応じて、各国の価格改定や他地域での価格均衡化が行われる仕組みです。"
-    },
-    {
-      "id": "bde867b5061dd7dddd35",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple cleared for the second time to pursue documents from federal agencies in antitrust case",
-      "url": "https://9to5mac.com/2026/08/27/apple-cleared-for-the-second-time-to-pursue-documents-from-federal-agencies-in-antitrust-case/",
-      "publishedAt": "2026-08-27T20:08:59.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "反トラスト法訴訟、連邦機関の文書提出めぐりAppleの請求が再び認められる",
-      "summaryJa": "米司法省によるAppleに対する反トラスト法訴訟をめぐり、特別審理人は司法省からの再検討申し立てを却下しました。これにより、Appleはセキュリティやプライバシーの確保が正当な保護策であることを証明するため、14の連邦政府機関に対して関連文書の提出を求めることが許可されています。Appleは各機関が調達やポリシー設定の際にどのようにセキュリティを評価しているかを調査する方針です。"
-    },
-    {
-      "id": "95b5b1c119f2479943be",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New Apple TV 4K is coming: Four features launching soon",
-      "url": "https://9to5mac.com/2026/08/27/new-apple-tv-4k-is-coming-four-features-launching-soon/",
-      "publishedAt": "2026-08-27T19:30:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2022/10/Apple-TV-4K-2022.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新型Apple TV 4Kが間近か、新機能やSiri AI搭載の噂が浮上",
-      "summaryJa": "長らく期待されている新型Apple TV 4Kが近く発表される可能性が高まっています。次期モデルには新しいSiri Remoteのリモコンや、Apple Intelligenceに対応したSiri AI機能が搭載されると報じられています。さらに、パフォーマンスを大きく向上させる新しいAシリーズチップの採用も期待されており、秋のイベントでの発表に注目が集まっています。"
-    },
-    {
-      "id": "3fbf0f43162554c269ed",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New Mac mini, new Mac Studio announced as iPhone 18 Pro event confirmed",
-      "url": "https://9to5mac.com/2026/08/27/happy-hour-605/",
-      "publishedAt": "2026-08-27T19:20:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2018/04/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新型Mac miniやMac Studioのほか、秋のiPhoneイベント招待状も発信",
-      "summaryJa": "新しいMac miniやMac Studioのラインナップが発表されたほか、9月に開催される恒例のiPhoneイベントの招待状が正式に送付されました。ポッドキャストの番組内では、これら一連の製品発表や秋に期待される新製品の噂について詳しく振り返っています。また、Apple社内で少数ながら発生したレイオフの背景についても議論が行われています。"
-    },
-    {
-      "id": "a255bb2fe45740b9fbc4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27’s Passwords app adds powerful feature that can save you time",
-      "url": "https://9to5mac.com/2026/08/27/ios-27s-passwords-app-can-change-your-passwords-for-you-automatically/",
-      "publishedAt": "2026-08-27T19:14:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/passwords-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27のパスワードアプリ、AIを活用して自動変更が可能に",
-      "summaryJa": "iOS 27の「パスワード」アプリに、Apple Intelligenceを活用した強力な新機能が追加されます。これまではデータ流出などで危険性が判別されたログイン情報の修正を手動で行う必要がありましたが、新しいエージェントAI機能により、多くのケースでパスワードを自動的に更新できるようになります。これにより、最小限の手間で強力なセキュリティを維持できるようになります。"
-    },
-    {
-      "id": "f0eb78e11233af120aa5",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Tax and price updates for apps, In-App Purchases, and subscriptions",
-      "url": "https://developer.apple.com/news/?id=artln8br",
-      "publishedAt": "2026-08-27T19:00:43.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "App Store、モロッコやコンゴなどの税制変更に伴う価格改定を実施",
-      "summaryJa": "Appleは、世界各国での税制変更や為替レートの変動を受け、App Storeにおけるアプリやアプリ内課金、サブスクリプションの税金および価格の調整を案内しています。モロッコやコンゴ共和国での付加価値税の導入や、タンザニアでのデジタルサービス税率の引き上げが反映されます。これに伴い、一部の国と地域では9月14日から価格が順次更新される予定です。"
-    },
-    {
-      "id": "7f65dd4fd845b3c5c94e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New Mac mini and more now available from Amazon for launch day pre-order [Updated]",
-      "url": "https://9to5mac.com/2026/08/27/new-mac-mini-now-available-amazon-launch-day-preorder/",
-      "publishedAt": "2026-08-27T18:23:29.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-mac-studio-chips.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新型Mac miniやMac StudioがAmazonで予約受付を開始",
-      "summaryJa": "Appleによる新たなMac StudioおよびMac miniの発表を受け、Amazonでもこれらの新モデルの予約受付が開始されました。M6およびM5 Ultraといった次世代チップを搭載し、パフォーマンスの向上やAI機能の最適化が図られた最新デバイスを、発売日を前に購入できるようになっています。また、同時に発表された新しいMagic Keyboardなどのアクセサリー類も対象となっています。"
-    },
-    {
-      "id": "fdbc80bd8b77f7ea2cbc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "M6 Mac mini: Three things Apple didn’t highlight in the announcement",
-      "url": "https://9to5mac.com/2026/08/27/m6-mac-mini-three-things-apple-didnt-highlight-in-the-announcement/",
-      "publishedAt": "2026-08-27T18:20:18.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-top-down-m6.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "M6搭載Mac miniで発表時に触れられなかった3つの重要仕様",
-      "summaryJa": "今週発表された新型M6およびM5 Pro搭載のMac miniについて、Appleの公式発表では触れられなかった3つの詳細な仕様が明らかになりました。1つ目はRAMの容量によってメモリ帯域幅が異なる点、2つ目は新たに独自設計のN1チップを搭載しスマートホーム向けのThread規格に対応した点、3つ目は最新のmacOSがプリインストールされている点です。"
-    },
-    {
-      "id": "66c078594b072ca53d6a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Tim Cook Stepping Down as Apple CEO Next Week: 15 Years in Quotes",
-      "url": "https://www.macrumors.com/2026/08/27/tim-cook-15-years-of-quotes/",
-      "publishedAt": "2026-08-27T18:13:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Tim-Cook-Apple-Logo.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "ティム・クックCEOが来週退任、15年間の軌跡と名言集",
-      "summaryJa": "アップルのティム・クック最高経営責任者（CEO）が5日後に退任し、ハードウェアエンジニアリング責任者のジョン・ターナス氏が後任に就く予定です。15年の任期中には、優れた製品作りへのこだわりを語る一方で、マップの不具合に関する謝罪や自身の性的指向の公表など、歴史的な瞬間が数多くありました。新体制への移行を前に、これまでの象徴的な発言や歩みが改めて振り返られています。"
-    },
-    {
-      "id": "66bd97e7531fca38017f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "2025 vs. 2026 Mac Studio Buyer's Guide: All Upgrades Compared",
-      "url": "https://www.macrumors.com/guide/2025-vs-2026-mac-studio/",
-      "publishedAt": "2026-08-27T16:30:02.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/image.png",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "2026年版Mac Studioが登場、M5チップ搭載で内部が大幅進化",
-      "summaryJa": "アップルはM5 MaxおよびM5 Ultraチップを搭載した新しいMac Studioを発表しました。外観のデザインは5年連続で変更されていませんが、内部のパフォーマンスや接続性が大幅に強化されています。最新のN1チップによりWi-Fi 7とBluetooth 6に初めて対応したほか、次世代のSSDアーキテクチャ採用により読み書き速度が最大2倍に向上しています。"
-    },
-    {
-      "id": "96edbb75303125dab9a4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "How to watch Apple’s September event: iPhone 18 Pro, iPhone Ultra, more",
-      "url": "https://9to5mac.com/2026/08/27/how-to-watch-apples-september-event-iphone-18-pro-iphone-ultra-more/",
-      "publishedAt": "2026-08-27T15:44:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-event-logo-surprise-shine-september-9-small.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "アップルが9月9日にスペシャルイベント開催、新製品発表へ",
-      "summaryJa": "アップルは9月9日に新製品発表イベントを開催することを発表しました。「Surprise and shine」をキャッチコピーとしたこのイベントは、ジョン・ターナス新CEO体制での最初の大型製品発表となります。配信は公式YouTubeやApple TVアプリなどで視聴可能で、新型のiPhone 18 ProやApple Watchなどの発表が期待されています。"
-    },
-    {
-      "id": "13f9016b7ba200c1b54a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: iPhone 17 Pro up to $285 off, AirTag 2, AirPods Pro 3, Anker MagSafe Nano power bank, more",
-      "url": "https://9to5mac.com/2026/08/27/deals-iphone-17-pro-airtag-2-airpods-pro-3-power-bank/",
-      "publishedAt": "2026-08-27T15:31:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-iPhone-17-Pro-MagSafe-power-bank-homekit.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AmazonでiPhone 17 ProやAirTag 2などApple製品のセールが実施中",
-      "summaryJa": "今週はAirTag 2やAirPods Pro 3などの割引に加え、AmazonにてiPhone 17 Proが最大285ドル引きの過去最安値を記録しています。さらに、新発売されたM6 Mac miniのベースモデルや、Anker製のMagSafe対応バッテリーなどの関連アクセサリもお買い得価格で販売されています。新型モデルの登場を控える中、現行モデルをお得に入手できる注目のセールとなっています。"
     }
   ],
-  "updatedAt": "2026-09-08T11:12:01.781Z",
+  "updatedAt": "2026-09-08T15:09:16.363Z",
   "initialized": true,
   "summaryVersion": 4
 }
