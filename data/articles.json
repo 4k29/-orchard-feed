@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "d417727d26c3fd27a2ba",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "BASF subsidiary sues Apple over alleged Face ID patent infringement",
+      "url": "https://9to5mac.com/2026/09/07/basf-subsidiary-sues-apple-over-alleged-face-id-patent-infringement/",
+      "publishedAt": "2026-09-08T01:34:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/face-id-liquid-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "BASFの子会社、Face IDの特許侵害でAppleを提訴",
+      "summaryJa": "独BASFの子会社であるtrinamiXが、iPhoneやiPad Proなどに搭載されているFace IDの仕組みが自社の7件の特許を侵害しているとして、Appleを相手取った訴訟を提起しました。問題となっているのは人間の肌を正確に検出する光学式皮膚検出技術などで、初期のFace ID対策技術が組み込まれた近年のデバイスが対象に含まれていると報じられています。"
+    },
+    {
       "id": "a495d27650d2e6d71ffb",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "Apple、9月9日のイベントで6製品を発表か",
       "summaryJa": "Appleが9月9日に開催を予定しているスペシャルイベントにおいて、多数の新製品が発表されると報じられています。iPhone 18 Proシリーズや同社初となる折りたたみ式のiPhone Ultraをはじめ、Apple Watch Series 12やApple Watch Ultra 4、新型AirPods 5などが登場する見込みです。それぞれの新機能やデザインの変更点に期待が高まっています。"
-    },
-    {
-      "id": "66ac44e24cbd2e1d4114",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Arcade sees Sneaky Sasquatch/Subway Surfers+ crossover, with stickers too",
-      "url": "https://9to5mac.com/2026/08/27/apple-arcade-sees-sneaky-sasquatch-subway-surfers-crossover-with-stickers-too/",
-      "publishedAt": "2026-08-27T14:26:54.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-Arcade-Sneaky-Sasquatch-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Arcadeの人気ゲームがクロスオーバー企画を実施",
-      "summaryJa": "Apple Arcadeの人気ゲーム「Sneaky Sasquatch」が「Subway Surfers+」との限定クロスオーバーを実施すると発表されました。10月7日まで「Subway Surfers+」の世界がサスクワッチのスタイルへと変化し、専用のスキンやホバーボードなどが登場します。さらに、9月17日には30種類以上の鳥を撮影できるバードウォッチング機能などの大型アップデートも予定されています。"
     }
   ],
-  "updatedAt": "2026-09-08T01:15:57.805Z",
+  "updatedAt": "2026-09-08T02:33:48.374Z",
   "initialized": true,
   "summaryVersion": 4
 }
