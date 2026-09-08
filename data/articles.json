@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "c83973a3e61ffcaad2c4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Overtime 080: Six new Apple products",
+      "url": "https://9to5mac.com/2026/09/07/9to5mac-overtime-080-six-new-apple-products/",
+      "publishedAt": "2026-09-08T02:38:32.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/9to5Mac-Overtime-080.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "9to5Mac Overtime 080: Six new Apple products",
+      "summaryJa": "Fernando connects from IFA in Berlin to discuss Apple’s forthcoming iPhone Ultra, alongside the five other products that will be announced at this Wednesday’s Surprise and Shine event. Sponsored by Bitwarden: Register for the free, virtual Open Source Security Summit on September 17, featuring cybersecurity leaders David Sanger and Joseph Menn — and check out Bitwarden for trusted open source password, passkey, and secrets management, with end-to-end encryption and seamless autofill across all your devices. more… Fernando connects from IFA in Berlin to discuss Apple’s forthcoming iPhone Ultra, alongside the five other products that will be announced at this Wednesday’s Surprise and Shine event. Sponsored by Bitwarden: Register for the free, virtual Open Source Security Summit on September",
+      "translationStatus": "source"
+    },
+    {
       "id": "d417727d26c3fd27a2ba",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4504,9 @@
       ],
       "titleJa": "LGがOLEDテレビやモニターの大幅割引セールを実施",
       "summaryJa": "米国の労働者の日を記念して、LGが公式サイトにてモニターやテレビなどの大型セールを開催しています。割引は自動適用され、一部の2026年型OLED evo AIテレビなどが対象となって大幅な値引きが行われています。在庫が少なくなっている製品もあり、購入者向けの通知機能なども用意されています。"
-    },
-    {
-      "id": "17318f0895060f64fd1f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Event: Six New Products to Expect on September 9",
-      "url": "https://www.macrumors.com/2026/08/27/apple-event-announced-six-new-products/",
-      "publishedAt": "2026-08-27T15:00:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-Surprise-Shine.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、9月9日のイベントで6製品を発表か",
-      "summaryJa": "Appleが9月9日に開催を予定しているスペシャルイベントにおいて、多数の新製品が発表されると報じられています。iPhone 18 Proシリーズや同社初となる折りたたみ式のiPhone Ultraをはじめ、Apple Watch Series 12やApple Watch Ultra 4、新型AirPods 5などが登場する見込みです。それぞれの新機能やデザインの変更点に期待が高まっています。"
     }
   ],
-  "updatedAt": "2026-09-08T02:33:48.374Z",
+  "updatedAt": "2026-09-08T06:05:45.102Z",
   "initialized": true,
   "summaryVersion": 4
 }
