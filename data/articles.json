@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "369971c5379e29796624",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple adds 37 hardware identifiers ahead of ‘Surprise and Shine’ event",
+      "url": "https://9to5mac.com/2026/09/08/apple-adds-37-hardware-identifiers-ahead-of-surprise-and-shine-event/",
+      "publishedAt": "2026-09-08T23:27:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-event-logo-surprise-shine-september-9-small.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、イベント直前に37件の新しいハードウェア識別子を追加か",
+      "summaryJa": "Appleが「Surprise and Shine」イベントの開催を控え、iPhoneやiPad、Macなどの新しいハードウェア識別子をバックエンドに追加したと報じられています。今回の追加には7つのiPhoneモデルが含まれており、噂されている次期ラインナップとの関連性に注目が集まっています。正式発表に向けて準備が進められている可能性があり、新製品の登場に期待が高まっています。"
+    },
+    {
       "id": "0b26de350d1ce53f5c52",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -540,6 +555,81 @@
       ],
       "titleJa": "Amazon、新型Mac StudioとMac miniの予約割引を開始",
       "summaryJa": "Amazonは、発売を控えた新型Mac StudioおよびMac miniの事前予約に対する初の割引セールを開始しました。M5 Max Mac Studioや、最大40%のCPU性能向上の特徴を持つM6チップ搭載Mac miniなどが対象となっています。これらの新製品は9月22日の正式発売に向けて、現在お得な価格で予約を受け付けています。"
+    },
+    {
+      "id": "8efe2761e2e88abf8fb5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Foldable iPhone Development History and Price Revealed in New Report",
+      "url": "https://www.macrumors.com/2026/09/08/foldable-iphone-history-and-price-revealed/",
+      "publishedAt": "2026-09-08T12:55:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみ式iPhoneの開発経緯と予想価格が新たに浮上",
+      "summaryJa": "Bloombergのマーク・ガーマン記者によると、折りたたみ式iPhoneの開発にはティム・クックCEOが深く関与しており、価格はストレージ構成によって約3,000ドルに達する可能性があると伝えられています。初期段階では2,000ドル未満の発売を目指していましたが、メモリ不足の影響なども背景に価格設定の議論が行われてきました。アジアでの他社製折りたたみ端末の普及を見たクック氏が開発を加速させたとされており、今後の動向が注目されます。"
+    },
+    {
+      "id": "d6fea6df85328a1b26d0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Ultra Touch ID 'Confirmed' in iOS 27? Not So Fast",
+      "url": "https://www.macrumors.com/2026/09/08/iphone-ultra-touch-id-not-confirmed/",
+      "publishedAt": "2026-09-08T12:10:14.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2020/08/iPad-Air-4-Touch-ID-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27ベータ版のコード解析からiPhone UltraのTouch ID搭載は確定せず",
+      "summaryJa": "iOS 27のベータ版コード内で見つかった記述から、iPhone UltraにTouch IDが搭載されると話題になっていますが、それは確実ではないと指摘されています。UWBチップとTouch IDが同じ文字列に含まれていたことから決定打と見る向きがある一方、Appleのコードベースには過去の遺構やハードウェアに紐づかない古い用語が残ることが多いためです。期待は高まるものの、このコードの記述だけで機能を断定するのは早計だと言えそうです。"
+    },
+    {
+      "id": "57dc34c2503f6e78fa98",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "2024 vs. 2026 Mac Mini Buyer's Guide",
+      "url": "https://www.macrumors.com/guide/2024-vs-2026-mac-mini/",
+      "publishedAt": "2026-09-08T11:56:18.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/mac-mini-2026-blue.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "M6搭載Mac miniと旧モデルの仕様や価格の違いを比較",
+      "summaryJa": "Appleが新たに発表したM6チップおよびM5 Pro搭載のMac miniについて、旧世代モデルからの変更点が整理されています。新モデルではWi-Fi 7やBluetooth 6への対応、パフォーマンスの向上など多くの改良が施されている一方で、AI需要に伴うメモリ不足の影響で価格が上昇しています。教育向け割引なども用意されており、購入を検討する際の重要な判断材料となりそうです。"
+    },
+    {
+      "id": "2423572a90d3771dafd8",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Foldable 'iPhone Ultra' May Launch Later in China, Says Leaker",
+      "url": "https://www.macrumors.com/2026/09/08/foldable-iphone-may-launch-later-china/",
+      "publishedAt": "2026-09-08T11:47:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみiPhone Ultra、中国での発売が遅れる可能性",
+      "summaryJa": "Apple初の折りたたみデバイス「iPhone Ultra」について、初期在庫の制限や地域別の割り当てにより、中国本土での発売が他の市場よりも遅れる可能性があると報じられています。厳格な品質管理基準やヒンジ、ディスプレイの耐久性テストに時間がかかっていることが背景にあるとされています。一方で、同時期に通常通り登場するという見方も存在しており、今後の動向が注目されています。"
+    },
+    {
+      "id": "b8ddcc5f44dcd4580d7c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Air 2 Could Replace iPhone 18, Sketchy Rumor Claims",
+      "url": "https://www.macrumors.com/2026/09/08/iphone-air-2-could-replace-iphone-18/",
+      "publishedAt": "2026-09-08T11:23:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-air-2.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone Air 2が通常モデルの後継になる可能性の噂",
+      "summaryJa": "Appleが標準モデルのiPhone 18を取りやめ、代わりに超薄型デザインのiPhone Air 2を新たなエントリーモデルとして展開する可能性があるという噂が浮上しています。ただし、これまでの多くの噂では個別の端末として登場すると伝えられており、情報源の実績からも現時点では信憑性が低いと見られています。将来的に超薄型デザインが標準モデルのテンプレートになる長期的なシフトの可能性は以前から指摘されています。"
     },
     {
       "id": "774e11ed1c8e3ee9f9fa",
@@ -4413,99 +4503,9 @@
       ],
       "titleJa": "ChatGPTがGmailやGoogleカレンダーの複数アカウントに対応",
       "summaryJa": "OpenAIは、ChatGPTとCodexにおいて複数のGmailやGoogleカレンダー、連絡先アカウントを同時に接続できる機能の提供を開始しました。サイドバーのプラグイン設定から追加できるようになり、個人用と仕事用の受信トレイやスケジュールを一つのチャット画面から便利に使い分けられるようになります。"
-    },
-    {
-      "id": "d1c218234d3e4724c411",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Siri Settlement: Here's When iPhone Owners Can Submit Claims",
-      "url": "https://www.macrumors.com/2026/08/28/apple-siri-ai-settlement-claims-timing/",
-      "publishedAt": "2026-08-28T18:01:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/09/iphone-16-teal.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Siriを巡る集団訴訟、9月にも申請受付開始の可能性",
-      "summaryJa": "AppleがSiriの新機能の発売遅延をめぐる集団訴訟で和解金2億5000万ドルを支払うことで合意した件について、対象となるiPhoneユーザーによる和解金の申請受付が9月下旬にも開始される見通しとなりました。裁判所の承認を前提に、9月21日頃から通知と受付が始まり、12月下旬まで申請期間が設けられる予定です。"
-    },
-    {
-      "id": "126400e84bc7d52206e2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp rolls out new chat themes on iOS, including animated wallpapers",
-      "url": "https://9to5mac.com/2026/08/28/whatsapp-rolls-out-new-chat-themes-on-ios-including-animated-wallpapers/",
-      "publishedAt": "2026-08-28T16:30:09.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp、iPhone向けにアニメーション付き背景などの新チャットテーマを順次提供開始",
-      "summaryJa": "WhatsAppは、iPhoneユーザー向けに5つの新しいカテゴリから選べるチャットテーマの提供を開始しました。デザインチームが厳選した「Featured」や自然の風景を楽しめる「Nature」、背景がゆっくりと動く「Live」、シンプルでプレーンな「Live」、クラシックな「Doodle」などが用意されています。特に「Live」カテゴリでは、メッセージの読みやすさやアクセシビリティに配慮し、背景が邪魔にならないようあえてゆっくり動くアニメーション壁紙が採用されています。"
-    },
-    {
-      "id": "252159dadf36eefac513",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "This New App Brings 1990s 'After Dark' Screen Savers to Modern macOS",
-      "url": "https://www.macrumors.com/2026/08/28/after-dark-screen-savers-on-modern-macos/",
-      "publishedAt": "2026-08-28T16:16:15.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Afterglow.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "1990年代の名作スクリーンセーバー「After Dark」を現代のmacOSで動かすアプリが登場",
-      "summaryJa": "開発者のJeff Halter氏が、1990年代に一世を風靡したクラシックなスクリーンセーバー「After Dark」を現代のmacOS環境で実行できる新しいアプリ「Afterglow」をリリースしました。このアプリは単なるリメイクやポートではなく、ROMや古いMac OSへの依存なしに当時の68kモジュールコードを直接動作させる専用のエミュレーターとして構築されています。懐かしい宇宙シューティングゲームや様々なモジュールを手軽に楽しむことができます。"
-    },
-    {
-      "id": "708d0c8da198a0cdc47d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro: Two new features I’m excited to upgrade for",
-      "url": "https://9to5mac.com/2026/08/28/iphone-18-pro-two-new-features-im-excited-to-upgrade-for/",
-      "publishedAt": "2026-08-28T16:14:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの進化点とは？大刷新が噂されるカメラとA20 Proチップに期待",
-      "summaryJa": "Appleが9月9日に発表すると噂されているiPhone 18 Proについて、大幅な進化が期待される2つの注目機能が報じられています。1つ目はメインカメラと望遠カメラの大幅なハードウェア刷新で、可変絞りの採用などによる低照度性能の向上が見込まれています。2つ目は最先端の2ナノメートルプロセスで製造されるA20 Proチップであり、AI機能の処理性能向上や優れた電力効率の実現が期待されています。"
-    },
-    {
-      "id": "9a2ffae223058957488a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "The MacRumors Show: Apple's Surprisingly Big Week of Announcements",
-      "url": "https://www.macrumors.com/2026/08/28/the-macrumors-show-apple-week-of-announcements/",
-      "publishedAt": "2026-08-28T16:12:18.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、新Mac miniやM6チップを発表し、9月9日のスペシャルイベントを正式告知",
-      "summaryJa": "AppleはM6およびM5 Proチップを搭載した新しいMac miniを発表するとともに、9月9日にApple Parkでスペシャルイベントを開催することを正式に明らかにしました。M6チップはApple初となる2nmプロセスを採用し、CPUの構造を一新して高いパフォーマンスと電力効率を実現しています。イベントでは新型iPhone 18 ProシリーズやApple Watchなどの発表が予想されており、秋に向けた新製品の展開に大きな注目が集まっています。"
-    },
-    {
-      "id": "0a8f14a02c24a7290ce3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "This video experiment perfectly illustrates my frustration with iPhone Cinematic mode",
-      "url": "https://9to5mac.com/2026/08/28/this-video-experiment-perfectly-illustrates-my-frustration-with-iphone-cinematic-mode/",
-      "publishedAt": "2026-08-28T16:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/This-video-experiment-perfectly-illustrates-my-frustration-with-iPhone-Cinematic-mode.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhoneのシネマティックモードに対する検証動画と進化への期待",
-      "summaryJa": "Appleがシネマティックモードの開発を事実上放置しているのではないかという懸念の声が上がっています。実際の撮影実験を通じて、映像の仕上がりは優れているものの、被写体の動きや背景の処理において惜しい点が見受けられます。iPhoneの性能が大幅に向上している現在、将来の映像クリエイター向けにさらなる機能強化が望まれています。"
     }
   ],
-  "updatedAt": "2026-09-08T21:27:23.276Z",
+  "updatedAt": "2026-09-08T23:38:47.797Z",
   "initialized": true,
   "summaryVersion": 4
 }
