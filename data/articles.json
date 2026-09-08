@@ -1,6 +1,156 @@
 {
   "articles": [
     {
+      "id": "0b26de350d1ce53f5c52",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple faces new UK rules over nude images on children’s iPhones",
+      "url": "https://9to5mac.com/2026/09/08/apple-faces-new-uk-rules-over-nude-images-on-childrens-iphones/",
+      "publishedAt": "2026-09-08T21:20:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "英国、子供のiPhoneでの裸画像対策を義務化へ",
+      "summaryJa": "英国政府は、AppleやGoogleに対し、子供が端末で裸の画像を撮影や共有、閲覧することを防ぐ端末レベルの保護機能を義務付ける新たな法案を導入する方針を明らかにしました。これはオンライン上での児童の性的被害を防ぐための措置で、既存の自発的な対応では不十分だとして法制化を進める構えです。"
+    },
+    {
+      "id": "8daeb542e47d9f6cf263",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "TrendForce: Apple produced 52 million iPhones in Q2 as global smartphone market declined",
+      "url": "https://9to5mac.com/2026/09/08/trendforce-apple-produced-52-million-iphones-in-q2-as-global-smartphone-market-declined/",
+      "publishedAt": "2026-09-08T20:39:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-cosmic-orange-cameras-angle.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "2026年第2四半期、AppleのiPhone生産台数が前年比増",
+      "summaryJa": "調査会社TrendForceの報告によると、2026年第2四半期における世界のスマートフォン生産が全体として減少する中、AppleのiPhone生産台数は前年同期比14%増の約5200万台を記録しました。iPhone 17シリーズの効果的な価格戦略が成長を牽引した一方で、次期iPhone 18シリーズでは値上げが避けられないと見られています。"
+    },
+    {
+      "id": "fb12881c6bf64dbb7989",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases Firmware Update for 140W USB-C Power Adapter",
+      "url": "https://www.macrumors.com/2026/09/08/apple-releases-140w-usb-c-charger-firmware-update/",
+      "publishedAt": "2026-09-08T20:35:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/16-inch-MBP-and-140W-Charger-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、140W USB-C電源アダプタ向けファームウェア公開",
+      "summaryJa": "Appleは140W USB-C電源アダプタ向けに、バージョン1.4.90のファームウェアアップデートをリリースしました。Appleは通常こうしたアクセサリのアップデートに関するリリースノートを公開しておらず、今回の変更点は不明です。アップデートは電源アダプタがMacなどのデバイスに接続されている際に自動的に適用されます。"
+    },
+    {
+      "id": "84607246432665aa4edd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro set to become Apple’s new default model",
+      "url": "https://9to5mac.com/2026/09/08/iphone-18-pro-set-to-become-apples-new-default-model/",
+      "publishedAt": "2026-09-08T20:22:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proが新たな標準モデルの役割を担うか",
+      "summaryJa": "今秋の発表会では従来の標準モデルとなる「iPhone 18」の発売が見送られ、代わりに「iPhone 18 Pro」や「Pro Max」、そして「Ultra」が展開される見込みです。通常モデルの発売が2027年初頭へ延期されるとの観測から、今秋はiPhone 18 Proが事実上の新たな標準モデルとして位置づけられることになります。価格上昇も予想される中、この新たなラインナップ戦略がどのように受け入れられるか注目されています。"
+    },
+    {
+      "id": "eef58692dd6d55b192f4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Likely to Announce Beats 360 This Month",
+      "url": "https://www.macrumors.com/2026/09/08/apple-beats-360-coming-soon/",
+      "publishedAt": "2026-09-08T19:48:37.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Beats-360-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、今月にも「Beats 360」を発表か",
+      "summaryJa": "Appleが未発表のヘッドフォン「Beats 360」向けのファームウェアアップデートをリリースし、今月中の発表が近づいていると報じられています。このヘッドフォンはAirPods Maxに似たデザインを持ち、ブランド初となるIPX4等級の耐汗・耐水性能を備えるほか、ハンズフリーのSiriに対応すると伝えられています。"
+    },
+    {
+      "id": "813ee1048cb3f12e25e0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: Apple Watch shipments rise 14% in Q2 as overall market drops",
+      "url": "https://9to5mac.com/2026/09/08/report-apple-watch-shipments-rise-14-in-q2-as-overall-market-drops/",
+      "publishedAt": "2026-09-08T19:39:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-watch-ultra-3-4-mountain.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "第2四半期のApple Watch出荷台数は14%増",
+      "summaryJa": "調査会社Counterpoint Researchのレポートによると、2026年第2四半期のスマートウォッチ市場全体が縮小する中、Apple Watchの出荷台数は前年同期比で14%増加しました。最新のApple Watch Series 11やWatch SE 3が好調で、Appleはグローバルおよび中国市場の双方で大きく成長を記録しています。"
+    },
+    {
+      "id": "c143127f15eab7de5fdb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Meta AI launches Muse personal agent, including a new mobile app for iPhone",
+      "url": "https://9to5mac.com/2026/09/08/meta-ai-launches-muse-personal-agent-including-a-new-mobile-app-for-iphone/",
+      "publishedAt": "2026-09-08T19:17:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/muse-agent.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Meta、iPhone向けのパーソナルAI「Muse」を発表",
+      "summaryJa": "Meta AIがiPhone向けの新アプリ「Muse」の提供を開始しました。ユーザーが日々のタスクをこなすためのパーソナルAIエージェントで、親しみやすいチャットインターフェースやカスタマイズ機能を備えています。現時点では米国での提供となっており、Mac向けにはウェブ版も用意されています。"
+    },
+    {
+      "id": "0fbb925b8cbf08e135b2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Sonos just launched ‘Sonos 27’ app update, here’s what’s new",
+      "url": "https://9to5mac.com/2026/09/08/sonos-just-launched-sonos-27-app-update-heres-whats-new/",
+      "publishedAt": "2026-09-08T18:59:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sonos-27-app-update-screenshots.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Sonos、新機能を追加する「Sonos 27」アプリを配信開始",
+      "summaryJa": "Sonosは、新しい命名規則を採用した「Sonos 27」アプリの配信を開始しました。このアップデートでは、ポータブルスピーカーをリアサラウンドとして活用できる機能や、再設計されたナビゲーション、AIアシスタントとの連携機能などが早期アクセスとして提供されています。"
+    },
+    {
+      "id": "2c1850fc4e5e6ebbeb7e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI releases ChatGPT Images 2.5 with ‘sharper details’ and ‘more precise editing’",
+      "url": "https://9to5mac.com/2026/09/08/openai-releases-chatgpt-images-2-5-with-sharper-details-and-more-precise-editing/",
+      "publishedAt": "2026-09-08T18:50:50.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、画質と編集精度を向上させた「ChatGPT Images 2.5」を公開",
+      "summaryJa": "OpenAIは、画像生成技術の最新バージョンとなる「ChatGPT Images 2.5」を発表しました。ディテールのシャープさや生成速度が最大50%向上したほか、より正確な編集機能や直接描き込める「スケッチ」機能などが追加されています。開発者向けAPIでも同等の機能を持つバージョンが提供され、幅広いアプリケーションで活用できるようになります。"
+    },
+    {
+      "id": "c1a802986d928a3d6554",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "How to Watch Apple's 'Surprise and Shine' September 9 Event",
+      "url": "https://www.macrumors.com/how-to/watch-apple-september-9-iphone-event/",
+      "publishedAt": "2026-09-08T18:45:46.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-surprise-and-shine-event.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、9月9日にスペシャルイベントを開催へ",
+      "summaryJa": "Appleは9月9日にオンラインストリーミングによるスペシャルイベントの開催を予定しています。イベントでは、新しいiPhoneモデルやApple Watch、その他の新製品が発表される見込みです。配信はApple公式サイトのほか、YouTubeやApple TVアプリを通じて世界中から視聴可能となっています。"
+    },
+    {
       "id": "b8b4a6ecfc40b9c32a64",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -179,6 +329,21 @@
       ],
       "titleJa": "Apple、新アプリ「Readiness」をイベントで発表か",
       "summaryJa": "Bloombergのマーク・ガーマン記者によると、Appleは「Surprise and Shine」イベントで新しい「Readiness」アプリを発表する見込みです。このアプリはApple WatchのVitalsアプリの派生版となり、WhoopやOuraなどの健康管理デバイスに対抗する狙いがあると報じられています。"
+    },
+    {
+      "id": "24a2d6f3042e27748ec8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: New M5 Max Mac Studio first discount, MacBook Air $150 off, most affordable Studio Display $100 off, more",
+      "url": "https://9to5mac.com/2026/09/08/deals-m5-max-mac-studio-macbook-air-studio-display/",
+      "publishedAt": "2026-09-08T15:28:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Mac-Studio-Display-AirPods-MacBook-Air.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Amazon、M5 Max搭載Mac StudioなどのApple製品をセール価格で販売",
+      "summaryJa": "Amazonにて、AirPods Pro 3やAirTag 2などのApple製品が割引価格で販売されています。新型のM5 Max Mac StudioやM6 Mac miniの予約セールも実施されており、各製品をお得に入手できるチャンスとなっています。主要なホリデーセールは終了したものの、一部の人気アイテムでは引き続き割引が適用されています。"
     },
     {
       "id": "631beee9f71abdbb7f93",
@@ -360,6 +525,21 @@
       ],
       "titleJa": "GMのキャデラック LyriqがCarPlay対応を維持した理由",
       "summaryJa": "ゼネラルモーターズは将来の電気自動車からCarPlayを廃止する方針を示していましたが、キャデラックのLyriqでは標準搭載を継続していることが分かりました。顧客からの強いフィードバックを受けた方針転換とみられており、ネイティブの車載体験を重視しつつもユーザーの要望に配慮した形です。CarPlay非搭載のGM製EV向けには、サードパーティー製のワイヤレスアダプターといった回避策も登場しています。"
+    },
+    {
+      "id": "0319031dbb37613bc5c2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Amazon Introduces First Pre-Order Discount on New Mac Studio, Alongside Mac Mini Deals",
+      "url": "https://www.macrumors.com/2026/09/08/amazon-discount-mac-studio/",
+      "publishedAt": "2026-09-08T13:05:49.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/11/mac-studio-purple.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazon、新型Mac StudioとMac miniの予約割引を開始",
+      "summaryJa": "Amazonは、発売を控えた新型Mac StudioおよびMac miniの事前予約に対する初の割引セールを開始しました。M5 Max Mac Studioや、最大40%のCPU性能向上の特徴を持つM6チップ搭載Mac miniなどが対象となっています。これらの新製品は9月22日の正式発売に向けて、現在お得な価格で予約を受け付けています。"
     },
     {
       "id": "774e11ed1c8e3ee9f9fa",
@@ -4323,189 +4503,9 @@
       ],
       "titleJa": "iPhoneのシネマティックモードに対する検証動画と進化への期待",
       "summaryJa": "Appleがシネマティックモードの開発を事実上放置しているのではないかという懸念の声が上がっています。実際の撮影実験を通じて、映像の仕上がりは優れているものの、被写体の動きや背景の処理において惜しい点が見受けられます。iPhoneの性能が大幅に向上している現在、将来の映像クリエイター向けにさらなる機能強化が望まれています。"
-    },
-    {
-      "id": "651227e3e8719b479576",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple TV Buys an Existing Hit for the First Time Ever",
-      "url": "https://www.macrumors.com/2026/08/28/apple-tv-buys-an-existing-hit-for-first-time/",
-      "publishedAt": "2026-08-28T15:52:49.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/10/Apple-TV-Color.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple TV、既存の人気英語ドラマの全世界配信権を初獲得",
-      "summaryJa": "Apple TVは、イギリスで放送されて高い評価を得たコメディドラマ「Small Prophets」の全世界向け配信権を獲得したと報じられています。Appleはこれまで、自社で企画から手掛けたオリジナル作品や、一部の外国語ドラマを除いて自社制作の作品を配信するモデルを基本としていました。すでに他国で放送され大ヒットとなった英語圏のシリーズ作品権を直接購入するのは今回が初めてとなります。"
-    },
-    {
-      "id": "34a7367a09763e954612",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: Amazon Labor Day sale, AirPods Pro 3, M6 Mac mini, Apple Watch $200, AirTag 2, more",
-      "url": "https://9to5mac.com/2026/08/28/deals-amazon-labor-day-sale-airpods-pro-3-m6-mac-mini/",
-      "publishedAt": "2026-08-28T15:29:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-M6-Mac-mini-AirPods-AirTag-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AmazonセールでAirPods Pro 3や新製品が割引に",
-      "summaryJa": "大規模なAmazonのレイバーデイセールにおいて、AirPods Pro 3やAirTag 2などが特別価格で販売されています。今回は、新しく登場したM6 Mac miniやM5 Pro Mac miniに対しても初めての割引が適用されており、多くのApple製品をお得に購入できるチャンスとなっています。AirTag 2の4パックなども過去最安値水準で販売されており、周辺機器を含めて幅広いアイテムが対象です。"
-    },
-    {
-      "id": "28603f398f04c4a296bd",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Pre-Orders May Start at an Unusual Time",
-      "url": "https://www.macrumors.com/2026/08/28/iphone-18-pro-pre-orders-may-start-at-unusual-time/",
-      "publishedAt": "2026-08-28T15:17:27.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの予約開始日が通常とは異なる可能性",
-      "summaryJa": "Appleが9月9日に開催を予定しているイベントで発表されるiPhone 18 Proなどの予約受付が、通常の金曜日ではなく9月12日の土曜日に開始される可能性があると報じられています。この日程変更は、9月11日が同時多発テロから25年を迎える記念日にあたるため、過去の事例と同様に配慮されたものとみられています。また、予約開始の時間帯も従来の午前5時から太平洋時間の深夜0時に変更されると伝えられています。"
-    },
-    {
-      "id": "a740c538281e8980ec61",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s new M6 adds feature previously exclusive to high-end chips",
-      "url": "https://9to5mac.com/2026/08/28/apples-new-m6-adds-feature-previously-exclusive-to-high-end-chips/",
-      "publishedAt": "2026-08-28T15:07:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/m6-lg-01.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "次世代M6チップ、従来は上位モデル限定の機能を搭載",
-      "summaryJa": "新型Mac miniに初搭載された次世代のM6チップに、これまで上位モデルのM5 ProやMaxに限定されていた機能が導入されていると伝えられています。M6はベースチップでありながら、従来の性能・効率コアに加えて、最上位のスーパーコアや新しいパフォーマンスコアを含む3種類のCPUコア構成を採用しています。これにより、基本性能を持つエントリー向けのチップでありながら、より高いマルチスレッド性能と電力効率を実現しています。"
-    },
-    {
-      "id": "54938cbb2d2fa4e1883a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "What NOT to Expect at Apple's 'Surprise and Shine' September 9 Event",
-      "url": "https://www.macrumors.com/2026/08/28/what-not-to-expect-apple-sept-9-event/",
-      "publishedAt": "2026-08-28T14:54:56.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/What-Not-To-Expect-From-Surprise-and-Shine-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleイベントで発表されないと噂される製品群",
-      "summaryJa": "9月9日のAppleのイベントでは新製品の発表が多数控えている一方で、今年は通常のiPhone 18が秋のイベントから外れ、来春以降の登場になると報じられています。分割発売戦略の一環として、秋のイベントは高価格帯のProモデルや折りたたみモデルを中心に展開される見通しです。そのため、ベースモデルのiPhoneや一部の噂される端末は今年の秋ではなく、後日または2027年に登場する可能性が高いと伝えられています。"
-    },
-    {
-      "id": "d6703abde3b6728f0635",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple will launch 15+ new products this fall, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/08/28/apple-will-launch-15-new-products-this-fall-heres-whats-coming/",
-      "publishedAt": "2026-08-28T14:16:09.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/04/Tim-Cook-opens-Apple-BKC.jpeg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "今秋登場と噂されるAppleの新製品ラインナップ",
-      "summaryJa": "Appleは今秋、iPhone 18 Proシリーズや初の折りたたみiPhoneに加え、Apple WatchやMac、iPadなど多数の新製品を投入すると報じられています。10月以降にはOLEDディスプレイ搭載のMacBook UltraやM6搭載のMacBook Pro、さらにOLED採用のiPad miniなども控えている模様です。ホーム製品も含めてAI対応を見据えた大規模な製品展開が計画されていると伝えられています。"
-    },
-    {
-      "id": "d16debdf31f92b7e9359",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple One Just Went Up in Price",
-      "url": "https://www.macrumors.com/2026/08/28/apple-one-price-increase/",
-      "publishedAt": "2026-08-28T14:01:44.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Apple-One-16x9-2026.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple TVの値上げに伴いApple One個人プランも値上がり",
-      "summaryJa": "Apple TVの価格改定に伴い、米国など一部の地域でApple Oneの個人プランが値上げされました。米国内では月額19.95ドルから21.95ドルに引き上げられています。なお、ファミリープランやプレミアプランは先月のApple Musicの値上げ時にすでに価格が改定されており、今回の対象外となっています。価格改定は現在、米国、ブラジル、チリ、メキシコで実施されていると伝えられています。"
-    },
-    {
-      "id": "63ada638f01316e60575",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro pre-orders could kick off slightly later than usual",
-      "url": "https://9to5mac.com/2026/08/28/iphone-18-pro-pre-orders-could-kick-off-slightly-later-than-usual/",
-      "publishedAt": "2026-08-28T13:45:13.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの予約受付は通常より遅れる可能性か",
-      "summaryJa": "9月9日に発表されるとみられるiPhone 18 Proの予約注文が、通常よりわずかに遅れて開始されるとの報道が出ています。今年は9月11日が25回目の追悼日にあたることから、例年の金曜日ではなく、9月12日の土曜日に予約が開始される可能性があると伝えられています。また、開始時間についても従来の太平洋時間の午前5時から深夜に変更されるとの情報がありますが、詳細は正式発表が待たれます。"
-    },
-    {
-      "id": "bfa632c10481d0599ab2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple TV Streaming Service Receives Price Increase",
-      "url": "https://www.macrumors.com/2026/08/28/apple-tv-price-increase/",
-      "publishedAt": "2026-08-28T13:18:25.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/New-Apple-TV-Logo.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple TVとApple One個人プランが値上げ",
-      "summaryJa": "Appleは、Apple TVのストリーミングサービスおよびApple Oneの個人プランについて、米国などで値上げを実施したと発表しました。月額プランは12.99ドルから14.99ドルに引き上げられ、年間プランや一部の国・地域でも価格が改定されています。新規加入者には即座に適用され、既存の会員には更新日の約1ヶ月前に通知が届く予定です。"
-    },
-    {
-      "id": "80ecfc7f4e8a9a7e9d49",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple announces price increase for Apple TV and Apple One subscriptions",
-      "url": "https://9to5mac.com/2026/08/28/apple-announces-price-increase-for-apple-tv-and-apple-one-subscriptions/",
-      "publishedAt": "2026-08-28T13:17:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-tv-sunset-mountains.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、Apple TVとApple Oneの値上げを発表",
-      "summaryJa": "AppleはApple Musicの値上げに続き、Apple TVおよびApple Oneの個人プランの価格改定を発表しました。Apple TVの月額料金は14.99ドルに、年額プランは119ドルに値上げされ、Apple Oneの個人プランも21.95ドルに引き上げられます。ブラジル、チリ、メキシコの一部地域も対象となっており、新規ユーザーには即時適用されます。"
-    },
-    {
-      "id": "ebc9913a023bac7e421d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's M6 Mac Mini Gets First Pre-Order Discounts at Amazon",
-      "url": "https://www.macrumors.com/2026/08/28/m6-mac-mini-first-discounts/",
-      "publishedAt": "2026-08-28T13:14:22.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/mac-mini-2026-blue.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "M6搭載Mac miniの予約割引がAmazonで開始",
-      "summaryJa": "Amazonにおいて、新型のM6チップを搭載したMac miniの予約受付に向けた初めての割引セールが開始されました。9月22日の正式発売を前に、16GBメモリや256GB・512GB SSDを備えたモデルが通常価格より手頃な価格で販売されています。前世代モデルと比較してCPU性能やAI処理能力が大幅に向上した新型を、少しでも安く購入するチャンスとなっています。"
-    },
-    {
-      "id": "3307f1df4075e4816fda",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch SE 3 Hits New Low Price of $199.99 on Amazon",
-      "url": "https://www.macrumors.com/2026/08/28/apple-watch-se-199/",
-      "publishedAt": "2026-08-28T13:06:28.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-watch-se-3-new-purple.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch SE（第3世代）が過去最安値に",
-      "summaryJa": "Amazonにて、44mm GPSモデルのApple Watch SEが通常279.00ドルから199.99ドルへと大幅に値下げされました。これまでよりも約30ドル安く、40mmモデルの最安値と同等の価格水準となっています。ミッドナイトのアルミニウムケースとスポーツバンドの組み合わせが対象で、在庫限りの非常に珍しいセールとなっています。"
     }
   ],
-  "updatedAt": "2026-09-08T18:42:14.862Z",
+  "updatedAt": "2026-09-08T21:27:23.276Z",
   "initialized": true,
   "summaryVersion": 4
 }
