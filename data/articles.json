@@ -1,6 +1,158 @@
 {
   "articles": [
     {
+      "id": "ae920528ca6b745888a1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple launches iPhone Duo developer resources ahead of October release",
+      "url": "https://9to5mac.com/2026/09/09/apple-launches-iphone-duo-developer-resources-ahead-of-october-release/",
+      "publishedAt": "2026-09-09T23:09:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/get-ready-iphone-duo.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、初の折りたたみ「iPhone Duo」向け開発者リソースを公開",
+      "summaryJa": "Appleは初の折りたたみ式iPhoneとなる「iPhone Duo」の発表に伴い、アプリ開発に向けた新たなリソースの提供を開始しました。開発者向けセッションやグループラボ、専用のドキュメントや動画を通じて、マルチディスプレイ対応やカメラ機能の最適化などをサポートします。10月の発売に向けて、開発環境の準備が進められています。"
+    },
+    {
+      "id": "075ce58386fd5ab3232f",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Get ready for iPhone Duo",
+      "url": "https://developer.apple.com/news/?id=vn8abkxx",
+      "publishedAt": "2026-09-09T23:05:23.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/1E836BD5-C933-4BC4-98D2-0ABF4777C9BA/2048.jpeg",
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "Apple、「iPhone Duo」に向けた開発者リソースの提供を開始",
+      "summaryJa": "Appleは開発者に向けて、「iPhone Duo」の発売に向けた準備を呼びかけています。新たな解説動画の公開に加え、グループラボへの参加登録やデベロッパフォーラムでのQ&Aセッションが案内されており、折りたたみ端末への対応を進めることができます。"
+    },
+    {
+      "id": "9e921afba6559e807dd1",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "App Store submissions now open for the latest OS releases",
+      "url": "https://developer.apple.com/news/?id=k1mtkt1k",
+      "publishedAt": "2026-09-09T23:00:38.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/C4D6D5E8-CA9E-47A5-8551-6384D0760DA3/2048.jpeg",
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "次期OS各バージョンのApp Store申請受付が開始",
+      "summaryJa": "iOS 27をはじめとする次期OSの正式リリースを控え、Appleは各プラットフォーム向けアプリのApp Storeへの提出受付を開始しました。開発者は最新のXcodeリリース候補版を使い、Apple Intelligenceや新フレームワークを活用したアプリをテストおよび提出できます。また、macOS 27からはAppleシリコン搭載Mac専用となるため、インテルMac向けのサポート終了に向けた対応も必要となります。"
+    },
+    {
+      "id": "2cf9ac6c868538c86e04",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo Beats iPhone Air as Apple's Thinnest iPhone, But Only When Open",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-thinnest-iphone/",
+      "publishedAt": "2026-09-09T22:43:09.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-side.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみ「iPhone Duo」は展開時に歴代最薄を実現",
+      "summaryJa": "Appleが発表した初の折りたたみ式スマートフォン「iPhone Duo」は、展開時の厚さが5.2mmとなり、iPhone Airを抜いて同社で最も薄いiPhoneとなりました。本体重量は254グラムとこれまでで最も重いモデルとなり、内側に7.6インチ、外側に5.4インチのディスプレイを備えています。予約受付は10月16日に開始され、10月23日に発売される予定です。"
+    },
+    {
+      "id": "9f205625c310d567f6f0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Here's What Apple Says About the iPhone Duo's Crease",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-crease/",
+      "publishedAt": "2026-09-09T22:35:45.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-apps.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみiPhone「iPhone Duo」の画面折り目はどうなっているか",
+      "summaryJa": "折りたたみ型端末「iPhone Duo」の製品ページにおいて、Appleはディスプレイ中央の折り目について言及しています。完全な消失をうたうのではなく、独自のナノテクスチャ仕上げや特殊な接着剤、100以上の部品で構成されるヒンジによって、反射を抑えつつ折り目の視認性を最小限に抑えていると説明しています。本機は10月23日の発売を予定しており、大きな注目を集めています。"
+    },
+    {
+      "id": "2c46ccc3d2cb6aa5b8be",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 and Ultra 4 Get Wave of New Bands",
+      "url": "https://www.macrumors.com/2026/09/09/apple-watch-series-12-and-ultra-4-new-bands/",
+      "publishedAt": "2026-09-09T22:24:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12-modern-buckle.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 12およびUltra 4向けに多彩な新バンドが登場",
+      "summaryJa": "秋の新製品発表に合わせて、Apple Watch Series 12とApple Watch Ultra 4向けの交換バンドに新しいカラーや素材のラインナップが追加されました。スポーツバンドやスポーツループ、ミラネーゼループなどに新色が加わったほか、Ultra 4向けには半透明のオーシャンバンドなどが用意されています。それぞれのケースに合わせた洗練されたデザインが展開されます。"
+    },
+    {
+      "id": "b3dd9ff853f325104166",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 Will Let You Redeem Apple Gift Cards on the Back of Your iPhone",
+      "url": "https://www.macrumors.com/2026/09/09/ios-27-apple-gift-cards-tap-to-redeem-on-iphone/",
+      "publishedAt": "2026-09-09T22:11:08.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Gift-Cards-16x9-Gradient.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27でiPhoneの背面にタッチしてAppleギフトカードが登録可能に",
+      "summaryJa": "iOS 27のリリース候補版のコードから、対応するiPhoneの背面にAppleギフトカードをタッチするだけで残高をチャージできる新しい機能が見つかりました。ギフトカードに内蔵されたセキュリティチップをスキャンし、本物であることや未使用であることを検証する仕組みとなっています。この新しい登録フローにより、詐欺被害の軽減なども期待されています。"
+    },
+    {
+      "id": "ab4f9a9dda1eee439cd3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple updates Design Resources with iPhone Duo and iPhone 18 Pro product bezels",
+      "url": "https://9to5mac.com/2026/09/09/apple-updates-design-resources-with-iphone-duo-and-iphone-18-pro-product-bezels/",
+      "publishedAt": "2026-09-09T21:54:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-bezels.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、デザインリソースを更新しiPhone DuoやiPhone 18 Proのベゼルを追加",
+      "summaryJa": "最新イベントの開催を受け、Appleは公式のデザインリソースポータルを更新し、iPhone DuoおよびiPhone 18 Proの製品ベゼルなどの素材を追加しました。これにより、FigmaやPhotoshopなどの各種デザインツール向けに、新モデルの開閉状態や新しいDynamic Islandの形状を反映したアセットが利用可能になります。デザイナー向けに最新のハードウェア形状に合わせた素材が提供されています。"
+    },
+    {
+      "id": "52a3e1c5b3e3cbf894b9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 Comes in New Finishes, Including Ceramic",
+      "url": "https://www.macrumors.com/2026/09/09/apple-watch-series-12-comes-new-finishes/",
+      "publishedAt": "2026-09-09T21:52:28.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/series-12-ceramic.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 12が発表、セラミック素材が復活",
+      "summaryJa": "Apple Watch Series 12は、セラミックを含む新しい仕上げや素材の選択肢を取り入れて登場しました。アルミ、チタン、セラミックの各モデルが用意され、価格は399ドルからとなっています。今回は本体に合わせたセラミック製のピン留め付きスポーツバンドも同梱され、予約受付が開始されています。"
+    },
+    {
+      "id": "ca6472be86f23291e0ea",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro is eSIM-Only in These Countries",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-esim-only-countries/",
+      "publishedAt": "2026-09-09T21:52:15.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Burgundy-1-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Pro、日本を含む一部地域でeSIM専用に",
+      "summaryJa": "Appleは最新のiPhone 18 Proシリーズにおいて、日本や米国などの一部の国と地域で物理SIMカードトレイを廃止し、eSIM専用仕様にすることを明らかにしました。物理SIMトレイのスペースがなくなったことでバッテリー容量が拡大しています。なお、その他の国や地域では引き続き物理SIMスロットも搭載されます。"
+    },
+    {
       "id": "9c72351a66f82496edd6",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -179,6 +331,36 @@
       ],
       "titleJa": "iPhone 18 Pro Maxは本体サイズ据え置きで重量が増加、その理由は",
       "summaryJa": "iPhone 18 Pro Maxは前世代と同じ本体サイズを維持しながらも、重量が16グラム増加して249グラムとなりました。本体の厚さは変わらないものの、より大型化したベイパーチャンバー冷却システムやバッテリー容量の拡大が重量増の要因とみられています。新しい冷却機構により、A20 Proチップの持続的なパフォーマンスが大きく向上しています。"
+    },
+    {
+      "id": "34bc4ddcf43870811cf9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirPods 5 Include ANC as Standard, Pricier Variant Now Gatekeeps Wireless Charging Instead",
+      "url": "https://www.macrumors.com/2026/09/09/airpods-5-include-anc-as-standard/",
+      "publishedAt": "2026-09-09T20:36:16.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/airpods-5-stem-touch-volume-controls.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirPods 5が登場、標準モデルにアクティブノイズキャンセリングを搭載",
+      "summaryJa": "Appleは、アクティブノイズキャンセリングを標準搭載したAirPods 5を発表しました。従来は上位モデルのみだった機能が129ドルのベースモデルにも追加され、より手に取りやすくなっています。また、149ドルのワイヤレス充電ケース付きモデルには、スワイプ音量調整や長いバッテリー駆動時間が備わっています。"
+    },
+    {
+      "id": "a2e67c3303fa6a1a3ae1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple confirms Siri AI launches in English this month, will add five languages in October",
+      "url": "https://9to5mac.com/2026/09/09/apple-confirms-siri-ai-launches-in-english-this-month-will-add-five-languages-in-october/",
+      "publishedAt": "2026-09-09T20:33:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新Siri AI、今月英語で提供開始し10月に日本語など5言語に対応へ",
+      "summaryJa": "Appleはイベントにおいて、新機能となるSiri AIの提供スケジュールを明らかにしました。今月中に英語での展開が始まり、10月には日本語、フランス語、韓国語、ポルトガル語、スペイン語の5言語へ対応言語が拡大されます。新しいLLMベースの音声アシスタントとして、OSのリリースに合わせて順次利用可能になる予定です。"
     },
     {
       "id": "b7aec78c07914a38d554",
@@ -4324,189 +4506,9 @@
       ],
       "titleJa": "Apple、各OSのパブリックベータ第6版を公開",
       "summaryJa": "Appleは登録ユーザー向けに、iOSやiPadOS、tvOSなどのパブリックベータ第6版をリリースしました。開発者向けベータの第8版公開に続くもので、9月のイベント後に予定されている正式リリースに向けた最終調整の段階に入っています。今回のベータ版では目立った新機能の追加は含まれておらず、安定性の向上やバグ修正が中心となっています。"
-    },
-    {
-      "id": "d154f9b70b630bbf1769",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Says Former Engineer Used Stolen Trade Secrets at OpenAI, Taught AI Agent to Run Them",
-      "url": "https://www.macrumors.com/2026/08/31/apple-openai-lawsuit-trade-secret-theft-evidence/",
-      "publishedAt": "2026-08-31T20:22:40.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/05/OpenAI-vs-Apple-Feature-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、元エンジニアが機密を不正利用した証拠を提出",
-      "summaryJa": "Appleは、元従業員が機密情報を盗み出してOpenAIでの業務に利用したとする訴訟において、新たな証拠を追加提出しました。元従業員のラップトップのフォレンジック調査から、機密の回路図面を不正にダウンロードしAIエージェントの訓練などに利用していたことが判明しています。Appleは迅速な証拠開示手続きを進めるよう裁判所に求めており、法的な対立が続いています。"
-    },
-    {
-      "id": "3a274dab9aafd4c72728",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro: Three reasons you might want to upgrade from iPhone 17 Pro",
-      "url": "https://9to5mac.com/2026/08/31/iphone-18-pro-three-reasons-you-might-want-to-upgrade-from-iphone-17-pro/",
-      "publishedAt": "2026-08-31T20:21:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Pro、iPhone 17 Proからのアップグレードを検討すべき3つの理由",
-      "summaryJa": "まもなく発表されると予想される「iPhone 18 Pro」について、前モデルからの買い替えを検討したくなる3つの主要な特徴が報じられています。1つ目は省電力ディスプレイやA20 Proチップ、自社製モデムなどによるバッテリー寿命の大幅な向上です。2つ目は可変絞り機能の搭載などが噂される、近年で最大規模となるカメラハードウェアの進化があげられています。3つ目はデザインの小規模な刷新であり、多くのユーザーの関心を集めるポイントとなっています。"
-    },
-    {
-      "id": "699d244d96f78adfaf9b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple reveals ‘shocking evidence’ from ex-employee’s MacBook in OpenAI suit",
-      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-      "publishedAt": "2026-08-31T20:20:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、OpenAI訴訟で元従業員のMacBookから「衝撃的な証拠」を発見と主張",
-      "summaryJa": "Appleは、OpenAIを相手取った進行中の訴訟において、元従業員が使用していたMacBookの初期フォレンジック調査に基づく「衝撃的な証拠」を新たに提出しました。訴訟では、元シニアシステム電気エンジニアのチャン・リウ氏が機密の回路図をダウンロードし、OpenAIでの業務に使用していたことなどが主張されています。さらに、社内調査の発覚後に証拠隠滅の指示を出していた疑いなども指摘されており、迅速な証拠開示を強く求めています。"
-    },
-    {
-      "id": "0d0e17a8a703adfbeda5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "How to run Mario Kart 64 with native Metal rendering, high frame rate, and HD textures on iPhone [Video]",
-      "url": "https://9to5mac.com/2026/08/31/how-to-run-mario-kart-64-with-native-metal-rendering-high-frame-rate-and-hd-textures-on-iphone-video/",
-      "publishedAt": "2026-08-31T19:50:57.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Mario-Kart-64-SpaghettiPad-Tutorial-Native-Metal-Rendering-iPhone-018.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhoneでマリオカート64をネイティブ動作させる方法",
-      "summaryJa": "エミュレーターではなくMetalレンダリングを活用し、iPhoneでマリオカート64をネイティブ動作させるアプリが登場しました。最大120fpsの高フレームレートや高解像度テクスチャ、ワイド画面に対応し、Bluetoothコントローラーと組み合わせることで快適なプレイ環境を実現します。"
-    },
-    {
-      "id": "3f2346bbadbcdaf1e177",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirPods With Cameras Could Bring Improved Spatial Audio Head Tracking",
-      "url": "https://www.macrumors.com/2026/08/31/camera-airpods-spatial-audio-head-tracking/",
-      "publishedAt": "2026-08-31T19:02:40.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/AirPods-Pro-4-With-Camera-Thumb.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "カメラ搭載AirPodsで空間オーディオの頭部追従が向上するか",
-      "summaryJa": "Appleが開発中とされるカメラ搭載のAirPodsに関する詳細が、macOSのコードから明らかになりました。装着者が視線を向けているディスプレイをカメラで検出し、モーションセンサーのデータと組み合わせることで、より精度の高い空間オーディオや視覚知覚機能を実現すると報じられています。"
-    },
-    {
-      "id": "591bf6b5d2f3af7a4d0d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Ultra release timing: Here’s what the latest reporting says",
-      "url": "https://9to5mac.com/2026/08/31/iphone-ultra-release-timing-heres-what-the-latest-reporting-says/",
-      "publishedAt": "2026-08-31T18:55:25.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "折りたたみ式iPhone Ultraの発売時期を巡る最新情報",
-      "summaryJa": "Appleが9月のイベントで初の折りたたみ式モデルとなるiPhone Ultraを発表すると報じられています。発売時期については遅れるとの憶測もあったものの、サプライチェーンの情報筋によると9月中の発売が見込まれており、初期の供給量は極めて限られる可能性が指摘されています。"
-    },
-    {
-      "id": "a6c4d2a073fdc5d25777",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Adds Three More Macs to Obsolete Products List",
-      "url": "https://www.macrumors.com/2026/08/31/apple-retina-macbook-air-obsolete/",
-      "publishedAt": "2026-08-31T18:37:51.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2018/10/MacBook-Air-family-10302018.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、2018年製のMacBook Airなどをビンテージ製品に追加",
-      "summaryJa": "Appleは、2018年のRetina搭載MacBook Airや一部のMacBook Proモデルを新たにオブソリート製品リストに追加しました。これにより公式での通常修理対応が終了となりますが、Macノートブックのバッテリー交換については最長10年間まで継続して対応する方針となっています。"
-    },
-    {
-      "id": "73c7a624f10c027a286a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "MagSafe Monday: Anker’s foldable 3-in-1 charger brings 25-watt Qi2 charging into something pocket-sized",
-      "url": "https://9to5mac.com/2026/08/31/ankers-foldable-3-in-1-charger-brings-25w-qi2-charging-into-something-pocket-sized/",
-      "publishedAt": "2026-08-31T18:30:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/bradley_60288f.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Anker、ポケットサイズの折り畳み式25W Qi2充電器を発表",
-      "summaryJa": "Ankerの新しいプライムQi2 25W折り畳み式3-in-1ワイヤレス充電器は、旅行時に持ち運びやすいポケットサイズのデザインを採用しています。iPhone、Apple Watch、AirPodsを同時に充電でき、新しいQi2規格により最大25ワットの高速充電に対応しています。また、独自の冷却システムを搭載することで発熱を抑え、バッテリーの健康を保ちながら安全かつ効率的な充電を実現している点が大きな特徴です。"
-    },
-    {
-      "id": "dc95c365744240af93a2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seemingly Made a Mistake When Announcing the New Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/31/apple-edits-mac-studio-press-release/",
-      "publishedAt": "2026-08-31T18:19:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/06/Mac-Studio-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型Mac Studio発表時のプレスリリース記載ミスか",
-      "summaryJa": "AppleがM5 MaxおよびM5 Ultraチップを搭載した新しいMac Studioを発表した際、プレスリリースにPCIe Gen 6ベースのSSDアーキテクチャを採用していると一時記載されていましたが、その後削除されました。競合や同世代のMacBook Proの仕様から、実際にはPCIe 5.0のサポートである可能性が高いと報じられています。Appleからの公式なコメントはまだ出ていませんが、単純な記載ミスの可能性が指摘されています。"
-    },
-    {
-      "id": "e890d489080ea7bf1894",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases beta 8 for iPadOS 27, watchOS 27, and more",
-      "url": "https://9to5mac.com/2026/08/31/apple-releases-beta-8-for-ipados-27-watchos-27-and-more/",
-      "publishedAt": "2026-08-31T17:16:48.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iPadOS-27-b8.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPadOSやwatchOSなどのベータ8を公開",
-      "summaryJa": "Appleは開発者およびテスター向けに、iPadOSやwatchOS、tvOSなどの次期OSのベータ8を新たにリリースしました。今回のアップデートは、来週予定されているイベントでのRC版公開や、数週間後に控えた正式リリースに向けた細かなバグ修正とパフォーマンス向上が中心となっています。大きな新機能の追加は控えめですが、正式版リリース前の最終調整段階に入っています。"
-    },
-    {
-      "id": "fc2d280129a3a1a83601",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "macOS 27 developer beta 8 now available, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/08/31/macos-27-developer-beta-8-now-available-heres-whats-coming/",
-      "publishedAt": "2026-08-31T17:16:05.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/macOS-27-beta-8.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、開発者向けにmacOS 27ベータ8をリリース",
-      "summaryJa": "Appleは正式リリースに向けて、開発者向けにmacOS 27のベータ8の提供を開始しました。このバージョンでは、細かなバグ修正やパフォーマンスの最適化を中心に進められており、まもなく登場するRC版や一般公開に向けた最終調整が行われています。macOS 27では、刷新されたSiriやAIを活用したショートカット機能、新しい壁紙などが導入される予定です。"
-    },
-    {
-      "id": "d4385dcea91a1dec2b57",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases macOS Golden Gate Beta 8",
-      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-macos-27-beta-8/",
-      "publishedAt": "2026-08-31T17:14:06.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、開発者向けにmacOS Golden Gateベータ8を配信",
-      "summaryJa": "Appleは開発者に向けて「macOS Golden Gate」のベータ8をリリースしました。このアップデートでは、デザインの改善や透明度の調整機能、さらにAI機能を統合した新しいSiriなどが導入されています。システム全体での使い勝手やパフォーマンスの向上が図られており、正式公開に向けたテストが進められています。"
     }
   ],
-  "updatedAt": "2026-09-09T21:44:31.452Z",
+  "updatedAt": "2026-09-09T23:32:07.217Z",
   "initialized": true,
   "summaryVersion": 4
 }
