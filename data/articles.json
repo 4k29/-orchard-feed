@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "9c72351a66f82496edd6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Hands-on with Siri Modular, watchOS 27’s new Apple Watch face",
+      "url": "https://9to5mac.com/2026/09/09/hands-on-with-siri-modular-watchos-27s-new-apple-watch-face/",
+      "publishedAt": "2026-09-09T21:40:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-modular-watch-face.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "watchOS 27の新文字盤「Siriモジュラー」の仕様と外観",
+      "summaryJa": "watchOS 27のベータ版に含まれる新しい文字盤「Siriモジュラー」の詳細が明らかになりました。Apple WatchのSeriesおよびUltraモデルの両方で利用可能ですが、Ultraモデルではベゼルオプションなど一部のカスタマイズ項目が追加されています。時計のサイズやレイアウト、豊富な文字盤カラーの選択肢が用意されており、ユーザーの好みに合わせた柔軟な設定が可能です。"
+    },
+    {
+      "id": "bc63bcedfa7563e4daac",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo Will Ship With iOS 27.1, Hinting at Update's Release Date",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-ios-27-1/",
+      "publishedAt": "2026-09-09T21:36:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-closed-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone Duo、iOS 27.1を搭載して10月23日に発売か",
+      "summaryJa": "Appleは、新モデルとなるiPhone Duoを10月23日に発売し、初期出荷時にiOS 27.1がプリインストールされる予定であることを明らかにしました。これにより、最初の大型アップデートとなるiOS 27.1のリリース時期が10月中旬から下旬になると見られています。iOS 27.1では、デュアルディスプレイや新しい垂直ドックといったiPhone Duo特有のデザインに合わせたアプリレイアウトの更新が含まれる見込みです。"
+    },
+    {
+      "id": "c3b0680480ce9a510f55",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple shares more details about Apple Intelligence usage limits and terms",
+      "url": "https://9to5mac.com/2026/09/09/apple-shares-more-details-about-apple-intelligence-usage-limits-and-terms/",
+      "publishedAt": "2026-09-09T21:27:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-intelligence-liquid-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Apple Intelligenceの利用制限と条件に関する詳細を公開",
+      "summaryJa": "AppleはApple Intelligenceの利用規約や制限事項について解説する新しいサポート文書を公開しました。サーバー側のモデルに依存するSiri AIや画像生成ツールなどの機能において、将来的に利用制限が課される可能性があるとしています。制限を超えた場合は一定期間機能が利用できなくなりますが、iCloud+のプラン等を通じて追加のアクセスが提供される予定です。"
+    },
+    {
+      "id": "e88ba46213bfc09d0608",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Three All-New 'Audio Intelligence' Features Arrive With Apple Watch Series 12 and Ultra 4",
+      "url": "https://www.macrumors.com/2026/09/09/audio-intelligence-features/",
+      "publishedAt": "2026-09-09T21:23:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch向けの新機能「オーディオインテリジェンス」が登場",
+      "summaryJa": "Appleは、Apple Watch Series 12およびApple Watch Ultra 4向けに、Apple Intelligenceを活用した新機能群「オーディオインテリジェンス」を発表しました。会話の内容を要約する「Siri Recap」や、直前の発話を文字起こしして振り返る「Live Rewind」などが搭載されます。音声データは本体内で処理されて即座に削除されるため、プライバシーにも配慮された設計となっています。"
+    },
+    {
+      "id": "adaa6366b72057e074a2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo Only Works With the $79 USB-C Apple Pencil, Not the Apple Pencil Pro",
+      "url": "https://www.macrumors.com/2026/09/09/apple-pencil-usb-c-iphone-duo/",
+      "publishedAt": "2026-09-09T21:15:32.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/10/Apple-Pencil-USB-C-sliding-cap-feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone DuoはApple Pencil Pro非対応、USB-Cモデルのみ利用可能か",
+      "summaryJa": "新登場のiPhone DuoはApple Pencilに対応するものの、磁気充電機能がない構造上の理由から、Apple Pencil Proではなく79ドルのUSB-Cモデルのみをサポートすると報じられています。内側と外側の両方のディスプレイで利用でき、今年後半のソフトウェアアップデートで機能が追加される予定です。価格や機能の違いを考慮してアクセサリーを選ぶ必要があります。"
+    },
+    {
+      "id": "d134a3bf9e1fb03f1b02",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 and Ultra 4 Offer These Eight New Health and Fitness Features",
+      "url": "https://www.macrumors.com/2026/09/09/apple-watch-series-12-and-ultra-4-health-and-fitness/",
+      "publishedAt": "2026-09-09T21:07:27.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Watch-Series-12-2up-260909-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 12とUltra 4、8つの新しい健康管理機能が登場",
+      "summaryJa": "Appleは、Apple Watch Series 12およびUltra 4に向けた新しいヘルスケア機能とフィットネス機能を多数発表しました。電極の表面積を拡大した新センサーシステムや、心拍数を5秒ごとに計測する連続心拍数センシングなどを搭載しています。また、歩数トラッキングの精度向上やワークアウト時のバッテリー持ち時間も大幅に強化されました。"
+    },
+    {
+      "id": "0bfd5c5773ce24c17a70",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Max vs iPhone 18 Pro: Two exclusive features",
+      "url": "https://9to5mac.com/2026/09/09/iphone-18-pro-max-vs-iphone-18-pro-two-exclusive-features/",
+      "publishedAt": "2026-09-09T21:02:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-official.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 ProとPro Maxのモデル別に見る2つの独占的な違い",
+      "summaryJa": "Appleが発表した最新のフラグシップモデルであるiPhone 18 ProとPro Maxには、それぞれ異なる独占的機能が搭載されています。Proモデルには独自設計の次世代「C2モデム」が採用されている一方、Pro Maxモデルはビデオ再生時間が大幅に延びるなど優れたバッテリー性能を実現しています。ユーザーは自身の利用スタイルに応じて選択することになります。"
+    },
+    {
+      "id": "2c1640b0de7338d8c335",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo Doesn't Have an Action Button",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-doesnt-have-an-action-button/",
+      "publishedAt": "2026-09-09T21:02:02.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-no-action-button.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone Duoにはアクションボタン非搭載、Touch IDを側面ボタンに採用か",
+      "summaryJa": "技術仕様の図解から、iPhone Duoには近年のiPhoneに採用されてきたアクションボタンが搭載されていないことが明らかになりました。代わりに音量ボタン、カメラコントロール、側面にTouch IDを内蔵したサイドボタンなどが配置されています。物理的なミュートスイッチも存在せず、消音モードはコントロールセンターから操作する必要があります。"
+    },
+    {
+      "id": "3c1f5193c5b1708bd9c4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Download the new iPhone 18 Pro wallpapers here",
+      "url": "https://9to5mac.com/2026/09/09/download-the-new-iphone-18-pro-wallpapers-here/",
+      "publishedAt": "2026-09-09T21:01:33.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-wallpapers.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの壁紙が早くも公開、手持ちのデバイスにダウンロード可能",
+      "summaryJa": "Appleが発表した「iPhone 18 Pro」および「iPhone 18 Pro Max」向けの新しい壁紙が、早くも公開されダウンロードできるようになりました。これらはiOSのリリース候補版から抽出された静止画バージョンとなっています。デバイスを購入しなくても、高解像度の画像を保存して自分の背景に設定することが可能です。"
+    },
+    {
+      "id": "18d1543f3df7a1a3f66e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Reveals iPhone 18 Pro and iPhone 18 Pro Max Battery Capacities",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-max-battery-capacities/",
+      "publishedAt": "2026-09-09T20:56:17.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Battery.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 ProとPro Maxのバッテリー容量が判明、EUの規制で明らかに",
+      "summaryJa": "Appleが発表したiPhone 18 ProおよびiPhone 18 Pro Maxのバッテリー容量が、EU向け製品ページに掲載されたエネルギーラベルから判明しました。SIMカードトレイ搭載モデルでは、Proが4,056 mAh、Pro Maxが5,391 mAhとなっています。特にPro Maxは前世代から大幅な容量増加となりました。"
+    },
+    {
+      "id": "d38e46af2fe79970edcb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo: Here are all the little details you might have missed",
+      "url": "https://9to5mac.com/2026/09/09/iphone-duo-here-are-all-the-little-details-you-might-have-missed/",
+      "publishedAt": "2026-09-09T20:46:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-standby-mode.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple初の折りたたみ式「iPhone Duo」の細かい仕様や見落としがちな特徴",
+      "summaryJa": "Apple初の折りたたみ式モデルとして発表された「iPhone Duo」の、あまり知られていない細かい仕様が明らかになりました。インディスプレイカメラを搭載し、内部画面にはナノテクチャ仕上げが施されるほか、今年後半にはApple Pencilのサポートも予定されています。一方で、アクションボタン非搭載やメインカメラの可変絞り非対応といった違いもあります。"
+    },
+    {
+      "id": "4a5300d676cd08666857",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Max Is Heavier Than iPhone 17 Pro Max, Not Thicker",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-max-heavier/",
+      "publishedAt": "2026-09-09T20:41:05.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-iPhone-18-Pro-2up-16x9-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Pro Maxは本体サイズ据え置きで重量が増加、その理由は",
+      "summaryJa": "iPhone 18 Pro Maxは前世代と同じ本体サイズを維持しながらも、重量が16グラム増加して249グラムとなりました。本体の厚さは変わらないものの、より大型化したベイパーチャンバー冷却システムやバッテリー容量の拡大が重量増の要因とみられています。新しい冷却機構により、A20 Proチップの持続的なパフォーマンスが大きく向上しています。"
+    },
+    {
       "id": "b7aec78c07914a38d554",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4324,189 +4504,9 @@
       ],
       "titleJa": "Apple、開発者向けにmacOS Golden Gateベータ8を配信",
       "summaryJa": "Appleは開発者に向けて「macOS Golden Gate」のベータ8をリリースしました。このアップデートでは、デザインの改善や透明度の調整機能、さらにAI機能を統合した新しいSiriなどが導入されています。システム全体での使い勝手やパフォーマンスの向上が図られており、正式公開に向けたテストが進められています。"
-    },
-    {
-      "id": "38218513104d48987b0e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds Eighth iOS 27 and iPadOS 27 Betas to Developers",
-      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-ios-27-beta-8/",
-      "publishedAt": "2026-08-31T17:13:25.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、開発者向けにiOS 27およびiPadOS 27のベータ8を公開",
-      "summaryJa": "Appleはテストの一環として、開発者向けにiOS 27とiPadOS 27のベータ8を配信開始しました。新機能のSiri AIをはじめ、PhotosやSafariなどのアプリ全体でApple Intelligenceが拡充されています。また、Liquid Glassのデザイン調整やシステム全体のパフォーマンス向上も含まれています。"
-    },
-    {
-      "id": "5049110d8107d3c8e992",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 beta 8 now available as Apple tests major Siri AI upgrade",
-      "url": "https://9to5mac.com/2026/08/31/ios-27-beta-8/",
-      "publishedAt": "2026-08-31T17:12:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iOS-27-b8.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、Siri AIを強化したiOS 27ベータ8を開発者向けにリリース",
-      "summaryJa": "Appleは9月の一般向けリリースを控え、開発者向けにiOS 27ベータ8を公開しました。今回のアップデートはSiri AIの刷新が中心となっており、次世代のApple Foundation Modelsを活用した高度な会話や画面認識機能が搭載されています。また、Liquid Glassデザインの改良や各アプリでのAI機能の拡張も進められています。"
-    },
-    {
-      "id": "d49958f1f3db6b168564",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds watchOS 27 Beta 8 to Developers",
-      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-watchos-27-beta-8/",
-      "publishedAt": "2026-08-31T17:12:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、開発者向けにwatchOS 27ベータ8を配信開始",
-      "summaryJa": "Appleは開発者向けにwatchOS 27のベータ8をリリースしました。このバージョンでは、対応するiPhoneと連携して動作する新しいSiri AIが導入され、情報の検索や自然な対話が可能になっています。さらに、Liquid Glassの視認性向上や、ワークアウト機能の強化、バッテリー効率の最適化なども行われています。"
-    },
-    {
-      "id": "a34c4a8eaa699456f8be",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds tvOS 27 Beta 8 to Developers",
-      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-tvos-27-beta-8/",
-      "publishedAt": "2026-08-31T17:11:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/tvOS-27-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、開発者向けにtvOS 27ベータ8を配信",
-      "summaryJa": "Appleはテスト用として、開発者向けにtvOS 27のベータ8を配信開始しました。前回のベータ版から約1週間でのリリースとなり、設定アプリからダウンロードしてインストールすることが可能です。今回のアップデートでは、ポッドキャストアプリの再設計や文字サイズ拡大オプション、応答性が向上したコントロールセンターなどが含まれています。"
-    },
-    {
-      "id": "db589570e040c6cef114",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds Eighth visionOS 27 Beta to Developers",
-      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-visionos-27-beta-8/",
-      "publishedAt": "2026-08-31T17:10:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/curved_windows_visionos-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、開発者向けにvisionOS 27ベータ8を配信開始",
-      "summaryJa": "Appleは開発者向けに次期「visionOS 27」のベータ8をリリースしました。今回のアップデートでは、よりスマートになったSiri AIや空間環境へ変換できるパノラマ写真機能などが含まれており、各種システムの改良が進められています。"
-    },
-    {
-      "id": "20503edc3dd3fb4f73e7",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Phil Schiller Scales Back Role as John Ternus Era Begins",
-      "url": "https://www.macrumors.com/2026/08/31/phil-schiller-stepping-down-app-store/",
-      "publishedAt": "2026-08-31T16:54:47.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2020/08/applephilschiller.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "フィル・シラー、App Storeと製品イベントの統括を退任へ",
-      "summaryJa": "アップルフェローを務めるフィル・シラーが、App Storeおよび製品発表イベントの責任者から退くことが報じられました。今後は特定のプロジェクトに注力し、社内では引退に向けた段階的なステップと受け止められています。App Storeの運営はエディ・キュー率いるサービス部門へと移行される予定です。"
-    },
-    {
-      "id": "4ba020cb8d7575491f00",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Phil Schiller steps down from leading the App Store and Apple events",
-      "url": "https://9to5mac.com/2026/08/31/phil-schiller-steps-down-from-leading-the-app-store-and-apple-events/",
-      "publishedAt": "2026-08-31T16:54:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/Phil-Schiller-advances-to-apple-fellow_08042020_big.jpg.large_2x-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "アップル、App Storeおよびイベントの統括責任者を変更へ",
-      "summaryJa": "長年App Storeや製品発表イベントを率いてきたフィル・シラーがその役割から退き、App Storeの管轄がエディ・キュー率いるサービス部門へ移管されます。日々の運営はカーソン・オリバーが引き継ぎ、イベント運営はノラ・ワインスタインが担当します。シラーはアップルフェローとして今後も社内に留まります。"
-    },
-    {
-      "id": "2e15c3bbc25aa33f2df5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple could discontinue 10+ popular products next week",
-      "url": "https://9to5mac.com/2026/08/31/apple-could-discontinue-10-popular-products-next-week/",
-      "publishedAt": "2026-08-31T16:04:23.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-17-pro-and-max.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "アップル、来週のイベントに伴い10製品以上を販売終了か",
-      "summaryJa": "9月開催のスペシャルイベントに合わせて、複数の旧モデルiPhoneやApple Watchなどが販売終了になると報じられています。新型モデルの登場に伴う通常のラインナップ整理だけでなく、価格改定や新製品の投入スケジュールによっては従来の販売継続パターンが変わる可能性もあります。"
-    },
-    {
-      "id": "5d2aebe0198081a8d140",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Tim Cook Comments on His Final Day as Apple CEO",
-      "url": "https://www.macrumors.com/2026/08/31/tim-cook-messages-on-final-day-as-apple-ceo/",
-      "publishedAt": "2026-08-31T15:39:34.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/tim-cook-john-ternus-apple-ceo.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "ティム・クック、CEO最終日に従業員へ向けた感謝のメモを公開",
-      "summaryJa": "ティム・クックが最高経営責任者（CEO）としての最終日を迎えるにあたり、全従業員に向けて感謝のメッセージを送りました。後任にはハードウェアエンジニアリング担当のジョン・ターナスが就任します。クックは従業員の優れた文化と情熱を称え、リーダーとして過ごした日々を振り返りました。"
-    },
-    {
-      "id": "4d5cbd770c03b637ad95",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AirPods 5: Here’s what rumors say will launch next week",
-      "url": "https://9to5mac.com/2026/08/31/airpods-5-heres-what-rumors-say-will-launch-next-week/",
-      "publishedAt": "2026-08-31T15:28:54.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-5-mockup-single-4-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirPods 5が来週のイベントで登場か、カメラ非搭載との報道",
-      "summaryJa": "Appleが来週開催するスペシャルイベントにおいて、新型のAirPods 5が発表されると報じられています。今回のモデルはアクティブノイズキャンセリングの有無による2種類が用意される見込みですが、噂されていたカメラ機能の搭載はまだ先になると伝えられています。"
-    },
-    {
-      "id": "d5120ded8a4e93a57a8d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Read Tim Cook’s full memo to Apple employees on his last day as CEO",
-      "url": "https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/",
-      "publishedAt": "2026-08-31T15:14:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/tim-cook-wwdc26-keynote-wave.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ティム・クックCEOが退任、社員へ送った最後の手紙を公開",
-      "summaryJa": "ティム・クックがAppleの最高経営責任者（CEO）としての最後の日を迎え、社内に向けた感動的なメッセージを公開しました。長年のサポートと社員の努力に対する深い感謝を述べるとともに、後任となるジョン・ターナスへの全幅の信頼を示しています。"
-    },
-    {
-      "id": "75d074fd9f391218a692",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: AirPods from $80, MagSafe Battery up to 60% off, AirTag 2 $20 each, Apple Pencil, more",
-      "url": "https://9to5mac.com/2026/08/31/deals-airpods-magsafe-battery-airtag-2-apple-pencil/",
-      "publishedAt": "2026-08-31T15:05:48.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-AirPods-Apple-Pencil-AirTag-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AmazonセールでAirTag 2やApple製品が大幅割引に",
-      "summaryJa": "Amazonのレイバーデイセールにおいて、AirTag 2や各種Apple製品が過去最安値圏で販売されています。AirTag 2の単体や4パックセットのほか、MagSafeバッテリーなどが大幅な割引価格で提供されており、一部の商品は在庫限りとなっています。"
     }
   ],
-  "updatedAt": "2026-09-09T19:14:14.109Z",
+  "updatedAt": "2026-09-09T21:44:31.452Z",
   "initialized": true,
   "summaryVersion": 4
 }
