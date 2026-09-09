@@ -1,6 +1,187 @@
 {
   "articles": [
     {
+      "id": "b7aec78c07914a38d554",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro battery life compared to iPhone Duo and iPhone 17 Pro",
+      "url": "https://9to5mac.com/2026/09/09/iphone-18-pro-battery-life-compared-to-iphone-duo-and-iphone-17-pro/",
+      "publishedAt": "2026-09-09T19:10:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-iphone-duo-side-by-side.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proシリーズ、歴代最大のバッテリー駆動時間を実現か",
+      "summaryJa": "Appleが発表した新フラッグシップモデル「iPhone 18 Pro」および「iPhone Duo」では、バッテリー駆動時間がiPhone史上最大の大幅な向上を果たすとされています。内部設計の見直しに加え、新しいA20 Proチップによる電力効率の改善やソフトウェアの最適化がその要因です。ビデオ再生時間ベースの比較では、前モデルから10％から14％ほど駆動時間が延びているほか、より実使用に即した新しい測定基準も導入されています。"
+    },
+    {
+      "id": "48fdd8f66833f88a417c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo Gets Its Own Case and Folio With Kickstand",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-gets-its-own-case-and-folio/",
+      "publishedAt": "2026-09-09T19:09:52.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-case.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhone Duo向けの専用ケースとキックスタンド付きフォリオを投入",
+      "summaryJa": "Appleは新型の「iPhone Duo」向けに、専用のケースとキックスタンド付きフォリオの2種類のアクセサリを発表しました。iPhone Duoケースは薄型で前後を包み込むデザインを採用し、マグネットで簡単に装着できます。一方のキックスタンド付きフォリオには独自のファブリック素材が使われ、スタンドを起こした状態でもMagSafe充電が可能です。"
+    },
+    {
+      "id": "5eb1fd8a9dae8b7bf4d6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds iOS 27 and iPadOS 27 Release Candidates",
+      "url": "https://www.macrumors.com/2026/09/09/apple-ios-27-rc/",
+      "publishedAt": "2026-09-09T19:07:44.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iOS 27とiPadOS 27のリリース候補版を開発者向けに公開",
+      "summaryJa": "Appleは正式リリースに向けた最終テストのため、「iOS 27」および「iPadOS 27」のリリース候補版（RC）を公開しました。新バージョンでは、ChatGPTのような機能を持つ「Siri AI」や、多くのApple Intelligence機能が各種アプリに追加されています。また、デザイン面での調整や、全体的な動作速度および接続性の向上といったパフォーマンスの改善も含まれています。"
+    },
+    {
+      "id": "330ffd72aac59a678aaf",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "macOS Golden Gate Release Candidate Now Available",
+      "url": "https://www.macrumors.com/2026/09/09/apple-seeds-macos-27-rc/",
+      "publishedAt": "2026-09-09T19:07:25.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、macOS Golden Gateのリリース候補版を提供開始",
+      "summaryJa": "Appleは次期macOSとなる「macOS Golden Gate」のリリース候補版（RC）を開発者やベータテスター向けに公開しました。UIの視認性改善やツールバーの統一といったデザイン変更に加え、AI機能を統合した「Siri AI」や新しい検索・質問インターフェースが導入されています。これらは正式リリース前の最終段階のテストとして配信されており、各種AI機能が利用可能になります。"
+    },
+    {
+      "id": "8d9bc7d5d420623910d9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds watchOS 27, visionOS 27, and tvOS 27 Release Candidates",
+      "url": "https://www.macrumors.com/2026/09/09/apple-seeds-watchos-27-rc/",
+      "publishedAt": "2026-09-09T19:07:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、watchOS 27やvisionOS 27などのRC版を公開",
+      "summaryJa": "Appleは開発者とパブリックベータテスター向けに、watchOS 27、visionOS 27、tvOS 27のリリース候補版（RC）を公開しました。各OSではSiri AIによる高度な会話機能やパーソナルコンテクストの理解に対応し、新しい環境や表示改善などの機能が追加されています。重大な不具合が発見されなければ、これがそのまま一般向けに配信される最終版となります。"
+    },
+    {
+      "id": "d22bc9bc9104aef57a54",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、Apple Watch Ultra 4を発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+      "publishedAt": "2026-09-09T19:04:39.851Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、ヘルスケア機能を強化したApple Watch Ultra 4を発表",
+      "summaryJa": "Appleは、スポーツと冒険に向けた腕時計の最新モデルとなるApple Watch Ultra 4を発表しました。新しいヘルスセンシングシステムとS11チップを搭載し、高精度な心拍数センサーや準備度スコアなどのパワフルな健康管理機能を提供します。また、最大45時間の連続ワークアウト記録が可能なバッテリー駆動時間を実現し、watchOS 27によるSiri AIの機能にも対応しています。"
+    },
+    {
+      "id": "aea7a590e5a2f8bf6cd0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s how iPhone Duo treats apps not optimized for the foldable display",
+      "url": "https://9to5mac.com/2026/09/09/heres-how-iphone-duo-treats-apps-not-optimized-for-the-foldable-display/",
+      "publishedAt": "2026-09-09T19:03:59.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-Duo-two-sizes.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、初折りたたみ端末iPhone Duoの非対応アプリの挙動を解説",
+      "summaryJa": "Appleは同社初の折りたたみディスプレイ端末となるiPhone Duoを発表し、サードパーティ製アプリが大型ディスプレイでどのように動作するかを詳細に説明しました。iOS 26、iOS 27.0、iOS 27.1の各ターゲットに応じた3つの互換モードが用意されます。iOS 27.1では、折りたたみ画面を完全に活用したフルサポートのアプリ体験が可能になります。"
+    },
+    {
+      "id": "6fc7597b8e0f7062f7c9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Debuts New Accessories for iPhone 18 Pro and AirPods Pro 3",
+      "url": "https://www.macrumors.com/2026/09/09/new-accessories-for-iphone-18-pro/",
+      "publishedAt": "2026-09-09T19:01:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-cases.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhone 18 ProやAirPods Pro 3向けの新しい純正アクセサリーを発表",
+      "summaryJa": "AppleはiPhone 18 ProシリーズやAirPods Pro 3向けに、新しい純正アクセサリーのラインナップを発表しました。MagSafe対応のクリアケースが再設計され、新たにリストストラップやクロスボディストラップなどの多彩なアクセサリが追加されています。新色はバーガンディやオリーブなど豊富なカラーバリエーションが用意され、本日より注文の受付が開始されています。"
+    },
+    {
+      "id": "00c7d6d47d5655383799",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple rolls out fourth developer and public RCs for macOS Tahoe 26.7 and macOS Sequoia 15.8",
+      "url": "https://9to5mac.com/2026/09/09/apple-rolls-out-fourth-developer-and-public-rcs-for-macos-tahoe-26-7-and-macos-sequoia-15-8/",
+      "publishedAt": "2026-09-09T18:55:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOS Tahoe 26.7とmacOS Sequoia 15.8の第4弾RCを配信",
+      "summaryJa": "Appleは、新製品発表イベントの開催に合わせて、開発者およびパブリックベータテスター向けにmacOS Tahoe 26.7とmacOS Sequoia 15.8の新たなリリース候補版（RC）を公開しました。今回のアップデートは主にバグ修正とパフォーマンス改善に焦点を当てています。AI支援によるセキュリティ研究の進展に伴い迅速な修正が可能となっており、数日中の正式リリースが見込まれています。"
+    },
+    {
+      "id": "df79cd65d88d7d3086fc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Discontinues iPhone 17 Pro and iPhone 17 Pro Max",
+      "url": "https://www.macrumors.com/2026/09/09/apple-discontinues-iphone-17-pro-max/",
+      "publishedAt": "2026-09-09T18:55:24.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Pro-Colors.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhone 18 Proの発表に伴いiPhone 17 Proシリーズの販売を終了",
+      "summaryJa": "Appleは、新型のiPhone 18 ProおよびiPhone 18 Pro Maxの発表を受けて、前世代のiPhone 17 ProとiPhone 17 Pro Maxの販売をオンラインストアから終了しました。これら旧モデルは前年9月に発売されたばかりでしたが、恒例の製品ラインナップの入れ替えに伴い、公式ストアでの取り扱いがなくなりました。現在は後継モデルを中心とした販売体制に移行しています。"
+    },
+    {
+      "id": "9ad850c60d258178d33b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27: Here are Apple’s full release notes",
+      "url": "https://9to5mac.com/2026/09/09/ios-27-here-are-apples-full-release-notes/",
+      "publishedAt": "2026-09-09T18:51:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-iphone-side-angle-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、9月14日配信の「iOS 27」公式リリースノートを公開",
+      "summaryJa": "Appleは、9月14日に控える「iOS 27」の正式リリースに向けて、公式のリリースノートを公開しました。対応機種向けに、会話能力が向上しパーソナルコンテキストを理解する新しいSiri機能や、写真の空間リフレーミングといったApple Intelligenceを活用した多彩な機能が含まれています。新しくなったSiriアプリやカメラとの統合機能など、詳細な仕様を確認できます。"
+    },
+    {
+      "id": "62ceddf43345a570cf2d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple confirms macOS 27 Golden Gate launch date: September 14",
+      "url": "https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/",
+      "publishedAt": "2026-09-09T18:47:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-golden-gate-wallpaper-bridge.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOS 27 Golden Gateを9月14日にリリースへ",
+      "summaryJa": "Appleは、「Surprise and Shine」イベントの終了後、macOS 27 Golden Gateを9月14日に配信することを正式に確認しました。このアップデートでは、刷新されたSiri AIや自然言語プロンプトから作成できるAIショートカット機能などが導入されます。対応機種はAppleシリコン搭載のMacとなり、一部の高度なAI機能はM3以降のチップと一定以上のメモリが必要となります。"
+    },
+    {
       "id": "3abad3bcef48b8f33247",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -12,9 +193,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "All New iPhone 18 Pro and 'iPhone Duo' Colors Leaked",
-      "summaryJa": "Ahead of Apple's annual iPhone event at 10 a.m. Pacific Time today, Bloomberg 's Mark Gurman has leaked all of the color options for the iPhone 18 Pro, iPhone 18 Pro Max, and the first-ever foldable iPhone named the iPhone Duo . iPhone 18 Pro and iPhone 18 Pro Max color options: Black Light Blue Burgundy Silver Burgundy has also been described as Dark Red or Dark Cherry. iPhone Duo color options: White Dark Blue Dark Blue has also been described as Indigo. Related Roundup: iPhone 18 Pro Tag: Mark Gurman This article, \" All New iPhone 18 Pro and 'iPhone Duo' Colors Leaked \" first appeared on MacRumors.com Discuss this article in our forums",
-      "translationStatus": "source"
+      "titleJa": "iPhone 18 Proおよび折りたたみ式iPhoneのカラーバリエーションが流出か",
+      "summaryJa": "Appleの発表イベントを控え、ブルームバーグのマーク・ガーマン記者がiPhone 18 Proシリーズと初の折りたたみ式iPhoneとされる「iPhone Duo」のカラーオプションをリークしました。iPhone 18 ProおよびPro Maxにはブラック、ライトブルー、バーガンディ、シルバーが用意され、iPhone Duoにはホワイトとダークブルーが含まれると伝えられています。"
     },
     {
       "id": "e3ce23f417876b5e3591",
@@ -28,9 +208,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Deals: M5 Pro MacBook Pro $500 off, AirPods Pro 3, AirPods Max 2, AirTag 2, chargers, and more",
-      "summaryJa": "Just ahead of $50 off , the AirTag 2 all-time low is back, and we are once again tracking $100 off AirPods Max 2. Today’s 9to5Toys Lunch Break is, however, headlined by a giant $500 price drop on Apple’s latest 14-inch 2TB M5 Pro MacBook Pro, a solid $100 price drop on the most affordable 2026 Apple Studio Display you can buy, and the now even lower launch price on this sweet new liquid-cooled Qi2.2 MagFlow Pro 25W Qi2.2 power bank . Check it all out below. more… Just ahead of today’s big Apple reveal event, the latest AirPods Pro 3 are still down at $50 off, the AirTag 2 all-time low is back, and we are once again tracking $100 off AirPods Max 2. Today’s 9to5Toys Lunch Break is, however, headlined by a giant $500 price drop on Apple’s latest 14-inch 2TB M5 Pro MacBook Pro, a solid $100 pr",
-      "translationStatus": "source"
+      "titleJa": "M5 Pro搭載MacBook Proが500ドル引きとなるなどApple製品セールが多数登場",
+      "summaryJa": "Appleの発表イベントを直前に控え、Amazonなどの各所でお得なセールが実施されています。注目は14インチ2TBのM5 Pro搭載MacBook Proの大幅な500ドル引きで、その他にもAirPods Pro 3やAirTag 2、AirPods Max 2などの人気アクセサリが割引価格で販売されています。"
     },
     {
       "id": "584a87e8d9a312a72a95",
@@ -44,9 +223,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple Event News Hub: iPhone 18 Pro, iPhone Duo coming soon",
-      "summaryJa": "9to5Mac’s Apple event coverage is brought to you by iMazing : iMazing’s platform for data transfer and device management keeps getting better. Get 20% off iMazing with code 9TO5-SEP26-20OFF. I’m at Apple Park for today’s “Surprise and shine” event, headlined by the rumored announcement of the iPhone 18 Pro and the foldable iPhone Duo. We’re also expecting the Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5. Bookmark this page to follow along with 9to5Mac’s coverage of all of Apple’s announcements today. more… 9to5Mac’s Apple event coverage is brought to you by iMazing: iMazing’s platform for data transfer and device management keeps getting better. Get 20% off iMazing with code 9TO5-SEP26-20OFF. I’m at Apple Park for today’s “Surprise and shine” event, headlined by the rumored an",
-      "translationStatus": "source"
+      "titleJa": "Apple、iPhone 18 Proや折りたたみ式iPhone「iPhone Duo」などを発表",
+      "summaryJa": "Appleは「Surprise and shine」イベントを開催し、新モデルのiPhone 18 Proや初の折りたたみ式iPhoneとなるiPhone Duoを正式に発表しました。さらに、2nmプロセスのA20 Proチップの搭載や冷却性能の向上、Apple Watch Series 12およびUltra 4、AirPods 5なども同時に明らかにされています。"
     },
     {
       "id": "96edbb75303125dab9a4",
@@ -60,9 +238,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "How to watch Apple event today: iPhone 18 Pro, iPhone Duo, more",
-      "summaryJa": "Today is Apple’s big September launch event, with a tagline: ‘Surprise and shine.’ Here’s how to watch the Apple event live, and a roundup of new products rumored to debut. more… Today is Apple’s big September launch event, with a tagline: ‘Surprise and shine.’ Here’s how to watch the Apple event live, and a roundup of new products rumored to debut. iPhone 18 Pro ‘Surprise and shine’ event: How to watch today’s Apple event live Today is arguably Apple’s biggest day of the year, with a major product launch that kicks off John Ternus’s CEO era. The iPhone 18 Pro launch event will happen today at 1:00 p.m. ET / 10:00 a.m. PT. The event is being streamed live for viewers around the globe. We’re expecting a pre-recorded video, as has become Apple’s norm. You can watch the ‘Surprise and shine’ S",
-      "translationStatus": "source"
+      "titleJa": "Appleの9月イベントが開催、iPhone 18 Proや新製品発表に注目が集まる",
+      "summaryJa": "Appleは「Surprise and shine」をタグラインに掲げた大規模な9月イベントを開催し、その模様をYouTubeやApple TVアプリなどで世界に向けてライブ配信しました。イベントではiPhone 18 Proや新型折りたたみモデルのiPhone Duoをはじめ、新型Apple WatchやAirPodsなどの多数の新製品の登場が期待されていました。"
     },
     {
       "id": "35834e004669345915cd",
@@ -136,9 +313,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Watch's New AI Day Summary Tracks These Activities",
-      "summaryJa": "Leaker \"pdfu\" today shared additional code-level details about the Apple Watch Series 12 and Ultra 4's new day summary feature, offering a clearer picture of what the AI tool will actually track. In a new post on X , pdfu said that the summaries generated by the feature, referred to in code as \"Ambient Sensing,\" include fields for time and date, location, meal information, and the people present along with their relationship to the user. The leaker also listed dozens of activity categories the underlying code supports, covering everything from meal prep and household chores to workouts, commuting, shopping, and screen time, alongside a catch-all \"Unknown\" category. The full list of activity categories is as follows: Eating Meal Snacking Preparing Meal Making Drinks Baking Plating Vacuuming",
-      "translationStatus": "source"
+      "titleJa": "Apple WatchのAI日誌機能が追跡する詳細な活動カテゴリが判明か",
+      "summaryJa": "コードネーム「Ambient Sensing」と呼ばれる次期Apple Watchの日報機能について、リークされたコードから追跡される具体的な活動カテゴリが明らかになりました。食事や家事、運動、通勤、画面時間など数十種類に及び、日時や場所、一緒にいる人物などの詳細も記録されると伝えられています。"
     },
     {
       "id": "5ddd73783d8396d88e6a",
@@ -152,9 +328,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "John Ternus posts mysterious video ahead of iPhone 18 Pro unveiling",
-      "summaryJa": "John Ternus, ahead of his first product unveiling as Apple CEO, has just posted a mysterious video teasing what may be iPhone 18 Pro’s new camera feature. more… John Ternus, ahead of his first product unveiling as Apple CEO, has just posted a mysterious video teasing what may be iPhone 18 Pro’s new camera feature. New video from Apple CEO John Ternus might be teasing iPhone 18 Pro camera upgrade Apple will unveil its latest iPhones, Apple Watch models, and more during today’s “Surprise and shine” event. And ahead of the big announcements, new CEO John Ternus has posted a mysterious video teasing what’s to come. Here’s the new X post from Ternus: pic.twitter.com/CLu9eRDP5b— John Ternus (@johnternus) September 9, 2026 The video might be teasing iPhone 18 Pro and Pro Max’s rumored variable ap",
-      "translationStatus": "source"
+      "titleJa": "Apple新CEOのジョン・ターナス氏が新製品イベント前に意味深な動画を公開",
+      "summaryJa": "Appleの新CEOであるジョン・ターナス氏が、新製品発表イベントを前にiPhone 18 Proの新しいカメラ機能を予告するような謎めいた動画をSNSに投稿しました。動画ではデバイスの隅にスポットライトが当たっており、iPhone 18 ProおよびPro Maxに搭載されると噂される可変絞り機能を示唆しているのではないかと注目されています。"
     },
     {
       "id": "1bfe51e5243da1476426",
@@ -168,9 +343,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple reportedly offering trade-in incentive to encourage iPhone upgrades",
-      "summaryJa": "We’re expecting today’s shiny new iPhones to be accompanied by price raises, even if they aren’t as painful as initially expected. Apple is reportedly softening the blow a little for some upgraders by offering higher trade-in values for devices with minor cosmetic defects … more… We’re expecting today’s shiny new iPhones to be accompanied by price raises, even if they aren’t as painful as initially expected. Apple is reportedly softening the blow a little for some upgraders by offering higher trade-in values for devices with minor cosmetic defects … Apple increased the prices of most of its products back in June. iPhones escaped at the time, but we are expecting today’s iPhone 18 Pro models to be more expensive than their predecessors. It had earlier been suggested that iPhone price rises",
-      "translationStatus": "source"
+      "titleJa": "Apple、新型iPhone発売に向け微細な傷のある端末の下取り価格を改善か",
+      "summaryJa": "新型iPhoneの価格引き上げに備え、Appleが下取りプログラムを拡充し、画面の小さなひび割れなどの軽微な外観上の欠陥がある端末でも、状態の良好な端末と同じ下取り価格を適用する方針であると報じられています。この新しい方針は対象製品の範囲全体に適用され、新製品への買い替えを促進する狙いがあるとみられています。"
     },
     {
       "id": "35383a61635ef674f151",
@@ -184,9 +358,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Last-minute iPhone event rumors: Pre-order time, AirPods 5 features, more",
-      "summaryJa": "We’re just hours away from Apple’s “Surprise and shine” special event, where it’s expected to announce the foldable iPhone Duo, the iPhone 18 Pro, new Apple Watch models, and AirPods 5. more… We’re just hours away from Apple’s “Surprise and shine” special event, where it’s expected to announce the foldable iPhone Duo, the iPhone 18 Pro, new Apple Watch models, and AirPods 5. Pre-order times We previously noted that iPhone 18 Pro and iPhone Duo pre-orders might begin on September 12, which is a day later than the typical pattern due to the 25th anniversary of the 9/11 attacks. In a post on social media today, reliable leaker ShrimpApplePro said that pre-orders will indeed begin on September 12 “at the usual time.” This would suggest 5 a.m. PT/8 a.m. ET. iPhone 18 Pro tidbits In a blockbuste",
-      "translationStatus": "source"
+      "titleJa": "iPhone 18 Proや予約開始日を巡るイベント直前の最新情報まとめ",
+      "summaryJa": "Appleの特別イベントを目前に控え、新製品に関する直前の詳細な情報が相次いで浮上しています。iPhone 18 Proや折りたたみ式iPhoneの予約受付は通常より遅れて9月12日に開始されると予想されており、デバイスの充電速度向上やカメラ機能の進化などの新情報も報じられています。"
     },
     {
       "id": "16f5799cf0ac5911ecdc",
@@ -4331,189 +4504,9 @@
       ],
       "titleJa": "AmazonセールでAirTag 2やApple製品が大幅割引に",
       "summaryJa": "Amazonのレイバーデイセールにおいて、AirTag 2や各種Apple製品が過去最安値圏で販売されています。AirTag 2の単体や4パックセットのほか、MagSafeバッテリーなどが大幅な割引価格で提供されており、一部の商品は在庫限りとなっています。"
-    },
-    {
-      "id": "4b4697ebefa686c6da0c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "MapQuest Tops App Store Charts After Refusing 'Lake America' Change",
-      "url": "https://www.macrumors.com/2026/08/31/mapquest-tops-app-store-charts/",
-      "publishedAt": "2026-08-31T14:49:23.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/MapQuest-Logo-2026.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "地図名称の変更を拒否したMapQuestがApp Storeで急上昇",
-      "summaryJa": "米大統領令による湖の名称変更要求を拒否した地図サービス「MapQuest」が、App Storeのランキングで急上昇しています。従来の名称を維持した対応が大きな話題を呼び、週末だけで数百万のダウンロードや記録的な利用急増につながりました。"
-    },
-    {
-      "id": "5262bff32626a6c5b2a4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Trump ‘directly’ pushing Apple to update Lake Ontario name to Lake America in Maps",
-      "url": "https://9to5mac.com/2026/08/31/trump-directly-pushing-apple-to-update-lake-ontario-name-to-lake-america-in-maps/",
-      "publishedAt": "2026-08-31T14:47:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-maps-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "トランプ大統領、Apple Mapsのオンタリオ湖名変更を要請か",
-      "summaryJa": "アメリカのダグ・バーガム内務長官によると、トランプ大統領が「Apple Maps」上のオンタリオ湖の名称をレーク・アメリカに変更するようAppleに直接働きかけたとのことです。カナダとの関税を巡る対立を受けた動きであり、Google Mapsですでにラベルが変更されているほか、Appleも過去に同様の大統領令を受けてメキシコ湾の表記を変更した経緯があります。"
-    },
-    {
-      "id": "0f4064e08eb3ffe8ebcc",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Inducted Into 'Brand Hall of Fame' for Iconic Ads",
-      "url": "https://www.macrumors.com/2026/08/31/apple-inducted-into-brand-hall-of-fame/",
-      "publishedAt": "2026-08-31T14:06:15.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPod-Ad-Silhouette-.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、数々の名作広告でブランド殿堂入りを果たす",
-      "summaryJa": "広告およびデザイン分野の非営利団体であるThe One Club for Creativityは、新たに設立した「ブランド殿堂入り」の最初のブランドとしてAppleを選出したと発表しました。初代Macintoshの「1984」スーパーボウルCMや「Think Different」キャンペーン、iPodのシルエット広告など、数々の象徴的な広告が評価されています。"
-    },
-    {
-      "id": "e02c0944619300b4e733",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro is coming: Here’s what’s new with each model",
-      "url": "https://9to5mac.com/2026/08/31/iphone-18-pro-is-coming-heres-whats-new-with-each-model/",
-      "publishedAt": "2026-08-31T14:06:04.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proシリーズの噂まとめ、性能やカメラが進化か",
-      "summaryJa": "9月9日に発表が予想されるiPhone 18 ProおよびPro Maxについて、最新の噂や新機能の予測が伝えられています。新チップ「A20 Pro」の搭載によるパフォーマンスやバッテリーの向上に加え、可変絞りを含むカメラシステムの刷新や、小型化したDynamic Islandなどのデザイン変更が報じられています。"
-    },
-    {
-      "id": "d02cdd539399936c6519",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Today is Tim Cook’s last day as Apple CEO, John Ternus takes over tomorrow",
-      "url": "https://9to5mac.com/2026/08/31/tim-cook-last-day-john-ternus-apple-ceo/",
-      "publishedAt": "2026-08-31T13:52:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/john-ternus-tim-cook-ceo-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ティム・クックがCEOを退任、後任にはジョン・ターナスが就任へ",
-      "summaryJa": "15年間にわたりAppleを率いてきたティム・クックがCEOを退任する最後の日を迎え、翌日からはハードウェアエンジニアリング担当のジョン・ターナスが新CEOに就任します。クックは今後、取締役会のエグゼクティブ・チェアマンに就任し、米国政府や中国政府との関係構築を引き続き担当する予定です。Apple Parkでは先週、クックの送別ディナーが開催され、多くの関係者からこれまでの功績を称える声が寄せられました。"
-    },
-    {
-      "id": "b1f384eff809849066b9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple pundits say Vision Pro is by far the best way to watch baseball",
-      "url": "https://9to5mac.com/2026/08/31/apple-pundits-say-vision-pro-is-by-far-the-best-way-to-watch-baseball/",
-      "publishedAt": "2026-08-31T13:51:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-pundits-say-Vision-Pro-is-the-best-way-to-watch-baseball.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Vision Proでの野球観戦が最高体験と専門家が評価",
-      "summaryJa": "Appleの「Friday Night Baseball」による没入感あふれる映像体験を経て、多くの識者やネットユーザーの間で、Vision Proが野球観戦に最適なデバイスであるという評価が広がっています。180度の視野を持つ8Kの3D映像によるライブ中継は、まるで実際の球場にいるかのような圧倒的な臨場感をもたらしました。高価でまだ普及途上のデバイスではあるものの、その圧倒的なライブ体験の価値は高く評価されています。"
-    },
-    {
-      "id": "3a69def3b4a87569c518",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Google Maps Showing 'Lake America' in U.S., Apple Maps Yet to Follow",
-      "url": "https://www.macrumors.com/2026/08/31/google-maps-lake-america/",
-      "publishedAt": "2026-08-31T13:33:16.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Apple-Maps-Google-Maps-Icons.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Googleマップが「レイク・アメリカ」表記に変更、Appleマップは未対応",
-      "summaryJa": "米国の地理名情報システム（GNIS）の更新を受け、Googleマップの米国ユーザー向け表示でオンタリオ湖の名称が「レイク・アメリカ」に変更されました。この変更はカナダ国内では適用されず、米国以外の地域では両方の名称が表示されます。一方、Appleマップでは従来の「オンタリオ湖」のままとなっており、今後の対応に注目が集まっています。"
-    },
-    {
-      "id": "91251410f0caa232a224",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Tim Cook Steps Down as Apple CEO Tomorrow",
-      "url": "https://www.macrumors.com/2026/08/31/tim-cook-steps-down-as-apple-ceo-tomorrow/",
-      "publishedAt": "2026-08-31T12:42:47.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Tim-Cook-Apple-Logo.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "ティム・クックが15年の任期を終えてAppleのCEOを退任",
-      "summaryJa": "2011年から15年間にわたりAppleのCEOを務めてきたティム・クックが、9月1日付でその職を退くことになりました。後任にはハードウェアエンジニアリング責任者のジョン・ターナスが就任し、クックは取締役会のエグゼクティブ・チェアマンとして世界中の政策立案者との対話などをサポートします。クックの指導のもと、Appleは数々の革新的な製品やサービスを世に送り出し、強固な財務基盤を築き上げてきました。"
-    },
-    {
-      "id": "41d9c72b354cf04eaa85",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Maps still shows Lake Ontario as Google Maps changes name",
-      "url": "https://9to5mac.com/2026/08/31/apple-maps-still-shows-lake-ontario-as-google-maps-changes-name/",
-      "publishedAt": "2026-08-31T12:20:27.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-Maps-still-shows-Lake-Ontario-as-Google-Maps-changes-name.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Maps、オンタリオ湖の名称変更に追随せず従来のまま維持",
-      "summaryJa": "米国の政権によるオンタリオ湖の名称変更命令に対し、Googleマップは地域に応じて名称を更新した一方で、Apple Mapsはこれまでのところ実際の名称を維持し続けています。政治的な騒動を避けてきたAppleが今後どのように対応するのか注目されています。"
-    },
-    {
-      "id": "6d2ccfacf0b8f3e9c7a0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "CarPlay keeps getting better with three recent exciting app updates",
-      "url": "https://9to5mac.com/2026/08/31/carplay-keeps-getting-better-with-three-recent-exciting-app-updates/",
-      "publishedAt": "2026-08-31T12:11:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/carplay-ios-26-liquid-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "CarPlay対応アプリが拡充、MLBやMeta AIなどが登場",
-      "summaryJa": "9月のiOS 27リリースを控える中、CarPlay向けの人気アプリが8月に相次いでアップデートされました。MLBアプリが試合の音声配信やスコア表示に対応したほか、Meta AIのチャットボットや天気アプリ「Storm Radar」が新たに追加され、車内での利便性がさらに向上しています。"
-    },
-    {
-      "id": "6f55a904831b0ed0cd7c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Unusual timing of Mac mini and Mac Studio updates all about AI, claims report",
-      "url": "https://9to5mac.com/2026/08/31/unusual-timing-of-mac-mini-and-mac-studio-updates-all-about-ai-claims-report/",
-      "publishedAt": "2026-08-31T11:50:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Unusual-timing-of-Mac-mini-and-Mac-Studio-updates-all-about-AI-claims-report.webp?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Mac miniとMac Studioの異例な前倒し発表はAI需要が背景か",
-      "summaryJa": "Appleが9月のイベントの直前にMac miniとMac Studioをひそかに発表した理由について、AI用途での需要が予想以上に高まったためだとする報道が登場しました。ローカル環境でAIモデルを実行するユーザーが増加しており、構成によっては数カ月待ちになるほどの高い人気が背景にあると伝えられています。"
-    },
-    {
-      "id": "8846de7f636168995cea",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s the likely reason the iPhone Ultra isn’t getting an Apple Pencil",
-      "url": "https://9to5mac.com/2026/08/31/heres-the-likely-reason-the-iphone-ultra-isnt-getting-an-apple-pencil/",
-      "publishedAt": "2026-08-31T11:06:32.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Heres-the-likely-reason-the-iPhone-Ultra-isnt-getting-an-Apple-Pencil.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone Ultra向けApple Pencilが見送られた3つの理由",
-      "summaryJa": "Appleが次期iPhone Ultra向けに専用のApple Pencilの検討を見送った理由について、ブルームバーグが3つの要因を挙げて報じました。持ちやすさへの懸念やスティーブ・ジョブズの哲学への抵触、ディスプレイへの影響などが背景にあるとされていますが、実際の決定打は別のところにあった可能性も指摘されています。"
     }
   ],
-  "updatedAt": "2026-09-09T15:58:30.555Z",
+  "updatedAt": "2026-09-09T19:14:14.109Z",
   "initialized": true,
   "summaryVersion": 4
 }
