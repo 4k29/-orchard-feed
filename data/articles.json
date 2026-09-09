@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "8270907455ad0f898cc2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Foldable iPhone Duo Will Start at $2,000, Won't Launch Until at Least October",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-start-at-2000/",
+      "publishedAt": "2026-09-09T04:45:13.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple初の折りたたみ式iPhoneは「iPhone Duo」か、価格は2,000ドルからとの報道",
+      "summaryJa": "Appleが開発中とされる初の折りたたみ式iPhoneの名称は「iPhone Ultra」ではなく、デュアルスクリーンを強調した「iPhone Duo」になると報じられています。価格は256GBのベースモデルが2,000ドルからとなり、最高構成では約3,000ドルに達する見込みです。発売は早ければ10月になると伝えられており、A20 ProチップやC2モデム、デュアル48メガピクセルカメラなどを搭載するとされています。"
+    },
+    {
+      "id": "bb582404a33d92d55ea9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo: Apple’s new foldable reportedly not named Ultra, plus price, colors, more",
+      "url": "https://9to5mac.com/2026/09/08/iphone-duo-apples-new-foldable-reportedly-not-named-ultra-plus-price-colors-more/",
+      "publishedAt": "2026-09-09T04:43:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Will-the-iPhone-Ultra-avoid-the-issue-that-can-still-kill-Samsung-foldables.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "折りたたみ式iPhoneの名称は「iPhone Duo」に、発表間近の最新情報",
+      "summaryJa": "Appleの発表イベントを目前に控え、初の折りたたみ式iPhoneの正式名称が「iPhone Duo」になると報じられています。カラーはホワイトとダークブルーが用意され、発売は10月以降になる見通しです。メモリー部品の価格高騰によるコスト増の一部をAppleが負担することで、価格を競争力のある水準に抑えると伝えられています。"
+    },
+    {
+      "id": "1c69a08cee3f5937635c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Ultra is coming, here’s what the final rumors say",
+      "url": "https://9to5mac.com/2026/09/08/iphone-ultra-is-coming-heres-what-the-final-rumors-are-saying/",
+      "publishedAt": "2026-09-09T02:15:37.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "折りたたみ式iPhoneに関する直前噂まとめ、価格やディスプレイの仕様など",
+      "summaryJa": "Appleが発表すると予想される初の折りたたみ式iPhoneについて、直前の詳細な噂が伝えられています。初期の価格設定や、他社製品と比べて目立たないよう工夫された折り目、さらに中国市場での発売遅延の可能性などが報じられています。また、Face IDではなくTouch IDが採用されるとの見方も強まっています。"
+    },
+    {
       "id": "1b6d11f75b14d08462c4",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4458,54 +4503,9 @@
       ],
       "titleJa": "9to5Macポッドキャストが899ドルのMac miniなどを議論",
       "summaryJa": "9to5Macのポッドキャスト番組「Overtime」の最新回において、899ドルのMac miniに関する議論が展開されました。番組では、従来のM4モデルと新たなM6 Mac miniの比較が行われています。また、M5 Proを搭載したMac miniや、M5 MaxおよびM5 Ultraを搭載した新しいMac Studioデスクトップについても言及されました。さらに、直近に控えるAppleのiPhone関連イベントのプレビューも行われています。"
-    },
-    {
-      "id": "f20f853701acc4297c94",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Photos in iOS 27 upgrades one of my favorite features in a big way",
-      "url": "https://9to5mac.com/2026/08/28/apple-photos-in-ios-27-upgrades-one-of-my-favorite-features-in-a-big-way/",
-      "publishedAt": "2026-08-28T19:26:40.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27-photos-app-icon-fi-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27の写真アプリで「iCloud共有アルバム」が大幅進化",
-      "summaryJa": "iOS 27の写真アプリにおける「iCloud共有アルバム」に、待望の大型アップデートが導入されました。今回のアップデートにより、共有アルバム内で写真や動画を高解像度のままサポートするほか、リアクションに任意の絵文字が使用できるようになります。また、AndroidやWindowsのユーザーもウェブ経由でアルバムへ直接参加できるようになり、権限設定や有効期限の管理も柔軟になりました。"
-    },
-    {
-      "id": "b65c7c2aaa1e656bfcbe",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Steve Jobs' 8th Grade Science Project Sells for $34,375",
-      "url": "https://www.macrumors.com/2026/08/28/steve-jobs-science-project-auction/",
-      "publishedAt": "2026-08-28T19:24:43.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/steve-jobs-rr-auction-science-project.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "スティーブ・ジョブズの中学時代の科学プロジェクトが出品",
-      "summaryJa": "Appleの共同創業者であるスティーブ・ジョブズが中学時代に制作した科学フェア向けのプロジェクトが出品され、3万4,375ドルで落札されました。この作品は、クパチーノ・ジュニア・ハイに通っていた当時に作られた「What is the SCR?」と題されたもので、シリコン制御整流器の仕組みを解説した木製モデルやテスト回路、10ページのレポートが含まれています。出品された品物は、義理の兄弟であるジョン・チョバネック氏を通じてオークションにかけられました。"
-    },
-    {
-      "id": "9fde9d35fc1e5ea66252",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "HomeKit Weekly: Linkind’s Smart Light Stick brings flame effects with Matter support",
-      "url": "https://9to5mac.com/2026/08/28/linkinds-smart-light-stick-brings-flame-effects-and-matter-support/",
-      "publishedAt": "2026-08-28T18:49:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Linkind-Smart-Light-Stick-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Matter対応で炎の効果を再現するLinkindのスマート電球",
-      "summaryJa": "Linkindの「Smart Light Stick」は、炎の揺らぎ効果を再現する機能を持つスマート電球であり、Matter規格を通じてApple Homeに対応しています。この電球は、標準的なE26ソケットに装着可能で、炎の大きさや明るさ、点滅速度などを自分好みに細かく調整できるのが特徴です。また、夕日のような光や溶岩をイメージした動きなど、多様なシーンに対応するプリセットも多数用意されています。"
     }
   ],
-  "updatedAt": "2026-09-09T01:34:29.557Z",
+  "updatedAt": "2026-09-09T06:39:31.999Z",
   "initialized": true,
   "summaryVersion": 4
 }
