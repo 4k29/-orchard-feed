@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "1b6d11f75b14d08462c4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Crime thriller ‘Last Seen’ premieres on Apple TV",
+      "url": "https://9to5mac.com/2026/09/08/crime-thriller-last-seen-premieres-on-apple-tv/",
+      "publishedAt": "2026-09-09T01:30:13.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/last-seen-Patrick-Brammall.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、新作クライムドラマ「Last Seen」の配信を開始",
+      "summaryJa": "Apple TVで新しいオーストラリアの誘拐サスペンスドラマ「Last Seen」の最初の2話の配信が開始されました。パトリック・ブラモール演じる警察のディスパッチerが、11年前に失踪した娘と確信する少女からの通報をきっかけに奮闘する姿を描いた全6話の作品です。毎週水曜日に新しいエピソードが追加され、秋のラインナップを彩ります。"
+    },
+    {
+      "id": "e429216f161839d83bd5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp doubles music clip length for status updates",
+      "url": "https://9to5mac.com/2026/09/08/whatsapp-doubles-music-clip-length-for-status-updates/",
+      "publishedAt": "2026-09-09T01:12:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp、ステータスの音楽クリップ上限を30秒に拡大",
+      "summaryJa": "WhatsAppのステータス更新機能で、投稿できる音楽クリップの最大時間が従来の15秒から30秒へと2倍に延長されました。音楽カタログから曲を選んだ後、新しい音楽エディターのデュレーションピッカーを使ってお好みの長さを選択できます。この機能はサーバー側で順次展開されており、一部のiOSおよびAndroidユーザーで利用可能になっています。"
+    },
+    {
+      "id": "c66f2edbaec8ff425742",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 8, 2026 – HomePod rumors, App Store changes",
+      "url": "https://9to5mac.com/2026/09/08/daily-september-8-2026/",
+      "publishedAt": "2026-09-09T00:25:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "HomePodのサラウンド機能やApp Storeの変更を振り返る",
+      "summaryJa": "9to5Macのポッドキャスト番組にて、HomePodの新しいサラウンドサウンドやパーティモード機能に関する噂、さらにApp Storeの収益改善に向けた変更の可能性について報じられました。日々伝えられるApple関連の主要ニュースやデバイスに関する最新情報がコンパクトにまとめられています。"
+    },
+    {
       "id": "369971c5379e29796624",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4458,54 +4503,9 @@
       ],
       "titleJa": "Matter対応で炎の効果を再現するLinkindのスマート電球",
       "summaryJa": "Linkindの「Smart Light Stick」は、炎の揺らぎ効果を再現する機能を持つスマート電球であり、Matter規格を通じてApple Homeに対応しています。この電球は、標準的なE26ソケットに装着可能で、炎の大きさや明るさ、点滅速度などを自分好みに細かく調整できるのが特徴です。また、夕日のような光や溶岩をイメージした動きなど、多様なシーンに対応するプリセットも多数用意されています。"
-    },
-    {
-      "id": "9ac0e8b57366d4ccda0b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Which Macs Will Get an M6 Chip and Which Won't?",
-      "url": "https://www.macrumors.com/2026/08/28/m6-chip-macs/",
-      "publishedAt": "2026-08-28T18:11:45.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "M6チップ搭載Macの展開と今後のプロセッサ戦略",
-      "summaryJa": "Appleは新型Mac miniにベースモデルのM6チップを投入しましたが、今後は一部のモデルにのみM6が採用される見込みです。また、M6世代ではProやMaxチップがスキップされ、開発スケジュールが前倒しされる次世代のM7 ProおよびM7 Maxへ移行すると報じられています。そのため、ハイエンドモデルではM5 ProやM5 Maxがしばらく使われる可能性があります。"
-    },
-    {
-      "id": "235899a054585c7e09ba",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s how Apple Watch Ultra 4 will differentiate itself from prior models",
-      "url": "https://9to5mac.com/2026/08/28/heres-how-apple-watch-ultra-4-will-differentiate-itself-from-prior-models/",
-      "publishedAt": "2026-08-28T18:09:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-3-watchos-27-3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Ultra 4、内部センサー大幅強化か",
-      "summaryJa": "Apple Watch Ultra 4には、内部センサーの大幅なアップグレードやAI機能を見据えた新しいSクラスチップが搭載されると噂されています。健康管理機能の強化やAI対応がさらに進む見込みですが、デザイン面の大幅な刷新については情報が交錯しており、今後の動向が注目されています。"
-    },
-    {
-      "id": "0ce1f5e7039906abcae0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "ChatGPT and Codex now support multiple Gmail and Google Calendar accounts",
-      "url": "https://9to5mac.com/2026/08/28/chatgpt-and-codex-now-support-multiple-gmail-and-google-calendar-accounts/",
-      "publishedAt": "2026-08-28T18:01:41.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-teal.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ChatGPTがGmailやGoogleカレンダーの複数アカウントに対応",
-      "summaryJa": "OpenAIは、ChatGPTとCodexにおいて複数のGmailやGoogleカレンダー、連絡先アカウントを同時に接続できる機能の提供を開始しました。サイドバーのプラグイン設定から追加できるようになり、個人用と仕事用の受信トレイやスケジュールを一つのチャット画面から便利に使い分けられるようになります。"
     }
   ],
-  "updatedAt": "2026-09-08T23:38:47.797Z",
+  "updatedAt": "2026-09-09T01:34:29.557Z",
   "initialized": true,
   "summaryVersion": 4
 }
