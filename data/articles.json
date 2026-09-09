@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "16f5799cf0ac5911ecdc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple to Offer Better Trade-In Pricing for Minor Cosmetic Damage",
+      "url": "https://www.macrumors.com/2026/09/09/apple-to-offer-better-trade-in-pricing/",
+      "publishedAt": "2026-09-09T11:46:40.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/05/apple-trade-in-2024.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、軽微な外観の傷に対する下取り価格を改善へ",
+      "summaryJa": "Appleは、ディスプレイの小さな欠けなどの軽微な外観の不具合があるデバイスに対して、より適切な下取り価格を適用するプログラムの拡大を予定しています。従来は深刻な損傷と同等に扱われ、下取り額が大幅に減額されていましたが、今後はデバイスの状態をよりきめ細かく反映した価格設定に変更されます。この変更は大部分の国と地域の下取りプログラムに適用されると伝えられています。"
+    },
+    {
+      "id": "3e98588642e8998c781e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Details Purportedly Leaked By Verizon's AI Assistant",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-details-leaked-by-verizon/",
+      "publishedAt": "2026-09-09T11:28:32.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの詳細情報がVerizonのAIアシスタントから流出か",
+      "summaryJa": "Appleのイベントの数時間前に、VerizonのAIチャットアシスタントがiPhone 18 ProおよびiPhone 18 Pro Maxに関する詳細な質問に回答したとされるスクリーンショットが共有されました。アシスタントは可変絞りメインカメラや最大16GBのRAM、カラーバリエーションなどについて言及したと報じられています。ただし、一部の価格情報などは従来モデルと一致しており、内容の正確性については疑問視される点もあります。"
+    },
+    {
+      "id": "35e1c191fceea821341f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Lakeside store reopens on Saturday with new design using sustainable materials",
+      "url": "https://9to5mac.com/2026/09/09/apple-lakeside-store-reopens-on-saturday-with-new-design-using-sustainable-materials/",
+      "publishedAt": "2026-09-09T11:28:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Lakeside-store-reopens-on-Saturday-with-new-design-using-sustainable-materials.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "英国のApple Lakesideストアがサステナブル素材を採用して再オープン",
+      "summaryJa": "英国エセックスにある大規模ショッピングセンター内のApple Lakesideストアが、大規模な改修工事を経て土曜日に再オープンします。今回の改装では持続可能な素材が導入されたほか、車いすでの移動スペースの確保や様々な高さのテーブル、音声・視覚の明瞭化などアクセシビリティの向上を図る機能が多数追加されました。店内にはオンライン注文品の専用受取エリアなども新設され、訪れる顧客により快適な体験を提供します。"
+    },
+    {
+      "id": "1a0cdbe42cae852d0965",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Store Down Ahead of 'Surprise and Shine' iPhone 18 Pro Event",
+      "url": "https://www.macrumors.com/2026/09/09/apple-store-down-iphone-18-pro-event/",
+      "publishedAt": "2026-09-09T11:20:38.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-store-down-sept-2026.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Store、新製品発表イベントの開催を前にメンテナンス入り",
+      "summaryJa": "Appleのイベント開催を控え、オンラインのApple Storeがメンテナンスモードに入りました。今回のイベントでは、新しいiPhone 18 Proシリーズや折りたたみ式のiPhone Duo、Apple Watch Series 12、Apple Watch Ultra 4、AirPods 5などの発表が期待されています。また、iOS 27やmacOSなどの次期メジャーソフトウェアのリリース日についても言及される可能性があります。"
+    },
+    {
+      "id": "6a95e154f264f2b1efa2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Foldable iPhone Duo to Come With Apple Pencil Support",
+      "url": "https://www.macrumors.com/2026/09/09/foldable-iphone-duo-apple-pencil-support/",
+      "publishedAt": "2026-09-09T11:06:28.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/apple-pencil-pro-purple.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみiPhone Duo、Apple Pencilに対応か",
+      "summaryJa": "Appleの折りたたみ端末「iPhone Duo」がApple Pencilをサポートする見込みであることが報じられました。以前の試作段階では専用の短めなスタイラスが検討されていたものの、最新情報ではApple Pencilへの対応と伝えられており、異なるアプローチが採用された可能性があります。"
+    },
+    {
+      "id": "ad8d3169e42299c42061",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Store is down ahead of iPhone 18 Pro, iPhone Duo foldable and more announcements",
+      "url": "https://9to5mac.com/2026/09/09/apple-store-down-iphone-18-pro-event/",
+      "publishedAt": "2026-09-09T11:01:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-store-down.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新製品発表を控え、Apple Storeのオンラインストアが一時閉鎖",
+      "summaryJa": "スペシャルイベントの開催を前に、Apple Storeのメンテナンスが開始されました。今回のイベントでは、iPhone 18 Proシリーズや折りたたみ式のiPhone Duo、Apple Watch Series 12、新型AirPodsなどの発表が期待されており、新CEOのジョン・テラス氏による初めての基調講演に注目が集まっています。"
+    },
+    {
+      "id": "6679c3f39825ec6dbf8c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Price Hike to Be Lower Than Expected",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-price-hike-to-be-lower-than-expected/",
+      "publishedAt": "2026-09-09T11:00:46.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/01/Apple-Logo-Cash-Feature-Mint.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの値上げ幅は予想よりも小さくなる見通し",
+      "summaryJa": "次期iPhone 18 ProおよびPro Maxの価格上昇は、モデルあたり100ドル程度にとどまると伝えられています。世界的なメモリ不足に伴う大幅な値上げが懸念されていたものの、Appleがそのコストを一部吸収することで、市場の予測より小幅な値上げに抑えられる見込みです。"
+    },
+    {
+      "id": "d8ecbec020679e546902",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Samsung ‘advice’ to Apple suggests it fears the build quality of the iPhone Duo",
+      "url": "https://9to5mac.com/2026/09/09/samsung-advice-to-apple-suggests-it-fears-the-build-quality-of-the-iphone-duo/",
+      "publishedAt": "2026-09-09T10:58:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Will-the-iPhone-Ultra-avoid-the-issue-that-can-still-kill-Samsung-foldables.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "サムスン幹部、Appleの折りたたみ端末参入について言及",
+      "summaryJa": "Appleの折りたたみ市場参入を控え、サムスンの開発責任者が歓迎の意を示しつつ、端末の重量とビルドクォリティについて言及しました。Appleは折り目の目立たない高い耐久性を目指して慎重に開発を進めてきたとされており、今後の市場シェアの変動に注目が集まっています。"
+    },
+    {
+      "id": "acfc417a6f0ed9675e21",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Ultra 4 to Get Improved Battery Life",
+      "url": "https://www.macrumors.com/2026/09/09/apple-watch-ultra-4-to-get-improved-battery-life/",
+      "publishedAt": "2026-09-09T10:41:44.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/Apple-Watch-Ultra-3-hero-250909.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Ultra 4、バッテリー駆動時間がさらに向上か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者が報じたところによると、次世代のApple Watch Ultra 4では、Ultra 3からさらにバッテリー駆動時間が改善される見込みです。Appleは新しいUltraモデルを発売するたびにバッテリー性能の向上をアピールしており、今後の展開に注目が集まっています。"
+    },
+    {
+      "id": "0456746fb43522ede7cc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Dynamic Island to Shrink, Add Third Live Activity",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-dynamic-island-to-shrink/",
+      "publishedAt": "2026-09-09T10:39:38.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/smaller-dynamic-island-iphone-18-pro-Filip-Vabrousek.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 ProのDynamic Islandが小型化され3つのライブアクティビティに対応か",
+      "summaryJa": "次期iPhone 18 ProシリーズではDynamic Islandがより狭くなり、最大3つのライブアクティビティを同時に表示できるようになると報じられています。内部にはTSMCの2nmプロセスで製造されたA20 Proチップが搭載され、新しいバーガンディレッド系のカラーなども追加される見込みです。"
+    },
+    {
+      "id": "d58dab24dd44e282daa8",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 and Ultra 4 to Gain New AI Feature That Summarizes Your Day",
+      "url": "https://www.macrumors.com/2026/09/09/apple-watch-ai-feature-that-summarizes-your-day/",
+      "publishedAt": "2026-09-09T10:36:34.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-watch-series-12.png",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 12とUltra 4に一日の活動を要約する新AI機能が搭載か",
+      "summaryJa": "Apple Watch Series 12およびUltra 4には、プライバシーに配慮しながら一日の会話や出来事を分析・要約する新しいAI機能が搭載されると報じられています。音声の常時保存や文字起こしの表示を行わない設計になっており、新しい健康管理アプリ「Readiness」とともに発表される見通しです。"
+    },
+    {
+      "id": "346cc6a79298a16cea69",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Last-Minute Leak Reveals iPhone Duo Color Options and Base Storage",
+      "url": "https://www.macrumors.com/2026/09/09/leak-reveals-foldable-iphone-name-price-colors/",
+      "publishedAt": "2026-09-09T10:08:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみiPhoneの名称は「iPhone Duo」に？直前リークで価格やカラーが判明か",
+      "summaryJa": "Apple初の折りたたみ式iPhoneの名称が「iPhone Duo」に決定したと、Bloombergのマーク・ガーマン記者が報じています。ベースストレージは256GBとなり、価格は2,000ドルから、カラーはホワイトとダークブルーが用意され、10月中の発売が予想されています。"
+    },
+    {
       "id": "8270907455ad0f898cc2",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4323,189 +4503,9 @@
       ],
       "titleJa": "デジタル保存を一つにまとめるiOSアプリ「Laytr」",
       "summaryJa": "日常の中で保存しておきたいウェブページや情報があちこち散らばってしまう悩みを解決するiOS向けインディーアプリ「Laytr」が紹介されています。ネイティブの共有シートに対応しており、直感的なUIで今見るべきものやタイムライン、ライブラリなどを簡単に整理できます。また、iCloudなどの同期やアカウント作成を行わず、すべてのデータがデバイス上にのみ保存されるプライバシー重視の設計も特徴です。"
-    },
-    {
-      "id": "b033c1de24930c155685",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "As a relatively new Apple Vision Pro user, this is my favorite way to use it",
-      "url": "https://9to5mac.com/2026/08/29/heres-how-i-enjoy-using-apple-vision-pro/",
-      "publishedAt": "2026-08-29T17:50:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/m5-vision-pro-chance.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Vision Proで最も快適なコンテンツ鑑賞スタイル",
-      "summaryJa": "Apple Vision Proの重量や価格面でのハードルが指摘される中、多くのユーザーやアップル幹部の間で最も楽しまれているのが動画コンテンツの鑑賞です。ディズニーやYouTubeなどの主要なストリーミングアプリが利用でき、特に横になりながら映画やドラマを楽しむスタイルが非常に高い評価を得ています。"
-    },
-    {
-      "id": "64b0fce746fba4b638d6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives",
-      "url": "https://9to5mac.com/2026/08/29/apple-carplay-gaining-a-new-ai-chatbot-app-before-siri-ai-arrives/",
-      "publishedAt": "2026-08-29T17:13:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/best-carplay-apps.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple CarPlay、新たにMeta AIチャットボットに対応か",
-      "summaryJa": "Apple CarPlayがサードパーティ製AIチャットボットとして新たにMeta AIに対応しました。ChatGPTやPerplexity、Grokに続く形となりますが、現時点では一部のアカウントで利用制限があるなど限定的なテスト段階とみられています。本格的なSiri AIの登場を前に、車載システムでの選択肢がさらに広がっています。"
-    },
-    {
-      "id": "7ed09a7da0e7e1bcd7a3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Tested: You have to see Sharge’s impressive new metal unibody power bank with display [Launch deal]",
-      "url": "https://9to5toys.com/2026/08/29/sharge-impressive-metal-power-bank-display-review/",
-      "publishedAt": "2026-08-29T15:51:36.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Shargeek-300-Power-Bank-review-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Sharge、ディスプレイ搭載の金属製モバイルバッテリーを発売",
-      "summaryJa": "周辺機器メーカーのShargeから、内部構造が見えるユニークな窓やディスプレイを備えた新型モバイルバッテリー「Shargeek 300」が登場しました。頑丈な金属製ユニボディを採用し、2台のMacBookを同時に充電できる高い性能と優れたデザイン性を兼ね備えています。"
-    },
-    {
-      "id": "889d23dd60aa68ff9bd3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple will be launching its first pair of smart glasses next year: Here’s what’s coming",
-      "url": "https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/",
-      "publishedAt": "2026-08-29T14:48:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、初のAI搭載スマートグラスを来年にも発売か",
-      "summaryJa": "Appleがディスプレイ非搭載の音声とカメラ中心となる初のAIスマートグラスを来年にも投入するとの見方が伝えられています。視覚インテリジェンス機能やSiriの統合により周囲の状況を認識できるほか、自社デザインによる複数のフレームスタイルが用意されると報じられています。"
-    },
-    {
-      "id": "a772774d38023c1486ab",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Top Stories: Apple's 'Surprise and Shine' Event, Plus New Mac mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/29/top-stories-apple-surprise-and-shine-event-invites/",
-      "publishedAt": "2026-08-29T13:00:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/top-stories-2026-08-29.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、9月9日に新製品発表イベントを開催へ",
-      "summaryJa": "Appleは9月9日にクパチーノのApple Parkで特別なイベントを開催すると発表しました。タグラインに「Surprise and Shine」を掲げたこのイベントでは、iPhone 18 Proシリーズや折りたたみ式iPhoneのほか、新しいMac miniやMac Studioなどのハードウェアが発表される見込みです。"
-    },
-    {
-      "id": "9edf243d3addfb837506",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Amazon Offers Early Savings on 2026 Mac Mini, Plus Record Low on AirTag 2",
-      "url": "https://www.macrumors.com/2026/08/29/best-apple-deals-of-the-week-8-28-26/",
-      "publishedAt": "2026-08-29T12:31:59.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型Mac miniやAirTag 2がAmazonで早くも割引に",
-      "summaryJa": "Amazonのセールにおいて、発表されたばかりのM6およびM5 Proチップを搭載した新しいMac miniの事前割引が行われています。さらに、AirTag 2をはじめとする人気アクセサリも対象となり、発売前やイベント期間中にお得な価格で購入できるチャンスとなっています。"
-    },
-    {
-      "id": "e0b6957782647d147c06",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more",
-      "url": "https://9to5mac.com/2026/08/29/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/",
-      "publishedAt": "2026-08-29T12:13:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-weekend-deals-late-August-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AmazonセールでApple製品が続々とお買い得価格に",
-      "summaryJa": "労働者の日を記念した大規模なセールがAmazonで開催されており、新製品のMac miniやAirTag 2、AirPods Pro 3などが割引価格で販売されています。iPhone 17 Proも過去最大級の割引対象となっており、各種アクセサリやスマートホーム製品も含めて多くのApple製品をお得に入手できる機会となっています。"
-    },
-    {
-      "id": "498b757444b7a520bc7c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon",
-      "url": "https://9to5mac.com/2026/08/29/parallels-desktop-27/",
-      "publishedAt": "2026-08-29T12:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Parallels-27-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Parallels Desktop 27がAppleシリコン向けに登場",
-      "summaryJa": "Appleシリコン搭載Mac向けに最適化されたParallels Desktop 27がリリースされ、新しいMetalベースのグラフィックスドライバーやOpenGL 4.3のサポートが追加されました。これにより、Windows仮想環境でのローカルAI処理の高速化やグラフィックス性能の向上が実現し、企業のIT管理者向け機能も強化されています。"
-    },
-    {
-      "id": "aa1b176034584a141938",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 28, 2026 – Foldable iPhone expectations, more",
-      "url": "https://9to5mac.com/2026/08/28/9to5mac-daily-august-28-2026-foldable-iphone-expectations-more/",
-      "publishedAt": "2026-08-29T01:02:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、折りたたみ式iPhoneの出荷予測や最新動向を網羅",
-      "summaryJa": "Appleの最新情報を毎日お届けするポッドキャスト番組の配信内容をお伝えしています。IDCによる折りたたみ式iPhoneの出荷予測をはじめ、Appleウォレットの運転免許証対応の拡大、iPhone Ultraに関する噂、iPhone 18 Proの進化に関する予測など、注目すべき話題が多数取り上げられています。"
-    },
-    {
-      "id": "bb92f4af89ac737b9249",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Most people overpay for their phone plan – Tello Mobile maxes out at $25/month",
-      "url": "https://9to5mac.com/2026/08/28/most-people-overpay-phone-plan-tello-mobile-maxes-out-at-25-month/",
-      "publishedAt": "2026-08-28T22:30:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Banner-2-1920-x-1080.png?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Tello Mobile、月額25ドルで利用できる格安プランを提供",
-      "summaryJa": "アメリカの携帯電話プランの料金は世界的に見ても高額ですが、Tello Mobileを利用することで費用を大幅に抑えることができます。アメリカの大手5Gネットワークを活用しながら、月額5ドルからの柔軟なプランや、月額25ドルのデータ使い放題プランを提供しています。契約期間の縛りがなく、隠れた手数料もないため、多くのユーザーから支持を集めています。"
-    },
-    {
-      "id": "30771e2718e3fd9fdd65",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Steve Jobs’ 1968 science fair project fetches $34,375 at auction",
-      "url": "https://9to5mac.com/2026/08/28/steve-jobs-1968-science-fair-project-fetches-34375-at-auction/",
-      "publishedAt": "2026-08-28T21:35:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Steve-Jobs-8th-grade-science-fair-project-goes-up-for-auction.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "スティーブ・ジョブズの1968年の科学フェア作品がオークションで落札",
-      "summaryJa": "スティーブ・ジョブズが中学時代に手作りした科学フェアの展示品が、オークションに出品され34,375ドルで落札されました。シリコン制御整流器をテーマにしたこのプロジェクトは、長年ジョブズの家族によって保管されていました。今回のオークションでは他にもApple関連の貴重なアイテムが出品され、歴史的な価値を持つApple-1コンピュータが高額で落札されています。"
-    },
-    {
-      "id": "8e9f216aa17d267f4df5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Overtime 079: The $899 Mac mini",
-      "url": "https://9to5mac.com/2026/08/28/9to5mac-overtime-079-the-899-mac-mini/",
-      "publishedAt": "2026-08-28T20:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/9to5Mac-Overtime-079.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "9to5Macポッドキャストが899ドルのMac miniなどを議論",
-      "summaryJa": "9to5Macのポッドキャスト番組「Overtime」の最新回において、899ドルのMac miniに関する議論が展開されました。番組では、従来のM4モデルと新たなM6 Mac miniの比較が行われています。また、M5 Proを搭載したMac miniや、M5 MaxおよびM5 Ultraを搭載した新しいMac Studioデスクトップについても言及されました。さらに、直近に控えるAppleのiPhone関連イベントのプレビューも行われています。"
     }
   ],
-  "updatedAt": "2026-09-09T06:39:31.999Z",
+  "updatedAt": "2026-09-09T11:53:55.296Z",
   "initialized": true,
   "summaryVersion": 4
 }
