@@ -1,20 +1,132 @@
 {
-  "updatedAt": "2026-09-07T08:25:52.887Z",
+  "updatedAt": "2026-09-10T13:45:58.473Z",
   "metadataWarnings": [],
   "summary": {
-    "products": 705,
-    "targets": 144,
-    "missingDocs": 2,
-    "missingPrices": 31,
+    "products": 719,
+    "targets": 149,
+    "missingDocs": 7,
+    "missingPrices": 36,
     "missingPriceDates": 0,
     "duplicateKeys": 0,
     "airPods": 12,
-    "watches": 18,
+    "watches": 20,
     "macs": 60,
     "missingMacConfigurations": 0
   },
   "duplicateKeys": [],
   "missingDocs": [
+    {
+      "name": "Apple Watch Ultra 4",
+      "family": "Apple Watch",
+      "released": "2026-09-18",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "S11"
+      ],
+      "models": [
+        "A3579",
+        "A3580"
+      ],
+      "identifiers": [
+        "Watch8,1"
+      ],
+      "storage": [],
+      "memory": [],
+      "colors": [],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Ultra%204%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
+      "name": "iPhone 18 Pro Max",
+      "family": "iPhone",
+      "released": "2026-09-18",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "A20 Pro"
+      ],
+      "models": [],
+      "identifiers": [
+        "iPhone19,3",
+        "iPhone19,7"
+      ],
+      "storage": [],
+      "memory": [],
+      "colors": [],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%2018%20Pro%20Max%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
+      "name": "iPhone 18 Pro",
+      "family": "iPhone",
+      "released": "2026-09-18",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "A20 Pro"
+      ],
+      "models": [],
+      "identifiers": [
+        "iPhone19,2"
+      ],
+      "storage": [],
+      "memory": [],
+      "colors": [],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%2018%20Pro%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
+      "name": "iPhone Duo",
+      "family": "iPhone",
+      "released": "2026-10-23",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "A20 Pro"
+      ],
+      "models": [],
+      "identifiers": [
+        "iPhone19,4"
+      ],
+      "storage": [],
+      "memory": [],
+      "colors": [],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%20Duo%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
+      "name": "Apple Watch Series 12",
+      "family": "Apple Watch",
+      "released": "2026-09-18",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "S11",
+        "S10"
+      ],
+      "models": [
+        "A3581",
+        "A3583",
+        "A3584",
+        "A3585",
+        "A3582",
+        "A3586",
+        "A3587",
+        "A3588"
+      ],
+      "identifiers": [
+        "Watch8,2",
+        "Watch8,3",
+        "Watch8,4",
+        "Watch8,5"
+      ],
+      "storage": [],
+      "memory": [],
+      "colors": [],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Series%2012%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
     {
       "name": "AirTag（第2世代）",
       "family": "AirTag",
@@ -208,6 +320,118 @@
       ],
       "documentationUrl": "https://www.apple.com/jp/mac-studio/specs/",
       "documentationDirect": true
+    },
+    {
+      "name": "Apple Watch Ultra 4",
+      "family": "Apple Watch",
+      "released": "2026-09-18",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "S11"
+      ],
+      "models": [
+        "A3579",
+        "A3580"
+      ],
+      "identifiers": [
+        "Watch8,1"
+      ],
+      "storage": [],
+      "memory": [],
+      "colors": [],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Ultra%204%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
+      "name": "iPhone 18 Pro Max",
+      "family": "iPhone",
+      "released": "2026-09-18",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "A20 Pro"
+      ],
+      "models": [],
+      "identifiers": [
+        "iPhone19,3",
+        "iPhone19,7"
+      ],
+      "storage": [],
+      "memory": [],
+      "colors": [],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%2018%20Pro%20Max%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
+      "name": "iPhone 18 Pro",
+      "family": "iPhone",
+      "released": "2026-09-18",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "A20 Pro"
+      ],
+      "models": [],
+      "identifiers": [
+        "iPhone19,2"
+      ],
+      "storage": [],
+      "memory": [],
+      "colors": [],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%2018%20Pro%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
+      "name": "iPhone Duo",
+      "family": "iPhone",
+      "released": "2026-10-23",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "A20 Pro"
+      ],
+      "models": [],
+      "identifiers": [
+        "iPhone19,4"
+      ],
+      "storage": [],
+      "memory": [],
+      "colors": [],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%20Duo%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
+      "name": "Apple Watch Series 12",
+      "family": "Apple Watch",
+      "released": "2026-09-18",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "S11",
+        "S10"
+      ],
+      "models": [
+        "A3581",
+        "A3583",
+        "A3584",
+        "A3585",
+        "A3582",
+        "A3586",
+        "A3587",
+        "A3588"
+      ],
+      "identifiers": [
+        "Watch8,2",
+        "Watch8,3",
+        "Watch8,4",
+        "Watch8,5"
+      ],
+      "storage": [],
+      "memory": [],
+      "colors": [],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Series%2012%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
     },
     {
       "name": "Mac Studio（M3 Ultra、2025）",
