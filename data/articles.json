@@ -1,6 +1,82 @@
 {
   "articles": [
     {
+      "id": "812809e9a3a854409190",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Hands-on with the foldable iPhone Duo [Gallery]",
+      "url": "https://9to5mac.com/2026/09/09/hands-on-with-the-foldable-iphone-duo-gallery/",
+      "publishedAt": "2026-09-10T00:48:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-dup-11.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple初の折りたたみ式iPhone「iPhone Duo」が登場",
+      "summaryJa": "Appleは、初の折りたたみ式スマートフォンとなる「iPhone Duo」を発表しました。7.6インチのSuper Retina XDRインディスプレイと5.4インチのアウトディスプレイを搭載し、折り目を最小限に抑えるナノテクスチャマット仕上げを採用しています。価格は1,999ドルからで、10月16日より予約注文が開始されます。"
+    },
+    {
+      "id": "569e70a5109abcb6595f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo is Dust-Tight With IP68 Rating, Unlike Samsung's Galaxy Z Fold8",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-ip68-durability/",
+      "publishedAt": "2026-09-10T00:46:27.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-hero.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone DuoはIP68の防塵性能を搭載、Galaxy Z Fold8に対抗",
+      "summaryJa": "新発表された折りたたみ式のiPhone Duoは、IP68等級の防塵・防水性能を備えています。競合となるサムスンのGalaxy Z Fold8のIP48等級を上回り、ヒンジ部へのホコリの侵入を防ぐ「ダストタイト」仕様となっています。また、チタン製フレームや10層構造のディスプレイなど、耐久性を高める設計も採用されています。"
+    },
+    {
+      "id": "5a08752aa5f3c3ebcb24",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、iPhone 18 ProとiPhone 18 Pro Maxを発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "publishedAt": "2026-09-10T00:07:30.260Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、可変絞りとA20 Pro搭載の「iPhone 18 Pro」を発表",
+      "summaryJa": "Appleは、先進的なProカメラシステムや優れたパフォーマンスを誇る「iPhone 18 Pro」および「iPhone 18 Pro Max」を発表しました。新たに可変絞りに対応した48MP FusionメインカメラやA20 Proチップを搭載し、バッテリー駆動時間も大幅に向上しています。予約注文は9月12日から、発売は9月18日より開始されます。"
+    },
+    {
+      "id": "2c8e4b44fc0e3083a690",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27's 'iPhone Handoff' Feature Limited to T-Mobile and Deutsche Telekom at Launch",
+      "url": "https://www.macrumors.com/2026/09/09/ios-27-iphone-handoff-t-mobile/",
+      "publishedAt": "2026-09-09T23:49:39.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-iOS-27-Feature.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27の「iPhone Handoff」機能、初期は一部キャリア限定に",
+      "summaryJa": "iOS 27で導入される新しい「iPhone Handoff」機能は、1つの電話番号を2台のiPhoneで共有し、必要に応じて切り替えて使用できるようにする機能です。利用にはキャリアのサポートが必要ですが、提供開始時点では米国のT-MobileとドイツのDeutsche Telekomのみでの対応となります。自動で電話番号が切り替わり、Apple Payのカードなども原則として両方の端末で利用可能です。"
+    },
+    {
+      "id": "b4d8163178e9cd91f37f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Explains What's Inside the iPhone Duo's Folding Screen",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-folding-screen-layers/",
+      "publishedAt": "2026-09-09T23:38:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-iphone-duo-display.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhone Duoの折りたたみ画面の構造を解説",
+      "summaryJa": "Appleは、新製品iPhone Duoに採用されている折りたたみディスプレイの複雑な多層構造について詳細を明らかにした。摩耗に耐えるカスタムポリマー製のナノテクスチャカバー層や高強度ガラス、チタンプレートなどを組み合わせて曲げストレスを軽減している。外側のディスプレイにはCeramic Shield 2が採用され、両画面ともにProMotionや常時表示に対応する。"
+    },
+    {
       "id": "ae920528ca6b745888a1",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -361,6 +437,112 @@
       ],
       "titleJa": "新Siri AI、今月英語で提供開始し10月に日本語など5言語に対応へ",
       "summaryJa": "Appleはイベントにおいて、新機能となるSiri AIの提供スケジュールを明らかにしました。今月中に英語での展開が始まり、10月には日本語、フランス語、韓国語、ポルトガル語、スペイン語の5言語へ対応言語が拡大されます。新しいLLMベースの音声アシスタントとして、OSのリリースに合わせて順次利用可能になる予定です。"
+    },
+    {
+      "id": "ca159887f1ea54521eb3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AirPods 5 vs AirPods 4: here’s what’s new",
+      "url": "https://9to5mac.com/2026/09/09/airpods-5-vs-airpods-4-new-features/",
+      "publishedAt": "2026-09-09T20:30:38.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.34.51.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、アクティブノイズキャンセリング標準搭載のAirPods 5を発表",
+      "summaryJa": "Appleは、エントリー向けAirPodsの新モデルとなるAirPods 5を発表した。価格は129ドルからと従来よりも手頃になりながら、全モデルにアクティブノイズキャンセリングが標準搭載されている。新たなアルゴリズムと音響設計により、従来のAirPods 4と比較してノイズキャンセリング性能が最大50%向上しているほか、外音取り込みモードも自然に聞こえるよう改善された。"
+    },
+    {
+      "id": "cb7aa756d82b8904be86",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Samsung Mocks iPhone Duo",
+      "url": "https://www.macrumors.com/2026/09/09/samsung-mocks-iphone-duo/",
+      "publishedAt": "2026-09-09T20:28:10.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-hero.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "サムスン、発表されたばかりのiPhone DuoをSNSで牽制",
+      "summaryJa": "AppleによるiPhone Duoの発表にあわせて、ライバル企業であるサムスンが公式SNSで皮肉を込めた投稿を行った。具体的な製品名は出していないものの、既存の折りたたみ端末を意識したようなメッセージを発信している。iPhone Duoは10月16日に予約受付が開始され、10月23日に発売される予定となっている。"
+    },
+    {
+      "id": "37e68ceeae968b85c3f7",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Adds AppleCare One Family Plan for Up to Six People",
+      "url": "https://www.macrumors.com/2026/09/09/applecare-one-family-plan/",
+      "publishedAt": "2026-09-09T20:23:05.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/AppleCare-One-Family.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、最大6人まで対象のファミリー向けAppleCare加入プランを発表",
+      "summaryJa": "Appleは、ファミリー共有グループの最大6人までのデバイスをまとめて保証する新プランAppleCare One Familyを発表した。月額49.99ドルで落下や水濡れ、バッテリー交換などのAppleCare+と同等の特典が受けられ、紛失・盗難補償も含まれている。条件を満たした良好な状態のデバイスであれば、家族全員の機器を一つのサブスクリプションで一括管理できる。"
+    },
+    {
+      "id": "ab963f19b46cfae27f33",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro's $100 Price Increase is Actually $300 If You Want 1TB Storage",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-storage-price-hike/",
+      "publishedAt": "2026-09-09T20:20:26.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-burgundy-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの1TBモデルは実質300ドルの値上げか",
+      "summaryJa": "iPhone 18 Proシリーズの基本価格は前モデルから100ドル引き上げられましたが、1TBの大容量ストレージを選ぶ場合の実際の値上げ幅はさらに大きくなっていると報じられています。サプライチェーンにおける部品コストの高騰が背景にあり、上位容量モデルではより大きな価格差がついています。新しい2TBオプションも追加され、ProおよびPro Maxモデル全体で価格設定が見直されています。"
+    },
+    {
+      "id": "698c14d5d39b11401ff5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro vs iPhone Duo: Here’s every key difference",
+      "url": "https://9to5mac.com/2026/09/09/iphone-18-pro-vs-iphone-duo-heres-every-key-difference/",
+      "publishedAt": "2026-09-09T20:07:27.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-vs-iphone-duo-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proと折りたたみ式iPhone Duoの主な違い",
+      "summaryJa": "Appleが発表したフラッグシップモデルであるiPhone 18 Proシリーズと、初の折りたたみ式デバイスであるiPhone Duoの主要な違いについて解説されています。iPhone Duoは7.6インチのインナーディスプレイと5.4インチのアウターディスプレイを備えた折りたたみ式フォームファクタを採用し、従来のiPhoneとは異なる新しい体験を提供します。本体のサイズや重量、ディスプレイの仕様などを比較することで、それぞれの特徴が明らかにされています。"
+    },
+    {
+      "id": "b6cf9eec1efe510190f4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple details how Apple Watch’s new Audio Intelligence features work in privacy paper",
+      "url": "https://9to5mac.com/2026/09/09/apple-details-how-apple-watchs-new-audio-intelligence-features-work-in-privacy-paper/",
+      "publishedAt": "2026-09-09T19:59:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.47.53.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watchの新機能オーディオインテリジェンスの仕組み",
+      "summaryJa": "Apple Watch向けに新たに導入されるオーディオインテリジェンス機能について、プライバシー保護の観点から詳細が公開されました。この機能にはサウンド認識やShazamによる自動音楽認識に加え、ライブリワインドやSiriレカペが含まれています。各機能はユーザーがオプトインで選択し、プライバシーに配慮した設計が施されています。"
+    },
+    {
+      "id": "20d34183a49bc658bfc0",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、iPhone Duoを発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "publishedAt": "2026-09-09T19:32:00.283Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、初の折りたたみ式デバイス「iPhone Duo」を発表",
+      "summaryJa": "Appleは、同社初となる折りたたみ式iPhone「iPhone Duo」を発表しました。7.6インチのインナーディスプレイと5.4インチのアウターディスプレイを搭載し、開いた状態では史上最薄のデザインを実現しています。A20 Proチップや高度な熱管理システムを備え、新しいiOSやApple Intelligenceによる優れたパフォーマンスを提供します。"
     },
     {
       "id": "b7aec78c07914a38d554",
@@ -4326,189 +4508,9 @@
       ],
       "titleJa": "Dropbox、サードパーティ連携の認証不備で不正アクセス被害か",
       "summaryJa": "クラウドストレージサービスのDropboxで、Lenovo IDを用いたシングルサインオン機能の認証不備に起因する不正アクセスが発生したと報じられています。一部のユーザーに対してアカウントへの不正アクセスがあったことを知らせる通知メールが送られました。Dropbox側はLenovoのメール検証プロセスに問題があったとしていますが、追加の認証を求めていなかった点も指摘されています。"
-    },
-    {
-      "id": "4103eb7bd423391d8a86",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Dispute With OpenAI Said to Be a 'Mess of Apple's Own Making'",
-      "url": "https://www.macrumors.com/2026/09/01/dispute-said-to-be-mess-of-apples-own-making/",
-      "publishedAt": "2026-09-01T12:07:03.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/05/OpenAI-vs-Apple-Feature-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "OpenAI、Appleからの営業秘密侵害の訴えに反論",
-      "summaryJa": "OpenAIは、Appleが元従業員による営業秘密の窃盗を主張している裁判において、情報が盗まれた証拠を示せていないと連邦裁判所で反論しました。今回の法廷文書の中で、この法的な紛争はApple自身が招いた混乱であると主張しています。さらに、カリフォルニア州法のもとでの従業員の転職の自由や、Appleの退職者対応の不備についても言及しています。"
-    },
-    {
-      "id": "75c6e7c37bbd37876a1b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AAPL gained 2,736% under Cook, but Ternus doesn’t have to emulate him",
-      "url": "https://9to5mac.com/2026/09/01/aapl-gained-2736-under-cook-but-ternus-doesnt-have-to-emulate-him/",
-      "publishedAt": "2026-09-01T11:46:06.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/m4-macbook-pro-video-event.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ティム・クック体制下のApple株価と次期CEOへの期待",
-      "summaryJa": "ティム・クックがCEOを務めた期間中にAppleの株価が配当を含めて2,736%という驚異的な上昇を記録したことが報じられています。巨大な時価総額を築いたクックの後任となるジョン・テラスにとって、同様の財務的成功をそのまま真似る必要はないとの見方が示されています。過去の偉大な経営者たちと同様に、数字を追いかけるのではなく最高の製品作りに集中すべきだという哲学が強調されています。"
-    },
-    {
-      "id": "da932c81fc21641e58dd",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Vision Pro Layoffs Were Broader Than First Reported",
-      "url": "https://www.macrumors.com/2026/09/01/vision-pro-layoffs-were-broader/",
-      "publishedAt": "2026-09-01T11:18:35.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/03/apple-vision-pro-orange.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AppleのVision Pro関連レイオフは全社的な規模に拡大か",
-      "summaryJa": "Bloombergのマーク・ガーマン記者が、AppleのVision Pro関連チームにおける人員削減が当初の報道よりも広範囲に及んでいると報じています。当初はゲームや没入型動画部門が対象とされていましたが、デバイスセキュリティやオーディオ、Siri統合、visionOSの開発チームなど社内の他部署にも影響が及んでいます。販売が低迷する中、新CEOに就任したジョン・ターナス氏の姿勢や、スマートグラスなど将来の製品戦略への影響にも注目が集まっています。"
-    },
-    {
-      "id": "60d1104d674adc089ad3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI calls trade secret dispute ‘a mess of Apple’s own making’",
-      "url": "https://9to5mac.com/2026/09/01/openai-calls-trade-secret-dispute-a-mess-of-apples-own-making/",
-      "publishedAt": "2026-09-01T11:07:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/OpenAI-calls-trade-secret-dispute-a-mess-of-Apples-own-making.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI、Appleの営業秘密をめぐる訴訟で反論を展開",
-      "summaryJa": "Appleが元従業員のMacBook分析から「衝撃的な証拠」を発見したと主張した件に対し、OpenAI側が独自の法的文書で反論しました。OpenAIは、この問題はApple自身のずさんな手順や手続きによって引き起こされたものだと主張しています。この訴訟は、元エンジニアらがOpenAIでのAIハードウェア開発を支援するために機密情報を不正に持ち出したかどうかを争うものです。"
-    },
-    {
-      "id": "e782de9ea9c5731aee2d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Security Bite Podcast: Why Apple’s making big changes to its bug bounty program (Part 1)",
-      "url": "https://9to5mac.com/2026/09/01/security-bite-podcast-why-apples-making-big-changes-to-its-bug-bounty-program-part-1/",
-      "publishedAt": "2026-09-01T10:40:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleのバグ報奨金プログラムの変更点をポッドキャストで解説",
-      "summaryJa": "セキュリティに関するポッドキャスト番組の最新エピソードにおいて、Appleのバグ報奨金プログラムにおける近年の変更点について専門家らが議論を行っています。Objective-Seeのパトリック・ウォードル氏らをゲストに迎え、プログラムの見直しや現在のmacOSを取り巻く脅威の状況について詳しく語られています。今後のセキュリティカンファレンスやプラットフォーム全体の安全性向上に向けた動向に関心が集まっています。"
-    },
-    {
-      "id": "8f6f4cc5bf08b2ae4353",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple leadership page updated as John Ternus becomes the new CEO",
-      "url": "https://9to5mac.com/2026/09/01/apple-leadership-page-updated-as-john-ternus-becomes-the-new-ceo/",
-      "publishedAt": "2026-09-01T10:09:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-leadership-page-john-ternus.jpg?quality=82&#038;strip=all&#038;w=1594",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、ジョン・ターナス新CEOへの移行に伴い指導部ページを更新",
-      "summaryJa": "Appleはティム・クック氏からジョン・ターナス氏へのCEO引き継ぎを正式に完了し、企業のリーダーシップページを更新しました。クック氏はエグゼクティブ・チェアとして取締役会に加わり、ターナス新体制のもとで新たな時代が始まります。ターナス氏は製品志向のビジョンを持ち、今後開催される秋のイベントで新製品の発表を行う予定です。"
-    },
-    {
-      "id": "b9697cf7cf42570306a8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple @ Work Podcast: The human side of AI adoption in the enterprise",
-      "url": "https://9to5mac.com/2026/09/01/apple-work-podcast-the-human-side-of-ai-adoption-in-the-enterprise/",
-      "publishedAt": "2026-09-01T10:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple @ Work：企業におけるAI導入のヒューマンサイド",
-      "summaryJa": "最新のポッドキャストエピソードでは、ゲストとしてグレブ・ツィプルスキー博士が出演し、企業におけるAI導入の人間的な側面や、自身の著作などについて語っています。組織における新しいテクノロジーの受け入れ方や、現場で直面する課題について解説しています。"
-    },
-    {
-      "id": "25b6beab590c6cf1e798",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: August 31, 2026 – Apple TV price hikes, more",
-      "url": "https://9to5mac.com/2026/08/31/daily-august-31-2026/",
-      "publishedAt": "2026-09-01T02:18:49.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVの値上げや次期Apple Watchの噂など",
-      "summaryJa": "9to5Macのポッドキャスト番組にて、Apple TVおよびApple Oneサブスクリプションの価格引き上げや、iPhone 18 Proの予約開始時期に関する噂が取り上げられています。また、次期Apple Watch Series 12での常時心拍数トラッキング機能の搭載や、新しいフィットネスアプリの導入についても言及されました。"
-    },
-    {
-      "id": "4a4ea3ea89b7d4ab03ad",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Qualcomm Raising Chip Prices Starting Tomorrow",
-      "url": "https://www.macrumors.com/2026/08/31/qualcomm-chip-price-increase/",
-      "publishedAt": "2026-08-31T23:39:44.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/03/Apple-5G-Modem-Feature-16x9.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "クアルコム、2桁台のチップ値上げを実施へ",
-      "summaryJa": "クアルコムはサプライヤーのコスト増を吸収できないとして、チップ価格を2桁台の引き上げを実施すると発表しました。Appleは独自のモデムチップへの移行を進めていますが、iPhone 17モデルなどで引き続きクアルコム製チップを採用しています。一方で、DRAMやストレージの価格高騰も重なり、将来のiPhoneモデルの値上げにつながる可能性が指摘されています。"
-    },
-    {
-      "id": "2ff0c11f76362b7e1154",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Save up to $1600 on Roborock products, including the flagship Saros 20",
-      "url": "https://9to5mac.com/2026/08/31/save-1600-roborock-products-including-flagship-saros-20/",
-      "publishedAt": "2026-08-31T22:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Save-up-to-630-on-Roborock-products-including-the-flagship-Saros-20.jpg?quality=82&#038;strip=all&#038;w=1400",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Roborockが12周年セールを開催、最大1,600ドルの割引を実施",
-      "summaryJa": "ロボット掃除機メーカーのRoborockが創立12周年を記念し、フラッグシップモデルの「Saros 20」や各種製品を対象とした大規模な割引セールを9月6日まで開催しています。割引率は25%から50%以上に及び、最大で1,600ドルの大幅な節約となります。今回のセールでは、高度な自律ナビゲーションやAIを活用した賢い清掃機能を備えた最新の掃除機などが対象となっています。"
-    },
-    {
-      "id": "711307ecf789c17705dc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Codex report: Four months of building joy on my Mac with ChatGPT",
-      "url": "https://9to5mac.com/2026/08/31/codex-report-four-months-of-building-joy-on-my-mac-with-chatgpt/",
-      "publishedAt": "2026-08-31T22:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/codex_60df2b.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Mac版ChatGPTのCodexを活用した4ヶ月間の体験談",
-      "summaryJa": "ChatGPTのデスクトップアプリに統合されたOpenAIの「Codex」エージェント機能について、Macでの実際の活用体験が報じられています。非プログラマーの執筆者であっても、「Computer Use」プラグインの追加によって作業の効率化や新たな学びのシーズンがもたらされたと語られています。かつてAppleに買収されたWorkflowの系譜を継ぐこのAI機能は、Macでの作業スタイルを大きく変える存在として注目を集めています。"
-    },
-    {
-      "id": "279b9a37bd6cc85f2a83",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
-      "url": "https://www.macrumors.com/2026/08/31/apple-ios-27-public-beta-6/",
-      "publishedAt": "2026-08-31T21:13:29.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Cool.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、各OSのパブリックベータ第6版を公開",
-      "summaryJa": "Appleは登録ユーザー向けに、iOSやiPadOS、tvOSなどのパブリックベータ第6版をリリースしました。開発者向けベータの第8版公開に続くもので、9月のイベント後に予定されている正式リリースに向けた最終調整の段階に入っています。今回のベータ版では目立った新機能の追加は含まれておらず、安定性の向上やバグ修正が中心となっています。"
     }
   ],
-  "updatedAt": "2026-09-09T23:32:07.217Z",
+  "updatedAt": "2026-09-10T01:25:31.544Z",
   "initialized": true,
   "summaryVersion": 4
 }
