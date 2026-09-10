@@ -1,6 +1,156 @@
 {
   "articles": [
     {
+      "id": "de18ad132c9015fd82c3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV shares intense trailer for ‘The Last First: Winter K2’",
+      "url": "https://9to5mac.com/2026/09/10/apple-tv-shares-intense-trailer-for-the-last-first-winter-k2/",
+      "publishedAt": "2026-09-10T20:40:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/last-first-k2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、過酷なK2峰の冬期登頂を描くドキュメンタリーの予告編を公開",
+      "summaryJa": "Apple TVは10月2日より、極限の登山業界と変わりゆく文化に迫るドキュメンタリー映画『The Last First: Winter K2』を配信開始します。サンダンス映画祭で選出され、高い評価を受けている本作の予告編が新たに公開されました。2021年にK2の冬期初登頂を目指した登山隊の挑戦を通じ、過酷な自然環境や人間ドラマをリアルに描き出します。"
+    },
+    {
+      "id": "d297fad192c6943de75c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Ceramic Series 12 is Pricier to Repair Than Apple Watch Ultra 4",
+      "url": "https://www.macrumors.com/2026/09/10/ceramic-series-12-repair-costs/",
+      "publishedAt": "2026-09-10T20:31:37.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/series-12-ceramic.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "セラミック製Apple Watch Series 12、Ultra 4よりも修理費用が高額に",
+      "summaryJa": "Apple Watch Series 12で復活したセラミックケースモデルは、AppleCare+未加入時の修理費用が非常に高価であることが分かりました。バッテリー交換以外のその他の損傷修理には599ドルがかかり、Apple Watch Ultra 4の549ドルを上回ります。加入している場合は手頃なサービス料で修理を受けられるほか、多彩なAppleCareプランも提供されています。"
+    },
+    {
+      "id": "19748aa9bf2e14b6e3b3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: iPhone Duo could give Apple a 25% share of foldable market in 2026",
+      "url": "https://9to5mac.com/2026/09/10/report-iphone-duo-could-give-apple-a-25-share-of-foldable-market-in-2026/",
+      "publishedAt": "2026-09-10T20:04:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-Duo-apps.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "折りたたみ市場でiPhone Duoが2026年に25%のシェアを獲得するか",
+      "summaryJa": "最新の調査レポートによると、新たに登場したiPhone Duoは2026年だけで世界の折りたたみスマートフォン市場の24.8%を占有すると予測されています。部品コストの高騰による市場全体の減速が予想される中、Appleは500万台の出荷を見込んでいます。薄型化を優先した設計や生体認証の選択などが、今後の市場に大きな影響を与えそうです。"
+    },
+    {
+      "id": "b40b3744f1fbfcceb717",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Mac's Edge Light Feature Rumored to Expand to iPhone",
+      "url": "https://www.macrumors.com/2026/09/10/mac-edge-light-feature-may-expand-to-iphone/",
+      "publishedAt": "2026-09-10T19:59:43.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/11/apple-edge-light-macos-tahoe-26-2.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Macの画面端を光らせる機能がiPhoneにも拡大か、コードから示唆",
+      "summaryJa": "macOSで導入された、画面の縁を光らせて顔を明るく照らす「Edge Light」機能が、iPhone向けにも開発されていると報じられています。iOSの最新リリース候補版のコードから、少なくともiPhone Duoで同機能が利用可能になることが示唆されました。色温度や明るさの調整機能を備えたバーチャルリングライトとして、低照度での撮影などで活躍することが期待されます。"
+    },
+    {
+      "id": "6813c709b375b3e54c94",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Rates iPhone 18 Pro Slightly Easier to Repair Than 17 Pro",
+      "url": "https://www.macrumors.com/2026/09/10/iphone-18-pro-eu-repair-rating/",
+      "publishedAt": "2026-09-10T19:49:41.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-17-Pro-vs-18-Pro-Buyers-Guide-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの修理しやすさがわずかに向上か",
+      "summaryJa": "EUのエネルギー規制に伴う製品情報シートから、iPhone 18 ProおよびPro Maxの修理しやすさのスコアが前モデルからわずかに上昇していることが判明しました。分解の深さやツールに関する項目で改善が見られますが、基本的な構造や部品供給などはほぼ同等とみられています。"
+    },
+    {
+      "id": "179980487b03df84d24f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Upgrading to Apple Watch Series 12 Could Cost You Hypertension Notifications",
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-hypertension-alerts/",
+      "publishedAt": "2026-09-10T19:33:27.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/watchos-26-hypertension-alert.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch新モデルへの移行で高血圧通知が一時利用停止に",
+      "summaryJa": "Apple Watch Series 12やUltra 4にアップグレードすると、規制認可の手続き中のため高血圧通知機能が一時的に利用できなくなる可能性があります。新型ウォッチのセンサー刷新に伴い、日本を含む複数の国や地域で追加の認可取得が必要となっているためです。"
+    },
+    {
+      "id": "8abfbc98046d7868b9bf",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple shares fun, 95-second recap of yesterday’s ‘Surprise and Shine’ event",
+      "url": "https://9to5mac.com/2026/09/10/apple-shares-fun-95-second-recap-of-yesterdays-surprise-and-shine-event/",
+      "publishedAt": "2026-09-10T19:31:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-event-recap.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、「Surprise and Shine」イベントの95秒ハイライト動画を公開",
+      "summaryJa": "Appleは新製品発表イベント「Surprise and Shine」の内容を約95秒に凝縮したダイジェスト動画をYouTubeで公開しました。iPhone 18 ProやApple Watch Series 12、AirPods 5、さらに折りたたみ式iPhoneのiPhone Duoなど、発表された主要製品がテンポよく紹介されています。"
+    },
+    {
+      "id": "24beb9693434485b41a3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 Apple Health App Redesign: Every New Feature Coming in 2026",
+      "url": "https://www.macrumors.com/guide/ios-27-health-app-new-features/",
+      "publishedAt": "2026-09-10T19:25:14.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-ios-27-health-app-watch.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27でAppleヘルスケアアプリが大幅リニューアルへ",
+      "summaryJa": "AppleはApple Watchの新しい健康センサー搭載に合わせて、iPhoneとiPadのヘルスケアアプリの大幅な刷新を発表しました。Apple Intelligenceを活用したパーソナライズされた健康アドバイス機能や、新しく追加されたインサイトタブにより、日々の健康データをより活用しやすくなります。"
+    },
+    {
+      "id": "762a5103b414af1c9b21",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "RIP, iPhone Ultra",
+      "url": "https://www.macrumors.com/2026/09/10/rip-iphone-ultra/",
+      "publishedAt": "2026-09-10T19:13:14.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-hero.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleの新型折りたたみiPhone、名称は「Ultra」ではなく「iPhone Duo」に",
+      "summaryJa": "テック系メディアの間で長らく「iPhone Ultra」と噂されていたApple初の折りたたみ式iPhoneの正式名称が「iPhone Duo」に決まったことが分かりました。直前までUltraという呼称が有力視されていましたが、本体のデュアルスクリーンを反映したDuoが採用されました。この端末にはFace IDや望遠カメラ非搭載といった特徴もあり、Ultraという名称は将来の別の製品のために温存される可能性があります。"
+    },
+    {
+      "id": "683bb5fb2e993ba92718",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple will launch 7+ new products in October, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/09/10/apple-will-launch-7-new-products-in-october-heres-whats-coming/",
+      "publishedAt": "2026-09-10T18:52:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、10月にも新製品を多数発表か タッチ対応MacBookやスマートホーム機器の噂",
+      "summaryJa": "今週発表されたiPhone Duoに続き、Appleは10月にも多数の新製品を投入する予定と報じられています。タッチスクリーンを搭載した新型MacBookや、Siri AIを強化したApple TVなどのホーム製品、さらにOLEDディスプレイを採用した新しいiPad miniの登場が噂されています。これらの新製品は10月の発売に向けて準備が進められており、今後の発表に注目が集まっています。"
+    },
+    {
       "id": "0dbe8ba14dbfbc03bb57",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -179,6 +329,36 @@
       ],
       "titleJa": "新型Apple WatchやAirPodsが早くも割引価格で登場",
       "summaryJa": "新発表されたAirPods 5やApple Watch Series 12、Ultra 4などの最新デバイスの予約受付や販売が開始されるとともに、早くも割引価格でお得に入手できるキャンペーンが展開されています。AirPods 5はアクティブノイズキャンセリングを搭載しながら手頃な価格を実現しているほか、上位モデルのAirPods Pro 3もAmazonなどでセール価格となっています。"
+    },
+    {
+      "id": "9cd959e405d2bbfc8f4e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s how the iPhone Duo stacks up against the Samsung Galaxy Z Fold8",
+      "url": "https://9to5mac.com/2026/09/10/heres-how-the-iphone-duo-stacks-up-against-the-samsung-galaxy-z-fold8/",
+      "publishedAt": "2026-09-10T15:23:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-galaxy-fold.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新発表の「iPhone Duo」とサムスン「Galaxy Z Fold8」のスペック比較",
+      "summaryJa": "Appleが正式発表した折りたたみ式スマートフォン「iPhone Duo」と、競合するサムスンの「Galaxy Z Fold8」の仕様が比較されています。iPhone Duoは7.6インチのメインディスプレイやA20 Proチップを搭載し、本体の寸法や重さの面でも同等クラスの仕上がりとなっています。10月23日の発売を控え、今後は実際のヒンジ構造や折り目の目立ち具合などについての詳細なレビューが期待されます。"
+    },
+    {
+      "id": "731c7ff044d8b5803997",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "This is Apple’s new Wrist Strap accessory for iPhone",
+      "url": "https://9to5mac.com/2026/09/10/this-is-apples-new-wrist-strap-accessory-for-iphone/",
+      "publishedAt": "2026-09-10T15:13:33.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/wrist-strap-iphone-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPhoneやAirPods Proに対応した純正の新型リストストラップを発表",
+      "summaryJa": "AppleはiPhone 18 ProやiPhone Duoの発表に合わせて、新しいアクセサリとなる「リストストラップ」を発売しました。このストラップは100%リサイクルPET糸で作られており、対応する純正iPhoneケースやAirPods Proに取り付けてハンズフリーで持ち運ぶことができます。カラーバリエーションも豊富に用意され、落下防止や利便性を高める新しい純正アクセサリとして注目を集めています。"
     },
     {
       "id": "4b98becca536395f778e",
@@ -4327,190 +4507,9 @@
       ],
       "titleJa": "コントロールセンターから現在のアプリ設定を素早く開く小技",
       "summaryJa": "iPhoneで現在開いているアプリの設定画面へ素早くアクセスできる便利なショートカット活用法が紹介されています。通常は設定アプリの深い階層から探す必要がある各アプリの個別メニューを、ショートカットを作成してコントロールセンターやアクションボタンに割り当てることでワンタップで呼び出せるようになります。日常的な操作の手間を大幅に軽減できる実用的なテクニックです。"
-    },
-    {
-      "id": "3b54c9dba3d99f1455bd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "M6 MacBook Pro: Three new upgrades launching this fall",
-      "url": "https://9to5mac.com/2026/09/02/m6-macbook-pro-three-new-upgrades-launching-this-fall/",
-      "publishedAt": "2026-09-02T15:36:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/m6-macbook-pro-angle.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "今秋登場のM6 MacBook Proに期待される3つの進化点",
-      "summaryJa": "今秋の発売が噂されるM6チップを搭載したMacBook Proについて、3つの主要なアップグレード内容が伝えられています。新しいM6チップにはデュアル16コアNeural Engineが搭載され、オンデバイスAIの処理性能が大幅に向上するほか、12コアCPUおよびGPUや優れた電力効率を実現する2nmプロセスが採用される見込みです。"
-    },
-    {
-      "id": "a87736615062a934ae63",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: AirPods Pro 3 $50 off, M5 MacBook Air $240 off, M6 Mac mini, accessories from $5.50, more",
-      "url": "https://9to5mac.com/2026/09/02/deals-airpods-pro-3-m5-macbook-air-m6-mac-mini/",
-      "publishedAt": "2026-09-02T15:27:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-Pro-3-MacBook-Air-M5-Mac-mini-M6.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AmazonのセールでAirPods Pro 3が50ドル引きに",
-      "summaryJa": "Amazonで開催中のLabor Dayセールにおいて、最新のAirPods Pro 3が通常より50ドル安い199ドルで販売されています。他にもAirTag 2や公式整備済製品のMacBook Airなど、複数のApple製品が割引対象となっています。"
-    },
-    {
-      "id": "7821a9bc7b3515b51ddb",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's New Mac Mini Already Discounted - See the Pre-Order Deals",
-      "url": "https://www.macrumors.com/2026/09/02/pre-order-discounts-mac-mini/",
-      "publishedAt": "2026-09-02T15:11:36.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/mac-mini-2026-blue.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型Mac miniが発売を前に早くも割引価格で予約受付中",
-      "summaryJa": "Amazonにて、発表されたばかりの新型Mac miniの予約受付が開始され、早くも割引価格で販売されています。対象となるのはM6モデルやM5 Proモデルで、9月22日の正式発売を前に少しお得に購入できるチャンスとなっています。"
-    },
-    {
-      "id": "cbe7131703e591f3255b",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Hello Developer: September 2026",
-      "url": "https://developer.apple.com/news/?id=ote61lrx",
-      "publishedAt": "2026-09-02T15:00:02.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/118D6B92-8A93-4879-BBB4-EE5F98F8B216/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple Developerニュース2026年9月号が公開",
-      "summaryJa": "Apple Developerの最新情報となる2026年9月号が公開されました。今回は特別なAppleイベントに向けた準備をはじめ、App Store Connectにおけるアナリティクスの活用方法、さらにクパチーノで開催される新しいデベロッパー向けイベントへの登録案内などが含まれています。開発者は最新の案内を確認し、今後のイベントやツール利用の準備を進めることができます。"
-    },
-    {
-      "id": "346a6d4e8f89dd12a4ae",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 gives Apple Pay its best upgrade in years with redesign",
-      "url": "https://9to5mac.com/2026/09/02/ios-27-gives-apple-pay-its-best-upgrade-in-years-with-redesign/",
-      "publishedAt": "2026-09-02T14:26:06.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-pay-card-ios-27-checkout.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27のApple Payは長年で最大の使いやすさを実現",
-      "summaryJa": "iOS 27ではApple Payのチェックアウト画面が刷新され、数年ぶりとなる大幅なデザイン改良が行われました。カードの切り替え操作が直感的になり、配送先や請求先などの情報もひと目で確認しやすくなっています。"
-    },
-    {
-      "id": "54bd68bed34c47f38f78",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Wallet driver’s license support launches in Oklahoma",
-      "url": "https://9to5mac.com/2026/09/02/apple-wallet-drivers-license-support-launches-in-oklahoma/",
-      "publishedAt": "2026-09-02T13:52:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ok.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleウォレットの運転免許証対応がオクラホマ州に拡大",
-      "summaryJa": "Appleはウォレットアプリの運転免許証および身分証明書機能の対応州を拡大し、オクラホマ州の住民もiPhoneやApple Watchに追加できるようになりました。全米で16番目の導入となり、対応空港のTSAセキュリティチェックなどで利用可能です。"
-    },
-    {
-      "id": "675e24cb7802d6f46f24",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Driver's License Feature in Apple Wallet Just Launched in 16th U.S. State",
-      "url": "https://www.macrumors.com/2026/09/02/apple-wallet-id-feature-16th-us-state/",
-      "publishedAt": "2026-09-02T13:38:58.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/apple-wallet-drivers-license-feature-iPhone-15-pro-purple-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Wallet、米オクラホマ州で運転免許証に対応",
-      "summaryJa": "米オクラホマ州の住民は、iPhoneやApple WatchのApple Walletアプリにデジタル運転免許証を追加できるようになりました。対応するのは米国で16番目の州となります。対応空港のTSAチェックポイントや一部の店舗、アプリなどで身分証明として利用可能ですが、法執行機関などでは引き続き物理的な身分証明書が必要です。"
-    },
-    {
-      "id": "429699406b7077e47a4e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Siri AI won’t be your friend, and here’s why that really matters",
-      "url": "https://9to5mac.com/2026/09/02/siri-ai-wont-be-your-friend-and-heres-why-that-really-matters/",
-      "publishedAt": "2026-09-02T13:21:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Siri-AI-wont-act-as-your-friend-and-heres-why-that-really-matters.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AppleのAI戦略が示す、Siriを「友だち」にしない理由",
-      "summaryJa": "米国の調査により、多くの人がAIチャットボットを親しい友人やセラピストのように捉えていることが明らかになりました。孤独感を和らげる一方で、人間関係の希薄化を招く懸念が指摘されています。Appleの幹部は、新しいSiriがAIの恋人や友人として機能しないよう設計されていると明言しており、こうした擬似的な関係の構築を避ける方針を堅持しています。"
-    },
-    {
-      "id": "84199307ba9b67879e13",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Adobe brings Photoshop, Firefly, and 70+ creative tools to Slack with MCP app",
-      "url": "https://9to5mac.com/2026/09/02/adobe-brings-photoshop-firefly-and-70-creative-tools-to-slack-with-mcp-app/",
-      "publishedAt": "2026-09-02T13:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/adobe-slack.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Adobe、Slack向けにPhotoshopやFireflyなどのクリエイティブツールを提供開始",
-      "summaryJa": "Adobeは、Slack内で直接画像や動画、デザインなどを編集できる「Adobe for Slack」アプリの提供を開始しました。Slackbotを通じてPhotoshopやFirefly、Acrobatなどの70以上のプロ向けツールを利用でき、プロジェクトの文脈を活かした資料作成や画像編集が可能です。この機能は全世界のSlack Business+およびEnterprise+の顧客向けに展開されています。"
-    },
-    {
-      "id": "f2c4e3257b425826ae98",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: September 2, 2026 – Apple vs OpenAI update, more",
-      "url": "https://9to5mac.com/2026/09/02/daily-september-2-2026/",
-      "publishedAt": "2026-09-02T12:50:22.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新しいOLED搭載iPad miniが10月末までに登場か",
-      "summaryJa": "9to5Mac Dailyのポッドキャスト番組にて、最新のApple関連ニュースが報じられました。注目のトピックとして、OLEDディスプレイを搭載した新しいiPad miniが10月末までに登場する見込みであることが伝えられています。また、新CEOに就任したジョン・ターナス氏の動向や、OpenAIを巡る訴訟の新たな証拠についても言及されています。"
-    },
-    {
-      "id": "4ee6f17e36b592d2aff6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AI will be the defining test of Apple’s environmental commitments, says Greenpeace",
-      "url": "https://9to5mac.com/2026/09/02/ai-will-be-the-defining-test-of-apples-environmental-commitments-says-greenpeace/",
-      "publishedAt": "2026-09-02T12:24:47.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/AI-will-be-the-defining-test-of-Apples-environmental-commitments-says-Greenpeace.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AIの導入がAppleの環境目標における最大の試練に",
-      "summaryJa": "環境保護団体グリーンピースは、AI機能の導入がAppleの環境保護への取り組みにとって最大の試練になると指摘しています。Apple IntelligenceやSiri AIを支える大規模データセンターは大量の電力や水を消費するため、これまでの再生可能エネルギーへの取り組みが試されることになります。同団体は、排出量の削減や追加の再生可能エネルギーへの投資を通じてAIの成長に対応する必要があると求めています。"
-    },
-    {
-      "id": "6d1f9238b1ea640729ac",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Labor Day 2026 deals now live: AirPods Pro 3, M6 Mac mini, AirTag 2, iPhone, more [Updated]",
-      "url": "https://9to5mac.com/2026/09/02/apple-labor-day-2026-deals-live/",
-      "publishedAt": "2026-09-02T12:17:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-Labor-Day-deals-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AmazonのレイバーデーセールでApple製品が特別価格に",
-      "summaryJa": "Amazonが大規模なレイバーデーセールを開催し、多数のApple製品が割引販売されています。AirPods Pro 3が50ドル引きの199ドルで販売されているほか、AirTag 2やiPhone 17 Pro、Apple Watch SE 3などが特別価格となっています。さらに、新発売のM6 Mac miniなどの製品も割引の対象となっており、幅広いカテゴリーでお得な価格が提供されています。"
     }
   ],
-  "updatedAt": "2026-09-10T18:31:29.103Z",
+  "updatedAt": "2026-09-10T21:09:10.035Z",
   "initialized": true,
   "summaryVersion": 4
 }
