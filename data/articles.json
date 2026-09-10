@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "efc6c6ed8c65be87bebe",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "The iPhone Duo is Apple at its absolute best (and a little bit at its worst)",
+      "url": "https://9to5mac.com/2026/09/10/the-iphone-duo-is-apple-at-its-absolute-best-and-a-little-bit-at-its-worst/",
+      "publishedAt": "2026-09-10T11:34:14.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/The-iPhone-Duo-is-Apple-at-its-absolute-best.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの折りたたみ式iPhone「iPhone Duo」の魅力",
+      "summaryJa": "サムスンに遅れをとったAppleが満を持して投入した折りたたみ式iPhone「iPhone Duo」の詳細が明らかになりました。折り目の目立たないディスプレイや独自のヒンジ設計など、細部までこだわり抜いたデザインを採用しています。ソフトウェアも折りたたみフォームファクターの利点を最大限に活かすよう最適化されており、優れた使い心地を提供します。"
+    },
+    {
+      "id": "0855b35cb8e0dbd74ff1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro and Pro Max Benchmarks Reveal Speed of A20 Pro Chip",
+      "url": "https://www.macrumors.com/2026/09/10/iphone-18-pro-max-benchmarks-reveal-a20-pro-speed/",
+      "publishedAt": "2026-09-10T11:06:15.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 ProのA20 Proチップ性能が判明か",
+      "summaryJa": "Geekbenchのデータベースに登場した初期のベンチマーク結果から、iPhone 18 Proシリーズに搭載されるA20 Proチップの性能が明らかになりました。A19 Proと比較して、シングルコアが約21〜23%、マルチコアが約27〜28%向上していると伝えられています。さらに、2ナノメートルプロセスで製造された新しいGPUや冷却機構により、グラフィックス性能や持続的なパフォーマンスも大きく向上する見込みです。"
+    },
+    {
+      "id": "7113d8d5dd16db6bcca7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "How to fast charge iPhone 18 Pro",
+      "url": "https://9to5mac.com/2026/09/10/how-to-fast-charge-iphone-18-pro/",
+      "publishedAt": "2026-09-10T10:36:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-lineup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの急速充電を利用する方法",
+      "summaryJa": "新モデルのiPhone 18 Proでは、バッテリー駆動時間の向上に加え、有線での急速充電機能もさらに強化されています。最大出力のダイナミック40W電源アダプタとUSB-Cケーブルを組み合わせることで、従来よりも約33%高速な充電が可能になります。これにより、わずか約15分でバッテリーを0%から50%まで充電でき、短時間の充電で長時間の動画再生が楽しめます。"
+    },
+    {
+      "id": "930642f9c1fd2aa37b39",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 to Upgrade Apple TV Remote App in Two Ways",
+      "url": "https://www.macrumors.com/2026/09/10/hidden-ios-27-features-iphone-apple-tv-remote-app/",
+      "publishedAt": "2026-09-10T09:33:59.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Apple-TV-Remote-Icon.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27で刷新されるApple TV Remoteアプリ",
+      "summaryJa": "公開されたiOS 27のリリース候補版で、iPhoneの仮想Apple TV Remoteアプリのデザインが刷新され、2つの新しい機能が追加されることが分かりました。右上に追加された新しいボタンからApple TVのアプリメニューを素早く呼び出せるほか、仮想トラックパッドを上から下にスワイプしてトップシェルフのコンテンツを表示できるようになります。また、iOS 27からはリモコンアプリをホーム画面に追加することも可能になります。"
+    },
+    {
+      "id": "b611f71b641262b4f0b0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Touch ID Isn't the Only Way to Unlock an iPhone Duo",
+      "url": "https://www.macrumors.com/2026/09/10/apple-great-mac-feature-for-iphone-duo/",
+      "publishedAt": "2026-09-10T08:41:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone Duoの多彩なロック解除機能",
+      "summaryJa": "Appleの新しい折りたたみ式iPhoneであるiPhone DuoはFace IDを搭載していませんが、側面のボタンにTouch IDが統合されています。本体が開いていても閉じていても指紋認証を利用できるほか、Apple Watchを装着していれば自動でロックを解除することも可能です。予約注文は10月16日に開始され、10月23日に発売されます。"
+    },
+    {
       "id": "69ae271973d70c123caf",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -906,6 +981,36 @@
       ],
       "titleJa": "Apple、オープンイヤー型ANCを搭載した「AirPods 5」を発表",
       "summaryJa": "Appleは、オープンイヤーデザインを採用しながらクラス最高のアクティブノイズキャンセリング（ANC）を搭載した「AirPods 5」を発表しました。音質や外部音取り込みモードが向上したほか、Siri AIとの連携やライブ翻訳機能にも対応しています。本日より予約注文が開始され、9月18日に発売される予定です。"
+    },
+    {
+      "id": "881dd140bd2a65413739",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "publishedAt": "2026-09-09T17:34:55.485Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple、オープンイヤー型ANC搭載のAirPods 5を発表",
+      "summaryJa": "Appleは、オープンイヤー型デザインでありながら業界最高のノイズキャンセリング機能を備えたAirPods 5を発表しました。新開発のアコースティックアーキテクチャや次世代のアダプティブイコライザーにより、さらに没入感のあるサウンドを実現しています。ハンズフリーのSiri AIやライブ翻訳機能にも対応し、価格は129ドルからで9月18日に発売されます。"
+    },
+    {
+      "id": "e833e342425ef9865ce8",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "publishedAt": "2026-09-09T17:30:06.059Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple、先進のカメラと性能を備えたiPhone 18 Proを発表",
+      "summaryJa": "Appleは、高度なプロカメラシステムと大幅なバッテリー持続時間の向上を実現したiPhone 18 ProおよびiPhone 18 Pro Maxを発表しました。可変絞りに対応した48MPフュージョンメインカメラやA20 Proチップを搭載し、最高の持続パフォーマンスを提供します。Siri AIなどの高度な機能も統合されており、9月18日の発売に向けて9月12日から予約が始まります。"
     },
     {
       "id": "3abad3bcef48b8f33247",
@@ -4403,114 +4508,9 @@
       ],
       "titleJa": "Meta、Mac向けリアルタイム音声文字起こしモデルを発表",
       "summaryJa": "Metaは、リアルタイムでの音声認識や話者識別などを可能にする新しい音声認識モデル「Muse Voice Transcribe」を発表しました。このモデルはすでにMeta AI for Macなどのシステム全体の音声入力機能に組み込まれており、長時間の音声や複数の言語、コードスイッチングを正確に処理することができます。適応型遅延技術を採用することで、スピードと精度のバランスを取りながらスムーズな文字起こしを実現しています。"
-    },
-    {
-      "id": "c1a6f731b538e8f2c84e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's M4 iPad Air Gets Best Discounts Since Summer Price Hikes",
-      "url": "https://www.macrumors.com/2026/09/01/m4-ipad-air-best-discounts/",
-      "publishedAt": "2026-09-01T16:44:59.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2020/03/m4-ipad-air-blue-2.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "M4搭載iPad Airが夏の値上げ以降で最大の割引セールに",
-      "summaryJa": "AmazonやBest Buyなどの米小売り大手において、M4チップを搭載したiPad Airの各モデルが大幅な割引価格で販売されています。夏の価格改定以降では最大規模の値引きとなっており、11インチおよび13インチのWi-Fiモデルが対象です。M4チップのほかC1XモデムやWi-Fi 7などを備えた最新モデルをお得に入手できる機会となっています。"
-    },
-    {
-      "id": "b96e46c12460484a1e20",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Sonos unveils ‘Sonos 27’ software with four new features",
-      "url": "https://9to5mac.com/2026/09/01/sonos-unveils-sonos-27-software-with-four-new-features/",
-      "publishedAt": "2026-09-01T16:12:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sonos-white-product-speaker.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Sonos、ソフトウェアプラットフォームを「Sonos 27」に刷新",
-      "summaryJa": "Sonosはソフトウェアプラットフォームの名称を「Sonos 27」に改め、今秋に向けて4つの新機能を導入すると発表しました。ポータブルスピーカーをワイヤレスリアサラウンドとして活用できる機能や、ヘッドホンとSonosスピーカー間でシームレスに音声を切り替える機能などが含まれます。また、自然な対話形式で音楽をリクエストできる新しい音声操作機能も順次提供される予定です。"
-    },
-    {
-      "id": "71b7a532c25ad651b5b0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's New CEO John Ternus is Now on X",
-      "url": "https://www.macrumors.com/2026/09/01/apples-new-ceo-john-ternus-is-now-on-x/",
-      "publishedAt": "2026-09-01T16:01:03.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/John-Ternus-CEO-16x9-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleの新しいCEOに就任したジョン・ターナス氏がXアカウントを開設",
-      "summaryJa": "Appleの新CEOであるジョン・ターナス氏が公式のXアカウントを開設し、最初の挨拶を投稿しました。これまでターナス氏は個人の公開ソーシャルメディアを持っていませんでした。前CEOのティム・クック氏はエグゼクティブ・チェアマンに就任し、自身のXアカウントのプロフィールもその変更に合わせて更新されています。"
-    },
-    {
-      "id": "cc14ab35895611b3d96a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Sonos launches new ‘Ultra’ headphones and soundbar, plus more",
-      "url": "https://9to5mac.com/2026/09/01/sonos-launches-new-ultra-headphones-and-soundbar-plus-more/",
-      "publishedAt": "2026-09-01T15:57:29.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sonos-ace-ultra-headphones.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Sonos、新ヘッドホンとサウンドバー「Ultra」シリーズを発表",
-      "summaryJa": "Sonosは新しいハードウェア製品として「Sonos Ace Ultra」ヘッドホンと「Sonos Beam Ultra」サウンドバーを発表しました。同時にソフトウェア基盤を「Sonos 27」へとリブランドすることも明らかにしています。新製品はいずれも予約受付が開始されており、9月29日より出荷が開始される予定です。"
-    },
-    {
-      "id": "d01a876dc151bc958d51",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New Apple CEO John Ternus now has his own X account",
-      "url": "https://9to5mac.com/2026/09/01/new-apple-ceo-john-ternus-now-has-his-own-x-account/",
-      "publishedAt": "2026-09-01T15:43:58.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-joins-twitter.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの新CEOジョン・ターナス氏がXのアカウントを開設",
-      "summaryJa": "Appleの新CEOに就任したジョン・ターナス氏が、Xで公式アカウントを開設し最初の投稿を行いました。本日はターナス氏がCEOとしての初日を迎えており、前任のティム・クック氏はエグゼクティブ・チェアマンへと移行しています。今後は新製品の発表や会社の取り組みに関する発信など、前CEOと同様の活用が見込まれています。"
-    },
-    {
-      "id": "7a8e9496da3ec4cd9429",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: iPhone Air up to $359 off, iPhone 17 Pro, M5 MacBook Air $240 off, AirTag 2, more",
-      "url": "https://9to5mac.com/2026/09/01/deals-iphone-air-iphone-17-pro-m5-macbook-air/",
-      "publishedAt": "2026-09-01T15:31:57.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-iPhone-M6-Mac-mini-AirTag-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone AirやM5 MacBook Airがセールで最大359ドル引きに",
-      "summaryJa": "米国の各小売店で労働節に向けた大規模なセールが開催されており、Apple製品の大幅な割引が実施されています。新型のiPhone Airが通常価格から150ドル引きとなっているほか、状態の良いオープンボックス品では最大359ドル引きで販売されています。また、M5を搭載したMacBook AirやAirTag 2なども過去最安値圏の特価で提供されています。"
-    },
-    {
-      "id": "288aa0406c9a9e7d959a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV just added a ton of free classic movies, here’s everything new",
-      "url": "https://9to5mac.com/2026/09/01/apple-tv-just-added-a-ton-of-free-classic-movies-heres-everything-new/",
-      "publishedAt": "2026-09-01T15:25:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/appl-tv-icon-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、サブスク向けに名作映画15本を追加",
-      "summaryJa": "Apple TVのライブラリに、新たに15本のクラシック映画が追加され、加入者向けに無料で配信が開始されました。『ソーシャル・ネットワーク』や『宇宙戦争』、『スクール・オブ・ロック』などの人気タイトルが含まれています。Apple TVではオリジナル作品を中心に展開してきましたが、近年はライセンス作品の追加も行われています。なお、前月に配信されていた作品の多くは終了しており、地域や時期によって視聴できる作品が異なる場合があります。"
     }
   ],
-  "updatedAt": "2026-09-10T06:25:24.826Z",
+  "updatedAt": "2026-09-10T11:45:51.368Z",
   "initialized": true,
   "summaryVersion": 4
 }
