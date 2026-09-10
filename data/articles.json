@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "69ae271973d70c123caf",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 9, 2026 – iPhone 18 Pro and iPhone Duo are here",
+      "url": "https://9to5mac.com/2026/09/09/september-9-2026-iphone-18-pro-and-iphone-duo-are-here/",
+      "publishedAt": "2026-09-10T05:37:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "9to5Mac Daily：iPhone 18 Proや折りたたみモデルが登場",
+      "summaryJa": "9to5Macのポッドキャスト番組が、9月の新製品イベントで発表されたiPhone 18 Proや折りたたみ式の新型モデルなどの主要な話題を振り返っています。番組内では、HomePodの新機能やAppleの最新買収案件、さらに折りたたみ端末に関する話題などが取り上げられています。"
+    },
+    {
+      "id": "5d8358b4c05faf1477bd",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Hands-On With the iPhone Duo: The Crease is Still There, But Barely",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-hands-on/",
+      "publishedAt": "2026-09-10T01:44:32.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみ端末「iPhone Duo」のディスプレイ実機レビュー",
+      "summaryJa": "Appleの新製品イベントで初披露された折りたたみ式の新型スマートフォン「iPhone Duo」のハンズオンインプレッションが報じられています。1999ドルからの価格設定となる本機は、内側にナノテクスチャーポリマーを採用することで画面中央の折り目を最小限に抑えており、洗練されたハードウェアと最適化されたソフトウェアが特徴となっています。"
+    },
+    {
+      "id": "233cefb915e0bae3d912",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Everything Apple Announced at the September 2026 Event",
+      "url": "https://www.macrumors.com/2026/09/09/apple-september-2026-event-recap/",
+      "publishedAt": "2026-09-10T01:25:29.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleが9月イベントでiPhone 18 Proや折りたたみモデルを発表",
+      "summaryJa": "Appleが開催したスペシャルイベント「Surprise and Shine」にて、iPhone 18 ProおよびPro Max、初の折りたたみ式iPhoneとなるiPhone Duo、新型Apple Watch、AirPods 5が正式発表されました。A20 Proチップや可変絞りカメラの搭載など、多岐にわたる新製品やその詳細なスペックが明らかにされています。"
+    },
+    {
       "id": "812809e9a3a854409190",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -545,6 +590,51 @@
       "summaryJa": "Appleは、同社初となる折りたたみ式iPhone「iPhone Duo」を発表しました。7.6インチのインナーディスプレイと5.4インチのアウターディスプレイを搭載し、開いた状態では史上最薄のデザインを実現しています。A20 Proチップや高度な熱管理システムを備え、新しいiOSやApple Intelligenceによる優れたパフォーマンスを提供します。"
     },
     {
+      "id": "5ba93caf529c61768338",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple updates trade-in values following ‘Surprise and Shine’ event, lowers iPhone payouts",
+      "url": "https://9to5mac.com/2026/09/09/apple-updates-trade-in-values-following-surprise-and-shine-event-lowers-iphone-payouts/",
+      "publishedAt": "2026-09-09T19:26:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/1-iphone-Air-USB-C-3-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleが下取り価格を改定、iPhoneの一部査定額を引き下げ",
+      "summaryJa": "Appleは「Surprise and Shine」イベントの開催に伴い、製品の下取りプログラムの査定額を再び改定しました。iPadや多くのMacの下取り額が引き上げられた一方で、iPhone各モデルの最大査定額は引き下げられており、新たにiPhone 17シリーズやiPhone Airの受付も開始されています。"
+    },
+    {
+      "id": "da23ba713566e9cb9c7e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro buyers can get a free trial of Apple One",
+      "url": "https://9to5mac.com/2026/09/09/iphone-18-pro-buyers-can-get-a-free-trial-of-apple-one/",
+      "publishedAt": "2026-09-09T19:26:12.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/11/apple-one-premier.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro購入者向けにApple Oneの無料トライアル提供",
+      "summaryJa": "Appleは、新発表されたiPhone 18 ProやiPhone 18 Pro Maxなどの対象ハードウェアを購入したユーザーを対象に、Apple Oneの3ヶ月間無料トライアルの提供を開始します。対象プランには個人、ファミリー、プレミアが含まれており、ファミリー共有機能を使って家族と共有することも可能です。"
+    },
+    {
+      "id": "4fbe81c97f02527fc88c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27 Golden Gate: Here are Apple’s full release notes",
+      "url": "https://9to5mac.com/2026/09/09/macos-27-golden-gate-here-are-apples-full-release-notes/",
+      "publishedAt": "2026-09-09T19:18:54.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOS 27の正式リリースノートを公開",
+      "summaryJa": "Appleは、9月14日に全ユーザー向けに配信予定のmacOS 27に向けた公式リリースノートを公開しました。新しいSiri AIや画面上の情報を活用するビジュアルインテリジェンス機能、写真編集ツールの強化などが含まれています。"
+    },
+    {
       "id": "b7aec78c07914a38d554",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -724,6 +814,98 @@
       ],
       "titleJa": "Apple、macOS 27 Golden Gateを9月14日にリリースへ",
       "summaryJa": "Appleは、「Surprise and Shine」イベントの終了後、macOS 27 Golden Gateを9月14日に配信することを正式に確認しました。このアップデートでは、刷新されたSiri AIや自然言語プロンプトから作成できるAIショートカット機能などが導入されます。対応機種はAppleシリコン搭載のMacとなり、一部の高度なAI機能はM3以降のチップと一定以上のメモリが必要となります。"
+    },
+    {
+      "id": "551ae4bf658d3ead441c",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "新しいヘルスセンシングシステムを搭載したApple Watch Series 12が登場",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "publishedAt": "2026-09-09T18:30:48.789Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "新しいヘルスセンシングシステム搭載のApple Watch Series 12が登場",
+      "summaryJa": "Appleは、ウェアラブルデバイス史上最高精度の心拍数センサーや新チップ「S11」を搭載したApple Watch Series 12を発表しました。心拍変動の高頻度測定や新しい準備度スコア機能に加え、Siri AIとの連携により、健康管理とフィットネス機能がさらに強化されています。"
+    },
+    {
+      "id": "cfba1df72c5442280b01",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Apple unveils iPhone Duo",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "publishedAt": "2026-09-09T18:15:40.996Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple初の折りたたみ式モデル「iPhone Duo」が登場",
+      "summaryJa": "Appleは、同社初となる折りたたみ式iPhone「iPhone Duo」を発表しました。開くと7.6インチの大型ディスプレイになり、閉じると5.4インチの外側ディスプレイが利用できるほか、A20 ProチップやApple Intelligenceに対応しています。"
+    },
+    {
+      "id": "4ebb3853a8cb5f60d7fe",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Apple advances health and fitness capabilities using Apple Intelligence",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/",
+      "publishedAt": "2026-09-09T17:52:05.481Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple、Apple Intelligenceを活用した新しい健康・フィットネス機能を発表",
+      "summaryJa": "Appleは、Apple WatchとiPhoneを活用した先進的な健康・フィットネス体験を発表しました。新しいヘルスセンシングシステムにより、ウェアラブル機器として最も正確な心拍数測定やレディネススコアの算出が可能になります。また、Apple Intelligenceを統合した新しいヘルスケアアプリを通じて、複雑な生体データを分かりやすい洞察としてユーザーに提供します。"
+    },
+    {
+      "id": "e37d783b4ad486ec3f26",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Apple unveils Apple Watch Ultra 4",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+      "publishedAt": "2026-09-09T17:51:18.631Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple、高度な健康機能とS11チップを搭載したApple Watch Ultra 4を発表",
+      "summaryJa": "Appleは、スポーツとアドベンチャー向けに設計された「Apple Watch Ultra 4」を発表しました。新しいヘルスセンシングシステムやS11チップを搭載し、高精度な心拍測定やレディネススコア、長時間のバッテリー駆動を実現しています。さらに、watchOS 27とApple IntelligenceによるSiriの進化やオーディオインテリジェンス機能も備えています。"
+    },
+    {
+      "id": "c2f0b13ce27b852bc07b",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
+      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "publishedAt": "2026-09-09T17:50:47.609Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple、新ヘルスセンシングシステムを搭載したApple Watch Series 12を発表",
+      "summaryJa": "Appleは、革新的なヘルスセンシングシステムと新しいAppleシリコンを搭載した「Apple Watch Series 12」を発表しました。高精度な心拍数および心拍変動の測定に加え、新たにレディネススコア機能が追加されています。また、S11チップによるオーディオインテリジェンス機能やApple Intelligenceに対応し、ユーザーの健康管理を強力にサポートします。"
+    },
+    {
+      "id": "7b15ab5eafab77a2fe63",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、クラス最高のオープンイヤー型アクティブノイズキャンセリングを搭載したAirPods 5を発表",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "publishedAt": "2026-09-09T17:40:14.008Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、オープンイヤー型ANCを搭載した「AirPods 5」を発表",
+      "summaryJa": "Appleは、オープンイヤーデザインを採用しながらクラス最高のアクティブノイズキャンセリング（ANC）を搭載した「AirPods 5」を発表しました。音質や外部音取り込みモードが向上したほか、Siri AIとの連携やライブ翻訳機能にも対応しています。本日より予約注文が開始され、9月18日に発売される予定です。"
     },
     {
       "id": "3abad3bcef48b8f33247",
@@ -4326,191 +4508,9 @@
       ],
       "titleJa": "Apple TV、サブスク向けに名作映画15本を追加",
       "summaryJa": "Apple TVのライブラリに、新たに15本のクラシック映画が追加され、加入者向けに無料で配信が開始されました。『ソーシャル・ネットワーク』や『宇宙戦争』、『スクール・オブ・ロック』などの人気タイトルが含まれています。Apple TVではオリジナル作品を中心に展開してきましたが、近年はライセンス作品の追加も行われています。なお、前月に配信されていた作品の多くは終了しており、地域や時期によって視聴できる作品が異なる場合があります。"
-    },
-    {
-      "id": "9044a35bb2447b2696f0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Colors Apparently Include Black, But Skip Silver",
-      "url": "https://www.macrumors.com/2026/09/01/iphone-18-pro-colors-include-black-but-skip-silver/",
-      "publishedAt": "2026-09-01T15:22:57.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/iphone-17-pro-black-feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proのカラーはブラック追加か、シルバーは除外の噂",
-      "summaryJa": "次期モデルとなるiPhone 18 Proのカラーバリエーションについて、ダークチェリー、スカイブルー、ブラックが採用され、シルバーは除外される可能性が高いと報じられています。リーク情報によると、すでに量産体制に入っており、これまでのProモデルとは異なる独自の配色ラインナップになる見通しです。正式な発表は9月に予定されているAppleのイベントで行われると期待されています。"
-    },
-    {
-      "id": "f3aa53799ffcb0837da5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Perplexity launches privacy-minded ‘hybrid compute’ AI feature for Mac",
-      "url": "https://9to5mac.com/2026/09/01/perplexity-launches-privacy-minded-hybrid-compute-ai-feature-for-mac/",
-      "publishedAt": "2026-09-01T15:20:50.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Perplexity、Mac向けにプライバシー重視のハイブリッドAI機能を公開",
-      "summaryJa": "Perplexityは、クラウドとMac上のローカルモデルで処理を分散させる「ハイブリッドコンピュート」機能をMac向けアプリで提供開始しました。機密データや個人情報を扱う処理をローカルで安全に実行し、プライバシーを保護する仕組みとなっています。利用にはAppleシリコンを搭載したMacと最低24GBのユニファイドメモリが必要となります。"
-    },
-    {
-      "id": "6ded39781d85511f23cb",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Upcoming changes to Rosetta support for Intel-based macOS apps",
-      "url": "https://developer.apple.com/news/?id=w5ngl9k2",
-      "publishedAt": "2026-09-01T15:00:41.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple、Intel版Macアプリ向けのRosettaサポート終了計画を案内",
-      "summaryJa": "Appleは、MacのAppleシリコン移行に伴い提供してきた翻訳レイヤー「Rosetta」のサポート終了に向けた今後の変更点を開発者向けに発表しました。macOS 26.4以降ではRosettaに依存するアプリの起動時に警告が表示されるようになり、macOS 27がIntel専用アプリをサポートする最後のバージョンとなります。開発者に対しては、ユニバーサルバイナリとしてのビルドやAppleシリコンへのネイティブ対応を急ぐよう呼びかけています。"
-    },
-    {
-      "id": "a8e795b965038e751ff0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Cibby is a beautifully designed iOS app for physical video game collectors",
-      "url": "https://9to5mac.com/2026/09/01/cibby-is-a-beautifully-designed-ios-app-for-physical-video-game-collectors/",
-      "publishedAt": "2026-09-01T15:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/cibby.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "物理ゲームコレクター向けのデザイン性に優れたiOSアプリ「Cibby」が登場",
-      "summaryJa": "パッケージ版のビデオゲームコレクター向けに開発された新しいiOSアプリ「Cibby」がリリースされました。著名なデザイナーであるマイケル・フララップ氏が手がけたもので、ユーザーは自分のコレクションを美しいインタラクティブな3D表示で探索して楽しむことができます。"
-    },
-    {
-      "id": "d5f46f22d63715734615",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s everything new Apple TV has coming in September",
-      "url": "https://9to5mac.com/2026/09/01/heres-everything-new-apple-tv-has-coming-in-september-2026/",
-      "publishedAt": "2026-09-01T14:48:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-tv-fall-mountains.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、9月に配信予定の注目映画やドラマのラインナップを公開",
-      "summaryJa": "Apple TVで9月に配信される注目の新作映画やテレビ番組のラインナップが発表されました。ライアン・レイノルズ主演のアクションコメディ映画『Mayday』や、人気スパイ・スリラー『窓際のスパイ』シーズン6などが秋のシーズンを彩ります。話題作の続編や新規タイトルの配信が順次スタートする予定です。"
-    },
-    {
-      "id": "be9ef06e8dc5d8626a83",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "John Ternus just revealed his priorities in first introduction as Apple CEO",
-      "url": "https://9to5mac.com/2026/09/01/john-ternus-just-revealed-his-priorities-in-first-introduction-as-apple-ceo/",
-      "publishedAt": "2026-09-01T14:36:50.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/john-ternus-apple-park.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新CEO就任のジョン・ターナス氏が掲げる製品戦略とは",
-      "summaryJa": "新たにAppleのCEOに就任したジョン・ターナス氏の公式プロフィールが更新され、同氏の重要な優先事項が明らかになりました。耐久性や信頼性の向上に加え、リサイクル素材の活用や3Dプリント製チタンの導入など、環境負荷低減とハードウェア設計における革新に深く注力していることが示されています。"
-    },
-    {
-      "id": "cf988e6b8b19f5bac2fc",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "John Ternus is Now Apple's CEO",
-      "url": "https://www.macrumors.com/2026/09/01/john-ternus-is-now-apple-ceo/",
-      "publishedAt": "2026-09-01T14:23:23.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/John-Ternus-CEO-16x9-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleの新CEOにジョン・ターナス氏が正式就任",
-      "summaryJa": "Appleのハードウェアエンジニアリング部門を率いてきたジョン・ターナス氏が、同社の新しいCEOに正式に就任しました。15年間CEOを務めたティム・クック氏は、今後は取締役会のエグゼクティブ・チェアマンに移行し、世界中の政策立案者との関わりなどをサポートしていく予定です。"
-    },
-    {
-      "id": "806cb95e3a2fe24bc8dd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: September 1, 2026 – Tim Cook steps down, Ternus takes over",
-      "url": "https://9to5mac.com/2026/09/01/daily-september-1-2026/",
-      "publishedAt": "2026-09-01T13:46:52.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ティム・クック氏がCEO退任、ターナス氏への移行を詳報",
-      "summaryJa": "Appleの長年のCEOであったティム・クック氏が退任し、ジョン・ターナス氏が新たにCEOに就任した日の動向が伝えられています。App StoreやAppleイベントを担当してきたフィル・シラー氏の退任なども含め、同社の大きな経営陣の移行期間における主要なニュースが振り返られています。"
-    },
-    {
-      "id": "b11759c34cea7028877a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here are iPhone 18 Pro’s new colors, says leaker",
-      "url": "https://9to5mac.com/2026/09/01/here-are-iphone-18-pros-new-colors-says-leaker/",
-      "publishedAt": "2026-09-01T13:45:18.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの新しいカラーラインナップか",
-      "summaryJa": "次期iPhone 18 Proに関する新たなリーク情報が報じられ、ダークチェリーやバーガンディ、スカイブルー、ブラックといった新しいカラーオプションが導入される可能性があると伝えられています。昨年見送られたブラックが復活する一方、シルバーは提供されないとの予想も示されており、今後の正式発表に注目が集まっています。"
-    },
-    {
-      "id": "6f28fa970ac5ac8ad541",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Firefox for iOS Gets Built-In Ad Blocker",
-      "url": "https://www.macrumors.com/2026/09/01/firefox-ios-ad-blocker/",
-      "publishedAt": "2026-09-01T13:00:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/08/mozilla-firefox-banner-fixed.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "FirefoxのiOS版に組み込み型広告ブロック機能が登場",
-      "summaryJa": "Mozillaは、iOS版Firefoxにサードパーティ製の広告やトラッカーをブロックする機能を新たに追加しました。Safari用のコンテンツブロック技術であるWebKitを活用し、アプリ内に直接組み込むことで機能を実現しています。初期設定ではオフになっており、設定メニューから手動で有効化することが可能です。"
-    },
-    {
-      "id": "0fcf19fa8db0eafa8e19",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "“The impact was the biggest surprise“: Swiggy’s transition to native pays off",
-      "url": "https://developer.apple.com/news/?id=o5spbekm",
-      "publishedAt": "2026-09-01T13:00:01.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/7A572641-A4F5-4C16-848E-0BFC18A5853F/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "スウィギーがネイティブ移行で成果を報告",
-      "summaryJa": "インドのオンデマンドサービスを展開するスウィギーが、SwiftとSwiftUIを活用したネイティブアプリへの移行によるパフォーマンス改善や設計への影響について語っています。ハイブリッド構成の限界を解消するため主要な機能を段階的に刷新し、読み込み速度の向上や安定性の確保を実現したと述べています。"
-    },
-    {
-      "id": "7b633b6c6c3df97e42fc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Dropbox breach seemingly caused by egregious authentication failure",
-      "url": "https://9to5mac.com/2026/09/01/dropbox-login-breach-seemingly-caused-by-egregious-authentication-failure/",
-      "publishedAt": "2026-09-01T12:54:49.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Dropbox-breach-seemingly-caused-by-egregious-authentication-failure.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Dropbox、サードパーティ連携の認証不備で不正アクセス被害か",
-      "summaryJa": "クラウドストレージサービスのDropboxで、Lenovo IDを用いたシングルサインオン機能の認証不備に起因する不正アクセスが発生したと報じられています。一部のユーザーに対してアカウントへの不正アクセスがあったことを知らせる通知メールが送られました。Dropbox側はLenovoのメール検証プロセスに問題があったとしていますが、追加の認証を求めていなかった点も指摘されています。"
     }
   ],
-  "updatedAt": "2026-09-10T01:25:31.544Z",
+  "updatedAt": "2026-09-10T06:25:24.826Z",
   "initialized": true,
   "summaryVersion": 4
 }
