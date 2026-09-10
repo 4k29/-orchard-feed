@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "9b51dcbda5532f8c9685",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "T-Mobile to Charge $5 a Month for iOS 27 iPhone Handoff",
+      "url": "https://www.macrumors.com/2026/09/10/ios-27-iphone-handoff-cost/",
+      "publishedAt": "2026-09-10T22:58:32.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-iOS-27-Feature.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "T-Mobile、iOS 27のiPhone Handoff機能に月額5ドルを課金へ",
+      "summaryJa": "T-Mobileは、同じ電話番号を2台のiPhoneで共有できるiOS 27の新機能「iPhone Handoff」の利用に月額5ドルの料金を設定すると明らかにしました。この機能はキャリアのサポートが必要で、発売時には米国のT-MobileとドイツのDeutsche Telekomのユーザーが利用可能になります。ユーザーは対応する2台のiPhoneの間で番号を共有し、通話やデータ通信などの機能を利用できますが、一方のデバイスのみアクティブになる仕組みです。"
+    },
+    {
+      "id": "9936fe3869e002faa6c7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "DOJ wins pause on order requiring documents from 14 agencies in Apple antitrust case",
+      "url": "https://9to5mac.com/2026/09/10/doj-wins-pause-on-order-requiring-documents-from-14-agencies-in-apple-antitrust-case/",
+      "publishedAt": "2026-09-10T22:31:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "米司法省、反トラスト法訴訟での文書提出命令の一時停止を獲得",
+      "summaryJa": "米司法省は、進行中の反トラスト法をめぐるAppleとの訴訟において、14の連邦政府機関からの文書提出を命じた決定に対する一時的な停止を獲得しました。Appleは、政府機関がスマートフォンのポリシー策定時にプライバシーやセキュリティをどのように評価しているかを調べるため、これらの文書を求めています。今回の決定により、政府が控訴している間、文書提出の対応義務が一時的に保留されることになりました。"
+    },
+    {
+      "id": "5cb07960dbf9a80d81c5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "You Can't Use Apple Watch's Live Rewind Secretly, Apple Says",
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-live-rewind/",
+      "publishedAt": "2026-09-10T22:12:04.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-ultra-4-live-rewind.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watchの新機能「Live Rewind」は密かな利用が不可能に",
+      "summaryJa": "Apple Watch Series 12やUltra 4で導入される「Live Rewind」は、周囲の音声を過去15秒間さかのぼって文字起こしする機能です。プライバシーへの懸念に対処するため、デジタルクラウンを押して起動する際には、本体から必ず警告音が鳴る仕組みになっています。さらに、画面全体にアニメーションとマイクのインジケーターが表示されるため、周囲の人に無断でこの機能が使われることはありません。"
+    },
+    {
+      "id": "f4ddb1f76372b7886e44",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple now accepting App Store submissions built for iOS 27, macOS 27, more",
+      "url": "https://9to5mac.com/2026/09/10/apple-now-accepting-app-store-submissions-built-for-ios-27-macos-27-more/",
+      "publishedAt": "2026-09-10T21:35:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios27-app-submissions.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iOS 27などに対応したApp Storeアプリの提出を受付開始",
+      "summaryJa": "Appleは、来週月曜日に迫った新OSの正式リリースを前に、iOS 27などの最新SDKで構築されたアプリのApp Storeへの提出受付を開始しました。開発者はXcode 27のリリース候補版を使用してアプリを提出できるようになります。また、macOS 27ではAppleシリコン搭載Macのみがサポート対象となり、Intel Mac向けのサポートが終了することも改めてアナウンスされています。"
+    },
+    {
       "id": "de18ad132c9015fd82c3",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4447,69 +4507,9 @@
       ],
       "titleJa": "iPhone 18 Proに搭載される長年の噂の3つの新機能",
       "summaryJa": "間もなく登場すると噂されるiPhone 18 Proには、長年取り沙汰されてきた3つの主要なアップグレードが搭載される見込みです。メインカメラへの可変絞り機構の採用や、従来より約35%小型化されるダイナミックアイランド、そして自社製の次世代C2モデムへの切り替えが予定されていると報じられています。正式な発表と詳細な機能の全貌は、まもなく開催されるイベントで明らかにされる見通しです。"
-    },
-    {
-      "id": "7f085520424555681302",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
-      "url": "https://9to5mac.com/2026/09/02/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
-      "publishedAt": "2026-09-02T18:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-GymKit-iPhone.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27でiPhoneとAirPodsがジムでのワークアウトに対応",
-      "summaryJa": "AppleはiOS 27において、Apple Watchなしでも対応ジム機器と連携できる「GymKit」の機能をiPhoneとAirPodsに拡張します。対応するトレッドミルなどの機器にiPhoneをタッチしてワークアウトを開始すると、AirPodsが心拍数を測定し、機器から距離や傾斜などのデータをiPhoneのフィットネスアプリに送信します。これにより、時計を着用していなくても正確なワークアウトの追跡が可能になり、ジムでの利便性がさらに向上します。"
-    },
-    {
-      "id": "4309c39bb665f490386e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "'I Wouldn't Be Talking to You': Apple Shares Apple Watch Survival Story",
-      "url": "https://www.macrumors.com/2026/09/02/apple-watch-heart-story/",
-      "publishedAt": "2026-09-02T17:25:29.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、Apple Watchが命を救ったユーザーの体験談を公開",
-      "summaryJa": "Appleは、Apple Watchの通知をきっかけに白血病の早期発見と治療につながったユーザーの体験談を紹介する動画を公開しました。着用者は安静時心拍数などの異常を知らせる通知を受け取って医師を受診し、急性骨髄性白血病と診断されて治療を経て寛解に至りました。日常的な健康モニタリング機能が命を救った実例として注目を集めています。"
-    },
-    {
-      "id": "16cb8448eded111f3430",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s new film from ‘Best Picture’ Oscar winner gets first trailer",
-      "url": "https://9to5mac.com/2026/09/02/apples-new-film-from-best-picture-oscar-winner-gets-first-trailer/",
-      "publishedAt": "2026-09-02T16:41:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/being-heumann-courtroom.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、映画賞受賞監督による新作「Being Heumann」の予告編を公開",
-      "summaryJa": "Appleは、映画「コーダ あいのうた」でアカデミー賞作品賞を受賞したシアン・ヘダー監督による新作映画「Being Heumann」の予告編を公開しました。実話を基にした本作は、1977年に障害を持つ女性と仲間たちが政府ビルの占拠闘争を通じて権利獲得を目指した革命的な物語を描いています。11月13日よりApple TVでの配信が予定されており、新たな受賞候補作として期待されています。"
-    },
-    {
-      "id": "d13f0a157521a3b062b3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Open the Current App's Settings From Control Center",
-      "url": "https://www.macrumors.com/how-to/open-the-current-apps-settings-from-control-center/",
-      "publishedAt": "2026-09-02T15:36:54.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Shortcuts-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "コントロールセンターから現在のアプリ設定を素早く開く小技",
-      "summaryJa": "iPhoneで現在開いているアプリの設定画面へ素早くアクセスできる便利なショートカット活用法が紹介されています。通常は設定アプリの深い階層から探す必要がある各アプリの個別メニューを、ショートカットを作成してコントロールセンターやアクションボタンに割り当てることでワンタップで呼び出せるようになります。日常的な操作の手間を大幅に軽減できる実用的なテクニックです。"
     }
   ],
-  "updatedAt": "2026-09-10T21:09:10.035Z",
+  "updatedAt": "2026-09-10T23:11:36.638Z",
   "initialized": true,
   "summaryVersion": 4
 }
