@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "0dbe8ba14dbfbc03bb57",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV Remote app has hidden features that could be coming to iOS 27",
+      "url": "https://9to5mac.com/2026/09/10/apple-tv-remote-app-has-hidden-features-that-could-be-coming-to-ios-27/",
+      "publishedAt": "2026-09-10T18:13:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/remote.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27のApple TVリモコンアプリに新機能が隠されていることが判明",
+      "summaryJa": "iOS 27のコードから、Apple TVリモコンアプリに将来追加される可能性のある新機能が見つかりました。ホーム画面への配置が可能になるほか、Apple TVのアプリを直接起動できるランチャー機能やトップシェルフコンテンツの表示機能などがコード内の機能フラグから確認されています。これらの動きは、新型Apple TV 4Kや新型Siri Remoteが間もなく登場する兆しではないかと注目されています。"
+    },
+    {
+      "id": "8649c898779b3513d69f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 Received a Price Increase You Might Have Missed",
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-46mm-price-increase/",
+      "publishedAt": "2026-09-10T18:11:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 12の大型モデルで価格が値上げに",
+      "summaryJa": "2018年のApple Watch Series 4以降、米国では429ドルからとなっていた大型サイズのアルミニウム製Apple Watchですが、Apple Watch Series 12では46mmモデルが20ドル値上げされ449ドルからとなりました。42mmモデルの価格は据え置かれているものの、近年のRAMチップ不足などを背景に、AppleはiPhoneやMac、iPadなど各製品で値上げを続けています。"
+    },
+    {
+      "id": "e39f849e1a1e2c1a28a2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Ceramic Apple Watch Series 12 Is Bigger and Heavier Than Other Models",
+      "url": "https://www.macrumors.com/2026/09/10/ceramic-apple-watch-series-12-is-bigger/",
+      "publishedAt": "2026-09-10T17:00:05.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/series-12-ceramic.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "セラミック製Apple Watch Series 12は他の素材より大型で重量も増加",
+      "summaryJa": "6年ぶりの復活となったApple Watch Series 12のセラミックモデルは、アルミニウムやチタニウムモデルに比べてサイズがわずかに大きく、重量も重くなっていることが技術仕様から判明しました。46mmおよび42mmともに高さや厚みが増しており、素材の違いによるデザイン上の妥協とみられています。また重量はアルミニウムモデルより最大で34%重くなっています。"
+    },
+    {
+      "id": "f75bb4a5139d4e4a2445",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Air’s $200 premium disappears when you trade it in",
+      "url": "https://9to5mac.com/2026/09/10/iphone-airs-200-premium-disappears-when-you-trade-it-in/",
+      "publishedAt": "2026-09-10T16:53:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-air-falling.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone Airの下取り価格が話題に、価格差が反映されず",
+      "summaryJa": "Appleが新型iPhoneの発表にあわせてiPhone AirやiPhone 17の下取り受付を開始しましたが、iPhone Airの下取り額がより安価な標準モデルと同等であることが指摘されています。今週の値上げによりiPhone Airは1099ドルからに値上がりしたものの、下取り額はベースモデルと同じ金額に設定されています。需要や部品価値に基づくものとみられますが、購入時の価格差が反映されない結果となっています。"
+    },
+    {
+      "id": "792dc0e8406d9d162c05",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV is about to kick off four weeks straight of big premieres",
+      "url": "https://9to5mac.com/2026/09/10/apple-tv-is-about-to-kick-off-four-weeks-of-big-premieres/",
+      "publishedAt": "2026-09-10T16:53:48.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-tv-logo-lg-stars.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、秋に向けた4週連続の注目ドラマ配信を発表",
+      "summaryJa": "Apple TVは、人気スパイ・スリラー「窓際のスパイ」シーズン6をはじめとする、秋の強力な新作ラインナップを発表しました。来週の配信開始を皮切りに、4週連続で大型プレミア公開が予定されています。マシュー・マコノヒーとウディ・ハレルソンが共演するコメディシリーズ「Brothers」なども控えており、充実したコンテンツが順次配信される予定です。"
+    },
+    {
+      "id": "0a2b940753ab004466eb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Skipping the iPhone 18 Pro? Redesigned 'iPhone 20' is Coming Next Year",
+      "url": "https://www.macrumors.com/2026/09/10/iphone-18-pro-vs-iphone-20/",
+      "publishedAt": "2026-09-10T16:49:32.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-16x9-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "来年登場か、20周年記念の特別デザインiPhoneの噂",
+      "summaryJa": "AppleがiPhone登場20周年を迎える来年、iPhone X以来最大規模のデザイン刷新となる特別モデルを計画していると報じられています。すべての角と縁が湾曲したガラスで覆われ、ベゼルがさらに薄くなった「iPhone 20」とも称されるモデルになると伝えられています。ただし、この野心的なデザインが最終的にどこまで実現されるかについては、今後の動向を見守る必要があります。"
+    },
+    {
+      "id": "f73c08eb653876aabbf9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AirPods 5, Apple Watch Series 12, and Ultra 4 now available on Amazon",
+      "url": "https://9to5mac.com/2026/09/10/airpods-5-apple-watch-series-12-and-ultra-4-now-available-on-amazon/",
+      "publishedAt": "2026-09-10T16:25:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-airpods-5.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新型AirPodsやApple Watch、Amazonで予約受付開始",
+      "summaryJa": "Appleが発表したばかりの「AirPods 5」や「Apple Watch Series 12」、「Apple Watch Ultra 4」などの新製品が、Amazonにて早くも予約受付を開始しました。AirPods 5は全モデルでアクティブノイズキャンセリングに対応するなど機能が強化されています。新しいヘルスセンシングシステムを搭載したApple Watchとともに、9月18日の発売に向けて注目を集めています。"
+    },
+    {
+      "id": "21805a6db93c6305644d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo is no Apple Vision Pro",
+      "url": "https://9to5mac.com/2026/09/10/iphone-duo-is-no-apple-vision-pro/",
+      "publishedAt": "2026-09-10T16:21:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-ios-27-fold.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone DuoはApple Vision Proとは異なる製品か",
+      "summaryJa": "高価格や専用ソフトウェアなどの面で「Apple Vision Proと同じ課題を抱えるのではないか」という懸念の声に対し、両者は全く異なる製品であるという見方が示されています。Vision Proが日常的な主要デバイスの置き換えには至らないのに対し、ポケットに入るiPhone Duoはスマートフォンと小型タブレットの利便性を兼ね備えています。価格面でも、現代生活に欠かせないスマートフォン市場においては受け入れられやすい要素を備えているとされています。"
+    },
+    {
+      "id": "58a2b7a1626242156625",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 Has Smaller Screens and Bigger Cases",
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-has-smaller-screens/",
+      "publishedAt": "2026-09-10T15:52:18.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 12は画面が小型化しケースが大型化か",
+      "summaryJa": "Appleの技術仕様によると、Apple Watch Series 12は解像度を維持したまま、Series 10や11と比較して画面サイズがわずかに縮小し、一方でケース本体は幅が広くなっていることが判明しました。これによりディスプレイの周囲のベゼルがより目立つデザインに変更されており、Series 10で見られた傾向が引き継がれている模様です。"
+    },
+    {
+      "id": "f43fdf5dde736fd17eaf",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "This might be iPhone 18 Pro’s best camera feature for most users",
+      "url": "https://9to5mac.com/2026/09/10/this-might-be-iphone-18-pros-best-camera-feature-for-most-users/",
+      "publishedAt": "2026-09-10T15:40:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-rear-camera.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proのメインカメラに搭載されるf/1.48レンズがもたらす魅力",
+      "summaryJa": "iPhone 18 Proには可変絞りなどの多彩なカメラ機能が搭載される予定ですが、多くの一般ユーザーにとっての最大の魅力は新しく採用されるf/1.48の明るいメインレンズになる可能性があります。前モデルのf/1.7から絞り値が向上したことで、暗所での撮影性能が向上し、より美しい被写界深度とボケ味を手軽に楽しめるようになると期待されています。"
+    },
+    {
+      "id": "fa3e461ca7f0c89d7d04",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Why iPhone Duo's Under-Screen Camera Isn't in the Corner",
+      "url": "https://www.macrumors.com/2026/09/10/iphone-duo-under-screen-camera-location/",
+      "publishedAt": "2026-09-10T15:37:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-under-screen-camera-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone Duoの画面下カメラが隅に配置されなかった理由が浮上",
+      "summaryJa": "中国のリーク情報によると、iPhone Duoの内側ディスプレイにある画面下カメラが右上隅に配置されていないのは、技術的な困難によるものであると伝えられています。次世代モデルでは、外側ディスプレイのカメラ位置に合わせて完璧に整列させ、右上隅へ移動する可能性が高いと報じられています。"
+    },
+    {
+      "id": "36713f937e125b4023a5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: AirPods, Apple Watch Series 12 and Ultra 4 up to $325 off, M5 MacBook Air $200 off, more",
+      "url": "https://9to5mac.com/2026/09/10/deals-airpods-5-apple-watch-series-12-ultra-4/",
+      "publishedAt": "2026-09-10T15:36:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-5-Apple-Watch-Series-12-Ultra-4.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新型Apple WatchやAirPodsが早くも割引価格で登場",
+      "summaryJa": "新発表されたAirPods 5やApple Watch Series 12、Ultra 4などの最新デバイスの予約受付や販売が開始されるとともに、早くも割引価格でお得に入手できるキャンペーンが展開されています。AirPods 5はアクティブノイズキャンセリングを搭載しながら手頃な価格を実現しているほか、上位モデルのAirPods Pro 3もAmazonなどでセール価格となっています。"
+    },
+    {
       "id": "4b98becca536395f778e",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4328,189 +4508,9 @@
       ],
       "titleJa": "AmazonのレイバーデーセールでApple製品が特別価格に",
       "summaryJa": "Amazonが大規模なレイバーデーセールを開催し、多数のApple製品が割引販売されています。AirPods Pro 3が50ドル引きの199ドルで販売されているほか、AirTag 2やiPhone 17 Pro、Apple Watch SE 3などが特別価格となっています。さらに、新発売のM6 Mac miniなどの製品も割引の対象となっており、幅広いカテゴリーでお得な価格が提供されています。"
-    },
-    {
-      "id": "fe2ab295e43b04f10771",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Mac Studio Buyer's Guide: M5 Max vs. M5 Ultra",
-      "url": "https://www.macrumors.com/guide/m5-max-vs-m5-ultra/",
-      "publishedAt": "2026-09-02T12:07:59.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/m5-max-vs-m5-ultra-mac-studio.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "M5 MaxとM5 Ultraを搭載した新しいMac Studioが登場",
-      "summaryJa": "AppleはM5 Maxおよび新開発のM5 Ultraチップを搭載した2つの新しいMac Studioを発表しました。M5 Maxモデルは2,499ドルから、M5 Ultraモデルは5,499ドルからの価格設定となっています。両モデルはThunderbolt 5やWi-Fi 7などの最新規格を共通して備える一方で、価格差は3,000ドルに達しており、用途に応じた選択ガイドが注目されています。"
-    },
-    {
-      "id": "75b5721f8658db44bf48",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's iPhone Ultra Crease Fix Set for Android Foldables Next Year",
-      "url": "https://www.macrumors.com/2026/09/02/iphone-ultra-crease-coming-to-android-foldables/",
-      "publishedAt": "2026-09-02T11:57:16.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleの折りたたみiPhone採用技術、Android陣営も導入か",
-      "summaryJa": "韓国メディアThe Elecの報道によると、GoogleやOppo、VivoなどのAndroidメーカーが、来年発売の折りたたみスマートフォンに超薄型ガラス（UTG）を採用する計画であると伝えられています。Appleが近日発表すると予想される折りたたみ式のiPhone Ultraでは、ディスプレイを2層のUTGで挟み込むことで折り目の軽減と耐久性の向上を図る独自の構造が採用される見込みです。この方式はサムスンによって量産され、2027年にはAndroidの折りたたみ端末にも広く採用されると報じられています。"
-    },
-    {
-      "id": "7b633b6c6c3df97e42fc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Dropbox breach seemingly caused by egregious authentication failure [U]",
-      "url": "https://9to5mac.com/2026/09/02/dropbox-login-breach-seemingly-caused-by-egregious-authentication-failure/",
-      "publishedAt": "2026-09-02T11:43:21.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Dropbox-breach-seemingly-caused-by-egregious-authentication-failure.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Dropboxでアカウント不正アクセス発生、認証の不備が原因か",
-      "summaryJa": "Dropboxは、サードパーティのシングルサインオン（SSO）機能に関連する認証の不備により、約5,000のアカウントが不正アクセスを受けたとユーザーに通知しました。Lenovo IDのメール認証プロセスを悪用されたことが原因とされていますが、Dropbox側が新しいSSO設定時に既存のログイン確認を求めていなかった点も問題視されています。この問題により、約1,500のアカウントでファイルがダウンロードされた形跡が確認されています。"
-    },
-    {
-      "id": "e0abfd4ccd47ab690eb9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "FBI investigates as hackers sell digital scans of 153M drivers licenses",
-      "url": "https://9to5mac.com/2026/09/02/fbi-investigates-as-hackers-sell-digital-scans-of-153m-drivers-licenses/",
-      "publishedAt": "2026-09-02T11:28:58.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/FBI-says-cyber-fraud-cost-Americans-21B-last-year-–-heres-what-you-need-to-know.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "1.5億件超の免許証画像がダークウェブで販売、FBIが捜査か",
-      "summaryJa": "アメリカやカナダの住民を対象とした1億5300万件以上の運転免許証のデジタルスキャン画像がダークウェブ上で販売されていることが分かり、FBIが公式な調査を開始したと報じられています。医療カードなども含まれるこの大規模なデータ流出は、身元確認サービスを手掛ける企業のハッキングが原因とみられています。サイバー犯罪者らは現在も情報の取得元にアクセスし続けていると主張しており、さらなる被害の拡大が懸念されています。"
-    },
-    {
-      "id": "db733b57e6fec9c541a8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Leakers battle over whether third iPhone 18 Pro color will be silver or black",
-      "url": "https://9to5mac.com/2026/09/02/leakers-battle-over-whether-third-iphone-18-pro-color-will-be-silver-or-black/",
-      "publishedAt": "2026-09-02T10:53:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-18-pro-colors-02.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの3色目を巡り、著名リーカーの間で情報が交錯",
-      "summaryJa": "来週の発表が控えるとされるiPhone 18 Proの本体カラーについて、3色目の選択肢がシルバーになるかブラックになるかで、著名リーカーの間で意見が分かれています。これまでのリークではダークチェリーやスカイブルーの採用が有力視されていますが、ブラックの有無については異なる予測が出されています。実物のSIMトレイの写真やこれまでのダミーモデルを巡り、議論が続いています。"
-    },
-    {
-      "id": "f1d339a65bf84104ab66",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Leaked iPhone 18 Pro Parts Point to Three Color Options Excluding Black",
-      "url": "https://www.macrumors.com/2026/09/02/leaked-iphone-18-pro-parts-point-to-three-colors/",
-      "publishedAt": "2026-09-02T10:17:17.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/sim-trays-iphone-18-pro-sonny-dickson@2x-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの新色を巡り、黒の採用否定するリーク画像",
-      "summaryJa": "著名リーカーのソニー・ディクソン氏が公開したSIMカードトレイの画像から、次期iPhone 18 Proのカラーバリエーションはシルバー、ダークチェリー、スカイブルーの3色になると報じられています。中国のリーカーからも黒は採用されないとの情報が出ており、昨年に続いてハイエンドモデルからブラック系が除外される可能性があります。欧州や中国などで販売されるモデルのトレイを元にした情報ですが、正式発表への関心が高まっています。"
-    },
-    {
-      "id": "292b163d6203cc9b165b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Launching Eight New Products This Month",
-      "url": "https://www.macrumors.com/2026/09/02/apple-launching-eight-new-products-next-month/",
-      "publishedAt": "2026-09-02T08:15:35.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/11/Apple-Store-Logo-Livat-Beijing.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "今月中に8つの新製品が投入される可能性",
-      "summaryJa": "Appleは今月、新型のMac miniやMac Studioに加え、iPhone 18 Proシリーズや折りたたみiPhone、Apple Watch、AirPodsなど多数の新製品を投入すると報じられています。すでに発表された製品の出荷開始に加え、秋のイベントでの新製品発表も控えており、非常に慌ただしい月になりそうです。"
-    },
-    {
-      "id": "f185ffe24257376fc055",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple tells Mac App Store developers they can now drop Intel support",
-      "url": "https://9to5mac.com/2026/09/01/apple-tells-mac-app-store-developers-they-can-now-drop-intel-support/",
-      "publishedAt": "2026-09-02T00:50:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/Sequoia-intel.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Mac App Storeの開発者、Intelサポートの終了が可能に",
-      "summaryJa": "Appleは、macOS 13以降を必要とするMac App Storeのユニバーサルアプリにおいて、IntelベースMacのサポートを終了できるようになったと開発者に通知しました。これにより開発者は開発作業を簡素化し、ダウンロードサイズを最適化できるようになります。Intelユーザーは引き続き互換性のある最後のバージョンを利用可能です。"
-    },
-    {
-      "id": "35e6cbfe6b6b94f82bbc",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Mac App Store Apps Can Now Drop Support for Intel Macs",
-      "url": "https://www.macrumors.com/2026/09/01/mac-app-store-intel-mac-support/",
-      "publishedAt": "2026-09-01T23:50:09.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/06/intel-macs-no-more-updates.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Mac App Storeアプリ、Intel Macのサポート終了が可能に",
-      "summaryJa": "Appleは開発者に対し、macOS 13以降を必須とするユニバーサルMac App Storeアプリにおいて、Intelプロセッサ搭載Macのサポートを終了できるようになったと通知しました。これにより開発の簡素化やアプリサイズの最適化を図ることができますが、Intel Macユーザーは最後に互換性のあったバージョンを引き続き使用可能です。"
-    },
-    {
-      "id": "516f9a37a075d3d35108",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Air Review: One Year With Apple's Super Thin $999 iPhone",
-      "url": "https://www.macrumors.com/2026/09/01/iphone-air-one-year-review/",
-      "publishedAt": "2026-09-01T23:35:51.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone Airの1年使用レビュー：超薄型モデルの長所と課題",
-      "summaryJa": "Appleの超薄型スマートフォンとして登場したiPhone Airを約1年間使用した長期レビューが公開されました。持ちやすさや軽さ、6.5インチのOLEDディスプレイが魅力である一方、バッテリー持ちの限界やシングルカメラの仕様、そして999ドルという価格設定がネックとなり、販売面では苦戦したと伝えられています。"
-    },
-    {
-      "id": "7d131025bf0990221aa8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Ford explains why it chose Apple Maps over Google for its new EVs",
-      "url": "https://9to5mac.com/2026/09/01/ford-explains-why-it-chose-apple-maps-over-google-for-its-new-evs/",
-      "publishedAt": "2026-09-01T23:33:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-maps-generic-3d.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "フォードが新型EVにGoogleではなくApple Mapsを選んだ理由",
-      "summaryJa": "フォードの幹部がインタビューに応じ、次世代EVプラットフォームでGoogleマップではなくApple Mapsを採用した理由を明かしました。近年大幅に向上したマップの品質に加え、航続距離の予測や充電器の空き状況、天候データなどを正確に統合するため、Appleの柔軟なチーム体制と優れたソリューションが最適であると判断したとしています。"
-    },
-    {
-      "id": "0ecdf063997b548648be",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s how much Apple is paying John Ternus as CEO, Tim Cook as executive chairman",
-      "url": "https://9to5mac.com/2026/09/01/john-ternus-gets-58m-pay-package-as-ceo-tim-cook-47m-as-chairman/",
-      "publishedAt": "2026-09-01T22:10:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/cook-ternus-pokemon.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新CEOジョン・ターナス氏とクック会長の報酬パッケージが明らかに",
-      "summaryJa": "米証券取引委員会への提出書類から、新たな最高経営責任者に就任したジョン・ターナス氏の総報酬額が明らかになりました。基本給に加えて多額の株式報酬が含まれており、取締役会長に就任するティム・クック氏の新たな報酬詳細も併せて公開されています。クック氏の報酬は以前より減額されたものの、会長職としては異例の大型パッケージとなっています。"
     }
   ],
-  "updatedAt": "2026-09-10T15:13:58.334Z",
+  "updatedAt": "2026-09-10T18:31:29.103Z",
   "initialized": true,
   "summaryVersion": 4
 }
