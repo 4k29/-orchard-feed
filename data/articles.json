@@ -1,6 +1,126 @@
 {
   "articles": [
     {
+      "id": "4b98becca536395f778e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "The race to build great iPhone Duo apps is about to begin",
+      "url": "https://9to5mac.com/2026/09/10/the-race-to-build-great-iphone-duo-apps-is-about-to-begin/",
+      "publishedAt": "2026-09-10T15:11:59.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-Duo-apps.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone Duo向けアプリ対応を巡る課題と開発競争",
+      "summaryJa": "来月に発売されるiPhone Duoでは、初期段階で多くのサードパーティ製アプリがApple製の内蔵アプリほど最適に動作しない可能性があります。OSやレイアウトの仕様によって3段階の互換性レベルが存在し、標準システムコントロールを使用しているアプリは比較的早く対応できる一方、独自のカスタムUIを採用しているアプリにはさらなる開発作業が必要になると報じられています。"
+    },
+    {
+      "id": "312dc67338bca298c43d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Shop the Best Cases for Your New iPhone 18 Pro or iPhone Duo",
+      "url": "https://www.macrumors.com/2026/09/10/best-cases-iphone-18-pro-iphone-duo/",
+      "publishedAt": "2026-09-10T15:11:58.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-duo-cases-new-blue.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新しいiPhone 18 ProやiPhone Duo向けケースが登場",
+      "summaryJa": "新型iPhoneの予約受付が始まり、ZAGGやNomad、Belkinといった人気アクセサリーブランドからiPhone 18 ProおよびiPhone Duo向けの保護ケースや画面保護フィルムが出揃っています。多くの小売店では定価での販売が中心ですが、ZAGGのように複数商品の同時購入で割引を受けられるお得なキャンペーンも用意されています。"
+    },
+    {
+      "id": "92aad6bc6e14716d2093",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Isn't Revealing the iPhone Duo's Under-Screen Camera Resolution",
+      "url": "https://www.macrumors.com/2026/09/10/iphone-duo-apple-under-display-camera-mystery/",
+      "publishedAt": "2026-09-10T15:06:02.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-under-screen-camera-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone Duoの画面内蔵カメラの画素数が非公開に",
+      "summaryJa": "折りたたみ式デバイスであるiPhone Duoの内側ディスプレイ下にはFaceTimeカメラが搭載されていますが、Appleはこの画面内蔵カメラの正確な画素数を公表していません。仕様ページでは1080pでのビデオ撮影やf/1.8の明るいレンズなどが案内されているものの、4K非対応である点から数百万画素程度である可能性が指摘されています。"
+    },
+    {
+      "id": "97957306163b8fc43ee3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirPods 5 and Apple Watch Series 12 Pre-Orders Open on Amazon, With Early Discount",
+      "url": "https://www.macrumors.com/2026/09/10/amazon-pre-order-airpods-watch/",
+      "publishedAt": "2026-09-10T14:08:39.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/airpods-apple-watch-pre-order.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirPods 5とApple Watch Series 12の予約がAmazonで開始",
+      "summaryJa": "先日のイベントで発表されたApple Watch Series 12やAirPods 5などの新製品がAmazonで予約受付を開始し、一部のモデルでは早くも割引価格が適用されています。Apple Watch Series 12のセルラーモデルなどでわずかながら早割が実施されているほか、旧モデルのセールも同時に展開されています。"
+    },
+    {
+      "id": "1483ee62dee365d432ea",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Microsoft invented the iPhone Duo back in 2009 [Video]",
+      "url": "https://9to5mac.com/2026/09/10/microsoft-invented-the-iphone-duo-back-in-2009-video/",
+      "publishedAt": "2026-09-10T14:02:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Microsoft-Courier.jpg?quality=82&#038;strip=all&#038;w=1104",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "マイクロソフトが2009年に開発した類似端末",
+      "summaryJa": "マイクロソフトが2009年に試作した端末「Courier」と、近年の折りたたみ式端末の間にある興味深い共通点が話題になっています。ハードウェアとソフトウェアの優れた統合という点で、当時のコンセプトビデオに現在の製品に通じるアイデアが見て取れます。"
+    },
+    {
+      "id": "002d792dd938c51ea856",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo Has Similar Main Camera to iPhone 17e",
+      "url": "https://www.macrumors.com/2026/09/10/iphone-duo-has-similar-main-camera-to-iphone-17e/",
+      "publishedAt": "2026-09-10T13:59:14.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-selfie.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone Duoのメインカメラ仕様を分析",
+      "summaryJa": "新登場したiPhone Duoのメインカメラ仕様は、iPhone 17eや標準モデルのiPhone 17の特徴を部分的に受け継いでいると報じられています。センサーなどの仕様から、両機種の間口に位置するカメラ性能を備えている可能性が指摘されています。"
+    },
+    {
+      "id": "6ca91af0a8d6dcab29b1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Ultra 4 and Series 12 have surprise upgrade that wasn’t announced",
+      "url": "https://9to5mac.com/2026/09/10/apple-watch-ultra-4-and-series-12-have-surprise-upgrade-that-wasnt-announced/",
+      "publishedAt": "2026-09-10T13:54:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-ultra-4-brown.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watchの新型に隠されたRAM倍増の秘密",
+      "summaryJa": "新たに発表されたApple Watch Series 12とApple Watch Ultra 4には、Appleが公表していなかった驚きのアップグレードが含まれていることが判明しました。開発者向けツールから、前モデルの2倍となる4GBのRAMを搭載していることが確認されています。"
+    },
+    {
+      "id": "6aa24b8b42c25e905d4e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Snap adds social event planning feature with Snapchat Plans",
+      "url": "https://9to5mac.com/2026/09/10/snap-adds-social-event-planning-feature-with-snapchat-plans/",
+      "publishedAt": "2026-09-10T13:52:59.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/snapchat-plans.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "スナップチャットがリアルでのイベント計画機能を追加",
+      "summaryJa": "Snapは、対面での集まりを促進する新しいモバイルアプリ機能「Snapchat Plans」の提供を開始しました。友達同士で招待の送受信や日時の管理をアプリ内で簡単に行えるようになり、プライベートなイベント作成が可能になります。"
+    },
+    {
       "id": "8ed814c80f3e97611101",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4388,129 +4508,9 @@
       ],
       "titleJa": "新CEOジョン・ターナス氏とクック会長の報酬パッケージが明らかに",
       "summaryJa": "米証券取引委員会への提出書類から、新たな最高経営責任者に就任したジョン・ターナス氏の総報酬額が明らかになりました。基本給に加えて多額の株式報酬が含まれており、取締役会長に就任するティム・クック氏の新たな報酬詳細も併せて公開されています。クック氏の報酬は以前より減額されたものの、会長職としては異例の大型パッケージとなっています。"
-    },
-    {
-      "id": "277f300d4cf2a848f188",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Here's What Apple is Paying John Ternus to Run the Company",
-      "url": "https://www.macrumors.com/2026/09/01/apple-ceo-john-ternus-compensation/",
-      "publishedAt": "2026-09-01T21:50:43.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2022/01/Apple-Logo-Cash-Feature-Mint.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、新CEOジョン・ターナス氏の巨額な報酬プランを公開",
-      "summaryJa": "Appleは、新CEOに就任したジョン・ターナス氏の目標報酬を5800万ドルに設定したことをSECへの提出書類で明らかにしました。これには3百万ドルの基本給と、業績や株価連動型の株式報酬が含まれています。一方、エグゼクティブ・チェアマンへ移行するティム・クック氏の報酬は4700万ドルとなり、前年から減額されることになります。"
-    },
-    {
-      "id": "1fe3e861e80d32d72288",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Maps Renames Lake Ontario 'Lake America'",
-      "url": "https://www.macrumors.com/2026/09/01/apple-maps-lake-america/",
-      "publishedAt": "2026-09-01T20:58:35.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/trump-lake-america.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleマップ、米国内でオンタリオ湖を「レイク・アメリカ」に変更",
-      "summaryJa": "Appleはマップアプリにおいて、米国内のユーザーを対象にオンタリオ湖の表記を「レイク・アメリカ」に変更し始めました。これはトランプ米大統領による大統領令やカナダとの貿易摩擦を受けた措置で、国内ユーザー向けに順次適用されています。カナダでは従来の名称が維持され、その他の地域では両方の名称が表示される仕組みとなっています。"
-    },
-    {
-      "id": "d0525dab73e2858bfbb7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Maps now uses ‘Lake America’ instead of ‘Lake Ontario’ after Trump order",
-      "url": "https://9to5mac.com/2026/09/01/apple-maps-renaming-lake-ontario-to-lake-america-following-trump-order/",
-      "publishedAt": "2026-09-01T20:49:50.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-maps-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleマップがオンタリオ湖の名称を米国内で「レイク・アメリカ」に変更",
-      "summaryJa": "Appleはマップアプリで、オンタリオ湖の表記を米国内のユーザー向けに「レイク・アメリカ」へと変更し始めました。これは先週のトランプ大統領による名称変更の指示を受けたもので、米政府機関のデータベース更新に追随した形となります。カナダ国内のユーザーには従来の名称が表示され、世界中のその他の地域では両方の名称が併記されます。"
-    },
-    {
-      "id": "0e0da9f431de570d40aa",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New iPhone Ultra details arrive for specs, multitasking, launch timing, more",
-      "url": "https://9to5mac.com/2026/09/01/new-iphone-ultra-details-arrive-for-specs-multitasking-launch-timing-more/",
-      "publishedAt": "2026-09-01T20:25:36.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone Ultraの仕様やマルチタスク機能の最新情報か",
-      "summaryJa": "著名記者のマーク・ガーマン氏が、来週発表されると噂の折りたたみ式iPhoneに関する新たな詳細を明かしました。5.5インチの外側ディスプレイや7.8インチの内側ディスプレイを搭載し、MagSafeにも対応すると報じられています。また、耐久性のあるヒンジ構造や、iPadのようなマルチタスク機能がサポートされる見込みです。"
-    },
-    {
-      "id": "4f9786ad5dd1dc5bbf58",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "macOS Golden Gate Seems to Hint at MacBook Pro With OLED Display",
-      "url": "https://www.macrumors.com/2026/09/01/macos-golden-gate-hdr-liquid-glass/",
-      "publishedAt": "2026-09-01T19:34:56.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/macOS-Golden-Gate-Liquid-Glass-UI-HDR.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "macOSベータ版からOLED搭載MacBook Proの存在が浮上か",
-      "summaryJa": "macOS Golden Gateのベータ版に含まれるインターフェース要素から、OLEDディスプレイ向けとみられる描画の最適化が見つかりました。Appleは2027年初頭までにOLEDを搭載した新型MacBook Proや「MacBook Ultra」の投入を計画していると噂されており、今回の発見はその事前準備である可能性があります。"
-    },
-    {
-      "id": "c13f4b0e7511fce302ac",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12: Three new features coming next week",
-      "url": "https://9to5mac.com/2026/09/01/apple-watch-series-12-three-new-features-coming-next-week/",
-      "publishedAt": "2026-09-01T19:18:04.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Series 12に導入される3つの新機能の噂",
-      "summaryJa": "次期Apple Watch Series 12には、AI機能の処理性能を高めた新しいSクラスチップが搭載されると報じられています。また、高血圧の通知機能や常時駆動に対応した心臓血管センサーのほか、2019年以来となるセラミックケースのオプションがホワイトとダークグレーで復活する見込みです。"
-    },
-    {
-      "id": "9e7463320f14528c4c77",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Anthropic Launches Claude Fable 5.1 With Lower Costs and Fewer False Positives",
-      "url": "https://www.macrumors.com/2026/09/01/anthropic-claude-fable-5-1/",
-      "publishedAt": "2026-09-01T19:15:25.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/anthopic-claude.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Anthropicがコーディング性能を高めた新モデルを発表",
-      "summaryJa": "Anthropicが、高度なコーディングや知的作業に特化した新AIモデルを発表しました。従来モデルと比べてコストが削減され、誤検知を大幅に減らすことに成功しています。セキュリティの安全性を高めつつ、科学的な研究など幅広い用途での活用が期待されています。"
-    },
-    {
-      "id": "f7d2602cb6abc350c79c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Foldable iPhone Ultra Likely Has MagSafe Charging",
-      "url": "https://www.macrumors.com/2026/09/01/foldable-iphone-ultra-magsafe/",
-      "publishedAt": "2026-09-01T19:05:54.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみ式iPhone UltraはMagSafe充電に対応か",
-      "summaryJa": "Appleが開発中とされる折りたたみ式の「iPhone Ultra」には、MagSafe充電機能が搭載される可能性が高いと報じられています。本体の薄型化に伴い搭載が懸念されていましたが、関係者によれば薄型モデルへの実装実績から問題なく組み込まれる見通しです。本機は9月のイベントでiPhone 18 Proと同時に発表されると予想されています。"
     }
   ],
-  "updatedAt": "2026-09-10T13:47:59.213Z",
+  "updatedAt": "2026-09-10T15:13:58.334Z",
   "initialized": true,
   "summaryVersion": 4
 }
