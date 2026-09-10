@@ -1,6 +1,111 @@
 {
   "articles": [
     {
+      "id": "8ed814c80f3e97611101",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "The Duo is drool-worthy, but the iPhone 18 Pro camera features win for me",
+      "url": "https://9to5mac.com/2026/09/10/the-duo-is-drool-worthy-but-the-iphone-18-pro-camera-features-win-for-me/",
+      "publishedAt": "2026-09-10T13:21:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/The-Duo-is-drool-worthy-but-the-iPhone-18-Pro-camera-features-win-for-me.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの進化点と新カメラ機能の魅力",
+      "summaryJa": "発表された新型iPhoneの中でも、iPhone 18 Proモデルは新たなカメラ機能などの魅力的なアップデートが施されています。特に可変絞りの導入や手動制御の可能性が注目を集めており、ハードウェアとコンピュテーショナルフォトグラフィーを組み合わせた撮影性能の向上が期待されています。"
+    },
+    {
+      "id": "ae4c3f6b83fc3acfec39",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "watchOS 27: Here are Apple’s full release notes for new update",
+      "url": "https://9to5mac.com/2026/09/10/watchos-27-here-are-apples-full-release-notes-for-new-update/",
+      "publishedAt": "2026-09-10T13:20:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/watchos-27-watch-face-red.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、watchOS 27の正式リリースノートを公開",
+      "summaryJa": "来週に配信が開始されるApple Watch向けの大型アップデート、watchOS 27の公式リリースノートが公開されました。AI機能が強化された新しいSiriや、ワークアウトのモチベーションを高める新機能、電話アプリでの文脈理解などが追加されます。"
+    },
+    {
+      "id": "dbf42fc67bf82ebcf6d9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 17 Pro vs. iPhone 18 Pro: 35+ Upgrades Compared",
+      "url": "https://www.macrumors.com/guide/iphone-17-pro-vs-18-pro/",
+      "publishedAt": "2026-09-10T13:18:06.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-17-Pro-vs-18-Pro-Buyers-Guide-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proと前世代のiPhone 17 Proの比較",
+      "summaryJa": "Appleが発表したiPhone 18 ProおよびPro Maxは、前世代のiPhone 17 Proから多数の変更点があります。A20 Proチップや可変絞り対応の4,800万画素Fusionメインカメラを搭載し、内部のパフォーマンスやバッテリー駆動時間が大きく向上しています。"
+    },
+    {
+      "id": "e1681f6c20390ab08aef",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 and Apple Watch Ultra 4 Have Increased RAM Without Price Increase",
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-ultra-4-increased-ram/",
+      "publishedAt": "2026-09-10T13:15:51.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-s12-ultra-4.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch新モデルは価格据え置きでRAMが倍増",
+      "summaryJa": "Apple Watch Series 12とApple Watch Ultra 4では、前世代からRAMが4GBへと倍増していることが確認されました。メモリチップが不足する中でも価格は据え置きとなっており、新しいS11チップと組み合わせてApple Intelligence機能などを快適に動作させます。"
+    },
+    {
+      "id": "b81aa79b8a5592e423ef",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Considering Ads Inside Visual Intelligence, Code Suggests",
+      "url": "https://www.macrumors.com/2026/09/10/apple-considering-ads-inside-visual-intelligence/",
+      "publishedAt": "2026-09-10T12:55:58.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/06/ios-26-visual-intelligence-ask.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Visual Intelligenceで検索プロバイダによる広告表示を検討か",
+      "summaryJa": "iOSのコードから、Appleが「Visual Intelligence」機能において検索プロバイダによるスポンサー広告の表示を検討している可能性が浮上しました。AmazonやGoogleのような形式で、提携先が検索結果に商品画像などを挿入できるようにする仕組みと伝えられています。Apple自身が広告枠を販売するのではなく、サードパーティの検索プロバイダに委ねる形になるとみられています。"
+    },
+    {
+      "id": "dfb41f86557908433e60",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 RC Adds Long-Rumored Camera App Controls Customization",
+      "url": "https://www.macrumors.com/2026/09/10/ios-27-rc-camera-app-customization/",
+      "publishedAt": "2026-09-10T12:45:50.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/add-photo-controls-camera-app.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27、カメラアプリのコントロールカスタマイズ機能を追加か",
+      "summaryJa": "開発者向けにリリースされたiOS 27のRC版において、カメラアプリのコントロールをカスタマイズする機能が追加されたと報じられています。UIの右下にあるボタンから編集モードに入り、フラッシュやタイマーなどのウィジェット風コントロールを追加・削除できるようになります。この機能はすべての対応iPhoneモデルで利用可能になるとみられています。"
+    },
+    {
+      "id": "000e3eedfcc35611082c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Details How iOS 27 Adapts to iPhone Duo's Displays",
+      "url": "https://www.macrumors.com/2026/09/10/apple-details-how-ios-27-adapts-to-iphone-duo/",
+      "publishedAt": "2026-09-10T12:10:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-split-keyboard.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、折りたたみiPhone向けに最適化されたiOS 27の仕組みを解説",
+      "summaryJa": "Apple初となる折りたたみiPhone向けに、リアルタイムで画面形状に適応するよう再構築されたiOS 27の詳細が明らかになりました。デバイスの開閉や角度の変化に応じて、ロック画面やドック、ナビゲーション要素が側面に移動し、縦方向の表示スペースを広く確保します。また、iPhone初となるSplit Viewによるサイドバイサイドのマルチタスクもサポートされます。"
+    },
+    {
       "id": "efc6c6ed8c65be87bebe",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -74,6 +179,21 @@
       ],
       "titleJa": "iPhone Duoの多彩なロック解除機能",
       "summaryJa": "Appleの新しい折りたたみ式iPhoneであるiPhone DuoはFace IDを搭載していませんが、側面のボタンにTouch IDが統合されています。本体が開いていても閉じていても指紋認証を利用できるほか、Apple Watchを装着していれば自動でロックを解除することも可能です。予約注文は10月16日に開始され、10月23日に発売されます。"
+    },
+    {
+      "id": "c996fcf4c128d3368ee5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Announces macOS Golden Gate Release Date",
+      "url": "https://www.macrumors.com/2026/09/10/macos-27-golden-gate-release-date/",
+      "publishedAt": "2026-09-10T07:15:27.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、新OS「macOS Golden Gate」を9月14日にリリースへ",
+      "summaryJa": "Appleは、次期Mac向けOS「macOS Golden Gate」を含む各OSを9月14日に正式リリースすると発表しました。Siri AIやデザインの刷新、パフォーマンスの向上などが含まれています。なお、M1以降のApple Siliconを搭載したMacが対応し、Intel搭載Mac向けのメジャーアップデートは前世代のmacOS Tahoeが最後となります。"
     },
     {
       "id": "69ae271973d70c123caf",
@@ -4388,129 +4508,9 @@
       ],
       "titleJa": "折りたたみ式iPhone UltraはMagSafe充電に対応か",
       "summaryJa": "Appleが開発中とされる折りたたみ式の「iPhone Ultra」には、MagSafe充電機能が搭載される可能性が高いと報じられています。本体の薄型化に伴い搭載が懸念されていましたが、関係者によれば薄型モデルへの実装実績から問題なく組み込まれる見通しです。本機は9月のイベントでiPhone 18 Proと同時に発表されると予想されています。"
-    },
-    {
-      "id": "3011b3ecd150c52ecef1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Read John Ternus' First Memo to Apple Employees as CEO",
-      "url": "https://www.macrumors.com/2026/09/01/john-ternus-first-memo/",
-      "publishedAt": "2026-09-01T18:47:55.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/John-Ternus-CEO-16x9-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleのジョン・テラス新CEO、全社員に向けた初の社内メモを公開",
-      "summaryJa": "Appleの新CEOに就任したジョン・テラスが、全従業員に向けて初めての社内メールを送りました。ティム・クック前CEOのこれまでの貢献に深い感謝を述べるとともに、来週に控えている大規模な新製品発表に向けて期待感を示しています。テラスは2001年からAppleに在籍し、これまでハードウェアエンジニアリング担当のシニアバイスプレジデントを務めていました。"
-    },
-    {
-      "id": "8ef3dc8b74811cdc4f09",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Ex-Apple CFO Luca Maestri Winding Down His Time at the Company",
-      "url": "https://www.macrumors.com/2026/09/01/luca-maestri-apple-winding-down/",
-      "publishedAt": "2026-09-01T18:17:22.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2022/08/apple-cfo-luca-maestri.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "元AppleのCFOルカ・マエストリ、社内業務をさらに縮小か",
-      "summaryJa": "元AppleのCFOであるルカ・マエストリが同社での活動をさらに縮小させていると報じられています。マエストリは今年1月にCFOを退任した後もコーポレートサービス部門を率いていましたが、最近になってその役職からも退きました。現在はApple Universityで講義を行う以外に実務上の責任はなく、週に1度ほどオフィスを訪れるのみとなっている模様です。"
-    },
-    {
-      "id": "402a9b28178c01c151e1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Anthropic upgrades Claude with new Fable 5.1 model, details here",
-      "url": "https://9to5mac.com/2026/09/01/anthropic-upgrades-claude-with-new-fable-5-1-model-details-here/",
-      "publishedAt": "2026-09-01T18:10:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Anthropic、AIモデル「Claude Fable 5.1」を発表",
-      "summaryJa": "AnthropicがAIモデル「Claude」のアップグレード版である「Fable 5.1」を発表しました。この新モデルはコーディングや知識労働、長時間の問題解決タスクにおいて新たな基準を打ち立てるとされています。Fable 5よりもコストを抑えつつ同等以上のパフォーマンスを発揮し、ソフトウェアの根本的な問題解決能力が大幅に向上しているのが特徴です。"
-    },
-    {
-      "id": "788ac55ee7213cc1e047",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Teases 'Huge Launch' Next Week",
-      "url": "https://www.macrumors.com/2026/09/01/apple-teases-huge-launch-next-week/",
-      "publishedAt": "2026-09-01T18:03:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Surprise-and-Shine-Alt-Angle-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、来週開催のイベントで大規模な新製品発表を予告",
-      "summaryJa": "Appleのジョン・テラス新CEOが社員向けメモの中で、来週に「素晴らしい大規模な発表」が控えていると予告しました。また、マーケティング担当責任者のグレッグ・ジョズウィアクも、9月9日に開催されるスペシャルイベントに向けて「さらに伝えるべきことがある」とソーシャルメディアで示唆しています。イベントでは、新型iPhoneやApple Watchなどの発表が期待されています。"
-    },
-    {
-      "id": "8bcb8f624975a1c5f075",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Read John Ternus’s full memo to Apple employees on his first day as CEO",
-      "url": "https://9to5mac.com/2026/09/01/read-new-apple-ceo-john-ternuss-full-memo-to-employees/",
-      "publishedAt": "2026-09-01T17:26:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/IMG_0032.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ジョン・ターナス新CEOがApple社員へ向けた初の全社メッセージを公開",
-      "summaryJa": "Appleの新しいCEOに就任したジョン・ターナスが、全社員に向け初めてのメッセージを送信しました。前任のティム・クックに対する感謝の意を示し、来週予定されている特別な新製品発表イベントへの期待を語っています。また、現在開発が進められている素晴らしい製品や未来への展望についても触れられています。"
-    },
-    {
-      "id": "da61d00a11efa513688b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Steve Jobs in 1996: ‘I still think Apple has a future’",
-      "url": "https://9to5mac.com/2026/09/01/steve-jobs-in-1996-i-still-think-apple-has-a-future/",
-      "publishedAt": "2026-09-01T17:24:21.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/steve-jobs.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "1996年当時のスティーブ・ジョブズのインタビュー映像が公開",
-      "summaryJa": "Appleの新しいCEO就任の話題に合わせ、1996年に公開されたスティーブ・ジョブズの古いインタビュー映像が再び注目を集めています。映像の中でジョブズは、Appleが窮地を脱するためには「切り捨てて燃やすのではなく、イノベーションを起こすことだ」と語っています。この言葉通り、のちに同社は革新によって栄光を取り戻し、ピクサーなどでの成功にもつながりました。"
-    },
-    {
-      "id": "b2beeb291d9d9c318879",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "John Ternus’s first day as Apple CEO: Here’s the latest",
-      "url": "https://9to5mac.com/2026/09/01/john-ternuss-first-day-as-apple-ceo-heres-the-latest/",
-      "publishedAt": "2026-09-01T17:18:06.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus-product-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ジョン・ターナス氏がAppleの新CEOに就任、経営陣の変更も",
-      "summaryJa": "ジョン・ターナス氏がAppleの新しいCEOとしての初日を迎えました。これに伴う新たな報道によると、ルカ・マエストリ氏がコーポレートサービス部門のリーダーを退任したほか、M&A部門の責任者であるエイドリアン・ペリカ氏が新しいリーダーシップページから外れるなど、経営陣の再編が進められています。関係者の間では、ターナス体制の下で退任する幹部の処遇や企業買収の戦略に変化が生じる可能性が指摘されています。"
-    },
-    {
-      "id": "6d1fc105ac52b8679f4a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Meta launches Muse Voice Transcribe for real-time voice dictation on Mac",
-      "url": "https://9to5mac.com/2026/09/01/meta-launches-muse-voice-transcribe-for-real-time-voice-dictation-on-mac/",
-      "publishedAt": "2026-09-01T17:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/meta-ai-mac-app.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Meta、Mac向けリアルタイム音声文字起こしモデルを発表",
-      "summaryJa": "Metaは、リアルタイムでの音声認識や話者識別などを可能にする新しい音声認識モデル「Muse Voice Transcribe」を発表しました。このモデルはすでにMeta AI for Macなどのシステム全体の音声入力機能に組み込まれており、長時間の音声や複数の言語、コードスイッチングを正確に処理することができます。適応型遅延技術を採用することで、スピードと精度のバランスを取りながらスムーズな文字起こしを実現しています。"
     }
   ],
-  "updatedAt": "2026-09-10T11:45:51.368Z",
+  "updatedAt": "2026-09-10T13:47:59.213Z",
   "initialized": true,
   "summaryVersion": 4
 }
