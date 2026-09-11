@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "248ed465f6d8fda87c05",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 10, 2026 – AirPods 5, iPhone price increases",
+      "url": "https://9to5mac.com/2026/09/10/daily-september-10-2026/",
+      "publishedAt": "2026-09-11T00:45:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleのポッドキャスト番組が最新ニュースを配信",
+      "summaryJa": "9to5Mac Dailyのポッドキャストにて、AirPods 5の発表や値上げされたiPhoneシリーズ、 watchOS 27の新しい文字盤など、注目のApple関連ニュースがまとめて解説されています。リスナー向けに最新の製品情報やリリース予定日が詳しく紹介されています。"
+    },
+    {
+      "id": "3e365656ee09a8739cfc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "T-Mobile will charge $5/month for Apple’s new iPhone Handoff feature",
+      "url": "https://9to5mac.com/2026/09/10/t-mobile-will-charge-5-month-for-apples-new-iphone-handoff-feature/",
+      "publishedAt": "2026-09-11T00:28:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/IMG_0012.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "T-Mobile、新機能「iPhone Handoff」に月額料金を設定",
+      "summaryJa": "Appleの新しい「iPhone Handoff」機能を利用して1つの電話番号を2台のiPhoneで共有する際、米T-Mobileでは月額5ドルの料金がかかることが判明しました。iOS 27で導入されるこの機能は、対応キャリアを通じて順次提供が開始される予定です。"
+    },
+    {
+      "id": "590a719c61485cf44f2e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Explains What Happens to Conversations Siri Recap Hears",
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-siri-recap/",
+      "publishedAt": "2026-09-10T23:38:33.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12-siri-recap.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、Apple WatchのSiri Recap機能におけるプライバシー保護を説明",
+      "summaryJa": "Apple Watch Series 12やUltra 4に搭載された「Siri Recap」機能について、Appleがプライバシーへの配慮やデータの扱いを詳細に説明しました。この機能は日常の会話を常に聞き取って要約を作成しますが、特定の個人を識別する情報は含まれず、機密データや有害な内容は除外される仕組みになっています。"
+    },
+    {
+      "id": "6defdd6ed7d6bb4538c8",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Ultra 4 Drops GLONASS Support",
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-ultra-4-glonass/",
+      "publishedAt": "2026-09-10T23:16:19.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Watch-Ultra-4-hero-260909-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Ultra 4がGLONASSのサポートを終了",
+      "summaryJa": "Apple Watch Ultra 4の技術仕様から、ロシアの測位システムであるGLONASSのサポートが削除されたことが明らかになりました。デュアル周波数対応の他の衛星システムを活用することで、位置情報の精度向上やバッテリー効率の改善が期待されています。"
+    },
+    {
       "id": "9b51dcbda5532f8c9685",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4447,69 +4507,9 @@
       ],
       "titleJa": "ライアン・レイノルズ主演のApple TV新作映画「Mayday」が初期レビューで高評価を獲得",
       "summaryJa": "Apple TVの秋の新作ラインナップとして配信されるライアン・レイノルズ主演のアクション・スパイ・コメディ映画「Mayday」の初期レビューが公開されました。アクションやユーモア、主演2人の相性の良さが絶賛されており、映画館で公開されるべきだったとの声も上がるほど高い評価を得ています。配信開始は9月4日金曜日を予定しています。"
-    },
-    {
-      "id": "f1daa944849cbb197592",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 Introduces New 'iPhone Handoff' Feature",
-      "url": "https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/",
-      "publishedAt": "2026-09-02T19:35:53.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-iOS-27-Feature.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27、同じ電話番号で2台のiPhoneを切り替えて使える「iPhone Handoff」機能を導入へ",
-      "summaryJa": "AppleがiOS 27で追加した新機能「iPhone Handoff」の動作デモ動画が公開されました。同じ電話番号を設定した2台のiPhone間で、メインとサブのeSIMを活用してデバイスを交互に切り替えられる機能となります。設定アプリのモバイル通信メニューから構成でき、米国Tモバイルなどのキャリアサポートが必要になると見られています。"
-    },
-    {
-      "id": "35214d3e8e936c2f8be9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Anthropic upgrades Claude’s computer use to run in the background on Mac",
-      "url": "https://9to5mac.com/2026/09/02/anthropic-upgrades-claude-codes-computer-use-to-run-in-the-background-on-mac/",
-      "publishedAt": "2026-09-02T19:14:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/claude-code-auto-mode.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Anthropic、Mac向けClaudeのコンピュータ操作機能にバックグラウンド実行を追加",
-      "summaryJa": "Anthropicは、Mac向けのClaude CodeおよびClaude Coworkにおいて、コンピュータ操作機能をバックグラウンドで実行できるようになったと発表しました。ProおよびMaxプランのユーザーを対象としており、作業中にClaudeが裏でアプリの操作やクリック、タイピングなどを自動で行うため、Macでのマルチタスク効率が大幅に向上します。"
-    },
-    {
-      "id": "a3b341215b72cae885ab",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 fixes Apple Mail in three ways longtime users will love",
-      "url": "https://9to5mac.com/2026/09/02/ios-27-fixes-apple-mail-in-three-ways-longtime-users-will-love/",
-      "publishedAt": "2026-09-02T19:00:40.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-mail-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27のApple Mailが長年のユーザーが喜ぶ3つの重要な不具合修正を実施",
-      "summaryJa": "iOS 27では多くの新機能に加えて、標準のメールアプリにおける使い勝手の改善も含まれています。未読バッジの精度向上、メッセージの読み込み速度の高速化、そして検索インデックスの信頼性向上という3つの重要な修正が行われます。これにより、日々のメール確認がこれまでよりもスムーズかつ快適になることが期待されています。"
-    },
-    {
-      "id": "5d8346da1942b000353a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro will have three upgrades that have been rumored for years",
-      "url": "https://9to5mac.com/2026/09/02/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
-      "publishedAt": "2026-09-02T18:21:33.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proに搭載される長年の噂の3つの新機能",
-      "summaryJa": "間もなく登場すると噂されるiPhone 18 Proには、長年取り沙汰されてきた3つの主要なアップグレードが搭載される見込みです。メインカメラへの可変絞り機構の採用や、従来より約35%小型化されるダイナミックアイランド、そして自社製の次世代C2モデムへの切り替えが予定されていると報じられています。正式な発表と詳細な機能の全貌は、まもなく開催されるイベントで明らかにされる見通しです。"
     }
   ],
-  "updatedAt": "2026-09-10T23:11:36.638Z",
+  "updatedAt": "2026-09-11T01:08:10.729Z",
   "initialized": true,
   "summaryVersion": 4
 }
