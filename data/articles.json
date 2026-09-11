@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "aae5a2d725653aa0130d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Leaker says Apple will pay $250 per iPhone Duo display in three-year Samsung deal",
+      "url": "https://9to5mac.com/2026/09/11/leaker-says-apple-will-pay-250-per-iphone-duo-display-in-three-year-samsung-deal/",
+      "publishedAt": "2026-09-11T23:07:25.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、サムスンと折り畳みiPhone用ディスプレイで独占契約か",
+      "summaryJa": "Appleがサムスンディスプレイと折り畳み式パネルの供給に関する3年間の独占契約を締結したと報じられています。リーク情報によると、iPhone Duoなどに採用されるこのパネルの価格は1枚あたり約250ドルで、デバイスの最も高価な主要部品の一つになるとされています。"
+    },
+    {
+      "id": "e7899c2c406fdc031222",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Overtime 081: iPhone Duo thoughts and impressions",
+      "url": "https://9to5mac.com/2026/09/11/9to5mac-overtime-081-iphone-duo-thoughts-and-impressions/",
+      "publishedAt": "2026-09-11T22:20:54.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/9to5Mac-Overtime-081.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ポッドキャスト番組が初の折り畳みiPhoneの第一印象を語る",
+      "summaryJa": "海外メディアのポッドキャスト番組において、Apple初の折り畳みスマートフォンであるiPhone Duoについての初期の感想や意見が議論されました。番組では、新デバイスのデザインや特徴に関する興味深い観察結果が毎週のトピックとして取り上げられています。"
+    },
+    {
+      "id": "afa2048818e127b4b7ef",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: iPhone price hike ‘better than feared,’ iPhone Duo to drive demand for the cycle",
+      "url": "https://9to5mac.com/2026/09/11/report-iphone-price-hike-better-than-feared-iphone-duo-to-drive-demand-for-the-cycle/",
+      "publishedAt": "2026-09-11T22:05:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-iphone-duo-side-by-side.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "アナリスト、iPhone Duoが今後の需要を牽引すると予測",
+      "summaryJa": "アナリストのジェフ・プー氏によると、今回のiPhoneの値上げ幅は市場の懸念よりも抑えられているとのことです。また、初期の強い消費者関心を集めるiPhone Duoが今後の製品サイクルの需要を牽引し、年末までに700万台が出荷されるとの見通しを示しています。"
+    },
+    {
+      "id": "84194835fd37f8bbb1a1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Here's When iPhone 18 Pro Pre-Orders Begin in Every Time Zone",
+      "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-pre-orders-time-zones/",
+      "publishedAt": "2026-09-11T22:02:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Pre-Orders-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの予約受付開始日時が世界各地で決定",
+      "summaryJa": "iPhone 18 ProおよびPro Maxの事前予約が、太平洋時間の9月12日午前5時より世界各国で一斉に開始されます。日本時間の午後9時をはじめ、各国・地域のタイムゾーンに応じた具体的な予約開始時間が案内されており、購入希望者は事前の準備を進めることができます。"
+    },
+    {
       "id": "7fef71f19ea6fd839c45",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4448,69 +4508,9 @@
       ],
       "titleJa": "Apple、4基のHomePodを用いたサラウンドシステムをテスト中か",
       "summaryJa": "audioOSのベータ版コードから、Appleが4基のHomePodを組み合わせたホームシアター向けのサラウンドシステムや、新しいパーティモードをテストしていることが明らかになりました。ソフトウェア内では、フロントとリアに配置した4台のスピーカーの自動キャリブレーションや位置マッピングなどの言及が見つかっています。これが将来の製品として実際にリリースされるかは現時点不明です。"
-    },
-    {
-      "id": "f9a40b362b42c89de825",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New action comedy movie Mayday is now streaming on Apple TV",
-      "url": "https://9to5mac.com/2026/09/04/new-action-comedy-movie-mayday-is-now-streaming-on-apple-tv/",
-      "publishedAt": "2026-09-04T09:10:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-mayday.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVでアクションコメディ映画「Mayday」の配信が開始",
-      "summaryJa": "ライアン・レイノルズとケネス・ブラナーが出演する新作アクションコメディ映画「Mayday」が、Apple TVでの配信を開始しました。冷戦中のソ連領内に潜入した主人公と元KGBエージェントの意外な共闘を描いた作品となっています。Apple TVのサブスクリプション加入者は追加料金なしで視聴可能で、批評家からも高い評価を受けています。"
-    },
-    {
-      "id": "bb4d4ee9a88c0f53491f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Six Sleeps Until iPhone 18 Pro: Here's What We Know",
-      "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-heres-what-we-know/",
-      "publishedAt": "2026-09-04T02:25:46.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-What-We-Know-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの噂と最新情報まとめ",
-      "summaryJa": "今秋の発表が噂されるiPhone 18 ProおよびPro Maxモデルに関する最新の予測が伝えられています。デザインは前モデルを踏襲しつつ、バッテリーの大型化や、ディスプレイ下に一部のFace IDコンポーネントを配置することでDynamic Islandが小型化される見込みです。また、TSMCの2nmプロセスを採用したA20 Proチップや、新しいカメラセンサーの搭載などが報じられています。"
-    },
-    {
-      "id": "36b0b1169c0d874a7d9d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "M6 vs. M5 Pro Mac Mini Buyer's Guide",
-      "url": "https://www.macrumors.com/guide/m6-vs-m5-pro-mac-mini/",
-      "publishedAt": "2026-09-03T22:00:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/mac-mini-2026-blue.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新世代チップを搭載したMac miniの選び方ガイド",
-      "summaryJa": "Appleが発表した新しいMac miniは、エントリーモデルに新世代のM6チップ、上位モデルにM5 Proチップを搭載するという構成になっています。物理的なデザインやWi-Fi 7などの最新機能は共通しつつも、価格差がこれまで以上に広がっているのが特徴です。自身の用途や必要な性能に合わせて、どちらのモデルが最適かを慎重に選ぶことが重要となります。"
-    },
-    {
-      "id": "655a4b5167544f464bbd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "MacBook Neo 2: Here’s everything we know so far",
-      "url": "https://9to5mac.com/2026/09/03/macbook-neo-2-features-release-date/",
-      "publishedAt": "2026-09-03T21:00:37.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-citrus.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "次期MacBook Neoの噂、A19 Proチップ搭載か",
-      "summaryJa": "手頃な価格のラップトップとして成功を収めているMacBook Neoの次世代モデルに関する情報が報じられています。次期モデルには、各GPUコアにNeural Acceleratorを統合したA19 Proチップと12GBのメモリが搭載される見込みです。これにより、グラフィックス性能の大幅な向上や、デバイス上の高度なAI機能へのサポートが期待されています。"
     }
   ],
-  "updatedAt": "2026-09-11T21:09:50.788Z",
+  "updatedAt": "2026-09-11T23:16:40.765Z",
   "initialized": true,
   "summaryVersion": 4
 }
