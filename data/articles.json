@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "172eae75fce252ecf3da",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple extends free iPhone satellite access for another year",
+      "url": "https://9to5mac.com/2026/09/10/apple-extends-free-iphone-satellite-access-for-another-year/",
+      "publishedAt": "2026-09-11T01:38:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/iPhone-satellite.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPhoneの衛星通信機能の無料期間をさらに1年間延長",
+      "summaryJa": "Appleは、iPhoneの衛星通信機能を利用できる無料期間をさらに1年間延長することを発表しました。対象となるのは既存のiPhone 14、iPhone 15、iPhone 16のユーザーで、緊急SOSや「探す」での位置情報共有、ロードサイド援助、衛星経由のメッセージなどが引き続き無料で利用可能になります。当初は2年間としていた無料アクセスが順次拡大されており、ユーザーの利便性維持につながります。"
+    },
+    {
       "id": "248ed465f6d8fda87c05",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4492,24 +4507,9 @@
       ],
       "titleJa": "動作する希少なApple-1コンピュータがオークションに登場",
       "summaryJa": "現存数が少なく、実際に動作する希少なApple-1コンピュータが10月にオークションへ出品されます。この機体はスティーブ・ウォズニアックの署名やスティーブ・ジョブズの直筆手紙が付属しており、高額での落札が予想されています。過去の修復を経て現在も良好な稼働状態を維持しており、世界各地で一般公開が予定されています。"
-    },
-    {
-      "id": "e080dcdaa6c2a4b00079",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Ryan Reynolds’ new Apple TV spy movie is a winner, reviews here",
-      "url": "https://9to5mac.com/2026/09/02/ryan-reynolds-new-apple-tv-spy-movie-is-a-winner-reviews-here/",
-      "publishedAt": "2026-09-02T19:53:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ryan-reynolds-mayday-jacket.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ライアン・レイノルズ主演のApple TV新作映画「Mayday」が初期レビューで高評価を獲得",
-      "summaryJa": "Apple TVの秋の新作ラインナップとして配信されるライアン・レイノルズ主演のアクション・スパイ・コメディ映画「Mayday」の初期レビューが公開されました。アクションやユーモア、主演2人の相性の良さが絶賛されており、映画館で公開されるべきだったとの声も上がるほど高い評価を得ています。配信開始は9月4日金曜日を予定しています。"
     }
   ],
-  "updatedAt": "2026-09-11T01:08:10.729Z",
+  "updatedAt": "2026-09-11T06:01:17.118Z",
   "initialized": true,
   "summaryVersion": 4
 }
