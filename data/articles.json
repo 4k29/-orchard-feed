@@ -1,6 +1,156 @@
 {
   "articles": [
     {
+      "id": "7fef71f19ea6fd839c45",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple ranks third on TIME’s World’s Best Companies list after last year’s absence",
+      "url": "https://9to5mac.com/2026/09/11/apple-ranks-third-on-times-worlds-best-companies-list-after-last-years-absence/",
+      "publishedAt": "2026-09-11T20:59:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Mac-hardware-is-great-but-macOS-26-is-a-disaster-say-pundits.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、米タイム誌の「世界で最も影響力のある企業」で3位にランクイン",
+      "summaryJa": "米タイム誌の「世界で最も影響力のある企業2026」が発表され、Appleが3位に返り咲きました。同誌は従業員満足度、過去3年間の売上高成長率、持続可能性の透明性を評価基準としています。AppleはAI分野への投資強化や売上高の回復が評価された一方、持続可能性の透明性の順位は前回から低下する結果となりました。"
+    },
+    {
+      "id": "eb845efc2e74aea139f9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Two iOS 27 Features Won't Be Ready for Monday's Launch",
+      "url": "https://www.macrumors.com/2026/09/11/ios-27-delayed-features/",
+      "publishedAt": "2026-09-11T20:37:37.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/ios-27-passwords-auto-fix.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27、初期リリースでの提供を見送る2つの新機能が明らかに",
+      "summaryJa": "月曜日に控えたiOS 27の一般リリースを前に、ベータ版でテストされていた2つの機能の提供が初期バージョンで見送られることが分かりました。対象となるのは、メッセージアプリでのApple Intelligenceを活用した提案機能と、パスワードの脆弱性を自動修復する機能です。これらの機能は今後のソフトウェアアップデートで順次追加される予定となっています。"
+    },
+    {
+      "id": "abd5140eb051ff365436",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Counterpoint: Apple foldable panel shipments could rise 167% by 2030",
+      "url": "https://9to5mac.com/2026/09/11/counterpoint-apple-foldable-panel-shipments-could-rise-167-by-2030/",
+      "publishedAt": "2026-09-11T19:57:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-1.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの折りたたみ式パネル出荷台数、2030年までに大幅増との予測",
+      "summaryJa": "調査会社カウンターポイント・リサーチが、折りたたみ式スマートフォン市場に関する新しい予測レポートを公開しました。それによると、iPhone Duoなどの影響により、Appleの折りたたみ式パネルの出荷台数は2030年までに大きく増加すると見込まれています。Samsungが依然としてトップを維持するものの、Appleのシェアは数年のうちにさらに拡大する予測となっています。"
+    },
+    {
+      "id": "82e16afb7a60959fbb35",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 makes a big change to a small complication that I’m excited about",
+      "url": "https://9to5mac.com/2026/09/11/apple-watch-series-12-makes-a-big-change-to-a-small-complication-that-im-excited-about/",
+      "publishedAt": "2026-09-11T19:50:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-heart.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch Series 12、心拍数コンプリケーションに大きな変更点",
+      "summaryJa": "新モデルのApple Watch Series 12およびUltra 4に搭載される新しいヘルスセンサーシステムにより、心拍数の測定頻度が大幅に向上することが分かりました。これに伴い、これまではアプリの起動アイコンとして機能するだけだった小さな心拍数コンプリケーションに、ライブの心拍数が直接表示されるよう改良されています。ハードウェアの進化を活かした、ユーザーにとって利便性の高いアップデートとなりそうです。"
+    },
+    {
+      "id": "82258a1c239cc97057f1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple says two iOS 27 features aren’t coming until a ‘future software update’",
+      "url": "https://9to5mac.com/2026/09/11/apple-says-two-ios-27-features-arent-coming-until-a-future-software-update/",
+      "publishedAt": "2026-09-11T19:46:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/passwords-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iOS 27の一部機能を今後のソフトウェアアップデートへ延期",
+      "summaryJa": "Appleは、近日中にリリース予定のiOS 27から、メッセージアプリでの提案機能と自動パスワード変更機能の2つを一時的に削除したことを明らかにしました。これらの機能はベータ版に含まれていましたが、将来のソフトウェアアップデートでiPhoneやiPadOS、macOS向けに改めて提供される予定です。現時点で正確な配信時期は明らかにされていません。"
+    },
+    {
+      "id": "34099fb1c13fef5ad8cf",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 11 vs. Series 12 Buyer's Guide: 25+ Upgrades Compared",
+      "url": "https://www.macrumors.com/guide/apple-watch-series-11-vs-12/",
+      "publishedAt": "2026-09-11T19:44:27.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Watch-Series-11-vs-Series-12-Buyers-Guide.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 12の魅力に迫る、前世代との25以上の違いを比較",
+      "summaryJa": "予約受付が始まったApple Watch Series 12は、前モデルのSeries 11と比べて大幅な進化を遂げたモデルとなっています。外観デザインは継続されるものの、新型のS11チップや4GBへのRAM増強、進化したヘルスセンサーやVitalsアプリの機能拡張など多くの改良が施されています。価格は従来同様の399ドルからとなっています。"
+    },
+    {
+      "id": "a640ddbb89decf687fb4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro First Look: Same Design, Big Changes Inside",
+      "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-hands-on/",
+      "publishedAt": "2026-09-11T19:37:47.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proファーストインプレッション、内部の大型進化と新デザイン",
+      "summaryJa": "新型のiPhone 18 ProおよびPro Maxは前モデルとほぼ同じ外観デザインを維持しつつ、カラーリングの均一化や小型化したDynamic Islandなどの細かい変更が加えられています。内部には2nmのA20 Proチップやベイパーチャンバー冷却システムが搭載され、持続的なパフォーマンスが最大40%向上しています。また、バッテリー駆動時間の改善や新しいデュアルNeural Engineも特徴となっています。"
+    },
+    {
+      "id": "e2563aea5e2ebf308604",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Pre-Orders: Deadline to 'Get Ready' Early is Tonight",
+      "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-pre-orders-get-ready/",
+      "publishedAt": "2026-09-11T19:37:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Burgundy-Feature.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの事前準備、Apple Storeアプリでの受付期限が本夜に迫る",
+      "summaryJa": "iPhone 18 ProとPro Maxの予約注文開始に向けて、Appleはユーザーが事前に購入手続きを済ませておける「Get Ready」機能の事前準備締め切りを今夜に設定しています。これを利用してモデル選択やアクセサリーの追加、支払い方法の確認などを事前に済ませておくことで、明朝の予約混雑時にスムーズな決済が可能になります。"
+    },
+    {
+      "id": "acc27f8628548c20ff07",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 vs Series 11: Here’s everything new",
+      "url": "https://9to5mac.com/2026/09/11/apple-watch-series-12-vs-series-11-heres-everything-new/",
+      "publishedAt": "2026-09-11T19:35:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-pearl-white-ceramic.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch Series 12の進化点まとめ",
+      "summaryJa": "Apple Watch Series 12では、内部のセンサーや健康管理機能が大幅に刷新され、新たにAI機能に対応しました。ケース素材には新色のダークブロンズやセラミックが追加され、S11チップや2倍に増量されたRAMによってパフォーマンスも向上しています。"
+    },
+    {
+      "id": "e7b400e443044d6f6169",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s iPhone 18 Pro cases are already in stores, and not just for the new models",
+      "url": "https://9to5mac.com/2026/09/11/apples-iphone-18-pro-cases-are-already-in-stores-and-not-just-for-the-new-models/",
+      "publishedAt": "2026-09-11T18:54:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro用ケースが早くも店舗に登場",
+      "summaryJa": "Apple Store各店にiPhone 18 Pro向けの新しいケースやアクセサリが入荷しました。今回のケースはiPhone 17 Proとも互換性があり、シリコンケースやリニューアルされたクリアケース、新たに登場したリストストラップなどがラインナップされています。"
+    },
+    {
       "id": "e812ad3792391d342009",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -14,6 +164,21 @@
       ],
       "titleJa": "Apple、今年後半から来年にかけて発表が噂される8製品",
       "summaryJa": "Appleは今年のiPhoneイベントを終えたものの、今後さらに多くの新製品を投入する見込みです。新型のiPad mini、M6チップ搭載のiMacやMacBook Pro、OLEDディスプレイを採用したMacBook Ultra、さらには新しいApple TVやHomePod miniなどが控えていると報じられています。一部の製品は2026年後半から2027年初頭の登場になると予想されています。"
+    },
+    {
+      "id": "497ac02cf8d073931519",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "HomeKit Weekly: Shelly’s Flood S Gen4 is a low cost Matter leak sensor for Apple Home",
+      "url": "https://9to5mac.com/2026/09/11/homekit-weekly-shellys-flood-s-gen4-is-a-low-cost-matter-leak-sensor-for-apple-home/",
+      "publishedAt": "2026-09-11T18:10:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Shelly-leak-sensor-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Home対応の安価な水漏れセンサー登場",
+      "summaryJa": "ShellyからMatterに対応した低価格な水漏れセンサー「Flood S Gen4」が登場しました。底面全体に配置された大型のステンレスパッドにより微量な水も素早く検知し、Apple Homeと連携させることで外出先でもiPhoneに通知を受け取ることができます。"
     },
     {
       "id": "f77b55290fa57169f812",
@@ -180,6 +345,21 @@
       ],
       "titleJa": "AirPods 5やApple Watch最新モデルの早期割引セールが登場",
       "summaryJa": "新型の「AirPods 5」やApple Watchの最新シリーズの予約が開始され、一部の小売店では早くも割引や下取りを活用したキャンペーンが実施されています。AirPods Pro 3のセール販売も継続しているほか、AirTagの割引や各種周辺機器の特価情報もあわせて公開されており、新製品をお得に入手するチャンスとなっています。"
+    },
+    {
+      "id": "31081d3108161ac9fdf5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo is Missing These 10 iPhone 18 Pro Features",
+      "url": "https://www.macrumors.com/2026/09/11/iphone-duo-is-missing-these-features/",
+      "publishedAt": "2026-09-11T15:13:38.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-hero.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみ式iPhone Duoに欠けている10の機能",
+      "summaryJa": "初の折りたたみ式モデルとなるiPhone Duoはユニークな機能を持つ一方で、iPhone 18 Proシリーズに搭載されているいくつかの機能が非対応となっています。専用の望遠カメラやFace ID、LiDARスキャナなどが省略されており、発売時期も異なっています。"
     },
     {
       "id": "9a79254b80b343593b35",
@@ -4328,189 +4508,9 @@
       ],
       "titleJa": "次期MacBook Neoの噂、A19 Proチップ搭載か",
       "summaryJa": "手頃な価格のラップトップとして成功を収めているMacBook Neoの次世代モデルに関する情報が報じられています。次期モデルには、各GPUコアにNeural Acceleratorを統合したA19 Proチップと12GBのメモリが搭載される見込みです。これにより、グラフィックス性能の大幅な向上や、デバイス上の高度なAI機能へのサポートが期待されています。"
-    },
-    {
-      "id": "b6d74a41a04d706ea024",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro and Pro Max: Two new display upgrades coming next week",
-      "url": "https://9to5mac.com/2026/09/03/iphone-18-pro-new-display-upgrades-are-coming-in-two-ways/",
-      "publishedAt": "2026-09-03T20:29:33.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max-cosmic-orange-fi-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proのディスプレイに2つの新機能か",
-      "summaryJa": "次期iPhone 18 ProおよびPro Maxでは、画面サイズを維持しながらディスプレイに2つの大きな進化が加わると噂されています。駆動用トランジスタにも酸化物材料を適用する「LTPO+」技術によりバッテリー効率と表示性能が向上し、さらにDynamic Islandの切り抜きが約35%小型化される見通しです。"
-    },
-    {
-      "id": "523e4998a26fd829210e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Foldable iPhone Ultra: The Latest Rumors Before Apple's Event",
-      "url": "https://www.macrumors.com/2026/09/03/iphone-ultra-latest-rumors/",
-      "publishedAt": "2026-09-03T20:10:51.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみiPhone Ultraの最新情報と直前噂まとめ",
-      "summaryJa": "Apple初となる折りたたみ式iPhoneの発表を控え、MagSafe対応やわずか4.5mmの薄型設計、Touch IDの搭載などが報じられています。画面の折り目は完全に消えないものの最小限にとどめられ、A20 Proチップやマルチタスクに対応するiOS 27を搭載する見込みです。"
-    },
-    {
-      "id": "22e7fc8c07083c553949",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "John Ternus is now Apple CEO, last-minute iPhone event rumors, Apple TV price increase",
-      "url": "https://9to5mac.com/2026/09/03/happy-hour-606/",
-      "publishedAt": "2026-09-03T20:00:29.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新CEOジョン・ターナス氏の初週とAppleの最新動向",
-      "summaryJa": "ジョン・ターナス氏がAppleのCEOに就任してからの1週間の動向や、ティム・クック氏の関わりについて伝えられています。また、Apple Watch Series 12の健康機能に関する直前の噂や、Apple TVのサブスクリプション料金の値上げについても言及されています。"
-    },
-    {
-      "id": "f870ff15667b7f85eb6b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s Calendar app in iOS 27 has brand new design for key features",
-      "url": "https://9to5mac.com/2026/09/03/apples-calendar-app-in-ios-27-has-brand-new-design-for-key-features/",
-      "publishedAt": "2026-09-03T19:02:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27のカレンダーアプリ、大幅なデザイン刷新へ",
-      "summaryJa": "iOS 27では、メモやリマインダーに加え、カレンダーアプリも大きくデザインが刷新されます。イベント詳細の表示や作成・編集画面が改良され、アイコンの追加や情報の再編成により視認性と操作性が向上しています。"
-    },
-    {
-      "id": "e0d97c9d1739bb9a1435",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI releasing major upgrade to ChatGPT and Codex with GPT-6 Astra, details here",
-      "url": "https://9to5mac.com/2026/09/03/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
-      "publishedAt": "2026-09-03T18:48:48.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI、高度な新モデル「GPT-6 Astra」を発表",
-      "summaryJa": "OpenAIがChatGPTやCodexを強化する最新モデル「GPT-6 Astra」を発表しました。コンピュータ操作やソフトウェアエンジニアリング、科学研究などの分野で非常に高い性能を発揮し、複雑なマルチステップのワークフローを効率的に処理できるようになります。"
-    },
-    {
-      "id": "0df568eeee182b83e025",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Three advantages iPhone Ultra will have over iPhone 18 Pro",
-      "url": "https://9to5mac.com/2026/09/03/three-advantages-iphone-ultra-will-have-over-iphone-18-pro/",
-      "publishedAt": "2026-09-03T18:17:57.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone UltraがiPhone 18 Proより優れる3つのポイント",
-      "summaryJa": "新型のiPhone Ultraは、iPhone 18 Proシリーズと比較して、折りたたみ式ならではの大型・小型ディスプレイの双方を兼ね備える点や、優れた携帯性、そしてiOS 27における専用のマルチタスク機能という3つの優位性を持つと報じられています。Proモデルとは異なる独自の魅力で、ハイエンド市場の選択肢となりそうです。"
-    },
-    {
-      "id": "8769dbfb6d965e915a50",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Vision Pro was just used in a first-of-its-kind surgery",
-      "url": "https://9to5mac.com/2026/09/03/apple-vision-pro-was-just-used-in-a-first-of-its-kind-surgery/",
-      "publishedAt": "2026-09-03T17:59:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ssv_press-release-hero.jpeg?quality=82&#038;strip=all&#038;w=1278",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Vision Proが世界初の外科手術で活用",
-      "summaryJa": "医療分野での活用が進むApple Vision Proを使い、股関節鏡視下手術での世界初の施術がストライカー社の専用アプリ「SportSuite Vision」を用いて実施されました。この技術により、術野の近くにCT画像や関節鏡映像などのデジタルデータを仮想空間として配置できるようになり、執刀医の効率的なワークフローを支援します。"
-    },
-    {
-      "id": "8d4f3b0661634c94fad1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch loses a useful multitasking feature in watchOS 27 that I’ve been missing",
-      "url": "https://9to5mac.com/2026/09/03/apple-watch-loses-a-useful-multitasking-feature-in-watchos-27-that-ive-been-missing/",
-      "publishedAt": "2026-09-03T17:44:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-modular-face.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "watchOSのベータ版でデジタルクラウンの二度押し機能が廃止か",
-      "summaryJa": "最新のwatchOSベータ版において、デジタルクラウンの二度押しによるアプリの素早い切り替え機能が削除されていることが分かりました。Appleは新しく「ダイナミックAppグリッド」の訴求に力を入れており、これに伴い従来使われていたマルチタスキング操作ができなくなっています。ユーザーの間では長年親しまれてきた便利な操作であり、今後の正式版での仕様変更が注目されています。"
-    },
-    {
-      "id": "fb70edb1d0f190f77851",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple has reportedly canceled innovative product that was ‘Ternus priority’",
-      "url": "https://9to5mac.com/2026/09/03/apple-has-reportedly-canceled-innovative-product-that-was-ternus-priority/",
-      "publishedAt": "2026-09-03T16:24:22.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/john-ternus-apple-park.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、折りたたみ式iPadやMacBookの開発を中止したとの報道",
-      "summaryJa": "調査会社Omdiaの最新レポートによると、Appleが長年開発を進めていた折りたたみ式ディスプレイ搭載のMacおよびiPadのハイブリッド製品計画を中止したと伝えられています。このプロジェクトは幹部のジョン・ターナス氏が注力していたことで知られていましたが、市場投入は見送られた模様です。高価格化や市場の動向を慎重に見極めた結果、現時点では実現が難しいと判断された可能性があります。"
-    },
-    {
-      "id": "6fafe94e08c3d96ea96d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Lenovo IdeaPad Vibe is a MacBook Neo competitor starting at $699",
-      "url": "https://9to5google.com/2026/09/03/lenovo-ideapad-vibe-is-a-macbook-neo-competitor-starting-at-699/",
-      "publishedAt": "2026-09-03T16:08:40.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/lenovo-ideapad-vibe-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "レノボ、MacBookに対抗するカラフルな新型ノートPCを発表",
-      "summaryJa": "レノボがMacBookの競合製品となる新しいノートパソコン「IdeaPad Vibe」を発表しました。手頃な価格帯を意識した鮮やかなデザインのモデルとして展開され、市場での選択肢を広げる存在となりそうです。"
-    },
-    {
-      "id": "85655cd436b9b6bd5471",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s big roadmap for new Mac and iPad models revealed: report",
-      "url": "https://9to5mac.com/2026/09/03/apples-big-roadmap-for-new-mac-and-ipad-models-revealed-report/",
-      "publishedAt": "2026-09-03T15:49:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/macbook-air-m4-m3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OmdiaがMacBookやiPadの今後のロードマップを予測",
-      "summaryJa": "調査会社Omdiaの最新レポートにより、今後数年間に登場するMacBook Pro、MacBook Air、iPad各モデルのディスプレイに関する詳細なロードマップが明らかになりました。2026年以降、OLEDディスプレイを搭載したモデルが順次投入される見通しです。また、ミニLEDを搭載したMacBook Proも一定期間併売されるなど、今後の製品展開に注目が集まっています。"
-    },
-    {
-      "id": "cc2ba913121b1283691d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: AirPods Pro 3, 2026 Apple Studio Display $214 off, iPad Air $100 off, charging gear, more",
-      "url": "https://9to5mac.com/2026/09/03/deals-airpods-pro-3-2026-apple-studio-display-ipad-air/",
-      "publishedAt": "2026-09-03T15:29:04.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Apple-Studio-Display-AirPods-Mac-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AmazonセールでAirPods Pro 3などが大幅割引",
-      "summaryJa": "Amazonの労働者の日セールにおいて、AirPods Pro 3が50ドルオフの199ドルで販売されているほか、2026年型のApple Studio DisplayやiPad Airなどが特別価格で登場しています。さらに、アンカーの最新モバイルバッテリーやPowerbeats Pro 2などもセール対象となり、多数のApple製品や関連アクセサリーをお得に購入できるチャンスとなっています。"
     }
   ],
-  "updatedAt": "2026-09-11T18:25:12.260Z",
+  "updatedAt": "2026-09-11T21:09:50.788Z",
   "initialized": true,
   "summaryVersion": 4
 }
