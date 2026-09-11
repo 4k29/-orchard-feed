@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "470a5d46b0fd5e7897f6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Execs Explain iPhone Duo's Display Design, Secrecy, and Price",
+      "url": "https://www.macrumors.com/2026/09/11/apple-explains-iphone-duo-design-secrecy-price/",
+      "publishedAt": "2026-09-11T11:10:00.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple幹部が語る、折りたたみiPhone「iPhone Duo」の開発背景",
+      "summaryJa": "Appleのジョン・ターナスCEOとマーケティング責任者のグレッグ・ジョズウィック氏が、メディアのインタビューで折りたたみ端末「iPhone Duo」の開発秘話を明かしました。他社製折りたたみスマートフォンのディスプレイに不満があったことから、品質や耐久性、独自の1:1.4のアスペクト比にこだわり、独自開発のナノテクスチャー仕上げを採用したと説明しています。また、開発中の極秘体制やコードネームの活用についても振り返っています。"
+    },
+    {
+      "id": "33edde64df069ca675e9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple to Pay $250 Per iPhone Duo Foldable Display in Samsung Deal",
+      "url": "https://www.macrumors.com/2026/09/11/apple-pay-250-dollars-iphone-duo-display-samsung/",
+      "publishedAt": "2026-09-11T10:10:39.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-cover-glass.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Samsung、Appleの折りたたみiPhone向けディスプレイを供給か",
+      "summaryJa": "Samsung DisplayがAppleとの間で、iPhone Duoおよび将来モデル向けの折りたたみディスプレイパネルを供給する3年間の独占契約を締結したと報じられています。中国のリーク情報によると、iPhone Duoには最新のM16有機EL素材セットが採用され、従来世代に比べて明るさや色性能、寿命、電力効率が向上する見込みです。パネル価格は1枚あたり約250ドルと推測されており、デバイス全体のコストにおいて大きな割合を占める部品になると伝えられています。"
+    },
+    {
+      "id": "0a0f177924e248a7132b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "John Ternus and Greg Joswiak reveal why now is the time for iPhone Duo",
+      "url": "https://9to5mac.com/2026/09/11/john-ternus-and-greg-joswiak-reveal-why-now-is-the-time-for-iphone-duo/",
+      "publishedAt": "2026-09-11T08:31:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ternus-joz.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple幹部が明かす、今「iPhone Duo」を投入した理由",
+      "summaryJa": "Appleのイベント終了後、新CEOに就任したジョン・ターナス氏とマーケティング担当のグレッグ・ジョズウィック氏がインタビューに応じました。ターナス氏は、品質と耐久性の基準を満たし、ハードウェアとソフトウェアが融合して初めて理想的な製品を作れるタイミングが今だったと説明しています。また、他社の折りたたみ端末のプラスチック製の質感や表面のシワ感が魅力的でなかった点にも言及し、自社製品の独自性を強調しました。"
+    },
+    {
+      "id": "41d6883d4c77028006c2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo, iPhone 18 Pro, Apple Watch Series 12, and AirPods 5 event",
+      "url": "https://9to5mac.com/2026/09/10/happy-hour-607/",
+      "publishedAt": "2026-09-11T06:08:41.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "9月Appleイベントの速報：iPhone Duoや新製品の印象",
+      "summaryJa": "ポッドキャスト番組において、9月のAppleイベントで発表されたiPhone DuoやiPhone 18 Pro、Apple Watchの新シリーズ、AirPods 5に関するファーストインプレッションが語られました。特にジョン・ターナス氏のCEO初登壇となったイベントの演出や、現地での実機ハンズオンを通じた新製品の魅力について詳しく議論されています。"
+    },
+    {
       "id": "172eae75fce252ecf3da",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4447,69 +4507,9 @@
       ],
       "titleJa": "Aqara、Apple Homeに対応するMatter準拠のスマート照明5製品を発表",
       "summaryJa": "Aqaraは、Apple Home、Thread、Zigbeeに対応する新しいMatter準拠のスマート照明5製品を発表しました。カラーや色温度を細かく調整できるフロアランプやダウンライト、間接照明向けのLEDテープライト、屋外用のストリングライトなどがラインナップされています。各種センサーやスイッチとの連携も可能で、詳細な価格や発売時期については今後発表される予定です。"
-    },
-    {
-      "id": "a6ae8eb19ff3df4c02d3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Govee Debuts $400 Matter-Enabled Sky Ceiling Light",
-      "url": "https://www.macrumors.com/2026/09/03/govee-sky-ceiling-light/",
-      "publishedAt": "2026-09-03T06:00:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/govee-ceiling-light.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Govee、AI機能を搭載したMatter対応の「Sky Ceiling Light」などを発表",
-      "summaryJa": "Goveeは、AI照明ボットによってユーザーの気分や要望に合わせた調光が可能な「Sky Ceiling Light」など3つの照明製品を発表しました。約400ドルの天井照明は、自然光に近い色温度スペクトラムを取り入れることで室内での快適なリズムをサポートします。他にもCOBストリップライトや屋外用のパーマネントライトが順次発売される予定です。"
-    },
-    {
-      "id": "00eca06d3f07e5324d5f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "When is Apple releasing new AirPods?",
-      "url": "https://9to5mac.com/2026/09/02/when-is-apple-releasing-new-airpods/",
-      "publishedAt": "2026-09-03T00:47:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/airpods-pro-3-table.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "カメラ内蔵AirPodsは2027年末に発売延期か",
-      "summaryJa": "Appleが開発中と噂されている、カメラを内蔵した次世代AirPodsの発売時期が、2027年末へと延期されたと報じられています。このカメラは写真や動画の撮影用ではなく、Siriに周囲の環境を認識させるための目として機能し、コンテキストに応じた情報提供を行う予定です。Apple IntelligenceやSiri関連の遅延が影響していると伝えられています。"
-    },
-    {
-      "id": "0d72936e12d424670831",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Foldable 'iPhone Ultra' Still Likely to Be Missing These Five Features",
-      "url": "https://www.macrumors.com/2026/09/04/foldable-iphone-likely-to-be-missing-these-features/",
-      "publishedAt": "2026-09-02T21:31:30.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Foldable-iPhone-Ultra-Still-Likely-to-Be-Missing-These-Five-Features-16x9-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみiPhone Ultra、一部機能が非搭載となる可能性",
-      "summaryJa": "Apple初の折りたたみ式iPhoneと噂されるモデルには、高価格帯でありながらiPhone 18 Proに搭載される一部の機能が含まれない可能性が報じられています。極薄デザインを採用するため、Face ID用のTrueDepthカメラや望遠カメラ、物理SIMカードスロットなどが省かれ、代わりに側面のTouch IDなどが採用される見通しです。"
-    },
-    {
-      "id": "887916420692a087a7c0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Rare Working Apple-1 Could Fetch $800,000 at Auction",
-      "url": "https://www.macrumors.com/2026/09/02/hatfield-apple-1-auction/",
-      "publishedAt": "2026-09-02T21:10:43.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/hatfield-apple-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "動作する希少なApple-1コンピュータがオークションに登場",
-      "summaryJa": "現存数が少なく、実際に動作する希少なApple-1コンピュータが10月にオークションへ出品されます。この機体はスティーブ・ウォズニアックの署名やスティーブ・ジョブズの直筆手紙が付属しており、高額での落札が予想されています。過去の修復を経て現在も良好な稼働状態を維持しており、世界各地で一般公開が予定されています。"
     }
   ],
-  "updatedAt": "2026-09-11T06:01:17.118Z",
+  "updatedAt": "2026-09-11T11:11:23.993Z",
   "initialized": true,
   "summaryVersion": 4
 }
