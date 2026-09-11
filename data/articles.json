@@ -1,6 +1,187 @@
 {
   "articles": [
     {
+      "id": "e812ad3792391d342009",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Still Has 8 More Products to Announce Later This Year",
+      "url": "https://www.macrumors.com/2026/09/11/apple-still-has-8-products-to-announce-this-year/",
+      "publishedAt": "2026-09-11T18:14:58.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Apple-Event-Logo.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、今年後半から来年にかけて発表が噂される8製品",
+      "summaryJa": "Appleは今年のiPhoneイベントを終えたものの、今後さらに多くの新製品を投入する見込みです。新型のiPad mini、M6チップ搭載のiMacやMacBook Pro、OLEDディスプレイを採用したMacBook Ultra、さらには新しいApple TVやHomePod miniなどが控えていると報じられています。一部の製品は2026年後半から2027年初頭の登場になると予想されています。"
+    },
+    {
+      "id": "f77b55290fa57169f812",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.1 release date: Here’s when to expect the new iPhone update",
+      "url": "https://9to5mac.com/2026/09/11/ios-27-1-release-date-heres-when-to-expect-the-new-iphone-update/",
+      "publishedAt": "2026-09-11T17:28:37.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27.1-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27.1のリリース時期とベータ版のスケジュール",
+      "summaryJa": "間もなく一般向けにリリースされるiOS 27に続き、早くも「iOS 27.1」のベータ版が来週以降に登場する見込みです。過去の傾向から、最初のベータ版は正式リリースから数日以内に配布されると予想されています。また、公開版については10月23日までに登場するiPhone Duoの出荷に合わせて、10月中旬頃にリリースされる計画となっています。"
+    },
+    {
+      "id": "da8f2f17636e1a9ce70e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple hid a classic Mac easter egg in the iOS 27 Settings app",
+      "url": "https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/",
+      "publishedAt": "2026-09-11T17:23:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-ios-27-dogcow-moof.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27の設定アプリに初代Macの隠し要素が登場",
+      "summaryJa": "iOS 27の設定アプリ内にあるLiquid Glassの外観調整画面に、クラシックMac OSに由来する「犬牛（Dogcow）」のクラルスがイースターエッグとして隠されていることが判明しました。透明度のプレビュー画面を一番下までスクロールして上に引き上げると、Apple Parkの池のそばにあるフィギュアの写真が表示されます。さらに、Siriに「Moof!」と話しかけると特別な返事をするなど、遊び心のある演出が盛り込まれています。"
+    },
+    {
+      "id": "0b09f1d37f9b0add7a00",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple sets cutoff time for getting faster iPhone 18 Pro pre-order",
+      "url": "https://9to5mac.com/2026/09/11/apple-sets-cutoff-time-for-getting-faster-iphone-18-pro-pre-order/",
+      "publishedAt": "2026-09-11T17:05:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPhone 18 Proの事前準備機能の締切を設定",
+      "summaryJa": "iPhone 18 ProおよびPro Maxの予約注文開始に向けて、Appleは事前にモデル選定や下取り、支払い方法などを済ませてスムーズに購入手続きが行える「Get Ready」機能を提供しています。今年の予約開始日は従来より一日後ろ倒しとなっており、事前準備を完了させるための締切時間が設定されています。ユーザーは指定された時間までに選択を済ませることで、当日の混雑を避けて素早く注文を完了させることができます。"
+    },
+    {
+      "id": "1ae01ca944b85a8e7aa6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo Can Do Split View, But Not Like Your iPad",
+      "url": "https://www.macrumors.com/2026/09/11/iphone-duo-split-view-not-like-ipad/",
+      "publishedAt": "2026-09-11T16:26:31.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-apps.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone DuoのSplit View、iPadとは異なる理由",
+      "summaryJa": "Apple初の折りたたみ式iPhoneである「iPhone Duo」は、2つのアプリを左右に並べて表示できる機能を備えています。しかし、iPadのSplit Viewとは異なり、画面分割の比率を自由に変更することはできず、50対50の固定となります。これはデバイスのディスプレイの幾何学的な比率や、開発者のアプリ対応への負担を考慮した設計によるものとみられています。"
+    },
+    {
+      "id": "377bc07b413626685fef",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "The MacRumors Show: iPhone 18 Pro and iPhone Duo Announced!",
+      "url": "https://www.macrumors.com/2026/09/11/the-macrumors-show-iphone-duo/",
+      "publishedAt": "2026-09-11T16:05:01.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhone 18 Proや初の折りたたみiPhoneを発表",
+      "summaryJa": "Appleは、新型のiPhone 18 Proシリーズと初の折りたたみ式モデル「iPhone Duo」を発表しました。iPhone 18 Proは、小型化したDynamic Islandや2nmのA20 Proチップを搭載し、カメラ性能やバッテリー駆動時間が大幅に向上しています。また、Apple Watch Series 12やUltra 4なども同時に発表され、健康管理機能やオーディオインテリジェンスが強化されています。"
+    },
+    {
+      "id": "be49bf2e18fffeed13da",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "iPhone 18 Pro、Apple Watchの最新ラインナップ、AirPods 5の体験がまもなく始まります",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+      "publishedAt": "2026-09-11T16:02:58.333Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "iPhone 18 ProやApple Watch最新モデルの予約がまもなく開始",
+      "summaryJa": "Appleは、iPhone 18 ProおよびiPhone 18 Pro Max、次世代Apple Watch、AirPods 5の予約注文を9月12日より開始すると発表しました。これらの新製品はカメラやパフォーマンス、バッテリー性能などが飛躍的に進化しており、9月18日より世界各国の店舗やオンラインで販売が開始される予定です。Apple Storeでは専門スタッフによる購入サポートや、お得な下取りサービスも提供されます。"
+    },
+    {
+      "id": "d424e4c6b29258c84ca2",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+      "publishedAt": "2026-09-11T16:00:08.631Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "iPhone 18 Proや新型Apple Watchの発売に向けた準備が進む",
+      "summaryJa": "Appleは、iPhone 18 Proシリーズや次世代Apple Watch、AirPods 5の発売に向け、9月12日からの予約注文開始を案内しています。新モデルではカメラやA20 Proチップによるパフォーマンスが大きく向上し、AI機能も強化されています。店頭やオンラインでは、専門スタッフによるパーソナライズされた購入サポートが提供される予定です。"
+    },
+    {
+      "id": "0767189d6ef88e0adb31",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Four ways to achieve shallow depth of field without buying the iPhone 18 Pro",
+      "url": "https://9to5mac.com/2026/09/11/four-ways-to-achieve-shallow-depth-of-field-with-an-older-iphone/",
+      "publishedAt": "2026-09-11T16:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Four-ways-to-achieve-shallow-depth-of-field-with-an-older-iPhone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "古いiPhoneでも浅い被写界深度を再現する4つの方法",
+      "summaryJa": "新型の変数絞りレンズを搭載したモデルが話題ですが、実は古いiPhoneでも被写界深度の浅い写真を撮影する方法がいくつか存在します。ポートレートモードを活用した人工的な背景ぼかしや、マクロモードを利用した物理的なボケ効果など、設定を工夫することで被写体を際立たせることが可能です。新しい端末に買い替えなくても、撮影テクニック次第で魅力的な写真を残すことができます。"
+    },
+    {
+      "id": "398515a161903ddb0270",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s why I left T-Mobile for an MVNO",
+      "url": "https://9to5mac.com/2026/09/11/heres-why-i-left-t-mobile-for-an-mvno/",
+      "publishedAt": "2026-09-11T15:44:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/t-mobile-trash.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "大手キャリアからMVNOへ乗り換えて通信費を抑える理由",
+      "summaryJa": "長年利用してきた大手キャリアの料金値上げに伴い、より安価な代替手段としてMVNOへの乗り換えを決断するユーザーが増えています。MVNOは自社で通信回線を持たず、大手キャリアから回線を借り受けることで低価格なサービスを提供しています。新しいiPhoneの価格高騰に対する負担を軽減するため、通信費を見直す良いきっかけになると紹介されています。"
+    },
+    {
+      "id": "f2fdacb7f1a08e9445ad",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Siri AI is coming: Here are three times it’s really impressed me so far",
+      "url": "https://9to5mac.com/2026/09/11/siri-ai-is-coming-here-are-three-times-its-really-impressed-me-so-far/",
+      "publishedAt": "2026-09-11T15:31:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOSで間もなく登場するAI機能「Siri AI」の便利な活用実例",
+      "summaryJa": "次期iOSで登場する新しい「Siri AI」は、Appleの音声アシスタントに大幅な進化をもたらします。実際に試用したユーザーによると、NFLの試合日程と配信情報を自動でカレンダーに追加したり、過去のメールから車両の登録番号を素早く見つけ出したりと、日常の細かい作業で大きな時間短縮に繋がっているとのことです。"
+    },
+    {
+      "id": "e72c54ddafceda9b516a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: AirPods 5 from $64 w/ trade, AirPods Pro 3, Studio Display XDR $330 off, Ceramic Apple Watch, more",
+      "url": "https://9to5mac.com/2026/09/11/deals-airpods-5-airpods-pro-3-studio-display-series-12/",
+      "publishedAt": "2026-09-11T15:30:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-5-Studio-Display-AirTag.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPods 5やApple Watch最新モデルの早期割引セールが登場",
+      "summaryJa": "新型の「AirPods 5」やApple Watchの最新シリーズの予約が開始され、一部の小売店では早くも割引や下取りを活用したキャンペーンが実施されています。AirPods Pro 3のセール販売も継続しているほか、AirTagの割引や各種周辺機器の特価情報もあわせて公開されており、新製品をお得に入手するチャンスとなっています。"
+    },
+    {
       "id": "9a79254b80b343593b35",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -12,9 +193,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple Watch Ultra 4 vs Ultra 3: Here’s everything new",
-      "summaryJa": "Apple Watch Ultra 4 has the same external look as Ultra 3, but it’s packed with internal upgrades to the chip and health sensors that unlock new and improved features. Here’s everything new in Apple Watch Ultra 4 vs Ultra 3. more… Apple Watch Ultra 4 has the same external look as Ultra 3, but it’s packed with internal upgrades to the chip and health sensors that unlock new and improved features. Here’s everything new in Apple Watch Ultra 4 vs Ultra 3. Performance: S11 chip and 4GB RAM Apple often includes a new chip with its latest Watch models, but most chip updates include only minor changes and minimal performance gains. And last year, Apple opted to stick with the same S10 from 2024. But Apple Watch Ultra 4 has a brand-new S11 chip. S11 unlocks exclusive new software features thanks to",
-      "translationStatus": "source"
+      "titleJa": "Apple Watch Ultra 4とUltra 3の変更点と進化まとめ",
+      "summaryJa": "Apple Watch Ultra 4は前モデルと同じ外観ながら、新開発のS11チップや4GBへの倍増したメモリ、強力な新ヘルスセンサーを搭載しています。心拍数や心拍変動の計測機能が強化され、より詳細な健康管理やフィットネスデータの取得が可能になりました。"
     },
     {
       "id": "678301433c6f30f090a9",
@@ -28,9 +208,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Microsoft Copilot joins CarPlay, leaving Gemini as the biggest holdout",
-      "summaryJa": "Apple CarPlay now works with six major third-party AI chatbot apps. Microsoft Copilot is the latest iPhone app to add CarPlay support. This leaves Google Gemini as the last major holdout for now. more… Apple CarPlay now works with six major third-party AI chatbot apps. Microsoft Copilot is the latest iPhone app to add CarPlay support. This leaves Google Gemini as the last major holdout for now. CarPlay now works with six major third-party AI chatbot apps Starting Monday, CarPlay will also include a dedicated Siri AI app. That’s when iOS 27 will be officially released and out of beta. Siri AI itself will still be in beta and rolled out in waves. Meanwhile, Microsoft has added CarPlay support to its Copilot chatbot app for iPhone. Conversational apps for CarPlay require iOS 26.4 or later. Co",
-      "translationStatus": "source"
+      "titleJa": "Microsoft CopilotがCarplayに対応へ",
+      "summaryJa": "Apple CarPlayの対応アプリにMicrosoft Copilotが新たに追加されました。ChatGPTやClaudeなどに続く形で対応が進む一方、Google Geminiは主要なAIアシスタントの中で唯一未対応となっています。"
     },
     {
       "id": "d2ed77fdc1c0ec49ad68",
@@ -44,9 +223,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "9to5Mac Daily: September 11, 2026 – More on Apple Intelligence, iPhone Duo",
-      "summaryJa": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff :Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. Sponsored by iMazing : iMazing’s platform for data transfer and device management keeps getting better. Get 20% off iMazing with code 9TO5-SEP26-20OFF. more… Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is availab",
-      "translationStatus": "source"
+      "titleJa": "Apple Intelligenceの利用制限や折りたたみ式iPhoneの話題",
+      "summaryJa": "Apple Intelligenceの利用制限に関する詳細や、2026年に登場が期待される折りたたみ式iPhoneに関する情報が伝えられています。ポッドキャスト番組の9to5Mac Dailyでは、これら最新のApple関連ニュースの要約が配信されています。"
     },
     {
       "id": "47e4501cf1311e781dbb",
@@ -60,9 +238,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Amazon Offers Up to $600 Off M5 MacBook Pro, $330 Off Studio Display",
-      "summaryJa": "Huge discounts hit Apple's M5 Pro and M5 Max MacBook Pro this week, with as much as $600 off select models on Amazon. We're also tracking ongoing deals on pre-orders for the new Mac mini and Mac Studio, plus you can pair your new computer with a Studio Display or Studio Display XDR at up to $330 off. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. MacBook Pro What's the deal? Take up to $600 off 2026 MacBook Pro Where can I get it? Amazon Where can I find the original deal? Right here $500 OFF 14-inch M5 Pro MacBook Pro (18-Core/24GB/2TB) for $2,699.00 $600 OFF 14-inch M5 Max MacBook Pro (36GB/2TB) for $3,499.00 $400 OFF 16-inch M5 Max MacBook Pro (36GB/2TB)",
-      "translationStatus": "source"
+      "titleJa": "AmazonでM5搭載MacBook ProやStudio Displayが大幅値引き",
+      "summaryJa": "米Amazonにて、M5 ProおよびM5 Maxチップを搭載したMacBook Proが最大600ドル引きの特別価格で販売されています。また、Studio DisplayやStudio Display XDRも最大330ドル引きの割引対象となっています。"
     },
     {
       "id": "0c26491443155a831dc6",
@@ -4331,189 +4508,9 @@
       ],
       "titleJa": "AmazonセールでAirPods Pro 3などが大幅割引",
       "summaryJa": "Amazonの労働者の日セールにおいて、AirPods Pro 3が50ドルオフの199ドルで販売されているほか、2026年型のApple Studio DisplayやiPad Airなどが特別価格で登場しています。さらに、アンカーの最新モバイルバッテリーやPowerbeats Pro 2などもセール対象となり、多数のApple製品や関連アクセサリーをお得に購入できるチャンスとなっています。"
-    },
-    {
-      "id": "a84b88c9241373ab8da1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AI outage: Claude, ChatGPT, and Grok are currently down for many users [U]",
-      "url": "https://9to5mac.com/2026/09/03/chatgpt-and-codex-are-experiencing-an-outage-for-many-users/",
-      "publishedAt": "2026-09-03T14:57:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ai-outage.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ClaudeやChatGPTなどの主要AIサービスで大規模障害",
-      "summaryJa": "ClaudeやChatGPT、Grokなどの主要な生成AIサービスにおいて、多くのユーザーが利用できない大規模な障害が発生しました。各社は復旧作業を進めており、一部のサービスではすでに正常化しつつあります。今回の障害はOpenAIが次世代モデルの発表を控えているタイミングで発生し、ネット上で大きな話題となりました。"
-    },
-    {
-      "id": "29a3b1c029001e95e385",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Hit With $2.7 Billion Lawsuit Over App Tracking Rules",
-      "url": "https://www.macrumors.com/2026/09/03/apple-hit-with-lawsuit-over-app-tracking/",
-      "publishedAt": "2026-09-03T14:46:47.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/04/generic-tracking-prompt-orange.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、アプリの追跡ルールめぐり約27億円の集団訴訟",
-      "summaryJa": "Appleがロンドンの裁判所に、アプリのトラッキング透明性ルールを巡る約20億ポンド規模の集団訴訟を提起されました。原告側は、Appleが自社の広告サービスには適用しない厳しい制限をサードパーティ製アプリの開発者に課していると主張しています。この訴訟が正式に進行するためには、今後 tribunal による認定を受ける必要があります。"
-    },
-    {
-      "id": "603d8b0d55cb97c286d0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's 2026 Studio Display Gets Steep $214 Discount on Amazon",
-      "url": "https://www.macrumors.com/2026/09/03/studio-display-214-discount/",
-      "publishedAt": "2026-09-03T14:38:53.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/studio-display-2026-pink.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Studio DisplayがAmazonで過去最大級の割引",
-      "summaryJa": "Amazonにて、Nano-Textureガラスと傾き調整スタンドを搭載した2026年型のApple Studio Displayが大幅値引きされています。ページ上のクーポンを適用することで、通常より214ドル安い1,684.88ドルで購入可能です。2026年モデルのStudio Displayシリーズに対する目立った割引としては数ヶ月ぶりであり、大変お得な価格設定となっています。"
-    },
-    {
-      "id": "bc596a300dc3f248e8a5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Ultra's Very High Price and Features Revealed in New Report",
-      "url": "https://www.macrumors.com/2026/09/03/iphone-ultra-features-price-specs/",
-      "publishedAt": "2026-09-03T14:33:59.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみiPhone「iPhone Ultra」の価格と仕様に関する報道",
-      "summaryJa": "台湾の調査会社TrendForceが、Appleが発表すると噂される初の折りたたみ式iPhone「iPhone Ultra」の価格帯や主な仕様について報じました。米国での開始価格は2,099ドルから2,299ドル程度と見込まれ、最高構成では3,000ドルを超える可能性があるとされています。本体には5.5インチの外側ディスプレイと7.8インチの内側ディスプレイを搭載し、A20 Proチップや12GBのメモリを備えると伝えられています。"
-    },
-    {
-      "id": "25b223ad25d2eb7d9f82",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple will launch six major new products next week, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/09/03/apple-will-launch-six-major-new-products-next-week-heres-whats-coming/",
-      "publishedAt": "2026-09-03T14:25:36.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/07/apple-park-rainbow.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleが9月のイベントで6つの主要新製品を投入するか",
-      "summaryJa": "Appleの次期大型イベントを控え、新世代のiPhoneやApple Watch、AirPodsなど6つの主要製品が登場すると報じられています。iPhoneシリーズではProモデルに加えて初の折りたたみ式モデルが予定され、Apple WatchやAirPodsの新型も控えていると伝えられています。さらに、スマートホーム向けの新型ハブ端末といった新製品の発表も噂されており、注目が集まっています。"
-    },
-    {
-      "id": "3374a383557fdfd62ae6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Apparently Cancels Plans for Two New MacBooks",
-      "url": "https://www.macrumors.com/2026/09/03/apple-cancels-plans-for-two-new-macbooks/",
-      "publishedAt": "2026-09-03T14:12:51.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/10/M5-MacBook-Pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、折りたたみMacBookと大型OLEDモデルの計画を中止か",
-      "summaryJa": "調査会社Omdiaによれば、Appleが大型の折りたたみ式MacBookおよび大型のOLED搭載MacBook Proの開発計画を取りやめたと伝えられています。これまで噂されていたこれらの製品群は開発が見送られたものの、OLEDディスプレイを採用する製品戦略自体は変更されていません。今後は新たな13.8インチのMacBookモデルなどが計画に組み込まれ、製品ラインナップの再構築が進められている模様です。"
-    },
-    {
-      "id": "630815b61b16d721b12f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Mini-LED MacBook Pro Models Could Stick Around Until 2028",
-      "url": "https://www.macrumors.com/2026/09/03/mini-led-macbook-pro-models-until-2028/",
-      "publishedAt": "2026-09-03T14:08:28.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens-2.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "MacBook ProのミニLEDモデルは2028年まで継続か",
-      "summaryJa": "調査会社Omdiaの最新ロードマップによると、AppleがMacBookシリーズへのOLEDディスプレイ採用計画を見直し、既存のミニLEDバックライトを搭載したLCDモデルを2028年まで継続して販売する可能性があると報じられています。部品コストの高騰などが背景にあるとされており、OLEDモデルの導入ペースに影響を与えています。このため、しばらくの間は従来モデルと新型が並行して販売される見通しです。"
-    },
-    {
-      "id": "85aab859393d770570bc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "We need to talk about Siri AI for Apple Watch",
-      "url": "https://9to5mac.com/2026/09/03/we-need-to-talk-about-siri-ai-for-apple-watch/",
-      "publishedAt": "2026-09-03T14:07:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-apple-watch-1.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch向けSiri AIの最新ベータ版で動作が改善か",
-      "summaryJa": "今夏のwatchOS 27ベータ版でApple Watchに導入されたSiri AIは、動作が極めて遅く、実用に耐えない状態が続いていました。しかし、最近リリースされたベータ8においてパフォーマンスの改善が見られ、これまで指摘されていた問題点がようやく解消に向かっていると伝えられています。"
-    },
-    {
-      "id": "5dcbc9aae0305f83646c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Brydge announces color-matched keyboards for the entry-level iPad",
-      "url": "https://9to5mac.com/2026/09/03/brydge-announces-color-matched-keyboards-for-the-entry-level-ipad/",
-      "publishedAt": "2026-09-03T14:00:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Brydge-announces-color-matched-keyboards-for-the-entry-level-iPad.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Brydge、エントリー向けiPadの本体カラーに合わせたキーボードを発表",
-      "summaryJa": "周辺機器メーカーのBrydgeが、エントリー向けiPadの4つの本体色に合わせたアルミニウム製キーボードを発表しました。iPadの色と完全にマッチするアルマイト処理が施されており、ガラス製マルチタッチトラックパッドやバックライト付きキーを搭載しています。価格は159ドルで、今月中旬から同社サイトやAmazonストアなどで販売される予定です。"
-    },
-    {
-      "id": "132cc99ff556554c38b4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "'MacBook Ultra' Rumored to Have M5 Ultra Chip Option",
-      "url": "https://www.macrumors.com/2026/09/03/macbook-ultra-m5-ultra-chip-rumor/",
-      "publishedAt": "2026-09-03T13:56:33.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "MacBook Ultra、M5 Ultraチップ搭載の可能性が浮上",
-      "summaryJa": "調査会社Omdiaのアナリストであるデヴィッド・シエ氏によると、Appleが2027年初頭までに発売すると予測されるOLEDディスプレイ搭載のMacBook Proモデルに、M5 Ultraチップのオプションが用意される可能性があると報じられています。このモデルは「MacBook Ultra」として展開されるとの見方もありますが、過去にUltraチップを搭載したMacBookが存在しないため、今後の動向に注目が集まっています。"
-    },
-    {
-      "id": "791046ab7f98e06a4bf9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Reportedly Planning All-New MacBook Model Between Air and Pro",
-      "url": "https://www.macrumors.com/2026/09/03/apple-new-oled-macbook-between-air-pro/",
-      "publishedAt": "2026-09-03T13:50:28.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/MacBook-Air-Hello.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、AirとProの間に位置する新型13.8インチOLED搭載MacBookを計画か",
-      "summaryJa": "調査会社Omdiaの最新ロードマップによると、Appleは2029年にMacBook AirとMacBook Proの中間に位置する13.8インチの新型OLED MacBookを投入する可能性があると伝えられています。この新型モデルは、ハイブリッドOLEDパネルやLTPO+バックパネルを採用し、画面下カメラなどの新機能が組み込まれる見通しです。ただし、Appleの計画は変更される可能性もあるため、今後の正式発表が注目されます。"
-    },
-    {
-      "id": "d1eb6cf1146f2923d0c2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple faces yet another lawsuit over App Tracking Transparency, with a twist",
-      "url": "https://9to5mac.com/2026/09/03/apple-faces-yet-another-lawsuit-over-app-tracking-transparency-with-a-twist/",
-      "publishedAt": "2026-09-03T13:20:58.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-faces-yet-another-lawsuit-over-App-Tracking-Transparency.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、アプリのトラッキング透明性をめぐり英国で新たな訴訟に直面",
-      "summaryJa": "Appleのプライバシー保護機能である「App Tracking Transparency（ATT）」をめぐり、英国で新たな訴訟が提起されました。ATTはユーザーにデータの追跡許可を選択させる仕組みですが、Apple自身のアプリには同様の許可ポップアップが表示されないことなどを理由に、これまでも独占禁止法関連の訴訟や規制当局からの追及が相次いでいます。プライバシー重視の姿勢が再び法的な議論の的となっています。"
     }
   ],
-  "updatedAt": "2026-09-11T15:04:09.159Z",
+  "updatedAt": "2026-09-11T18:25:12.260Z",
   "initialized": true,
   "summaryVersion": 4
 }
