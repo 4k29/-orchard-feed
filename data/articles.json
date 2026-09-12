@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "3b66a9f4238ae56b9b72",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Says iPhone 18 Pro Max Sold in U.S. Differs in One Way",
+      "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/",
+      "publishedAt": "2026-09-12T22:27:26.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "米国のiPhone 18 Pro Max、モデム仕様に違いか",
+      "summaryJa": "Appleが公開した技術仕様ページから、米国で販売されるiPhone 18 Pro Maxには自社製の最新C2モデムではなくQualcomm製モデムが搭載されていることが明らかになりました。iPhone 18 Proの全世界モデルや米国以外のPro MaxにはC2モデムが採用されている一方で、米国版だけ仕様が異なる理由については言及されていません。Qualcommとの供給契約を維持するための措置である可能性が指摘されており、今後の実性能テストや詳細な検証に注目が集まっています。"
+    },
+    {
       "id": "8b075797e8a67c5bdaee",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4493,24 +4508,9 @@
       ],
       "titleJa": "Apple、TestFlightの表示不具合を修正へ",
       "summaryJa": "Appleは、TestFlightアプリでベータ版アプリの表示順がアルファベット順になっていた仕様を修正し、最新のベータ版をデフォルトで再び表示するように変更しました。今年7月のアップデートで検索機能が追加された際に表示方法が変わっていましたが、最新のバージョン4.3.1で改善されています。"
-    },
-    {
-      "id": "efcaf3b9d33a2b493d86",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Leaked iPhone roadmap reveals plans for larger foldable, ‘biggest overhaul,’ more",
-      "url": "https://9to5mac.com/2026/09/04/leaked-iphone-roadmap-reveals-plans-for-larger-foldable-biggest-overhaul-more/",
-      "publishedAt": "2026-09-04T15:48:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tim-cook-iphone-15-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "将来のiPhoneロードマップと折りたたみモデルの噂",
-      "summaryJa": "ブルームバーグの報道によると、Appleは今後数年間の新製品ロードマップを進めており、2026年のイベントではiPhone 18 Proシリーズや折りたたみ式モデルが登場すると伝えられています。さらに、2027年にはiPhoneの20周年を記念した大幅なデザイン刷新や、次世代のiPhone Airなどが計画されていると報じられています。"
     }
   ],
-  "updatedAt": "2026-09-12T21:00:20.253Z",
+  "updatedAt": "2026-09-12T22:58:41.216Z",
   "initialized": true,
   "summaryVersion": 4
 }
