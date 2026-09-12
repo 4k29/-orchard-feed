@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "89cd1b1e2d9cafacbd4c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple nailed iPhone Duo split screen, even as iPad multitasking feels convoluted",
+      "url": "https://9to5mac.com/2026/09/12/apple-nailed-iphone-duo-split-screen-even-as-ipad-multitasking-feels-convoluted/",
+      "publishedAt": "2026-09-12T16:47:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-14.16.28.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone Duoの画面分割が示す、iPadのマルチタスクの課題",
+      "summaryJa": "今週発表された折りたたみ式のiPhone Duoは、ホーム画面を確認しながらアプリを画面半分に配置できる洗練されたマルチタスク機能を備えています。しかし、iPadOSのウィンドウ管理システムは複雑なままであり、多くのユーザーにとって不便を感じさせる要因となっています。iPhone Duoで実現したシンプルで優れた画面分割の仕組みを、iPadシリーズにも導入すべきだという期待が高まっています。"
+    },
+    {
       "id": "27f0856211e2fb25ace9",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4493,24 +4508,9 @@
       ],
       "titleJa": "労働節セールでStudio DisplayやMac miniが割引に",
       "summaryJa": "米国の労働節の週末に合わせ、AmazonなどでApple製品のセールが実施されています。Studio Displayが大幅値引きとなっているほか、新型Mac miniの予約割引なども登場しており、今年最安値水準の価格で購入できるチャンスとなっています。"
-    },
-    {
-      "id": "b13ace474df2ab9afa2e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: AirPods, Apple 2026 Studio Displays up to $500 off, M5 MacBook Air $150 off, new Dark Cherry chargers, more",
-      "url": "https://9to5mac.com/2026/09/04/deals-airpods-apple-studio-display-m5-macbook-air/",
-      "publishedAt": "2026-09-04T15:29:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-MacBook-Air-Dark-Cherry-chargers.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AmazonとBest Buyが労働節セールでApple製品を多数値下げ",
-      "summaryJa": "労働節の週末セールに向け、AmazonやBest Buyなどの大手小売がApple製品の大型割引を展開しています。AirPods Pro 3やStudio Display、M5搭載MacBook Airなどが特別価格となっており、各種アクセサリもあわせてお買い得になっています。"
     }
   ],
-  "updatedAt": "2026-09-12T16:33:18.069Z",
+  "updatedAt": "2026-09-12T18:43:36.418Z",
   "initialized": true,
   "summaryVersion": 4
 }
