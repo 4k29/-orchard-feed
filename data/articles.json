@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "27f0856211e2fb25ace9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Top Stories: Apple Event Recap With iPhone Duo, iPhone 18 Pro, Apple Watch, and AirPods",
+      "url": "https://www.macrumors.com/2026/09/12/top-stories-apple-event-recap-iphone-duo/",
+      "publishedAt": "2026-09-12T16:00:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/top-stories-2026-09-12.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、折りたたみ式iPhone DuoやiPhone 18 Proを発表",
+      "summaryJa": "Appleは新製品発表イベントを開催し、初の折りたたみ式スマートフォン「iPhone Duo」や「iPhone 18 Pro」シリーズ、新しいApple Watch、AirPodsを発表しました。iPhone Duoは外側に通常のスマートフォンサイズの画面を備え、開くとiPad miniに近い大型画面になるのが特徴です。予約受付は10月中旬に開始され、その他の製品は翌週から順次発売されます。"
+    },
+    {
+      "id": "9ceff98d5eb5956f45a4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "ESR’s iPhone accessory lineup is ready for Apple’s foldable era",
+      "url": "https://9to5mac.com/2026/09/12/esrs-iphone-accessory-lineup-ready-apples-foldable-era/",
+      "publishedAt": "2026-09-12T16:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/1.-KV.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ESR、新型折りたたみiPhone Duo向けケース製品を準備",
+      "summaryJa": "アクセサリーメーカーのESRが、新発表された折りたたみ式のiPhone DuoやiPhone 18 Proシリーズに対応する豊富なアクセサリラインナップを準備しています。中でも注目されるのはiPhone Duo用のヴィーガンレザーケースで、ヒンジや外側画面の保護と薄型デザインを両立させています。日常的な摩耗や汚れに強い耐久性を備えた高品質な仕上がりとなっています。"
+    },
+    {
+      "id": "a745325263b7b78af056",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo can add fake bezel to the outside screen for better case compatibility",
+      "url": "https://9to5mac.com/2026/09/12/iphone-duo-fake-bezel-case-compatibility/",
+      "publishedAt": "2026-09-12T15:32:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-shift-left-edge-setting.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone Duo、外側画面に疑似ベゼルを追加する設定を発見",
+      "summaryJa": "新型の折りたたみ式スマートフォン「iPhone Duo」のディスプレイ設定に、外側画面の左側に黒い縁（疑似的なベゼル）を追加する「Shift Left Edge」というユニークな項目が見つかりました。この設定は、一部のケースが画面の左端を覆う際にコンテンツの位置をずらし、視認性を確保するための機能と説明されています。他社製の頑丈なケースなどとの組み合わせで活用される可能性があります。"
+    },
+    {
+      "id": "186b6bc830ce59ce210b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Didn't Pre-Order iPhone 18 Pro Yet? Here's How Long the Wait is Now",
+      "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-pre-order-shipping-dates/",
+      "publishedAt": "2026-09-12T13:48:45.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Black.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの予約開始、モデルによりお届けが10月に遅延",
+      "summaryJa": "米国などで「iPhone 18 Pro」および「iPhone 18 Pro Max」の予約受付が開始されましたが、早くも一部の構成モデルではお届け予定が10月にずれ込む状況となっています。発売日当日の確実な入手を狙う多くのユーザーが殺到したため、カラーや容量によっては待ち時間が発生しています。今後の在庫状況や選択するモデルによって、自宅に届くまでの期間がさらに変動する見込みです。"
+    },
+    {
       "id": "5c4040771b435c1b88bf",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4448,69 +4508,9 @@
       ],
       "titleJa": "AmazonとBest Buyが労働節セールでApple製品を多数値下げ",
       "summaryJa": "労働節の週末セールに向け、AmazonやBest Buyなどの大手小売がApple製品の大型割引を展開しています。AirPods Pro 3やStudio Display、M5搭載MacBook Airなどが特別価格となっており、各種アクセサリもあわせてお買い得になっています。"
-    },
-    {
-      "id": "84365bbb8cbe34997bf1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Testing New HomePod With Siri AI",
-      "url": "https://www.macrumors.com/2026/09/04/apple-testing-new-homepod-with-siri-ai/",
-      "publishedAt": "2026-09-04T15:25:33.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2023/01/HomePod-2-White-and-Midnight-Feature-Blue-Orange.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、Siri AI対応の新型HomePodをテスト中か",
-      "summaryJa": "AppleがSiriにAI機能を統合した新しい大型HomePodをテストしていると、Bloombergのマーク・ガーマン記者が報じました。ただし、現時点で新モデルの発売は差し迫ったものではないとされており、すぐの登場は期待薄と見られています。"
-    },
-    {
-      "id": "1c4883ae3779a4d10818",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 20 Rumored to Have Biggest Revamp Since iPhone X",
-      "url": "https://www.macrumors.com/2026/09/04/iphone-20-biggest-revamp-since-iphone-x/",
-      "publishedAt": "2026-09-04T15:10:58.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/All-Screen-iPhone-2030-Feature-Sans-Text.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "次世代iPhoneはiPhone X以来の大幅な刷新を計画か",
-      "summaryJa": "Appleが誕生20周年を迎える時期に合わせて、iPhone X以来最大規模となるデザイン刷新を計画していると報じられました。すべての角や縁が曲面ガラスで覆われ、ベゼルがさらに薄くなった記念モデルが登場する可能性があると伝えられています。"
-    },
-    {
-      "id": "ef546865b72610552cb3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV’s big fall lineup: Here’s every new show and movie coming soon",
-      "url": "https://9to5mac.com/2026/09/04/apple-tvs-fall-lineup-reveals-every-new-show-and-movie-coming-soon/",
-      "publishedAt": "2026-09-04T15:02:32.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-tv-logo-mountains-lg.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、今秋配信の注目作品ラインナップを公開",
-      "summaryJa": "Apple TVで配信される今秋の注目映画やテレビ番組のラインナップが明らかになりました。ライアン・レイノルズとケネス・ブラナーが共演するアクションコメディ映画『Mayday』や、行方不明の娘を捜す警察官を描くスリラー番組『Last Seen』などが順次登場する予定です。今後もさらなるプレミア公開の発表が期待されており、配信作品の充実に注目が集まります。"
-    },
-    {
-      "id": "7579dcbf5615dc84a1ee",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: September 4, 2026 – iPhone Ultra and iPhone 18 Pro rumors",
-      "url": "https://9to5mac.com/2026/09/04/daily-september-4-2026/",
-      "publishedAt": "2026-09-04T14:55:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone UltraやiPhone 18 Proの最新動向を解説",
-      "summaryJa": "ポッドキャスト番組9to5Mac Dailyの最新エピソードでは、Apple関連の注目ニュースが総括されています。Mac App StoreアプリでのIntelサポート終了に関する通知や、新型iPhone Ultraの仕様およびマルチタスク機能の噂が取り上げられています。さらに、iPhone 18 Pro向けメモリ価格の上昇傾向や、オープンAIとアップルを巡る動向についても触れられています。"
     }
   ],
-  "updatedAt": "2026-09-12T13:45:06.884Z",
+  "updatedAt": "2026-09-12T16:33:18.069Z",
   "initialized": true,
   "summaryVersion": 4
 }
