@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "c1f61405e6947a6370e3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp rolling out redesigned iPad interface with Mac-like sidebar",
+      "url": "https://9to5mac.com/2026/09/11/whatsapp-rolling-out-redesigned-ipad-interface-with-mac-like-sidebar/",
+      "publishedAt": "2026-09-11T23:34:48.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp、iPad向けアプリにMac風のサイドバーを導入か",
+      "summaryJa": "WhatsAppがiPad向けアプリのデザイン刷新を進めており、従来のボトムタブバーに代わってMac版のようなサイドバーを導入しつつあると報じられています。チャットや通話などの主要セクションに素早くアクセスできるようになり、サイドバーを非表示にして会話画面を広く使うことも可能です。現在は一部のベータテスターやApp Storeの一部ユーザーを対象に展開されています。"
+    },
+    {
       "id": "aae5a2d725653aa0130d",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4493,24 +4508,9 @@
       ],
       "titleJa": "折りたたみiPhoneの生産、品質基準の高さから1日数百台にとどまるとの報道",
       "summaryJa": "Nikkei Asiaの報道によると、Appleが準備を進めている新型折りたたみ式iPhoneの生産台数が、厳格な品質管理基準の影響で8月下旬時点で1日あたりわずか数百台にとどまっていると伝えられています。ディスプレイの耐久性テストやヒンジ構造の歩留まり向上が主なボトルネックとなっており、発売時の供給体制に影響を与える可能性があります。"
-    },
-    {
-      "id": "2223a7e80bfaa785c3be",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Is Testing a Four-HomePod Surround System, Code Suggests",
-      "url": "https://www.macrumors.com/2026/09/04/apple-testing-four-homepod-surround-system/",
-      "publishedAt": "2026-09-04T09:30:01.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/homepods-four.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、4基のHomePodを用いたサラウンドシステムをテスト中か",
-      "summaryJa": "audioOSのベータ版コードから、Appleが4基のHomePodを組み合わせたホームシアター向けのサラウンドシステムや、新しいパーティモードをテストしていることが明らかになりました。ソフトウェア内では、フロントとリアに配置した4台のスピーカーの自動キャリブレーションや位置マッピングなどの言及が見つかっています。これが将来の製品として実際にリリースされるかは現時点不明です。"
     }
   ],
-  "updatedAt": "2026-09-11T23:16:40.765Z",
+  "updatedAt": "2026-09-12T01:17:01.765Z",
   "initialized": true,
   "summaryVersion": 4
 }
