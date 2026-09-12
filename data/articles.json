@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "90138a751ffdef679f12",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Store Down Ahead of iPhone 18 Pro Pre-Orders",
+      "url": "https://www.macrumors.com/2026/09/12/apple-store-down-iphone-18-pro-pre-orders/",
+      "publishedAt": "2026-09-12T06:30:38.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-store-down-2026-iphone-18-pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Store、iPhone 18 Proの予約受付を前にメンテナンス入り",
+      "summaryJa": "iPhone 18 ProおよびiPhone 18 Pro Maxの予約受付開始を控え、Appleのオンラインストアがメンテナンスに入りました。米国をはじめ世界65以上の国と地域で同日より予約が始まり、9月18日の発売日に店頭販売や配送が開始される予定です。新モデルでは新たに2TBのストレージオプションがProモデルに追加されるなど、ラインナップの拡充が注目されています。"
+    },
+    {
       "id": "98956ad3398e58f9bd3b",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4493,24 +4508,9 @@
       ],
       "titleJa": "折りたたみiPhone Ultra、品質基準により生産台数が制限か",
       "summaryJa": "Appleが初の折りたたみ式iPhoneである「iPhone Ultra」の生産において、厳しい品質管理基準により現在は1日あたり数百台規模の製造にとどまっていると報じられています。表面の平らさやヒンジの性能向上に向けた試行錯誤が続いており、市場の需要を満たす上で課題となる可能性があります。"
-    },
-    {
-      "id": "9a8b5d6603831c1b7a2a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple fixes frustrating TestFlight app regression that search feature update added",
-      "url": "https://9to5mac.com/2026/09/04/apple-fixes-frustrating-testflight-app-regression-that-search-feature-update-added/",
-      "publishedAt": "2026-09-04T13:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/testflight-app.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、TestFlightアプリの検索機能追加に伴う不具合を修正",
-      "summaryJa": "AppleがTestFlightアプリに検索機能を追加した最新アップデートにおいて、期限切れのベータ版アプリが有効なベータ版のリストに混ざってアルファベット順に表示されるようになる不具合が発生しました。待望の検索機能の実装一方で、予期せぬ表示崩れに戸惑うユーザーの声が上がっており、今後の修正による改善が期待されます。"
     }
   ],
-  "updatedAt": "2026-09-12T05:59:02.820Z",
+  "updatedAt": "2026-09-12T10:37:43.131Z",
   "initialized": true,
   "summaryVersion": 4
 }
