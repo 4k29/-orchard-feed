@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "8b075797e8a67c5bdaee",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Indie App Spotlight: ‘Farwave’ lets you listen to radio stations around the world",
+      "url": "https://9to5mac.com/2026/09/12/indie-app-spotlight-farwave-lets-you-listen-to-radio-stations-around-the-world/",
+      "publishedAt": "2026-09-12T19:30:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Farwave-app.png?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "世界中のラジオ局を3D空間で探索できるオーディオアプリ「Farwave」",
+      "summaryJa": "Farwaveは、美しい3Dの地球儀ビジュアルを使って世界中のラジオ局を探索できるユニークなオーディオプレーヤーアプリです。ラジオだけでなく、ポッドキャストや音楽の再生にも対応しており、それぞれ異なる惑星のようなビジュアルで楽しむことができます。iPhoneやiPad向けにApp Storeで配信されており、iOS 18以降に対応しています。"
+    },
+    {
       "id": "89cd1b1e2d9cafacbd4c",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4493,24 +4508,9 @@
       ],
       "titleJa": "将来のiPhoneロードマップと折りたたみモデルの噂",
       "summaryJa": "ブルームバーグの報道によると、Appleは今後数年間の新製品ロードマップを進めており、2026年のイベントではiPhone 18 Proシリーズや折りたたみ式モデルが登場すると伝えられています。さらに、2027年にはiPhoneの20周年を記念した大幅なデザイン刷新や、次世代のiPhone Airなどが計画されていると報じられています。"
-    },
-    {
-      "id": "48b15cbdef0fc618100c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Labor Day Deals Offer Up to $330 Off Studio Displays and Mac Mini Pre-Order Savings",
-      "url": "https://www.macrumors.com/2026/09/04/best-apple-deals-of-the-week-9-4-26/",
-      "publishedAt": "2026-09-04T15:34:23.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "労働節セールでStudio DisplayやMac miniが割引に",
-      "summaryJa": "米国の労働節の週末に合わせ、AmazonなどでApple製品のセールが実施されています。Studio Displayが大幅値引きとなっているほか、新型Mac miniの予約割引なども登場しており、今年最安値水準の価格で購入できるチャンスとなっています。"
     }
   ],
-  "updatedAt": "2026-09-12T18:43:36.418Z",
+  "updatedAt": "2026-09-12T21:00:20.253Z",
   "initialized": true,
   "summaryVersion": 4
 }
