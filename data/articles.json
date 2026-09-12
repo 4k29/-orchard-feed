@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "98956ad3398e58f9bd3b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "How to Pre-Order iPhone 18 Pro From Apple and Get the Model You Want on Launch Day",
+      "url": "https://www.macrumors.com/how-to/pre-order-your-iphone-18-pro-from-apple/",
+      "publishedAt": "2026-09-12T05:50:04.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-iPhone-18-Pro-color-lineup-16x9-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの予約注文で発売日に入手するためのコツ",
+      "summaryJa": "Appleが発表した「iPhone 18 Pro」および「iPhone 18 Pro Max」の予約注文に向けて、発売日に確実に入手するための事前準備や注意点が紹介されています。Apple Storeアプリの「Get Ready」機能を利用して、モデル選択や支払い方法を事前に設定しておくことで、予約開始時にスムーズな決済が可能になります。人気モデルはすぐに出荷日が遅れる傾向があるため、素早い手続きが重要となります。"
+    },
+    {
+      "id": "519b0138b034348d48ba",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple researchers unveil SimpleDesign, a new AI model for protein design",
+      "url": "https://9to5mac.com/2026/09/11/apple-researchers-unveil-simpledesign-a-new-ai-model-for-protein-design/",
+      "publishedAt": "2026-09-12T01:56:26.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-simplefold-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、タンパク質設計の新しいAIモデル「SimpleDesign」を発表",
+      "summaryJa": "Appleの研究者らが、タンパク質の配列と構造を同時に生成できる新しい効率的なAIモデル「SimpleDesign」の詳細を公開しました。昨年発表された3D構造予測モデル「SimpleFold」の技術をさらに発展させたもので、複雑な多段階プロセスを簡素化し、汎用的なトランスフォーマーブロックを活用しているのが特徴です。タンパク質設計の分野における新たなアプローチとして注目されています。"
+    },
+    {
       "id": "c1f61405e6947a6370e3",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4478,39 +4508,9 @@
       ],
       "titleJa": "Apple、TestFlightアプリの検索機能追加に伴う不具合を修正",
       "summaryJa": "AppleがTestFlightアプリに検索機能を追加した最新アップデートにおいて、期限切れのベータ版アプリが有効なベータ版のリストに混ざってアルファベット順に表示されるようになる不具合が発生しました。待望の検索機能の実装一方で、予期せぬ表示崩れに戸惑うユーザーの声が上がっており、今後の修正による改善が期待されます。"
-    },
-    {
-      "id": "658aeea69830e4569d6d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Ugreen Launches HomeAgent AI Hubs and Liquid-Cooled Qi2 Charger",
-      "url": "https://www.macrumors.com/2026/09/04/ugreen-launches-homeagent-hubs-qi2-chargers/",
-      "publishedAt": "2026-09-04T11:57:58.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/ugreen-HA100-2.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Ugreen、セキュリティストレージやAI機能を備えたホームハブを発表",
-      "summaryJa": "周辺機器メーカーのUgreenが、セキュリティカメラのストレージやデバイス制御を統合した初のスマートホームプラットフォーム「HomeAgent」を発表しました。月額料金なしでの映像保存やオンデバイスAIによる人物・ペット等の認識機能を備え、Matter規格に対応した多彩なサードパーティ製スマート家電の操作が可能です。"
-    },
-    {
-      "id": "f2cdb5c305dbc82d3ff5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Ultra Production Hitting Just 'a Few Hundred' a Day, Says Nikkei",
-      "url": "https://www.macrumors.com/2026/09/04/iphone-ultra-production-extremely-limited/",
-      "publishedAt": "2026-09-04T10:09:03.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみiPhoneの生産、品質基準の高さから1日数百台にとどまるとの報道",
-      "summaryJa": "Nikkei Asiaの報道によると、Appleが準備を進めている新型折りたたみ式iPhoneの生産台数が、厳格な品質管理基準の影響で8月下旬時点で1日あたりわずか数百台にとどまっていると伝えられています。ディスプレイの耐久性テストやヒンジ構造の歩留まり向上が主なボトルネックとなっており、発売時の供給体制に影響を与える可能性があります。"
     }
   ],
-  "updatedAt": "2026-09-12T01:17:01.765Z",
+  "updatedAt": "2026-09-12T05:59:02.820Z",
   "initialized": true,
   "summaryVersion": 4
 }
