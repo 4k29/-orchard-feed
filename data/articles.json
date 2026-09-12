@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "5c4040771b435c1b88bf",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work: The three prongs of software updates in the AI era",
+      "url": "https://9to5mac.com/2026/09/12/apple-work-the-three-prongs-of-software-updates-in-the-ai-era/",
+      "publishedAt": "2026-09-12T13:33:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AI時代の到来で変わりゆくApple製品のソフトウェア更新",
+      "summaryJa": "AIツールによって脆弱性の自動発見が進む中、ソフトウェア更新は従来の定期的なサイクルから、より迅速で継続的なクラウド更新の時代へ移行しつつあります。IT管理者はこうした変化に適応し、最新のパッチ管理体制を整える必要性に迫られています。"
+    },
+    {
+      "id": "27e85a0c0d6bcf7577e7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Weekend Apple deals: AirPods 5, Pro 3, Apple Watch Series 12, AirTag 2, Studio Display, MacBook, more",
+      "url": "https://9to5mac.com/2026/09/12/weekend-apple-deals-airpods-5-apple-watch-series-12/",
+      "publishedAt": "2026-09-12T13:29:05.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-weekend-deals-AirPods-5-Series-12.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "週末のApple製品お得情報：AirPodsやMacなど",
+      "summaryJa": "最新のAirPodsシリーズやApple Watchの予約開始に伴い、関連するお得な割引情報が多数登場しています。AirPods Pro 3の値下げをはじめ、AirTag 2の最安値タイ記録、Mac miniやMacBook Proの大幅な割引なども対象となっています。"
+    },
+    {
+      "id": "f342db3eba7349a735b0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Best iPhone 18 Pro cases now available for purchase",
+      "url": "https://9to5mac.com/2026/09/12/best-iphone-18-pro-cases-now-available/",
+      "publishedAt": "2026-09-12T13:18:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新型iPhone 18 Pro向けおすすめケースが続々登場",
+      "summaryJa": "Appleの最新スマートフォン向けケースの予約受付が開始され、主要なサードパーティブランドからも続々と製品が登場しています。Apple純正のシリコンやTechWovenモデルに加え、NomadやSpigenなど定番ブランドの手頃な価格の製品も選ぶことができます。"
+    },
+    {
+      "id": "bb915b446fbbc076027a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "You can now pre-order iPhone 18 Pro and iPhone 18 Pro Max",
+      "url": "https://9to5mac.com/2026/09/12/you-can-now-pre-order-iphone-18-pro-and-iphone-18-pro-max/",
+      "publishedAt": "2026-09-12T12:02:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-lineup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 ProおよびPro Maxの予約受付が開始",
+      "summaryJa": "Appleは新型のiPhone 18 ProおよびiPhone 18 Pro Maxの予約受付を開始しました。可変絞りカメラシステムや小型化したDynamic Island、高性能なA20 Proチップを搭載し、バッテリー持ちや充電速度も大幅に向上しています。"
+    },
+    {
+      "id": "614ce74d5e399d86be2e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro and iPhone 18 Pro Max Now Available to Pre-Order",
+      "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-available-to-pre-order/",
+      "publishedAt": "2026-09-12T12:01:24.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Pre-Orders-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhone 18 Proの予約受付を開始",
+      "summaryJa": "Appleは、オンラインストアやApple StoreアプリにてiPhone 18 ProおよびiPhone 18 Pro Maxの事前予約の受付を開始しました。新モデルは可変絞りのメインカメラ、高速なA20 Proチップ、冷却性能の向上などが特徴となっています。世界65以上の国と地域で展開され、商品の届け出は9月18日金曜日から順次開始される予定です。"
+    },
+    {
+      "id": "c46bf68337a70cd4cb41",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Here Are The Best Carrier Deals You Can Get When Pre-Ordering iPhone 18 Pro Today",
+      "url": "https://www.macrumors.com/2026/09/12/best-carrier-deals-iphone-18-pro/",
+      "publishedAt": "2026-09-12T12:00:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-burgundy-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "米キャリア各社、iPhone 18 Proの予約開始に伴う割引キャンペーンを発表",
+      "summaryJa": "米国の主要通信キャリアであるAT&TやT-Mobileは、iPhone 18 ProおよびiPhone 18 Pro Maxの予約開始に合わせて、最大1,200ドルの割引キャンペーンを発表しました。対象機種の下取りや条件付きプランへの加入などを組み合わせることで、実質負担を大幅に抑えて購入することが可能です。"
+    },
+    {
       "id": "90138a751ffdef679f12",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4418,99 +4508,9 @@
       ],
       "titleJa": "iPhone UltraやiPhone 18 Proの最新動向を解説",
       "summaryJa": "ポッドキャスト番組9to5Mac Dailyの最新エピソードでは、Apple関連の注目ニュースが総括されています。Mac App StoreアプリでのIntelサポート終了に関する通知や、新型iPhone Ultraの仕様およびマルチタスク機能の噂が取り上げられています。さらに、iPhone 18 Pro向けメモリ価格の上昇傾向や、オープンAIとアップルを巡る動向についても触れられています。"
-    },
-    {
-      "id": "ebcce5cc19a81b7e3a2d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New iPhone 18 Pro report details flagship camera feature and more",
-      "url": "https://9to5mac.com/2026/09/04/new-iphone-18-pro-report-details-flagship-camera-feature-and-more/",
-      "publishedAt": "2026-09-04T14:36:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの新機能、メカニカル絞りや冷却性能について報道",
-      "summaryJa": "Bloombergのマーク・ガーマン記者が、来週発表される予定のiPhone 18 ProおよびPro Maxに関する最新の予測を報じました。新たに「メカニカル絞り」と呼ばれるカメラ機能が搭載され、光の微調整や深度コントロールが可能になると伝えられています。また、バッテリー駆動時間の向上に加え、発熱を抑えるための改良されたベイパーチャンバーや独自開発のC2モデムの搭載も言及されています。"
-    },
-    {
-      "id": "78b7b0e2be1e167dc1a1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Planning to Update MacBook Neo in Three Ways",
-      "url": "https://www.macrumors.com/2026/09/04/macbook-neo-2-rumors/",
-      "publishedAt": "2026-09-04T14:17:36.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/MacBook-Neo-on-Yellow-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、第2世代MacBook Neoを2027年に計画か",
-      "summaryJa": "Bloombergのマーク・ガーマン記者が、Appleが2027年に第2世代となるMacBook Neoのリリースを計画していると報じました。次期モデルではA19 Proチップの搭載、12GBへのメモリ増設、そして新しいカラーバリエーションの追加という3つのアップデートが行われる見通しです。現行モデルはA18 Proチップと8GBメモリを搭載して2026年3月に発売されており、今後の展開に関心が寄せられています。"
-    },
-    {
-      "id": "1b7124a75f834e7f8b39",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Reportedly Plans to Release These 14 Products by Early Next Year",
-      "url": "https://www.macrumors.com/2026/09/04/apple-14-more-products-by-early-next-year/",
-      "publishedAt": "2026-09-04T13:55:33.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Apple-Event-Logo.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleが今後早期に投入すると噂される14製品のリストが報じられる",
-      "summaryJa": "Bloombergのマーク・ガーマン記者が、Appleが今後数週間から2027年初頭にかけて発表すると予想される製品の長いリストを共有しました。新型のiPhone 18 Proシリーズや、7.7インチの内側ディスプレイを備えると噂される折りたたみ式の「iPhone Ultra」などが挙げられています。また、Apple Watch Series 12やApple Watch Ultra 4といった次世代スマートウォッチについても、より高速なチップや健康トラッキング機能の向上が期待されています。これらの新製品は今後のイベントやリリースを通じて順次明らかにされる見通しです。"
-    },
-    {
-      "id": "3b96635c6cb40b64d4ec",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple working on new surround sound, Party Mode features for HomePod",
-      "url": "https://9to5mac.com/2026/09/04/apple-working-on-new-surround-sound-party-mode-features-for-homepod/",
-      "publishedAt": "2026-09-04T13:47:17.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/homepod-ios-27-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、HomePod向けの新機能やサラウンド技術を開発中か",
-      "summaryJa": "audioOSのコードから、AppleがHomePod向けに新しいサラウンドサウンドシステムや「パーティモード」などの新機能を開発していることが判明したと報じられています。コードには、4台の第2世代HomePodを組み合わせてそれぞれの役割を最適化する立体音響システムなどが含まれており、今後のアップデートや新ハードウェアへの展開が注目されています。"
-    },
-    {
-      "id": "092fe0890cf5672c532d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple plans to launch home security and monitoring service: report",
-      "url": "https://9to5mac.com/2026/09/04/apple-plans-to-launch-home-security-and-monitoring-service-report/",
-      "publishedAt": "2026-09-04T13:29:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/11/An-Apple-security-camera-could-recognize-people-even-if-their-face-isnt-visible.jpg?quality=82&#038;strip=all&#038;w=1200",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、2027年にホームセキュリティおよび監視サービスを計画か",
-      "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、Appleは2027年に向けたホームセキュリティおよび監視サービスの投入を計画していると報じられています。プライバシーに配慮し、実際の映像ではなくAIを用いて周辺環境を監視する仕組みや、新しいセキュリティカメラ・自動化デバイスの連動が検討されている模様です。将来的にApple Oneへの統合なども期待されています。"
-    },
-    {
-      "id": "622ecdcd87456fdb6c82",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple making just a few hundred iPhone Ultras per day, per report",
-      "url": "https://9to5mac.com/2026/09/04/apple-making-just-a-few-hundred-iphone-ultras-per-day-per-report/",
-      "publishedAt": "2026-09-04T13:11:04.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "折りたたみiPhone Ultra、品質基準により生産台数が制限か",
-      "summaryJa": "Appleが初の折りたたみ式iPhoneである「iPhone Ultra」の生産において、厳しい品質管理基準により現在は1日あたり数百台規模の製造にとどまっていると報じられています。表面の平らさやヒンジの性能向上に向けた試行錯誤が続いており、市場の需要を満たす上で課題となる可能性があります。"
     }
   ],
-  "updatedAt": "2026-09-12T10:37:43.131Z",
+  "updatedAt": "2026-09-12T13:45:06.884Z",
   "initialized": true,
   "summaryVersion": 4
 }
