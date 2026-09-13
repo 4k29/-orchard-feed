@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "f24e27f179db14168554",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro pre-orders: Here’s what still arrives on launch day",
+      "url": "https://9to5mac.com/2026/09/12/iphone-18-pro-pre-orders-heres-what-still-arrives-on-launch-day/",
+      "publishedAt": "2026-09-13T00:38:49.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの予約開始、一部モデルで出荷遅れも",
+      "summaryJa": "新型のiPhone 18 ProおよびiPhone 18 Pro Maxの予約受付が開始され、発売日当日の配送分について一部の構成で10月にずれ込む状況となっています。特にiPhone 18 Pro Maxで在庫の制約が強くなっており、カラーや容量によっては発売日入手が難しくなっています。一方で、2TBのモデルなどは比較的余裕があり、選択する仕様によって配送時期が分かれています。"
+    },
+    {
+      "id": "5eb3af376f60c057f0f0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here are my favorite fast charger recommendations for iPhone 18 Pro",
+      "url": "https://9to5mac.com/2026/09/12/best-fast-chargers-for-iphone-18-pro/",
+      "publishedAt": "2026-09-13T00:35:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.19.58.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro向けおすすめ急速充電器まとめ",
+      "summaryJa": "新型のiPhone 18 Proを高速に充電するための、おすすめの充電器やアクセサリが紹介されています。ディスプレイ付きで便利なAnkerの45W充電器や、Appleの40W Dynamic Power Adapterなど、用途や速度に応じた複数の製品がピックアップされています。最大60Wの給電に対応するアダプタを使用すれば、短時間で効率よくバッテリーを回復させることが可能です。"
+    },
+    {
       "id": "3b66a9f4238ae56b9b72",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4478,39 +4508,9 @@
       ],
       "titleJa": "9月9日のイベントに向けたiPhone 18 Proの予想",
       "summaryJa": "9月9日に開催されるAppleのイベントでは、新チップやフィットネス機能の向上が見込まれるApple Watch Series 12をはじめ、複数の新製品が発表されると報じられています。また、Apple Watch Ultra 4やアクティブノイズキャンセリング機能の有無を選べるAirPods 5などの登場も予想されています。"
-    },
-    {
-      "id": "36e59ef282dd243829d3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Will the iPhone 18 Pro’s biggest upgrade really deliver?",
-      "url": "https://9to5mac.com/2026/09/04/will-the-iphone-18-pros-biggest-upgrade-really-deliver/",
-      "publishedAt": "2026-09-04T16:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Will-the-iPhone-18-Pros-biggest-upgrade-really-deliver.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの最大の特徴となる可変絞りレンズ",
-      "summaryJa": "次期iPhone 18 Proでは大きな進化は期待されていないものの、メインカメラに可変絞りレンズが搭載される見込みです。これにより、従来の一眼レフカメラのように被写界深度のコントロールが可能になり、ポートレート撮影や風景撮影での表現力が向上すると注目されています。"
-    },
-    {
-      "id": "f6b4949645deb19cac9b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Just Fixed TestFlight",
-      "url": "https://www.macrumors.com/2026/09/04/apple-just-fixed-testflight/",
-      "publishedAt": "2026-09-04T15:56:25.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/TestFlight-App-Store.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、TestFlightの表示不具合を修正へ",
-      "summaryJa": "Appleは、TestFlightアプリでベータ版アプリの表示順がアルファベット順になっていた仕様を修正し、最新のベータ版をデフォルトで再び表示するように変更しました。今年7月のアップデートで検索機能が追加された際に表示方法が変わっていましたが、最新のバージョン4.3.1で改善されています。"
     }
   ],
-  "updatedAt": "2026-09-12T22:58:41.216Z",
+  "updatedAt": "2026-09-13T00:52:30.886Z",
   "initialized": true,
   "summaryVersion": 4
 }
