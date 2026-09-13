@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "8de6799dcc6dfdc5eb5f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Here's When iOS 27 Rolls Out in Every Time Zone",
+      "url": "https://www.macrumors.com/2026/09/13/ios-27-release-date-time-zones/",
+      "publishedAt": "2026-09-13T10:00:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/iOS-27-Next-to-iPhone.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27の各タイムゾーンにおけるリリース配信スケジュール",
+      "summaryJa": "Appleが最大規模のソフトウェアアップデートとなるiOS 27の配信を各地域で順次開始すると報じられています。過去の傾向から太平洋時間の午前10時頃のリリースが見込まれており、先進的なSiriのAI機能や多数の改善が含まれています。世界各国のユーザーに向けて具体的な時差換算のスケジュールが公開されており、利用地域に応じた確認が推奨されています。"
+    },
+    {
       "id": "f24e27f179db14168554",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4493,24 +4508,9 @@
       ],
       "titleJa": "Aqara、Apple Homeに対応したMatter対応のスマート照明5製品を発表",
       "summaryJa": "Aqaraが、Apple Home、Thread、Zigbeeに対応したMatter対応のスマート照明5製品を発表しました。フロアランプやダウンライト、トリミング可能なLEDテープライト、屋外用のストリングライトや常設ライトなど、多彩なラインナップが揃っています。製品によって異なるカラーゾーンの制御や、2000Kから9000Kまでの白色光調整機能を備えており、時間帯や環境、他のスマートホーム機器のトリガーに応じて柔軟に調光可能です。IFAで展示されたこれらの新製品について、現時点では価格や発売時期の詳細な情報は明らかにされていません。"
-    },
-    {
-      "id": "ff38e0fdb599a9ee1fd9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "The MacRumors Show: iPhone 18 Pro Event Expectations",
-      "url": "https://www.macrumors.com/2026/09/04/the-macrumors-show-iphone-18-pro-event-expectations/",
-      "publishedAt": "2026-09-04T16:13:18.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "9月9日のイベントに向けたiPhone 18 Proの予想",
-      "summaryJa": "9月9日に開催されるAppleのイベントでは、新チップやフィットネス機能の向上が見込まれるApple Watch Series 12をはじめ、複数の新製品が発表されると報じられています。また、Apple Watch Ultra 4やアクティブノイズキャンセリング機能の有無を選べるAirPods 5などの登場も予想されています。"
     }
   ],
-  "updatedAt": "2026-09-13T05:36:19.818Z",
+  "updatedAt": "2026-09-13T10:37:35.101Z",
   "initialized": true,
   "summaryVersion": 4
 }
