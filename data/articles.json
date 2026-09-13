@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "40fba8254afd5fd9f389",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple is designing its own game controllers for iPhone, could be Beats branded",
+      "url": "https://9to5mac.com/2026/09/13/apple-designing-iphone-game-controller/",
+      "publishedAt": "2026-09-13T14:26:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-game-controller-backbone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AppleがiPhone向けゲームコントローラーを開発中か",
+      "summaryJa": "AppleがiPhone向けの独自ゲームコントローラーを開発していると報じられています。macOSのベータコードから存在が確認されたもので、十字キーやスティック、触覚フィードバックなどを搭載する可能性が示されています。製品はBeatsブランドから発売される見込みで、iOSやMacでのAAAタイトルのゲーム体験を向上させることが期待されます。"
+    },
+    {
+      "id": "87c17c449818b77fbe85",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirPods 5 Pre-Orders Go Live, While Older Models Reach Up to $100 Off This Weekend",
+      "url": "https://www.macrumors.com/2026/09/13/airpods-5-older-models-100-off/",
+      "publishedAt": "2026-09-13T14:21:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/airpods-lineup-blue.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirPods 5の予約受付が開始、旧モデルのセールも実施中",
+      "summaryJa": "Appleが発表した新型のAirPods 5の予約受付がAmazonで始まりました。価格は129ドルからで、9月18日の発売が予定されています。また、AirPods Max 2やAirPods Pro 3などの旧モデルも割引価格で販売されており、週末のお得な購入チャンスとなっています。"
+    },
+    {
+      "id": "1df7170315640dca4b7c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Craig Federighi addresses iPhone Duo and iPad overlap",
+      "url": "https://9to5mac.com/2026/09/13/craig-federighi-addresses-iphone-duo-and-ipad-overlap/",
+      "publishedAt": "2026-09-13T12:47:33.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/craig-federighi-mkbhd.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "クレイグ・フェデリギ氏がiPhone DuoとiPadの使い分けについて語る",
+      "summaryJa": "Appleのソフトウェアエンジニアリング担当上級副社長であるクレイグ・フェデリギ氏が、新製品のiPhone DuoとiPadの重複について言及しました。iPadとMacの関係と同様にユーザーは自然な使い分けを見出すだろうとしつつ、特にiPad miniとの間で役割が重なる可能性があると述べています。また、他社製デバイスとは異なり、新フォームファクターに合わせてiOS体験を一から最適化したと強調しました。"
+    },
+    {
       "id": "8de6799dcc6dfdc5eb5f",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4463,54 +4508,9 @@
       ],
       "titleJa": "SpaceXAIの「Grok Bot」がiPadに対応し価格も大幅引き下げ",
       "summaryJa": "iMessage風のAIシステムである「Grok Bot」がiPadおよびAndroid向けに拡張され、利用料金も大幅に引き下げられました。初期リリース時は高額なサブスクリプションが必要でしたが、Cursorの買収やエンタープライズ対応に伴い、手頃な価格で利用できるようになっています。Appleユーザーにとって、iPadでもAIエージェントを活用した作業がより身近になりました。"
-    },
-    {
-      "id": "8f330c1167fbc039b0c4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "MacRumors Giveaway: Win an iPad Air and Revamped Rock Paper Pencil Kit From Astropad",
-      "url": "https://www.macrumors.com/2026/09/04/macrumors-giveaway-astropad-september/",
-      "publishedAt": "2026-09-04T17:41:16.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/astropad-kit-main.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPad Airと紙のような書き心地を実現するアクセサリのプレゼント企画",
-      "summaryJa": "海外メディアMacRumorsが、Astropadとの共同企画としてM4 iPad AirやApple Pencil Pro、専用の画面保護フィルムとペン先キットが当たるプレゼントキャンペーンを実施しています。この「Rock Paper Pencil」キットは、ガラスディスプレイの滑るような感触を改善し、まるで紙に書いているような自然な描き心地を実現する人気のアクセサリです。最新の第4世代では、スケッチ向けのグラファイト風のペン先や、滑らかなボールペン風のペン先が追加されており、用途に合わせて使い分けることが可能です。不要な時は簡単に取り外して収納できるナノ吸着技術を採用しており、iPadでの手書き作業を快適にするアイテムとして注目されています。"
-    },
-    {
-      "id": "a3ddd9cf3bd2993d06f1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Silo season 4 just got its release date on Apple TV and first trailer",
-      "url": "https://9to5mac.com/2026/09/04/silo-season-4-just-got-its-release-date-on-apple-tv-and-first-trailer/",
-      "publishedAt": "2026-09-04T17:35:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/silo-s3-juliette-rebecca-ferguson.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVのSFドラマ「サイロ」シーズン4が2027年7月9日に配信決定",
-      "summaryJa": "Apple TVの人気SFドラマシリーズ「サイロ」のシーズン3最終回が配信され、早くもシーズン4の配信日が2027年7月9日に決定したことが発表されました。同作はヒュー・ハウイーのベストセラー小説三部作を原作としており、シーズン4が最終シーズンとして物語の完結を描く予定です。SF作品では新シーズンの公開までに数年を要することが多い中、1年未満という比較的早いスパンでの retorno はファンにとって大きな朗報となります。あわせてシーズン3のネタバレを含むシーズン4の最初の予告編も公開されており、物語がどのように結末を迎えるのかに関心が集まっています。"
-    },
-    {
-      "id": "324b921f3f792d676fbe",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Aqara Debuts Five Matter Smart Lights With Apple Home Support",
-      "url": "https://www.macrumors.com/2026/09/04/aqara-matter-smart-lights-2/",
-      "publishedAt": "2026-09-04T17:12:55.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/aqara-floor-lamp.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Aqara、Apple Homeに対応したMatter対応のスマート照明5製品を発表",
-      "summaryJa": "Aqaraが、Apple Home、Thread、Zigbeeに対応したMatter対応のスマート照明5製品を発表しました。フロアランプやダウンライト、トリミング可能なLEDテープライト、屋外用のストリングライトや常設ライトなど、多彩なラインナップが揃っています。製品によって異なるカラーゾーンの制御や、2000Kから9000Kまでの白色光調整機能を備えており、時間帯や環境、他のスマートホーム機器のトリガーに応じて柔軟に調光可能です。IFAで展示されたこれらの新製品について、現時点では価格や発売時期の詳細な情報は明らかにされていません。"
     }
   ],
-  "updatedAt": "2026-09-13T10:37:35.101Z",
+  "updatedAt": "2026-09-13T14:42:08.849Z",
   "initialized": true,
   "summaryVersion": 4
 }
