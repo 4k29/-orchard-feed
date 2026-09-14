@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-10T13:45:58.473Z",
+  "updatedAt": "2026-09-14T09:03:11.739Z",
   "metadataWarnings": [],
   "summary": {
-    "products": 719,
-    "targets": 149,
-    "missingDocs": 7,
-    "missingPrices": 36,
+    "products": 725,
+    "targets": 150,
+    "missingDocs": 8,
+    "missingPrices": 37,
     "missingPriceDates": 0,
     "duplicateKeys": 0,
     "airPods": 12,
@@ -33,7 +33,16 @@
       ],
       "storage": [],
       "memory": [],
-      "colors": [],
+      "colors": [
+        {
+          "name": "Titanium - Black",
+          "hex": "4E4949"
+        },
+        {
+          "name": "Titanium - Natural",
+          "hex": "A7A29C"
+        }
+      ],
       "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Ultra%204%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
       "documentationDirect": false
     },
@@ -48,13 +57,65 @@
       ],
       "models": [],
       "identifiers": [
-        "iPhone19,3",
         "iPhone19,7"
       ],
       "storage": [],
       "memory": [],
-      "colors": [],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "3C3C3C"
+        },
+        {
+          "name": "Burgundy",
+          "hex": "4D1822"
+        },
+        {
+          "name": "Glacier",
+          "hex": "E8F2FE"
+        },
+        {
+          "name": "Silver",
+          "hex": "F7F7F7"
+        }
+      ],
       "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%2018%20Pro%20Max%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
+      "name": "iPhone 18 Pro Max（US）",
+      "family": "iPhone",
+      "released": "2026-09-18",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "A20 Pro"
+      ],
+      "models": [],
+      "identifiers": [
+        "iPhone19,3"
+      ],
+      "storage": [],
+      "memory": [],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "3C3C3C"
+        },
+        {
+          "name": "Burgundy",
+          "hex": "4D1822"
+        },
+        {
+          "name": "Glacier",
+          "hex": "E8F2FE"
+        },
+        {
+          "name": "Silver",
+          "hex": "F7F7F7"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%2018%20Pro%20Max%EF%BC%88US%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
       "documentationDirect": false
     },
     {
@@ -72,7 +133,24 @@
       ],
       "storage": [],
       "memory": [],
-      "colors": [],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "3C3C3C"
+        },
+        {
+          "name": "Burgundy",
+          "hex": "4D1822"
+        },
+        {
+          "name": "Glacier",
+          "hex": "E8F2FE"
+        },
+        {
+          "name": "Silver",
+          "hex": "F7F7F7"
+        }
+      ],
       "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%2018%20Pro%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
       "documentationDirect": false
     },
@@ -91,7 +169,16 @@
       ],
       "storage": [],
       "memory": [],
-      "colors": [],
+      "colors": [
+        {
+          "name": "Night Sky",
+          "hex": "394452"
+        },
+        {
+          "name": "Star White",
+          "hex": "F7F6F5"
+        }
+      ],
       "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%20Duo%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
       "documentationDirect": false
     },
@@ -123,7 +210,40 @@
       ],
       "storage": [],
       "memory": [],
-      "colors": [],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "413D3A"
+        },
+        {
+          "name": "Dark Bronze",
+          "hex": "624F41"
+        },
+        {
+          "name": "Light Gold",
+          "hex": "948372"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "888785"
+        },
+        {
+          "name": "Ceramic - Night Blue",
+          "hex": "909193,293040"
+        },
+        {
+          "name": "Ceramic - Pearl White",
+          "hex": "E4E1DC,E1DAD2"
+        },
+        {
+          "name": "Titanium - Natural",
+          "hex": "CFC8C0,46413D"
+        },
+        {
+          "name": "Titanium - Radiant Gold",
+          "hex": "FBF0D2,635538"
+        }
+      ],
       "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Series%2012%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
       "documentationDirect": false
     },
@@ -339,7 +459,16 @@
       ],
       "storage": [],
       "memory": [],
-      "colors": [],
+      "colors": [
+        {
+          "name": "Titanium - Black",
+          "hex": "4E4949"
+        },
+        {
+          "name": "Titanium - Natural",
+          "hex": "A7A29C"
+        }
+      ],
       "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Ultra%204%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
       "documentationDirect": false
     },
@@ -354,13 +483,65 @@
       ],
       "models": [],
       "identifiers": [
-        "iPhone19,3",
         "iPhone19,7"
       ],
       "storage": [],
       "memory": [],
-      "colors": [],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "3C3C3C"
+        },
+        {
+          "name": "Burgundy",
+          "hex": "4D1822"
+        },
+        {
+          "name": "Glacier",
+          "hex": "E8F2FE"
+        },
+        {
+          "name": "Silver",
+          "hex": "F7F7F7"
+        }
+      ],
       "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%2018%20Pro%20Max%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+      "documentationDirect": false
+    },
+    {
+      "name": "iPhone 18 Pro Max（US）",
+      "family": "iPhone",
+      "released": "2026-09-18",
+      "prices": [],
+      "priceHistory": false,
+      "chips": [
+        "A20 Pro"
+      ],
+      "models": [],
+      "identifiers": [
+        "iPhone19,3"
+      ],
+      "storage": [],
+      "memory": [],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "3C3C3C"
+        },
+        {
+          "name": "Burgundy",
+          "hex": "4D1822"
+        },
+        {
+          "name": "Glacier",
+          "hex": "E8F2FE"
+        },
+        {
+          "name": "Silver",
+          "hex": "F7F7F7"
+        }
+      ],
+      "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%2018%20Pro%20Max%EF%BC%88US%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
       "documentationDirect": false
     },
     {
@@ -378,7 +559,24 @@
       ],
       "storage": [],
       "memory": [],
-      "colors": [],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "3C3C3C"
+        },
+        {
+          "name": "Burgundy",
+          "hex": "4D1822"
+        },
+        {
+          "name": "Glacier",
+          "hex": "E8F2FE"
+        },
+        {
+          "name": "Silver",
+          "hex": "F7F7F7"
+        }
+      ],
       "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%2018%20Pro%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
       "documentationDirect": false
     },
@@ -397,7 +595,16 @@
       ],
       "storage": [],
       "memory": [],
-      "colors": [],
+      "colors": [
+        {
+          "name": "Night Sky",
+          "hex": "394452"
+        },
+        {
+          "name": "Star White",
+          "hex": "F7F6F5"
+        }
+      ],
       "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%20Duo%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
       "documentationDirect": false
     },
@@ -429,7 +636,40 @@
       ],
       "storage": [],
       "memory": [],
-      "colors": [],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "413D3A"
+        },
+        {
+          "name": "Dark Bronze",
+          "hex": "624F41"
+        },
+        {
+          "name": "Light Gold",
+          "hex": "948372"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "888785"
+        },
+        {
+          "name": "Ceramic - Night Blue",
+          "hex": "909193,293040"
+        },
+        {
+          "name": "Ceramic - Pearl White",
+          "hex": "E4E1DC,E1DAD2"
+        },
+        {
+          "name": "Titanium - Natural",
+          "hex": "CFC8C0,46413D"
+        },
+        {
+          "name": "Titanium - Radiant Gold",
+          "hex": "FBF0D2,635538"
+        }
+      ],
       "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Series%2012%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
       "documentationDirect": false
     },
