@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "8bb7b05592806a01a892",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Newest Store Features Three Design Changes",
+      "url": "https://www.macrumors.com/2026/09/14/apples-newest-store-features-three-changes/",
+      "publishedAt": "2026-09-14T20:23:06.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Today-at-Apple-Avenue.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Store、新型店舗で3つの設計変更を導入",
+      "summaryJa": "カリフォルニア州のApple Victoria Gardensが、3つの重要な設計変更を加えてリニューアルオープンしました。店内にはビデオウォールの代わりにジーニアスバーが復活し、アベニューと呼ばれる側面棚の一部として、Apple PickupやToday at Apple専用のベイが新設されています。これらの新しい設計要素は、今後リニューアルや新設される他の店舗にも順次展開される予定です。"
+    },
+    {
+      "id": "586713b297f8508b7545",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AppleCare One Family Launches at $49.99 Per Month",
+      "url": "https://www.macrumors.com/2026/09/14/applecare-one-family-launches/",
+      "publishedAt": "2026-09-14T20:06:05.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/AppleCare-One-Family.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "家族向けの新プラン「AppleCare One Family」が登場",
+      "summaryJa": "米国で最大6人までの家族のApple製品をまとめてカバーする新プラン「AppleCare One Family」の提供が開始されました。月額49.99ドルで、iPhone、iPad、Apple Watchなどの偶発的な損傷や紛失・盗難に対する補償をファミリー共有グループ全体で受けることができます。セットアップ時に条件を満たしているデバイスは自動的に登録され、家族全員の対象製品をアクティブな状態で継続的に保護します。"
+    },
+    {
+      "id": "ce275789bcbe9360f3fc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 Now Available: 10 Features to Try First",
+      "url": "https://www.macrumors.com/guide/ios-27-features-to-try-first/",
+      "publishedAt": "2026-09-14T20:02:58.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27-Now-Available-10-Features-to-Try-First-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27が提供開始、注目の新機能と改善点",
+      "summaryJa": "iPhone 11以降を対象とした最新OS「iOS 27」が正式にリリースされました。高度なAI機能を持つ新しいSiriやApple Intelligenceの機能が多数追加されたほか、アニメーションの高速化やアプリ起動の迅速化といったシステム全体のパフォーマンス向上の恩恵も受けられます。多くのAI機能はiPhone 15 Pro以降が必要ですが、動作の快適化などの基礎的な改善はすべての対応機種で実感できます。"
+    },
+    {
+      "id": "e06e440a0d6ee43313db",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Our top iPhone 18 Pro accessories to upgrade your setup",
+      "url": "https://9to5mac.com/2026/09/14/best-iphone-18-pro-accessories/",
+      "publishedAt": "2026-09-14T19:59:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-accessories.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの発売に向けておすすめの周辺機器を紹介",
+      "summaryJa": "新型iPhone 18 Proの発売日を前に、海外メディアが注目するおすすめのアクセサリーが紹介されています。急速充電に対応したAppleの40Wダイナミック電源アダプタやMagSafe対応充電器、新素材のケースなど、日々の利用を快適にする便利なアイテムが多数ピックアップされています。"
+    },
+    {
+      "id": "396b7285d5da72fad18f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 uses a waitlist for accessing Siri AI",
+      "url": "https://9to5mac.com/2026/09/14/ios-27-has-a-waitlist-for-accessing-new-siri-ai/",
+      "publishedAt": "2026-09-14T19:59:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27の新機能「Siri AI」、利用には順番待ちリストへの登録が必要に",
+      "summaryJa": "Appleが正式リリースしたiOS 27に含まれる新機能「Siri AI」を利用するためには、ウェイティングリストへの登録が必要であることが分かりました。対応するiPhoneを用意し、デバイス言語を英語に設定した上で、設定アプリのSiriメニューから「Try Siri AI」を選択して登録を行う仕組みです。段階的なロールアウトのために実施されており、利用可能になると通知が届きます。"
+    },
+    {
+      "id": "f8c843556c201c20abf3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "SmartGym 8 brings natural-language workout creation, Siri AI integration, more",
+      "url": "https://9to5mac.com/2026/09/14/smartgym-8-brings-natural-language-workout-creation-siri-ai-integration-more/",
+      "publishedAt": "2026-09-14T19:43:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/smartgym8.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "人気フィットネスアプリ「SmartGym 8」が登場、自然言語でのワークアウト作成に対応",
+      "summaryJa": "人気フィットネスアプリ「SmartGym」が大型アップデートを実施し、バージョン8へと進化しました。独自のプライベートクラウド基盤を活用した「SmartGym Intelligence」を導入し、プライバシーを保護しながら自然言語によるワークアウトの作成や管理が可能になっています。最新のOSが持つ機能を活かし、Siriとの統合もより深められています。"
+    },
+    {
+      "id": "667cbe3ec7291c843731",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "More Than 1,000 Apple Watch Bands Have Been Released Since 2015",
+      "url": "https://www.macrumors.com/2026/09/14/more-than-1000-apple-watch-bands/",
+      "publishedAt": "2026-09-14T19:18:36.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/20260909-Bandbreite-1000-original-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch、2015年の発売以来の公式バンド数が1000種類を突破",
+      "summaryJa": "Apple Watch向けバンドの追跡アプリを手がける開発者によると、2015年4月の初代モデル発売以来、これまでにリリースされた公式バンドの総数が1000種類を超えたことが明らかになりました。先日の新モデル発表と同時に新たなバンドが追加されたほか、高級ブランドのエルメスによる最新コレクションも公開されています。"
+    },
+    {
+      "id": "d15909517b253fb2d0eb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s everything new for Apple Wallet in iOS 27",
+      "url": "https://9to5mac.com/2026/09/14/heres-everything-new-for-apple-wallet-in-ios-27/",
+      "publishedAt": "2026-09-14T19:06:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-wallet-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27で刷新されたApple Wallet、物理パスの取り込みやApple Cashの新機能を追加",
+      "summaryJa": "iOS 27のリリースに伴い、Apple Walletアプリに多数の新機能が追加されました。カメラで物理的なパスをスキャンしてデジタル化できる機能や、Apple Cashを使った割り勘機能、Apple Cardの定期支払いをカレンダー等で一括管理できるハブ機能などが新たに導入されています。さらに、ホテルキーのアップグレードやUIの刷新も行われています。"
+    },
+    {
+      "id": "7addc299a856c7772108",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 adds new opt-in setting for sharing data to improve Apple’s Foundation Models",
+      "url": "https://9to5mac.com/2026/09/14/ios-27-adds-new-opt-in-setting-for-sharing-data-to-improve-apples-foundation-models/",
+      "publishedAt": "2026-09-14T19:02:17.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-siri.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iOS 27でFoundation Models改善のためのデータ共有設定を追加",
+      "summaryJa": "AppleはiOS 27の公開に伴い、SiriやApple Intelligenceの基盤モデルを改善するための新しいデータ共有オプトイン設定を導入しました。セットアップ時にユーザーは音声やテキストの提供に同意するか選択を求められます。収集されるデータはAppleアカウントとは紐づけられず、デバイスで生成されるランダムな識別子で保護されます。"
+    },
+    {
+      "id": "6fdfb22e3c48793d2a3b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases New AirPods Firmware With iOS 27 Features",
+      "url": "https://www.macrumors.com/2026/09/14/apple-airpods-ios-27-firmware/",
+      "publishedAt": "2026-09-14T18:42:53.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/AirPods-Pro-Beta-Firmware-2.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iOS 27の新機能に対応するAirPods向けファームウェアを公開",
+      "summaryJa": "AppleはAirPods ProやAirPods Maxなどの対応機種に向けて、新しいファームウェアをリリースしました。このアップデートにより、iOS 27などで追加される新しいAirPodsインターフェイスやアダプティブモードのスライダー、カスタムイコライザーなどの機能が利用可能になります。ファームウェアのインストールは、対応機器をApple製デバイスに接続し電源に繋ぐことで自動的に行われます。"
+    },
+    {
+      "id": "9191955fba638231fe6b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MagSafe Monday: Vinich’s MagSafe wallet leans into a classic look",
+      "url": "https://9to5mac.com/2026/09/14/vinichs-magsafe-wallet-leans-into-a-classic-look/",
+      "publishedAt": "2026-09-14T18:40:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/bradley_9d3d29.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "伝統的な革財布風デザインを採用したVinichのMagSafeウォレット",
+      "summaryJa": "MagSafeに対応したVinich製の折りたたみ式ウォレットが紹介されています。15色以上の豊富なカラーバリエーションを持ち、レザーケースの背面にしっくり馴染むエイジング加工風のデザインが特徴です。カードを3〜5枚収納できるほかRFIDブロッキング素材も採用されており、実用性とデザイン性を兼ね備えたアクセサリーとなっています。"
+    },
+    {
+      "id": "6f057e812b0eb02f6f9f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 and iOS 26.7 Fix More Than 100 Security Bugs",
+      "url": "https://www.macrumors.com/2026/09/14/ios-27-bug-fixes/",
+      "publishedAt": "2026-09-14T18:36:28.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iOS 27とiOS 26.7で100件以上のセキュリティ脆弱性を修正",
+      "summaryJa": "AppleはiOS 27およびiOS 26.7のアップデートをリリースし、合計で100件以上のセキュリティ脆弱性を修正しました。悪意あるアプリによるルート権限の取得を防ぐカーネルの修正などが含まれています。現時点で悪用の報告はされていませんが、デバイスの安全性を保つため早めのアップデートが推奨されます。"
+    },
+    {
       "id": "1bc7936e14bf0ebb1041",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4328,189 +4508,9 @@
       ],
       "titleJa": "Apple認定整備済製品と他社リユース品の比較",
       "summaryJa": "Appleの認定整備済製品は、新品同様の品質や1年間の正規保証が付く信頼性の高い選択肢です。一方、AmazonやWalmartなどの他社リユース品は価格が手頃な場合があるものの、外観の傷やバッテリー容量の低下、短い保証期間などの違いがあります。購入を検討する際は、それぞれの基準や保証内容をしっかりと理解することが重要です。"
-    },
-    {
-      "id": "29c67d66d61b3cb45d14",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Three new iPhones launch this week, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/09/07/three-new-iphones-launch-this-week-heres-whats-coming/",
-      "publishedAt": "2026-09-07T12:23:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、9月のイベントで新型iPhoneを発表か",
-      "summaryJa": "今週水曜日に開催されるAppleのイベントでは、iPhone 18 Proシリーズや折りたたみ式モデルと噂されるiPhone Ultraなど、3つの新型iPhoneが登場すると報じられています。新モデルにはA20 Proチップやカメラ性能の大幅な向上、バッテリー駆動時間の改善などが期待されています。詳細な仕様や価格設定についてもイベントでの正式発表に注目が集まっています。"
-    },
-    {
-      "id": "170b57fd95d63172bc3f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro: Nine Reasons Not to Upgrade This Year",
-      "url": "https://www.macrumors.com/2026/09/07/iphone-18-pro-reasons-not-to-upgrade-this-year/",
-      "publishedAt": "2026-09-07T12:01:37.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/All-Screen-iPhone-2030-Feature-Sans-Text.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proを見送り翌年を待つべき9つの理由",
-      "summaryJa": "今秋発表が噂されるiPhone 18 Proモデルは、前世代から大きな変更がない小幅なアップデートにとどまると予想されています。一方で、翌年には記念すべき次世代iPhoneとして、四辺が湾曲したオールガラスデザインや先進的なOLED技術、画面下埋め込み型Face IDなどの大幅な刷新が計画されていると報じられています。そのため、今年のモデルからのアップグレードを思い止まる理由になる可能性があると伝えられています。"
-    },
-    {
-      "id": "84edc9958ec5a549acb3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Reports describe two ways for Apple to make more money; only one is good",
-      "url": "https://9to5mac.com/2026/09/07/reports-describe-two-ways-for-apple-to-make-more-money-only-one-is-good/",
-      "publishedAt": "2026-09-07T11:43:38.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Reports-describe-two-ways-for-Apple-to-make-more-money.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの収益拡大策、ホームセキュリティとApp Store強化の評価",
-      "summaryJa": "Appleがサービス部門の収益を拡大させるための2つの異なる経路について報じられています。1つ目はプライバシーを重視したAIを活用した新しいホームセキュリティおよび見守りサービスであり、これは歓迎すべき方向性だと評価されています。しかし2つ目のApp Storeからの収益や利益率をさらに絞り出そうとする動きについては、世界的な独占禁止法の規制や開発者との関係悪化を招く大きな間違いであると指摘されています。"
-    },
-    {
-      "id": "75e882213d83f6a0acf0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Plans to Squeeze More Revenue From the App Store, Report Says",
-      "url": "https://www.macrumors.com/2026/09/07/apple-squeeze-more-revenue-from-app-store/",
-      "publishedAt": "2026-09-07T10:19:14.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/12/Liquid-Glass-App-Store-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、App Storeからの収益化強化を模索か",
-      "summaryJa": "AppleがApp Storeからの収益をさらに高め、継続的な収入を増やすための新たな方法を模索していると報じられています。新最高経営責任者であるジョン・ターナス氏とサービス部門の責任者であるエディ・キュー氏がこの取り組みを主導しているとされています。一方で、長年App Storeを率いてきたフィル・シラー氏は、こうした方針が開発者や政府との摩擦を招くだけだと懸念し、この動きに関わることを避けて担当から離れたと伝えられています。"
-    },
-    {
-      "id": "ff866468b8d4812a0a86",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Tim Cook Won't Appear in Apple's September 9 Event Video",
-      "url": "https://www.macrumors.com/2026/09/07/tim-cook-wont-appear-apple-sept-9-event-video/",
-      "publishedAt": "2026-09-07T09:27:45.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Tim-Cook-Executive-Chair-16x9-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "ティム・クック氏、9月9日のイベント動画には出演せず",
-      "summaryJa": "9月1日に執行役に就任したティム・クック氏は、今週水曜日に開催されるAppleのイベント上映会には出席するものの、イベントの映像自体には出演しないと報じられています。Appleは新最高経営責任者となったジョン・ターナス氏を今後の新製品の顔として前面に出す移行を慎重に進めており、クック氏の出演はそれを損なう可能性があるためだと伝えられています。"
-    },
-    {
-      "id": "5c0a1333b8cef44f3b26",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV leads Emmys wins so far, with Widows Bay set for awards sweep",
-      "url": "https://9to5mac.com/2026/09/07/apple-tv-leads-emmys-awards-widows-bay/",
-      "publishedAt": "2026-09-07T09:17:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/widows-bay-cast-creepy.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVがエミー賞のクリエイティブ・アーツ部門で最多の20勝を獲得",
-      "summaryJa": "テレビ界の権威あるエミー賞のクリエイティブ・アーツ部門の受賞結果が発表され、Apple TVが過去最多となる20勝を記録して首位に立ちました。特に話題のコメディシリーズ「Widows Bay」が8つの賞を獲得するなど、コメディ部門を中心に高く評価されています。プライムタイム・エミー賞の主要部門の発表は9月14日に控えており、さらなる受賞への期待が高まっています。"
-    },
-    {
-      "id": "643ae23e5074ab5396ed",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "This AI-generated iPhone 18 Pro mock ad makes me actually love dark cherry color",
-      "url": "https://9to5mac.com/2026/09/06/this-ai-generated-iphone-18-pro-mock-ad-makes-me-actually-love-dark-cherry-color/",
-      "publishedAt": "2026-09-07T05:01:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/dark-cherry-iphone-18-pro-mock-ad.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの噂のダークチェリー色をAIで再現した動画",
-      "summaryJa": "新型iPhoneの発表週を控え、秋のイベントで登場すると噂されているiPhone 18 Proの新色ダークチェリーレッドをAIで視覚化したモック動画が話題になっています。制作者はこれがリークではなくAI生成によるものであることを明記しており、洗練された色合いが注目を集めました。Appleは9月9日にスペシャルイベントの開催を予定しています。"
-    },
-    {
-      "id": "510c40182e588ef9ac18",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Netflix includes 80+ ad-free iPhone and iPad games, here’s every app",
-      "url": "https://9to5mac.com/2026/09/06/youre-paying-for-80-iphone-and-ipad-games-through-netflix-heres-the-full-catalog/",
-      "publishedAt": "2026-09-06T16:41:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/netflix-games.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Netflixのサブスクで追加料金なしで遊べるiPhone・iPadゲーム一覧",
-      "summaryJa": "Netflixの加入者は、追加料金や広告、アプリ内課金なしで80種類以上の高品質なiPhoneおよびiPad向けゲームを楽しむことができます。月額の低価格プランを含むすべての会員プランが対象となっており、App StoreからダウンロードしてNetflixのアカウントでサインインするだけでプレイ可能です。インディーの名作から大作まで幅広いタイトルが揃っており、モバイルゲーミングの選択肢の一つとして注目されています。"
-    },
-    {
-      "id": "2f225e3acaa74c5d6c1a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple might soon make App Store changes to raise revenue, increase margins: report",
-      "url": "https://9to5mac.com/2026/09/06/apple-might-soon-make-app-store-changes-to-raise-revenue-increase-margins-report/",
-      "publishedAt": "2026-09-06T14:53:21.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、収益改善に向けApp Storeの変更を検討か",
-      "summaryJa": "Appleがプラットフォームからの継続的な収益を増やし、利益率を向上させるためのApp Storeの変更を検討していると報じられています。具体的な内容は不明ですが、開発者メンバーシップの値上げや、トラフィックに応じた大規模開発者への料金課金などが想定されています。こうした動きは開発者や各国政府との関係に影響を与える可能性があり、社内でも議論を呼んでいるとのことです。"
-    },
-    {
-      "id": "25aeb1d0237fce83d2c6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "This new reveal suggests MacBook Ultra might cost more than we think",
-      "url": "https://9to5mac.com/2026/09/05/macbook-ultra-pricing-lineup-rumor/",
-      "publishedAt": "2026-09-06T03:02:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/macbook-ultra-mockup-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "MacBook UltraはOLED搭載で高価格帯モデルになる可能性か",
-      "summaryJa": "次世代のMacBookラインナップに関する新たな予測が報じられています。OLEDディスプレイやタッチスクリーンを搭載すると噂される上位モデルはMacBook Ultraという名称になり、現行のminiLED搭載MacBook Proが併売されることで、より高価格な位置づけになると伝えられています。"
-    },
-    {
-      "id": "5705cd12496423cb9e2f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPadOS 27 still needs simpler multitasking, here’s what I’d like to see",
-      "url": "https://9to5mac.com/2026/09/05/ipados-27-still-needs-simpler-multitasking-heres-what-id-like-to-see/",
-      "publishedAt": "2026-09-06T00:26:17.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/m4-ipad-pro-hero-image.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPadOSのマルチタスク機能に対する改善の要望",
-      "summaryJa": "iPadOSで導入されたウィンドウ管理システムについて、よりシンプルなマルチタスク機能との統合や操作性に関するユーザーの不満や改善への期待が語られています。複雑なウィンドウ操作なしでSplit Viewなどを直感的に使いたいという声があがっています。"
-    },
-    {
-      "id": "e4396a5f371ac721df0d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Affordable iPhone accessories for CarPlay worth trying",
-      "url": "https://9to5mac.com/2026/09/05/affordable-iphone-accessories-for-carplay-worth-trying/",
-      "publishedAt": "2026-09-05T22:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/best-carplay-apps.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "CarPlayを快適にする手頃なアクセサリ",
-      "summaryJa": "有線のみのCarPlayをワイヤレス化するアダプタや、CarPlay非搭載の旧型車でも手軽に導入できるポータブルディスプレイなど、コストを抑えて車内環境を快適にする便利なアクセサリが紹介されています。長距離ドライブでのiPhoneの充電や冷却をサポートするアイテムも含まれており、手頃な投資で愛車の利便性を大きく高めることが可能です。"
     }
   ],
-  "updatedAt": "2026-09-14T16:30:48.915Z",
+  "updatedAt": "2026-09-14T20:28:46.940Z",
   "initialized": true,
   "summaryVersion": 4
 }
