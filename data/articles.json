@@ -1,6 +1,171 @@
 {
   "articles": [
     {
+      "id": "4729660b6dd9b3256650",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Gentler Streak and The Outsiders’ iOS 27 updates add Siri AI, onscreen awareness support, more",
+      "url": "https://9to5mac.com/2026/09/14/gentler-streak-and-the-outsiders-ios-27-updates-add-siri-ai-onscreen-awareness-support-more/",
+      "publishedAt": "2026-09-14T23:04:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/gentler-ios27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Gentler StreakなどがiOS 27に対応、Siri AIとの連携機能を追加",
+      "summaryJa": "運動トラッキングアプリのGentler StreakとThe Outsidersがアップデートされ、最新のiOS 27向けに最適化されました。新しいSiri AIやApp Intentsの機能に対応し、アプリを開かずに音声で健康やフィットネスのデータを確認できるようになりました。さらに、画面上の状況をSiriが認識して追加のコンテキストを提供する機能もサポートされています。"
+    },
+    {
+      "id": "e0ee4dc3b8f085650296",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "XChat, X’s standalone messaging app, currently unavailable on App Store",
+      "url": "https://9to5mac.com/2026/09/14/xchat-xs-standalone-messaging-app-currently-unavailable-on-app-store/",
+      "publishedAt": "2026-09-14T22:30:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/xchat.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Xのメッセージアプリ「XChat」がApp Storeから一時的に消去か",
+      "summaryJa": "iPhoneおよびiPad向けのXの独立したメッセージングアプリ「XChat」が、App Storeからダウンロードできなくなっていることが判明しました。現時点ではアプリが削除された理由は不明ですが、Android版はGoogle Playストアで引き続き配信されています。今年春に公開された同アプリは、エンドツーエンド暗号化などに対応したプライベートなチャットツールでした。"
+    },
+    {
+      "id": "072090368c2f3b7a7504",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "X's Standalone Messaging App XChat Disappears From App Store",
+      "url": "https://www.macrumors.com/2026/09/14/xchat-app-disappears-from-app-store/",
+      "publishedAt": "2026-09-14T22:25:43.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/07/X-twitter-logo.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Xの独立型メッセージアプリ「XChat」がApp Storeから姿を消す",
+      "summaryJa": "Xが提供するプライベートメッセージアプリ「XChat」がApp Storeから検索できなくなり、配信が停止されている状態が確認されました。Appleが削除したのかX側が引き下げたのかは現時点で明らかになっていません。このアプリは今年4月にリリースされ、エンドツーエンド暗号化や消えるメッセージ機能を備えた会話スペースとして提供されていました。"
+    },
+    {
+      "id": "33890f625ae9f0fb4585",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "X and SpaceXAI move to drop Apple from antitrust lawsuit, keep claims against OpenAI",
+      "url": "https://9to5mac.com/2026/09/14/x-and-spacexai-move-to-drop-apple-from-antitrust-lawsuit-keep-claims-against-openai/",
+      "publishedAt": "2026-09-14T22:03:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/apple-logo-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "XとSpaceXAI、Appleを対象とした反トラスト法訴訟の取り下げを申請",
+      "summaryJa": "XとSpaceXAIは、AppleとOpenAIを相手取って起こしていた反トラスト法訴訟から、Appleに対する請求を自発的に取り下げる申し立てを行いました。両社は以前、AppleとOpenAIの提携が競合するAIアプリに不利な優遇を与えていると主張していましたが、Appleに対する訴訟は終結へ向かうことになります。なお、OpenAIに対する訴訟は引き続き継続されます。"
+    },
+    {
+      "id": "2aed7bd6a636dd723cd3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 AI Camera Summaries Cost $9.99 for One Camera, $59.99 for Five",
+      "url": "https://www.macrumors.com/2026/09/14/ios-27-ai-camera-summaries/",
+      "publishedAt": "2026-09-14T21:46:37.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/02/iOS-26-Home-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27のカメラAI要約機能、利用プランと価格が物議",
+      "summaryJa": "AppleがiOS 27のApple Intelligenceによるホームアプリのカメラ要約機能の利用条件を発表し、ユーザーの間で不満の声が上がっています。動体検知のテキスト説明や要約機能を利用するには、月額9.99ドルの2TB以上のiCloud+プランが必要ですが、このプランでサポートされるのはカメラ1台のみです。複数のカメラでAI要約を利用するにはさらに上位の高額なプランが必要となり、従来のHomeKit Secure Videoのストレージ容量ベースの制限と乖離していることが批判を集めています。"
+    },
+    {
+      "id": "df51438163fb83313d10",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s every security fix included in iOS 27 and iPadOS 27",
+      "url": "https://9to5mac.com/2026/09/14/heres-every-security-fix-included-in-ios-27-and-ipados-27/",
+      "publishedAt": "2026-09-14T21:26:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-security-malware-virus-code-9to5mac.png?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iOS 27とiPadOS 27のセキュリティ修正を詳細に公開",
+      "summaryJa": "Appleは、同時にリリースされたiOS 27およびiPadOS 27に含まれるセキュリティ修正の詳細を公開しました。今回のアップデートには120件以上の脆弱性への対応が含まれており、任意のコード実行やカーネル特権の取得、機密ユーザーデータへのアクセスにつながる問題などが修正されています。対象デバイスはiPhone 11以降や各種iPadモデルとなっており、システム全体の安全性を高める重要な更新となっています。"
+    },
+    {
+      "id": "277d9571b39708ee148b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Apple TV, HomePod Mini, and More on Track to Launch This Year",
+      "url": "https://www.macrumors.com/2026/09/14/new-apple-tv-homepod-mini-on-track-for-2026/",
+      "publishedAt": "2026-09-14T21:18:26.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/HomePod-mini-and-Apple-TV-Sage.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新しいApple TVやHomePod miniなどが今年発売か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者が、Siri AIをサポートする新しいApple TVやHomePod miniのモデルが今年中に発売される予定であると伝えています。さらに、新しいスマートホームハブ、M6チップを搭載したエントリー向けの14インチMacBook ProやiMac、有機ELディスプレイを採用したiPad miniなども今年の発売候補に挙がっています。長年噂されてきたこれらの製品が、今年秋の時期にようやく登場するのか注目されています。"
+    },
+    {
+      "id": "15377e12b55e3eb3bf40",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "MacBook Pro With OLED Touch Screen Running macOS 27.1 Inside Apple",
+      "url": "https://www.macrumors.com/2026/09/14/oled-macbook-pro-macos-27-1-testing/",
+      "publishedAt": "2026-09-14T21:16:54.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/10/Apple-MacBook-Pro-M4-hero.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "有機ELタッチ画面搭載のMacBook Pro、内部でテスト中か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者によると、有機ELタッチディスプレイを搭載した新型の14インチおよび16インチMacBook Proモデルが、社内でmacOS 27.1を搭載してテストされていると報じられています。これらの上位モデルは、従来のノッチに代わるDynamic Islandの採用や薄型化に加え、M5 ProおよびM5 Maxチップを搭載する見込みです。当初より発売時期の予測が前倒しされ、今年後半の登場に向けて開発が進められていると伝えられています。"
+    },
+    {
+      "id": "8b03a5f788a567ca1b78",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "macOS Golden Gate Now Available With Siri AI, Visual Intelligence and More",
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-macos-golden-gate/",
+      "publishedAt": "2026-09-14T21:08:13.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、Siri AIやビジュアルインテリジェンス搭載のmacOS Golden Gateを公開",
+      "summaryJa": "Appleは、Appleシリコン搭載Mac向けに新しいOS「macOS Golden Gate」をリリースしました。このアップデートでは、よりパーソナルで会話型の新しい「Siri AI」がSpotlightや専用アプリに統合されたほか、画面上の情報を認識して操作する「ビジュアルインテリジェンス」がMacに初めて導入されています。"
+    },
+    {
+      "id": "9c591d0093ebb8c238b3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27 Golden Gate, macOS Tahoe 26.7, and macOS Sequoia 15.8 fix 200+ vulnerabilities",
+      "url": "https://9to5mac.com/2026/09/14/macos-27-golden-gate-macos-tahoe-26-7-and-macos-sequoia-15-8-fix-200-vulnerabilities/",
+      "publishedAt": "2026-09-14T20:54:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/A-serious-Mac-screen-sharing-vulnerability-is-being-actively-exploited.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOSの最新版や旧OS向けアップデートで200件以上の脆弱性を修正",
+      "summaryJa": "Appleは「macOS 27 Golden Gate」をはじめとする各OS向けにセキュリティアップデートを公開し、200件を超える脆弱性を修正しました。今回の修正には、任意のコード実行やサンドボックスからの脱獄などを防ぐ重要なパッチが含まれており、旧バージョンのmacOS TahoeやSequoiaにも同様の修正が適用されています。"
+    },
+    {
+      "id": "66ec250c2d883c7cad19",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple files Supreme Court brief challenging contempt ruling in Epic case [U]",
+      "url": "https://9to5mac.com/2026/09/14/apple-files-supreme-court-brief-challenging-contempt-ruling-in-epic-case/",
+      "publishedAt": "2026-09-14T20:38:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Epic Gamesとの訴訟を巡り最高裁判所に本案趣意書を提出",
+      "summaryJa": "Appleは、Epic Gamesとの長期にわたる法廷闘争において、蔑視命令に対する不服申し立てを正式に行いました。外部決済への誘導を巡る反ステアリング規則の違反認定や、それに伴う差し止め命令および手数料の設定を巡る対立が続いており、今回の最高裁判所への提出書類によってさらなる法的判断が求められることになります。"
+    },
+    {
       "id": "8bb7b05592806a01a892",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -179,6 +344,21 @@
       ],
       "titleJa": "Apple、iOS 27とiOS 26.7で100件以上のセキュリティ脆弱性を修正",
       "summaryJa": "AppleはiOS 27およびiOS 26.7のアップデートをリリースし、合計で100件以上のセキュリティ脆弱性を修正しました。悪意あるアプリによるルート権限の取得を防ぐカーネルの修正などが含まれています。現時点で悪用の報告はされていませんが、デバイスの安全性を保つため早めのアップデートが推奨されます。"
+    },
+    {
+      "id": "2ec6b0e002358915f780",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple just released new AirPods Pro 3 firmware, more for iOS 27",
+      "url": "https://9to5mac.com/2026/09/14/apple-just-released-new-airpods-pro-3-firmware-more-for-ios-27/",
+      "publishedAt": "2026-09-14T18:33:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/airpods-pro-3-in-case.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iOS 27の新機能に対応したAirPods Pro 3向けの最新ファームウェアを配信",
+      "summaryJa": "Appleは、iOS 27のリリースに合わせてAirPods Pro 3やその他の対応モデル向けに新しいファームウェアの配信を開始しました。今回のアップデートにより、カスタムEQやSiri AIへの対応、精度の向上した探す機能、ジムキットのサポートなど、iOS 27の最新機能が利用可能になります。"
     },
     {
       "id": "1bc7936e14bf0ebb1041",
@@ -4328,189 +4508,9 @@
       ],
       "titleJa": "Appleの新製品やiPhone Ultraの噂をポッドキャストで討論",
       "summaryJa": "9to5Macのポッドキャスト番組において、ベルリンで開催中のIFAから接続したフェルナンド氏らが、今後噂されているiPhone Ultraや今週の新製品イベントで発表される可能性のある5つの製品について議論しています。番組ではAppleエコシステムに関する興味深い観察や、愛用している周辺機器についても触れられています。"
-    },
-    {
-      "id": "d417727d26c3fd27a2ba",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "BASF subsidiary sues Apple over alleged Face ID patent infringement",
-      "url": "https://9to5mac.com/2026/09/07/basf-subsidiary-sues-apple-over-alleged-face-id-patent-infringement/",
-      "publishedAt": "2026-09-08T01:34:36.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/face-id-liquid-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "BASFの子会社、Face IDの特許侵害でAppleを提訴",
-      "summaryJa": "独BASFの子会社であるtrinamiXが、iPhoneやiPad Proなどに搭載されているFace IDの仕組みが自社の7件の特許を侵害しているとして、Appleを相手取った訴訟を提起しました。問題となっているのは人間の肌を正確に検出する光学式皮膚検出技術などで、初期のFace ID対策技術が組み込まれた近年のデバイスが対象に含まれていると報じられています。"
-    },
-    {
-      "id": "a495d27650d2e6d71ffb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp will soon let users chat with up to five third-party AI agents",
-      "url": "https://9to5mac.com/2026/09/07/whatsapp-will-soon-let-users-chat-with-up-to-five-third-party-ai-agents/",
-      "publishedAt": "2026-09-07T21:36:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp、サードパーティ製AIエージェントのサポート機能か",
-      "summaryJa": "WhatsAppがサードパーティ製のAIエージェントをアプリに接続し、チャットを通じてタスクの実行指示を出せる新機能を開発していると報じられています。専用のチャットでAPIキーを使って連携する仕組みとなり、現在は個別チャットでのみ利用可能です。競合のTelegramなどが先行する中、公式なサポート提供に向けて準備が進められています。"
-    },
-    {
-      "id": "a8f74ceb86f6626b4091",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple invites developers to submit browser interoperability ideas for Interop 2027",
-      "url": "https://9to5mac.com/2026/09/07/apple-invites-developers-to-submit-browser-interoperability-ideas-for-interop-2027/",
-      "publishedAt": "2026-09-07T20:31:22.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/safari-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、Interop 2027に向けたブラウザ相互運用性のアイデアを募集",
-      "summaryJa": "AppleのWebKitチームは、クロスブラウザの相互運用性を向上させる取り組み「Interop 2027」に向けたアイデアの募集を開始しました。GoogleやMicrosoftなどの主要ブラウザメーカーと協力し、ウェブ標準の改善を目指す年間プロジェクトの一環です。開発者からの提案は9月23日まで受け付けられ、テスト可能な成熟したウェブ標準に基づいていることが求められます。"
-    },
-    {
-      "id": "96f5c1f0ba87198c2495",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Report: Apple TV working on spin-off to its hit series Silo",
-      "url": "https://9to5mac.com/2026/09/07/report-apple-tv-working-on-silo-spin-off/",
-      "publishedAt": "2026-09-07T17:15:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-silo.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVの人気ドラマ「SILO：サイロ」のスピンオフが開発中か",
-      "summaryJa": "Apple TVのSF大ヒットドラマ「SILO：サイロ」について、新たなスピンオフ作品が開発されていると報じられています。信頼できる情報筋によると、サイロのセットが撮影終了後も解体されずに残されていることから、将来的な再利用が計画されている可能性が高いと見られています。原作小説に基づくサイロ40の出来事を描く内容になるとみられ、公式発表はまだありませんが今後の展開に注目が集まっています。"
-    },
-    {
-      "id": "681c443e20a2a92f4b55",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Five iPhone 18 Pro Camera Features Seemingly Leak in Code",
-      "url": "https://www.macrumors.com/2026/09/07/five-iphone-18-pro-camera-features-seemingly-leak/",
-      "publishedAt": "2026-09-07T16:07:47.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-dark-blue-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "次期iPhone Pro向けカメラの新機能がベータ版コードから判明か",
-      "summaryJa": "iOSのベータ版コードの解析から、将来のiPhone Proモデル向けとみられるカメラアプリの改良機能が複数発見されました。露出を判断するための波形やヒストグラム表示、ピントのエッジを強調するフォーカスピーキング、連続セルフタイマー撮影機能などが含まれています。マニュアルフォーカスの制御や新しい画像補正処理などもテストされており、今後のソフトウェアアップデートや新機種での実装が期待されています。"
-    },
-    {
-      "id": "20a83549e01f2a17f1cc",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Leak Hints at Four New Features for Apple Watch Series 12 and Ultra 4",
-      "url": "https://www.macrumors.com/2026/09/07/leak-hints-at-four-new-apple-watch-features/",
-      "publishedAt": "2026-09-07T15:58:06.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-watch-series-12.png",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch次期モデルの機能がwatchOSベータ版から浮上",
-      "summaryJa": "watchOSおよびiOSのベータ版コードから、次期Apple Watchシリーズに向けたとみられるいくつかの新機能が明らかになりました。コード内には新しい「Readiness」アプリのほか、筋トレの詳細な記録機能や、パルス信号の読み取りを改善する新しい光学センサーシステムが含まれています。さらに、内蔵ストレージが従来の64GBから128GBへと倍増する可能性があることも指摘されています。"
-    },
-    {
-      "id": "e9e02ea4b8f8bd640fb1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Xiaomi Announces Foldable iPhone Rival",
-      "url": "https://www.macrumors.com/2026/09/07/xiaomi-announces-foldable-iphone-rival/",
-      "publishedAt": "2026-09-07T15:26:23.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Xiaomi-18-Fold-image.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Xiaomiが新型折りたたみスマホ「18 Fold」を正式発表",
-      "summaryJa": "中国のXiaomiが、ワイド型の新しい折りたたみスマートフォン「18 Fold」を公式発表しました。外側と内側に高輝度なLTPOディスプレイを搭載し、自社製の3nmプロセスチップやライカ共同開発のカメラを備えています。Samsungの「Galaxy Z Fold8」などに対抗するモデルであり、折りたたみスマートフォン市場における今後の動向に注目が集まっています。"
-    },
-    {
-      "id": "4baf5524cbec944e0b71",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "A foldable Mac is years away, but Apple is still working on it",
-      "url": "https://9to5mac.com/2026/09/07/a-foldable-mac-is-years-away-but-apple-is-still-working-on-it/",
-      "publishedAt": "2026-09-07T14:58:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/Folding-MacBook-would-be-along-the-lines-of-the-Lenovo-Yogabook.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "折りたたみ式Macの登場にはまだ数年かかる見込み",
-      "summaryJa": "Appleが開発を進めていると噂される折りたたみ式の端末について、ハイブリッド端末の構想は一連の機能統合により事実上置き換えられたと指摘されています。しかし、ソフトキーボードがハードウェアの代替として実用的になる技術が整えば、最終的には全画面の折りたたみ式Macが登場するだろうと予測されています。"
-    },
-    {
-      "id": "9e0bd1a78bd42d63eab0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Event Could Hit Apple Shares, KeyBanc Warns",
-      "url": "https://www.macrumors.com/2026/09/07/iphone-18-pro-event-could-hit-apple-shares/",
-      "publishedAt": "2026-09-07T14:33:56.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-surprise-and-shine-event.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの発表イベントが株価に下落圧力をもたらす可能性",
-      "summaryJa": "金融機関のKeyBancが、9月9日に予定されているiPhoneの発表イベントがApple株の下落要因になる可能性があると警告しています。コスト上昇が需要や利益率に与える影響や、一部モデルの大幅な値上げ観測などが投資家の懸念材料になると分析されており、過去の傾向からも発表前後に株価が調整するアノマリーが指摘されています。"
-    },
-    {
-      "id": "59225cc53ad59522e34f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro appears to show new colors in a retail store, but likely fake",
-      "url": "https://9to5mac.com/2026/09/07/iphone-18-pro-appears-to-show-new-colors-in-a-retail-store-but-likely-fake/",
-      "publishedAt": "2026-09-07T13:30:52.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-18-Pro-appears-to-show-new-colors-in-a-retail-store-but-likely-fake.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "店舗でのiPhone 18 Pro新色リーク動画、フェイクの可能性が高いと指摘",
-      "summaryJa": "実績のあるリーク情報発信者が共有した、店頭でのiPhone 18 Proの新色とみられる端末をとらえた短い動画について、ほぼ確実にフェイクであると報じられています。映像の不自然な店舗環境や、流通している精巧なモックアップの存在を考慮すると、実際に本物のデモ機が流出した可能性は低いとみられています。"
-    },
-    {
-      "id": "72011ccdb8712d137a88",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "All of the best Apple Labor Day deals: AirPods, Mac, charging gear, accessories, more",
-      "url": "https://9to5mac.com/2026/09/07/best-apple-labor-day-deals/",
-      "publishedAt": "2026-09-07T13:00:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-Labor-Day-deals-2026.png?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirPodsやMacなど、Apple製品がセールで大幅値引きに",
-      "summaryJa": "労働者の日の祝日に合わせてAmazonやBest Buyなどの大規模セールが開催され、多くのApple製品が特別価格で販売されています。AirPods Pro 3やAirPods Max 2、AirTag 2のほか、新型のM6 Mac miniやM5 MacBook Airなどもセール対象となり、お得に購入できる最後のチャンスとなっています。"
-    },
-    {
-      "id": "1d1a40b36fa555fe3982",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "How do Apple Refurbished products compare with Amazon and Walmart?",
-      "url": "https://9to5mac.com/2026/09/07/how-do-apple-refurbished-products-compare-with-amazon-and-walmart/",
-      "publishedAt": "2026-09-07T12:50:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Refurbished-store.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple認定整備済製品と他社リユース品の比較",
-      "summaryJa": "Appleの認定整備済製品は、新品同様の品質や1年間の正規保証が付く信頼性の高い選択肢です。一方、AmazonやWalmartなどの他社リユース品は価格が手頃な場合があるものの、外観の傷やバッテリー容量の低下、短い保証期間などの違いがあります。購入を検討する際は、それぞれの基準や保証内容をしっかりと理解することが重要です。"
     }
   ],
-  "updatedAt": "2026-09-14T20:28:46.940Z",
+  "updatedAt": "2026-09-14T23:23:35.050Z",
   "initialized": true,
   "summaryVersion": 4
 }
