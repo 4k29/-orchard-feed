@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "0073dd65204e10811f5d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 Available Tomorrow With These 8 New Features",
+      "url": "https://www.macrumors.com/2026/09/13/ios-27-features-available-tomorrow/",
+      "publishedAt": "2026-09-13T23:30:07.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27-Icon-iPhone.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、大幅な刷新を果たした「iOS 27」を明日公開へ",
+      "summaryJa": "Appleは、iPhone 18 Proの発表イベントにおいて、「iOS 27」を明日9月14日にリリースすると発表しました。今回のアップデートの目玉は、ChatGPTのように高度な処理が可能な「Siri AI」の大幅な刷新です。対応機種はiPhone 11シリーズ以降ですが、Apple Intelligence機能の利用にはiPhone 15 Pro以降が必要となります。"
+    },
+    {
       "id": "aa47122686d2a3f78b59",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4493,24 +4508,9 @@
       ],
       "titleJa": "Acerの6Kタッチディスプレイを試す",
       "summaryJa": "Acerの新しい31.5インチ6Kディスプレイ「ProDesigner PE320QXT」のレビュー記事が公開されました。Macと組み合わせてタッチ操作ができる点が特徴ですが、本体が厚く重いことや、輝度が400ニトとやや控えめである点などの妥協点についても触れられています。"
-    },
-    {
-      "id": "18d6e01df806a73f9087",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New profile of John Ternus offers insight into life and reputation of Apple CEO",
-      "url": "https://9to5mac.com/2026/09/04/new-profile-of-john-ternus-offers-insight-into-life-and-reputation-of-apple-ceo/",
-      "publishedAt": "2026-09-04T19:17:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-01.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの新CEOジョン・テラスの人柄に迫る記事が公開",
-      "summaryJa": "ティム・クックからバトンを受け継ぎAppleのCEOに就任したジョン・テラスについて、フィナンシャル・タイムズ紙が社内での評判や経歴を伝える詳細なプロフィール記事を公開しました。社内では非常に有能かつ控えめな人物として知られており、長年の取引先であるコーニングのCEOからも高い称賛を受けています。車好きの一面や卓越した集中力など、彼の知られざる人となりや周囲からの評価が明らかにされています。"
     }
   ],
-  "updatedAt": "2026-09-13T21:59:20.549Z",
+  "updatedAt": "2026-09-14T00:05:20.901Z",
   "initialized": true,
   "summaryVersion": 4
 }
