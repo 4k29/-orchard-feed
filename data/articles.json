@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "1bc7936e14bf0ebb1041",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.1: New Features to Expect and Release Date",
+      "url": "https://www.macrumors.com/2026/09/14/ios-27-1-new-features-release-date/",
+      "publishedAt": "2026-09-14T16:30:13.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27-1-Beta-iPhone.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27.1の新機能とリリース時期の予測",
+      "summaryJa": "Appleのプレスリリースから、iOS 27.1が10月23日までにリリースされる見通しであることが分かりました。このアップデートでは、Siri AIの日本語などへの対応言語拡大や、初期リリースに含まれないメッセージアプリ等の新機能追加が期待されています。"
+    },
+    {
+      "id": "550b25f9e8fd8bdc967f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Top Charging Accessories for iPhone 18 Pro and Pro Max on Sale Ahead of Launch",
+      "url": "https://www.macrumors.com/2026/09/14/top-charging-accessories-iphone-18-pro/",
+      "publishedAt": "2026-09-14T16:07:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/anker-iphone-18-pro-chargers-scaled.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Pro向け充電アクセサリのセール",
+      "summaryJa": "新型iPhone 18 Proシリーズの発売を控え、Amazonや各メーカーで対応充電アクセサリの割引セールが実施されています。Twelve SouthやAnkerの人気ワイヤレス充電器などが、期間限定の特別価格で販売されています。"
+    },
+    {
+      "id": "ca6750a7ab4f18c2871a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Federico Viticci on iOS 27: ‘It’s good to see Apple sweat the details again’",
+      "url": "https://9to5mac.com/2026/09/14/federico-viticci-on-ios-27-its-good-to-see-apple-sweat-the-details-again/",
+      "publishedAt": "2026-09-14T16:07:17.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-rose.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "著名レビュアーが語るiOS 27の細部へのこだわり",
+      "summaryJa": "MacStoriesのフェデリコ・ヴィティッチ氏が恒例のiOS 27レビューを公開し、細部へのこだわりを評価しています。新しいSiri AIについては、複雑なエージェントタスクには不向きなものの、日常のちょっとした操作には優れた進化を遂げていると分析しています。"
+    },
+    {
+      "id": "83ac9034b45d592fe7f0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirPods 4 vs. AirPods 5 Buyer's Guide",
+      "url": "https://www.macrumors.com/guide/airpods-4-vs-5/",
+      "publishedAt": "2026-09-14T16:06:22.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/AirPods-5-Gradient.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirPods 4とAirPods 5の買い方ガイド",
+      "summaryJa": "今月発表されたAirPods 5は、エントリーモデルとして初めてアクティブノイズキャンセリングが標準搭載されました。前モデルであるAirPods 4との価格差や機能の違いを比較し、最新モデルの進化点や購入時のポイントをまとめています。"
+    },
+    {
+      "id": "e2724781e854627c791e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: AirPods, MacBook Air $150 off, Series 12, Anker 25W MagSafe charging stations, more",
+      "url": "https://9to5mac.com/2026/09/14/deals-airpods-series-12-anker-25w-charging-stations/",
+      "publishedAt": "2026-09-14T15:35:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-MacBook-Air-Anker-25W-MagSafe-chargers.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBook AirやAirPodsがお買い得に、最新セール情報",
+      "summaryJa": "AmazonにてM5搭載MacBook Airが最大150ドル引きで販売されているほか、AirPods Pro 3やAnker製のMagSafe充電器などが割引価格で登場しています。新型AirPods 5の予約受付も始まっており、周辺機器をお得に購入できる複数のセールが展開中です。"
+    },
+    {
+      "id": "c5c5721e96e1d6109a15",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Fantastical 4.2 adds Siri AI, bigger widgets, and a refreshed Mac design",
+      "url": "https://9to5mac.com/2026/09/14/fantastical-4-2-adds-siri-ai-bigger-widgets-and-a-refreshed-mac-design/",
+      "publishedAt": "2026-09-14T15:12:37.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/fantastical-27.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "カレンダーアプリ「Fantastical 4.2」が登場",
+      "summaryJa": "最新OSのリリースに合わせて「Fantastical 4.2」および「Cardhop 2.5」が配信開始されました。新バージョンではSiriとの統合によるAI機能が強化され、予定の確認や変更を対話形式で行えるようになっています。また、ホーム画面やデスクトップ向けの大型ウィジェット対応や、デザインの刷新が行われました。"
+    },
+    {
+      "id": "33b4f4e8e193bda40097",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iMazing puts you in full control of your iPhone data, now with 20% discount",
+      "url": "https://9to5mac.com/2026/09/14/imazing-puts-you-in-full-control-of-your-iphone-data-now-20-discount/",
+      "publishedAt": "2026-09-14T15:03:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/im-9to5mac-inarticle-1@2x_29cdf7.png?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhoneのデータ管理ツール「iMazing」が20%オフ",
+      "summaryJa": "iPhoneやiPadの高度なデータ管理を可能にするユーティリティソフト「iMazing」の読者向け20%割引セールが実施されています。写真やメッセージ、連絡先などのバックアップや転送を簡単にこなせるほか、近く予定されている大型アップデートでは、新たにAndroidサポートの追加も予告されています。"
+    },
+    {
+      "id": "eea80124e5b4b0bb597a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 Code Reveals New MagSafe Wallet Designs and Animation",
+      "url": "https://www.macrumors.com/2026/09/14/ios-27-reveals-new-wallet-designs/",
+      "publishedAt": "2026-09-14T14:47:35.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/hermes-magsafe-wallets.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27コードから新たなエルメス製MagSafeウォレットが判明",
+      "summaryJa": "iOS 27のコードから、探す機能に対応した新しいエルメス製のMagSafeウォレットの多様なデザインが発見されました。バンダナ柄やタータンチェック、クロコダイル調の型押しなど幅広いラインナップが用意されています。また、専用の装着アニメーションも追加される見込みです。"
+    },
+    {
+      "id": "f5cbbc6b2193e615aec3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Things 3 Updated for iOS 27 With Siri AI and Spotlight Integration",
+      "url": "https://www.macrumors.com/2026/09/14/things-3-updated-for-ios-27/",
+      "publishedAt": "2026-09-14T14:32:22.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/things-os27-hero.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "タスク管理アプリ「Things 3」、iOS 27のSiri AIやSpotlight統合に対応",
+      "summaryJa": "タスク管理アプリ「Things 3」がバージョン3.24にアップデートされ、iOS 27の新しいSiri AIやシステム全体のSpotlight検索との統合機能が追加されました。自然な音声でタスクを作成したり、メモや期限の追加といった会話を継続できるほか、Spotlightからのタスク検索や新しいXLサイズウィジェットの追加など、新OSに向けた多数の機能拡張が含まれています。"
+    },
+    {
+      "id": "e424c6cfe9217e5239fc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "M4 iPad Air Gets Up to $149 Off at Amazon and Best Buy This Week",
+      "url": "https://www.macrumors.com/2026/09/14/m4-ipad-air-150-off/",
+      "publishedAt": "2026-09-14T14:13:19.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2020/03/m4-ipad-air-blue-2.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "M4 iPad AirがAmazonやBest Buyで最大149ドルの値引きに",
+      "summaryJa": "AmazonやBest Buyなどの米小売店において、M4チップを搭載した2026年型のiPad Air各種モデルが最大149ドルの割引価格で販売されています。対象には11インチおよび13-インチの各モデルが含まれており、夏の価格改定以降では最もお得な価格となっています。クーポンコードの適用などは不要で、自動的に割引が適用される仕組みです。"
+    },
+    {
+      "id": "8b5b5c45455dd072afce",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Things 3.24 update arrives with OS 27 support, Siri AI integration, new widget size",
+      "url": "https://9to5mac.com/2026/09/14/things-3-24-update-arrives-with-os-27-support-siri-ai-integration-new-widget-size/",
+      "publishedAt": "2026-09-14T14:04:12.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Things-OS-27.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "タスク管理アプリ「Things 3.24」が登場、OS 27やSiri AIに対応",
+      "summaryJa": "人気プロジェクト管理アプリの「Things」がアップデートされ、iOS 27やmacOS 27をはじめとするAppleの新しいOS群のリリースに合わせて「Things 3.24」が配信開始されました。新機能として、新しいSiri AIやSpotlightとの完全統合、通知のスヌーズ期間の選択肢追加、ホーム画面で長いリストを確認できる新ウィジェットなどが実装されています。"
+    },
+    {
+      "id": "a56cc51526f9f3588097",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro, Pro Max pre-orders now delayed to October for most models",
+      "url": "https://9to5mac.com/2026/09/14/iphone-18-pro-pro-max-pre-orders-now-delayed-to-october-for-most-models/",
+      "publishedAt": "2026-09-14T13:43:25.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-side-angle-burgundy.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 ProおよびPro Max、予約分の配送が10月にずれ込む状況に",
+      "summaryJa": "週末に受付が始まったiPhone 18 ProおよびPro Maxの予約ですが、多くのモデルですでに配送予定時期が10月にずれ込んでいます。最初の注文分は発売日の金曜日に届けられる予定ですが、その後の注文ではPro Maxが10月上旬から中旬、Proも9月下旬から10月上旬の案内となっており、初期需要の高さがうかがえます。"
+    },
+    {
       "id": "877e461ec797e93661ca",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4328,189 +4508,9 @@
       ],
       "titleJa": "CarPlayを快適にする手頃なアクセサリ",
       "summaryJa": "有線のみのCarPlayをワイヤレス化するアダプタや、CarPlay非搭載の旧型車でも手軽に導入できるポータブルディスプレイなど、コストを抑えて車内環境を快適にする便利なアクセサリが紹介されています。長距離ドライブでのiPhoneの充電や冷却をサポートするアイテムも含まれており、手頃な投資で愛車の利便性を大きく高めることが可能です。"
-    },
-    {
-      "id": "9b6166065fd7f6280e79",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Indie App Spotlight: ‘KeyAlarm’ turns your most important calendar events into alarms",
-      "url": "https://9to5mac.com/2026/09/05/indie-app-spotlight-keyalarm-calendar-events-into-alarms/",
-      "publishedAt": "2026-09-05T19:30:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/KeyAlarm.png?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "カレンダーの重要イベントをアラーム化する「KeyAlarm」",
-      "summaryJa": "KeyAlarmは、指定したキーワードに一致するカレンダーの予定を自動でアラームに変換してくれるiOSアプリです。通知を見落としがちな重要な予定の時間を事前に知らせてくれ、複数のアラーム設定やカレンダーごとの条件指定にも対応しています。iOSの「AlarmKit」フレームワークを活用しており、App Storeから無料でダウンロードして利用可能です。"
-    },
-    {
-      "id": "76dc5a713ee6bd110b57",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s how iPhone Ultra’s form factor could compare to other Apple products",
-      "url": "https://9to5mac.com/2026/09/05/iphone-ultra-form-factor-comparison/",
-      "publishedAt": "2026-09-05T19:15:18.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "折りたたみiPhone Ultraのサイズ感を他社製品と比較",
-      "summaryJa": "今月発表されると噂されているApple初の折りたたみ式iPhone「iPhone Ultra」について、同等の画面サイズを持つサムスン製端末を元にしたサイズ感の比較が話題になっています。外側5.5インチ、内側7.6インチのディスプレイを搭載し、開いた状態ではiPad miniのような大画面をポケットに入れて持ち運べるようになると報じられています。"
-    },
-    {
-      "id": "b5782279780a297165fe",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirTag 2 4-Pack Drops to $79.99 on Amazon, Matching Record Low",
-      "url": "https://www.macrumors.com/2026/09/05/airtag-2-4-pack-on-sale/",
-      "publishedAt": "2026-09-05T16:09:38.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/new-airtag-2-peach.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AmazonでAirTag 2の4個パックが過去最安値に",
-      "summaryJa": "Amazonにて、AirTag 2の4個パックが通常99.00ドルから79.99ドルに値引きされ、これまでの最安値と同等の価格で購入可能になっています。AirTag 2は第2世代の超広帯域チップを搭載し、正確な場所を見つける機能の対応距離が従来モデルから最大50%向上しています。"
-    },
-    {
-      "id": "f2eb870abf0e6a6a7127",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro: Everything M6 Tells Us About the A20 Chip",
-      "url": "https://www.macrumors.com/2026/09/05/what-m6-tells-us-about-a20/",
-      "publishedAt": "2026-09-05T16:00:13.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/m6-a20-pro-chips.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "M6チップから見えてくるiPhone 18 ProのA20チップ",
-      "summaryJa": "先週発表されたM6チップの情報をもとに、iPhone 18 Pro向けと予想されるA20チップの仕様について報じられています。M6はTSMCの2nmプロセスを採用しており、A20シリーズも同様の製造プロセスへ移行することでパフォーマンスや電力効率の向上が期待されています。"
-    },
-    {
-      "id": "448488cd84eeb0e7bd64",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple @ Work: Capping bug bounty submissions is the wrong response in the AI era of security threats",
-      "url": "https://9to5mac.com/2026/09/05/capping-bug-bounty-submissions-is-the-wrong-response-in-the-ai-era-of-security-threats/",
-      "publishedAt": "2026-09-05T13:01:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの脆弱性報告の件数制限に懸念の声",
-      "summaryJa": "Appleがセキュリティ研究者による脆弱性報告の受付件数に上限を設け、制限に達した場合は30日間のクールダウン期間を導入したことが確認されました。AI生成によるバグ報告の急増に対応するための措置ですが、セキュリティ脅威が増す現代において逆効果ではないかとの指摘がなされています。"
-    },
-    {
-      "id": "7d362ac3d082a8bd849f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Top Stories: 'Surprise and Shine' Apple Event Preview, John Ternus Takes Over, and More",
-      "url": "https://www.macrumors.com/2026/09/05/top-stories-suprise-and-shine-preview/",
-      "publishedAt": "2026-09-05T13:00:10.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/top-stories-2026-09-05.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、9月9日にスペシャルイベントを開催へ",
-      "summaryJa": "Appleは9月9日に新製品発表イベントを開催すると予告しました。このイベントでは、長年噂されてきた初の折りたたみ式iPhoneをはじめとする次世代iPhoneラインナップや、新しいApple Watch、AirPodsなどの登場が期待されています。また、ティム・クックの後任としてジョン・ターナスが新CEOに就任したばかりであり、新体制での初の大型イベントとして注目を集めています。"
-    },
-    {
-      "id": "4dbe6a4634a807cee7a9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Labor Day weekend deals: AirPods Pro 3, Studio Display, Mac mini, AirTag 2, chargers, more",
-      "url": "https://9to5mac.com/2026/09/05/apple-labor-day-weekend-deals-airpods/",
-      "publishedAt": "2026-09-05T12:12:36.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Labor-Day-weekend-Apple-deals.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AmazonなどでApple製品のレイバーデーセールが開催中",
-      "summaryJa": "米国のレイバーデー連休に合わせ、Amazonやベストバイなどの大手小売店でApple製品の大規模なセールが実施されています。AirPods Pro 3やAirTag 2、M6およびM5 Proを搭載した新しいMac mini、M5 MacBook Airなどが割引価格で販売されています。周辺機器や充電アクセサリなども対象となっており、各製品がセール価格や過去最安値水準で登場しています。"
-    },
-    {
-      "id": "0996ef2deb4650c6a553",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Ultra, iPhone 18 Pro, and More: Apple's September 9 Event Preview",
-      "url": "https://www.macrumors.com/guide/apple-september-2026-what-to-expect/",
-      "publishedAt": "2026-09-04T22:26:17.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、9月9日にイベント開催か 新しいiPhoneや折りたたみモデルの噂",
-      "summaryJa": "Appleが9月9日に開催するイベントでは、新型iPhoneのラインナップに加え、ブランド初となる折りたたみ式デバイスが発表されるとの見方が伝えられています。本体には約5.5インチの外側ディスプレイと約7.8インチの内側ディスプレイを備え、iPad miniのような形状になると噂されています。また、新しいApple WatchやAirPodsの登場も期待されており、最新の動向に注目が集まっています。"
-    },
-    {
-      "id": "b322ee5cf405f6ce6a57",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "CarPlay now works with five major chatbot apps",
-      "url": "https://9to5mac.com/2026/09/04/carplay-now-works-with-five-major-chatbot-apps/",
-      "publishedAt": "2026-09-04T21:17:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "CarPlayの会話型アプリにClaudeが対応",
-      "summaryJa": "AnthropicのiPhone向けアプリ「Claude」が最新のアップデートによりCarPlayに対応しました。CarPlayではChatGPTやPerplexityなどに続いてAIチャットボットの対応が進んでおり、運転中でも音声でClaudeと会話できるようになっています。"
-    },
-    {
-      "id": "f5c166130d82190176b7",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Planning AI Home Security Camera and Service for 2027",
-      "url": "https://www.macrumors.com/2026/09/04/apple-home-security-camera-2027/",
-      "publishedAt": "2026-09-04T21:05:45.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/11/homekit-showdown-redux.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、AIを活用したホームセキュリティカメラとサービスを2027年にも投入か",
-      "summaryJa": "Appleがプライバシーに配慮した独自のホームセキュリティカメラおよび監視サービスを2027年にリリースする計画であると報じられています。このカメラは実際の映像ではなくAIを利用して周辺環境を監視する仕組みで、今後のスマートホーム戦略の柱として期待されています。"
-    },
-    {
-      "id": "603d52fe8477cb960efe",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Anthropic's Claude Comes to CarPlay",
-      "url": "https://www.macrumors.com/2026/09/04/anthropics-claude-is-coming-to-carplay/",
-      "publishedAt": "2026-09-04T20:43:31.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/06/CarPlay-Liquid-Glass-Light.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "ClaudeのiOSアプリがCarPlay統合に対応",
-      "summaryJa": "AnthropicがiOS版「Claude」アプリでCarPlayへの対応を開始し、車載インフォテインメントシステムを介して音声でClaudeを利用できるようになりました。ユーザーはハンズフリーで過去のチャットの再開や新規の音声会話を行えますが、車両やiPhoneの直接制御には対応していません。"
-    },
-    {
-      "id": "ceb5f4bcfb9b74739c42",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "macOS 26.7 Code Hints at Two Unreleased Apple Game Controllers",
-      "url": "https://www.macrumors.com/2026/09/04/macos-26-7-code-game-controllers/",
-      "publishedAt": "2026-09-04T20:40:31.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/10/apple-game-controller-graphic.jpg.png",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "macOSのコードから未発表のApple製ゲームコントローラーの存在が浮上",
-      "summaryJa": "macOSのリリース候補版のコード内から、Apple製とみられる2種類の未発表ゲームコントローラーのプロファイルが見つかったと伝えられています。これらは異なるハプティクス設計や各種ボタンを備えており、内部テスト用ハードウェアの可能性も含めて今後の動向が注目されています。"
     }
   ],
-  "updatedAt": "2026-09-14T10:32:07.965Z",
+  "updatedAt": "2026-09-14T16:30:48.915Z",
   "initialized": true,
   "summaryVersion": 4
 }
