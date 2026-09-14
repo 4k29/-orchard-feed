@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "877e461ec797e93661ca",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Third-Gen iPhone Duo to Get Face ID, Telephoto Lens, Expects Gurman",
+      "url": "https://www.macrumors.com/2026/09/14/third-gen-iphone-duo-face-id-telephoto-lens/",
+      "publishedAt": "2026-09-14T09:30:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-home-screen.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "第3世代のiPhone DuoはFace IDと望遠レンズを搭載か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者が、将来のiPhone DuoモデルにはFace IDと望遠レンズが優先的に搭載されるとの見通しを示しました。初期モデルでは物理的な制約からTouch IDとデュアルカメラが採用されていましたが、部品の小型化やAIの進化を組み合わせることで、第3世代での搭載が可能になると予想されています。"
+    },
+    {
+      "id": "0e5fbeadd511b228f8db",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo Has a Hidden Display Setting for Case Compatibility",
+      "url": "https://www.macrumors.com/2026/09/14/iphone-duo-hidden-display-setting-explained/",
+      "publishedAt": "2026-09-14T09:06:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/shift-left-edge-iphone-duo@2x-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone Duo、ケース互換性向けの隠しディスプレイ設定を発見",
+      "summaryJa": "新しいiPhone Duoのディスプレイ設定に、画面の左側に狭い黒い境界線を追加する特別なオプションが存在することが分かりました。これはサードパーティ製の分厚い保護ケースが画面の端を覆ってしまう場合でも、iOSの戻るスワイプジェスチャーが正常に機能するように配慮されたものとみられています。"
+    },
+    {
+      "id": "81ed9cba51009dbaddf8",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Gurman: 'iPhone Duo Max' With Bigger Display Likely in Apple's Plans",
+      "url": "https://www.macrumors.com/2026/09/14/iphone-duo-max-apple-product-roadmap/",
+      "publishedAt": "2026-09-14T06:54:47.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-hero.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "大型ディスプレイ搭載の「iPhone Duo Max」が登場する可能性",
+      "summaryJa": "Bloombergのマーク・ガーマン記者が、将来的にさらに大きなディスプレイを搭載したiPhone Duo Maxが計画される可能性について言及しました。Appleが「Duo」という名称を採用した背景には、将来的にMaxやSE、Miniといった派生モデルを追加する余地を残す狙いがあったと指摘されています。"
+    },
+    {
+      "id": "c26f83513af536c32776",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPod Touch Released 19 Years Ago Today",
+      "url": "https://www.macrumors.com/2026/09/14/ipod-touch-released-19-years-ago-today/",
+      "publishedAt": "2026-09-14T06:17:50.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/ipod-touch-original.png",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "初代iPod touchの発売から今日で19年",
+      "summaryJa": "2007年9月14日、初代iPod touchが一般向けに発売されました。スティーブ・ジョブズ氏が発表したこのデバイスは、iPhoneのマルチタッチインターフェイスやWi-Fi、SafariブラウザをiPodシリーズに初めてもたらし、2022年に販売終了となるまで7世代にわたって展開されました。"
+    },
+    {
       "id": "d6cf0865eed11e5c5f4e",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4448,69 +4508,9 @@
       ],
       "titleJa": "macOSのコードから未発表のApple製ゲームコントローラーの存在が浮上",
       "summaryJa": "macOSのリリース候補版のコード内から、Apple製とみられる2種類の未発表ゲームコントローラーのプロファイルが見つかったと伝えられています。これらは異なるハプティクス設計や各種ボタンを備えており、内部テスト用ハードウェアの可能性も含めて今後の動向が注目されています。"
-    },
-    {
-      "id": "92f80bdd3e62c887f8a3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "watchOS 27 removes three features that Apple Watch users might miss after updating",
-      "url": "https://9to5mac.com/2026/09/04/watchos-27-removes-three-features-that-apple-watch-users-might-miss-after-updating/",
-      "publishedAt": "2026-09-04T20:36:32.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-apple-watch-1.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "watchOS 27で削除される3つの機能",
-      "summaryJa": "今月後半にリリースされるwatchOS 27では、Apple Watchからいくつかの機能が削除されることが分かりました。削除対象となったのは、リアルタイム音声通話アプリのトランシーバー、デジタルクラウンのダブルクリックによるマルチタスクショートカット、そして単押し時の挙動の変更です。ユーザーの間ではこれらの変更を惜しむ声や、将来的な復活を期待する意見が出ています。"
-    },
-    {
-      "id": "3869a1c11c91e880f30f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Duo?",
-      "url": "https://www.macrumors.com/2026/09/04/iphone-duo/",
-      "publishedAt": "2026-09-04T19:54:45.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみiPhoneの名称は「iPhone Duo」になる可能性も？",
-      "summaryJa": "長年噂されている折りたたみiPhoneの名称について、これまでの「iPhone Ultra」や「iPhone Fold」に加え、「iPhone Duo」という候補が浮上しています。Appleは過去にPowerBook DuoやMagSafe DuoでDuoの名称を使用しており、デュアルスクリーンを搭載する折りたたみモデルに適している可能性があります。ただし、現時点で正式な証拠はなく、社内ではiPhone Ultraと呼ばれることが多いと報じられており、今後の発表に注目が集まっています。"
-    },
-    {
-      "id": "d3a8f9ec0f6861af5339",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Alogic Expands Display Lineup With New 5K and 6K Models, Debuts New Peripherals",
-      "url": "https://www.macrumors.com/2026/09/04/alogic-new-displays-peripherals/",
-      "publishedAt": "2026-09-04T19:51:13.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/alogic-aspekt-displays.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Alogic、5Kおよび6Kの新ディスプレイや周辺機器を発表",
-      "summaryJa": "アクセサリーブランドのAlogicが、ディスプレイ製品のラインナップを大幅に拡充し、新たな5Kおよび6Kモデルを発表しました。タッチ操作対応のAspektシリーズや、12メガピクセルカメラを搭載したClarityシリーズなど、多様なモデルが今後数ヶ月にかけて順次発売される予定です。また、強力な拡張性を持つThunderbolt 5対応のドッキングステーションなどの新しい周辺機器も同時に登場します。"
-    },
-    {
-      "id": "53941617ec4fe35fd800",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Fender MIX headphones now have an iPhone app for tuning your sound",
-      "url": "https://9to5mac.com/2026/09/04/fender-mix-headphones-now-have-an-iphone-app-for-tuning-your-sound/",
-      "publishedAt": "2026-09-04T19:46:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Fender-MIX-app.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Fender MIXヘッドホン、音質調整ができる専用iPhoneアプリが登場",
-      "summaryJa": "Fenderが8月に発売したワイヤレスヘッドホン「MIX」向けに、サウンドのチューニングが可能な専用のiPhoneアプリがリリースされました。このアプリでは、プリセットや5バンドのイコライザーを使った細かな音質調整に加え、バッテリー残量の確認やホーム画面ウィジェットの設定が可能になります。MIXは交換可能なバッテリーや低遅延のUSB-Cワイヤレス送信機を備えており、優れたリスニング体験を提供します。"
     }
   ],
-  "updatedAt": "2026-09-14T04:58:47.608Z",
+  "updatedAt": "2026-09-14T10:32:07.965Z",
   "initialized": true,
   "summaryVersion": 4
 }
