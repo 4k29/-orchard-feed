@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "d6cf0865eed11e5c5f4e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Two Rumored Game Controllers Will 'Likely' Come From Beats",
+      "url": "https://www.macrumors.com/2026/09/13/apple-beats-game-controllers-rumor/",
+      "publishedAt": "2026-09-14T03:06:30.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/WWDC-2026-Game-Controller-Icon.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple開発中のゲームコントローラーはBeatsブランドか",
+      "summaryJa": "Appleが開発を進めていると噂される2種類のiPhone向けゲームコントローラーについて、Bloombergのマーク・ガーマン記者が、Beatsブランドから発売される可能性が高いと報じました。開発は1年以上前から行われており、Appleは成長するゲーム市場への参入を狙っているとされています。価格や発売時期については現時点で言及されていません。"
+    },
+    {
       "id": "0073dd65204e10811f5d",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4493,24 +4508,9 @@
       ],
       "titleJa": "Fender MIXヘッドホン、音質調整ができる専用iPhoneアプリが登場",
       "summaryJa": "Fenderが8月に発売したワイヤレスヘッドホン「MIX」向けに、サウンドのチューニングが可能な専用のiPhoneアプリがリリースされました。このアプリでは、プリセットや5バンドのイコライザーを使った細かな音質調整に加え、バッテリー残量の確認やホーム画面ウィジェットの設定が可能になります。MIXは交換可能なバッテリーや低遅延のUSB-Cワイヤレス送信機を備えており、優れたリスニング体験を提供します。"
-    },
-    {
-      "id": "def13fd5a7862c39e682",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Review: Acer's 6K Touchscreen Display Turns Your Mac Into a Giant iPad, Sort Of",
-      "url": "https://www.macrumors.com/review/acer-6k-touchscreen-display/",
-      "publishedAt": "2026-09-04T19:45:56.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/acer-display-main-image.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Acerの6Kタッチディスプレイを試す",
-      "summaryJa": "Acerの新しい31.5インチ6Kディスプレイ「ProDesigner PE320QXT」のレビュー記事が公開されました。Macと組み合わせてタッチ操作ができる点が特徴ですが、本体が厚く重いことや、輝度が400ニトとやや控えめである点などの妥協点についても触れられています。"
     }
   ],
-  "updatedAt": "2026-09-14T00:05:20.901Z",
+  "updatedAt": "2026-09-14T04:58:47.608Z",
   "initialized": true,
   "summaryVersion": 4
 }
