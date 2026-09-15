@@ -1,6 +1,67 @@
 {
   "articles": [
     {
+      "id": "28268c9f2d27b4dde0f1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "50 New Things Your iPhone Can Do in iOS 27 - Out Now!",
+      "url": "https://www.macrumors.com/2026/09/15/50-new-things-iphone-can-do-ios-27/",
+      "publishedAt": "2026-09-15T05:48:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Everything-New-Your-iPhone-Can-Do-on-iOS-27-Feature-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27が登場、生成AI対応Siriや新機能の数々",
+      "summaryJa": "Appleは今週、バグ修正や基本機能の洗練に加え、生成AI時代に向けたコンテキスト認識型Siriなどを搭載したiOS 27をリリースしました。写真アプリの壁紙拡張機能や、Apple Intelligenceを活用したSafariのタブ自動整理機能など、多くの新機能が利用可能になっています。対応するiPhone向けに無料で配信されており、設定アプリの一般からアップデートを行えます。"
+    },
+    {
+      "id": "0ea4559d4edd4a3ee28d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Widow’s Bay sweeps 78th Primetime Emmy Awards as Apple TV scores 9 more wins",
+      "url": "https://9to5mac.com/2026/09/14/widows-bay-sweeps-78th-primetime-emmy-awards-as-apple-tv-scores-9-more-wins/",
+      "publishedAt": "2026-09-15T03:11:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/widows-bay-matthew-rhys-rain.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、エミー賞で過去最多の29冠を達成",
+      "summaryJa": "第78回プライムタイム・エミー賞の授賞式にて、Apple TVの配信作品が新たに9つの賞を獲得しました。クリエイティブ・アーツ部門での受賞と合わせ、同社として過去最多となる合計29の賞を獲得する快挙となりました。特にコメディシリーズの「Widow's Bay」などが数多くの賞に輝き、高い評価を集めています。"
+    },
+    {
+      "id": "6f6766f56abe909b4b71",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s what’s new with parental control features in iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://9to5mac.com/2026/09/14/heres-whats-new-with-parental-control-features-in-ios-27-ipados-27-and-macos-27/",
+      "publishedAt": "2026-09-15T02:43:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/parental-controls-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27などで強化されたペアレンタルコントロール機能",
+      "summaryJa": "AppleはiOS 27、iPadOS 27、macOS 27において、保護者が子どものデバイス利用をより安全に管理できるようにするための新しいスクリーンタイムおよびペアレンタルコントロール機能を導入しました。子どもの年齢に応じたアカウント設定や、アプリ、ウェブサイトのアクセス制限が簡単に行えるようになっています。また、ブロックされたウェブサイトへのアクセスをメッセージ経由で親に承認要請できる機能も追加されました。"
+    },
+    {
+      "id": "8116be2009147fa84191",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Appleのソフトウェアプラットフォームのメジャーアップデートが利用可能に",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "publishedAt": "2026-09-15T02:01:08.687Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、Siri AIを搭載した各OSのメジャーアップデートを配信開始",
+      "summaryJa": "Appleは、次世代のApple Intelligenceや新しいSiri AIを導入するiOS 27、iPadOS 27、macOS 27などのソフトウェアアップデートの提供を開始しました。Siri AIは文脈理解やオンスクリーン認識を備え、より自然な会話やアプリ連携を実現します。また、子どもの安全なデジタル体験を支えるペアレンタルコントロール機能も同時に強化されています。"
+    },
+    {
       "id": "1c16329ed911102da095",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -539,6 +600,82 @@
       ],
       "titleJa": "Apple、macOS Tahoe 26.7とmacOS Sequoia 15.8で重要セキュリティ修正を提供",
       "summaryJa": "AppleはmacOS 27 Golden Gateのリリースに加え、macOS Tahoe 26.7およびmacOS Sequoia 15.8の提供を開始しました。これらにはすべてのユーザーに推奨される重要なセキュリティ修正が含まれています。新OSへの移行を控えるユーザーや対応していないMac環境において、早めのアップデートが推奨されます。"
+    },
+    {
+      "id": "6fa26dc503e9c684a1a2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 26.7 now available for iPhone, here’s what’s new",
+      "url": "https://9to5mac.com/2026/09/14/ios-26-7-now-available-for-iphone-heres-whats-new/",
+      "publishedAt": "2026-09-14T17:22:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-26.7-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iOS 27を見送るユーザー向けにiOS 26.7を公開",
+      "summaryJa": "Appleは、新型OSのiOS 27をリリースした一方で、すぐに最新バージョンへアップデートしないユーザーを対象としたセキュリティ修正版のiOS 26.7を提供開始しました。新機能の追加はありませんが、デバイスを安全に保つための重要なセキュリティパッチが含まれており、公式リリースノートには詳細な修正リストが掲載されています。"
+    },
+    {
+      "id": "b00f45f48bf193038e6c",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、子どもの安全の新しい機能が利用可能に",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/apples-new-child-safety-features-now-available/",
+      "publishedAt": "2026-09-14T17:14:10.183Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、子どもの安全を守る新しいペアレンタルコントロール機能を提供開始",
+      "summaryJa": "Appleは、保護者が子どものためにより安全なデジタル体験を作れるよう、新しい一連のツールをiOS 27、iPadOS 27、macOS 27のアップデートで提供開始しました。カテゴリごとの許容時間の設定や、ウェブサイト閲覧のリクエスト機能などが追加され、コミュニケーションの安全性機能もさらに拡張されています。"
+    },
+    {
+      "id": "b9b70794d1a57e90dd94",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Major updates for Apple’s software platforms are now available",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "publishedAt": "2026-09-14T17:10:12.527Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple、次世代Apple IntelligenceとSiri AIを含む主要OSアップデートを配信",
+      "summaryJa": "Appleは、次世代のApple Intelligenceや新しいSiri AI、さらに強力なペアレンタルコントロールなどを備えた各プラットフォーム向けの大規模なソフトウェアアップデートの提供を開始しました。毎日のアプリ体験をよりスマートで便利にする機能が多数追加されており、Siri AIは英語でのベータ版から順次展開されます。"
+    },
+    {
+      "id": "7b902aba88601c5e70a1",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Siri AI, a profoundly more capable and personal assistant, is here",
+      "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
+      "publishedAt": "2026-09-14T17:09:41.324Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "次世代Apple Intelligenceを搭載した「Siri AI」が登場",
+      "summaryJa": "Appleは次世代のApple Intelligenceを動力源とする、まったく新しい「Siri AI」を各プラットフォーム向けにリリースしました。個人文脈の理解や画面上の認識機能が大幅に向上しており、より自然で柔軟な会話を通じてユーザーの日常的なタスクをサポートします。"
+    },
+    {
+      "id": "74950e4b8c76ac13b353",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Apple’s new child safety features now available",
+      "url": "https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/",
+      "publishedAt": "2026-09-14T17:08:48.789Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple、子供の安全を守る新しい見守り機能を提供開始",
+      "summaryJa": "Appleは、保護者が子供の安全なデジタル体験を管理できるようにする新しいツール群をiPhoneやiPad、Mac向けに提供開始しました。カテゴリごとの時間制限機能や、Safariでの新しいウェブサイト閲覧時に承認を求める機能などが含まれています。さらに、コミュニケーションの安全機能が拡張され、ヌード画像だけでなく暴力的なコンテンツもブロックできるようになりました。"
     },
     {
       "id": "1bc7936e14bf0ebb1041",
@@ -4372,145 +4509,9 @@
       ],
       "titleJa": "Amazon、M5 Max搭載Mac StudioなどのApple製品をセール価格で販売",
       "summaryJa": "Amazonにて、AirPods Pro 3やAirTag 2などのApple製品が割引価格で販売されています。新型のM5 Max Mac StudioやM6 Mac miniの予約セールも実施されており、各製品をお得に入手できるチャンスとなっています。主要なホリデーセールは終了したものの、一部の人気アイテムでは引き続き割引が適用されています。"
-    },
-    {
-      "id": "631beee9f71abdbb7f93",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "'Small Prophets' Renewed for Season 2 Following Apple TV Deal",
-      "url": "https://www.macrumors.com/2026/09/08/small-prophets-renewed-for-season-2/",
-      "publishedAt": "2026-09-08T14:56:53.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/small-prophets.jpg.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple TV、コメディ番組「Small Prophets」シーズン2の制作を決定",
-      "summaryJa": "Apple TVが世界配給権を獲得したコメディ番組「Small Prophets」のシーズン2制作が決定しました。同社が既存の番組の配信権を獲得するのはこれが初めてとなります。シーズン1は10月7日から世界配信が予定されており、クリエイターのマッケンジー・クルックが引き続き脚本と監督を務めます。"
-    },
-    {
-      "id": "0f5126c8cb17bb993ab3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s latest acquisition is about technology that sounds futuristic",
-      "url": "https://9to5mac.com/2026/09/08/apples-latest-acquisition-is-about-technology-that-sounds-futuristic/",
-      "publishedAt": "2026-09-08T14:55:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/Nothing-CEO-says-Apple-no-longer-creative-smartphone-future-is-a-single-app.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、脳活動を測定する技術を持つSoneraを買収",
-      "summaryJa": "EUの規制当局への提出書類から、Appleが磁気場を測定して脳活動を読み取るウェアラブル向け技術を開発する企業Soneraを買収したことが明らかになりました。この技術は体に触れることなく生体磁場を非侵襲的に測定できるもので、将来のウェアラブル製品やヘルスケア機能への活用が期待されます。"
-    },
-    {
-      "id": "e1b7c0cb2abb369a8fe8",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Sued Over Alleged Face ID Patent Infringement",
-      "url": "https://www.macrumors.com/2026/09/08/apple-sued-over-face-id-patent-infringement/",
-      "publishedAt": "2026-09-08T14:51:22.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/09/face-id.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、Face IDの特許侵害でドイツ企業の傘下から提訴される",
-      "summaryJa": "独BASFの傘下企業であるtrinamiXが、Face IDに使用されている顔認証技術の特許を侵害されたとして、テキサス州の裁判所でAppleを提訴しました。訴状によると、同社は写真やマスクなどによる不正な顔認証回避を防ぐための技術を長年開発しており、近年のiPhoneやiPadがこれらの特許を侵害していると主張しています。"
-    },
-    {
-      "id": "18de9361ae76e3decee9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Arcade Adds 'Pusheen's Place' and Four More Games in October",
-      "url": "https://www.macrumors.com/2026/09/08/apple-arcade-adds-five-more-games-in-october/",
-      "publishedAt": "2026-09-08T14:34:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2023/05/Apple-Arcade-new-games-hero.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Arcade、10月に「Pusheen's Place」など新作5タイトルを追加",
-      "summaryJa": "Appleは、Apple Arcadeにて10月から配信される新作ゲーム5タイトルを発表しました。人気キャラクター「うさぎのプシーン」を起用した初の公式ゲーム「Pusheen's Place」をはじめ、「River City Survivors」や「Terraria+」などが追加されます。これらはすべて広告や追加課金なしでプレイ可能です。"
-    },
-    {
-      "id": "ed305e88eecb180eaf87",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Arcade unveils five new games being added soon",
-      "url": "https://9to5mac.com/2026/09/08/apple-arcade-unveils-five-new-games-being-added-soon/",
-      "publishedAt": "2026-09-08T14:25:49.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/11/apple-arcade-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Arcade、10月に新タイトル5作を追加へ",
-      "summaryJa": "Appleは、サブスクリプションサービス「Apple Arcade」において、10月1日より5つの新しいゲームを追加することを発表しました。今回は、人気の「ねこのプシーン」を起用した新作「Pusheen’s Place」や、ゾンビアクションの「River City Survivors」といった完全新作に加え、「テラリア+」などのApp Storeの人気作が広告やアプリ内課金なしの特別版として登場します。"
-    },
-    {
-      "id": "d6620c54f6b37f3a9d84",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Acquires Startup Working on 'Breakthrough Sensing Technology'",
-      "url": "https://www.macrumors.com/2026/09/08/apple-acquires-sonera/",
-      "publishedAt": "2026-09-08T14:15:10.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2014/09/series6leds.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、脳や身体の磁場を測定する技術を持つ新興企業を買収",
-      "summaryJa": "Appleが今年、生体磁気チップの開発を手がける米国の新興企業Soneraを買収していたことが欧州委員会の公開文書から明らかになりました。同社は身体や脳が発する磁場を非接触で測定する画期的な技術を開発しており、心拍数や体温と同様に脳の活動を簡単に測定できるとしています。この買収により、将来的なApple Watchのヘルスケア機能やアクセシビリティ機能の向上が期待されています。"
-    },
-    {
-      "id": "7e0f9eefb62e2d5cf7ae",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "インターネットで大人気の猫が「Pusheen’s Place」でApple Arcadeに登場",
-      "url": "https://www.apple.com/jp/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/",
-      "publishedAt": "2026-09-08T14:02:07.998Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "「ねこのプシーン」のゲームが登場、Apple Arcadeの10月ラインナップ",
-      "summaryJa": "Apple Arcadeは10月1日より、「ねこのプシーン」の公式ライセンス作「Pusheen’s Place」や「くにおくんのサバイバーズ・オブ・ザ・デッド」などの新作ゲームを配信開始します。さらに、「テラリア+」をはじめとするApp Storeの人気作3タイトルも広告やアプリ内課金なしの特別版として同時にラインナップへ加わります。ユーザーは自分の好みに合わせて、癒やし系からアクションまで多彩なゲームを存分に楽しむことができます。"
-    },
-    {
-      "id": "9e330bba3ec7ca08403b",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "The internet’s favorite cat comes to Apple Arcade with Pusheen’s Place",
-      "url": "https://www.apple.com/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/",
-      "publishedAt": "2026-09-08T13:59:40.685Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple Arcade、10月に「ねこのプシーン」など注目作を追加",
-      "summaryJa": "Appleは、定額制ゲーム配信サービスのApple Arcadeにて、10月1日から提供される新たなゲームラインナップを発表しました。大人気キャラクターのプシーン初となる公式ゲーム「Pusheen’s Place」や、爽快感のある「River City Survivors」などの新作が加わります。また、既存の人気作である「テラリア+」なども広告なしでプレイ可能になり、幅広いプレイヤー層に向けた魅力的なタイトルが揃います。"
-    },
-    {
-      "id": "9a505d3df722afd3c11a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "watchOS 27 code reveals four changes for Apple Watch Ultra 4, more",
-      "url": "https://9to5mac.com/2026/09/08/watchos-27-code-reveals-four-changes-for-apple-watch-ultra-4-more/",
-      "publishedAt": "2026-09-08T13:57:17.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/watchos-27-apple-watch-ultra-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "watchOS 27コードからApple Watch Ultra 4の新機能が判明か",
-      "summaryJa": "watchOSの最新コードから、Apple Watch Ultra 4や次期モデル向けの新機能に関する詳細が明らかになりました。デフォルト画面に配置される「Readiness」アプリの追加や、セット回数や重量などを詳細に記録できる筋トレ機能の強化、新たな光学式センサーシステムの搭載などが含まれています。また、次期チップセットによる128GBストレージの搭載を示唆する兆候も見つかっています。"
     }
   ],
-  "updatedAt": "2026-09-15T01:42:50.733Z",
+  "updatedAt": "2026-09-15T06:46:01.511Z",
   "initialized": true,
   "summaryVersion": 4
 }
