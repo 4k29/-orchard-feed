@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "6e1fda4a802e45c4b692",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "watchOS 27: Siri app lets you continue existing chats, though it’s a bit hidden",
+      "url": "https://9to5mac.com/2026/09/15/watchos-27-siri-app-lets-you-continue-existing-chats-though-its-a-bit-hidden/",
+      "publishedAt": "2026-09-15T17:00:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-apple-watch-1.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple WatchのSiriで既存のチャットを継続する方法",
+      "summaryJa": "watchOS 27で導入された新しいSiriアプリではチャット履歴の保存と継続が可能になりましたが、Apple Watch版では操作方法が少し分かりにくくなっています。iPhoneやiPadとは異なり、画面上から直接会話を再開する明確なUIはありません。しかし、チャットスレッドを表示した状態でDigital Crownを長押しするか、Siriと話しかけて入力を追加することで、会話を続けることができます。"
+    },
+    {
+      "id": "b9526f98ba468bfeba5d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Why watchOS 27 removes the useful multitasking feature on Apple Watch",
+      "url": "https://9to5mac.com/2026/09/15/why-watchos-27-removes-the-useful-multitasking-feature-on-apple-watch/",
+      "publishedAt": "2026-09-15T16:42:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "watchOS 27でApple Watchのマルチタスキング機能が削除された理由",
+      "summaryJa": "watchOS 27では、Digital Crownのダブルクリックによるアプリ間の切り替え機能が削除されました。このショートカットが消えた理由は、今秋登場予定の新しいApple Watch向けの機能に関係しています。一部の新型モデルに搭載される音声の書き起こし機能「Live Rewind」を起動するために、ダブルクリックの操作が割り当てられたためです。"
+    },
+    {
+      "id": "ab1dbb717f5e2668c5ac",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "M6 Chip Benchmark Surfaces Ahead of New Mac Mini Launch Next Week",
+      "url": "https://www.macrumors.com/2026/09/15/apple-m6-chip-benchmark/",
+      "publishedAt": "2026-09-15T16:38:39.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Mac-mini-M6-chip.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "次期Mac miniに搭載されるM6チップのベンチマークが登場か",
+      "summaryJa": "Geekbenchのデータベースに、Appleの新しい2nmプロセス製M6チップのものとされる未確認のベンチマークスコアが登録されました。新型Mac miniに搭載される予定のM6チップは、M5チップと比較してシングルコア性能が約12%、マルチコア性能が最大約27%向上していると伝えられています。Appleの主張通りの性能向上が確認されており、初代M1チップの2.5倍以上の速度を実現しているとしています。"
+    },
+    {
+      "id": "5d8cd17e51469d95164f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 15, 2026 – iOS 27 now available",
+      "url": "https://9to5mac.com/2026/09/15/daily-september-15-2026/",
+      "publishedAt": "2026-09-15T16:07:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27が正式リリース、新機能や対応機種のまとめ",
+      "summaryJa": "Appleは最新のOSアップデートとなるiOS 27を正式にリリースしました。今回のアップデートでは、Appleの基盤モデルを改善するためのデータ共有に関する新しいオプトイン設定などが追加されています。ポッドキャスト番組の9to5Mac Dailyでは、新機能や対応iPhoneの詳細をはじめ、T-Mobileの料金プランやクレイグ・フェデリギ氏の発言など、注目の話題が取り上げられています。"
+    },
+    {
+      "id": "f73c08eb653876aabbf9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New Apple gear gets pre-release discounts, including AirPods 5 for $125 and more",
+      "url": "https://9to5mac.com/2026/09/15/airpods-5-apple-watch-series-12-and-ultra-4-now-available-on-amazon/",
+      "publishedAt": "2026-09-15T16:03:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-airpods-5.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPods 5や新型Apple Watchが発売前に早くも割引価格で登場",
+      "summaryJa": "Amazonにおいて、発売を控えたAirPods 5やApple Watch Series 12、Apple Watch Ultra 4などの新製品が早くも割引価格で予約受付中となっています。AirPods 5は全モデルでアクティブノイズキャンセリングに対応し、新型Apple Watchは高度な健康管理機能を搭載するなど大幅な進化を遂げています。"
+    },
+    {
+      "id": "309d99104e4ae1b5cec4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Reminder: iOS 27's All-New Siri AI Has a Waitlist, Here's How to Sign Up",
+      "url": "https://www.macrumors.com/2026/09/15/ios-27-siri-ai-has-waitlist-how-to-join/",
+      "publishedAt": "2026-09-15T15:54:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Personalized-Siri-iOS-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27の新しいSiri AI機能を利用するためのウェイトリスト登録方法",
+      "summaryJa": "iOS 27のアップデートに伴い提供が始まった新しいSiri AI機能を利用するには、専用のウェイトリストに登録する必要があります。設定アプリから簡単に申し込みが可能ですが、対応機種はApple IntelligenceをサポートするiPhone 15 Pro以降などに限定されています。"
+    },
+    {
+      "id": "431bb7981b77cfccc719",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 gives Camera app on iPhone three powerful new features",
+      "url": "https://9to5mac.com/2026/09/15/ios-27-gives-camera-app-on-iphone-three-powerful-new-features/",
+      "publishedAt": "2026-09-15T15:40:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27でiPhoneのカメラアプリに導入された3つの強力な新機能",
+      "summaryJa": "iOS 27ではiPhoneのカメラアプリに多くの機能強化が行われました。対応モデルでは周囲の状況を認識してアクションを起こせる「Siriモード」が追加されたほか、撮影モードごとのコントロールのカスタマイズや、iPhone 18 Pro向けの高度なプロ用設定なども利用可能になっています。"
+    },
+    {
+      "id": "f9f7de80bbafdd93cfca",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple TV Shipping Delays Persist, HomePod Mini Unavailable in Orange",
+      "url": "https://www.macrumors.com/2026/09/15/apple-tv-homepod-mini-shipping-delays/",
+      "publishedAt": "2026-09-15T15:39:06.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/01/HomePod-mini-and-Apple-TV.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple TVの配送遅延が継続、HomePod miniの一部カラーが品薄に",
+      "summaryJa": "米国のAppleオンラインストアにおいて、Apple TVの配送予定日が翌月にずれ込むなど長引く出荷遅延が発生しています。また、HomePod miniの一部カラーも注文不可や大幅な遅延となっており、今年後半の新型モデル発表の噂とともに動向が注目されています。"
+    },
+    {
+      "id": "341db88d9d4a25961f87",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: AirPods 5 $125, M5 MacBook Air $150 off, Apple Watch Series 12, 25W MagSafe car mount, more",
+      "url": "https://9to5mac.com/2026/09/15/deals-airpods-5-m5-macbook-air-apple-watch-series-12/",
+      "publishedAt": "2026-09-15T15:29:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-5-MacBook-Air.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "M5 MacBook AirやAirPods 5など最新Apple製品がセールに",
+      "summaryJa": "Amazonにて、新型のAirPods 5やM5搭載のMacBook AirなどのApple製品が早くも割引価格で販売されています。M5 MacBook Airの1TBモデルが150ドル引きとなるなど、複数のカラーや構成でセール対象となっています。秋のプライセールや新製品の登場に合わせて、お得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "8bd3a54401ef152c6cfd",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Pre-Order Discounts Expand With Up to $20 In Savings",
+      "url": "https://www.macrumors.com/2026/09/15/apple-watch-pre-order-discounts/",
+      "publishedAt": "2026-09-15T15:27:27.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-s12-ultra-4.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch最新モデルの予約割引がAmazonで開始",
+      "summaryJa": "Apple Watch Series 12およびApple Watch Ultra 4の予約受付が開始され、Amazonで早くも割引価格での販売が始まっています。GPSモデルやセルラーモデルの一部が対象となっており、9月18日の発売に向けて少しお得に予約することができます。チタニウムケースやセラミックモデルなどの上位モデルも含め、各所で割引が展開されています。"
+    },
+    {
+      "id": "4930a1a4a4de2ca13957",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch adds an all-new Readiness app, here’s how it works",
+      "url": "https://9to5mac.com/2026/09/15/apple-watch-adds-an-all-new-readiness-app-heres-how-it-works/",
+      "publishedAt": "2026-09-15T14:38:05.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Watch-Readiness-Score-1.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch向けに新健康アプリ「Readiness」が登場",
+      "summaryJa": "Apple Watch Series 12とApple Watch Ultra 4向けに、新しい健康・フィットネス管理アプリ「Readiness」が導入されます。進化したセンサーシステムを活用し、身体の回復状態や活動の準備度を0から10のスコアなどで分かりやすく評価してくれます。この機能は新モデルのハードウェアが必要となり、対応する新型Apple Watchでのみ利用可能です。"
+    },
+    {
+      "id": "624b13551052f83deedf",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Slow Horses is back tonight, and Apple just confirmed two more seasons",
+      "url": "https://9to5mac.com/2026/09/15/slow-horses-is-back-tonight-and-apple-just-confirmed-two-more-seasons/",
+      "publishedAt": "2026-09-15T14:35:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/Apple-Originals-score-nine-Golden-Globe-nominations.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV人気作「窓際のスパイ」シーズン7と8の制作が決定",
+      "summaryJa": "Apple TVの人気ドラマシリーズ「窓際のスパイ」シーズン6の配信開始に合わせて、早くもシーズン7と8の制作が決定したことが発表されました。定期的な早期更新によりスムーズな新作公開が続いており、シーズン8では原作シリーズの第9作目「Clown Town」が描かれます。MI5の秘密をめぐるジャックス・ラムらの緊迫したストーリーが今後も長く楽しめる予定です。"
+    },
+    {
       "id": "0373d29dc6bcf285e542",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4330,189 +4510,9 @@
       ],
       "titleJa": "英国、子供のiPhoneでの裸画像対策を義務化へ",
       "summaryJa": "英国政府は、AppleやGoogleに対し、子供が端末で裸の画像を撮影や共有、閲覧することを防ぐ端末レベルの保護機能を義務付ける新たな法案を導入する方針を明らかにしました。これはオンライン上での児童の性的被害を防ぐための措置で、既存の自発的な対応では不十分だとして法制化を進める構えです。"
-    },
-    {
-      "id": "8daeb542e47d9f6cf263",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "TrendForce: Apple produced 52 million iPhones in Q2 as global smartphone market declined",
-      "url": "https://9to5mac.com/2026/09/08/trendforce-apple-produced-52-million-iphones-in-q2-as-global-smartphone-market-declined/",
-      "publishedAt": "2026-09-08T20:39:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-cosmic-orange-cameras-angle.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "2026年第2四半期、AppleのiPhone生産台数が前年比増",
-      "summaryJa": "調査会社TrendForceの報告によると、2026年第2四半期における世界のスマートフォン生産が全体として減少する中、AppleのiPhone生産台数は前年同期比14%増の約5200万台を記録しました。iPhone 17シリーズの効果的な価格戦略が成長を牽引した一方で、次期iPhone 18シリーズでは値上げが避けられないと見られています。"
-    },
-    {
-      "id": "fb12881c6bf64dbb7989",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases Firmware Update for 140W USB-C Power Adapter",
-      "url": "https://www.macrumors.com/2026/09/08/apple-releases-140w-usb-c-charger-firmware-update/",
-      "publishedAt": "2026-09-08T20:35:03.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/16-inch-MBP-and-140W-Charger-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、140W USB-C電源アダプタ向けファームウェア公開",
-      "summaryJa": "Appleは140W USB-C電源アダプタ向けに、バージョン1.4.90のファームウェアアップデートをリリースしました。Appleは通常こうしたアクセサリのアップデートに関するリリースノートを公開しておらず、今回の変更点は不明です。アップデートは電源アダプタがMacなどのデバイスに接続されている際に自動的に適用されます。"
-    },
-    {
-      "id": "84607246432665aa4edd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro set to become Apple’s new default model",
-      "url": "https://9to5mac.com/2026/09/08/iphone-18-pro-set-to-become-apples-new-default-model/",
-      "publishedAt": "2026-09-08T20:22:18.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proが新たな標準モデルの役割を担うか",
-      "summaryJa": "今秋の発表会では従来の標準モデルとなる「iPhone 18」の発売が見送られ、代わりに「iPhone 18 Pro」や「Pro Max」、そして「Ultra」が展開される見込みです。通常モデルの発売が2027年初頭へ延期されるとの観測から、今秋はiPhone 18 Proが事実上の新たな標準モデルとして位置づけられることになります。価格上昇も予想される中、この新たなラインナップ戦略がどのように受け入れられるか注目されています。"
-    },
-    {
-      "id": "eef58692dd6d55b192f4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Likely to Announce Beats 360 This Month",
-      "url": "https://www.macrumors.com/2026/09/08/apple-beats-360-coming-soon/",
-      "publishedAt": "2026-09-08T19:48:37.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Beats-360-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、今月にも「Beats 360」を発表か",
-      "summaryJa": "Appleが未発表のヘッドフォン「Beats 360」向けのファームウェアアップデートをリリースし、今月中の発表が近づいていると報じられています。このヘッドフォンはAirPods Maxに似たデザインを持ち、ブランド初となるIPX4等級の耐汗・耐水性能を備えるほか、ハンズフリーのSiriに対応すると伝えられています。"
-    },
-    {
-      "id": "813ee1048cb3f12e25e0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Report: Apple Watch shipments rise 14% in Q2 as overall market drops",
-      "url": "https://9to5mac.com/2026/09/08/report-apple-watch-shipments-rise-14-in-q2-as-overall-market-drops/",
-      "publishedAt": "2026-09-08T19:39:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-watch-ultra-3-4-mountain.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "第2四半期のApple Watch出荷台数は14%増",
-      "summaryJa": "調査会社Counterpoint Researchのレポートによると、2026年第2四半期のスマートウォッチ市場全体が縮小する中、Apple Watchの出荷台数は前年同期比で14%増加しました。最新のApple Watch Series 11やWatch SE 3が好調で、Appleはグローバルおよび中国市場の双方で大きく成長を記録しています。"
-    },
-    {
-      "id": "c143127f15eab7de5fdb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Meta AI launches Muse personal agent, including a new mobile app for iPhone",
-      "url": "https://9to5mac.com/2026/09/08/meta-ai-launches-muse-personal-agent-including-a-new-mobile-app-for-iphone/",
-      "publishedAt": "2026-09-08T19:17:21.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/muse-agent.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Meta、iPhone向けのパーソナルAI「Muse」を発表",
-      "summaryJa": "Meta AIがiPhone向けの新アプリ「Muse」の提供を開始しました。ユーザーが日々のタスクをこなすためのパーソナルAIエージェントで、親しみやすいチャットインターフェースやカスタマイズ機能を備えています。現時点では米国での提供となっており、Mac向けにはウェブ版も用意されています。"
-    },
-    {
-      "id": "0fbb925b8cbf08e135b2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Sonos just launched ‘Sonos 27’ app update, here’s what’s new",
-      "url": "https://9to5mac.com/2026/09/08/sonos-just-launched-sonos-27-app-update-heres-whats-new/",
-      "publishedAt": "2026-09-08T18:59:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sonos-27-app-update-screenshots.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Sonos、新機能を追加する「Sonos 27」アプリを配信開始",
-      "summaryJa": "Sonosは、新しい命名規則を採用した「Sonos 27」アプリの配信を開始しました。このアップデートでは、ポータブルスピーカーをリアサラウンドとして活用できる機能や、再設計されたナビゲーション、AIアシスタントとの連携機能などが早期アクセスとして提供されています。"
-    },
-    {
-      "id": "2c1850fc4e5e6ebbeb7e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI releases ChatGPT Images 2.5 with ‘sharper details’ and ‘more precise editing’",
-      "url": "https://9to5mac.com/2026/09/08/openai-releases-chatgpt-images-2-5-with-sharper-details-and-more-precise-editing/",
-      "publishedAt": "2026-09-08T18:50:50.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI、画質と編集精度を向上させた「ChatGPT Images 2.5」を公開",
-      "summaryJa": "OpenAIは、画像生成技術の最新バージョンとなる「ChatGPT Images 2.5」を発表しました。ディテールのシャープさや生成速度が最大50%向上したほか、より正確な編集機能や直接描き込める「スケッチ」機能などが追加されています。開発者向けAPIでも同等の機能を持つバージョンが提供され、幅広いアプリケーションで活用できるようになります。"
-    },
-    {
-      "id": "c1a802986d928a3d6554",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "How to Watch Apple's 'Surprise and Shine' September 9 Event",
-      "url": "https://www.macrumors.com/how-to/watch-apple-september-9-iphone-event/",
-      "publishedAt": "2026-09-08T18:45:46.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-surprise-and-shine-event.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、9月9日にスペシャルイベントを開催へ",
-      "summaryJa": "Appleは9月9日にオンラインストリーミングによるスペシャルイベントの開催を予定しています。イベントでは、新しいiPhoneモデルやApple Watch、その他の新製品が発表される見込みです。配信はApple公式サイトのほか、YouTubeやApple TVアプリを通じて世界中から視聴可能となっています。"
-    },
-    {
-      "id": "b8b4a6ecfc40b9c32a64",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New Apple TV 4K will be more powerful upgrade than we thought, per leak",
-      "url": "https://9to5mac.com/2026/09/08/new-apple-tv-4k-will-be-more-powerful-upgrade-than-we-thought-per-leak/",
-      "publishedAt": "2026-09-08T18:25:25.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-tv-4k-tvos-26-lg.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新型Apple TV 4KにはA19チップ搭載の可能性か",
-      "summaryJa": "次期Apple TV 4Kには、当初噂されていたよりも強力なA19またはA19 Proチップが搭載される可能性があると報じられています。コード内から発見された識別子によると、iPhone 17シリーズと同等のプロセッサを採用し、Apple Intelligenceを強力にサポートする見込みです。長らくハードウェアの更新が途絶えていた同モデルの大幅な性能向上が期待されます。"
-    },
-    {
-      "id": "a45e9b3a888f37ec3d6d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases iOS 26.6.2",
-      "url": "https://www.macrumors.com/2026/09/08/apple-releases-ios-26-6-2/",
-      "publishedAt": "2026-09-08T17:47:02.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-26-6-2.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、セルラー回線でのアップデート不具合を修正するiOS 26.6.2を配信開始",
-      "summaryJa": "Appleは、セルラー回線経由でのソフトウェアアップデートのダウンロードに失敗する不具合を修正したiOS 26.6.2をリリースしました。このマイナーアップデートはiPhone 11以降を対象に現在配信されており、同時に同じ修正を含むiPadOS 26.6.2も公開されています。今月後半に控える大規模な次期OSリリースへの円滑な移行に向けた重要な修正となっています。"
-    },
-    {
-      "id": "0cc234deb617900fa5c7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "tvOS 27 removes a feature that some Apple TV users might miss after updating",
-      "url": "https://9to5mac.com/2026/09/08/tvos-27-removes-a-feature-that-some-apple-tv-users-might-miss-after-updating/",
-      "publishedAt": "2026-09-08T17:39:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/tvos-27-apple-tv-4k-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "tvOS 27のPodcastアプリでカスタムURLによる番組追加機能が削除か",
-      "summaryJa": "今月後半にリリースされるtvOS 27では、Podcastアプリが一新され新しいビデオ配信技術に対応する一方で、カスタムURLで追加した番組のサポートが削除されることが分かりました。有料Podcastのメンバーシップ用フィードなどがApple TV上で利用できなくなります。なお、この制限はtvOS 27が導入される第2および第3世代のApple TV 4Kが対象となっています。"
     }
   ],
-  "updatedAt": "2026-09-15T12:20:14.579Z",
+  "updatedAt": "2026-09-15T17:09:36.132Z",
   "initialized": true,
   "summaryVersion": 4
 }
