@@ -1,6 +1,111 @@
 {
   "articles": [
     {
+      "id": "1c16329ed911102da095",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 14, 2026 – Apple retail changes, iPhone 18 Pro pre-orders",
+      "url": "https://9to5mac.com/2026/09/14/daily-september-14-2026/",
+      "publishedAt": "2026-09-15T00:53:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの予約開始やAppleの店舗改革の動き",
+      "summaryJa": "9to5Macのデイリーポッドキャストでは、iPhone 18 Proシリーズの予約受付や、多くのモデルですでに10月へ出荷が遅れている状況が伝えられました。また、Appleが独自のiPhone用ゲームコントローラーを開発中でBeatsブランドになる可能性や、リテールストアにおける3つの主要な変更計画についても言及されています。番組後半では、詳細なニュースの振り返りやリスナー向けの特典情報も案内されています。"
+    },
+    {
+      "id": "41864c934172f483b20e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 Features: The Ultimate Mega Guide",
+      "url": "https://www.macrumors.com/guide/ios-27-ultimate-mega-guide/",
+      "publishedAt": "2026-09-15T00:34:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27-Ultimate-Mega-Guide-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27の新機能や変更点を網羅した究極のガイド",
+      "summaryJa": "6月にリリースされたiOS 27の全貌を把握するための詳細な機能ガイドが公開されました。Liquid Glassのデザイン調整や透明度の変更、ホーム画面のアプリアイコンの見通し改善などがまとめられています。さらに、SiriやApple Intelligence、メッセージ、電話、FaceTime、Safari、マップなどの主要アプリに加わった数々の新機能が機能別に整理されています。"
+    },
+    {
+      "id": "a85a3de8eb91f20695e1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New Apple CEO John Ternus attending Emmy Awards (and sporting iPhone Duo)",
+      "url": "https://9to5mac.com/2026/09/14/new-apple-ceo-john-ternus-attending-emmy-awards-and-sporting-iphone-duo/",
+      "publishedAt": "2026-09-15T00:23:33.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新CEOジョン・テナスがエミー賞に登場しiPhone Duoを披露",
+      "summaryJa": "Appleの新CEOに就任したジョン・テナスがエミー賞の会場に姿を現し、出席者や報道陣の前で未発表の「iPhone Duo」の製品デモを行いました。Deadlineなどのメディアによって捉えられたこの折りたたみiPhoneは、来月1999ドルからの価格で発売される予定と報じられています。Apple TVの受賞への期待が高まる中、新体制となった同社のトップによる異例のお披露目となりました。"
+    },
+    {
+      "id": "4bd9615f7124e5480bfe",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "macOS Golden Gate: 10 Features to Try First",
+      "url": "https://www.macrumors.com/guide/macos-golden-gate-10-features-2/",
+      "publishedAt": "2026-09-15T00:02:40.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/10-macOS-Features-to-Try-First-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "macOS Golden Gateが公開、最初に試したい10の機能",
+      "summaryJa": "AppleはM1以降のチップを搭載したMacやMacBook Neo向けに、macOS Golden Gateを一般公開しました。今バージョンでは、Liquid Glassの透明度を調整できるスライダーや、より洗練されたウィンドウの角丸、統一されたツールバーなどが導入されています。また、Siri AIやApple Intelligenceによる写真、カレンダー、Safariなどのアプリの機能強化も大きな特徴となっています。"
+    },
+    {
+      "id": "dd2d76f644aebb9d0917",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AppZapper Mac Uninstaller Returns as AppZapper 3000",
+      "url": "https://www.macrumors.com/2026/09/14/appzapper-3000-for-mac/",
+      "publishedAt": "2026-09-14T23:58:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/appzapper3000.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "名作Mac用アンインストーラーが復活、AppZapper 3000が登場",
+      "summaryJa": "Macの人気アプリ「AppZapper」が新デザインと最新機能を取り入れ、「AppZapper 3000」として20周年に合わせて復活しました。ドラッグ＆ドロップしたアプリと関連ファイルをレーザーガンのアニメーションと共に数秒で削除できるのが特徴です。最新のmacOSセキュリティ要件に対応し、試用後に有料ライセンスを購入する仕組みとなっています。"
+    },
+    {
+      "id": "33225eafa420697a854e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Musk Drops Apple Lawsuit Over ChatGPT Siri Deal, Keeps Suing OpenAI",
+      "url": "https://www.macrumors.com/2026/09/14/spacexai-drops-apple-lawsuit/",
+      "publishedAt": "2026-09-14T23:52:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/07/X-twitter-logo.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "イーロン・マスク氏、Appleに対するChatGPT連携訴訟を取り下げ",
+      "summaryJa": "イーロン・マスク氏の企業であるX CorpとSpaceXAIが、Appleを相手取って2025年に起こした訴訟の取り下げを裁判所に求めました。訴訟では、AppleとOpenAIの提携がAI市場の支配を確実にするための共謀であると主張されていましたが、Appleに対する請求は取り下げられました。ただし、OpenAIに対する訴訟は継続される方針です。"
+    },
+    {
+      "id": "d0825d6c810ef6120aa5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Asks Supreme Court to Throw Out App Store Contempt Ruling",
+      "url": "https://www.macrumors.com/2026/09/14/apple-supreme-court-contempt-ruling/",
+      "publishedAt": "2026-09-14T23:28:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/05/app-store-blue-banner-epic-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、App Storeの規約めぐる侮辱認定の破棄を最高裁に要請",
+      "summaryJa": "Appleは、App Storeの外部決済リンクに対する手数料徴収を禁じた法廷侮辱命令を不服として、最高裁判所に本案の準備書面を提出しました。Epic Gamesとの長年の法廷闘争の一環であり、命令が対象としていない行為に対して「精神」に反したとして侮辱罪に問われたことの是非を争っています。"
+    },
+    {
       "id": "4729660b6dd9b3256650",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -359,6 +464,81 @@
       ],
       "titleJa": "Apple、iOS 27の新機能に対応したAirPods Pro 3向けの最新ファームウェアを配信",
       "summaryJa": "Appleは、iOS 27のリリースに合わせてAirPods Pro 3やその他の対応モデル向けに新しいファームウェアの配信を開始しました。今回のアップデートにより、カスタムEQやSiri AIへの対応、精度の向上した探す機能、ジムキットのサポートなど、iOS 27の最新機能が利用可能になります。"
+    },
+    {
+      "id": "79d2cd9c785609877acc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here are the requirements to get Siri AI in iOS 27",
+      "url": "https://9to5mac.com/2026/09/14/here-are-the-requirements-to-get-siri-ai-in-ios-27/",
+      "publishedAt": "2026-09-14T18:10:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-app-ios-27-new.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27で登場したSiri AIを利用するための要件まとめ",
+      "summaryJa": "iOS 27の配信開始に伴い、大幅に強化されたSiri AIが利用可能になりましたが、利用にはいくつかの厳格な条件が設定されています。対応ハードウェアはApple Intelligence対応機種に限定されるほか、初期段階ではデバイス言語を英語に設定していること、13歳以上であることなどが要件となります。なお、EUと中国では規制やプライバシー対応の協議に伴い、現時点で提供されていません。"
+    },
+    {
+      "id": "c5419f49ca5d466d34b7",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases macOS Tahoe 26.7 and macOS Sequoia 15.8",
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-macos-tahoe-26-7/",
+      "publishedAt": "2026-09-14T17:40:04.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/06/macos-tahoe.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、macOS Tahoe 26.7とmacOS Sequoia 15.8を配信開始",
+      "summaryJa": "Appleは、最新のOSリリースと並行して「macOS Tahoe 26.7」および「macOS Sequoia 15.8」の配信を開始しました。これらは、古いMacを使用しているユーザーや、まだ新OSへアップグレードしたくないユーザー向けのアップデートとなります。システム設定のソフトウェアアップデートからダウンロード可能で、セキュリティ修正が含まれています。"
+    },
+    {
+      "id": "ea357f329ce946084476",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases iOS 27 and iPadOS 27 With Siri AI and Liquid Glass Update",
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-27/",
+      "publishedAt": "2026-09-14T17:39:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27-Out-Now-Thumb.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、Siri AIやLiquid Glassを搭載したiOS 27とiPadOS 27をリリース",
+      "summaryJa": "Appleは、iPhoneおよびiPad向けの最新OS「iOS 27」と「iPadOS 27」をリリースしました。対応デバイス向けに無料で提供されており、新機能として会話能力が向上した「Siri AI」や専用のSiriアプリ、Liquid Glassデザインの刷新などが含まれています。Apple Intelligence機能を利用するには、対応する特定のプロセッサを搭載したモデルが必要です。"
+    },
+    {
+      "id": "c5bb9059ffd01b85e37a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases iOS 26.7 With Security Fixes",
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-26-7/",
+      "publishedAt": "2026-09-14T17:32:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/ios-26-7.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、セキュリティ修正を含むiOS 26.7をリリース",
+      "summaryJa": "AppleはiOS 27のリリースと同時に、既存のiOS 26向けとなる「iOS 26.7」を公開しました。ソフトウェアアップデート画面ではiOS 26.7がデフォルトの更新として表示され、重要なセキュリティ修正が含まれています。当面の間iOS 26環境を維持したいユーザーにとって有用な選択肢となります。"
+    },
+    {
+      "id": "b446419228410c6aaa02",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases macOS Tahoe 26.7 and macOS Sequoia 15.8, here’s what’s new",
+      "url": "https://9to5mac.com/2026/09/14/apple-releases-macos-tahoe-26-7-and-macos-sequoia-15-8-heres-whats-new/",
+      "publishedAt": "2026-09-14T17:27:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOS Tahoe 26.7とmacOS Sequoia 15.8で重要セキュリティ修正を提供",
+      "summaryJa": "AppleはmacOS 27 Golden Gateのリリースに加え、macOS Tahoe 26.7およびmacOS Sequoia 15.8の提供を開始しました。これらにはすべてのユーザーに推奨される重要なセキュリティ修正が含まれています。新OSへの移行を控えるユーザーや対応していないMac環境において、早めのアップデートが推奨されます。"
     },
     {
       "id": "1bc7936e14bf0ebb1041",
@@ -4328,189 +4508,9 @@
       ],
       "titleJa": "watchOS 27コードからApple Watch Ultra 4の新機能が判明か",
       "summaryJa": "watchOSの最新コードから、Apple Watch Ultra 4や次期モデル向けの新機能に関する詳細が明らかになりました。デフォルト画面に配置される「Readiness」アプリの追加や、セット回数や重量などを詳細に記録できる筋トレ機能の強化、新たな光学式センサーシステムの搭載などが含まれています。また、次期チップセットによる128GBストレージの搭載を示唆する兆候も見つかっています。"
-    },
-    {
-      "id": "b40a07b1580986a510b5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Amazon Takes Up to $150 Off M5 MacBook Air",
-      "url": "https://www.macrumors.com/2026/09/08/amazon-150-off-m5-macbook-air/",
-      "publishedAt": "2026-09-08T13:55:33.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macbook-air-prime-day-2.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Amazon、M5搭載MacBook Airを最大150ドル引きで販売",
-      "summaryJa": "米Amazonにおいて、M5チップを搭載した13インチおよび15インチのMacBook Airが最大150ドルの割引価格で販売されています。15インチモデルの16GB/512GB構成などが値引き対象となっており、今夏の価格改定以降では非常にお得な価格で購入可能です。13インチモデルでも同様に複数の構成で割引が実施されており、Apple製品の購入を検討しているユーザーにとって見逃せないセールとなっています。"
-    },
-    {
-      "id": "447c01b4d85d6fc783d8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Which of the upcoming new Apple products most excites you? [Poll]",
-      "url": "https://9to5mac.com/2026/09/08/which-of-the-upcoming-new-apple-products-most-excites-you-poll/",
-      "publishedAt": "2026-09-08T13:54:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Surprise-and-shine-new-products.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleのイベント直前、注目を集める新製品の数々",
-      "summaryJa": "Appleの新製品発表イベントを翌日に控え、多数の新デバイス登場に対する期待が高まっています。今回のイベントでは6から9製品の発表が予想されており、中でも同社初となる折りたたみ式のiPhone Ultraが最大の話題を集めています。高価格帯が予想される折りたたみモデルに加え、その他の実用的な新製品や発表内容のどれに最も期待するか、ユーザーの間で関心が寄せられています。"
-    },
-    {
-      "id": "742d9cf8623abc43db0e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "The Cadillac Lyriq EV is the first crack in GM’s CarPlay ban",
-      "url": "https://9to5mac.com/2026/09/08/the-cadillac-lyriq-ev-is-the-first-crack-in-gms-carplay-ban/",
-      "publishedAt": "2026-09-08T13:21:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/The-Cadillac-Lyriq-EV-is-the-first-crack-in-GMs-CarPlay-ban.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "GMのキャデラック LyriqがCarPlay対応を維持した理由",
-      "summaryJa": "ゼネラルモーターズは将来の電気自動車からCarPlayを廃止する方針を示していましたが、キャデラックのLyriqでは標準搭載を継続していることが分かりました。顧客からの強いフィードバックを受けた方針転換とみられており、ネイティブの車載体験を重視しつつもユーザーの要望に配慮した形です。CarPlay非搭載のGM製EV向けには、サードパーティー製のワイヤレスアダプターといった回避策も登場しています。"
-    },
-    {
-      "id": "0319031dbb37613bc5c2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Amazon Introduces First Pre-Order Discount on New Mac Studio, Alongside Mac Mini Deals",
-      "url": "https://www.macrumors.com/2026/09/08/amazon-discount-mac-studio/",
-      "publishedAt": "2026-09-08T13:05:49.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/11/mac-studio-purple.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Amazon、新型Mac StudioとMac miniの予約割引を開始",
-      "summaryJa": "Amazonは、発売を控えた新型Mac StudioおよびMac miniの事前予約に対する初の割引セールを開始しました。M5 Max Mac Studioや、最大40%のCPU性能向上の特徴を持つM6チップ搭載Mac miniなどが対象となっています。これらの新製品は9月22日の正式発売に向けて、現在お得な価格で予約を受け付けています。"
-    },
-    {
-      "id": "8efe2761e2e88abf8fb5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Foldable iPhone Development History and Price Revealed in New Report",
-      "url": "https://www.macrumors.com/2026/09/08/foldable-iphone-history-and-price-revealed/",
-      "publishedAt": "2026-09-08T12:55:23.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみ式iPhoneの開発経緯と予想価格が新たに浮上",
-      "summaryJa": "Bloombergのマーク・ガーマン記者によると、折りたたみ式iPhoneの開発にはティム・クックCEOが深く関与しており、価格はストレージ構成によって約3,000ドルに達する可能性があると伝えられています。初期段階では2,000ドル未満の発売を目指していましたが、メモリ不足の影響なども背景に価格設定の議論が行われてきました。アジアでの他社製折りたたみ端末の普及を見たクック氏が開発を加速させたとされており、今後の動向が注目されます。"
-    },
-    {
-      "id": "d6fea6df85328a1b26d0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Ultra Touch ID 'Confirmed' in iOS 27? Not So Fast",
-      "url": "https://www.macrumors.com/2026/09/08/iphone-ultra-touch-id-not-confirmed/",
-      "publishedAt": "2026-09-08T12:10:14.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2020/08/iPad-Air-4-Touch-ID-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27ベータ版のコード解析からiPhone UltraのTouch ID搭載は確定せず",
-      "summaryJa": "iOS 27のベータ版コード内で見つかった記述から、iPhone UltraにTouch IDが搭載されると話題になっていますが、それは確実ではないと指摘されています。UWBチップとTouch IDが同じ文字列に含まれていたことから決定打と見る向きがある一方、Appleのコードベースには過去の遺構やハードウェアに紐づかない古い用語が残ることが多いためです。期待は高まるものの、このコードの記述だけで機能を断定するのは早計だと言えそうです。"
-    },
-    {
-      "id": "57dc34c2503f6e78fa98",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "2024 vs. 2026 Mac Mini Buyer's Guide",
-      "url": "https://www.macrumors.com/guide/2024-vs-2026-mac-mini/",
-      "publishedAt": "2026-09-08T11:56:18.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/mac-mini-2026-blue.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "M6搭載Mac miniと旧モデルの仕様や価格の違いを比較",
-      "summaryJa": "Appleが新たに発表したM6チップおよびM5 Pro搭載のMac miniについて、旧世代モデルからの変更点が整理されています。新モデルではWi-Fi 7やBluetooth 6への対応、パフォーマンスの向上など多くの改良が施されている一方で、AI需要に伴うメモリ不足の影響で価格が上昇しています。教育向け割引なども用意されており、購入を検討する際の重要な判断材料となりそうです。"
-    },
-    {
-      "id": "2423572a90d3771dafd8",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Foldable 'iPhone Ultra' May Launch Later in China, Says Leaker",
-      "url": "https://www.macrumors.com/2026/09/08/foldable-iphone-may-launch-later-china/",
-      "publishedAt": "2026-09-08T11:47:03.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみiPhone Ultra、中国での発売が遅れる可能性",
-      "summaryJa": "Apple初の折りたたみデバイス「iPhone Ultra」について、初期在庫の制限や地域別の割り当てにより、中国本土での発売が他の市場よりも遅れる可能性があると報じられています。厳格な品質管理基準やヒンジ、ディスプレイの耐久性テストに時間がかかっていることが背景にあるとされています。一方で、同時期に通常通り登場するという見方も存在しており、今後の動向が注目されています。"
-    },
-    {
-      "id": "b8ddcc5f44dcd4580d7c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Air 2 Could Replace iPhone 18, Sketchy Rumor Claims",
-      "url": "https://www.macrumors.com/2026/09/08/iphone-air-2-could-replace-iphone-18/",
-      "publishedAt": "2026-09-08T11:23:48.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-air-2.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone Air 2が通常モデルの後継になる可能性の噂",
-      "summaryJa": "Appleが標準モデルのiPhone 18を取りやめ、代わりに超薄型デザインのiPhone Air 2を新たなエントリーモデルとして展開する可能性があるという噂が浮上しています。ただし、これまでの多くの噂では個別の端末として登場すると伝えられており、情報源の実績からも現時点では信憑性が低いと見られています。将来的に超薄型デザインが標準モデルのテンプレートになる長期的なシフトの可能性は以前から指摘されています。"
-    },
-    {
-      "id": "774e11ed1c8e3ee9f9fa",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple @ Work: The printer is the least secure piece of equipment you have",
-      "url": "https://9to5mac.com/2026/09/08/the-printer-is-the-least-secure-piece-of-equipment-you-have/",
-      "publishedAt": "2026-09-08T10:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple @ Work：企業におけるプリンターのセキュリティ課題",
-      "summaryJa": "最新のApple @ Workポッドキャストでは、PharosのKevin Pickhardt氏をゲストに迎え、企業における情報セキュリティの課題について議論しています。特に紙のバックアップや監査証跡周辺のバランス調整など、見落とされがちなセキュリティリスクに焦点を当てています。安全なデバイス運用と管理を考える上で重要な視点を提供しています。"
-    },
-    {
-      "id": "b0c0c667544079cf95c5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Logitech launches $99 MX Keypad for coding and AI workflows",
-      "url": "https://9to5mac.com/2026/09/08/logitech-launches-99-mx-keypad-for-coding-and-ai-workflows/",
-      "publishedAt": "2026-09-08T07:01:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Logi-MX-Keys.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Logitech、コーディング向け9キー搭載「MX Keypad」を発表",
-      "summaryJa": "Logitechは、カスタマイズ可能な9つのフルカラーLCDキーを搭載した「MX Keypad」を99.99ドルで発表しました。専用アプリ「Logi Options+」を通じて、ショートカットやマクロ、AIツールへのアクセスを簡単に割り当てることができます。クリエイター向けの既存コンソールからキーパッド部分だけを独立させ、開発者やAIワークフローを中心に訴求しています。"
-    },
-    {
-      "id": "c83973a3e61ffcaad2c4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Overtime 080: Six new Apple products",
-      "url": "https://9to5mac.com/2026/09/07/9to5mac-overtime-080-six-new-apple-products/",
-      "publishedAt": "2026-09-08T02:38:32.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/9to5Mac-Overtime-080.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの新製品やiPhone Ultraの噂をポッドキャストで討論",
-      "summaryJa": "9to5Macのポッドキャスト番組において、ベルリンで開催中のIFAから接続したフェルナンド氏らが、今後噂されているiPhone Ultraや今週の新製品イベントで発表される可能性のある5つの製品について議論しています。番組ではAppleエコシステムに関する興味深い観察や、愛用している周辺機器についても触れられています。"
     }
   ],
-  "updatedAt": "2026-09-14T23:23:35.050Z",
+  "updatedAt": "2026-09-15T01:42:50.733Z",
   "initialized": true,
   "summaryVersion": 4
 }
