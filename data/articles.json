@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "a7d6bf7fb7cf99828837",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Car Keys reportedly coming to three more automakers",
+      "url": "https://9to5mac.com/2026/09/15/apple-car-keys-reportedly-coming-to-three-more-automakers/",
+      "publishedAt": "2026-09-15T22:43:38.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AppleのCar Key、新たに3つの自動車ブランドに対応か",
+      "summaryJa": "Appleのバックエンドコードから、ウォレットアプリの「Car Key」機能に対応する新たな自動車メーカーとしてリンカーン、フリーランダー、ルシッドの3社が追加されていることが判明しました。これはコード上の変更であり正式な対応時期や対象車種はまだ発表されていませんが、将来的にこれらのブランドの車両でiPhoneやApple Watchを車のキーとして利用できるようになる可能性があります。"
+    },
+    {
+      "id": "08b14b6ac298569b7640",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "What the iPhone Duo's Camera Can and Can't Do",
+      "url": "https://www.macrumors.com/guide/iphone-duo-camera/",
+      "publishedAt": "2026-09-15T22:11:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-cameras.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "折りたたみiPhone「iPhone Duo」のカメラ機能が明らかに",
+      "summaryJa": "折りたたみデザインを採用する新しい「iPhone Duo」に向けた独自のカメラ機能の詳細が報じられています。全員が揃った瞬間をAIが自動で撮影する「スマートテイク」や、子供の注意を引き付ける「Kid Cue」、内外のディスプレイにライブプレビューを表示する機能などが搭載されます。また、折りたたみ機構を三脚がわりに利用できるほか、外側ディスプレイをファインダーにして高品質な背面カメラで自分撮りを行うことも可能です。"
+    },
+    {
+      "id": "684f89b0878843a5c795",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Ulysses gets Siri AI support, customizable toolbars, project templates, more",
+      "url": "https://9to5mac.com/2026/09/15/ulysses-gets-siri-ai-support-customizable-toolbars-project-templates-more/",
+      "publishedAt": "2026-09-15T22:01:17.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ulysses.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "テキストエディタ「Ulysses」がSiri AIサポートに対応",
+      "summaryJa": "人気テキストエディタアプリ「Ulysses」がアップデートされ、Siri AIのサポートやカスタマイズ可能なツールバー、プロジェクトテンプレートなどが追加されました。今回のアップデートにより、文章の作成や書き換え、校正などをAIアシスタントの画面認識機能と組み合わせてスムーズに行えるようになります。また、iOSやmacOSの最新バージョンに合わせたデザインの刷新や、新しいグループアイコン、アクセシビリティの改善も含まれています。"
+    },
+    {
+      "id": "de8fa38c363d701f3097",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "dbrand has the iPhone Duo and iPhone 18 Pro covered – with a huge range of designs",
+      "url": "https://9to5mac.com/2026/09/15/dbrand-has-iphone-duo-iphone-18-pro-covered-with-huge-range-of-designs/",
+      "publishedAt": "2026-09-15T22:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/09-10-iPhone-18-Series-Hero-1.png?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ケースメーカーdbrand、新型iPhone向けアクセサリーを発表",
+      "summaryJa": "新型のiPhone DuoやiPhone 18 Proの発表に伴い、ケースメーカーのdbrandが専用のケースやスキン、画面保護フィルムなどのラインナップをいち早く公開しました。ミニマルな薄型ケース「MNML」や黄ばみを一生涯保証するクリアケース「Ghost」、優れたグリップ力の「Grip」などが用意されています。ユーザーは自分の好みや求める保護のレベルに合わせて、多彩なデザインや質感の中からアクセサリーを選択可能です。"
+    },
+    {
+      "id": "b307bed594ea485b954a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 has a fun new animation when you call a contact on their birthday",
+      "url": "https://9to5mac.com/2026/09/15/ios-27-has-a-fun-new-animation-when-you-call-a-contact-on-their-birthday/",
+      "publishedAt": "2026-09-15T20:44:58.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/birthday-ios27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27、誕生日の連絡先に発信する際の楽しい新アニメーションを追加",
+      "summaryJa": "iOS 27では、連絡先に登録された誕生日の人に電話をかけると、特別な花火のバナーアニメーションが表示されるようになりました。watchOSで好評だった演出がiPhoneにも取り入れられ、今年のシステム全体のアップデートにおいて誕生日機能の一環となっています。"
+    },
+    {
       "id": "9ea6950025fc57d0c3cd",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -359,6 +434,96 @@
       ],
       "titleJa": "Appleウォレットの「車の鍵」機能、新たに3つの自動車ブランドへ拡大か",
       "summaryJa": "Appleウォレットのデジタルカーキー機能が、リンカーン、ルシード・モータース、中国のフリーランダーの3つの自動車ブランドへ新たに拡大する予定であることがコードから判明しました。この機能を利用すると、iPhoneやApple Watchを使って対応車両のロックや解除、エンジン始動が可能になります。なお、具体的な提供開始時期については現在のところコード内に記載されていません。"
+    },
+    {
+      "id": "0ed914fb6ec02cf46119",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Card has three new and improved features in iOS 27",
+      "url": "https://9to5mac.com/2026/09/15/apple-card-has-three-new-and-improved-features-in-ios-27/",
+      "publishedAt": "2026-09-15T14:00:41.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-card-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Card、iOS 27で定期的な取引や新通知機能など3つの改善を実施",
+      "summaryJa": "iOS 27のApple Cardには、定期的な支払いを管理できる「Recurring」セクションが新しく追加されました。履歴から今後の請求を予測して通知する機能も備わっており、サードパーティ製アプリを使わずにサブスクリプションの管理が容易になります。さらに、Apple Payのチェックアウト画面のデザインも刷新されました。"
+    },
+    {
+      "id": "7623949e843a0f9020f1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Cuts iPhone Trade-In Values While Raising Mac and iPad",
+      "url": "https://www.macrumors.com/2026/09/15/apple-cuts-iphone-trade-in-value/",
+      "publishedAt": "2026-09-15T13:43:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Trade-Ins-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhoneの下取り価格を引き下げ、MacやiPadは引き上げ",
+      "summaryJa": "Appleは米国での下取り価格を改定し、iPhoneの対象全モデルで価格を引き下げる一方で、iPadとMacのラインナップでは引き上げを行いました。新しい状態査定システムが導入され、わずかな外傷がある端末でも過度な減額を避ける詳細なティアが適用されるようになっています。iPhone 17シリーズなどの新しい端末も初めてリストに追加されました。"
+    },
+    {
+      "id": "5e9129f55ac8301e0d98",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Battery draining faster after updating to iOS 27? Don’t panic …",
+      "url": "https://9to5mac.com/2026/09/15/battery-draining-faster-after-updating-to-ios-27-dont-panic/",
+      "publishedAt": "2026-09-15T13:35:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-trio-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27へのアップデート後にバッテリー消費が早い原因と対処法",
+      "summaryJa": "iOS 27にアップデートした直後にバッテリーの消耗が早くなったり本体が発熱したりする場合でも、慌てる必要はありません。これはSiri AIのためのデータ再インデックスなど、バックグラウンドでの集中的な処理が一時的に発生しているためです。数日間かけてこれらの作業が完了すれば、バッテリー持ちや端末の動作は通常の状態に戻ります。"
+    },
+    {
+      "id": "049ab27973ec26b9973b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 adds new Phone app feature that’s an instant favorite",
+      "url": "https://9to5mac.com/2026/09/15/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/",
+      "publishedAt": "2026-09-15T13:34:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/phone-app-icon-fi-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27、企業への電話時に関連情報を表示する「Call Context」を追加",
+      "summaryJa": "iOS 27で導入されたApple Intelligence機能「Call Context」は、企業へ電話をかけた際にメール内の確認コードなど関連情報を自動で画面上に表示します。航空会社の予約変更などの際に、確認番号を音声で読み上げてくれる便利な機能も備わっています。英語圏から提供が開始され、対応するiPhoneやiPadなどのデバイスで利用可能です。"
+    },
+    {
+      "id": "5bd9ab18c92ee80d5d1e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Spotify Now Lets You Keep Kids' Music Out of Your Wrapped",
+      "url": "https://www.macrumors.com/2026/09/15/spotify-keep-kids-music-out-of-taste-profile/",
+      "publishedAt": "2026-09-15T12:59:42.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/spotify-kids-music-filter@2x-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Spotify、子どもの音楽をレコメンドや再生履歴から除外する設定を追加",
+      "summaryJa": "Spotifyは、子ども向けに再生した音楽がパーソナライズされたおすすめや今年のまとめに影響を与えないようにする新しい設定を追加しました。設定内の「キッズ＆ファミリー向け音楽を好みのプロファイルに含める」のスイッチをオフにすることで、アニメの曲や童謡などがレコメンド機能に反映されなくなります。変更が反映されるまで最大48時間かかり、過去の再生履歴に対しても遡って適用されます。"
+    },
+    {
+      "id": "4811899bea01103d0dbf",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "'Widow's Bay' Leads Apple TV to Record 29 Emmy Wins",
+      "url": "https://www.macrumors.com/2026/09/15/widows-bay-apple-tv-record-emmy-wins/",
+      "publishedAt": "2026-09-15T12:34:26.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-TV-Emmy-winners-Widows-Bay-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple TV、エミー賞で過去最多の29部門を受賞",
+      "summaryJa": "第78回プライムタイム・エミー賞において、Apple TVの配信作品が合計29部門を受賞し、今年の最多受賞ネットワークとなりました。『Widow's Bay』がコメディ・シリーズ作品賞を含む最多の14部門を獲得し、大きな躍進を支えました。配信サービスとして史上最速で最多受賞ネットワークの地位を築き、優れたオリジナル作品のクオリティの高さを改めて証明しています。"
     },
     {
       "id": "0373d29dc6bcf285e542",
@@ -4345,174 +4510,9 @@
       ],
       "titleJa": "Apple WatchのAI日誌機能が追跡する詳細な活動カテゴリが判明か",
       "summaryJa": "コードネーム「Ambient Sensing」と呼ばれる次期Apple Watchの日報機能について、リークされたコードから追跡される具体的な活動カテゴリが明らかになりました。食事や家事、運動、通勤、画面時間など数十種類に及び、日時や場所、一緒にいる人物などの詳細も記録されると伝えられています。"
-    },
-    {
-      "id": "5ddd73783d8396d88e6a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "John Ternus posts mysterious video ahead of iPhone 18 Pro unveiling",
-      "url": "https://9to5mac.com/2026/09/09/john-ternus-posts-mysterious-video-ahead-of-iphone-18-pro-unveiling/",
-      "publishedAt": "2026-09-09T13:11:37.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus-product-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple新CEOのジョン・ターナス氏が新製品イベント前に意味深な動画を公開",
-      "summaryJa": "Appleの新CEOであるジョン・ターナス氏が、新製品発表イベントを前にiPhone 18 Proの新しいカメラ機能を予告するような謎めいた動画をSNSに投稿しました。動画ではデバイスの隅にスポットライトが当たっており、iPhone 18 ProおよびPro Maxに搭載されると噂される可変絞り機能を示唆しているのではないかと注目されています。"
-    },
-    {
-      "id": "1bfe51e5243da1476426",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple reportedly offering trade-in incentive to encourage iPhone upgrades",
-      "url": "https://9to5mac.com/2026/09/09/apple-reportedly-offering-trade-in-incentive-to-encourage-iphone-upgrades/",
-      "publishedAt": "2026-09-09T13:09:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-offering-trade-in-incentive-from-today-to-encourage-iPhone-upgrades.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、新型iPhone発売に向け微細な傷のある端末の下取り価格を改善か",
-      "summaryJa": "新型iPhoneの価格引き上げに備え、Appleが下取りプログラムを拡充し、画面の小さなひび割れなどの軽微な外観上の欠陥がある端末でも、状態の良好な端末と同じ下取り価格を適用する方針であると報じられています。この新しい方針は対象製品の範囲全体に適用され、新製品への買い替えを促進する狙いがあるとみられています。"
-    },
-    {
-      "id": "35383a61635ef674f151",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Last-minute iPhone event rumors: Pre-order time, AirPods 5 features, more",
-      "url": "https://9to5mac.com/2026/09/09/last-minute-iphone-event-rumors-pre-order-time-airpods-5-features-more/",
-      "publishedAt": "2026-09-09T13:09:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-concept-02.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proや予約開始日を巡るイベント直前の最新情報まとめ",
-      "summaryJa": "Appleの特別イベントを目前に控え、新製品に関する直前の詳細な情報が相次いで浮上しています。iPhone 18 Proや折りたたみ式iPhoneの予約受付は通常より遅れて9月12日に開始されると予想されており、デバイスの充電速度向上やカメラ機能の進化などの新情報も報じられています。"
-    },
-    {
-      "id": "16f5799cf0ac5911ecdc",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple to Offer Better Trade-In Pricing for Minor Cosmetic Damage",
-      "url": "https://www.macrumors.com/2026/09/09/apple-to-offer-better-trade-in-pricing/",
-      "publishedAt": "2026-09-09T11:46:40.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/05/apple-trade-in-2024.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、軽微な外観の傷に対する下取り価格を改善へ",
-      "summaryJa": "Appleは、ディスプレイの小さな欠けなどの軽微な外観の不具合があるデバイスに対して、より適切な下取り価格を適用するプログラムの拡大を予定しています。従来は深刻な損傷と同等に扱われ、下取り額が大幅に減額されていましたが、今後はデバイスの状態をよりきめ細かく反映した価格設定に変更されます。この変更は大部分の国と地域の下取りプログラムに適用されると伝えられています。"
-    },
-    {
-      "id": "3e98588642e8998c781e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Details Purportedly Leaked By Verizon's AI Assistant",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-details-leaked-by-verizon/",
-      "publishedAt": "2026-09-09T11:28:32.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの詳細情報がVerizonのAIアシスタントから流出か",
-      "summaryJa": "Appleのイベントの数時間前に、VerizonのAIチャットアシスタントがiPhone 18 ProおよびiPhone 18 Pro Maxに関する詳細な質問に回答したとされるスクリーンショットが共有されました。アシスタントは可変絞りメインカメラや最大16GBのRAM、カラーバリエーションなどについて言及したと報じられています。ただし、一部の価格情報などは従来モデルと一致しており、内容の正確性については疑問視される点もあります。"
-    },
-    {
-      "id": "35e1c191fceea821341f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Lakeside store reopens on Saturday with new design using sustainable materials",
-      "url": "https://9to5mac.com/2026/09/09/apple-lakeside-store-reopens-on-saturday-with-new-design-using-sustainable-materials/",
-      "publishedAt": "2026-09-09T11:28:06.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Lakeside-store-reopens-on-Saturday-with-new-design-using-sustainable-materials.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "英国のApple Lakesideストアがサステナブル素材を採用して再オープン",
-      "summaryJa": "英国エセックスにある大規模ショッピングセンター内のApple Lakesideストアが、大規模な改修工事を経て土曜日に再オープンします。今回の改装では持続可能な素材が導入されたほか、車いすでの移動スペースの確保や様々な高さのテーブル、音声・視覚の明瞭化などアクセシビリティの向上を図る機能が多数追加されました。店内にはオンライン注文品の専用受取エリアなども新設され、訪れる顧客により快適な体験を提供します。"
-    },
-    {
-      "id": "1a0cdbe42cae852d0965",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Store Down Ahead of 'Surprise and Shine' iPhone 18 Pro Event",
-      "url": "https://www.macrumors.com/2026/09/09/apple-store-down-iphone-18-pro-event/",
-      "publishedAt": "2026-09-09T11:20:38.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-store-down-sept-2026.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Store、新製品発表イベントの開催を前にメンテナンス入り",
-      "summaryJa": "Appleのイベント開催を控え、オンラインのApple Storeがメンテナンスモードに入りました。今回のイベントでは、新しいiPhone 18 Proシリーズや折りたたみ式のiPhone Duo、Apple Watch Series 12、Apple Watch Ultra 4、AirPods 5などの発表が期待されています。また、iOS 27やmacOSなどの次期メジャーソフトウェアのリリース日についても言及される可能性があります。"
-    },
-    {
-      "id": "6a95e154f264f2b1efa2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Foldable iPhone Duo to Come With Apple Pencil Support",
-      "url": "https://www.macrumors.com/2026/09/09/foldable-iphone-duo-apple-pencil-support/",
-      "publishedAt": "2026-09-09T11:06:28.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/apple-pencil-pro-purple.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみiPhone Duo、Apple Pencilに対応か",
-      "summaryJa": "Appleの折りたたみ端末「iPhone Duo」がApple Pencilをサポートする見込みであることが報じられました。以前の試作段階では専用の短めなスタイラスが検討されていたものの、最新情報ではApple Pencilへの対応と伝えられており、異なるアプローチが採用された可能性があります。"
-    },
-    {
-      "id": "ad8d3169e42299c42061",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Store is down ahead of iPhone 18 Pro, iPhone Duo foldable and more announcements",
-      "url": "https://9to5mac.com/2026/09/09/apple-store-down-iphone-18-pro-event/",
-      "publishedAt": "2026-09-09T11:01:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-store-down.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新製品発表を控え、Apple Storeのオンラインストアが一時閉鎖",
-      "summaryJa": "スペシャルイベントの開催を前に、Apple Storeのメンテナンスが開始されました。今回のイベントでは、iPhone 18 Proシリーズや折りたたみ式のiPhone Duo、Apple Watch Series 12、新型AirPodsなどの発表が期待されており、新CEOのジョン・テラス氏による初めての基調講演に注目が集まっています。"
-    },
-    {
-      "id": "6679c3f39825ec6dbf8c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Price Hike to Be Lower Than Expected",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-price-hike-to-be-lower-than-expected/",
-      "publishedAt": "2026-09-09T11:00:46.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2022/01/Apple-Logo-Cash-Feature-Mint.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの値上げ幅は予想よりも小さくなる見通し",
-      "summaryJa": "次期iPhone 18 ProおよびPro Maxの価格上昇は、モデルあたり100ドル程度にとどまると伝えられています。世界的なメモリ不足に伴う大幅な値上げが懸念されていたものの、Appleがそのコストを一部吸収することで、市場の予測より小幅な値上げに抑えられる見込みです。"
-    },
-    {
-      "id": "d8ecbec020679e546902",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Samsung ‘advice’ to Apple suggests it fears the build quality of the iPhone Duo",
-      "url": "https://9to5mac.com/2026/09/09/samsung-advice-to-apple-suggests-it-fears-the-build-quality-of-the-iphone-duo/",
-      "publishedAt": "2026-09-09T10:58:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Will-the-iPhone-Ultra-avoid-the-issue-that-can-still-kill-Samsung-foldables.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "サムスン幹部、Appleの折りたたみ端末参入について言及",
-      "summaryJa": "Appleの折りたたみ市場参入を控え、サムスンの開発責任者が歓迎の意を示しつつ、端末の重量とビルドクォリティについて言及しました。Appleは折り目の目立たない高い耐久性を目指して慎重に開発を進めてきたとされており、今後の市場シェアの変動に注目が集まっています。"
     }
   ],
-  "updatedAt": "2026-09-15T20:15:40.979Z",
+  "updatedAt": "2026-09-15T22:59:32.533Z",
   "initialized": true,
   "summaryVersion": 4
 }
