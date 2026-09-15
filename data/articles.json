@@ -1,6 +1,156 @@
 {
   "articles": [
     {
+      "id": "9ea6950025fc57d0c3cd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 gives Apple’s Calendar app new feature I’ve wanted for years",
+      "url": "https://9to5mac.com/2026/09/15/ios-27-gives-apples-calendar-app-new-feature-ive-wanted-for-years/",
+      "publishedAt": "2026-09-15T20:06:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、カレンダーアプリに自然言語入力機能を追加",
+      "summaryJa": "Appleのカレンダーアプリがアップデートされ、予定の作成時に自然言語による入力がサポートされました。文章をそのまま打ち込むだけで、日時や場所などの詳細が自動的に認識されてカレンダーに反映されます。また、リマインダーの作成時にも同様の自然言語システムが拡張され、よりスムーズなスケジュール管理が可能になっています。"
+    },
+    {
+      "id": "1aa00cfc9d6bf88b765f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Another Intel iMac has joined Apple’s vintage products list",
+      "url": "https://9to5mac.com/2026/09/15/another-intel-imac-has-joined-apples-vintage-products-list/",
+      "publishedAt": "2026-09-15T19:55:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/2019-imac.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "2019年製の21.5インチiMacがヴィンテージ製品リスト入り",
+      "summaryJa": "Appleは、2019年に発売されたRetina 4Kディスプレイ搭載の21.5インチiMacを新たにヴィンテージ製品のリストに追加しました。ヴィンテージ製品に指定されると、部品の在庫状況に応じてApple Storeや正規サービスプロバイダでの修理対応が可能となります。所有しているユーザーで修理を検討している場合は、早めの対応が推奨されます。"
+    },
+    {
+      "id": "d64fc2de4cfaca1e40b4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Last Intel 21.5-Inch iMac is Now Vintage",
+      "url": "https://www.macrumors.com/2026/09/15/apple-last-intel-imac-vintage/",
+      "publishedAt": "2026-09-15T19:53:26.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2020/08/iMac-Blue-Isolated.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "最後のIntel搭載21.5インチiMacがヴィンテージ製品に",
+      "summaryJa": "Appleが2019年発売の4K対応21.5インチiMacをヴィンテージ製品リストに追加したことが伝えられています。販売終了から5年が経過した製品が対象となり、今後は部品の在庫がある場合に限り修理を受け付ける形になります。M1チップを搭載した現在のカラフルなiMacが登場する前の世代にあたる、最後のIntel製21.5インチモデルでした。"
+    },
+    {
+      "id": "4b7aca84bc86036575a2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 16 Pro vs. iPhone 18 Pro Buyer's Guide: Worth Upgrading?",
+      "url": "https://www.macrumors.com/guide/iphone-16-pro-vs-18-pro/",
+      "publishedAt": "2026-09-15T19:17:47.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-16-Pro-vs-18-Pro-Buyers-Guide-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 16 ProからiPhone 18 Proへの買い替えガイド",
+      "summaryJa": "2世代前のiPhone 16 Proから最新のiPhone 18 Proへアップグレードする際の変更点について解説しています。アルミニウムユニボディへの変更やバッテリー駆動時間の大幅な向上など、数多くの違いが存在します。世代を飛ばしたことで多くの進化を一度に体験できるため、買い替えを検討する際の重要な判断材料となります。"
+    },
+    {
+      "id": "59ad78bc64c13b026ef8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "HBO boss reacts to Apple TV winning more Emmy awards",
+      "url": "https://9to5mac.com/2026/09/15/hbo-boss-reacts-to-apple-tv-winning-more-emmy-awards/",
+      "publishedAt": "2026-09-15T18:47:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-hbo-black.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVのエミー賞受賞にHBO責任者がコメント",
+      "summaryJa": "エミー賞で多くの部門を制覇したApple TVに対し、競合であるHBOのトップがコメントを発表しました。Appleの躍進を称えつつも、巨大資本を持つ企業との競争に対する率直な心境を語っています。高品質な作品作りで知られる両者の今後の展開にも注目が集まります。"
+    },
+    {
+      "id": "8a8a4b2d6768244fbd43",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirPods 5 Hands-On: Better Noise Cancellation, Lower Price",
+      "url": "https://www.macrumors.com/2026/09/15/airpods-5-hands-on/",
+      "publishedAt": "2026-09-15T18:19:59.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirPods 5のハンズオンと進化点",
+      "summaryJa": "先週発表されたAirPods 5の初期レビューから、その性能や使い心地が明らかになっています。前モデルを踏襲したデザインながら、内部構造の刷新によりアクティブノイズキャンセリング機能が大きく向上しました。また、より手頃な価格設定や進化した音声機能も備え、使いやすさがさらに高まっています。"
+    },
+    {
+      "id": "36d5c68ba935c98e3283",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "M5 Ultra Chip's Impressive Performance Boost Revealed in First Benchmark Result",
+      "url": "https://www.macrumors.com/2026/09/15/apple-m5-ultra-chip-benchmark/",
+      "publishedAt": "2026-09-15T18:00:47.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/M5-Ultra-Hero.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "M5 Ultraチップの圧倒的な性能が判明か",
+      "summaryJa": "Geekbenchデータベースに登場した未確認のベンチマークから、新しいM5 Ultraチップの驚異的なパフォーマンスが明らかになりました。次世代のMac Studioに搭載される最高峰チップは、前世代のUltraモデルと比較して大幅な速度向上が見込まれています。実測値でもAppleの公式主張を裏付ける結果となっており、非常に高い処理能力を示しています。"
+    },
+    {
+      "id": "8603fd577fc500f954fa",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo could be very hard to get at launch, per report",
+      "url": "https://9to5mac.com/2026/09/15/iphone-duo-could-be-very-hard-to-get-at-launch-per-report/",
+      "publishedAt": "2026-09-15T17:45:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-siri-app.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone Duoは発売初期に入手困難か",
+      "summaryJa": "来月に迫った予約受付を前に、アナリストのレポートから「iPhone Duo」の初回出荷数が予想以上に少なくなる可能性が報じられています。折りたたみ式機構の生産における制約が原因とされており、高い価格設定にもかかわらず発売初期の入手は困難を極めるとみられています。"
+    },
+    {
+      "id": "a3bd621bb2d605bdfe4c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AppZapper 3000: ‘The uninstaller Apple forgot’ returns for the modern Mac era",
+      "url": "https://9to5mac.com/2026/09/15/appzapper-3000-the-uninstaller-apple-forgot-returns-for-the-modern-mac-era/",
+      "publishedAt": "2026-09-15T17:39:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/appzapper-3000.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Mac向け定番アンインストーラーアプリ「AppZapper 3000」が復活",
+      "summaryJa": "長年の休止期間を経て、Mac向けの人気アンインストーラーアプリ「AppZapper」が最新バージョン「AppZapper 3000」として復活しました。アプリ本体だけでなく関連ファイルまで徹底的に削除できる機能はそのままに、モダンなMac環境向けに刷新されています。おなじみの効果音に加え、よりインタラクティブな機能が追加されており、ライセンス購入前に3回までの試用が可能です。"
+    },
+    {
+      "id": "c37ce5e0c45fae0bbde4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "OWC's Best Mac Accessories Are on Sale Just for MacRumors Readers",
+      "url": "https://www.macrumors.com/2026/09/15/owcs-mac-sale-macrumors/",
+      "publishedAt": "2026-09-15T17:38:16.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/owc-macrumors-september.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "OWCのThunderboltドックやストレージが特別価格でセール中",
+      "summaryJa": "海外メディアMacRumorsの読者向けに、OWC製の人気Macアクセサリが特別割引価格で販売されています。Thunderboltドックや高速な外付けストレージケース、USB-Cケーブルなど計7アイテムが対象です。割引は自動で適用され、セールは9月21日まで実施される予定となっています。"
+    },
+    {
       "id": "6e1fda4a802e45c4b692",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -179,6 +329,36 @@
       ],
       "titleJa": "Apple TV人気作「窓際のスパイ」シーズン7と8の制作が決定",
       "summaryJa": "Apple TVの人気ドラマシリーズ「窓際のスパイ」シーズン6の配信開始に合わせて、早くもシーズン7と8の制作が決定したことが発表されました。定期的な早期更新によりスムーズな新作公開が続いており、シーズン8では原作シリーズの第9作目「Clown Town」が描かれます。MI5の秘密をめぐるジャックス・ラムらの緊迫したストーリーが今後も長く楽しめる予定です。"
+    },
+    {
+      "id": "67c8e7476fe1c11d0c9a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirPods 5 Sees Initial Pre-Order Deal Ahead of Launch This Friday",
+      "url": "https://www.macrumors.com/2026/09/15/airpods-pre-order-deal/",
+      "publishedAt": "2026-09-15T14:29:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/AirPods-5-Gradient.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型AirPods 5、発売を前にAmazonで早くも割引価格に",
+      "summaryJa": "今週金曜日の発売を控える新型「AirPods 5」のベースモデルが、Amazonの事前予約で早くも割引価格の124.99ドルで登場しました。わずかな値下げではありますが、発売前の新モデルに対する最初の割引として注目されています。なお、ワイヤレス充電ケース付きモデルも同時に予約受付が行われています。"
+    },
+    {
+      "id": "972f5d395868a37be02c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Car Keys in Apple Wallet Expanding to Three More Vehicle Brands",
+      "url": "https://www.macrumors.com/2026/09/15/iphone-car-keys-coming-to-three-more-automakers/",
+      "publishedAt": "2026-09-15T14:17:49.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/01/bmw-car-key-photo.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleウォレットの「車の鍵」機能、新たに3つの自動車ブランドへ拡大か",
+      "summaryJa": "Appleウォレットのデジタルカーキー機能が、リンカーン、ルシード・モータース、中国のフリーランダーの3つの自動車ブランドへ新たに拡大する予定であることがコードから判明しました。この機能を利用すると、iPhoneやApple Watchを使って対応車両のロックや解除、エンジン始動が可能になります。なお、具体的な提供開始時期については現在のところコード内に記載されていません。"
     },
     {
       "id": "0373d29dc6bcf285e542",
@@ -4330,189 +4510,9 @@
       ],
       "titleJa": "サムスン幹部、Appleの折りたたみ端末参入について言及",
       "summaryJa": "Appleの折りたたみ市場参入を控え、サムスンの開発責任者が歓迎の意を示しつつ、端末の重量とビルドクォリティについて言及しました。Appleは折り目の目立たない高い耐久性を目指して慎重に開発を進めてきたとされており、今後の市場シェアの変動に注目が集まっています。"
-    },
-    {
-      "id": "acfc417a6f0ed9675e21",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Ultra 4 to Get Improved Battery Life",
-      "url": "https://www.macrumors.com/2026/09/09/apple-watch-ultra-4-to-get-improved-battery-life/",
-      "publishedAt": "2026-09-09T10:41:44.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/Apple-Watch-Ultra-3-hero-250909.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Ultra 4、バッテリー駆動時間がさらに向上か",
-      "summaryJa": "Bloombergのマーク・ガーマン記者が報じたところによると、次世代のApple Watch Ultra 4では、Ultra 3からさらにバッテリー駆動時間が改善される見込みです。Appleは新しいUltraモデルを発売するたびにバッテリー性能の向上をアピールしており、今後の展開に注目が集まっています。"
-    },
-    {
-      "id": "0456746fb43522ede7cc",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Dynamic Island to Shrink, Add Third Live Activity",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-dynamic-island-to-shrink/",
-      "publishedAt": "2026-09-09T10:39:38.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/smaller-dynamic-island-iphone-18-pro-Filip-Vabrousek.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 ProのDynamic Islandが小型化され3つのライブアクティビティに対応か",
-      "summaryJa": "次期iPhone 18 ProシリーズではDynamic Islandがより狭くなり、最大3つのライブアクティビティを同時に表示できるようになると報じられています。内部にはTSMCの2nmプロセスで製造されたA20 Proチップが搭載され、新しいバーガンディレッド系のカラーなども追加される見込みです。"
-    },
-    {
-      "id": "d58dab24dd44e282daa8",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 and Ultra 4 to Gain New AI Feature That Summarizes Your Day",
-      "url": "https://www.macrumors.com/2026/09/09/apple-watch-ai-feature-that-summarizes-your-day/",
-      "publishedAt": "2026-09-09T10:36:34.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-watch-series-12.png",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Series 12とUltra 4に一日の活動を要約する新AI機能が搭載か",
-      "summaryJa": "Apple Watch Series 12およびUltra 4には、プライバシーに配慮しながら一日の会話や出来事を分析・要約する新しいAI機能が搭載されると報じられています。音声の常時保存や文字起こしの表示を行わない設計になっており、新しい健康管理アプリ「Readiness」とともに発表される見通しです。"
-    },
-    {
-      "id": "346cc6a79298a16cea69",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Last-Minute Leak Reveals iPhone Duo Color Options and Base Storage",
-      "url": "https://www.macrumors.com/2026/09/09/leak-reveals-foldable-iphone-name-price-colors/",
-      "publishedAt": "2026-09-09T10:08:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみiPhoneの名称は「iPhone Duo」に？直前リークで価格やカラーが判明か",
-      "summaryJa": "Apple初の折りたたみ式iPhoneの名称が「iPhone Duo」に決定したと、Bloombergのマーク・ガーマン記者が報じています。ベースストレージは256GBとなり、価格は2,000ドルから、カラーはホワイトとダークブルーが用意され、10月中の発売が予想されています。"
-    },
-    {
-      "id": "8270907455ad0f898cc2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Foldable iPhone Duo Will Start at $2,000, Won't Launch Until at Least October",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-start-at-2000/",
-      "publishedAt": "2026-09-09T04:45:13.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple初の折りたたみ式iPhoneは「iPhone Duo」か、価格は2,000ドルからとの報道",
-      "summaryJa": "Appleが開発中とされる初の折りたたみ式iPhoneの名称は「iPhone Ultra」ではなく、デュアルスクリーンを強調した「iPhone Duo」になると報じられています。価格は256GBのベースモデルが2,000ドルからとなり、最高構成では約3,000ドルに達する見込みです。発売は早ければ10月になると伝えられており、A20 ProチップやC2モデム、デュアル48メガピクセルカメラなどを搭載するとされています。"
-    },
-    {
-      "id": "bb582404a33d92d55ea9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Duo: Apple’s new foldable reportedly not named Ultra, plus price, colors, more",
-      "url": "https://9to5mac.com/2026/09/08/iphone-duo-apples-new-foldable-reportedly-not-named-ultra-plus-price-colors-more/",
-      "publishedAt": "2026-09-09T04:43:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Will-the-iPhone-Ultra-avoid-the-issue-that-can-still-kill-Samsung-foldables.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "折りたたみ式iPhoneの名称は「iPhone Duo」に、発表間近の最新情報",
-      "summaryJa": "Appleの発表イベントを目前に控え、初の折りたたみ式iPhoneの正式名称が「iPhone Duo」になると報じられています。カラーはホワイトとダークブルーが用意され、発売は10月以降になる見通しです。メモリー部品の価格高騰によるコスト増の一部をAppleが負担することで、価格を競争力のある水準に抑えると伝えられています。"
-    },
-    {
-      "id": "1c69a08cee3f5937635c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Ultra is coming, here’s what the final rumors say",
-      "url": "https://9to5mac.com/2026/09/08/iphone-ultra-is-coming-heres-what-the-final-rumors-are-saying/",
-      "publishedAt": "2026-09-09T02:15:37.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "折りたたみ式iPhoneに関する直前噂まとめ、価格やディスプレイの仕様など",
-      "summaryJa": "Appleが発表すると予想される初の折りたたみ式iPhoneについて、直前の詳細な噂が伝えられています。初期の価格設定や、他社製品と比べて目立たないよう工夫された折り目、さらに中国市場での発売遅延の可能性などが報じられています。また、Face IDではなくTouch IDが採用されるとの見方も強まっています。"
-    },
-    {
-      "id": "1b6d11f75b14d08462c4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Crime thriller ‘Last Seen’ premieres on Apple TV",
-      "url": "https://9to5mac.com/2026/09/08/crime-thriller-last-seen-premieres-on-apple-tv/",
-      "publishedAt": "2026-09-09T01:30:13.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/last-seen-Patrick-Brammall.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、新作クライムドラマ「Last Seen」の配信を開始",
-      "summaryJa": "Apple TVで新しいオーストラリアの誘拐サスペンスドラマ「Last Seen」の最初の2話の配信が開始されました。パトリック・ブラモール演じる警察のディスパッチerが、11年前に失踪した娘と確信する少女からの通報をきっかけに奮闘する姿を描いた全6話の作品です。毎週水曜日に新しいエピソードが追加され、秋のラインナップを彩ります。"
-    },
-    {
-      "id": "e429216f161839d83bd5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp doubles music clip length for status updates",
-      "url": "https://9to5mac.com/2026/09/08/whatsapp-doubles-music-clip-length-for-status-updates/",
-      "publishedAt": "2026-09-09T01:12:21.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp、ステータスの音楽クリップ上限を30秒に拡大",
-      "summaryJa": "WhatsAppのステータス更新機能で、投稿できる音楽クリップの最大時間が従来の15秒から30秒へと2倍に延長されました。音楽カタログから曲を選んだ後、新しい音楽エディターのデュレーションピッカーを使ってお好みの長さを選択できます。この機能はサーバー側で順次展開されており、一部のiOSおよびAndroidユーザーで利用可能になっています。"
-    },
-    {
-      "id": "c66f2edbaec8ff425742",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: September 8, 2026 – HomePod rumors, App Store changes",
-      "url": "https://9to5mac.com/2026/09/08/daily-september-8-2026/",
-      "publishedAt": "2026-09-09T00:25:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "HomePodのサラウンド機能やApp Storeの変更を振り返る",
-      "summaryJa": "9to5Macのポッドキャスト番組にて、HomePodの新しいサラウンドサウンドやパーティモード機能に関する噂、さらにApp Storeの収益改善に向けた変更の可能性について報じられました。日々伝えられるApple関連の主要ニュースやデバイスに関する最新情報がコンパクトにまとめられています。"
-    },
-    {
-      "id": "369971c5379e29796624",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple adds 37 hardware identifiers ahead of ‘Surprise and Shine’ event",
-      "url": "https://9to5mac.com/2026/09/08/apple-adds-37-hardware-identifiers-ahead-of-surprise-and-shine-event/",
-      "publishedAt": "2026-09-08T23:27:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-event-logo-surprise-shine-september-9-small.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、イベント直前に37件の新しいハードウェア識別子を追加か",
-      "summaryJa": "Appleが「Surprise and Shine」イベントの開催を控え、iPhoneやiPad、Macなどの新しいハードウェア識別子をバックエンドに追加したと報じられています。今回の追加には7つのiPhoneモデルが含まれており、噂されている次期ラインナップとの関連性に注目が集まっています。正式発表に向けて準備が進められている可能性があり、新製品の登場に期待が高まっています。"
-    },
-    {
-      "id": "0b26de350d1ce53f5c52",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple faces new UK rules over nude images on children’s iPhones",
-      "url": "https://9to5mac.com/2026/09/08/apple-faces-new-uk-rules-over-nude-images-on-childrens-iphones/",
-      "publishedAt": "2026-09-08T21:20:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "英国、子供のiPhoneでの裸画像対策を義務化へ",
-      "summaryJa": "英国政府は、AppleやGoogleに対し、子供が端末で裸の画像を撮影や共有、閲覧することを防ぐ端末レベルの保護機能を義務付ける新たな法案を導入する方針を明らかにしました。これはオンライン上での児童の性的被害を防ぐための措置で、既存の自発的な対応では不十分だとして法制化を進める構えです。"
     }
   ],
-  "updatedAt": "2026-09-15T17:09:36.132Z",
+  "updatedAt": "2026-09-15T20:15:40.979Z",
   "initialized": true,
   "summaryVersion": 4
 }
