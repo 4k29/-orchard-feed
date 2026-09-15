@@ -1,6 +1,157 @@
 {
   "articles": [
     {
+      "id": "0373d29dc6bcf285e542",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New Apple Watch features may require new legal precedent for privacy",
+      "url": "https://9to5mac.com/2026/09/15/new-apple-watch-features-may-require-new-legal-precedent-for-privacy/",
+      "publishedAt": "2026-09-15T12:17:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/New-Apple-Watch-features-may-require-new-legal-precedent-for-privacy.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watchの新機能、米州のプライバシー法で新たな法解釈が必要になる可能性",
+      "summaryJa": "Apple Watchの新しい音声認識機能であるLive RewindとSiri Recapは会話を音声で記録するため、複数の米国州のプライバシー法との抵触が懸念されています。どちらの機能も録音データを外部に公開するものではありませんが、新しい法的先例を作るために裁判所での判断が必要になる可能性があります。"
+    },
+    {
+      "id": "18486bfe5e0d02081036",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Lukewarm orders for iPhone 18 Pro, says analyst – but it doesn’t mean much",
+      "url": "https://9to5mac.com/2026/09/15/lukewarm-orders-for-iphone-18-pro-says-analyst-but-it-doesnt-mean-much/",
+      "publishedAt": "2026-09-15T11:27:38.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの予約需要は低調か、アナリストが予測",
+      "summaryJa": "著名アナリストのジェフ・プー氏によると、iPhone 18 ProおよびPro Maxの予約時の待ち時間から判断すると、需要は控えめであるように見受けられます。ほとんどのiPhone 18 Proの構成は即時配送が可能で、Pro Maxでも最長3〜4週間となっています。ただし、出荷台数の見積もりは供給量など多くの要素に左右されるため、実際の販売動向を慎重に見極める必要があります。"
+    },
+    {
+      "id": "2f001e7bdd9ba5ae8e50",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Weirdest iTunes Walk-Back Turns 12 Today",
+      "url": "https://www.macrumors.com/2026/09/15/apples-strangest-support-page-turned-12-today/",
+      "publishedAt": "2026-09-15T11:13:50.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/u2-songs-of-innocence@2x-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "U2アルバム自動配信の騒動から12年、Appleの異例の対応を振り返る",
+      "summaryJa": "2014年、AppleはiPhone 6のイベントでU2のアルバム「Songs of Innocence」を全iTunesユーザーに無料で自動配信しました。しかし、ユーザーの同意なしにダウンロードされたことで多くの苦情が寄せられ、Appleはアルバムをアカウントから削除するための専用ページを急きょ用意する事態となりました。最終的に数千万人がダウンロードしたものの、音楽業界とユーザーの双方にとって記憶に残る出来事となりました。"
+    },
+    {
+      "id": "7d4f1f72b8430b074df7",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Moof! Apple Snuck a Dogcow Into iOS 27 - Here's How to Find It",
+      "url": "https://www.macrumors.com/2026/09/15/apple-snuck-dogcow-into-ios-27-how-to-find/",
+      "publishedAt": "2026-09-15T10:44:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/moof-clarius-dogcow-ios-27@2x-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOSに隠し要素、懐かしのマスコット「ドッグカウ」の探し方",
+      "summaryJa": "iOSの特定の画面で、往年のMacマスコットである「ドッグカウ」のクララスを見つけることができる隠し要素が話題となっています。設定アプリの特定の表示項目からサンプル画像をスクロールし続けると、おなじみの「Moof!」という文字と画像が現れます。これはAppleの歴史を彷彿とさせる遊び心のある演出として、昔からの開発者やファンを楽しませています。"
+    },
+    {
+      "id": "33ee650567beb29cb77f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Pre-Orders Off to a Muted Start, Analyst Says",
+      "url": "https://www.macrumors.com/2026/09/15/iphone-18-pro-orders-muted-start/",
+      "publishedAt": "2026-09-15T10:18:24.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Burgundy-Feature.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの予約は控えめな出足か",
+      "summaryJa": "アナリストのジェフ・プー氏によると、iPhone 18 Proシリーズの初期の予約需要は、小幅な仕様向上や高価格化が影響して控えめな出足となっていると報じられています。可変絞りカメラの制約などから生産予測の下方修正も行われており、今後は上位モデルから新たな折りたたみモデルへと需要が移行する可能性も指摘されています。"
+    },
+    {
+      "id": "a922980a584610641ffa",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "次世代のApple Intelligenceを提供開始",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/the-next-generation-of-apple-intelligence-is-available-today/",
+      "publishedAt": "2026-09-15T10:04:19.160Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、次世代のApple Intelligenceを提供開始",
+      "summaryJa": "Appleは、プライバシーを考慮した設計を基盤とする次世代のApple Intelligenceの提供を開始しました。写真アプリの空間リフレームや拡張ツール、Safariのインテリジェントな機能が利用可能になるほか、新バージョンのSiri AIのベータ版が10月より日本語でも提供される予定です。"
+    },
+    {
+      "id": "6a6a84bfd6013f6cebb8",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
+      "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
+      "publishedAt": "2026-09-15T10:02:42.356Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple TVがエミー賞で最多の29冠を獲得",
+      "summaryJa": "第78回プライムタイム・エミー賞において、Apple TVが合計29の賞を獲得し、今年の最多受賞ネットワークとなりました。大ヒットコメディシリーズの「Widow's Bay」が初年度のコメディシリーズとして史上最多の14冠に輝くなど、数々の優れた作品が高く評価されています。"
+    },
+    {
+      "id": "8ef8991af3e496b815fd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work Podcast: Breaking down the improvements and benefits of Parallels Desktop 27",
+      "url": "https://9to5mac.com/2026/09/15/apple-work-podcast-breaking-down-the-improvements-and-benefits-of-parallels-desktop-27/",
+      "publishedAt": "2026-09-15T10:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Parallels Desktop 27の新機能をポッドキャストで解説",
+      "summaryJa": "最新のポッドキャスト番組において、Parallelsのドミトリー・ゲイニズマン氏をゲストに迎え、Parallels Desktop 27の新しい機能や改善点について詳しく解説しています。職場環境におけるAppleデバイスの展開や管理を効率化するプラットフォームに関する話題なども取り上げられています。"
+    },
+    {
+      "id": "195d3f683903c2a232c0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iCloud+ Now Includes Apple TV, Apple Arcade, and Curated Apple Music Stations in Over 100 Countries",
+      "url": "https://www.macrumors.com/2026/09/15/icloud-plus-includes-apple-tv-arcade-100-countries/",
+      "publishedAt": "2026-09-15T08:43:40.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-iCloud-Plus-expansion-hero-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iCloud+、100カ国以上でApple TVとArcadeを追加",
+      "summaryJa": "Appleは、100カ国以上の地域において有料のiCloud+プランにApple TVとApple Arcadeを追加料金なしで組み込む新しい提供方式を開始しました。米国や欧州などの主要市場は対象外ですが、価格に敏感な新興市場や小規模な地域におけるサービス普及を狙った戦略とみられています。対象地域のユーザーは、最安の50GBプランを含むすべての有料iCloud+でこれらのコンテンツを利用できるようになります。"
+    },
+    {
+      "id": "b7ad1ae61e4496b73803",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "In select countries, iCloud+ now includes Apple TV and Apple Arcade at no extra charge",
+      "url": "https://9to5mac.com/2026/09/15/icloud-apple-tv-arcade-included-select-countries/",
+      "publishedAt": "2026-09-15T07:37:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-apple-arcade-icloud-plan.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iCloud+、一部の国でApple TVとArcadeを同梱へ",
+      "summaryJa": "Appleは100カ国以上の地域で、iCloud+の契約にApple TVとApple Arcadeを追加料金なしで含める新たな取り組みを順次展開しています。価格に配慮した新興市場向けのサービス拡大戦略の一環とみられ、50GBの基本プランから自動的に利用可能となります。また、一部の市場では厳選されたApple Musicのラジオ局が含まれる新しい「Apple Music Select」階層も導入されています。"
+    },
+    {
       "id": "28268c9f2d27b4dde0f1",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4359,159 +4510,9 @@
       ],
       "titleJa": "tvOS 27のPodcastアプリでカスタムURLによる番組追加機能が削除か",
       "summaryJa": "今月後半にリリースされるtvOS 27では、Podcastアプリが一新され新しいビデオ配信技術に対応する一方で、カスタムURLで追加した番組のサポートが削除されることが分かりました。有料Podcastのメンバーシップ用フィードなどがApple TV上で利用できなくなります。なお、この制限はtvOS 27が導入される第2および第3世代のApple TV 4Kが対象となっています。"
-    },
-    {
-      "id": "cc0e19e2b09e8446d6d4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases iOS 26.6.2 for iPhone, here’s what’s new",
-      "url": "https://9to5mac.com/2026/09/08/apple-releases-ios-26-6-2-for-iphone-heres-whats-new/",
-      "publishedAt": "2026-09-08T17:36:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、セルラー回線の不具合を修正するiOS 26.6.2を公開",
-      "summaryJa": "Appleは大規模な新製品発表イベントを前に、iPhone向けにiOS 26.6.2の配信を開始しました。今回のアップデートでは、セルラー回線を通じたソフトウェアアップデートのダウンロードができない不具合が修正されています。まもなく登場予定の次期iOS 27へのスムーズな移行を見据え、ユーザーが事前に問題を解消できるようにタイムリーに提供されました。"
-    },
-    {
-      "id": "8b3a768a1d8548c30f8c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch SE 3 is now unavailable ahead of launch event",
-      "url": "https://9to5mac.com/2026/09/08/apple-watch-se-3-is-now-unavailable-ahead-of-launch-event/",
-      "publishedAt": "2026-09-08T17:25:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-Watch-SE-3-launch-deals.webp?w=1400",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch SE 3が公式サイトで突然購入不可に",
-      "summaryJa": "Apple公式サイトにおいて、Apple Watch SE 3の全構成が一時的に購入不可の状態になっていると報じられています。明日開催される大型発表イベントを前に在庫が引き上げられた形ですが、今回は新型モデルの登場予定が事前になかったため、システム上の不具合か何らかのサプライズ発表があるのか注目されています。"
-    },
-    {
-      "id": "656078f561cfeec142ab",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Event Tomorrow: iPhone 18 Pro and iPhone Ultra Cheat Sheet",
-      "url": "https://www.macrumors.com/2026/09/08/apple-event-week-iphone-18-pro-cheat-sheet/",
-      "publishedAt": "2026-09-08T17:24:56.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proおよび折りたたみモデルの最新情報まとめ",
-      "summaryJa": "明日に迫ったAppleの大型イベントを前に、次世代のiPhone 18 Proシリーズや折りたたみ式の新型モデルに関する噂がまとめて伝えられています。デザインの変更点やA20 Proチップ、カメラ機能の強化、メモリ容量の増大など、数多くのアップグレード情報や仕様の予想が浮上しています。"
-    },
-    {
-      "id": "31e138b56855aa44a899",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Next Apple TV's Chip Revealed in Latest Leak",
-      "url": "https://www.macrumors.com/2026/09/08/next-apple-tv-chip-leak/",
-      "publishedAt": "2026-09-08T17:19:48.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Where-is-the-New-Apple-TV-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "次期Apple TVのプロセッサに関する新たなリーク情報",
-      "summaryJa": "Appleのコード内から発見された情報をもとに、次期Apple TV 4KにはA19またはA19 Proチップが搭載されると報じられています。現行モデルからメモリ容量も大幅に増加するほか、SiriによるAI機能のサポートやWi-Fi 7に対応した独自ワイヤレスチップの搭載などが噂されています。"
-    },
-    {
-      "id": "ca1eb5edec48356ea4e2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch SE 3 is Suddenly Unavailable",
-      "url": "https://www.macrumors.com/2026/09/08/apple-watch-se-3-currently-unavailable/",
-      "publishedAt": "2026-09-08T17:00:37.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/Apple-Watch-SE-3-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch SE 3が国内外のオンラインストアで品切れに",
-      "summaryJa": "米国などのAppleオンラインストアにて、Apple Watch SE 3のほとんどの構成が突然購入できない状態になっていると伝えられています。今週開催される新製品発表イベントとの関連性が注目されていますが、これまでのサイクルから新型の登場は予想されておらず、一時的な在庫問題の可能性もあります。"
-    },
-    {
-      "id": "81bfba52ebbb4240cfc3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirPods Turn 10",
-      "url": "https://www.macrumors.com/2026/09/08/airpods-turn-10/",
-      "publishedAt": "2026-09-08T16:37:49.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2022/12/Original-AirPods-iPhone-7.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "初代AirPodsの発表から10年が経過",
-      "summaryJa": "Appleが初代AirPodsを2016年9月に発表してから10年が経過しました。当時、同時に発表されたiPhone 7シリーズでヘッドホンジャックが廃止されたことは大きな議論を呼びました。現在でもAppleは、様々なデバイス向けに有線イヤホンのEarPodsを販売し続けています。"
-    },
-    {
-      "id": "dd0f869ca0678f301b1e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Slow Horses season 6 hailed as ‘the best one yet’ in first reviews",
-      "url": "https://9to5mac.com/2026/09/08/slow-horses-season-6-hailed-as-the-best-one-yet-in-first-reviews/",
-      "publishedAt": "2026-09-08T16:20:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/slow-horses-s6-lamb-cartwright.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVの人気ドラマ『窓際のスパイ』シーズン6に絶賛の声",
-      "summaryJa": "Apple TVで配信される人気スパイシリーズ『窓際のスパイ』シーズン6について、初期のレビューで「これまでで最高傑作」との高い評価が寄せられています。新体制のもと制作された今回は、毎話のように驚きの展開が用意されており、9月16日の初回配信を皮切りに順次公開されます。"
-    },
-    {
-      "id": "d68c006fd9a99c776af8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Google Chrome starts two-week release cycle with version 153",
-      "url": "https://9to5google.com/2026/09/08/chrome-updates-two-weeks/",
-      "publishedAt": "2026-09-08T16:14:58.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/google-chrome-logo-circle-4.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Google Chrome、バージョン153から2週間ごとのリリースサイクルへ移行",
-      "summaryJa": "Googleは、予告していた通りGoogle Chromeのアップデートサイクルを刷新し、バージョン153から2週間ごとのリリースを開始しました。これにより、新機能や修正がこれまでよりも早いペースで提供されることになります。"
-    },
-    {
-      "id": "e7622e118112ae46e502",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple to Introduce All-New 'Readiness' App Tomorrow",
-      "url": "https://www.macrumors.com/2026/09/08/apple-to-announce-readiness-app/",
-      "publishedAt": "2026-09-08T15:55:52.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-watch-series-12-activity-rings-fitness.png",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、新アプリ「Readiness」をイベントで発表か",
-      "summaryJa": "Bloombergのマーク・ガーマン記者によると、Appleは「Surprise and Shine」イベントで新しい「Readiness」アプリを発表する見込みです。このアプリはApple WatchのVitalsアプリの派生版となり、WhoopやOuraなどの健康管理デバイスに対抗する狙いがあると報じられています。"
-    },
-    {
-      "id": "24a2d6f3042e27748ec8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: New M5 Max Mac Studio first discount, MacBook Air $150 off, most affordable Studio Display $100 off, more",
-      "url": "https://9to5mac.com/2026/09/08/deals-m5-max-mac-studio-macbook-air-studio-display/",
-      "publishedAt": "2026-09-08T15:28:18.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Mac-Studio-Display-AirPods-MacBook-Air.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Amazon、M5 Max搭載Mac StudioなどのApple製品をセール価格で販売",
-      "summaryJa": "Amazonにて、AirPods Pro 3やAirTag 2などのApple製品が割引価格で販売されています。新型のM5 Max Mac StudioやM6 Mac miniの予約セールも実施されており、各製品をお得に入手できるチャンスとなっています。主要なホリデーセールは終了したものの、一部の人気アイテムでは引き続き割引が適用されています。"
     }
   ],
-  "updatedAt": "2026-09-15T06:46:01.511Z",
+  "updatedAt": "2026-09-15T12:20:14.579Z",
   "initialized": true,
   "summaryVersion": 4
 }
