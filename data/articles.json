@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "1a734d8435ae12af85dd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.2 gives Apple TV a new profiles feature on iPhone",
+      "url": "https://9to5mac.com/2026/09/16/ios-27-2-gives-apple-tv-a-new-profiles-feature-on-iphone/",
+      "publishedAt": "2026-09-16T18:30:59.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/appl-tv-icon-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27.2ベータ、iPhoneのApple TVアプリにユーザープロフィール機能を追加",
+      "summaryJa": "Appleは開発者向けにiOS 27.2ベータ1を配信し、iPhoneのApple TVアプリでユーザープロファイルのサポートを開始しました。これまでtvOS向けに提供されていた機能がiPhoneでも利用可能になり、子ども向けの年齢制限コンテンツへの切り替えや、再生履歴が混ざるのを防ぐことが可能になります。また、必要に応じてこの機能を非表示にするオプションも用意されています。"
+    },
+    {
+      "id": "499750fd3ba31b560369",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Everything new in iOS 27.2 beta 1 so far",
+      "url": "https://9to5mac.com/2026/09/16/everything-new-ios-27-2-beta-1/",
+      "publishedAt": "2026-09-16T18:22:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27.2ベータ1が登場、新機能や変更点の詳細が明らかに",
+      "summaryJa": "Appleは次期iPhone向けソフトウェアのテストとして、iOS 27.2の最初の開発者向けベータ版をリリースしました。今回のアップデートでは、再設計された「ヘルス」アプリの導入をはじめ、グループFaceTimeでのデュアルキャプチャモード、Siri AIの多言語対応などが追加されています。また、Apple TVアプリへのプロフィール機能の追加や、ポッドキャスト・ミュージックアプリの細かなデザイン調整も含まれています。"
+    },
+    {
+      "id": "5190d44be403105b532b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.2 Adds Siri AI in New Languages",
+      "url": "https://www.macrumors.com/2026/09/16/siri-ai-new-languages-ios-27-2/",
+      "publishedAt": "2026-09-16T18:18:19.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Siri-AI-More-Languages-October.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27.2ベータ、Siri AIが日本語など新たな言語に対応",
+      "summaryJa": "iOS 27.2のベータ版において、AppleのSiri AI機能が新たにフランス語、日本語、韓国語、ポルトガル語、スペイン語に対応しました。iOS 27の初期リリース時点では英語のみに制限されていましたが、予告通り数ヶ月以内に対応言語が拡大されることになります。この新言語の追加から、iOS 27.2の正式リリースは10月中旬以降になる可能性が示唆されています。"
+    },
+    {
+      "id": "088165cedd2ae1bb43fc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Here's Why Apple Just Released an iOS 27.2 Beta Instead of iOS 27.1",
+      "url": "https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/",
+      "publishedAt": "2026-09-16T17:53:15.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27.1ではなくiOS 27.2ベータが先行してリリースされた理由",
+      "summaryJa": "AppleがiOS 27.1ではなくiOS 27.2のベータ版を最初に開発者向けに公開した理由について報じられています。これは近日発売予定のiPhone DuoがiOS 27.1を初期搭載して出荷されるため、コード内から未発表の詳細が外部に漏洩するのを防ぐ狙いがあるとみられています。iOS 27.2のコードベースを利用することで、新デバイスに関する情報のリークを回避する巧妙な措置となっています。"
+    },
+    {
+      "id": "4e3207ca74b7474f90ab",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.2 expands Siri AI to these new languages",
+      "url": "https://9to5mac.com/2026/09/16/ios-27-2-expands-siri-ai-to-these-new-languages/",
+      "publishedAt": "2026-09-16T17:48:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27.2ベータ1が登場、Siri AIが日本語など5言語に対応",
+      "summaryJa": "Appleは開発者向けにiOS 27.2の最初のベータ版をリリースしました。英語のみだったSiri AIの対応言語が大幅に拡充され、新たに日本語、フランス語、スペイン語、韓国語、ポルトガル語がサポートされています。今後は対応デバイスの言語設定を変更することで、より強力なSiri AI機能を利用できるようになります。"
+    },
+    {
+      "id": "0906196b75dd2d7c9e11",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.2 introduces Apple Health app overhaul, here’s what’s new",
+      "url": "https://9to5mac.com/2026/09/16/ios-27-2-introduces-apple-health-app-overhaul-heres-whats-new/",
+      "publishedAt": "2026-09-16T17:34:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/health-app-ios-27-2-watchos-27-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27.2ベータ1で刷新されたヘルスケアアプリがテスト開始",
+      "summaryJa": "AppleはiOS 27.2ベータ1の提供を開始し、以前予告されていた新しいヘルスケアアプリのテストを開発者向けに開始しました。Apple Intelligenceを活用した「インサイト」タブや「長寿」タブが追加され、ユーザーの健康データを動的に分析してタイムリーな情報を提供します。利用には対応するAI機能搭載のiPhoneやApple Watchが必要です。"
+    },
+    {
+      "id": "c5ef2e0380f146080b6e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.2 Beta Previews New Apple Intelligence Health App",
+      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-beta-health-app/",
+      "publishedAt": "2026-09-16T17:32:30.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-ios-27-health-app-watch.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27.2ベータが刷新されたヘルスケアアプリのプレビューを提供",
+      "summaryJa": "iOS 27.2の初期ベータ版にはApple Intelligenceを活用した新しいデザインのヘルスケアアプリが含まれています。Apple Watchが収集したデータを基に、睡眠やVO2 maxなどの情報を提供する「インサイト」タブや、個別のガイダンス機能がテストされています。これによりユーザーの健康管理やトレーニングをパーソナライズされた形でサポートします。"
+    },
+    {
+      "id": "29438d1a0b9c2753b3d9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases beta 1 for watchOS 27.2, tvOS 27.2, more",
+      "url": "https://9to5mac.com/2026/09/16/apple-releases-beta-1-for-watchos-27-2-tvos-27-2-more/",
+      "publishedAt": "2026-09-16T17:16:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/watchOS-27.2-b1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、watchOS 27.2やtvOS 27.2などのベータ1をリリース",
+      "summaryJa": "Appleは各OSの正式版を公開した直後、早くも次期アップデートとなるwatchOS 27.2やtvOS 27.2、visionOS 27.2などの開発者向けベータ1の提供を開始しました。スキップされたバージョン27.1に続いて、今後はマイナーアップデートや新機能の追加に向けたテストが本格化する見通しです。"
+    },
+    {
+      "id": "6bc5db90fb526fbcd25d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds First macOS Golden Gate 27.2 Beta to Developers",
+      "url": "https://www.macrumors.com/2026/09/16/apple-releases-macos-27-2-beta-1/",
+      "publishedAt": "2026-09-16T17:15:56.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、開発者向けにmacOS Golden Gate 27.2 ベータ1を配信開始",
+      "summaryJa": "Appleは開発者向けにmacOS Golden Gate 27.2の最初のベータ版の配信を開始しました。macOS 27の正式リリースからわずか数日での配布となります。初期版で削られたメッセージアプリの提案機能や、パスワードの自動更新機能などが将来のアップデートで復活する可能性があります。"
+    },
+    {
+      "id": "d744a4aa3ba25745e9d8",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases First iOS 27.2 Beta",
+      "url": "https://www.macrumors.com/2026/09/16/apple-releases-first-ios-27-2-beta/",
+      "publishedAt": "2026-09-16T17:14:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iOS 27.1を飛ばしてiOS 27.2ベータ1を開発者向けにリリース",
+      "summaryJa": "Appleは開発者向けにiOS 27.2およびiPadOS 27.2の最初のベータ版をリリースしました。通常の順序とは異なり27.1をスキップした形となります。10月には新しい言語のSiri AIの追加や、初期版で見送られたApple Intelligence関連機能の再導入などが期待されています。"
+    },
+    {
+      "id": "9ea8e66df2876e6b2f4d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27.2 beta 1 now available to developers, here’s what’s new",
+      "url": "https://9to5mac.com/2026/09/16/macos-27-2-beta-1-now-available-to-developers-heres-whats-new/",
+      "publishedAt": "2026-09-16T17:13:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-b1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOS 27.2 ベータ 1を開発者向けにリリース",
+      "summaryJa": "AppleはmacOS 27の一般リリースに続き、早くもmacOS 27.2の最初のベータ版を開発者向けに配信開始しました。27.1のベータをスキップした形での提供となっています。10月にはフランス語や日本語など、新しい言語へのSiri AI対応拡大が予定されており、今回のベータ版に含まれているか注目されます。"
+    },
+    {
+      "id": "466c2b75b05c3a918296",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPadOS 27.2 beta 1 now available for iPad",
+      "url": "https://9to5mac.com/2026/09/16/ipados-27-2-beta-1-now-available-for-ipad/",
+      "publishedAt": "2026-09-16T17:13:01.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPadOS-27.2-b1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPadOS 27.2 ベータ 1を開発者向けに提供開始",
+      "summaryJa": "AppleはiPadOS 27のリリース直後、予想されていた27.1ではなくiPadOS 27.2の最初のベータ版を開発者向けに公開しました。スキップされた27.1は新型デバイス向けに温存されていると見られています。iPadOS 27.2では、初期リリースから削除されたメッセージ機能やパスワードの自動修復機能などの復活が期待されています。"
+    },
+    {
       "id": "74105feff6a4a2d47f62",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4326,191 +4506,9 @@
       ],
       "titleJa": "Apple Watchの新機能オーディオインテリジェンスの仕組み",
       "summaryJa": "Apple Watch向けに新たに導入されるオーディオインテリジェンス機能について、プライバシー保護の観点から詳細が公開されました。この機能にはサウンド認識やShazamによる自動音楽認識に加え、ライブリワインドやSiriレカペが含まれています。各機能はユーザーがオプトインで選択し、プライバシーに配慮した設計が施されています。"
-    },
-    {
-      "id": "20d34183a49bc658bfc0",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、iPhone Duoを発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-iphone-duo/",
-      "publishedAt": "2026-09-09T19:32:00.283Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、初の折りたたみ式デバイス「iPhone Duo」を発表",
-      "summaryJa": "Appleは、同社初となる折りたたみ式iPhone「iPhone Duo」を発表しました。7.6インチのインナーディスプレイと5.4インチのアウターディスプレイを搭載し、開いた状態では史上最薄のデザインを実現しています。A20 Proチップや高度な熱管理システムを備え、新しいiOSやApple Intelligenceによる優れたパフォーマンスを提供します。"
-    },
-    {
-      "id": "5ba93caf529c61768338",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple updates trade-in values following ‘Surprise and Shine’ event, lowers iPhone payouts",
-      "url": "https://9to5mac.com/2026/09/09/apple-updates-trade-in-values-following-surprise-and-shine-event-lowers-iphone-payouts/",
-      "publishedAt": "2026-09-09T19:26:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/1-iphone-Air-USB-C-3-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleが下取り価格を改定、iPhoneの一部査定額を引き下げ",
-      "summaryJa": "Appleは「Surprise and Shine」イベントの開催に伴い、製品の下取りプログラムの査定額を再び改定しました。iPadや多くのMacの下取り額が引き上げられた一方で、iPhone各モデルの最大査定額は引き下げられており、新たにiPhone 17シリーズやiPhone Airの受付も開始されています。"
-    },
-    {
-      "id": "da23ba713566e9cb9c7e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro buyers can get a free trial of Apple One",
-      "url": "https://9to5mac.com/2026/09/09/iphone-18-pro-buyers-can-get-a-free-trial-of-apple-one/",
-      "publishedAt": "2026-09-09T19:26:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/11/apple-one-premier.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Pro購入者向けにApple Oneの無料トライアル提供",
-      "summaryJa": "Appleは、新発表されたiPhone 18 ProやiPhone 18 Pro Maxなどの対象ハードウェアを購入したユーザーを対象に、Apple Oneの3ヶ月間無料トライアルの提供を開始します。対象プランには個人、ファミリー、プレミアが含まれており、ファミリー共有機能を使って家族と共有することも可能です。"
-    },
-    {
-      "id": "4fbe81c97f02527fc88c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "macOS 27 Golden Gate: Here are Apple’s full release notes",
-      "url": "https://9to5mac.com/2026/09/09/macos-27-golden-gate-here-are-apples-full-release-notes/",
-      "publishedAt": "2026-09-09T19:18:54.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOS 27の正式リリースノートを公開",
-      "summaryJa": "Appleは、9月14日に全ユーザー向けに配信予定のmacOS 27に向けた公式リリースノートを公開しました。新しいSiri AIや画面上の情報を活用するビジュアルインテリジェンス機能、写真編集ツールの強化などが含まれています。"
-    },
-    {
-      "id": "b7aec78c07914a38d554",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro battery life compared to iPhone Duo and iPhone 17 Pro",
-      "url": "https://9to5mac.com/2026/09/09/iphone-18-pro-battery-life-compared-to-iphone-duo-and-iphone-17-pro/",
-      "publishedAt": "2026-09-09T19:10:57.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-iphone-duo-side-by-side.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proシリーズ、歴代最大のバッテリー駆動時間を実現か",
-      "summaryJa": "Appleが発表した新フラッグシップモデル「iPhone 18 Pro」および「iPhone Duo」では、バッテリー駆動時間がiPhone史上最大の大幅な向上を果たすとされています。内部設計の見直しに加え、新しいA20 Proチップによる電力効率の改善やソフトウェアの最適化がその要因です。ビデオ再生時間ベースの比較では、前モデルから10％から14％ほど駆動時間が延びているほか、より実使用に即した新しい測定基準も導入されています。"
-    },
-    {
-      "id": "48fdd8f66833f88a417c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Duo Gets Its Own Case and Folio With Kickstand",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-gets-its-own-case-and-folio/",
-      "publishedAt": "2026-09-09T19:09:52.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-case.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhone Duo向けの専用ケースとキックスタンド付きフォリオを投入",
-      "summaryJa": "Appleは新型の「iPhone Duo」向けに、専用のケースとキックスタンド付きフォリオの2種類のアクセサリを発表しました。iPhone Duoケースは薄型で前後を包み込むデザインを採用し、マグネットで簡単に装着できます。一方のキックスタンド付きフォリオには独自のファブリック素材が使われ、スタンドを起こした状態でもMagSafe充電が可能です。"
-    },
-    {
-      "id": "5eb1fd8a9dae8b7bf4d6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds iOS 27 and iPadOS 27 Release Candidates",
-      "url": "https://www.macrumors.com/2026/09/09/apple-ios-27-rc/",
-      "publishedAt": "2026-09-09T19:07:44.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iOS 27とiPadOS 27のリリース候補版を開発者向けに公開",
-      "summaryJa": "Appleは正式リリースに向けた最終テストのため、「iOS 27」および「iPadOS 27」のリリース候補版（RC）を公開しました。新バージョンでは、ChatGPTのような機能を持つ「Siri AI」や、多くのApple Intelligence機能が各種アプリに追加されています。また、デザイン面での調整や、全体的な動作速度および接続性の向上といったパフォーマンスの改善も含まれています。"
-    },
-    {
-      "id": "330ffd72aac59a678aaf",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "macOS Golden Gate Release Candidate Now Available",
-      "url": "https://www.macrumors.com/2026/09/09/apple-seeds-macos-27-rc/",
-      "publishedAt": "2026-09-09T19:07:25.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、macOS Golden Gateのリリース候補版を提供開始",
-      "summaryJa": "Appleは次期macOSとなる「macOS Golden Gate」のリリース候補版（RC）を開発者やベータテスター向けに公開しました。UIの視認性改善やツールバーの統一といったデザイン変更に加え、AI機能を統合した「Siri AI」や新しい検索・質問インターフェースが導入されています。これらは正式リリース前の最終段階のテストとして配信されており、各種AI機能が利用可能になります。"
-    },
-    {
-      "id": "8d9bc7d5d420623910d9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds watchOS 27, visionOS 27, and tvOS 27 Release Candidates",
-      "url": "https://www.macrumors.com/2026/09/09/apple-seeds-watchos-27-rc/",
-      "publishedAt": "2026-09-09T19:07:01.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、watchOS 27やvisionOS 27などのRC版を公開",
-      "summaryJa": "Appleは開発者とパブリックベータテスター向けに、watchOS 27、visionOS 27、tvOS 27のリリース候補版（RC）を公開しました。各OSではSiri AIによる高度な会話機能やパーソナルコンテクストの理解に対応し、新しい環境や表示改善などの機能が追加されています。重大な不具合が発見されなければ、これがそのまま一般向けに配信される最終版となります。"
-    },
-    {
-      "id": "d22bc9bc9104aef57a54",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、Apple Watch Ultra 4を発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
-      "publishedAt": "2026-09-09T19:04:39.851Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、ヘルスケア機能を強化したApple Watch Ultra 4を発表",
-      "summaryJa": "Appleは、スポーツと冒険に向けた腕時計の最新モデルとなるApple Watch Ultra 4を発表しました。新しいヘルスセンシングシステムとS11チップを搭載し、高精度な心拍数センサーや準備度スコアなどのパワフルな健康管理機能を提供します。また、最大45時間の連続ワークアウト記録が可能なバッテリー駆動時間を実現し、watchOS 27によるSiri AIの機能にも対応しています。"
-    },
-    {
-      "id": "aea7a590e5a2f8bf6cd0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s how iPhone Duo treats apps not optimized for the foldable display",
-      "url": "https://9to5mac.com/2026/09/09/heres-how-iphone-duo-treats-apps-not-optimized-for-the-foldable-display/",
-      "publishedAt": "2026-09-09T19:03:59.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-Duo-two-sizes.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、初折りたたみ端末iPhone Duoの非対応アプリの挙動を解説",
-      "summaryJa": "Appleは同社初の折りたたみディスプレイ端末となるiPhone Duoを発表し、サードパーティ製アプリが大型ディスプレイでどのように動作するかを詳細に説明しました。iOS 26、iOS 27.0、iOS 27.1の各ターゲットに応じた3つの互換モードが用意されます。iOS 27.1では、折りたたみ画面を完全に活用したフルサポートのアプリ体験が可能になります。"
-    },
-    {
-      "id": "6fc7597b8e0f7062f7c9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Debuts New Accessories for iPhone 18 Pro and AirPods Pro 3",
-      "url": "https://www.macrumors.com/2026/09/09/new-accessories-for-iphone-18-pro/",
-      "publishedAt": "2026-09-09T19:01:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-cases.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhone 18 ProやAirPods Pro 3向けの新しい純正アクセサリーを発表",
-      "summaryJa": "AppleはiPhone 18 ProシリーズやAirPods Pro 3向けに、新しい純正アクセサリーのラインナップを発表しました。MagSafe対応のクリアケースが再設計され、新たにリストストラップやクロスボディストラップなどの多彩なアクセサリが追加されています。新色はバーガンディやオリーブなど豊富なカラーバリエーションが用意され、本日より注文の受付が開始されています。"
     }
   ],
-  "updatedAt": "2026-09-16T15:42:48.730Z",
+  "updatedAt": "2026-09-16T19:07:24.365Z",
   "initialized": true,
   "summaryVersion": 4
 }
