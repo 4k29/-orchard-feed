@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "51ae72c6468a79f33ab4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Video highlights Apple’s playful James Bond homages in its keynote",
+      "url": "https://9to5mac.com/2026/09/16/video-highlights-apples-playful-james-bond-homages-in-its-keynote/",
+      "publishedAt": "2026-09-16T11:21:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Video-highlights-Apples-playful-James-Bond-homages-in-its-keynote.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの基調講演オープニングに隠された映画オマージュ",
+      "summaryJa": "Appleのイベントのオープニング動画には、映画『007 スカイフォール』などの有名大作映画のオマージュが遊び心をもって取り入れられていることが分かりました。映像作家のトッド・ヴァジリ氏がYouTubeで公開した短編動画の中で、具体的なシーンの比較を行いながら指摘しています。洗練されたシネマティックな演出で知られるAppleのイベント映像では、過去にも大作映画からのインスピレーションがたびたび話題となっていました。"
+    },
+    {
+      "id": "edf762d15c6e2169311f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Samsung reportedly rushing new trifold phone in response to iPhone Duo",
+      "url": "https://9to5mac.com/2026/09/16/samsung-reportedly-rushing-new-trifold-phone-in-response-to-iphone-duo/",
+      "publishedAt": "2026-09-16T11:03:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Samsung-reportedly-rushing-new-trifold-phone-in-response-to-iPhone-Duo.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "サムスン、iPhone Duoに対抗して新型3つ折りスマホの発売を前倒しか",
+      "summaryJa": "サムスンが、Appleの「iPhone Duo」の動向に強い警戒感を抱き、新型の3つ折りスマートフォン「Galaxy Z Trifold 2」の発売を前倒しする計画であると報じられています。初代モデルは商業的成功を収めなかったものの、iPhone Duoが優れた防塵・防水性能を備えて登場したことが大きな刺激になったとみられています。防塵性能が不十分だった従来の折りたたみ端末の弱点を克服するため、サムスンはさらなる対抗策を急ぐ構えです。"
+    },
+    {
+      "id": "356657d4735bc0ca9e0e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Reminder: macOS 27 Ends Time Machine Backups to Time Capsule",
+      "url": "https://www.macrumors.com/2026/09/16/macos-27-ends-time-machine-backups-time-capsule/",
+      "publishedAt": "2026-09-16T10:38:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/time-capsule.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "macOS 27、Time CapsuleへのTime Machineバックアップが終了へ",
+      "summaryJa": "「macOS 27」では、AirPort Time Capsuleを利用したTime Machineのバックアップサポートが終了することが改めて伝えられています。この変更は、Time Capsuleが依存しているレガシーなファイル共有プロトコルであるAFPのサポートが終了し、バックアップがSMBプロトコルに完全移行するためです。すでに販売が終了しているTime Capsuleを引き続きバックアップ先として使用しているユーザーは、外付けドライブや現代的なNASなどの代替手段への移行が必要となります。"
+    },
+    {
+      "id": "86edf080c91b365f3176",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "EU's Kids Act to Ban Social Media for Under-13s, Curb Chatbot Access",
+      "url": "https://www.macrumors.com/2026/09/16/eu-kids-act-ban-social-media-under-13s/",
+      "publishedAt": "2026-09-16T09:45:45.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/european-commission.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "EU、13歳未満のSNS利用禁止やチャットボット規制を盛り込んだ新法案へ",
+      "summaryJa": "欧州連合（EU）は、保護者の監督なしでの13歳未満によるSNSや一部ゲームプラットフォーム、AIチャットボットの利用を禁止する「キッズ法」をまとめる方針です。木曜日に公表される予定の草案によると、13歳から15歳までの未成年についてもアカウント作成には保護者の同意や時間制限などの制限が必要となります。対象となる企業には厳格な年齢確認機能の導入が求められ、違反した場合には世界年間売上の最大6%という巨額の罰金が科される可能性があります。"
+    },
+    {
       "id": "dd3bd429e2d484455a52",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4450,69 +4510,9 @@
       ],
       "titleJa": "Apple、先進のカメラと性能を備えたiPhone 18 Proを発表",
       "summaryJa": "Appleは、高度なプロカメラシステムと大幅なバッテリー持続時間の向上を実現したiPhone 18 ProおよびiPhone 18 Pro Maxを発表しました。可変絞りに対応した48MPフュージョンメインカメラやA20 Proチップを搭載し、最高の持続パフォーマンスを提供します。Siri AIなどの高度な機能も統合されており、9月18日の発売に向けて9月12日から予約が始まります。"
-    },
-    {
-      "id": "3abad3bcef48b8f33247",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "All New iPhone 18 Pro and 'iPhone Duo' Colors Leaked",
-      "url": "https://www.macrumors.com/2026/09/09/all-iphone-18-pro-iphone-duo-colors/",
-      "publishedAt": "2026-09-09T15:47:13.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proおよび折りたたみ式iPhoneのカラーバリエーションが流出か",
-      "summaryJa": "Appleの発表イベントを控え、ブルームバーグのマーク・ガーマン記者がiPhone 18 Proシリーズと初の折りたたみ式iPhoneとされる「iPhone Duo」のカラーオプションをリークしました。iPhone 18 ProおよびPro Maxにはブラック、ライトブルー、バーガンディ、シルバーが用意され、iPhone Duoにはホワイトとダークブルーが含まれると伝えられています。"
-    },
-    {
-      "id": "e3ce23f417876b5e3591",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: M5 Pro MacBook Pro $500 off, AirPods Pro 3, AirPods Max 2, AirTag 2, chargers, and more",
-      "url": "https://9to5mac.com/2026/09/09/deals-m5-pro-macbook-pro-airpods-pro-3-airtag-2/",
-      "publishedAt": "2026-09-09T15:21:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-MacBook-Pro-AirPods-Pro-3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "M5 Pro搭載MacBook Proが500ドル引きとなるなどApple製品セールが多数登場",
-      "summaryJa": "Appleの発表イベントを直前に控え、Amazonなどの各所でお得なセールが実施されています。注目は14インチ2TBのM5 Pro搭載MacBook Proの大幅な500ドル引きで、その他にもAirPods Pro 3やAirTag 2、AirPods Max 2などの人気アクセサリが割引価格で販売されています。"
-    },
-    {
-      "id": "584a87e8d9a312a72a95",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Event News Hub: iPhone 18 Pro, iPhone Duo coming soon",
-      "url": "https://9to5mac.com/2026/09/09/apple-event-news-hub-iphone-duo-iphone-18-pro/",
-      "publishedAt": "2026-09-09T15:03:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-event-logo-surprise-shine-september-9-small.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPhone 18 Proや折りたたみ式iPhone「iPhone Duo」などを発表",
-      "summaryJa": "Appleは「Surprise and shine」イベントを開催し、新モデルのiPhone 18 Proや初の折りたたみ式iPhoneとなるiPhone Duoを正式に発表しました。さらに、2nmプロセスのA20 Proチップの搭載や冷却性能の向上、Apple Watch Series 12およびUltra 4、AirPods 5なども同時に明らかにされています。"
-    },
-    {
-      "id": "96edbb75303125dab9a4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "How to watch Apple event today: iPhone 18 Pro, iPhone Duo, more",
-      "url": "https://9to5mac.com/2026/09/09/how-to-watch-apples-september-event-iphone-18-pro-iphone-duo-more/",
-      "publishedAt": "2026-09-09T14:42:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-event-logo-surprise-shine-september-9-small.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの9月イベントが開催、iPhone 18 Proや新製品発表に注目が集まる",
-      "summaryJa": "Appleは「Surprise and shine」をタグラインに掲げた大規模な9月イベントを開催し、その模様をYouTubeやApple TVアプリなどで世界に向けてライブ配信しました。イベントではiPhone 18 Proや新型折りたたみモデルのiPhone Duoをはじめ、新型Apple WatchやAirPodsなどの多数の新製品の登場が期待されていました。"
     }
   ],
-  "updatedAt": "2026-09-16T06:14:29.327Z",
+  "updatedAt": "2026-09-16T11:47:04.038Z",
   "initialized": true,
   "summaryVersion": 4
 }
