@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "df8962bde6af7eb66b65",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Slow Horses season 6 debuts on Apple TV",
+      "url": "https://9to5mac.com/2026/09/15/slow-horses-season-6-debuts-on-apple-tv/",
+      "publishedAt": "2026-09-16T01:05:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/slow-horses-s6-key-art.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、人気ドラマ「窓際のスパイ」シーズン6の配信を開始",
+      "summaryJa": "Apple TVで人気スパイ・ドラマ「窓際のスパイ」シーズン6の第1話の配信が開始されました。今作は毎週水曜日にエピソードが追加され、10月21日まで公開される予定です。前日には前シーズンのフィナーレで監督賞を受賞したばかりであり、さらに数時間前にはApple TVが今後2シーズンの継続も正式発表しています。"
+    },
+    {
+      "id": "4225d154e033d6843ea9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "India escalates Apple probe over alleged iOS 18 issues that incurred repair costs",
+      "url": "https://9to5mac.com/2026/09/15/india-escalates-apple-probe-over-alleged-ios-18-issues-that-incurred-repair-costs/",
+      "publishedAt": "2026-09-15T23:52:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/03/apple-india.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "インド、iOS 18の不具合めぐりAppleに対する調査を強化か",
+      "summaryJa": "インドの中央消費者保護庁（CCPA）が、iOS 18のアップデートにより一部のiPhoneで画面表示やマイクの不具合が発生した問題で、Appleに対する調査を本格的な調査部門へ移行したと報じられています。規制当局は、ソフトウェアの問題であるにもかかわらず修理費用がユーザーに請求されたことを問題視しています。一方のAppleは、システム上の欠陥や安全性に関する懸念は見つかっておらず、主張はわずか少数に基づいていると反論しています。"
+    },
+    {
+      "id": "549fd48b25171fd035bb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Details How Reference Image Proves a Photo is Real",
+      "url": "https://www.macrumors.com/2026/09/15/apple-reference-image-info/",
+      "publishedAt": "2026-09-15T23:46:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-reference-image-iphone-18-pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、写真が本物であることを証明する技術の仕組みを解説",
+      "summaryJa": "iPhone 18 Proモデルがサポートする「Apple Reference Image」機能について、Appleがセキュリティ研究ブログで詳細を明らかにしました。この機能は、撮影された写真がAI生成ではなく実際のセンサーで捉えた本物であることを暗号署名付きのデジタルネガとして保存し証明するものです。撮影直後のピクセルデータを保護することで、改ざん攻撃を防ぎ検証可能なデジタル写真の新しい基準を打ち立てます。"
+    },
+    {
+      "id": "1c2b51008536a1d7e77b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OmniFocus adds Siri AI support as Omni Group updates its apps for iOS 27, macOS 27, more",
+      "url": "https://9to5mac.com/2026/09/15/omnifocus-adds-siri-ai-support-as-omni-group-updates-its-apps-for-ios-27-macos-27-more/",
+      "publishedAt": "2026-09-15T23:22:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/omnifocus-os27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Omni Groupの各アプリがAppleの新OSに対応、Siri AIをサポート",
+      "summaryJa": "Omni Groupは、OmniFocusやOmniPlanなどの主要アプリを最新のAppleプラットフォーム向けにアップデートしました。特にOmniFocus 4.9では、新しいシステムに対応したデザインの刷新に加え、Siri AIのサポートが追加されています。ユーザーはSiriに話しかけて期限やメモの割り当てを行ったり、画面上の情報やビジュアルインテリジェンスを活用してタスクを素早く追加できるようになります。"
+    },
+    {
       "id": "a7d6bf7fb7cf99828837",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4450,69 +4510,9 @@
       ],
       "titleJa": "Mac miniとMac Studioの比較：最新2モデルの違い",
       "summaryJa": "Appleが先月に発表した新しいMac miniとMac Studioの比較ガイドが公開されました。長年ぶりに同時に刷新された2つのデスクトップMacは、多くの共通機能を持ちながらも、プロセッサの種類やメモリ容量、ポート構成などの面で違いがあります。それぞれの価格帯や仕様を整理し、自分に合ったモデルを選ぶためのポイントが解説されています。"
-    },
-    {
-      "id": "92b98d03c94cc55b206c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "These are iPhone 18 Pro’s colors, says Mark Gurman",
-      "url": "https://9to5mac.com/2026/09/09/these-are-iphone-18-pros-colors-says-mark-gurman/",
-      "publishedAt": "2026-09-09T14:15:17.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-18-mockup-red.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proのカラー展開をマーク・ガーマン氏が予測",
-      "summaryJa": "ブルームバーグのマーク・ガーマン氏が、Appleのイベント開催を前にiPhone 18 ProおよびPro Maxのカラー展開について伝えています。昨年のProモデルでは見送られたブラックが復活し、ライトブルー、シルバー、バーガンディを加えた全4色になると予想されています。また、折りたたみ式モデル「iPhone Duo」のカラーについても言及されています。"
-    },
-    {
-      "id": "a504ebf42364c4f8feb5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Event Today: 20 Last-Minute 'iPhone Duo' and iPhone 18 Pro Rumors",
-      "url": "https://www.macrumors.com/2026/09/09/apple-event-20-last-minute-iphone-rumors/",
-      "publishedAt": "2026-09-09T14:12:42.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleイベント直前：新型iPhoneや折りたたみモデルの最新噂",
-      "summaryJa": "Appleのイベント開催を前に、初の折りたたみ式iPhone「iPhone Duo」やiPhone 18 Proシリーズに関する直前の噂が多数報じられています。iPhone Duoは256GBストレージからとなり、Apple Pencilをサポートする見込みです。また、iPhone 18 Proモデルではバッテリー持ちの改善や、一部カメラでの可変絞りの採用などが噂されています。"
-    },
-    {
-      "id": "0e1929178c3f9851471f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Shares Mysterious Teaser Video Before 'iPhone Duo' Event Today",
-      "url": "https://www.macrumors.com/2026/09/09/apple-just-shared-a-mysterious-teaser/",
-      "publishedAt": "2026-09-09T13:54:19.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-September-2026-Teaser-Video.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、イベント開催を前に謎のティーザー動画を公開",
-      "summaryJa": "Appleの新CEOジョン・ターナス氏が、イベントの開催を前に謎の短いティーザー動画をSNS上で公開しました。映像にはiPhoneの側面に光が当たっている様子が映し出されており、iPhone 18 Proに搭載されると噂されている可変絞り機能のヒントではないかと注目を集めています。イベントでは、新型iPhoneや折りたたみモデルの発表が期待されています。"
-    },
-    {
-      "id": "87ddc68af589467da227",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch's New AI Day Summary Tracks These Activities",
-      "url": "https://www.macrumors.com/2026/09/09/apple-watch-day-summary-tracks-these-activities/",
-      "publishedAt": "2026-09-09T13:16:32.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/ceramic-apple-watch-series-12.png",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple WatchのAI日誌機能が追跡する詳細な活動カテゴリが判明か",
-      "summaryJa": "コードネーム「Ambient Sensing」と呼ばれる次期Apple Watchの日報機能について、リークされたコードから追跡される具体的な活動カテゴリが明らかになりました。食事や家事、運動、通勤、画面時間など数十種類に及び、日時や場所、一緒にいる人物などの詳細も記録されると伝えられています。"
     }
   ],
-  "updatedAt": "2026-09-15T22:59:32.533Z",
+  "updatedAt": "2026-09-16T01:20:14.461Z",
   "initialized": true,
   "summaryVersion": 4
 }
