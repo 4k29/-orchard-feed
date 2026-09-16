@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "74105feff6a4a2d47f62",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 has subtle design change that Apple didn’t mention",
+      "url": "https://9to5mac.com/2026/09/16/apple-watch-series-12-has-subtle-design-change-that-apple-didnt-mention/",
+      "publishedAt": "2026-09-16T15:34:14.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-siri-modular-face.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch Series 12のベゼルに関する変更点",
+      "summaryJa": "Apple Watch Series 12ではケースの幅がわずかに広がり、ディスプレイ周囲のベゼルが従来モデルよりも太くなっていることが判明しました。Appleの公式発表では触れられていませんでしたが、内部のアップグレードに伴いケースサイズが調整された可能性があり、これまでのベゼル極細化のトレンドとは異なるデザインとなっています。"
+    },
+    {
+      "id": "e93fec7469d91993876f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: AirPods 5/Pro 3, Apple Watch Ultra 4, MacBook Pro $450 off, more",
+      "url": "https://9to5mac.com/2026/09/16/deals-airpods-5-pro-3-apple-watch-ultra-4/",
+      "publishedAt": "2026-09-16T15:34:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Apple-Watch-Ultra-4-AirPods-5.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch Series 12や新型AirPodsのセール情報",
+      "summaryJa": "Amazonの早期プライムデーセールにて、発売を控えるApple Watch Series 12やブラックのApple Watch Ultra 4が早くも割引価格で予約受付中となっています。さらに、ノイズキャンセリング対応の新型AirPods 5やAirPods Pro 3、M5チップ搭載のMacBook Proなども割引の対象となっており、発売前に少しお得に入手できる機会となっています。"
+    },
+    {
+      "id": "a540093a290f1dd4bd7d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Memory Supplier Explores U.S. Manufacturing With Intel",
+      "url": "https://www.macrumors.com/2026/09/16/apple-memory-supplier-explores-us-manufacturing/",
+      "publishedAt": "2026-09-16T15:16:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/sk-hynix-intel.png",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleのメモリ供給元、インテルとの米国製造を模索か",
+      "summaryJa": "Appleへメモリを供給するSKハイニックスが、米国内でのメモリチップ製造に向けてインテルと初期段階の協議を行っていると報じられています。AIインフラ向けの需要拡大によるメモリ供給のひっ迫が続く中、オハイオ州のインテル工場を活用する案などが検討されています。ただ、現時点で最終決定には至っておらず、今後の動向が注目されています。"
+    },
+    {
+      "id": "bc1b41b6bfb6958d42b5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 16, 2026 – macOS 27 Golden Gate features",
+      "url": "https://9to5mac.com/2026/09/16/daily-september-16-2026/",
+      "publishedAt": "2026-09-16T14:42:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "macOS 27ゴールデンゲートの特徴と最新ニュース",
+      "summaryJa": "9to5Macのポッドキャスト番組にて、macOS 27ゴールデンゲートの新機能や、iOS 27におけるデータ共有のオプトイン設定、iCloud+の特典追加などが紹介されました。AIモデルの改善に向けたデータ共有や、一部地域でのApple TVおよびApple Arcadeの追加料金なしでの提供など、注目の話題が取り上げられています。"
+    },
+    {
+      "id": "9ef1d28298d449747866",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Get In On Pre-Order Discounts for the New Mac Mini and Mac Studio Before They Launch Next Week",
+      "url": "https://www.macrumors.com/2026/09/16/pre-order-mac-mini-studio/",
+      "publishedAt": "2026-09-16T14:36:21.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新Mac miniとMac Studioが早くも割引に",
+      "summaryJa": "Amazonにて、来週の発売を控えた新型Mac miniおよびMac Studioの先行予約割引が早くも実施されています。一部のモデルが最大49ドル引きとなっており、新型M6チップ搭載のMac miniやM5 Max搭載のMac Studioなどが対象です。新しいMac miniは前世代モデルに比べて大幅なパフォーマンス向上やAI処理能力の強化が図られており、発売前の段階でお得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "e2ea2ea2d73a993b31ab",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27: Use Visual Intelligence in the Camera App",
+      "url": "https://www.macrumors.com/how-to/ios-use-visual-intelligence-camera-app/",
+      "publishedAt": "2026-09-16T14:31:56.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/ios-27-siri-mode-camera.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27のカメラアプリで「ビジュアルインテリジェンス」を活用する",
+      "summaryJa": "現在配信中のiOS 27では、標準のカメラアプリに新しいSiriモードが追加され、ビジュアルインテリジェンス機能を利用できるようになりました。画面内の植物や動物、料理などの被写体を認識して情報を提供してくれるほか、イベントのチラシを撮影してカレンダーへ予定を追加するといった機能も備えています。さらに、フラッシュやLive Photoなどのクイックアクセスツールの配置が変更されるなど、操作性も改良されています。"
+    },
+    {
+      "id": "26a8208869b5f813d92c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Reviews: Excellent Yet... Meh?",
+      "url": "https://www.macrumors.com/review/iphone-18-pro/",
+      "publishedAt": "2026-09-16T14:31:14.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Black-iPhone-18-Pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの海外レビューが公開",
+      "summaryJa": "今週金曜日の発売を前に、テック系メディアやYouTubeチャンネルによるiPhone 18 ProおよびPro Maxのレビューが公開されました。昨年のモデルのような大幅なデザイン変更はないものの、スマートフォン初の2nmチップとなるA20 Proの搭載により、CPUやグラフィックス性能が着実に向上しています。また、大型化したベイパーチャンバー冷却システムの採用により熱管理が改善され、バッテリー駆動時間も延びていると評価されています。"
+    },
+    {
+      "id": "bd3bdbf4424febc5eb3a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Announces iPhone 18 Pro Photography Exhibition",
+      "url": "https://www.macrumors.com/2026/09/16/iphone-18-pro-photography-exhibition/",
+      "publishedAt": "2026-09-16T14:21:06.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-photography.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhone 18 Proで撮影した写真展を開催へ",
+      "summaryJa": "Appleは、iPhone 18 Proのみを使用して撮影された写真展「What Holds Us」の開催を発表しました。著名な写真家であるアレックス・プラガー氏やジャック・デイヴィソン氏らの作品を通じて、人間のつながりをテーマにした群像劇やポートレート、山岳写真などが展示されます。本展は9月18日から20日までニューヨークで開催されるほか、今後数ヶ月かけてロンドンや上海へも巡回する予定です。"
+    },
+    {
+      "id": "e19aec024db69629c268",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 adds scam-prevention feature to iPhone, here’s how to enable it",
+      "url": "https://9to5mac.com/2026/09/16/ios-27-adds-scam-prevention-feature-to-iphone-heres-how-to-enable-it/",
+      "publishedAt": "2026-09-16T14:14:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/iphone-privacy-private-cloud-compute.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS、詐欺を検出する新機能「なりすましリスク検知」を追加",
+      "summaryJa": "iOSには、ソーシャルエンジニアリング詐欺などの巧妙な手口からユーザーを守る「なりすましリスク検知」機能が追加されました。この機能はデフォルトではオフになっており、プライバシーとセキュリティの設定から手動で有効化する必要があります。デバイスやApple Accountの情報を基にリアルタイムで不審な活動を検知し、リスクレベルをアプリ側に通知する仕組みとなっています。"
+    },
+    {
+      "id": "2a6d7a73096faa0856c0",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Celebrating “What Holds Us” on iPhone 18 Pro",
+      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
+      "publishedAt": "2026-09-16T13:59:28.902Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple、iPhone 18 Proのカメラ性能を紹介する写真展を開催",
+      "summaryJa": "Appleは、iPhone 18 Proで撮影された新作の写真展「What Holds Us」を開催すると発表しました。キャシー・ライアンがキュレーションを手がけ、アレックス・プラガー、ジャック・デイヴィソン、ジミー・チンといった著名アーティストが参加しています。新しく搭載された可変絞りなどの高度なプロカメラシステムを活用し、人間のつながりや瞬間を捉えた多彩な作品が展示されます。"
+    },
+    {
+      "id": "744c35499d19a04c2b99",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple May Return to Server Market With Nvidia Technology",
+      "url": "https://www.macrumors.com/2026/09/16/apple-may-return-to-server-market/",
+      "publishedAt": "2026-09-16T13:53:07.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-silicon-gray.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、Nvidia技術を活用したAIサーバー市場への再参入を検討か",
+      "summaryJa": "Appleが「M8」シリーズチップを搭載した法人向けAIサーバーの開発を進めており、外部顧客への販売を検討していると報じられています。2011年のXserve終了以来となるサーバー市場への再参入の可能性があり、チップ間のデータ通信にはNvidiaのネットワーク技術を活用する案も話し合われています。計画が実現すれば2029年頃の発売が見込まれていますが、まだ最終決定ではなく中止される可能性もあります。"
+    },
+    {
+      "id": "b7dea10371851ec4fdeb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple planning to sell AI servers powered by M8 Ultra chips, says report",
+      "url": "https://9to5mac.com/2026/09/16/apple-planning-to-sell-ai-servers-powered-by-m8-ultra-chips-says-report/",
+      "publishedAt": "2026-09-16T13:46:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-planning-to-sell-AI-servers-powered-by-M8-Ultra-chips-says-report.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、M8 Ultra搭載の企業向けAIサーバーを外部販売か",
+      "summaryJa": "AppleがM8 Ultraチップを搭載したAI開発向けの企業向けサーバーの開発を進めており、内部利用だけでなく外部への販売を計画していると報じられています。M8 Ultraチップを複数組み合わせた2種類のバージョンが検討されており、チップ間の接続にはNvidiaのNVLink Fusionの採用が話し合われています。発売時期は2029年が視野に入れられていますが、計画はまだ確定しておらず変更や中止の可能性もあります。"
+    },
+    {
       "id": "51ae72c6468a79f33ab4",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4328,191 +4508,9 @@
       ],
       "titleJa": "Apple、iPhone 18 ProやAirPods Pro 3向けの新しい純正アクセサリーを発表",
       "summaryJa": "AppleはiPhone 18 ProシリーズやAirPods Pro 3向けに、新しい純正アクセサリーのラインナップを発表しました。MagSafe対応のクリアケースが再設計され、新たにリストストラップやクロスボディストラップなどの多彩なアクセサリが追加されています。新色はバーガンディやオリーブなど豊富なカラーバリエーションが用意され、本日より注文の受付が開始されています。"
-    },
-    {
-      "id": "00c7d6d47d5655383799",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple rolls out fourth developer and public RCs for macOS Tahoe 26.7 and macOS Sequoia 15.8",
-      "url": "https://9to5mac.com/2026/09/09/apple-rolls-out-fourth-developer-and-public-rcs-for-macos-tahoe-26-7-and-macos-sequoia-15-8/",
-      "publishedAt": "2026-09-09T18:55:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOS Tahoe 26.7とmacOS Sequoia 15.8の第4弾RCを配信",
-      "summaryJa": "Appleは、新製品発表イベントの開催に合わせて、開発者およびパブリックベータテスター向けにmacOS Tahoe 26.7とmacOS Sequoia 15.8の新たなリリース候補版（RC）を公開しました。今回のアップデートは主にバグ修正とパフォーマンス改善に焦点を当てています。AI支援によるセキュリティ研究の進展に伴い迅速な修正が可能となっており、数日中の正式リリースが見込まれています。"
-    },
-    {
-      "id": "df79cd65d88d7d3086fc",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Discontinues iPhone 17 Pro and iPhone 17 Pro Max",
-      "url": "https://www.macrumors.com/2026/09/09/apple-discontinues-iphone-17-pro-max/",
-      "publishedAt": "2026-09-09T18:55:24.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Pro-Colors.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhone 18 Proの発表に伴いiPhone 17 Proシリーズの販売を終了",
-      "summaryJa": "Appleは、新型のiPhone 18 ProおよびiPhone 18 Pro Maxの発表を受けて、前世代のiPhone 17 ProとiPhone 17 Pro Maxの販売をオンラインストアから終了しました。これら旧モデルは前年9月に発売されたばかりでしたが、恒例の製品ラインナップの入れ替えに伴い、公式ストアでの取り扱いがなくなりました。現在は後継モデルを中心とした販売体制に移行しています。"
-    },
-    {
-      "id": "9ad850c60d258178d33b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27: Here are Apple’s full release notes",
-      "url": "https://9to5mac.com/2026/09/09/ios-27-here-are-apples-full-release-notes/",
-      "publishedAt": "2026-09-09T18:51:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-iphone-side-angle-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、9月14日配信の「iOS 27」公式リリースノートを公開",
-      "summaryJa": "Appleは、9月14日に控える「iOS 27」の正式リリースに向けて、公式のリリースノートを公開しました。対応機種向けに、会話能力が向上しパーソナルコンテキストを理解する新しいSiri機能や、写真の空間リフレーミングといったApple Intelligenceを活用した多彩な機能が含まれています。新しくなったSiriアプリやカメラとの統合機能など、詳細な仕様を確認できます。"
-    },
-    {
-      "id": "62ceddf43345a570cf2d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple confirms macOS 27 Golden Gate launch date: September 14",
-      "url": "https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/",
-      "publishedAt": "2026-09-09T18:47:23.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-golden-gate-wallpaper-bridge.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOS 27 Golden Gateを9月14日にリリースへ",
-      "summaryJa": "Appleは、「Surprise and Shine」イベントの終了後、macOS 27 Golden Gateを9月14日に配信することを正式に確認しました。このアップデートでは、刷新されたSiri AIや自然言語プロンプトから作成できるAIショートカット機能などが導入されます。対応機種はAppleシリコン搭載のMacとなり、一部の高度なAI機能はM3以降のチップと一定以上のメモリが必要となります。"
-    },
-    {
-      "id": "551ae4bf658d3ead441c",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "新しいヘルスセンシングシステムを搭載したApple Watch Series 12が登場",
-      "url": "https://www.apple.com/jp/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "publishedAt": "2026-09-09T18:30:48.789Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "新しいヘルスセンシングシステム搭載のApple Watch Series 12が登場",
-      "summaryJa": "Appleは、ウェアラブルデバイス史上最高精度の心拍数センサーや新チップ「S11」を搭載したApple Watch Series 12を発表しました。心拍変動の高頻度測定や新しい準備度スコア機能に加え、Siri AIとの連携により、健康管理とフィットネス機能がさらに強化されています。"
-    },
-    {
-      "id": "cfba1df72c5442280b01",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple unveils iPhone Duo",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-      "publishedAt": "2026-09-09T18:15:40.996Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple初の折りたたみ式モデル「iPhone Duo」が登場",
-      "summaryJa": "Appleは、同社初となる折りたたみ式iPhone「iPhone Duo」を発表しました。開くと7.6インチの大型ディスプレイになり、閉じると5.4インチの外側ディスプレイが利用できるほか、A20 ProチップやApple Intelligenceに対応しています。"
-    },
-    {
-      "id": "4ebb3853a8cb5f60d7fe",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple advances health and fitness capabilities using Apple Intelligence",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/",
-      "publishedAt": "2026-09-09T17:52:05.481Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、Apple Intelligenceを活用した新しい健康・フィットネス機能を発表",
-      "summaryJa": "Appleは、Apple WatchとiPhoneを活用した先進的な健康・フィットネス体験を発表しました。新しいヘルスセンシングシステムにより、ウェアラブル機器として最も正確な心拍数測定やレディネススコアの算出が可能になります。また、Apple Intelligenceを統合した新しいヘルスケアアプリを通じて、複雑な生体データを分かりやすい洞察としてユーザーに提供します。"
-    },
-    {
-      "id": "e37d783b4ad486ec3f26",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple unveils Apple Watch Ultra 4",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
-      "publishedAt": "2026-09-09T17:51:18.631Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、高度な健康機能とS11チップを搭載したApple Watch Ultra 4を発表",
-      "summaryJa": "Appleは、スポーツとアドベンチャー向けに設計された「Apple Watch Ultra 4」を発表しました。新しいヘルスセンシングシステムやS11チップを搭載し、高精度な心拍測定やレディネススコア、長時間のバッテリー駆動を実現しています。さらに、watchOS 27とApple IntelligenceによるSiriの進化やオーディオインテリジェンス機能も備えています。"
-    },
-    {
-      "id": "c2f0b13ce27b852bc07b",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "publishedAt": "2026-09-09T17:50:47.609Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、新ヘルスセンシングシステムを搭載したApple Watch Series 12を発表",
-      "summaryJa": "Appleは、革新的なヘルスセンシングシステムと新しいAppleシリコンを搭載した「Apple Watch Series 12」を発表しました。高精度な心拍数および心拍変動の測定に加え、新たにレディネススコア機能が追加されています。また、S11チップによるオーディオインテリジェンス機能やApple Intelligenceに対応し、ユーザーの健康管理を強力にサポートします。"
-    },
-    {
-      "id": "7b15ab5eafab77a2fe63",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、クラス最高のオープンイヤー型アクティブノイズキャンセリングを搭載したAirPods 5を発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "publishedAt": "2026-09-09T17:40:14.008Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、オープンイヤー型ANCを搭載した「AirPods 5」を発表",
-      "summaryJa": "Appleは、オープンイヤーデザインを採用しながらクラス最高のアクティブノイズキャンセリング（ANC）を搭載した「AirPods 5」を発表しました。音質や外部音取り込みモードが向上したほか、Siri AIとの連携やライブ翻訳機能にも対応しています。本日より予約注文が開始され、9月18日に発売される予定です。"
-    },
-    {
-      "id": "881dd140bd2a65413739",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "publishedAt": "2026-09-09T17:34:55.485Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、オープンイヤー型ANC搭載のAirPods 5を発表",
-      "summaryJa": "Appleは、オープンイヤー型デザインでありながら業界最高のノイズキャンセリング機能を備えたAirPods 5を発表しました。新開発のアコースティックアーキテクチャや次世代のアダプティブイコライザーにより、さらに没入感のあるサウンドを実現しています。ハンズフリーのSiri AIやライブ翻訳機能にも対応し、価格は129ドルからで9月18日に発売されます。"
-    },
-    {
-      "id": "e833e342425ef9865ce8",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "publishedAt": "2026-09-09T17:30:06.059Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、先進のカメラと性能を備えたiPhone 18 Proを発表",
-      "summaryJa": "Appleは、高度なプロカメラシステムと大幅なバッテリー持続時間の向上を実現したiPhone 18 ProおよびiPhone 18 Pro Maxを発表しました。可変絞りに対応した48MPフュージョンメインカメラやA20 Proチップを搭載し、最高の持続パフォーマンスを提供します。Siri AIなどの高度な機能も統合されており、9月18日の発売に向けて9月12日から予約が始まります。"
     }
   ],
-  "updatedAt": "2026-09-16T11:47:04.038Z",
+  "updatedAt": "2026-09-16T15:42:48.730Z",
   "initialized": true,
   "summaryVersion": 4
 }
