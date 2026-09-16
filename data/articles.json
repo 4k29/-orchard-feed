@@ -1,6 +1,171 @@
 {
   "articles": [
     {
+      "id": "46a6837fbdd0e56d4a25",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Upgrade your Mac desk setup with the Sihoo B300 Pro for under $300",
+      "url": "https://9to5mac.com/2026/09/16/upgrade-mac-desk-setup-with-sihoo-b300-pro-under-300/",
+      "publishedAt": "2026-09-16T22:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Sihoo-B300-Pro.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Macのデスク環境を快適にするSihoo B300 Pro",
+      "summaryJa": "長時間のデスクワークを支える椅子として、Sihooの「B300 Pro」が紹介されています。4Dマイクロフィット腰椎サポートや6Dアームレストなど、体に合わせた多彩な調整機能を備えており、Macを使った作業環境を快適にするための優れた選択肢となります。"
+    },
+    {
+      "id": "6bc7d35efb691e3e9848",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Judge scrutinizes Musk’s move to drop Apple from antitrust lawsuit involving OpenAI",
+      "url": "https://9to5mac.com/2026/09/16/judge-scrutinizes-musks-move-to-drop-apple-from-antitrust-lawsuit-involving-openai/",
+      "publishedAt": "2026-09-16T21:26:54.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/Meta-community-notes-now-open-to-contributors-as-Musk-threatens-to-fix-them-on-X.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "連邦判事、マスク氏側のAppleに対する訴訟取り下げで合意文書の提出を命令",
+      "summaryJa": "イーロン・マスク氏関連企業がAppleとOpenAIに対する反トラスト法訴訟のうち、Appleに対する請求を自発的に取り下げたことを受け、担当のマーク・ピットマン連邦判事がAppleとの間の合意内容を示す文書の提出を命じました。OpenAI側からの緊急動議に対応したもので、裁判所が合意の詳細を精査する方針を示しています。"
+    },
+    {
+      "id": "2d16cbdeff65ee96dcfb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Hands-On With the Redesigned Health App in the iOS 27.2 Beta",
+      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-health-app-beta/",
+      "publishedAt": "2026-09-16T21:21:23.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27.2ベータで刷新されたヘルスケアアプリのハンズオン",
+      "summaryJa": "Appleがプレビューしていた完全に刷新されたヘルスケアアプリが、iOS 27.2ベータでテストされています。「インサイト」や「ロンジェビティ」などの新しいタブが追加され、活動データや睡眠スコア、健康年齢などの指標をより詳細に確認できるようになります。なお、この新機能はiOS 27.2の正式リリースには含まれず、今年後半に配信される予定です。"
+    },
+    {
+      "id": "d1fedcdf7fdfa8fc3d8e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.2 will help users move data and settings from an old app to its replacement",
+      "url": "https://9to5mac.com/2026/09/16/ios-27-2-will-help-users-move-data-and-settings-from-an-old-app-to-its-replacement/",
+      "publishedAt": "2026-09-16T21:03:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/app-migration.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27.2、旧アプリから新アプリへのデータ移行をシステムが支援へ",
+      "summaryJa": "iOS 27.2では、開発者が既存のアプリから後継アプリへデータや設定を簡単に移行できるよう、システムが管理する新しい移行フローが導入されます。古いアプリを削除する前に、通知やプライバシー設定などのデータを新しいアプリへスムーズに引き継ぐことが可能になります。"
+    },
+    {
+      "id": "0884962d275eaf777394",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.2 Could Save Your Marriage",
+      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-could-save-your-marriage/",
+      "publishedAt": "2026-09-16T20:42:06.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/ios272anniversary.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27.2ベータ、電話発信時に記念日を通知する機能を追加",
+      "summaryJa": "Appleが配信を開始したiOS 27.2のベータ版において、連絡先に登録された記念日を電話発信時に通知する機能が追加されました。この機能はiOS 27で導入された「コールコンテキスト」を活用したもので、誕生日と同様に連絡先の情報から重要な日付をポップアップで知らせてくれます。正式版は10月のリリースが予定されています。"
+    },
+    {
+      "id": "6040c03baf2d2566c532",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "This iOS 27 bug temporarily freezes your iPhone … and it’s going viral on social media",
+      "url": "https://9to5mac.com/2026/09/16/iphone-ios-2-temporarily-brick-freeze-viral-prank/",
+      "publishedAt": "2026-09-16T20:38:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-freeze-bug.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27で画面が一時的にフリーズする不具合、SNSで拡散中",
+      "summaryJa": "公開されたばかりのiOS 27において、ホーム画面での特定のスワイプ操作を行うと端末が一時的にフリーズするソフトウェアの不具合が発見されました。通知センターとコントロールセンターを連続して引き出すことで発生し、SNS上でイタズラとして拡散されています。この一時的なロック状態は端末を強制再起動することで簡単に解除可能です。"
+    },
+    {
+      "id": "8db938f2959cd8074f08",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.2 references new option to overwrite iPhone storage with blank data after erasing",
+      "url": "https://9to5mac.com/2026/09/16/ios-27-2-references-new-option-to-overwrite-iphone-storage-with-blank-data-after-erasing/",
+      "publishedAt": "2026-09-16T20:00:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/china-erase.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27.2、中国向けに空データでストレージを上書き消去する新機能か",
+      "summaryJa": "iOS 27.2ベータ版のコードから、デバイス初期化時にストレージ全体を空のデータで完全に上書きする新しい消去オプションの存在が明らかになりました。この機能は中国国内で施行される新しいデータ消去規制に準拠するためのもので、中国で販売されるiPhoneモデルに限定して提供される見込みです。"
+    },
+    {
+      "id": "4961da10f204c1c4ffa5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 gives Apple Photos a very useful feature I’ve wanted for years",
+      "url": "https://9to5mac.com/2026/09/16/ios-27-gives-apple-photos-a-very-useful-feature-ive-wanted-for-years/",
+      "publishedAt": "2026-09-16T19:47:14.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-photos-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27の写真アプリ、動画の特定フレームを写真として保存可能に",
+      "summaryJa": "iOS 27の写真アプリでは、保存されている動画から任意のフレームを写真として直接保存できる新機能が追加されました。従来のスクリーンショット撮影とは異なり、画質が低下せずトリミングの手間も省けるため、動画内の大切な瞬間を高画質な画像として残せるようになります。"
+    },
+    {
+      "id": "979c701a3ac3dd01fffd",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro vs. iPhone Duo Buyer's Guide: Which Should You Choose?",
+      "url": "https://www.macrumors.com/guide/iphone-18-pro-vs-iphone-duo/",
+      "publishedAt": "2026-09-16T19:28:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-Duo-vs-18-Pro-Buyers-Guide-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proと初の折りたたみモデルiPhone Duoの比較",
+      "summaryJa": "Appleの新しいiPhoneラインナップには、従来のProモデルに加えて、同社初の折りたたみディスプレイを搭載したiPhone Duoが登場しました。これらはいずれも最新のA20 Proチップや共通のハードウェアを多く備えていますが、価格差の多くは7.6インチの折りたたみディスプレイに割り当てられています。ユーザーはカメラ性能の差ではなく、折りたたみディスプレイという新しい形状に価値を見出すかどうかの選択を迫られます。"
+    },
+    {
+      "id": "a74c509074455dfca9bb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.2 Adds Profiles to Apple TV App",
+      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-tv-app-profiles/",
+      "publishedAt": "2026-09-16T19:23:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/ios-27-2-tv-app-profiles.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27.2、Apple TVアプリにプロフィール機能を追加",
+      "summaryJa": "iOS 27.2およびiPadOS 27.2では、これまでtvOS向けに提供されていたApple TVアプリのプロフィール機能がiPhoneとiPadにも拡張されました。アカウント設定から新しいプロフィールを作成・切り替えることが可能になり、子どもの年齢に応じた視聴制限を設定できます。これにより、親が自分のアカウントに影響を与えることなく、子どもに安心して動画コンテンツを視聴させられるようになります。"
+    },
+    {
+      "id": "9f634df67c54a1953c00",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.2 lets developers use an alternative App Tracking Transparency prompt in the EU",
+      "url": "https://9to5mac.com/2026/09/16/ios-27-2-lets-developers-use-an-alternative-app-tracking-transparency-prompt-in-the-eu/",
+      "publishedAt": "2026-09-16T19:10:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/att-europe-272.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27.2、EU域内で代替のトラッキング許可プロンプトを導入",
+      "summaryJa": "Appleはドイツ連邦カートテル庁による調査を受けたEUとの合意に基づき、iOS 27.2からEU域内の開発者向けに代替のAppトラッキングの透明性（ATT）プロンプトの提供を開始します。ドイツ、フランス、イタリア、ポーランド、ルーマニアなどの国ではこの代替プロンプトの使用が義務付けられます。これにより、開発者はデータ追跡の目的について追加情報を表示するための専用ボタンを備えたプロンプトを利用できるようになります。"
+    },
+    {
       "id": "1a734d8435ae12af85dd",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -179,6 +344,21 @@
       ],
       "titleJa": "Apple、iPadOS 27.2 ベータ 1を開発者向けに提供開始",
       "summaryJa": "AppleはiPadOS 27のリリース直後、予想されていた27.1ではなくiPadOS 27.2の最初のベータ版を開発者向けに公開しました。スキップされた27.1は新型デバイス向けに温存されていると見られています。iPadOS 27.2では、初期リリースから削除されたメッセージ機能やパスワードの自動修復機能などの復活が期待されています。"
+    },
+    {
+      "id": "39416a5959f3de9c36e1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases first iOS 27.2 developer beta for iPhone",
+      "url": "https://9to5mac.com/2026/09/16/apple-releases-first-ios-27-2-developer-beta-for-iphone/",
+      "publishedAt": "2026-09-16T17:12:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iOS-27.2-b1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPhone向けにiOS 27.2開発者ベータ1をリリース",
+      "summaryJa": "Appleは、一般向けにiOS 27がリリースされた直後、iPhone向けに最初のiOS 27.2開発者ベータ版を提供開始しました。今回はiOS 27.1をスキップした形での配信となり、iPhone Duo向けのコードなどは10月のハードウェア発売に向けて温存されているとみられます。次期アップデートでは、再設計されたヘルスケアアプリや、対応言語が拡大されるSiriのAI機能などの展開が予定されています。"
     },
     {
       "id": "74105feff6a4a2d47f62",
@@ -4326,189 +4506,9 @@
       ],
       "titleJa": "iPhone Duoにはアクションボタン非搭載、Touch IDを側面ボタンに採用か",
       "summaryJa": "技術仕様の図解から、iPhone Duoには近年のiPhoneに採用されてきたアクションボタンが搭載されていないことが明らかになりました。代わりに音量ボタン、カメラコントロール、側面にTouch IDを内蔵したサイドボタンなどが配置されています。物理的なミュートスイッチも存在せず、消音モードはコントロールセンターから操作する必要があります。"
-    },
-    {
-      "id": "3c1f5193c5b1708bd9c4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Download the new iPhone 18 Pro wallpapers here",
-      "url": "https://9to5mac.com/2026/09/09/download-the-new-iphone-18-pro-wallpapers-here/",
-      "publishedAt": "2026-09-09T21:01:33.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-wallpapers.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの壁紙が早くも公開、手持ちのデバイスにダウンロード可能",
-      "summaryJa": "Appleが発表した「iPhone 18 Pro」および「iPhone 18 Pro Max」向けの新しい壁紙が、早くも公開されダウンロードできるようになりました。これらはiOSのリリース候補版から抽出された静止画バージョンとなっています。デバイスを購入しなくても、高解像度の画像を保存して自分の背景に設定することが可能です。"
-    },
-    {
-      "id": "18d1543f3df7a1a3f66e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Reveals iPhone 18 Pro and iPhone 18 Pro Max Battery Capacities",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-max-battery-capacities/",
-      "publishedAt": "2026-09-09T20:56:17.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Battery.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 ProとPro Maxのバッテリー容量が判明、EUの規制で明らかに",
-      "summaryJa": "Appleが発表したiPhone 18 ProおよびiPhone 18 Pro Maxのバッテリー容量が、EU向け製品ページに掲載されたエネルギーラベルから判明しました。SIMカードトレイ搭載モデルでは、Proが4,056 mAh、Pro Maxが5,391 mAhとなっています。特にPro Maxは前世代から大幅な容量増加となりました。"
-    },
-    {
-      "id": "d38e46af2fe79970edcb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Duo: Here are all the little details you might have missed",
-      "url": "https://9to5mac.com/2026/09/09/iphone-duo-here-are-all-the-little-details-you-might-have-missed/",
-      "publishedAt": "2026-09-09T20:46:36.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-standby-mode.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple初の折りたたみ式「iPhone Duo」の細かい仕様や見落としがちな特徴",
-      "summaryJa": "Apple初の折りたたみ式モデルとして発表された「iPhone Duo」の、あまり知られていない細かい仕様が明らかになりました。インディスプレイカメラを搭載し、内部画面にはナノテクチャ仕上げが施されるほか、今年後半にはApple Pencilのサポートも予定されています。一方で、アクションボタン非搭載やメインカメラの可変絞り非対応といった違いもあります。"
-    },
-    {
-      "id": "4a5300d676cd08666857",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Max Is Heavier Than iPhone 17 Pro Max, Not Thicker",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-max-heavier/",
-      "publishedAt": "2026-09-09T20:41:05.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-iPhone-18-Pro-2up-16x9-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Pro Maxは本体サイズ据え置きで重量が増加、その理由は",
-      "summaryJa": "iPhone 18 Pro Maxは前世代と同じ本体サイズを維持しながらも、重量が16グラム増加して249グラムとなりました。本体の厚さは変わらないものの、より大型化したベイパーチャンバー冷却システムやバッテリー容量の拡大が重量増の要因とみられています。新しい冷却機構により、A20 Proチップの持続的なパフォーマンスが大きく向上しています。"
-    },
-    {
-      "id": "34bc4ddcf43870811cf9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirPods 5 Include ANC as Standard, Pricier Variant Now Gatekeeps Wireless Charging Instead",
-      "url": "https://www.macrumors.com/2026/09/09/airpods-5-include-anc-as-standard/",
-      "publishedAt": "2026-09-09T20:36:16.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/airpods-5-stem-touch-volume-controls.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AirPods 5が登場、標準モデルにアクティブノイズキャンセリングを搭載",
-      "summaryJa": "Appleは、アクティブノイズキャンセリングを標準搭載したAirPods 5を発表しました。従来は上位モデルのみだった機能が129ドルのベースモデルにも追加され、より手に取りやすくなっています。また、149ドルのワイヤレス充電ケース付きモデルには、スワイプ音量調整や長いバッテリー駆動時間が備わっています。"
-    },
-    {
-      "id": "a2e67c3303fa6a1a3ae1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple confirms Siri AI launches in English this month, will add five languages in October",
-      "url": "https://9to5mac.com/2026/09/09/apple-confirms-siri-ai-launches-in-english-this-month-will-add-five-languages-in-october/",
-      "publishedAt": "2026-09-09T20:33:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新Siri AI、今月英語で提供開始し10月に日本語など5言語に対応へ",
-      "summaryJa": "Appleはイベントにおいて、新機能となるSiri AIの提供スケジュールを明らかにしました。今月中に英語での展開が始まり、10月には日本語、フランス語、韓国語、ポルトガル語、スペイン語の5言語へ対応言語が拡大されます。新しいLLMベースの音声アシスタントとして、OSのリリースに合わせて順次利用可能になる予定です。"
-    },
-    {
-      "id": "ca159887f1ea54521eb3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AirPods 5 vs AirPods 4: here’s what’s new",
-      "url": "https://9to5mac.com/2026/09/09/airpods-5-vs-airpods-4-new-features/",
-      "publishedAt": "2026-09-09T20:30:38.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.34.51.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、アクティブノイズキャンセリング標準搭載のAirPods 5を発表",
-      "summaryJa": "Appleは、エントリー向けAirPodsの新モデルとなるAirPods 5を発表した。価格は129ドルからと従来よりも手頃になりながら、全モデルにアクティブノイズキャンセリングが標準搭載されている。新たなアルゴリズムと音響設計により、従来のAirPods 4と比較してノイズキャンセリング性能が最大50%向上しているほか、外音取り込みモードも自然に聞こえるよう改善された。"
-    },
-    {
-      "id": "cb7aa756d82b8904be86",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Samsung Mocks iPhone Duo",
-      "url": "https://www.macrumors.com/2026/09/09/samsung-mocks-iphone-duo/",
-      "publishedAt": "2026-09-09T20:28:10.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-hero.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "サムスン、発表されたばかりのiPhone DuoをSNSで牽制",
-      "summaryJa": "AppleによるiPhone Duoの発表にあわせて、ライバル企業であるサムスンが公式SNSで皮肉を込めた投稿を行った。具体的な製品名は出していないものの、既存の折りたたみ端末を意識したようなメッセージを発信している。iPhone Duoは10月16日に予約受付が開始され、10月23日に発売される予定となっている。"
-    },
-    {
-      "id": "37e68ceeae968b85c3f7",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Adds AppleCare One Family Plan for Up to Six People",
-      "url": "https://www.macrumors.com/2026/09/09/applecare-one-family-plan/",
-      "publishedAt": "2026-09-09T20:23:05.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/AppleCare-One-Family.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、最大6人まで対象のファミリー向けAppleCare加入プランを発表",
-      "summaryJa": "Appleは、ファミリー共有グループの最大6人までのデバイスをまとめて保証する新プランAppleCare One Familyを発表した。月額49.99ドルで落下や水濡れ、バッテリー交換などのAppleCare+と同等の特典が受けられ、紛失・盗難補償も含まれている。条件を満たした良好な状態のデバイスであれば、家族全員の機器を一つのサブスクリプションで一括管理できる。"
-    },
-    {
-      "id": "ab963f19b46cfae27f33",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro's $100 Price Increase is Actually $300 If You Want 1TB Storage",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-storage-price-hike/",
-      "publishedAt": "2026-09-09T20:20:26.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-burgundy-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの1TBモデルは実質300ドルの値上げか",
-      "summaryJa": "iPhone 18 Proシリーズの基本価格は前モデルから100ドル引き上げられましたが、1TBの大容量ストレージを選ぶ場合の実際の値上げ幅はさらに大きくなっていると報じられています。サプライチェーンにおける部品コストの高騰が背景にあり、上位容量モデルではより大きな価格差がついています。新しい2TBオプションも追加され、ProおよびPro Maxモデル全体で価格設定が見直されています。"
-    },
-    {
-      "id": "698c14d5d39b11401ff5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro vs iPhone Duo: Here’s every key difference",
-      "url": "https://9to5mac.com/2026/09/09/iphone-18-pro-vs-iphone-duo-heres-every-key-difference/",
-      "publishedAt": "2026-09-09T20:07:27.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-vs-iphone-duo-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proと折りたたみ式iPhone Duoの主な違い",
-      "summaryJa": "Appleが発表したフラッグシップモデルであるiPhone 18 Proシリーズと、初の折りたたみ式デバイスであるiPhone Duoの主要な違いについて解説されています。iPhone Duoは7.6インチのインナーディスプレイと5.4インチのアウターディスプレイを備えた折りたたみ式フォームファクタを採用し、従来のiPhoneとは異なる新しい体験を提供します。本体のサイズや重量、ディスプレイの仕様などを比較することで、それぞれの特徴が明らかにされています。"
-    },
-    {
-      "id": "b6cf9eec1efe510190f4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple details how Apple Watch’s new Audio Intelligence features work in privacy paper",
-      "url": "https://9to5mac.com/2026/09/09/apple-details-how-apple-watchs-new-audio-intelligence-features-work-in-privacy-paper/",
-      "publishedAt": "2026-09-09T19:59:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.47.53.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watchの新機能オーディオインテリジェンスの仕組み",
-      "summaryJa": "Apple Watch向けに新たに導入されるオーディオインテリジェンス機能について、プライバシー保護の観点から詳細が公開されました。この機能にはサウンド認識やShazamによる自動音楽認識に加え、ライブリワインドやSiriレカペが含まれています。各機能はユーザーがオプトインで選択し、プライバシーに配慮した設計が施されています。"
     }
   ],
-  "updatedAt": "2026-09-16T19:07:24.365Z",
+  "updatedAt": "2026-09-16T22:11:07.344Z",
   "initialized": true,
   "summaryVersion": 4
 }
