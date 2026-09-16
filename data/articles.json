@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "dd3bd429e2d484455a52",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple explains how the iPhone 18 Pro’s new Reference Image camera mode works",
+      "url": "https://9to5mac.com/2026/09/15/apple-explains-how-the-iphone-18-pros-new-reference-image-camera-mode-works/",
+      "publishedAt": "2026-09-16T02:25:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-reference-image-iphone-18-pro.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleが解説する新カメラモードの仕組み",
+      "summaryJa": "Appleのセキュリティ研究ブログにて、新しい写真認証システムの仕組みや設計思想の詳細が公開されました。合成画像や改ざんが容易になる現状を受け、プライバシーを保護しつつ量子耐性も備えた検証システムを開発したとしています。安全なデジタルネガを活用した検証の仕組みについて詳しく説明されています。"
+    },
+    {
       "id": "df8962bde6af7eb66b65",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4495,24 +4510,9 @@
       ],
       "titleJa": "Appleの9月イベントが開催、iPhone 18 Proや新製品発表に注目が集まる",
       "summaryJa": "Appleは「Surprise and shine」をタグラインに掲げた大規模な9月イベントを開催し、その模様をYouTubeやApple TVアプリなどで世界に向けてライブ配信しました。イベントではiPhone 18 Proや新型折りたたみモデルのiPhone Duoをはじめ、新型Apple WatchやAirPodsなどの多数の新製品の登場が期待されていました。"
-    },
-    {
-      "id": "35834e004669345915cd",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Mac Mini vs. Mac Studio Buyer's Guide: 20 Differences Compared",
-      "url": "https://www.macrumors.com/guide/mac-mini-vs-mac-studio/",
-      "publishedAt": "2026-09-09T14:20:19.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/10/Mac-mini-vs-Studio-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Mac miniとMac Studioの比較：最新2モデルの違い",
-      "summaryJa": "Appleが先月に発表した新しいMac miniとMac Studioの比較ガイドが公開されました。長年ぶりに同時に刷新された2つのデスクトップMacは、多くの共通機能を持ちながらも、プロセッサの種類やメモリ容量、ポート構成などの面で違いがあります。それぞれの価格帯や仕様を整理し、自分に合ったモデルを選ぶためのポイントが解説されています。"
     }
   ],
-  "updatedAt": "2026-09-16T01:20:14.461Z",
+  "updatedAt": "2026-09-16T06:14:29.327Z",
   "initialized": true,
   "summaryVersion": 4
 }
