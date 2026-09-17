@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "5aba958929d26350f5f1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Everything New in iOS 27.2 Beta 1",
+      "url": "https://www.macrumors.com/guide/ios-27-2-beta-features/",
+      "publishedAt": "2026-09-16T23:44:59.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27.2 Beta 1が登場、刷新されたヘルスケアアプリやSiriの対応言語追加など",
+      "summaryJa": "Appleは「iOS 27.2 Beta 1」を新たに公開しました。このベータ版には、9月のイベントで発表されたインサイトや長寿データなどを管理できる刷新されたヘルスケアアプリが含まれています。また、Siri AIの対応言語に日本語やフランス語などが追加されたほか、通話コンテキストの記念日アラート機能なども実装されています。"
+    },
+    {
+      "id": "503fa77694b3affa5dd9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Tim Cook to Attend White House State Dinner for Xi Jinping",
+      "url": "https://www.macrumors.com/2026/09/16/tim-cook-state-dinner-xi-jinping/",
+      "publishedAt": "2026-09-16T23:41:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Tim-Cook-Executive-Chair-16x9-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "ティム・クック氏、米中首脳会談の晩餐会に出席へ",
+      "summaryJa": "Appleの執行会長であるティム・クック氏が、中国の習近平国家主席を迎えてホワイトハウスで開催される晩餐会に出席する見通しであると報じられています。クック氏は9月に最高経営責任者を退任し執行会長に就任しており、新役割の一環として世界各国の政策立案者との関係構築を進めています。今回の晩餐会には、オープンAIのサム・アルトマン氏ら他の主要テック企業のトップも招待されています。"
+    },
+    {
+      "id": "c702b3dfdc4d809d7172",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Snap announces Specs Intelligence app for iPhone and Mac, cellular variant of Specs",
+      "url": "https://9to5mac.com/2026/09/16/snap-specs-intelligence-cellular-support/",
+      "publishedAt": "2026-09-16T23:40:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/image_8852d8.png?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "SnapがiPhoneおよびMac向けのAIアプリ「Specs Intelligence」を発表",
+      "summaryJa": "Snapは、独自のメガネ型端末の予約受付を開始するとともに、iPhoneやMacで利用できる新しいAIエージェント「Specs Intelligence」を発表しました。このアプリは、ユーザーの目標や日々のルーティンを学習してサポートする機能を提供します。また、外出先での利用を可能にする5G対応のキャリングケースやセルラープランも同時に発表されています。"
+    },
+    {
+      "id": "a5c1240084ccf4334fd1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp may soon let iPhone users add a third account",
+      "url": "https://9to5mac.com/2026/09/16/whatsapp-may-soon-let-iphone-users-add-a-third-account/",
+      "publishedAt": "2026-09-16T22:39:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp、iPhone版で最大3つのアカウント追加機能をテスト中か",
+      "summaryJa": "WhatsAppが、iPhone版アプリにおいて現在対応している2つのアカウントに加え、最大3つまでのアカウントを追加して切り替えられる機能の開発を進めていると報じられています。この機能が実装されれば、ログアウトすることなく複数のアカウントを管理できるようになり、各アカウントは個別のチャット履歴や通知、プライバシー設定を保持します。現在は開発段階であり、ベータテスター向けにもまだ提供されていません。"
+    },
+    {
+      "id": "fd39a623bf2ec4742899",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Tripsy’s iOS 27 update includes smarter imports, on-device AI insights, more",
+      "url": "https://9to5mac.com/2026/09/16/tripsys-ios-27-update-includes-smarter-imports-on-device-ai-insights-more/",
+      "publishedAt": "2026-09-16T22:12:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/tripsy.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "旅行計画アプリ「Tripsy」がiOS 27に対応、AI機能などを追加",
+      "summaryJa": "旅行計画アプリのTripsyがバージョン3.10にアップデートされ、iOS 27の特大ウィジェットやAIを活用した新機能に対応しました。リンクやPDF、スクリーンショットなどを自動で旅程に組み込める「スマートインポート」や、デバイス上の基盤モデルで詳細情報を抽出する「スマートインサイト」などがProサブスクリプション向けに提供されています。"
+    },
+    {
       "id": "46a6837fbdd0e56d4a25",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -359,6 +434,114 @@
       ],
       "titleJa": "Apple、iPhone向けにiOS 27.2開発者ベータ1をリリース",
       "summaryJa": "Appleは、一般向けにiOS 27がリリースされた直後、iPhone向けに最初のiOS 27.2開発者ベータ版を提供開始しました。今回はiOS 27.1をスキップした形での配信となり、iPhone Duo向けのコードなどは10月のハードウェア発売に向けて温存されているとみられます。次期アップデートでは、再設計されたヘルスケアアプリや、対応言語が拡大されるSiriのAI機能などの展開が予定されています。"
+    },
+    {
+      "id": "dcebca01f824aaf81f89",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases First watchOS 27.2, tvOS 27.2 and visionOS 27.2 Betas",
+      "url": "https://www.macrumors.com/2026/09/16/apple-releases-watchos-27-2/",
+      "publishedAt": "2026-09-16T17:12:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/04/General-visionOS-watchOS-and-tvOS-Betas-Feature-Redux.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、watchOS 27.2やtvOS 27.2などのベータ版をリリース",
+      "summaryJa": "AppleはwatchOS 27.2、tvOS 27.2、visionOS 27.2の最初のベータ版を開発者向けに公開しました。登録者は各デバイスの設定アプリからダウンロード可能となっています。今後のアップデートでは、Apple Watch向けにAIを活用した新機能の導入テストが行われる可能性があり、詳細な検証が進められています。"
+    },
+    {
+      "id": "cb6f15da681ec7871289",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 to Offer New Way to Redeem Apple Gift Cards",
+      "url": "https://www.macrumors.com/2026/09/16/ios-27-new-way-to-redeem-apple-gift-cards/",
+      "publishedAt": "2026-09-16T17:08:36.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Gift-Card-Tap-an-iPhone-1.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27、NFCでAppleギフトカードを読み取る新機能を準備か",
+      "summaryJa": "iOS 27のコードから、iPhoneの背面にAppleギフトカードをかざすだけでNFC経由で残高確認やチャージができる新機能が見つかりました。詐欺対策や認証の強化を目的としているとみられ、対応するiPhoneでの利便性が向上する見通しです。正式な機能の提供時期についてはまだ明らかにされていません。"
+    },
+    {
+      "id": "c9ebb465a037b511f01c",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Get ready with the latest beta releases",
+      "url": "https://developer.apple.com/news/?id=rfb1rooi",
+      "publishedAt": "2026-09-16T17:03:39.000Z",
+      "imageUrl": null,
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "Apple、各種OSの最新ベータ版を開発者向けに公開",
+      "summaryJa": "Appleは各OSのバージョン27.2となるベータ版を新たにリリースし、開発者に対して最新SDKを利用したアプリの動作確認を呼びかけています。また、10月23日に発売予定の折りたたみ型モデル「iPhone Duo」に向けた開発サポートについても言及されており、専用の機能やシミュレーターの準備が進められています。"
+    },
+    {
+      "id": "63a3e3924b300c5b6fa7",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Get your subscriptions ready for iOS 27",
+      "url": "https://developer.apple.com/news/?id=likeohx4",
+      "publishedAt": "2026-09-16T17:02:58.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/022EB77D-3E86-4604-B38E-39F1B024E868/2048.jpeg",
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "Apple、iOS 27に向けたサブスクリプションの新機能を発表",
+      "summaryJa": "Appleは、iOS 27で複数のサブスクリプションを1つにまとめて提供できる「Bundles」や「Suites」機能を導入すると発表しました。アプリ内課金でのStoreKit 2の利用が必須となり、企業やグループ向けの複数シート購入機能もApp Store Connectでサポートされます。これにより、開発者は新しい形態でのサブスクリプション展開が可能になります。"
+    },
+    {
+      "id": "e73e7653da472728e375",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Updates to App Tracking Transparency in the European Union",
+      "url": "https://developer.apple.com/news/?id=idsft9ai",
+      "publishedAt": "2026-09-16T17:00:11.000Z",
+      "imageUrl": null,
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "EUにおけるApp Tracking Transparencyの変更点",
+      "summaryJa": "Appleは欧州の競争当局との合意に基づき、EU域内におけるApp Tracking Transparency（ATT）の仕組みを変更すると発表しました。iOS 27.2およびiPadOS 27.2以降、開発者はEU内で代替バージョンのシステムプロンプトを利用できるようになります。なお、トラッキング許可を取得する要件自体は従来と変わりません。"
+    },
+    {
+      "id": "442b045efa81bd878c55",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Anthropic merging Claude Cowork with chat",
+      "url": "https://9to5mac.com/2026/09/16/anthropic-merging-claude-cowork-with-chat/",
+      "publishedAt": "2026-09-16T16:47:54.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Anthropic、「Claude Cowork」を通常チャットに統合",
+      "summaryJa": "Anthropicは、AIアシスタント「Claude」のCowork機能を通常チャットへ統合し、モードを従来の3つから2つに簡素化すると発表しました。今後はProおよびMaxプランのユーザーを対象に、数週間かけて順次展開される予定です。この変更により、ユーザーはタスクごとにモードを切り替える必要がなくなり、よりスムーズな利用が可能になります。"
+    },
+    {
+      "id": "790ca731a7c4f19c4adc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Weather adds two convenient new features in iOS 27",
+      "url": "https://9to5mac.com/2026/09/16/apple-weather-adds-two-convenient-new-features-in-ios-27/",
+      "publishedAt": "2026-09-16T16:09:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-weather-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iOS 27の天気アプリで便利な2つの新機能を追加",
+      "summaryJa": "Appleは、iOS 27の天気アプリに雨と風の予報を確認できる便利な2つの新機能を追加しました。従来の総合的な表示に加え、新しく追加された雨や風のアイコンをタップすることで、詳細な降水量や風速の予報へ簡単に切り替えることができます。これまでメニューの奥に隠れていた重要な気象情報が、ホーム画面からよりアクセスしやすくなりました。"
     },
     {
       "id": "74105feff6a4a2d47f62",
@@ -4326,189 +4509,9 @@
       ],
       "titleJa": "Apple Watch Series 12およびUltra 4向けに多彩な新バンドが登場",
       "summaryJa": "秋の新製品発表に合わせて、Apple Watch Series 12とApple Watch Ultra 4向けの交換バンドに新しいカラーや素材のラインナップが追加されました。スポーツバンドやスポーツループ、ミラネーゼループなどに新色が加わったほか、Ultra 4向けには半透明のオーシャンバンドなどが用意されています。それぞれのケースに合わせた洗練されたデザインが展開されます。"
-    },
-    {
-      "id": "b3dd9ff853f325104166",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 Will Let You Redeem Apple Gift Cards on the Back of Your iPhone",
-      "url": "https://www.macrumors.com/2026/09/09/ios-27-apple-gift-cards-tap-to-redeem-on-iphone/",
-      "publishedAt": "2026-09-09T22:11:08.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Gift-Cards-16x9-Gradient.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27でiPhoneの背面にタッチしてAppleギフトカードが登録可能に",
-      "summaryJa": "iOS 27のリリース候補版のコードから、対応するiPhoneの背面にAppleギフトカードをタッチするだけで残高をチャージできる新しい機能が見つかりました。ギフトカードに内蔵されたセキュリティチップをスキャンし、本物であることや未使用であることを検証する仕組みとなっています。この新しい登録フローにより、詐欺被害の軽減なども期待されています。"
-    },
-    {
-      "id": "ab4f9a9dda1eee439cd3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple updates Design Resources with iPhone Duo and iPhone 18 Pro product bezels",
-      "url": "https://9to5mac.com/2026/09/09/apple-updates-design-resources-with-iphone-duo-and-iphone-18-pro-product-bezels/",
-      "publishedAt": "2026-09-09T21:54:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-bezels.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、デザインリソースを更新しiPhone DuoやiPhone 18 Proのベゼルを追加",
-      "summaryJa": "最新イベントの開催を受け、Appleは公式のデザインリソースポータルを更新し、iPhone DuoおよびiPhone 18 Proの製品ベゼルなどの素材を追加しました。これにより、FigmaやPhotoshopなどの各種デザインツール向けに、新モデルの開閉状態や新しいDynamic Islandの形状を反映したアセットが利用可能になります。デザイナー向けに最新のハードウェア形状に合わせた素材が提供されています。"
-    },
-    {
-      "id": "52a3e1c5b3e3cbf894b9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 Comes in New Finishes, Including Ceramic",
-      "url": "https://www.macrumors.com/2026/09/09/apple-watch-series-12-comes-new-finishes/",
-      "publishedAt": "2026-09-09T21:52:28.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/series-12-ceramic.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Series 12が発表、セラミック素材が復活",
-      "summaryJa": "Apple Watch Series 12は、セラミックを含む新しい仕上げや素材の選択肢を取り入れて登場しました。アルミ、チタン、セラミックの各モデルが用意され、価格は399ドルからとなっています。今回は本体に合わせたセラミック製のピン留め付きスポーツバンドも同梱され、予約受付が開始されています。"
-    },
-    {
-      "id": "ca6472be86f23291e0ea",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro is eSIM-Only in These Countries",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-esim-only-countries/",
-      "publishedAt": "2026-09-09T21:52:15.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Burgundy-1-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Pro、日本を含む一部地域でeSIM専用に",
-      "summaryJa": "Appleは最新のiPhone 18 Proシリーズにおいて、日本や米国などの一部の国と地域で物理SIMカードトレイを廃止し、eSIM専用仕様にすることを明らかにしました。物理SIMトレイのスペースがなくなったことでバッテリー容量が拡大しています。なお、その他の国や地域では引き続き物理SIMスロットも搭載されます。"
-    },
-    {
-      "id": "9c72351a66f82496edd6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Hands-on with Siri Modular, watchOS 27’s new Apple Watch face",
-      "url": "https://9to5mac.com/2026/09/09/hands-on-with-siri-modular-watchos-27s-new-apple-watch-face/",
-      "publishedAt": "2026-09-09T21:40:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-modular-watch-face.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "watchOS 27の新文字盤「Siriモジュラー」の仕様と外観",
-      "summaryJa": "watchOS 27のベータ版に含まれる新しい文字盤「Siriモジュラー」の詳細が明らかになりました。Apple WatchのSeriesおよびUltraモデルの両方で利用可能ですが、Ultraモデルではベゼルオプションなど一部のカスタマイズ項目が追加されています。時計のサイズやレイアウト、豊富な文字盤カラーの選択肢が用意されており、ユーザーの好みに合わせた柔軟な設定が可能です。"
-    },
-    {
-      "id": "bc63bcedfa7563e4daac",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Duo Will Ship With iOS 27.1, Hinting at Update's Release Date",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-ios-27-1/",
-      "publishedAt": "2026-09-09T21:36:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-closed-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone Duo、iOS 27.1を搭載して10月23日に発売か",
-      "summaryJa": "Appleは、新モデルとなるiPhone Duoを10月23日に発売し、初期出荷時にiOS 27.1がプリインストールされる予定であることを明らかにしました。これにより、最初の大型アップデートとなるiOS 27.1のリリース時期が10月中旬から下旬になると見られています。iOS 27.1では、デュアルディスプレイや新しい垂直ドックといったiPhone Duo特有のデザインに合わせたアプリレイアウトの更新が含まれる見込みです。"
-    },
-    {
-      "id": "c3b0680480ce9a510f55",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple shares more details about Apple Intelligence usage limits and terms",
-      "url": "https://9to5mac.com/2026/09/09/apple-shares-more-details-about-apple-intelligence-usage-limits-and-terms/",
-      "publishedAt": "2026-09-09T21:27:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-intelligence-liquid-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、Apple Intelligenceの利用制限と条件に関する詳細を公開",
-      "summaryJa": "AppleはApple Intelligenceの利用規約や制限事項について解説する新しいサポート文書を公開しました。サーバー側のモデルに依存するSiri AIや画像生成ツールなどの機能において、将来的に利用制限が課される可能性があるとしています。制限を超えた場合は一定期間機能が利用できなくなりますが、iCloud+のプラン等を通じて追加のアクセスが提供される予定です。"
-    },
-    {
-      "id": "e88ba46213bfc09d0608",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Three All-New 'Audio Intelligence' Features Arrive With Apple Watch Series 12 and Ultra 4",
-      "url": "https://www.macrumors.com/2026/09/09/audio-intelligence-features/",
-      "publishedAt": "2026-09-09T21:23:29.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch向けの新機能「オーディオインテリジェンス」が登場",
-      "summaryJa": "Appleは、Apple Watch Series 12およびApple Watch Ultra 4向けに、Apple Intelligenceを活用した新機能群「オーディオインテリジェンス」を発表しました。会話の内容を要約する「Siri Recap」や、直前の発話を文字起こしして振り返る「Live Rewind」などが搭載されます。音声データは本体内で処理されて即座に削除されるため、プライバシーにも配慮された設計となっています。"
-    },
-    {
-      "id": "adaa6366b72057e074a2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Duo Only Works With the $79 USB-C Apple Pencil, Not the Apple Pencil Pro",
-      "url": "https://www.macrumors.com/2026/09/09/apple-pencil-usb-c-iphone-duo/",
-      "publishedAt": "2026-09-09T21:15:32.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2023/10/Apple-Pencil-USB-C-sliding-cap-feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone DuoはApple Pencil Pro非対応、USB-Cモデルのみ利用可能か",
-      "summaryJa": "新登場のiPhone DuoはApple Pencilに対応するものの、磁気充電機能がない構造上の理由から、Apple Pencil Proではなく79ドルのUSB-Cモデルのみをサポートすると報じられています。内側と外側の両方のディスプレイで利用でき、今年後半のソフトウェアアップデートで機能が追加される予定です。価格や機能の違いを考慮してアクセサリーを選ぶ必要があります。"
-    },
-    {
-      "id": "d134a3bf9e1fb03f1b02",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 and Ultra 4 Offer These Eight New Health and Fitness Features",
-      "url": "https://www.macrumors.com/2026/09/09/apple-watch-series-12-and-ultra-4-health-and-fitness/",
-      "publishedAt": "2026-09-09T21:07:27.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Watch-Series-12-2up-260909-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Series 12とUltra 4、8つの新しい健康管理機能が登場",
-      "summaryJa": "Appleは、Apple Watch Series 12およびUltra 4に向けた新しいヘルスケア機能とフィットネス機能を多数発表しました。電極の表面積を拡大した新センサーシステムや、心拍数を5秒ごとに計測する連続心拍数センシングなどを搭載しています。また、歩数トラッキングの精度向上やワークアウト時のバッテリー持ち時間も大幅に強化されました。"
-    },
-    {
-      "id": "0bfd5c5773ce24c17a70",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Max vs iPhone 18 Pro: Two exclusive features",
-      "url": "https://9to5mac.com/2026/09/09/iphone-18-pro-max-vs-iphone-18-pro-two-exclusive-features/",
-      "publishedAt": "2026-09-09T21:02:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-official.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 ProとPro Maxのモデル別に見る2つの独占的な違い",
-      "summaryJa": "Appleが発表した最新のフラグシップモデルであるiPhone 18 ProとPro Maxには、それぞれ異なる独占的機能が搭載されています。Proモデルには独自設計の次世代「C2モデム」が採用されている一方、Pro Maxモデルはビデオ再生時間が大幅に延びるなど優れたバッテリー性能を実現しています。ユーザーは自身の利用スタイルに応じて選択することになります。"
-    },
-    {
-      "id": "2c1640b0de7338d8c335",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Duo Doesn't Have an Action Button",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-doesnt-have-an-action-button/",
-      "publishedAt": "2026-09-09T21:02:02.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-no-action-button.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone Duoにはアクションボタン非搭載、Touch IDを側面ボタンに採用か",
-      "summaryJa": "技術仕様の図解から、iPhone Duoには近年のiPhoneに採用されてきたアクションボタンが搭載されていないことが明らかになりました。代わりに音量ボタン、カメラコントロール、側面にTouch IDを内蔵したサイドボタンなどが配置されています。物理的なミュートスイッチも存在せず、消音モードはコントロールセンターから操作する必要があります。"
     }
   ],
-  "updatedAt": "2026-09-16T22:11:07.344Z",
+  "updatedAt": "2026-09-17T00:34:01.368Z",
   "initialized": true,
   "summaryVersion": 4
 }
