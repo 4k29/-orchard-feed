@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "4bba52759ddc35ad5939",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27: Siri AI top features – Apple’s assistant finally comes to life [Video]",
+      "url": "https://9to5mac.com/2026/09/17/macos-27-golden-gate-siri-ai-top-features-apples-assistant-finally-comes-to-life-video/",
+      "publishedAt": "2026-09-17T18:45:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-macos-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "macOS 27ベータ版で大幅に進化を遂げたSiri",
+      "summaryJa": "今週リリースされたmacOS 27のベータ版において、SiriがSpotlight検索と深く統合され、Mac上で大きく進化しました。個人のコンテキストを考慮しながらプライバシーを重視した設計となっており、従来のメニューバーやショートカットから脱却し、より自然で実用的なアシスタントとして生まれ変わっています。"
+    },
+    {
+      "id": "091bdc73c3f7db19446c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Photographer Austin Mann reviews the iPhone 18 Pro camera",
+      "url": "https://9to5mac.com/2026/09/17/photographer-austin-mann-reviews-the-iphone-18-pro-camera/",
+      "publishedAt": "2026-09-17T18:37:25.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/austin-mann-iphone-18-pro-video.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "写真家のオースティン・マンが語るiPhone 18 Proカメラの実力",
+      "summaryJa": "著名な写真家のオースティン・マンが、iPhone 18 ProおよびPro Maxのカメラ機能についての詳細なレビューを公開しました。新搭載された可変絞り機能や手動フォーカスといったPro向けの新しいコントロールについて、実際の作例を交えながら使い心地や撮影のコツを詳しく解説しています。"
+    },
+    {
+      "id": "b9fed43f2ff449c56dfe",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Unboxing: New Colors, Better Photos, and Smaller Dynamic Island",
+      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-unboxing/",
+      "publishedAt": "2026-09-17T18:34:51.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "発売を控えたiPhone 18 Proの速報レビューと新要素",
+      "summaryJa": "発売を前にしてiPhone 18 Proの実機レビューが公開され、新色「グリシア」の美しい色合いや、ガラスとフレームが統一された外観デザインが紹介されています。内部には2nmプロセスのA20 Proチップや大型化したベイパーチャンバー冷却システムが搭載され、長時間の利用でも快適な動作を実現しています。"
+    },
+    {
+      "id": "9ea7e8e2e3ef9df195c6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Increases Battery Replacement Fee for iPhone 18 Pro and Pro Max",
+      "url": "https://www.macrumors.com/2026/09/17/apple-higher-iphone-18-pro-battery-fee/",
+      "publishedAt": "2026-09-17T18:25:32.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhone 18 Proのバッテリー交換費用を値上げ",
+      "summaryJa": "Appleの公式サイトによると、米国におけるiPhone 18 ProおよびPro Maxの保証対象外バッテリー交換費用が、これまでの119ドルから129ドルへと10ドル値上げされました。これは新モデルに搭載された大型バッテリーに伴うもので、AppleCare+加入者の場合は、バッテリー容量が80%未満に低下した際に無償で交換が可能です。"
+    },
+    {
+      "id": "672974478ef36f8957f1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here are 100+ things Siri AI can do on your iPhone",
+      "url": "https://9to5mac.com/2026/09/17/here-are-100-things-siri-ai-can-do-on-your-iphone/",
+      "publishedAt": "2026-09-17T17:49:13.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新Siri AIの実力を125個のプロンプトで徹底検証",
+      "summaryJa": "iOSで導入された新しいSiri AIを125個の依頼でテストした結果が公開されました。メールやメッセージからの情報抽出や、文脈を理解した複雑な質問にも高い成功率で応えることが確認されています。長年限られた用途にしか使われていなかったSiriの大きな進化を示すものとして注目されています。"
+    },
+    {
+      "id": "feee65e2a0c495509731",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Overtime 082: Origins of the Apple Store w/ special guest Ron Johnson",
+      "url": "https://9to5mac.com/2026/09/17/9to5mac-overtime-082-origins-of-the-apple-store-w-special-guest-ron-johnson/",
+      "publishedAt": "2026-09-17T17:10:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/9to5Mac-Overtime-082-Origins-of-the-Apple-Store-w-special-guest-Ron-Johnson.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Storeの初期を語る元小売担当役員",
+      "summaryJa": "ポッドキャスト番組に元Apple小売担当上級副社長のロン・ジョンソン氏が出演し、新刊の話題やApple Storeの創設期について語りました。スティーブ・ジョブズ氏との協業の思い出や初代iPhoneの発売当時を振り返りつつ、現在のAppleの店舗展開やエコシステムについての独自の視点も披露しています。"
+    },
+    {
+      "id": "3f10412d2cd69f0f2808",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 15 Pro vs. iPhone 18 Pro Buyer's Guide: Should You Upgrade?",
+      "url": "https://www.macrumors.com/guide/iphone-15-pro-vs-18-pro/",
+      "publishedAt": "2026-09-17T16:28:13.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-15-pro-vs-iphone-18-pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 15 Proから18 Proへの移行ガイド",
+      "summaryJa": "発表されたばかりのiPhone 18 Proシリーズと、3年前に発売されたiPhone 15 Proシリーズの比較が行われています。ディスプレイの大型化や新しいデザイン、カメラ性能の向上、バッテリー駆動時間の延長など、3世代分の確実な進化による違いが解説されています。"
+    },
+    {
+      "id": "eeb3010146a02c1f7b0a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV just dropped trailers for two upcoming premieres",
+      "url": "https://9to5mac.com/2026/09/17/apple-tv-just-dropped-trailers-for-two-upcoming-premieres/",
+      "publishedAt": "2026-09-17T16:21:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-tv-fall-mountains.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、新作ドキュメンタリーと映画の予告編を公開",
+      "summaryJa": "Apple TVで配信予定の注目作の予告編が新たに公開されました。ミシュランの星を目指すレストランを追うドキュメンタリー番組のシーズン2や、秋に劇場公開を控える注目映画の映像が披露され、今後のラインナップを盛り上げています。"
+    },
+    {
+      "id": "cf2ab7d3dafb7d863ac4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "50 New macOS Golden Gate Features and Changes Worth Checking Out",
+      "url": "https://www.macrumors.com/2026/09/17/new-features-changes-macos-27/",
+      "publishedAt": "2026-09-17T16:18:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/50-New-macOS-Golden-Gate-Features-and-Changes-Worth-Checking-Out-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "macOS Golden Gateの新機能や変更点から注目の50選",
+      "summaryJa": "Appleが今週リリースしたmacOS 27 Golden Gateには、パフォーマンスの改善やバグ修正に加え、多くの新機能や変更が含まれています。刷新されたSiri AIや新しい検索バー、Liquid Glassの透明度調整スライダー、Safariのスタートページにおける閲覧トピックの再開機能などが搭載されました。Siri AIの機能は初期段階では英語のベータ版として提供され、言語や地域によって利用可否が異なります。"
+    },
+    {
+      "id": "380ef9491f57f1ea2c59",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Max Test Shows Much Faster Charging From 0% to 100%",
+      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-max-charging-speed-test/",
+      "publishedAt": "2026-09-17T16:07:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Black-iPhone-18-Pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Pro Maxの検証で明らかに、充電速度が大幅に向上",
+      "summaryJa": "Appleが前モデルより高速なUSB-C充電に対応したと謳うiPhone 18 Proシリーズについて、YouTubeチャンネルの検証動画から詳細な充電時間が判明しました。iPhone 18 Pro Maxは対応充電器を使用することで、0%から100%までのフル充電をわずか55分で完了させることが確認されています。これは前世代モデルと比べて26分短縮されており、最初の12分間には最大52Wのピーク充電速度に達しました。"
+    },
+    {
+      "id": "c2d675c697669911077d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 17, 2026 – iOS 27.2 beta testing, more",
+      "url": "https://9to5mac.com/2026/09/17/daily-september-17-2026/",
+      "publishedAt": "2026-09-17T15:50:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "9to5Mac Daily：iOS 27.2ベータテストや注目の最新ニュース",
+      "summaryJa": "ポッドキャスト番組9to5Mac Dailyの最新エピソードでは、Appleの動向に関する重要なニュースが取り上げられています。AppleがM8 Ultraチップを搭載したAIサーバーの販売を計画しているという報道や、iOS 27.2の開発者向けベータ第1版のリリースに関する話題が紹介されました。また、ヘルスケアアプリの大幅な刷新を含む最新のベータ版における新機能についても詳しく触れられています。"
+    },
+    {
+      "id": "8d91834373e816883153",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Makes the Starting Lineup for Apple TV's Dodgers vs. Giants Broadcast",
+      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-dodgers-vs-giants-broadcast/",
+      "publishedAt": "2026-09-17T15:43:28.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Burgundy.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple TVのMLB中継で新型iPhone 18 Proが撮影カメラに採用",
+      "summaryJa": "Apple TVで配信されるドジャース対ジャイアンツの試合中継において、新型のiPhone 18 Proが公式の撮影機材として活用されることになりました。球場内には1ダース以上のiPhone 18 Proが設置され、従来の放送用カメラでは捉えるのが難しいユニークな視点からライブ映像を撮影します。Appleは昨年の試合中継でもiPhoneを活用しており、臨場感あふれるアングルの映像が期待されています。"
+    },
+    {
       "id": "a7512d5b6622d4349cdf",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4327,189 +4507,9 @@
       ],
       "titleJa": "iPhone Duoのメインカメラ仕様を分析",
       "summaryJa": "新登場したiPhone Duoのメインカメラ仕様は、iPhone 17eや標準モデルのiPhone 17の特徴を部分的に受け継いでいると報じられています。センサーなどの仕様から、両機種の間口に位置するカメラ性能を備えている可能性が指摘されています。"
-    },
-    {
-      "id": "6ca91af0a8d6dcab29b1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Ultra 4 and Series 12 have surprise upgrade that wasn’t announced",
-      "url": "https://9to5mac.com/2026/09/10/apple-watch-ultra-4-and-series-12-have-surprise-upgrade-that-wasnt-announced/",
-      "publishedAt": "2026-09-10T13:54:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-ultra-4-brown.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watchの新型に隠されたRAM倍増の秘密",
-      "summaryJa": "新たに発表されたApple Watch Series 12とApple Watch Ultra 4には、Appleが公表していなかった驚きのアップグレードが含まれていることが判明しました。開発者向けツールから、前モデルの2倍となる4GBのRAMを搭載していることが確認されています。"
-    },
-    {
-      "id": "6aa24b8b42c25e905d4e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Snap adds social event planning feature with Snapchat Plans",
-      "url": "https://9to5mac.com/2026/09/10/snap-adds-social-event-planning-feature-with-snapchat-plans/",
-      "publishedAt": "2026-09-10T13:52:59.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/snapchat-plans.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "スナップチャットがリアルでのイベント計画機能を追加",
-      "summaryJa": "Snapは、対面での集まりを促進する新しいモバイルアプリ機能「Snapchat Plans」の提供を開始しました。友達同士で招待の送受信や日時の管理をアプリ内で簡単に行えるようになり、プライベートなイベント作成が可能になります。"
-    },
-    {
-      "id": "8ed814c80f3e97611101",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "The Duo is drool-worthy, but the iPhone 18 Pro camera features win for me",
-      "url": "https://9to5mac.com/2026/09/10/the-duo-is-drool-worthy-but-the-iphone-18-pro-camera-features-win-for-me/",
-      "publishedAt": "2026-09-10T13:21:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/The-Duo-is-drool-worthy-but-the-iPhone-18-Pro-camera-features-win-for-me.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの進化点と新カメラ機能の魅力",
-      "summaryJa": "発表された新型iPhoneの中でも、iPhone 18 Proモデルは新たなカメラ機能などの魅力的なアップデートが施されています。特に可変絞りの導入や手動制御の可能性が注目を集めており、ハードウェアとコンピュテーショナルフォトグラフィーを組み合わせた撮影性能の向上が期待されています。"
-    },
-    {
-      "id": "ae4c3f6b83fc3acfec39",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "watchOS 27: Here are Apple’s full release notes for new update",
-      "url": "https://9to5mac.com/2026/09/10/watchos-27-here-are-apples-full-release-notes-for-new-update/",
-      "publishedAt": "2026-09-10T13:20:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/watchos-27-watch-face-red.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、watchOS 27の正式リリースノートを公開",
-      "summaryJa": "来週に配信が開始されるApple Watch向けの大型アップデート、watchOS 27の公式リリースノートが公開されました。AI機能が強化された新しいSiriや、ワークアウトのモチベーションを高める新機能、電話アプリでの文脈理解などが追加されます。"
-    },
-    {
-      "id": "dbf42fc67bf82ebcf6d9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 17 Pro vs. iPhone 18 Pro: 35+ Upgrades Compared",
-      "url": "https://www.macrumors.com/guide/iphone-17-pro-vs-18-pro/",
-      "publishedAt": "2026-09-10T13:18:06.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-17-Pro-vs-18-Pro-Buyers-Guide-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proと前世代のiPhone 17 Proの比較",
-      "summaryJa": "Appleが発表したiPhone 18 ProおよびPro Maxは、前世代のiPhone 17 Proから多数の変更点があります。A20 Proチップや可変絞り対応の4,800万画素Fusionメインカメラを搭載し、内部のパフォーマンスやバッテリー駆動時間が大きく向上しています。"
-    },
-    {
-      "id": "e1681f6c20390ab08aef",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 and Apple Watch Ultra 4 Have Increased RAM Without Price Increase",
-      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-ultra-4-increased-ram/",
-      "publishedAt": "2026-09-10T13:15:51.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-s12-ultra-4.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch新モデルは価格据え置きでRAMが倍増",
-      "summaryJa": "Apple Watch Series 12とApple Watch Ultra 4では、前世代からRAMが4GBへと倍増していることが確認されました。メモリチップが不足する中でも価格は据え置きとなっており、新しいS11チップと組み合わせてApple Intelligence機能などを快適に動作させます。"
-    },
-    {
-      "id": "b81aa79b8a5592e423ef",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Considering Ads Inside Visual Intelligence, Code Suggests",
-      "url": "https://www.macrumors.com/2026/09/10/apple-considering-ads-inside-visual-intelligence/",
-      "publishedAt": "2026-09-10T12:55:58.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/06/ios-26-visual-intelligence-ask.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Visual Intelligenceで検索プロバイダによる広告表示を検討か",
-      "summaryJa": "iOSのコードから、Appleが「Visual Intelligence」機能において検索プロバイダによるスポンサー広告の表示を検討している可能性が浮上しました。AmazonやGoogleのような形式で、提携先が検索結果に商品画像などを挿入できるようにする仕組みと伝えられています。Apple自身が広告枠を販売するのではなく、サードパーティの検索プロバイダに委ねる形になるとみられています。"
-    },
-    {
-      "id": "dfb41f86557908433e60",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 RC Adds Long-Rumored Camera App Controls Customization",
-      "url": "https://www.macrumors.com/2026/09/10/ios-27-rc-camera-app-customization/",
-      "publishedAt": "2026-09-10T12:45:50.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/add-photo-controls-camera-app.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27、カメラアプリのコントロールカスタマイズ機能を追加か",
-      "summaryJa": "開発者向けにリリースされたiOS 27のRC版において、カメラアプリのコントロールをカスタマイズする機能が追加されたと報じられています。UIの右下にあるボタンから編集モードに入り、フラッシュやタイマーなどのウィジェット風コントロールを追加・削除できるようになります。この機能はすべての対応iPhoneモデルで利用可能になるとみられています。"
-    },
-    {
-      "id": "000e3eedfcc35611082c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Details How iOS 27 Adapts to iPhone Duo's Displays",
-      "url": "https://www.macrumors.com/2026/09/10/apple-details-how-ios-27-adapts-to-iphone-duo/",
-      "publishedAt": "2026-09-10T12:10:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-split-keyboard.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、折りたたみiPhone向けに最適化されたiOS 27の仕組みを解説",
-      "summaryJa": "Apple初となる折りたたみiPhone向けに、リアルタイムで画面形状に適応するよう再構築されたiOS 27の詳細が明らかになりました。デバイスの開閉や角度の変化に応じて、ロック画面やドック、ナビゲーション要素が側面に移動し、縦方向の表示スペースを広く確保します。また、iPhone初となるSplit Viewによるサイドバイサイドのマルチタスクもサポートされます。"
-    },
-    {
-      "id": "efc6c6ed8c65be87bebe",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "The iPhone Duo is Apple at its absolute best (and a little bit at its worst)",
-      "url": "https://9to5mac.com/2026/09/10/the-iphone-duo-is-apple-at-its-absolute-best-and-a-little-bit-at-its-worst/",
-      "publishedAt": "2026-09-10T11:34:14.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/The-iPhone-Duo-is-Apple-at-its-absolute-best.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの折りたたみ式iPhone「iPhone Duo」の魅力",
-      "summaryJa": "サムスンに遅れをとったAppleが満を持して投入した折りたたみ式iPhone「iPhone Duo」の詳細が明らかになりました。折り目の目立たないディスプレイや独自のヒンジ設計など、細部までこだわり抜いたデザインを採用しています。ソフトウェアも折りたたみフォームファクターの利点を最大限に活かすよう最適化されており、優れた使い心地を提供します。"
-    },
-    {
-      "id": "0855b35cb8e0dbd74ff1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro and Pro Max Benchmarks Reveal Speed of A20 Pro Chip",
-      "url": "https://www.macrumors.com/2026/09/10/iphone-18-pro-max-benchmarks-reveal-a20-pro-speed/",
-      "publishedAt": "2026-09-10T11:06:15.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 ProのA20 Proチップ性能が判明か",
-      "summaryJa": "Geekbenchのデータベースに登場した初期のベンチマーク結果から、iPhone 18 Proシリーズに搭載されるA20 Proチップの性能が明らかになりました。A19 Proと比較して、シングルコアが約21〜23%、マルチコアが約27〜28%向上していると伝えられています。さらに、2ナノメートルプロセスで製造された新しいGPUや冷却機構により、グラフィックス性能や持続的なパフォーマンスも大きく向上する見込みです。"
-    },
-    {
-      "id": "7113d8d5dd16db6bcca7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "How to fast charge iPhone 18 Pro",
-      "url": "https://9to5mac.com/2026/09/10/how-to-fast-charge-iphone-18-pro/",
-      "publishedAt": "2026-09-10T10:36:47.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-lineup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの急速充電を利用する方法",
-      "summaryJa": "新モデルのiPhone 18 Proでは、バッテリー駆動時間の向上に加え、有線での急速充電機能もさらに強化されています。最大出力のダイナミック40W電源アダプタとUSB-Cケーブルを組み合わせることで、従来よりも約33%高速な充電が可能になります。これにより、わずか約15分でバッテリーを0%から50%まで充電でき、短時間の充電で長時間の動画再生が楽しめます。"
     }
   ],
-  "updatedAt": "2026-09-17T15:01:27.653Z",
+  "updatedAt": "2026-09-17T18:58:10.194Z",
   "initialized": true,
   "summaryVersion": 4
 }
