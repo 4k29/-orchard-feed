@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "36818d564c6fdfe385ea",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "PSA: watchOS 27 Removes This Useful Feature From Your Apple Watch",
+      "url": "https://www.macrumors.com/2026/09/17/watchos-27-removes-useful-apple-watch-feature/",
+      "publishedAt": "2026-09-17T08:34:26.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-ultra-4-live-rewind.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "watchOS 27でデジタルクラウンのダブルクリック機能が変更か",
+      "summaryJa": "watchOS 27のアップデートに伴い、Apple Watchでアプリ間を素早く切り替えていたデジタルクラウンのダブルクリック機能が利用できなくなると報じられています。新機能のライブリワインドに割り当てられるためですが、対応ハードウェアを持たない旧モデルのユーザーも含めて動作が変更され、動的なアプリグリッドが表示される仕様になります。これにより、従来の便利なマルチタスキング操作が制限されることになります。"
+    },
+    {
       "id": "85c77eacbea274429688",
       "source": "Apple Newsroom 日本",
       "sourceId": "apple-newsroom-jp",
@@ -4493,25 +4508,9 @@
       ],
       "titleJa": "Apple、初の折りたたみ「iPhone Duo」向け開発者リソースを公開",
       "summaryJa": "Appleは初の折りたたみ式iPhoneとなる「iPhone Duo」の発表に伴い、アプリ開発に向けた新たなリソースの提供を開始しました。開発者向けセッションやグループラボ、専用のドキュメントや動画を通じて、マルチディスプレイ対応やカメラ機能の最適化などをサポートします。10月の発売に向けて、開発環境の準備が進められています。"
-    },
-    {
-      "id": "075ce58386fd5ab3232f",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Get ready for iPhone Duo",
-      "url": "https://developer.apple.com/news/?id=vn8abkxx",
-      "publishedAt": "2026-09-09T23:05:23.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/1E836BD5-C933-4BC4-98D2-0ABF4777C9BA/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple、「iPhone Duo」に向けた開発者リソースの提供を開始",
-      "summaryJa": "Appleは開発者に向けて、「iPhone Duo」の発売に向けた準備を呼びかけています。新たな解説動画の公開に加え、グループラボへの参加登録やデベロッパフォーラムでのQ&Aセッションが案内されており、折りたたみ端末への対応を進めることができます。"
     }
   ],
-  "updatedAt": "2026-09-17T05:19:37.275Z",
+  "updatedAt": "2026-09-17T10:09:49.265Z",
   "initialized": true,
   "summaryVersion": 4
 }
