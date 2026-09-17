@@ -1,6 +1,52 @@
 {
   "articles": [
     {
+      "id": "85c77eacbea274429688",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "「ウィドウズ・ベイ」が初年度のコメディシリーズとして、エミー賞史上最多の受賞という快挙を達成",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
+      "publishedAt": "2026-09-17T03:25:17.298Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple TVのコメディシリーズ「ウィドウズ・ベイ」がエミー賞で最多受賞の快挙",
+      "summaryJa": "第78回プライムタイム・エミー賞において、Apple TVのコメディシリーズ「ウィドウズ・ベイ」が初年度作品として史上最多となる14の賞を獲得しました。Apple TV全体でも合計29の賞に輝き、全ネットワークで今年最多の受賞数を記録しています。優れたストーリーテラーたちとの取り組みが評価され、サービス開始から短期間での快挙達成となりました。"
+    },
+    {
+      "id": "bec7a006184a12ea946d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple rolls out first Release Candidates for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1",
+      "url": "https://9to5mac.com/2026/09/16/apple-rolls-out-first-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
+      "publishedAt": "2026-09-17T02:18:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/macOS-Tahoe.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOS Tahoe 26.7.1とmacOS Sequoia 15.8.1のRC版を公開",
+      "summaryJa": "Appleは、macOS Tahoe 26.7.1およびmacOS Sequoia 15.8.1の最初のリリース候補版（RC）を開発者向けに配信開始しました。今回のマイナーアップデートは重要なセキュリティ修正を提供するものであり、すべてのユーザーに推奨されています。ソフトウェア開発とバグ修正を加速させる取り組みの一環として実施されました。"
+    },
+    {
+      "id": "be1e922bdb9039cc94ad",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Photographer Tyler Stalman reviews the iPhone 18 Pro’s new camera with variable aperture",
+      "url": "https://9to5mac.com/2026/09/16/photographer-tyler-stalman-reviews-the-iphone-18-pros-new-camera-with-variable-aperture/",
+      "publishedAt": "2026-09-17T01:24:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/tyler-review.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの新しい可変絞りカメラを写真家がレビュー",
+      "summaryJa": "写真家のタイラー・ストールマン氏が、iPhone 18 Proに搭載された新しい可変絞りシステムや写真スタイルなどのカメラ機能をレビューしました。新たに採用されたf/1.48の明るい絞りにより多くの光を取り込めるようになり、暗所でのISO感度上昇やナイトモードの必要性を抑えられると評価されています。"
+    },
+    {
       "id": "5aba958929d26350f5f1",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -542,6 +588,21 @@
       ],
       "titleJa": "Apple、iOS 27の天気アプリで便利な2つの新機能を追加",
       "summaryJa": "Appleは、iOS 27の天気アプリに雨と風の予報を確認できる便利な2つの新機能を追加しました。従来の総合的な表示に加え、新しく追加された雨や風のアイコンをタップすることで、詳細な降水量や風速の予報へ簡単に切り替えることができます。これまでメニューの奥に隠れていた重要な気象情報が、ホーム画面からよりアクセスしやすくなりました。"
+    },
+    {
+      "id": "4407d1c815a4785c5103",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Here's Why a New Apple Watch Charging Puck Was Just Released",
+      "url": "https://www.macrumors.com/2026/09/16/new-apple-watch-charging-puck/",
+      "publishedAt": "2026-09-16T15:54:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Watch-New-Charging-Puck.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch向けに最大10W対応の新しい高速充電器が登場した理由",
+      "summaryJa": "Apple Watch Series 12とApple Watch Ultra 4の高速充電に対応するため、最大10Wの電力供給が可能な新しい磁気高速充電ケーブルが発売されました。従来の充電器は5Wに制限されていましたが、新しい充電器と対応モデルを組み合わせることで、わずか15分の充電で大幅なバッテリー駆動時間の追加が可能になります。"
     },
     {
       "id": "74105feff6a4a2d47f62",
@@ -4448,70 +4509,9 @@
       ],
       "titleJa": "Apple、「iPhone Duo」に向けた開発者リソースの提供を開始",
       "summaryJa": "Appleは開発者に向けて、「iPhone Duo」の発売に向けた準備を呼びかけています。新たな解説動画の公開に加え、グループラボへの参加登録やデベロッパフォーラムでのQ&Aセッションが案内されており、折りたたみ端末への対応を進めることができます。"
-    },
-    {
-      "id": "9e921afba6559e807dd1",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "App Store submissions now open for the latest OS releases",
-      "url": "https://developer.apple.com/news/?id=k1mtkt1k",
-      "publishedAt": "2026-09-09T23:00:38.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/C4D6D5E8-CA9E-47A5-8551-6384D0760DA3/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "次期OS各バージョンのApp Store申請受付が開始",
-      "summaryJa": "iOS 27をはじめとする次期OSの正式リリースを控え、Appleは各プラットフォーム向けアプリのApp Storeへの提出受付を開始しました。開発者は最新のXcodeリリース候補版を使い、Apple Intelligenceや新フレームワークを活用したアプリをテストおよび提出できます。また、macOS 27からはAppleシリコン搭載Mac専用となるため、インテルMac向けのサポート終了に向けた対応も必要となります。"
-    },
-    {
-      "id": "2cf9ac6c868538c86e04",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Duo Beats iPhone Air as Apple's Thinnest iPhone, But Only When Open",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-thinnest-iphone/",
-      "publishedAt": "2026-09-09T22:43:09.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-side.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみ「iPhone Duo」は展開時に歴代最薄を実現",
-      "summaryJa": "Appleが発表した初の折りたたみ式スマートフォン「iPhone Duo」は、展開時の厚さが5.2mmとなり、iPhone Airを抜いて同社で最も薄いiPhoneとなりました。本体重量は254グラムとこれまでで最も重いモデルとなり、内側に7.6インチ、外側に5.4インチのディスプレイを備えています。予約受付は10月16日に開始され、10月23日に発売される予定です。"
-    },
-    {
-      "id": "9f205625c310d567f6f0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Here's What Apple Says About the iPhone Duo's Crease",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-crease/",
-      "publishedAt": "2026-09-09T22:35:45.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-apps.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみiPhone「iPhone Duo」の画面折り目はどうなっているか",
-      "summaryJa": "折りたたみ型端末「iPhone Duo」の製品ページにおいて、Appleはディスプレイ中央の折り目について言及しています。完全な消失をうたうのではなく、独自のナノテクスチャ仕上げや特殊な接着剤、100以上の部品で構成されるヒンジによって、反射を抑えつつ折り目の視認性を最小限に抑えていると説明しています。本機は10月23日の発売を予定しており、大きな注目を集めています。"
-    },
-    {
-      "id": "2c46ccc3d2cb6aa5b8be",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 and Ultra 4 Get Wave of New Bands",
-      "url": "https://www.macrumors.com/2026/09/09/apple-watch-series-12-and-ultra-4-new-bands/",
-      "publishedAt": "2026-09-09T22:24:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12-modern-buckle.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Series 12およびUltra 4向けに多彩な新バンドが登場",
-      "summaryJa": "秋の新製品発表に合わせて、Apple Watch Series 12とApple Watch Ultra 4向けの交換バンドに新しいカラーや素材のラインナップが追加されました。スポーツバンドやスポーツループ、ミラネーゼループなどに新色が加わったほか、Ultra 4向けには半透明のオーシャンバンドなどが用意されています。それぞれのケースに合わせた洗練されたデザインが展開されます。"
     }
   ],
-  "updatedAt": "2026-09-17T00:34:01.368Z",
+  "updatedAt": "2026-09-17T05:19:37.275Z",
   "initialized": true,
   "summaryVersion": 4
 }
