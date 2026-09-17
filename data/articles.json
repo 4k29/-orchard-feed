@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "a7512d5b6622d4349cdf",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro will be used in this week’s Friday Night Baseball broadcast",
+      "url": "https://9to5mac.com/2026/09/17/iphone-18-pro-will-be-used-in-this-weeks-friday-night-baseball-broadcast/",
+      "publishedAt": "2026-09-17T14:46:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-rear-camera.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、今週のMLB中継でiPhone 18 Proを活用へ",
+      "summaryJa": "Appleは、今週開催される「Friday Night Baseball」のジャイアンツ対ドジャース戦において、発売されたばかりのiPhone 18 ProおよびPro Maxを活用すると発表しました。ドジャースタジアム内の様々な場所に14台の同デバイスが設置され、通常の放送カメラでは捉えられない独自の視点やライブ映像をリアルタイムで提供します。一部の映像伝送には専用のT-Mobile 5Gネットワークが使用される予定です。"
+    },
+    {
+      "id": "b532e990415cd86149b2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 and Ultra 4 Reviews: Look Out, Oura Ring",
+      "url": "https://www.macrumors.com/review/apple-watch-series-12-ultra-4/",
+      "publishedAt": "2026-09-17T14:23:37.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-s12-ultra-4.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 12とUltra 4の海外レビューが公開",
+      "summaryJa": "今週金曜日の発売を前に、Apple Watch Series 12およびApple Watch Ultra 4の初期レビューが公開されました。外観は前モデルとほぼ同じですが、より強力なS11チップの搭載によりSiriの動作が高速化されたほか、光学心拍センサーの精度向上や充電の高速化などが図られています。また、バッテリー持ちや新しい健康管理機能についても各メディアから高く評価されています。"
+    },
+    {
+      "id": "3d9e64ab6f5752160f89",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Amazon Drops 13-Inch M5 MacBook Air Prices by $150",
+      "url": "https://www.macrumors.com/2026/09/17/amazon-150-m5-macbook-air-2/",
+      "publishedAt": "2026-09-17T14:16:54.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macbook-air-prime-day-2.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazon、13インチM5 MacBook Airを150ドル値下げ",
+      "summaryJa": "Amazonは、13インチのM5 MacBook Airの2つのモデルを対象に、150ドルの値引きセールを実施しています。対象となっているのは16GB/1TBおよび24GB/1TBの構成で、夏の価格改定以降では最安値圏での販売となります。4色すべてのカラーが対象に含まれており、お得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "986b20d9336b4d825f79",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPadOS 27.2 adds convenient new feature from the Mac",
+      "url": "https://9to5mac.com/2026/09/17/ipados-27-2-adds-convenient-new-feature-from-the-mac/",
+      "publishedAt": "2026-09-17T14:12:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27-ipad-keyboard-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPadOS 27.2ベータ、Macから便利なSiriポップアップ機能を追加",
+      "summaryJa": "配信が開始されたiPadOS 27.2のベータ版において、Macの最新機能であるテキスト選択時のSiriポップアップが追加されました。トラックパッドを接続している場合、テキストを選択すると隅に小さなSiriアイコンが表示され、カーソルを合わせるだけで「Siriに質問」ボックスを簡単に呼び出すことができます。日常的な操作の生産性を高める便利な機能として注目されています。"
+    },
+    {
+      "id": "7755071d8f5ae6553e56",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s everything new for Messages in iOS 27",
+      "url": "https://9to5mac.com/2026/09/17/heres-everything-new-for-messages-in-ios-27/",
+      "publishedAt": "2026-09-17T13:46:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27におけるメッセージアプリの新機能まとめ",
+      "summaryJa": "iOS 27では、メッセージアプリに手書きメモやスケッチを送信できる「描画」機能が追加されます。また、AndroidユーザーとのRCSメッセージングにおいても、インライン返信やタップバックリアクションのサポートなど、多くの歓迎すべきアップグレードが含まれています。さらに、Apple Intelligenceを活用した「ワンタップ提案」により、文脈に応じたリマインダー作成などが容易になります。"
+    },
+    {
+      "id": "7d6e4d58d6e365560f5a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Addigy launches Intelligence Suite, giving IT teams control over how AI is used across their fleet",
+      "url": "https://9to5mac.com/2026/09/17/addigy-launches-intelligence-suite-giving-it-teams-control-over-how-ai-is-used-across-their-fleet/",
+      "publishedAt": "2026-09-17T13:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Addigy-1-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Addigy、IT管理者向けのAI管理スイートを発表",
+      "summaryJa": "Addigyは、企業や組織におけるAIツールの利用を管理・制御するための「Intelligence Suite」を発表しました。IT管理者はコンプライアンスを強化しつつ、承認されたAIツールを安全に展開できるようになります。スクリプトのアシスト機能や自然言語によるレポート作成など、管理業務を効率化する様々なツールがプラットフォームに直接統合されています。"
+    },
+    {
+      "id": "9d13fd864934a5f6bb73",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "A Woz merch store is the most surprising launch this month",
+      "url": "https://9to5mac.com/2026/09/17/a-woz-merch-store-is-the-most-surprising-launch-this-month/",
+      "publishedAt": "2026-09-17T12:49:33.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/A-Woz-merch-store-is-the-most-surprising-launch-this-month.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの共同創業者スティーブ・ウォズニアックが公式グッズストアを開設",
+      "summaryJa": "Appleの共同創業者であるスティーブ・ウォズニアックが、自身の公式グッズストアを新たにオープンしました。Tシャツやパーカー、マグカップなどの定番アイテムに加え、シャルドネのワインも販売されており、ファンを楽しませています。このストアはSNSを通じて発表され、早くも話題を集めています。"
+    },
+    {
+      "id": "aa52231934791f133034",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "General Motors continues CarPlay backtrack on two truck models",
+      "url": "https://9to5mac.com/2026/09/17/general-motors-continues-carplay-backtrack-on-two-truck-models/",
+      "publishedAt": "2026-09-17T12:12:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/General-Motors-adopts-CarPlay-compromise-on-two-truck-models.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "GM、一部のトラックモデルでCarPlay対応を一部復活へ",
+      "summaryJa": "米GMは、将来の電気自動車からCarPlayを廃止する方針を示していましたが、一部のトラックモデルにおいてCarPlayをサポートする方向へ舵を切っています。新しいインフォテインメントインターフェイスでは、画面の一部にCarPlayやAndroid Autoを表示する分割レイアウトが採用されます。ユーザーからの反発や、物理操作を重視する規制の動きが背景にあると見られています。"
+    },
+    {
+      "id": "b87a5263bc27b001d0b2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 and Ultra 4 review: More personal than ever before",
+      "url": "https://9to5mac.com/2026/09/17/apple-watch-series-12-and-ultra-4-review/",
+      "publishedAt": "2026-09-17T12:00:41.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ultra-4-2.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch Series 12およびUltra 4レビュー：内部進化を詳解",
+      "summaryJa": "新しいヘルスセンシングシステムを搭載し、長年の健康トラッキングにおける最大級の改良が施されたApple Watch Series 12とUltra 4のレビューが公開されました。外観デザインは従来モデルを踏襲しつつ、アルミニウムモデルの前面ガラスがCeramic Shield 2に変更されるなどの細かな改良が行われています。"
+    },
+    {
+      "id": "b7855852e1101155f965",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Some memory for Apple devices may be made in the US for the first time",
+      "url": "https://9to5mac.com/2026/09/17/some-memory-for-apple-devices-may-be-made-in-the-us-for-the-first-time/",
+      "publishedAt": "2026-09-17T11:37:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/ifixit-iphone-17-pro-teardown.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleのメモリチップ、米国製への切り替えを検討か",
+      "summaryJa": "Appleのメモリ供給企業であるSKハイニックスが、インテルが計画するオハイオ州の半導体工場を活用し、米国初となるApple向けメモリチップの国内生産について協議を行っていると報じられています。実現すれば、DRAMやNANDフラッシュメモリが米国本土で製造される可能性がありますが、韓国政府からの反対に直面する懸念も示されています。"
+    },
+    {
+      "id": "467723775dee19ff703e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Which iOS 27 CarPlay Features Actually Work in Your Car?",
+      "url": "https://www.macrumors.com/2026/09/17/which-ios-27-carplay-features-actually-work/",
+      "publishedAt": "2026-09-17T11:17:46.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/ios-27-carplay-liquid-glass.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27のCarPlayで利用可能になった新機能の数々",
+      "summaryJa": "iOS 27でCarPlayが大幅にアップデートされ、ホーム画面のウィジェット追加やオーディオのスクラブ機能など、長年で最大級の新機能が多数追加されました。自然言語によるマップ検索や新しい壁紙、カスタムウィジェットなどは対応する車両や環境によって利用できる機能が異なります。"
+    },
+    {
+      "id": "abee571f6392457bb352",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Tim Cook keeping John Ternus away from controversy by attending White House dinner",
+      "url": "https://9to5mac.com/2026/09/17/tim-cook-keeping-john-ternus-away-from-controversy-by-attending-white-house-dinner/",
+      "publishedAt": "2026-09-17T11:10:13.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/tim-cook-john-ternus.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ティム・クック、執行会長としてホワイトハウスの晩餐会に出席へ",
+      "summaryJa": "Appleの最高経営責任者を退いたティム・クックが、執行会長として政府関連の外交や政策立案者との折衝を引き続き担当していることが伝えられています。新CEOのジョン・ターナスを政治的論争から守る役割も担っており、来週予定されている米中首脳会談に伴うホワイトハウスの晩餐会に出席する見込みです。"
+    },
+    {
       "id": "36818d564c6fdfe385ea",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4327,190 +4507,9 @@
       ],
       "titleJa": "iPhone 18 Proの急速充電を利用する方法",
       "summaryJa": "新モデルのiPhone 18 Proでは、バッテリー駆動時間の向上に加え、有線での急速充電機能もさらに強化されています。最大出力のダイナミック40W電源アダプタとUSB-Cケーブルを組み合わせることで、従来よりも約33%高速な充電が可能になります。これにより、わずか約15分でバッテリーを0%から50%まで充電でき、短時間の充電で長時間の動画再生が楽しめます。"
-    },
-    {
-      "id": "930642f9c1fd2aa37b39",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 to Upgrade Apple TV Remote App in Two Ways",
-      "url": "https://www.macrumors.com/2026/09/10/hidden-ios-27-features-iphone-apple-tv-remote-app/",
-      "publishedAt": "2026-09-10T09:33:59.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Apple-TV-Remote-Icon.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27で刷新されるApple TV Remoteアプリ",
-      "summaryJa": "公開されたiOS 27のリリース候補版で、iPhoneの仮想Apple TV Remoteアプリのデザインが刷新され、2つの新しい機能が追加されることが分かりました。右上に追加された新しいボタンからApple TVのアプリメニューを素早く呼び出せるほか、仮想トラックパッドを上から下にスワイプしてトップシェルフのコンテンツを表示できるようになります。また、iOS 27からはリモコンアプリをホーム画面に追加することも可能になります。"
-    },
-    {
-      "id": "b611f71b641262b4f0b0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Touch ID Isn't the Only Way to Unlock an iPhone Duo",
-      "url": "https://www.macrumors.com/2026/09/10/apple-great-mac-feature-for-iphone-duo/",
-      "publishedAt": "2026-09-10T08:41:48.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone Duoの多彩なロック解除機能",
-      "summaryJa": "Appleの新しい折りたたみ式iPhoneであるiPhone DuoはFace IDを搭載していませんが、側面のボタンにTouch IDが統合されています。本体が開いていても閉じていても指紋認証を利用できるほか、Apple Watchを装着していれば自動でロックを解除することも可能です。予約注文は10月16日に開始され、10月23日に発売されます。"
-    },
-    {
-      "id": "c996fcf4c128d3368ee5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Announces macOS Golden Gate Release Date",
-      "url": "https://www.macrumors.com/2026/09/10/macos-27-golden-gate-release-date/",
-      "publishedAt": "2026-09-10T07:15:27.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、新OS「macOS Golden Gate」を9月14日にリリースへ",
-      "summaryJa": "Appleは、次期Mac向けOS「macOS Golden Gate」を含む各OSを9月14日に正式リリースすると発表しました。Siri AIやデザインの刷新、パフォーマンスの向上などが含まれています。なお、M1以降のApple Siliconを搭載したMacが対応し、Intel搭載Mac向けのメジャーアップデートは前世代のmacOS Tahoeが最後となります。"
-    },
-    {
-      "id": "69ae271973d70c123caf",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: September 9, 2026 – iPhone 18 Pro and iPhone Duo are here",
-      "url": "https://9to5mac.com/2026/09/09/september-9-2026-iphone-18-pro-and-iphone-duo-are-here/",
-      "publishedAt": "2026-09-10T05:37:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "9to5Mac Daily：iPhone 18 Proや折りたたみモデルが登場",
-      "summaryJa": "9to5Macのポッドキャスト番組が、9月の新製品イベントで発表されたiPhone 18 Proや折りたたみ式の新型モデルなどの主要な話題を振り返っています。番組内では、HomePodの新機能やAppleの最新買収案件、さらに折りたたみ端末に関する話題などが取り上げられています。"
-    },
-    {
-      "id": "5d8358b4c05faf1477bd",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Hands-On With the iPhone Duo: The Crease is Still There, But Barely",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-hands-on/",
-      "publishedAt": "2026-09-10T01:44:32.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみ端末「iPhone Duo」のディスプレイ実機レビュー",
-      "summaryJa": "Appleの新製品イベントで初披露された折りたたみ式の新型スマートフォン「iPhone Duo」のハンズオンインプレッションが報じられています。1999ドルからの価格設定となる本機は、内側にナノテクスチャーポリマーを採用することで画面中央の折り目を最小限に抑えており、洗練されたハードウェアと最適化されたソフトウェアが特徴となっています。"
-    },
-    {
-      "id": "233cefb915e0bae3d912",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Everything Apple Announced at the September 2026 Event",
-      "url": "https://www.macrumors.com/2026/09/09/apple-september-2026-event-recap/",
-      "publishedAt": "2026-09-10T01:25:29.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleが9月イベントでiPhone 18 Proや折りたたみモデルを発表",
-      "summaryJa": "Appleが開催したスペシャルイベント「Surprise and Shine」にて、iPhone 18 ProおよびPro Max、初の折りたたみ式iPhoneとなるiPhone Duo、新型Apple Watch、AirPods 5が正式発表されました。A20 Proチップや可変絞りカメラの搭載など、多岐にわたる新製品やその詳細なスペックが明らかにされています。"
-    },
-    {
-      "id": "812809e9a3a854409190",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Hands-on with the foldable iPhone Duo [Gallery]",
-      "url": "https://9to5mac.com/2026/09/09/hands-on-with-the-foldable-iphone-duo-gallery/",
-      "publishedAt": "2026-09-10T00:48:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-dup-11.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple初の折りたたみ式iPhone「iPhone Duo」が登場",
-      "summaryJa": "Appleは、初の折りたたみ式スマートフォンとなる「iPhone Duo」を発表しました。7.6インチのSuper Retina XDRインディスプレイと5.4インチのアウトディスプレイを搭載し、折り目を最小限に抑えるナノテクスチャマット仕上げを採用しています。価格は1,999ドルからで、10月16日より予約注文が開始されます。"
-    },
-    {
-      "id": "569e70a5109abcb6595f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Duo is Dust-Tight With IP68 Rating, Unlike Samsung's Galaxy Z Fold8",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-ip68-durability/",
-      "publishedAt": "2026-09-10T00:46:27.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-hero.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone DuoはIP68の防塵性能を搭載、Galaxy Z Fold8に対抗",
-      "summaryJa": "新発表された折りたたみ式のiPhone Duoは、IP68等級の防塵・防水性能を備えています。競合となるサムスンのGalaxy Z Fold8のIP48等級を上回り、ヒンジ部へのホコリの侵入を防ぐ「ダストタイト」仕様となっています。また、チタン製フレームや10層構造のディスプレイなど、耐久性を高める設計も採用されています。"
-    },
-    {
-      "id": "5a08752aa5f3c3ebcb24",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、iPhone 18 ProとiPhone 18 Pro Maxを発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "publishedAt": "2026-09-10T00:07:30.260Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、可変絞りとA20 Pro搭載の「iPhone 18 Pro」を発表",
-      "summaryJa": "Appleは、先進的なProカメラシステムや優れたパフォーマンスを誇る「iPhone 18 Pro」および「iPhone 18 Pro Max」を発表しました。新たに可変絞りに対応した48MP FusionメインカメラやA20 Proチップを搭載し、バッテリー駆動時間も大幅に向上しています。予約注文は9月12日から、発売は9月18日より開始されます。"
-    },
-    {
-      "id": "2c8e4b44fc0e3083a690",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27's 'iPhone Handoff' Feature Limited to T-Mobile and Deutsche Telekom at Launch",
-      "url": "https://www.macrumors.com/2026/09/09/ios-27-iphone-handoff-t-mobile/",
-      "publishedAt": "2026-09-09T23:49:39.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-iOS-27-Feature.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27の「iPhone Handoff」機能、初期は一部キャリア限定に",
-      "summaryJa": "iOS 27で導入される新しい「iPhone Handoff」機能は、1つの電話番号を2台のiPhoneで共有し、必要に応じて切り替えて使用できるようにする機能です。利用にはキャリアのサポートが必要ですが、提供開始時点では米国のT-MobileとドイツのDeutsche Telekomのみでの対応となります。自動で電話番号が切り替わり、Apple Payのカードなども原則として両方の端末で利用可能です。"
-    },
-    {
-      "id": "b4d8163178e9cd91f37f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Explains What's Inside the iPhone Duo's Folding Screen",
-      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-folding-screen-layers/",
-      "publishedAt": "2026-09-09T23:38:55.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-iphone-duo-display.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhone Duoの折りたたみ画面の構造を解説",
-      "summaryJa": "Appleは、新製品iPhone Duoに採用されている折りたたみディスプレイの複雑な多層構造について詳細を明らかにした。摩耗に耐えるカスタムポリマー製のナノテクスチャカバー層や高強度ガラス、チタンプレートなどを組み合わせて曲げストレスを軽減している。外側のディスプレイにはCeramic Shield 2が採用され、両画面ともにProMotionや常時表示に対応する。"
-    },
-    {
-      "id": "ae920528ca6b745888a1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple launches iPhone Duo developer resources ahead of October release",
-      "url": "https://9to5mac.com/2026/09/09/apple-launches-iphone-duo-developer-resources-ahead-of-october-release/",
-      "publishedAt": "2026-09-09T23:09:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/get-ready-iphone-duo.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、初の折りたたみ「iPhone Duo」向け開発者リソースを公開",
-      "summaryJa": "Appleは初の折りたたみ式iPhoneとなる「iPhone Duo」の発表に伴い、アプリ開発に向けた新たなリソースの提供を開始しました。開発者向けセッションやグループラボ、専用のドキュメントや動画を通じて、マルチディスプレイ対応やカメラ機能の最適化などをサポートします。10月の発売に向けて、開発環境の準備が進められています。"
     }
   ],
-  "updatedAt": "2026-09-17T10:09:49.265Z",
+  "updatedAt": "2026-09-17T15:01:27.653Z",
   "initialized": true,
   "summaryVersion": 4
 }
