@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "f46562920a16c85315f7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo videos reveal split keyboard, app multitasking, more",
+      "url": "https://9to5mac.com/2026/09/18/iphone-duo-videos-reveal-split-keyboard-app-multitasking-more/",
+      "publishedAt": "2026-09-18T13:51:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-official-front.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone Duoの実機動画が公開、操作性をチェック",
+      "summaryJa": "10月の発売を控えるiPhone Duoについて、ソフトウェアキーボードやアプリのマルチタスク機能などを紹介するハンズオン動画がオンラインで複数公開されました。外側のディスプレイでの片手入力や、折りたたみ画面を横向きにした際の分割キーボードUIなどが実際に試されています。初期のテスターの間では、予想以上に文字入力がしやすく独自のカメラ機能も好評を得ていると伝えられています。"
+    },
+    {
+      "id": "f0407d9e4ad2060a4b60",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Fan Site Lets You 'Design the Next iPhone'",
+      "url": "https://www.macrumors.com/2026/09/18/fan-site-lets-you-design-the-next-iphone/",
+      "publishedAt": "2026-09-18T13:02:14.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/design-the-next-iphone.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "好みの次世代iPhoneを自由にデザインできるファンサイト",
+      "summaryJa": "デベロッパーのNeal Agarwal氏が公開したインタラクティブなウェブサイトでは、仮想のiPhoneの外観を自由にカスタマイズして「次世代のiPhone」をデザインすることができます。3Dモデルの表面にカメラやボタンだけでなく、ヘッドホンジャックや回転ダイヤル、果てはステアリングホイールなどのパーツまで自由に配置可能です。完成したデザインはモックアップの製品プレゼンテーション風に演出され、動画としてダウンロードして楽しむこともできます。"
+    },
+    {
+      "id": "71aa2bca033ffe06273d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Stores Have a New 'Hello' Easter Egg, Here's Why",
+      "url": "https://www.macrumors.com/2026/09/18/apple-stores-have-new-hello-easter-egg/",
+      "publishedAt": "2026-09-18T12:42:21.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Store-Hello.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "世界のApple Storeに登場した「hello」の隠し要素",
+      "summaryJa": "世界各国のApple Storeの店内に、iPhoneのカメラのズーム機能をテストするための新しい「hello」の装飾が設置されました。本日発売されたiPhone 18 Proモデルなどが搭載する新しい光学ズーム性能を、店舗で実際に試してもらうための演出となっています。新モデルを手に入れたユーザーが、店頭で進化したカメラの倍率や写りを確認できる仕組みです。"
+    },
+    {
+      "id": "c0959efdc546926749cf",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro: The New Features You Should Try First",
+      "url": "https://www.macrumors.com/guide/iphone-18-pro-how-to-use-new-features/",
+      "publishedAt": "2026-09-18T12:11:44.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-16x9-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proが発売、最初に試したい新機能まとめ",
+      "summaryJa": "世界各国でiPhone 18 ProおよびiPhone 18 Pro Maxの販売が開始され、新モデルを手に入れたユーザー向けの解説記事が公開されています。可変絞りやホワイトバランスの調整、プロ向けコントロール機能など、新しくなったカメラ機能の使い方を詳しく確認できます。また、ダイナミックアイランドやアクションボタンの活用法に加え、最新OSで利用できる便利な新機能の数々が紹介されています。"
+    },
+    {
+      "id": "2cf77dc150ec2726240e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27: My favorite new iPhone features (other than AI)",
+      "url": "https://9to5mac.com/2026/09/18/ios-27-my-favorite-new-iphone-features-other-than-ai/",
+      "publishedAt": "2026-09-18T11:40:01.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27が提供開始、AI以外の注目すべき新機能",
+      "summaryJa": "今週リリースされたiOS 27には多くのApple IntelligenceやSiri関連の機能が含まれていますが、それ以外にも便利な機能が多数追加されています。ミュージックアプリの「オートミックス」のトランジション刷新、iCloud共有アルバムでのフル解像度共有、時計アプリのアラーム音量個別設定などが導入されました。さらに、新しい特大ホーム画面ウィジェットや、写真からビデオフレームを保存する機能なども利用できるようになります。"
+    },
+    {
+      "id": "135ef195a1adb3917b83",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro: Using the New Variable Aperture Lens",
+      "url": "https://www.macrumors.com/how-to/iphone-18-pro-using-variable-aperture/",
+      "publishedAt": "2026-09-18T09:00:02.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-iPhone-18-Pro-2up-16x9-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの新しい可変絞りレンズの使い方",
+      "summaryJa": "iPhone 18 ProおよびPro Maxモデルには、メインカメラに新しく4段階の可変絞りレンズが搭載されました。これにより、レンズに入る光の量を物理的に調整でき、暗所での撮影性能が約50％向上します。自動での調整だけでなく、カメラアプリから手動で絞り値を切り替えてスタイリッシュな表現を楽しむことも可能です。"
+    },
+    {
       "id": "c891e60c2d4239c0991c",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4418,99 +4508,9 @@
       ],
       "titleJa": "Apple TV、過酷なK2峰の冬期登頂を描くドキュメンタリーの予告編を公開",
       "summaryJa": "Apple TVは10月2日より、極限の登山業界と変わりゆく文化に迫るドキュメンタリー映画『The Last First: Winter K2』を配信開始します。サンダンス映画祭で選出され、高い評価を受けている本作の予告編が新たに公開されました。2021年にK2の冬期初登頂を目指した登山隊の挑戦を通じ、過酷な自然環境や人間ドラマをリアルに描き出します。"
-    },
-    {
-      "id": "d297fad192c6943de75c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Ceramic Series 12 is Pricier to Repair Than Apple Watch Ultra 4",
-      "url": "https://www.macrumors.com/2026/09/10/ceramic-series-12-repair-costs/",
-      "publishedAt": "2026-09-10T20:31:37.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/series-12-ceramic.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "セラミック製Apple Watch Series 12、Ultra 4よりも修理費用が高額に",
-      "summaryJa": "Apple Watch Series 12で復活したセラミックケースモデルは、AppleCare+未加入時の修理費用が非常に高価であることが分かりました。バッテリー交換以外のその他の損傷修理には599ドルがかかり、Apple Watch Ultra 4の549ドルを上回ります。加入している場合は手頃なサービス料で修理を受けられるほか、多彩なAppleCareプランも提供されています。"
-    },
-    {
-      "id": "19748aa9bf2e14b6e3b3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Report: iPhone Duo could give Apple a 25% share of foldable market in 2026",
-      "url": "https://9to5mac.com/2026/09/10/report-iphone-duo-could-give-apple-a-25-share-of-foldable-market-in-2026/",
-      "publishedAt": "2026-09-10T20:04:18.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-Duo-apps.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "折りたたみ市場でiPhone Duoが2026年に25%のシェアを獲得するか",
-      "summaryJa": "最新の調査レポートによると、新たに登場したiPhone Duoは2026年だけで世界の折りたたみスマートフォン市場の24.8%を占有すると予測されています。部品コストの高騰による市場全体の減速が予想される中、Appleは500万台の出荷を見込んでいます。薄型化を優先した設計や生体認証の選択などが、今後の市場に大きな影響を与えそうです。"
-    },
-    {
-      "id": "b40b3744f1fbfcceb717",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Mac's Edge Light Feature Rumored to Expand to iPhone",
-      "url": "https://www.macrumors.com/2026/09/10/mac-edge-light-feature-may-expand-to-iphone/",
-      "publishedAt": "2026-09-10T19:59:43.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/11/apple-edge-light-macos-tahoe-26-2.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Macの画面端を光らせる機能がiPhoneにも拡大か、コードから示唆",
-      "summaryJa": "macOSで導入された、画面の縁を光らせて顔を明るく照らす「Edge Light」機能が、iPhone向けにも開発されていると報じられています。iOSの最新リリース候補版のコードから、少なくともiPhone Duoで同機能が利用可能になることが示唆されました。色温度や明るさの調整機能を備えたバーチャルリングライトとして、低照度での撮影などで活躍することが期待されます。"
-    },
-    {
-      "id": "6813c709b375b3e54c94",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Rates iPhone 18 Pro Slightly Easier to Repair Than 17 Pro",
-      "url": "https://www.macrumors.com/2026/09/10/iphone-18-pro-eu-repair-rating/",
-      "publishedAt": "2026-09-10T19:49:41.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-17-Pro-vs-18-Pro-Buyers-Guide-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの修理しやすさがわずかに向上か",
-      "summaryJa": "EUのエネルギー規制に伴う製品情報シートから、iPhone 18 ProおよびPro Maxの修理しやすさのスコアが前モデルからわずかに上昇していることが判明しました。分解の深さやツールに関する項目で改善が見られますが、基本的な構造や部品供給などはほぼ同等とみられています。"
-    },
-    {
-      "id": "179980487b03df84d24f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Upgrading to Apple Watch Series 12 Could Cost You Hypertension Notifications",
-      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-hypertension-alerts/",
-      "publishedAt": "2026-09-10T19:33:27.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/watchos-26-hypertension-alert.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch新モデルへの移行で高血圧通知が一時利用停止に",
-      "summaryJa": "Apple Watch Series 12やUltra 4にアップグレードすると、規制認可の手続き中のため高血圧通知機能が一時的に利用できなくなる可能性があります。新型ウォッチのセンサー刷新に伴い、日本を含む複数の国や地域で追加の認可取得が必要となっているためです。"
-    },
-    {
-      "id": "8abfbc98046d7868b9bf",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple shares fun, 95-second recap of yesterday’s ‘Surprise and Shine’ event",
-      "url": "https://9to5mac.com/2026/09/10/apple-shares-fun-95-second-recap-of-yesterdays-surprise-and-shine-event/",
-      "publishedAt": "2026-09-10T19:31:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-event-recap.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、「Surprise and Shine」イベントの95秒ハイライト動画を公開",
-      "summaryJa": "Appleは新製品発表イベント「Surprise and Shine」の内容を約95秒に凝縮したダイジェスト動画をYouTubeで公開しました。iPhone 18 ProやApple Watch Series 12、AirPods 5、さらに折りたたみ式iPhoneのiPhone Duoなど、発表された主要製品がテンポよく紹介されています。"
     }
   ],
-  "updatedAt": "2026-09-18T09:37:28.980Z",
+  "updatedAt": "2026-09-18T13:52:28.221Z",
   "initialized": true,
   "summaryVersion": 4
 }
