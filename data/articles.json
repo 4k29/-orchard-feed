@@ -1,6 +1,187 @@
 {
   "articles": [
     {
+      "id": "87b5d4fd281a3278bb5c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
+      "url": "https://9to5mac.com/2026/09/18/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
+      "publishedAt": "2026-09-18T19:45:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27でAirPods Pro 3向けにカスタムEQやGymKit対応が追加",
+      "summaryJa": "iOS 27のアップデートにより、AirPodsシリーズに様々な新機能が追加されました。特にAirPods Pro 3向けには、低・中・高音域を自由に調整できるカスタムEQ機能や、AirPodsの心拍数センサーを使ってトレッドミルなどの機器と連携するGymKit機能が提供されています。"
+    },
+    {
+      "id": "0f03b58a824fdc031dca",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Max in U.S. Equipped With Qualcomm's Snapdragon X80 Modem",
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-us-qualcomm-x80/",
+      "publishedAt": "2026-09-18T19:41:16.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "米国版iPhone 18 Pro MaxにはQualcomm製モデムが搭載か",
+      "summaryJa": "TechInsightsによる分解調査から、米国向けのiPhone 18 Pro MaxにはQualcommのSnapdragon X80モデムが搭載されていることが判明しました。他の地域モデルや他のiPhone 18 ProシリーズではApple独自設計のC2モデムが採用されていますが、米国版のみ異なる仕様となっています。"
+    },
+    {
+      "id": "8f78b96fc54468e72c53",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Intelligence has 20+ brand new features in iOS 27, here’s the full list",
+      "url": "https://9to5mac.com/2026/09/18/apple-intelligence-has-20-brand-new-features-in-ios-27-heres-the-full-list/",
+      "publishedAt": "2026-09-18T18:56:01.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27で刷新されたApple Intelligenceの主な新機能",
+      "summaryJa": "iOS 27では次世代のApple Intelligenceを活用した多数の新機能が導入されました。LLM時代に合わせてゼロから再構築されたSiriをはじめ、写真やメッセージ、メールなどの標準アプリでもAIを活用した機能強化が図られています。"
+    },
+    {
+      "id": "ed0a27386ff815898fa0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "HomeKit Weekly: Homey’s new Device Updates feature shows what Matter was supposed to be all along",
+      "url": "https://9to5mac.com/2026/09/18/homeys-new-device-updates-feature-shows-what-matter-was-supposed-to-be-all-along/",
+      "publishedAt": "2026-09-18T18:33:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Homey-Pro-2026-—-Interior-5-2.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "スマートホーム共通規格Matterのファームウェア更新の課題",
+      "summaryJa": "スマートホーム機器のファームウェア更新における長年の課題について、Homeyが新しいデバイス更新機能を発表しました。メーカー製アプリを使わずにMatter対応デバイスなどを一括管理・アップデートできる仕組みは、Apple Homeなどのユーザーにとっても注目すべき取り組みとなっています。"
+    },
+    {
+      "id": "0b93609607432f033298",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases Xcode 27.1 Beta With iPhone Duo Support",
+      "url": "https://www.macrumors.com/2026/09/18/apple-releases-xcode-27-1-beta-iphone-duo-support/",
+      "publishedAt": "2026-09-18T18:06:21.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/02/macOS-26-Xcode.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhone Duoに対応したXcode 27.1 Betaを公開",
+      "summaryJa": "Appleは、新デバイス「iPhone Duo」のアプリ開発をサポートする「Xcode 27.1 Beta」を開発者向けにリリースしました。この最新版にはiPhone Duo向けの最新SDKが含まれており、シミュレーターを通じて新しいデバイスのポーズや向きをテストできるようになります。"
+    },
+    {
+      "id": "f73863300bf826fcf623",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 vs. Ultra 4 Buyer's Guide",
+      "url": "https://www.macrumors.com/guide/apple-watch-series-12-vs-ultra-4/",
+      "publishedAt": "2026-09-18T18:03:14.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12-vs-apple-watch-ultra-4.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 12とUltra 4の比較ガイド",
+      "summaryJa": "「Apple Watch Series 12」と「Apple Watch Ultra 4」は、新チップや高度な健康センサーなどの優れた機能を多数共有しています。価格差がある一方で、日常的な健康追跡機能の面では両モデルに大きな違いはなく、Ultra 4は耐久性やバッテリー持続時間、アウトドア機能に特化しています。"
+    },
+    {
+      "id": "16fbe06da0e026d2af7f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple VP of hardware talks iPhone Duo durability, crease, hinge, and more",
+      "url": "https://9to5mac.com/2026/09/18/apple-vp-of-hardware-talks-iphone-duo-durability-crease-hinge-and-more/",
+      "publishedAt": "2026-09-18T17:52:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-1.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple幹部がiPhone Duoの耐久性やヒンジについて語る",
+      "summaryJa": "Appleのハードウェアエンジニアリング担当副社長であるトム・マリーブ氏が、近日発売予定の「iPhone Duo」についてインタビューに答えました。耐久性やディスプレイの折り目、高級感のあるヒンジの仕組みなど、開発におけるこだわりや技術的な工夫について詳しく明かしています。"
+    },
+    {
+      "id": "51576bad6c4263e0689a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases Xcode 27.1 beta, enabling iPhone Duo app development",
+      "url": "https://9to5mac.com/2026/09/18/apple-releases-xcode-27-1-beta-enabling-iphone-duo-app-development/",
+      "publishedAt": "2026-09-18T17:50:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/xcode.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、折りたたみ式iPhone Duo向け開発のXcode 27.1 betaをリリース",
+      "summaryJa": "Appleは、10月の発売に向けて新形状の「iPhone Duo」に対応したアプリ開発を可能にする「Xcode 27.1 beta 1」を公開しました。開発者は専用シミュレーターを使ってアプリのレイアウトや動作を事前に確認し、最適化を進めることができます。"
+    },
+    {
+      "id": "2f8da4fbf6cc9eefd457",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "MacRumors Giveaway: Win an iPhone Duo From iMazing",
+      "url": "https://www.macrumors.com/2026/09/18/macrumors-giveaway-imazing-iphone-duo/",
+      "publishedAt": "2026-09-18T17:50:33.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/imazing-giveaway-iphone-duo.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "MacRumorsがiMazingとのコラボでプレゼント企画を実施",
+      "summaryJa": "MacRumorsは、iMazingとの提携によるプレゼント企画の実施を報じました。当選者にはiMazingのソフト本体に加え、iPhone Duoが提供されます。iMazingはiPhoneやiPadなどのデータ管理やバックアップを手軽に行えるMacおよびPC向けソフトウェアです。"
+    },
+    {
+      "id": "889f0423999d01d5bec8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Meta’s new Muse AI agent app overtakes ChatGPT as top iPhone app",
+      "url": "https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/",
+      "publishedAt": "2026-09-18T17:47:37.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Muse-by-Meta.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Metaの新しいAIアプリ「Muse」が米国App StoreでChatGPTを抜いて首位を獲得",
+      "summaryJa": "Metaが提供する新しいAIエージェントアプリ「Muse」が、米国のApp Store無料アプリランキングでChatGPTを抜いて1位を獲得したと伝えられています。今月リリースされた同アプリは、カジュアルなメッセージングインターフェースを採用したエージェント型ワークフローが特徴です。また、最近ではMac版の提供も開始されています。"
+    },
+    {
+      "id": "2c2d22b4e2fcc946fb67",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "'Shop Different': Apple Retail Pioneer Ron Johnson Shares the Inside Story",
+      "url": "https://www.macrumors.com/2026/09/18/shop-different-ron-johnson-apple-retail-book/",
+      "publishedAt": "2026-09-18T17:37:28.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/shop-different-ron-johnson.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "元Apple幹部のロン・ジョンソン氏が直営店誕生の舞台裏を明かす新刊を発売",
+      "summaryJa": "1999年にスティーブ・ジョブズと共にApple Storeの立ち上げを率いたロン・ジョンソン氏が、当時の裏話を明かす新刊「Shop Different」を発売すると報じられています。本書では、従来の店舗でのMacの販売方法に不満を抱いたジョブズが独自の直営店構想を描き、最初の店舗を成功させるまでの苦闘と軌跡が詳細に語られています。"
+    },
+    {
+      "id": "b48d554dac89e279253f",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Build for iPhone Duo with new resources",
+      "url": "https://developer.apple.com/news/?id=nyuppv9r",
+      "publishedAt": "2026-09-18T17:00:57.000Z",
+      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/DF24E0B0-3564-444A-B15A-344E3FDC834F/2048.jpeg",
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "Apple、iPhone Duo向けの開発リソースとXcodeベータ版を提供",
+      "summaryJa": "Appleは、iPhone Duoに向けたアプリ開発を支援する新たなリソースやXcode 27.1ベータ版を公開しました。FigmaやSketch向けのデザインキットがApple Design Resourcesからダウンロード可能になっています。開発者は世界各地で開催されるワークショップを通じて、アプリの最適化や各画面サイズに合わせたカスタマイズ手法を学ぶことができます。"
+    },
+    {
       "id": "2cc016da7ff2f0cb93d3",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4328,189 +4509,9 @@
       ],
       "titleJa": "AirPods 5やApple Watch最新モデルの早期割引セールが登場",
       "summaryJa": "新型の「AirPods 5」やApple Watchの最新シリーズの予約が開始され、一部の小売店では早くも割引や下取りを活用したキャンペーンが実施されています。AirPods Pro 3のセール販売も継続しているほか、AirTagの割引や各種周辺機器の特価情報もあわせて公開されており、新製品をお得に入手するチャンスとなっています。"
-    },
-    {
-      "id": "31081d3108161ac9fdf5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Duo is Missing These 10 iPhone 18 Pro Features",
-      "url": "https://www.macrumors.com/2026/09/11/iphone-duo-is-missing-these-features/",
-      "publishedAt": "2026-09-11T15:13:38.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-hero.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみ式iPhone Duoに欠けている10の機能",
-      "summaryJa": "初の折りたたみ式モデルとなるiPhone Duoはユニークな機能を持つ一方で、iPhone 18 Proシリーズに搭載されているいくつかの機能が非対応となっています。専用の望遠カメラやFace ID、LiDARスキャナなどが省略されており、発売時期も異なっています。"
-    },
-    {
-      "id": "9a79254b80b343593b35",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Ultra 4 vs Ultra 3: Here’s everything new",
-      "url": "https://9to5mac.com/2026/09/11/apple-watch-ultra-4-vs-ultra-3-heres-everything-new/",
-      "publishedAt": "2026-09-11T14:22:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-ultra-4-fi-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Ultra 4とUltra 3の変更点と進化まとめ",
-      "summaryJa": "Apple Watch Ultra 4は前モデルと同じ外観ながら、新開発のS11チップや4GBへの倍増したメモリ、強力な新ヘルスセンサーを搭載しています。心拍数や心拍変動の計測機能が強化され、より詳細な健康管理やフィットネスデータの取得が可能になりました。"
-    },
-    {
-      "id": "678301433c6f30f090a9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Microsoft Copilot joins CarPlay, leaving Gemini as the biggest holdout",
-      "url": "https://9to5mac.com/2026/09/11/microsoft-copilot-joins-carplay-leaving-gemini-as-the-biggest-holdout/",
-      "publishedAt": "2026-09-11T14:16:54.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/CarPlay-AI-apps.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Microsoft CopilotがCarplayに対応へ",
-      "summaryJa": "Apple CarPlayの対応アプリにMicrosoft Copilotが新たに追加されました。ChatGPTやClaudeなどに続く形で対応が進む一方、Google Geminiは主要なAIアシスタントの中で唯一未対応となっています。"
-    },
-    {
-      "id": "d2ed77fdc1c0ec49ad68",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: September 11, 2026 – More on Apple Intelligence, iPhone Duo",
-      "url": "https://9to5mac.com/2026/09/11/daily-september-11-2026/",
-      "publishedAt": "2026-09-11T13:59:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Intelligenceの利用制限や折りたたみ式iPhoneの話題",
-      "summaryJa": "Apple Intelligenceの利用制限に関する詳細や、2026年に登場が期待される折りたたみ式iPhoneに関する情報が伝えられています。ポッドキャスト番組の9to5Mac Dailyでは、これら最新のApple関連ニュースの要約が配信されています。"
-    },
-    {
-      "id": "47e4501cf1311e781dbb",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Amazon Offers Up to $600 Off M5 MacBook Pro, $330 Off Studio Display",
-      "url": "https://www.macrumors.com/2026/09/11/best-apple-deals-of-the-week-9-11-26/",
-      "publishedAt": "2026-09-11T13:48:25.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AmazonでM5搭載MacBook ProやStudio Displayが大幅値引き",
-      "summaryJa": "米Amazonにて、M5 ProおよびM5 Maxチップを搭載したMacBook Proが最大600ドル引きの特別価格で販売されています。また、Studio DisplayやStudio Display XDRも最大330ドル引きの割引対象となっています。"
-    },
-    {
-      "id": "0c26491443155a831dc6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple shares the data behind Apple Watch Series 12’s biggest health claim",
-      "url": "https://9to5mac.com/2026/09/11/apple-shares-the-data-behind-apple-watch-series-12s-biggest-health-claim/",
-      "publishedAt": "2026-09-11T13:37:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-heart-health-sensing.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watchの心拍数計測の正確性を裏付ける調査データ",
-      "summaryJa": "Appleは、Apple Watch Series 12およびUltra 4に搭載された「ヘルスセンシングシステム」の心拍数計測の正確性を示す調査データを公開しました。米国とマレーシアで実施された大規模なテストでは、Polarのチェストストラップを基準とし、他社製スマートウォッチやスマートリングと比較が行われました。新しいセンサー技術やアルゴリズムにより、ウェアラブル端末として最高水準の精度を実現していることをアピールしています。"
-    },
-    {
-      "id": "09c529b3bd6430716cd8",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Reminder: AirPods 5 Do Not Include a Charging Cable in the Box",
-      "url": "https://www.macrumors.com/2026/09/11/airpods-5-lack-charging-cable-in-box/",
-      "publishedAt": "2026-09-11T13:32:43.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/AirPods-5-Gradient.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AirPods 5の同梱物に充電ケーブルが含まれない仕様",
-      "summaryJa": "今週発表された新しいAirPods 5の予約購入者に向けて、同梱物にUSB-Cケーブルや充電器が含まれないことが改めて案内されています。2つのモデルのどちらを購入した場合でも、充電には手持ちのUSB-Cケーブルなどを自分で用意する必要があります。安価なモデルは有線充電のみに対応し、もう一方のモデルはワイヤレス充電ケースが付属します。"
-    },
-    {
-      "id": "0eec3566ef535b3ace36",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 launches next week: Here are three new features I’ve been loving",
-      "url": "https://9to5mac.com/2026/09/11/ios-27-adds-three-new-iphone-features-ive-been-really-loving/",
-      "publishedAt": "2026-09-11T13:18:14.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-trio-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "来週リリースされるiOS 27の注目新機能",
-      "summaryJa": "間もなくリリースされるiOS 27には、メッセージやメモ、ウォレットなど多数の新機能が追加されています。その中でも、AI時代に向けてゼロから再構築された専用のSiriアプリは、iCloudを介してデバイス間で会話履歴を同期できるのが特徴です。また、メッセージアプリでは会話の文脈に合わせたワンタップサジェスト機能が搭載され、リマインダー作成などをよりスムーズに行えるようになります。"
-    },
-    {
-      "id": "c1cc4b0e558073495f56",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "What Upgrading to iPhone 18 Pro From iPhone 17 Pro Gets You",
-      "url": "https://www.macrumors.com/2026/09/11/upgrade-to-iphone-18-pro-from-iphone-17-pro/",
-      "publishedAt": "2026-09-11T12:44:03.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/What-Upgrading-to-iPhone-18-Pro-From-iPhone-17-Pro-Gets-You-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proへのアップグレードで進化するポイント",
-      "summaryJa": "iPhone 18 ProおよびPro Maxでは、デザインの大幅な変更はないものの、パフォーマンスやカメラ性能、バッテリー駆動時間が向上しています。A20 Proチップやデュアル16コアNeural Engineの搭載により処理能力が大幅に高まり、メインカメラには可変絞り機構が新たに採用されました。また、小型化したダイナミックアイランドや、冷却性能を強化したベイパーチャンバーなども特徴となっています。"
-    },
-    {
-      "id": "d106fa03b03a751443cf",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "IMAX Reacts to iPhone Duo's 1:1.4 Aspect Ratio Displays",
-      "url": "https://www.macrumors.com/2026/09/11/imax-reacts-to-iphone-duo-displays/",
-      "publishedAt": "2026-09-11T11:42:36.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "IMAX、iPhone Duoの画面アスペクト比に反応",
-      "summaryJa": "映画製作会社のIMAXが、iPhone Duoの内外ディスプレイに採用された1:1.4のアスペクト比について言及しました。このボックス型の比率は、同社のオリジナルフィルムシステムによるクラシックなフルフレームIMAXの比率に近いものです。公式アカウントは歓迎の意を示しつつも、スマートフォンで映画を見ることはないとのジョークも交えています。iPhone Duoの予約は10月16日に開始され、10月23日に発売される予定です。"
-    },
-    {
-      "id": "470a5d46b0fd5e7897f6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Execs Explain iPhone Duo's Display Design, Secrecy, and Price",
-      "url": "https://www.macrumors.com/2026/09/11/apple-explains-iphone-duo-design-secrecy-price/",
-      "publishedAt": "2026-09-11T11:10:00.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple幹部が語る、折りたたみiPhone「iPhone Duo」の開発背景",
-      "summaryJa": "Appleのジョン・ターナスCEOとマーケティング責任者のグレッグ・ジョズウィック氏が、メディアのインタビューで折りたたみ端末「iPhone Duo」の開発秘話を明かしました。他社製折りたたみスマートフォンのディスプレイに不満があったことから、品質や耐久性、独自の1:1.4のアスペクト比にこだわり、独自開発のナノテクスチャー仕上げを採用したと説明しています。また、開発中の極秘体制やコードネームの活用についても振り返っています。"
-    },
-    {
-      "id": "33edde64df069ca675e9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple to Pay $250 Per iPhone Duo Foldable Display in Samsung Deal",
-      "url": "https://www.macrumors.com/2026/09/11/apple-pay-250-dollars-iphone-duo-display-samsung/",
-      "publishedAt": "2026-09-11T10:10:39.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-cover-glass.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Samsung、Appleの折りたたみiPhone向けディスプレイを供給か",
-      "summaryJa": "Samsung DisplayがAppleとの間で、iPhone Duoおよび将来モデル向けの折りたたみディスプレイパネルを供給する3年間の独占契約を締結したと報じられています。中国のリーク情報によると、iPhone Duoには最新のM16有機EL素材セットが採用され、従来世代に比べて明るさや色性能、寿命、電力効率が向上する見込みです。パネル価格は1枚あたり約250ドルと推測されており、デバイス全体のコストにおいて大きな割合を占める部品になると伝えられています。"
     }
   ],
-  "updatedAt": "2026-09-18T17:25:20.328Z",
+  "updatedAt": "2026-09-18T19:55:32.184Z",
   "initialized": true,
   "summaryVersion": 4
 }
