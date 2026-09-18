@@ -1,6 +1,97 @@
 {
   "articles": [
     {
+      "id": "48c2c9aabc5d025d9067",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple CEO John Ternus Teases iPhone 18 Pro Launch Day",
+      "url": "https://www.macrumors.com/2026/09/17/john-ternus-teases-iphone-18-pro-launch/",
+      "publishedAt": "2026-09-18T03:11:06.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Fifth-Avenue-iPhone-18-Pro.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iPhone 18 Proの発売日を前に店舗の準備を進める",
+      "summaryJa": "ニューヨークのアップルストアでiPhone 18 Proの発売日に向けた準備が進められています。象徴的なガラスキューブの入り口は、新しいカラーリングに合わせて特別に装飾され、CEOのジョン・テラスも発売当日に店舗を訪れる予定です。"
+    },
+    {
+      "id": "e58349ca9c5f766912e8",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "iPhone 18 Proで撮影された「What Holds Us」を祝う",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
+      "publishedAt": "2026-09-18T02:48:24.655Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "iPhone 18 Proで撮影された写真展「What Holds Us」が開催",
+      "summaryJa": "Appleは、iPhone 18 Proの先進的なProカメラシステムを用いた新しい写真展「What Holds Us」を発表しました。可変絞りに対応したカメラにより、低照度でも高い品質と鮮明なディテールを実現し、アーティストたちの創造力を引き出しています。"
+    },
+    {
+      "id": "cae72f5f066edba39a5b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WebKit blog breaks down what’s new with Safari 27 for developers, including MCP support",
+      "url": "https://9to5mac.com/2026/09/17/webkit-blog-breaks-down-whats-new-with-safari-27-for-developers-including-mcp-support/",
+      "publishedAt": "2026-09-18T02:18:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/safari-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、開発者向けSafari 27のMCPサポートなどの新機能を解説",
+      "summaryJa": "WebKitブログにて、最新のSafari 27.0における開発者向けの新機能の詳細が公開されました。AIエージェントにブラウザウィンドウの制御を許可するSafari MCPサーバーが導入され、開発作業の効率化と高度化をサポートします。"
+    },
+    {
+      "id": "e385c7779653989031b5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp starts rolling out new in-chat search button on iOS",
+      "url": "https://9to5mac.com/2026/09/17/whatsapp-starts-rolling-out-new-in-chat-search-button-on-ios/",
+      "publishedAt": "2026-09-18T01:41:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/whatsapp-ios27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp、iOS版アプリでチャット内検索ボタンの提供を開始",
+      "summaryJa": "WhatsAppは、iOSユーザー向けに新しいチャット内検索ボタンの提供を順次開始しています。会話を上にスクロールすると画面上部に検索ボタンが表示され、画面を移動することなくスムーズにキーワード検索を行えるようになります。"
+    },
+    {
+      "id": "05958b32a8509a68a512",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Judge rejects OpenAI’s bid to see X’s confidential settlement with Apple in antitrust lawsuit",
+      "url": "https://9to5mac.com/2026/09/17/judge-rejects-openais-bid-to-see-xs-confidential-settlement-with-apple-in-antitrust-lawsuit/",
+      "publishedAt": "2026-09-18T01:14:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/Meta-community-notes-now-open-to-contributors-as-Musk-threatens-to-fix-them-on-X.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "裁判所、OpenAIによるAppleとXの和解条項開示の申し立てを却下",
+      "summaryJa": "反トラスト法を巡る訴訟において、米連邦地裁の判事はOpenAIによるAppleとXおよびSpaceXAI間の非公開の和解契約書の開示要請を却下しました。X側がAppleとの和解合意に伴い請求を取り下げた後、OpenAI側は防衛に必要であるとして和解条項の提出を求めていましたが、裁判所は審理中の争点に関連する情報はないと判断しました。"
+    },
+    {
+      "id": "2863ae2702efe0887256",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: Apple leads slowing true wireless stereo market as open-ear earbuds gain ground",
+      "url": "https://9to5mac.com/2026/09/17/report-apple-leads-slowing-true-wireless-stereo-market-as-open-ear-earbuds-gain-ground/",
+      "publishedAt": "2026-09-18T00:45:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-AirPods-Pro-3-lifestyle-01-250909.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ワイヤレスイヤホン市場でAppleが首位を維持、オープンイヤー型も成長",
+      "summaryJa": "最新の市場調査レポートによると、世界の完全ワイヤレスステレオ（TWS）市場全体の出荷量が前年同期比で減少する中、Appleは市場の首位を維持し小幅な成長を記録しました。また、耳の穴を塞がないオープンイヤー型（OWS）デバイスの市場も拡大傾向にあり、各社のシェア争いが続いています。"
+    },
+    {
       "id": "ba39aa752ddc438b275c",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4417,99 +4508,9 @@
       ],
       "titleJa": "Appleの新型折りたたみiPhone、名称は「Ultra」ではなく「iPhone Duo」に",
       "summaryJa": "テック系メディアの間で長らく「iPhone Ultra」と噂されていたApple初の折りたたみ式iPhoneの正式名称が「iPhone Duo」に決まったことが分かりました。直前までUltraという呼称が有力視されていましたが、本体のデュアルスクリーンを反映したDuoが採用されました。この端末にはFace IDや望遠カメラ非搭載といった特徴もあり、Ultraという名称は将来の別の製品のために温存される可能性があります。"
-    },
-    {
-      "id": "683bb5fb2e993ba92718",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple will launch 7+ new products in October, here’s what’s coming",
-      "url": "https://9to5mac.com/2026/09/10/apple-will-launch-7-new-products-in-october-heres-whats-coming/",
-      "publishedAt": "2026-09-10T18:52:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、10月にも新製品を多数発表か タッチ対応MacBookやスマートホーム機器の噂",
-      "summaryJa": "今週発表されたiPhone Duoに続き、Appleは10月にも多数の新製品を投入する予定と報じられています。タッチスクリーンを搭載した新型MacBookや、Siri AIを強化したApple TVなどのホーム製品、さらにOLEDディスプレイを採用した新しいiPad miniの登場が噂されています。これらの新製品は10月の発売に向けて準備が進められており、今後の発表に注目が集まっています。"
-    },
-    {
-      "id": "0dbe8ba14dbfbc03bb57",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV Remote app has hidden features that could be coming to iOS 27",
-      "url": "https://9to5mac.com/2026/09/10/apple-tv-remote-app-has-hidden-features-that-could-be-coming-to-ios-27/",
-      "publishedAt": "2026-09-10T18:13:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/remote.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27のApple TVリモコンアプリに新機能が隠されていることが判明",
-      "summaryJa": "iOS 27のコードから、Apple TVリモコンアプリに将来追加される可能性のある新機能が見つかりました。ホーム画面への配置が可能になるほか、Apple TVのアプリを直接起動できるランチャー機能やトップシェルフコンテンツの表示機能などがコード内の機能フラグから確認されています。これらの動きは、新型Apple TV 4Kや新型Siri Remoteが間もなく登場する兆しではないかと注目されています。"
-    },
-    {
-      "id": "8649c898779b3513d69f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 Received a Price Increase You Might Have Missed",
-      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-46mm-price-increase/",
-      "publishedAt": "2026-09-10T18:11:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Series 12の大型モデルで価格が値上げに",
-      "summaryJa": "2018年のApple Watch Series 4以降、米国では429ドルからとなっていた大型サイズのアルミニウム製Apple Watchですが、Apple Watch Series 12では46mmモデルが20ドル値上げされ449ドルからとなりました。42mmモデルの価格は据え置かれているものの、近年のRAMチップ不足などを背景に、AppleはiPhoneやMac、iPadなど各製品で値上げを続けています。"
-    },
-    {
-      "id": "e39f849e1a1e2c1a28a2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Ceramic Apple Watch Series 12 Is Bigger and Heavier Than Other Models",
-      "url": "https://www.macrumors.com/2026/09/10/ceramic-apple-watch-series-12-is-bigger/",
-      "publishedAt": "2026-09-10T17:00:05.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/series-12-ceramic.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "セラミック製Apple Watch Series 12は他の素材より大型で重量も増加",
-      "summaryJa": "6年ぶりの復活となったApple Watch Series 12のセラミックモデルは、アルミニウムやチタニウムモデルに比べてサイズがわずかに大きく、重量も重くなっていることが技術仕様から判明しました。46mmおよび42mmともに高さや厚みが増しており、素材の違いによるデザイン上の妥協とみられています。また重量はアルミニウムモデルより最大で34%重くなっています。"
-    },
-    {
-      "id": "f75bb4a5139d4e4a2445",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Air’s $200 premium disappears when you trade it in",
-      "url": "https://9to5mac.com/2026/09/10/iphone-airs-200-premium-disappears-when-you-trade-it-in/",
-      "publishedAt": "2026-09-10T16:53:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-air-falling.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone Airの下取り価格が話題に、価格差が反映されず",
-      "summaryJa": "Appleが新型iPhoneの発表にあわせてiPhone AirやiPhone 17の下取り受付を開始しましたが、iPhone Airの下取り額がより安価な標準モデルと同等であることが指摘されています。今週の値上げによりiPhone Airは1099ドルからに値上がりしたものの、下取り額はベースモデルと同じ金額に設定されています。需要や部品価値に基づくものとみられますが、購入時の価格差が反映されない結果となっています。"
-    },
-    {
-      "id": "792dc0e8406d9d162c05",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV is about to kick off four weeks straight of big premieres",
-      "url": "https://9to5mac.com/2026/09/10/apple-tv-is-about-to-kick-off-four-weeks-of-big-premieres/",
-      "publishedAt": "2026-09-10T16:53:48.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-tv-logo-lg-stars.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、秋に向けた4週連続の注目ドラマ配信を発表",
-      "summaryJa": "Apple TVは、人気スパイ・スリラー「窓際のスパイ」シーズン6をはじめとする、秋の強力な新作ラインナップを発表しました。来週の配信開始を皮切りに、4週連続で大型プレミア公開が予定されています。マシュー・マコノヒーとウディ・ハレルソンが共演するコメディシリーズ「Brothers」なども控えており、充実したコンテンツが順次配信される予定です。"
     }
   ],
-  "updatedAt": "2026-09-18T00:20:56.859Z",
+  "updatedAt": "2026-09-18T04:56:11.619Z",
   "initialized": true,
   "summaryVersion": 4
 }
