@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "c891e60c2d4239c0991c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Forgot to Pre-Order iPhone 18 Pro? Apple Store Pickup Available Today at Most Locations",
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-apple-store-pickup-available-today/",
+      "publishedAt": "2026-09-18T08:00:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-prices.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの予約を逃しても店頭受取が可能",
+      "summaryJa": "世界中でiPhone 18 ProおよびiPhone 18 Pro Maxの配送が始まる中、事前予約をしていない場合でも、多くのApple Storeで当日店頭受取を利用できる状況となっています。オンラインでは数週間の待ち時間が発生している地域もありますが、店舗によっては在庫が用意されており、公式サイトやストアアプリから手続きを行うことで購入が可能です。"
+    },
+    {
+      "id": "84fdb5c6cc6cfecb93c9",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
+      "url": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+      "publishedAt": "2026-09-18T05:02:14.780Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "新型iPhoneやApple Watchが世界中の店頭に登場",
+      "summaryJa": "世界各国のApple Storeで、iPhone 18 Proシリーズをはじめ、Apple Watch Series 12、Apple Watch Ultra 4、AirPods 5の販売が開始されました。店頭ではスタッフによる製品のデモやパーソナルセットアップのサポートが行われ、多くの顧客が新しいラインナップを手に取りました。下取りプログラムや各種支払い方法を利用して購入することができます。"
+    },
+    {
       "id": "48c2c9aabc5d025d9067",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4478,39 +4508,9 @@
       ],
       "titleJa": "Apple、「Surprise and Shine」イベントの95秒ハイライト動画を公開",
       "summaryJa": "Appleは新製品発表イベント「Surprise and Shine」の内容を約95秒に凝縮したダイジェスト動画をYouTubeで公開しました。iPhone 18 ProやApple Watch Series 12、AirPods 5、さらに折りたたみ式iPhoneのiPhone Duoなど、発表された主要製品がテンポよく紹介されています。"
-    },
-    {
-      "id": "24beb9693434485b41a3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 Apple Health App Redesign: Every New Feature Coming in 2026",
-      "url": "https://www.macrumors.com/guide/ios-27-health-app-new-features/",
-      "publishedAt": "2026-09-10T19:25:14.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-ios-27-health-app-watch.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27でAppleヘルスケアアプリが大幅リニューアルへ",
-      "summaryJa": "AppleはApple Watchの新しい健康センサー搭載に合わせて、iPhoneとiPadのヘルスケアアプリの大幅な刷新を発表しました。Apple Intelligenceを活用したパーソナライズされた健康アドバイス機能や、新しく追加されたインサイトタブにより、日々の健康データをより活用しやすくなります。"
-    },
-    {
-      "id": "762a5103b414af1c9b21",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "RIP, iPhone Ultra",
-      "url": "https://www.macrumors.com/2026/09/10/rip-iphone-ultra/",
-      "publishedAt": "2026-09-10T19:13:14.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-hero.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleの新型折りたたみiPhone、名称は「Ultra」ではなく「iPhone Duo」に",
-      "summaryJa": "テック系メディアの間で長らく「iPhone Ultra」と噂されていたApple初の折りたたみ式iPhoneの正式名称が「iPhone Duo」に決まったことが分かりました。直前までUltraという呼称が有力視されていましたが、本体のデュアルスクリーンを反映したDuoが採用されました。この端末にはFace IDや望遠カメラ非搭載といった特徴もあり、Ultraという名称は将来の別の製品のために温存される可能性があります。"
     }
   ],
-  "updatedAt": "2026-09-18T04:56:11.619Z",
+  "updatedAt": "2026-09-18T09:37:28.980Z",
   "initialized": true,
   "summaryVersion": 4
 }
