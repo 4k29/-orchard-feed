@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "47c52aeeebf0e10c16ac",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Hands-On With the Apple Watch Series 12",
+      "url": "https://www.macrumors.com/2026/09/18/apple-watch-series-12-hands-on/",
+      "publishedAt": "2026-09-18T21:26:09.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 12の実機レビューが公開",
+      "summaryJa": "Apple Watch Series 12が発売され、新機能やデザインの詳細が明らかになりました。外観の大きな変更はないものの、内部の健康センサーやS11チップが強化され、心拍数の計測精度や頻度が向上しています。また、アルミニウムモデルには高耐久なCeramic Shield 2が採用され、従来通りの一日中持続するバッテリーに加え急速充電も進化しています。"
+    },
+    {
+      "id": "e803af9c694eaf3b585b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 and iPadOS 27 expand language support for Dictionary, QuickType Keyboard, more",
+      "url": "https://9to5mac.com/2026/09/18/ios-27-and-ipados-27-expand-language-support-for-dictionary-quicktype-keyboard-more/",
+      "publishedAt": "2026-09-18T20:31:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-keyboard.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS/iPadOS 27で30以上の新言語に対応",
+      "summaryJa": "AppleはiOSおよびiPadOS 27の機能対応ページを更新し、辞書やクイックタイプキーボード、Siri、ビジュアルルックアップなどの機能で30以上の新しい言語や言語バリアントがサポートされることを確認しました。クイックタイプの予測変換や自動修正、多言語入力など、アクセシビリティや入力機能のローカライズが大幅に拡充されています。"
+    },
+    {
+      "id": "21725b25e0c7eadc60a2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Download the iPhone Duo’s official light and dark wallpapers here",
+      "url": "https://9to5mac.com/2026/09/18/download-the-iphone-duos-official-light-and-dark-wallpapers-here/",
+      "publishedAt": "2026-09-18T20:05:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-wallpapers.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "折りたたみiPhoneの公式壁紙がダウンロード可能に",
+      "summaryJa": "先日のiOS 27リリースには含まれなかった折りたたみ式iPhone「iPhone Duo」の公式壁紙が、Xcode 27.1ベータ版のシミュレーター内から発見されました。ライトモードとダークモードそれぞれに向けた計4種類の高解像度な壁紙が、開発者向けツールを通じて一般でもダウンロード可能になっています。"
+    },
+    {
+      "id": "a4805af9021eaab49f03",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "M5 Ultra and M6 Chip Benchmark Results Reveal Graphics Performance",
+      "url": "https://www.macrumors.com/2026/09/18/m5-ultra-and-m6-chip-gpu-benchmarks/",
+      "publishedAt": "2026-09-18T19:56:02.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/M6-M5-Ultra-Chips.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "M5 UltraとM6チップのGPUベンチマークが判明",
+      "summaryJa": "新モデルの発売を前に、Appleの次世代チップであるM5 UltraおよびM6のグラフィックス性能を示すGeekbenchスコアが明らかになりました。M5 Ultraは前世代のM3 Ultraから大幅に性能を伸ばし、NVIDIAのGeForce RTX 4080に匹敵するOpenCLスコアを記録しています。一方のM6チップも、前モデルからグラフィックス性能が向上していることが示されています。"
+    },
+    {
       "id": "87b5d4fd281a3278bb5c",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -360,6 +420,81 @@
       ],
       "titleJa": "Appleサプライヤー傘下企業が米国でのフラッシュメモリ工場を検討か",
       "summaryJa": "AppleのサプライヤーであるSKハイニックスの傘下企業Solidigmが、米国でのNAND型フラッシュメモリ工場の建設を検討していると報じられています。中国工場への依存度を低減させる狙いがあり、ニューヨーク州北部が有力な候補地として浮上しています。"
+    },
+    {
+      "id": "0b4a677701d63328e74d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Intelligence now requires almost double the iPhone storage on latest models",
+      "url": "https://9to5mac.com/2026/09/18/apple-intelligence-now-requires-almost-double-the-iphone-storage-on-latest-models/",
+      "publishedAt": "2026-09-18T14:52:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-ai-iphone-18-pro-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "最新iPhoneでApple Intelligenceに必要な容量が倍増か",
+      "summaryJa": "iOS 27の配信に伴い、最新のiPhoneモデルでApple Intelligence機能を利用するための空き容量が最大14GBへと増加することが判明しました。これは音声のカスタマイズや音声入力の精度向上といった高度なオンデバイス機能を追加するためで、その他の対応機種では従来どおり約8GBの容量が必要となります。"
+    },
+    {
+      "id": "12c406533fd8c8777f7f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here are all of Apple’s official accessories for iPhone 18 Pro, Apple Watch Series 12, more",
+      "url": "https://9to5mac.com/2026/09/18/here-are-all-of-apples-official-accessories-for-iphone-18-pro-apple-watch-series-12-more/",
+      "publishedAt": "2026-09-18T14:51:12.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-cases.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro向けApple純正アクセサリが登場",
+      "summaryJa": "新製品の発売に合わせて、iPhone 18 ProやApple Watch Series 12などに対応するApple公式アクセサリのラインナップが明らかになりました。MagSafe対応のシリコーンケースやテックウーブンケース、各種バンドなどが取り揃えられており、新しいデバイスの外観を彩る選択肢となっています。"
+    },
+    {
+      "id": "845b02b56334bebe13dc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Teardown Reveals How Apple Shrunk the Dynamic Island",
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-teardown/",
+      "publishedAt": "2026-09-18T14:34:53.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Dynamic-Island-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの分解でDynamic Island縮小の仕組みが判明",
+      "summaryJa": "海外のYouTubeチャンネルによる分解動画から、iPhone 18 ProのDynamic Islandが小型化した理由が明らかになりました。AppleはFace IDの赤外線カメラをディスプレイ下の左上隅に移動させることで、画面上の領域を削減することに成功しています。また、可変絞りを持つ48メガピクセルのメインカメラやバッテリー容量などの内部構造も確認されています。"
+    },
+    {
+      "id": "6321f477e27575d30512",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Music in iOS 27: Five new features just added for iPhone",
+      "url": "https://9to5mac.com/2026/09/18/apple-music-in-ios-27-five-new-features-iphone/",
+      "publishedAt": "2026-09-18T14:08:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-music-features-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27のApple Musicで利用可能になった5つの新機能",
+      "summaryJa": "iOS 27ではApple Musicに様々な機能改善が加えられ、横画面表示への対応やAutoMixの進化などが導入されました。横画面ではアートワークと歌詞を並べて表示できるようになり、デスクやキッチンでの充電中にも快適に音楽を楽しめます。さらに、アーティストページの刷新なども行われ、より没入感のあるリスニング体験を提供します。"
+    },
+    {
+      "id": "43a94939acafed16ba70",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Demand Stronger Than Expected",
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-demand-stronger-than-expected/",
+      "publishedAt": "2026-09-18T14:01:25.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-and-iphone-18-pro-max.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの需要が予想を上回る勢いか",
+      "summaryJa": "米国の調査会社による消費者調査から、最新のiPhoneのアップグレード需要が予想を上回る強い勢いを見せていると報じられています。購入者の多くが高価格帯のProモデルや大容量ストレージを選択しており、平均販売価格の上昇につながる可能性があると指摘されています。"
     },
     {
       "id": "f46562920a16c85315f7",
@@ -4373,145 +4508,9 @@
       ],
       "titleJa": "iOS 27の設定アプリに初代Macの隠し要素が登場",
       "summaryJa": "iOS 27の設定アプリ内にあるLiquid Glassの外観調整画面に、クラシックMac OSに由来する「犬牛（Dogcow）」のクラルスがイースターエッグとして隠されていることが判明しました。透明度のプレビュー画面を一番下までスクロールして上に引き上げると、Apple Parkの池のそばにあるフィギュアの写真が表示されます。さらに、Siriに「Moof!」と話しかけると特別な返事をするなど、遊び心のある演出が盛り込まれています。"
-    },
-    {
-      "id": "0b09f1d37f9b0add7a00",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple sets cutoff time for getting faster iPhone 18 Pro pre-order",
-      "url": "https://9to5mac.com/2026/09/11/apple-sets-cutoff-time-for-getting-faster-iphone-18-pro-pre-order/",
-      "publishedAt": "2026-09-11T17:05:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPhone 18 Proの事前準備機能の締切を設定",
-      "summaryJa": "iPhone 18 ProおよびPro Maxの予約注文開始に向けて、Appleは事前にモデル選定や下取り、支払い方法などを済ませてスムーズに購入手続きが行える「Get Ready」機能を提供しています。今年の予約開始日は従来より一日後ろ倒しとなっており、事前準備を完了させるための締切時間が設定されています。ユーザーは指定された時間までに選択を済ませることで、当日の混雑を避けて素早く注文を完了させることができます。"
-    },
-    {
-      "id": "1ae01ca944b85a8e7aa6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Duo Can Do Split View, But Not Like Your iPad",
-      "url": "https://www.macrumors.com/2026/09/11/iphone-duo-split-view-not-like-ipad/",
-      "publishedAt": "2026-09-11T16:26:31.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-apps.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone DuoのSplit View、iPadとは異なる理由",
-      "summaryJa": "Apple初の折りたたみ式iPhoneである「iPhone Duo」は、2つのアプリを左右に並べて表示できる機能を備えています。しかし、iPadのSplit Viewとは異なり、画面分割の比率を自由に変更することはできず、50対50の固定となります。これはデバイスのディスプレイの幾何学的な比率や、開発者のアプリ対応への負担を考慮した設計によるものとみられています。"
-    },
-    {
-      "id": "377bc07b413626685fef",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "The MacRumors Show: iPhone 18 Pro and iPhone Duo Announced!",
-      "url": "https://www.macrumors.com/2026/09/11/the-macrumors-show-iphone-duo/",
-      "publishedAt": "2026-09-11T16:05:01.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhone 18 Proや初の折りたたみiPhoneを発表",
-      "summaryJa": "Appleは、新型のiPhone 18 Proシリーズと初の折りたたみ式モデル「iPhone Duo」を発表しました。iPhone 18 Proは、小型化したDynamic Islandや2nmのA20 Proチップを搭載し、カメラ性能やバッテリー駆動時間が大幅に向上しています。また、Apple Watch Series 12やUltra 4なども同時に発表され、健康管理機能やオーディオインテリジェンスが強化されています。"
-    },
-    {
-      "id": "be49bf2e18fffeed13da",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "iPhone 18 Pro、Apple Watchの最新ラインナップ、AirPods 5の体験がまもなく始まります",
-      "url": "https://www.apple.com/jp/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
-      "publishedAt": "2026-09-11T16:02:58.333Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "iPhone 18 ProやApple Watch最新モデルの予約がまもなく開始",
-      "summaryJa": "Appleは、iPhone 18 ProおよびiPhone 18 Pro Max、次世代Apple Watch、AirPods 5の予約注文を9月12日より開始すると発表しました。これらの新製品はカメラやパフォーマンス、バッテリー性能などが飛躍的に進化しており、9月18日より世界各国の店舗やオンラインで販売が開始される予定です。Apple Storeでは専門スタッフによる購入サポートや、お得な下取りサービスも提供されます。"
-    },
-    {
-      "id": "d424e4c6b29258c84ca2",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
-      "publishedAt": "2026-09-11T16:00:08.631Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "iPhone 18 Proや新型Apple Watchの発売に向けた準備が進む",
-      "summaryJa": "Appleは、iPhone 18 Proシリーズや次世代Apple Watch、AirPods 5の発売に向け、9月12日からの予約注文開始を案内しています。新モデルではカメラやA20 Proチップによるパフォーマンスが大きく向上し、AI機能も強化されています。店頭やオンラインでは、専門スタッフによるパーソナライズされた購入サポートが提供される予定です。"
-    },
-    {
-      "id": "0767189d6ef88e0adb31",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Four ways to achieve shallow depth of field without buying the iPhone 18 Pro",
-      "url": "https://9to5mac.com/2026/09/11/four-ways-to-achieve-shallow-depth-of-field-with-an-older-iphone/",
-      "publishedAt": "2026-09-11T16:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Four-ways-to-achieve-shallow-depth-of-field-with-an-older-iPhone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "古いiPhoneでも浅い被写界深度を再現する4つの方法",
-      "summaryJa": "新型の変数絞りレンズを搭載したモデルが話題ですが、実は古いiPhoneでも被写界深度の浅い写真を撮影する方法がいくつか存在します。ポートレートモードを活用した人工的な背景ぼかしや、マクロモードを利用した物理的なボケ効果など、設定を工夫することで被写体を際立たせることが可能です。新しい端末に買い替えなくても、撮影テクニック次第で魅力的な写真を残すことができます。"
-    },
-    {
-      "id": "398515a161903ddb0270",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s why I left T-Mobile for an MVNO",
-      "url": "https://9to5mac.com/2026/09/11/heres-why-i-left-t-mobile-for-an-mvno/",
-      "publishedAt": "2026-09-11T15:44:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/t-mobile-trash.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "大手キャリアからMVNOへ乗り換えて通信費を抑える理由",
-      "summaryJa": "長年利用してきた大手キャリアの料金値上げに伴い、より安価な代替手段としてMVNOへの乗り換えを決断するユーザーが増えています。MVNOは自社で通信回線を持たず、大手キャリアから回線を借り受けることで低価格なサービスを提供しています。新しいiPhoneの価格高騰に対する負担を軽減するため、通信費を見直す良いきっかけになると紹介されています。"
-    },
-    {
-      "id": "f2fdacb7f1a08e9445ad",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Siri AI is coming: Here are three times it’s really impressed me so far",
-      "url": "https://9to5mac.com/2026/09/11/siri-ai-is-coming-here-are-three-times-its-really-impressed-me-so-far/",
-      "publishedAt": "2026-09-11T15:31:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOSで間もなく登場するAI機能「Siri AI」の便利な活用実例",
-      "summaryJa": "次期iOSで登場する新しい「Siri AI」は、Appleの音声アシスタントに大幅な進化をもたらします。実際に試用したユーザーによると、NFLの試合日程と配信情報を自動でカレンダーに追加したり、過去のメールから車両の登録番号を素早く見つけ出したりと、日常の細かい作業で大きな時間短縮に繋がっているとのことです。"
-    },
-    {
-      "id": "e72c54ddafceda9b516a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: AirPods 5 from $64 w/ trade, AirPods Pro 3, Studio Display XDR $330 off, Ceramic Apple Watch, more",
-      "url": "https://9to5mac.com/2026/09/11/deals-airpods-5-airpods-pro-3-studio-display-series-12/",
-      "publishedAt": "2026-09-11T15:30:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-5-Studio-Display-AirTag.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirPods 5やApple Watch最新モデルの早期割引セールが登場",
-      "summaryJa": "新型の「AirPods 5」やApple Watchの最新シリーズの予約が開始され、一部の小売店では早くも割引や下取りを活用したキャンペーンが実施されています。AirPods Pro 3のセール販売も継続しているほか、AirTagの割引や各種周辺機器の特価情報もあわせて公開されており、新製品をお得に入手するチャンスとなっています。"
     }
   ],
-  "updatedAt": "2026-09-18T19:55:32.184Z",
+  "updatedAt": "2026-09-18T22:30:46.243Z",
   "initialized": true,
   "summaryVersion": 4
 }
