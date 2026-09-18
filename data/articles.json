@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "2cc016da7ff2f0cb93d3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Teams Up With ROSÉ for iPhone 18 Pro Camera Ad",
+      "url": "https://www.macrumors.com/2026/09/18/apple-iphone-18-pro-camera-ad/",
+      "publishedAt": "2026-09-18T16:36:35.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、ROSÉを起用したiPhone 18 Proのカメラ広告を公開",
+      "summaryJa": "AppleはBlackpinkのメンバーであるROSÉの最新ミュージックビデオを使用した、iPhone 18 Proの新しい「Shot on iPhone」広告を公開しました。「new trick」の楽曲ビデオはiPhone 18 Proで撮影されており、撮影の裏側や機材の様子も紹介されています。48メガピクセルメインカメラの可変絞りにより、暗所での撮影性能が向上し、ミュージックビデオに印象的な被写界深度がもたらされたと説明されています。"
+    },
+    {
+      "id": "fb9cc772146f43536f6a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 18, 2026 – More on iOS 27, iPhone Duo",
+      "url": "https://9to5mac.com/2026/09/18/daily-september-18-2026/",
+      "publishedAt": "2026-09-18T16:34:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "9to5Mac Daily: iOS 27の新機能やiPhone Duoの動向",
+      "summaryJa": "9to5Macのポッドキャスト番組で、iOS 27に追加される詐欺防止機能や、発売時に品薄が懸念されているiPhone Duoに関する最新情報が取り上げられています。AI以外の注目の新機能や、効率的なタスク管理をサポートするスポンサーアプリについても紹介されています。リスナーに向けて各種プラットフォームでの購読やレビューが呼びかけられています。"
+    },
+    {
+      "id": "f342db3eba7349a735b0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Best iPhone 18 Pro cases now available for purchase [Updated]",
+      "url": "https://9to5mac.com/2026/09/18/best-iphone-18-pro-cases-now-available/",
+      "publishedAt": "2026-09-18T16:24:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro向けおすすめケースが続々登場",
+      "summaryJa": "新型iPhone 18 Proに向けて、Apple純正のシリコンケースやテックウーブンケースをはじめ、多彩なサードパーティ製ケースが出揃いました。Spigenなどの手頃な価格帯の製品から、NomadやBurton Goodsの上質なレザーケース、スタンド付きモデルまで幅広く展開されています。MagSafeに対応した新色のバーガンディやマルベリーなど、カラーバリエーションも豊富に用意されています。"
+    },
+    {
+      "id": "27c938b2a247983c8865",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "The MacRumors Show: Is the iPhone Duo Actually Worth It?",
+      "url": "https://www.macrumors.com/2026/09/18/the-macrumors-show-is-iphone-duo-worth-it/",
+      "publishedAt": "2026-09-18T16:15:51.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone Duoの価値とAirPods 5のインプレッション",
+      "summaryJa": "MacRumorsのポッドキャスト番組にて、議論を呼んでいる折りたたみ式のiPhone Duoの価値や、AirPods 5の使用感について議論が行われています。iPadのような大画面ディスプレイの利便性や、価格・重量・カメラ性能とのトレードオフについて言及されています。また、AirPods 5の優れたフィット感やアクティブノイズキャンセリングの向上についても紹介されています。"
+    },
+    {
+      "id": "94aaea9652696a40782e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27’s Wallet app adds feature that will make you want to use Apple Cash",
+      "url": "https://9to5mac.com/2026/09/18/ios-27s-wallet-app-adds-feature-that-will-make-you-want-to-use-apple-cash/",
+      "publishedAt": "2026-09-18T16:14:17.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-red-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Wallet、Apple Intelligenceを活用した新しい割り勘機能を追加",
+      "summaryJa": "次期iOSのウォレットアプリに、iPhoneのカメラとApple Intelligenceを活用して簡単に割り勘ができる新機能が追加されます。レシートや請求書の写真を読み取るだけで、税金やチップを含めた個人の支払額を正確に算出します。メッセージアプリやウォレットから直接利用可能で、Apple Cashを使った精算がこれまで以上にスムーズになります。"
+    },
+    {
+      "id": "eef8e5ecc6fd4c02c7c3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Designers Explain the Thinking Behind iPhone Duo",
+      "url": "https://www.macrumors.com/2026/09/18/apple-designers-explain-iphone-duo/",
+      "publishedAt": "2026-09-18T16:11:02.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-Duo-Open-large-scaled.png",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleデザインチームが語る「iPhone Duo」の設計思想",
+      "summaryJa": "Appleの幹部らが最新のインタビューで、2つ折りデバイス「iPhone Duo」の開発背景やデザイン哲学について語りました。本体の寸法には国際規格のA判ペーパーシステムが採用され、ノートブックのように持ち運びやすさと広大な画面を両立しています。また、開閉時の滑らかなヒンジの抵抗感や、操作の一貫性を保つためのソフトウェア設計に関するこだわりが明かされています。"
+    },
+    {
+      "id": "29df1bd80da77b12678f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "I’ve now completely changed my mind about Apple Glasses",
+      "url": "https://9to5mac.com/2026/09/18/ive-now-completely-changed-my-mind-about-apple-glasses/",
+      "publishedAt": "2026-09-18T16:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "スマートグラスの撮影機能めぐり、Apple Glassesの仕様に再考の余地",
+      "summaryJa": "他社製スマートグラスにおける隠し撮りやプライバシー問題への反発が強まる中、将来登場すると噂されるApple Glassesのカメラ機能について議論が起きています。かつてのGoogle Glassと同様の批判が免れない現状から、Appleがプライバシー配慮のために写真やビデオ撮影機能をあえて搭載しない可能性についても注目が集まっています。"
+    },
+    {
+      "id": "794375ea7c63ac15f038",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Are iPhone 17 Pro Cases Compatible With iPhone 18 Pro? Here's What Apple Says",
+      "url": "https://www.macrumors.com/2026/09/18/iphone-17-pro-vs-iphone-18-pro-case-compatibility/",
+      "publishedAt": "2026-09-18T15:54:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Case-3200x1800-1-scaled.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 17 ProとiPhone 18 Proのケース互換性についてAppleが回答",
+      "summaryJa": "Appleによれば、iPhone 17 ProシリーズとiPhone 18 Proシリーズの間で公式なケースの互換性はないとされています。これは背面カメラの台座部分の厚みがわずか0.1ミリだけ増加したためです。ただし実際の検証では、両世代のケースはほぼ問題なく相互に装着できることが分かっており、実用上は多くのケースを流用できる見込みです。"
+    },
+    {
+      "id": "b4a3d33f75285ab0d59b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: AirPods Pro 3, iPhone 18 Pro cases and chargers, M5 MacBook Pro $320 off, more",
+      "url": "https://9to5mac.com/2026/09/18/deals-airpods-pro-3-iphone-18-pro-cases-m5-macbook/",
+      "publishedAt": "2026-09-18T15:28:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-iPhone-18-Pro-cases-AirPods-chargers-Mac-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新型iPhoneやAirPodsの発売に合わせたセールが展開中",
+      "summaryJa": "新型iPhoneやAirPods、Apple Watchの発売にあわせ、Amazonなどで各種Apple製品の割引セールが開催されています。AirPods Pro 3や各種アクセサリなどが値引き対象となっており、発売日を記念したお得な価格で購入できるチャンスとなっています。"
+    },
+    {
+      "id": "b538166cc4480dc203df",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Launch Day Deals on iPhone 18 Pro, AirPods 5, Apple Watch Series 12, and More",
+      "url": "https://www.macrumors.com/2026/09/18/best-apple-deals-of-the-week-9-18-26/",
+      "publishedAt": "2026-09-18T15:15:18.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proや新型AirPodsなどの発売記念セールが登場",
+      "summaryJa": "新型のiPhone 18 ProシリーズやAirPods 5、Apple Watch Series 12などの発売日を迎え、国内外の各小売店やキャリアから割引やキャンペーン情報が発表されました。Amazonでの少額割引のほか、通信キャリアによる大幅な端末値引きなども提供されています。"
+    },
+    {
+      "id": "52f276da7e957a7f7edc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro, Apple Watch Series 12 and Ultra 4, AirPods 5 now available in stores",
+      "url": "https://9to5mac.com/2026/09/18/iphone-18-pro-apple-watch-series-12-and-ultra-4-airpods-5-now-available-in-stores/",
+      "publishedAt": "2026-09-18T15:14:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-store-the-Exchange-TRX-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proや新型Apple Watchが店頭発売を開始",
+      "summaryJa": "iPhone 18 ProシリーズやApple Watch Series 12、AirPods 5などの新製品がいよいよ世界中のApple Storeや取扱店の店頭に並びました。ニューヨークの旗艦店では首脳陣が店舗の扉を開いて購入者を出迎え、各地で華やかな発売日を迎えています。"
+    },
+    {
+      "id": "0fc6fcd0e564e336e7c1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Supplier Subsidiary Considering U.S. Flash Memory Factory",
+      "url": "https://www.macrumors.com/2026/09/18/apple-supplier-subsidiary-considering-us-factory/",
+      "publishedAt": "2026-09-18T15:01:37.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/sk-hynix.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleサプライヤー傘下企業が米国でのフラッシュメモリ工場を検討か",
+      "summaryJa": "AppleのサプライヤーであるSKハイニックスの傘下企業Solidigmが、米国でのNAND型フラッシュメモリ工場の建設を検討していると報じられています。中国工場への依存度を低減させる狙いがあり、ニューヨーク州北部が有力な候補地として浮上しています。"
+    },
+    {
       "id": "f46562920a16c85315f7",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4328,189 +4508,9 @@
       ],
       "titleJa": "Samsung、Appleの折りたたみiPhone向けディスプレイを供給か",
       "summaryJa": "Samsung DisplayがAppleとの間で、iPhone Duoおよび将来モデル向けの折りたたみディスプレイパネルを供給する3年間の独占契約を締結したと報じられています。中国のリーク情報によると、iPhone Duoには最新のM16有機EL素材セットが採用され、従来世代に比べて明るさや色性能、寿命、電力効率が向上する見込みです。パネル価格は1枚あたり約250ドルと推測されており、デバイス全体のコストにおいて大きな割合を占める部品になると伝えられています。"
-    },
-    {
-      "id": "0a0f177924e248a7132b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "John Ternus and Greg Joswiak reveal why now is the time for iPhone Duo",
-      "url": "https://9to5mac.com/2026/09/11/john-ternus-and-greg-joswiak-reveal-why-now-is-the-time-for-iphone-duo/",
-      "publishedAt": "2026-09-11T08:31:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ternus-joz.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple幹部が明かす、今「iPhone Duo」を投入した理由",
-      "summaryJa": "Appleのイベント終了後、新CEOに就任したジョン・ターナス氏とマーケティング担当のグレッグ・ジョズウィック氏がインタビューに応じました。ターナス氏は、品質と耐久性の基準を満たし、ハードウェアとソフトウェアが融合して初めて理想的な製品を作れるタイミングが今だったと説明しています。また、他社の折りたたみ端末のプラスチック製の質感や表面のシワ感が魅力的でなかった点にも言及し、自社製品の独自性を強調しました。"
-    },
-    {
-      "id": "41d6883d4c77028006c2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Duo, iPhone 18 Pro, Apple Watch Series 12, and AirPods 5 event",
-      "url": "https://9to5mac.com/2026/09/10/happy-hour-607/",
-      "publishedAt": "2026-09-11T06:08:41.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "9月Appleイベントの速報：iPhone Duoや新製品の印象",
-      "summaryJa": "ポッドキャスト番組において、9月のAppleイベントで発表されたiPhone DuoやiPhone 18 Pro、Apple Watchの新シリーズ、AirPods 5に関するファーストインプレッションが語られました。特にジョン・ターナス氏のCEO初登壇となったイベントの演出や、現地での実機ハンズオンを通じた新製品の魅力について詳しく議論されています。"
-    },
-    {
-      "id": "172eae75fce252ecf3da",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple extends free iPhone satellite access for another year",
-      "url": "https://9to5mac.com/2026/09/10/apple-extends-free-iphone-satellite-access-for-another-year/",
-      "publishedAt": "2026-09-11T01:38:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/iPhone-satellite.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPhoneの衛星通信機能の無料期間をさらに1年間延長",
-      "summaryJa": "Appleは、iPhoneの衛星通信機能を利用できる無料期間をさらに1年間延長することを発表しました。対象となるのは既存のiPhone 14、iPhone 15、iPhone 16のユーザーで、緊急SOSや「探す」での位置情報共有、ロードサイド援助、衛星経由のメッセージなどが引き続き無料で利用可能になります。当初は2年間としていた無料アクセスが順次拡大されており、ユーザーの利便性維持につながります。"
-    },
-    {
-      "id": "248ed465f6d8fda87c05",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: September 10, 2026 – AirPods 5, iPhone price increases",
-      "url": "https://9to5mac.com/2026/09/10/daily-september-10-2026/",
-      "publishedAt": "2026-09-11T00:45:36.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleのポッドキャスト番組が最新ニュースを配信",
-      "summaryJa": "9to5Mac Dailyのポッドキャストにて、AirPods 5の発表や値上げされたiPhoneシリーズ、 watchOS 27の新しい文字盤など、注目のApple関連ニュースがまとめて解説されています。リスナー向けに最新の製品情報やリリース予定日が詳しく紹介されています。"
-    },
-    {
-      "id": "3e365656ee09a8739cfc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "T-Mobile will charge $5/month for Apple’s new iPhone Handoff feature",
-      "url": "https://9to5mac.com/2026/09/10/t-mobile-will-charge-5-month-for-apples-new-iphone-handoff-feature/",
-      "publishedAt": "2026-09-11T00:28:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/IMG_0012.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "T-Mobile、新機能「iPhone Handoff」に月額料金を設定",
-      "summaryJa": "Appleの新しい「iPhone Handoff」機能を利用して1つの電話番号を2台のiPhoneで共有する際、米T-Mobileでは月額5ドルの料金がかかることが判明しました。iOS 27で導入されるこの機能は、対応キャリアを通じて順次提供が開始される予定です。"
-    },
-    {
-      "id": "590a719c61485cf44f2e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Explains What Happens to Conversations Siri Recap Hears",
-      "url": "https://www.macrumors.com/2026/09/10/apple-watch-siri-recap/",
-      "publishedAt": "2026-09-10T23:38:33.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12-siri-recap.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、Apple WatchのSiri Recap機能におけるプライバシー保護を説明",
-      "summaryJa": "Apple Watch Series 12やUltra 4に搭載された「Siri Recap」機能について、Appleがプライバシーへの配慮やデータの扱いを詳細に説明しました。この機能は日常の会話を常に聞き取って要約を作成しますが、特定の個人を識別する情報は含まれず、機密データや有害な内容は除外される仕組みになっています。"
-    },
-    {
-      "id": "6defdd6ed7d6bb4538c8",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Ultra 4 Drops GLONASS Support",
-      "url": "https://www.macrumors.com/2026/09/10/apple-watch-ultra-4-glonass/",
-      "publishedAt": "2026-09-10T23:16:19.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Watch-Ultra-4-hero-260909-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Ultra 4がGLONASSのサポートを終了",
-      "summaryJa": "Apple Watch Ultra 4の技術仕様から、ロシアの測位システムであるGLONASSのサポートが削除されたことが明らかになりました。デュアル周波数対応の他の衛星システムを活用することで、位置情報の精度向上やバッテリー効率の改善が期待されています。"
-    },
-    {
-      "id": "9b51dcbda5532f8c9685",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "T-Mobile to Charge $5 a Month for iOS 27 iPhone Handoff",
-      "url": "https://www.macrumors.com/2026/09/10/ios-27-iphone-handoff-cost/",
-      "publishedAt": "2026-09-10T22:58:32.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-iOS-27-Feature.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "T-Mobile、iOS 27のiPhone Handoff機能に月額5ドルを課金へ",
-      "summaryJa": "T-Mobileは、同じ電話番号を2台のiPhoneで共有できるiOS 27の新機能「iPhone Handoff」の利用に月額5ドルの料金を設定すると明らかにしました。この機能はキャリアのサポートが必要で、発売時には米国のT-MobileとドイツのDeutsche Telekomのユーザーが利用可能になります。ユーザーは対応する2台のiPhoneの間で番号を共有し、通話やデータ通信などの機能を利用できますが、一方のデバイスのみアクティブになる仕組みです。"
-    },
-    {
-      "id": "9936fe3869e002faa6c7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "DOJ wins pause on order requiring documents from 14 agencies in Apple antitrust case",
-      "url": "https://9to5mac.com/2026/09/10/doj-wins-pause-on-order-requiring-documents-from-14-agencies-in-apple-antitrust-case/",
-      "publishedAt": "2026-09-10T22:31:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "米司法省、反トラスト法訴訟での文書提出命令の一時停止を獲得",
-      "summaryJa": "米司法省は、進行中の反トラスト法をめぐるAppleとの訴訟において、14の連邦政府機関からの文書提出を命じた決定に対する一時的な停止を獲得しました。Appleは、政府機関がスマートフォンのポリシー策定時にプライバシーやセキュリティをどのように評価しているかを調べるため、これらの文書を求めています。今回の決定により、政府が控訴している間、文書提出の対応義務が一時的に保留されることになりました。"
-    },
-    {
-      "id": "5cb07960dbf9a80d81c5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "You Can't Use Apple Watch's Live Rewind Secretly, Apple Says",
-      "url": "https://www.macrumors.com/2026/09/10/apple-watch-live-rewind/",
-      "publishedAt": "2026-09-10T22:12:04.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-ultra-4-live-rewind.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watchの新機能「Live Rewind」は密かな利用が不可能に",
-      "summaryJa": "Apple Watch Series 12やUltra 4で導入される「Live Rewind」は、周囲の音声を過去15秒間さかのぼって文字起こしする機能です。プライバシーへの懸念に対処するため、デジタルクラウンを押して起動する際には、本体から必ず警告音が鳴る仕組みになっています。さらに、画面全体にアニメーションとマイクのインジケーターが表示されるため、周囲の人に無断でこの機能が使われることはありません。"
-    },
-    {
-      "id": "f4ddb1f76372b7886e44",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple now accepting App Store submissions built for iOS 27, macOS 27, more",
-      "url": "https://9to5mac.com/2026/09/10/apple-now-accepting-app-store-submissions-built-for-ios-27-macos-27-more/",
-      "publishedAt": "2026-09-10T21:35:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios27-app-submissions.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iOS 27などに対応したApp Storeアプリの提出を受付開始",
-      "summaryJa": "Appleは、来週月曜日に迫った新OSの正式リリースを前に、iOS 27などの最新SDKで構築されたアプリのApp Storeへの提出受付を開始しました。開発者はXcode 27のリリース候補版を使用してアプリを提出できるようになります。また、macOS 27ではAppleシリコン搭載Macのみがサポート対象となり、Intel Mac向けのサポートが終了することも改めてアナウンスされています。"
-    },
-    {
-      "id": "de18ad132c9015fd82c3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV shares intense trailer for ‘The Last First: Winter K2’",
-      "url": "https://9to5mac.com/2026/09/10/apple-tv-shares-intense-trailer-for-the-last-first-winter-k2/",
-      "publishedAt": "2026-09-10T20:40:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/last-first-k2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、過酷なK2峰の冬期登頂を描くドキュメンタリーの予告編を公開",
-      "summaryJa": "Apple TVは10月2日より、極限の登山業界と変わりゆく文化に迫るドキュメンタリー映画『The Last First: Winter K2』を配信開始します。サンダンス映画祭で選出され、高い評価を受けている本作の予告編が新たに公開されました。2021年にK2の冬期初登頂を目指した登山隊の挑戦を通じ、過酷な自然環境や人間ドラマをリアルに描き出します。"
     }
   ],
-  "updatedAt": "2026-09-18T13:52:28.221Z",
+  "updatedAt": "2026-09-18T17:25:20.328Z",
   "initialized": true,
   "summaryVersion": 4
 }
