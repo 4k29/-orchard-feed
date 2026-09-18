@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "ba39aa752ddc438b275c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple pushes UK court to lift secrecy around encryption backdoor order",
+      "url": "https://9to5mac.com/2026/09/17/apple-pushes-uk-court-to-lift-secrecy-around-encryption-backdoor-order/",
+      "publishedAt": "2026-09-17T22:56:50.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/apple-icloud-advanced-data-protection.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、暗号化バックドア命令に関する英国政府との法廷闘争を推進",
+      "summaryJa": "Appleは、ユーザーデータの暗号化アクセスを求める非公開命令の存在やその秘匿ルールを巡り、英国の裁判所で争いを続けています。背景には、世界中のユーザーデータに対するバックドア作成要求があったと報じられており、これに伴い英国での高度なデータ保護機能の提供が停止されるなど影響が出ています。Appleは透明性の確保に向け、法的手段を通じて情報開示を強く求めています。"
+    },
+    {
+      "id": "1f10853c0a69b530f41e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Reportedly Accepts Even Higher RAM and Storage Prices in 2027",
+      "url": "https://www.macrumors.com/2026/09/17/apple-higher-ram-storage-prices-2027-report/",
+      "publishedAt": "2026-09-17T22:46:18.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、2027年にRAMとストレージの価格上昇を受け入れか",
+      "summaryJa": "Appleが2027年第1四半期からSamsungに対してDRAMおよびNANDフラッシュメモリの調達費用として、従来よりさらに高い価格を支払うことで合意したと報じられています。AI分野の急拡大に伴うメモリ不足が背景にあり、価格は2026年第3四半期と比較して30%から40%ほど上昇する見込みです。今回の部品価格の高騰が、今後のiPhoneやiPad、Macなどの製品価格にどのような影響を与えるのか注目されています。"
+    },
+    {
+      "id": "c143127f15eab7de5fdb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Meta AI launches Muse personal agent, including apps for iPhone and Mac",
+      "url": "https://9to5mac.com/2026/09/17/meta-ai-launches-muse-personal-agent-including-a-new-mobile-app-for-iphone/",
+      "publishedAt": "2026-09-17T22:30:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/muse-agent.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Meta、iPhoneおよびMac向けパーソナルAIエージェント「Muse」を発表",
+      "summaryJa": "Meta AIは、ユーザーの日常業務をサポートする新しいパーソナルAIエージェント「Muse」をiPhone向けにリリースし、さらにMac向けアプリも順次展開しています。親しみやすいチャットインターフェースを採用し、アバターや名称のカスタマイズが可能です。ファイルやカレンダーなど幅広いアプリと連携する機能を備えており、AIアシスタント市場での競争がさらに活性化しています。"
+    },
+    {
       "id": "fc51823567dd089c2c6e",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4462,54 +4507,9 @@
       ],
       "titleJa": "Apple TV、秋に向けた4週連続の注目ドラマ配信を発表",
       "summaryJa": "Apple TVは、人気スパイ・スリラー「窓際のスパイ」シーズン6をはじめとする、秋の強力な新作ラインナップを発表しました。来週の配信開始を皮切りに、4週連続で大型プレミア公開が予定されています。マシュー・マコノヒーとウディ・ハレルソンが共演するコメディシリーズ「Brothers」なども控えており、充実したコンテンツが順次配信される予定です。"
-    },
-    {
-      "id": "0a2b940753ab004466eb",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Skipping the iPhone 18 Pro? Redesigned 'iPhone 20' is Coming Next Year",
-      "url": "https://www.macrumors.com/2026/09/10/iphone-18-pro-vs-iphone-20/",
-      "publishedAt": "2026-09-10T16:49:32.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-16x9-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "来年登場か、20周年記念の特別デザインiPhoneの噂",
-      "summaryJa": "AppleがiPhone登場20周年を迎える来年、iPhone X以来最大規模のデザイン刷新となる特別モデルを計画していると報じられています。すべての角と縁が湾曲したガラスで覆われ、ベゼルがさらに薄くなった「iPhone 20」とも称されるモデルになると伝えられています。ただし、この野心的なデザインが最終的にどこまで実現されるかについては、今後の動向を見守る必要があります。"
-    },
-    {
-      "id": "f73c08eb653876aabbf9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AirPods 5, Apple Watch Series 12, and Ultra 4 now available on Amazon",
-      "url": "https://9to5mac.com/2026/09/10/airpods-5-apple-watch-series-12-and-ultra-4-now-available-on-amazon/",
-      "publishedAt": "2026-09-10T16:25:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-airpods-5.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新型AirPodsやApple Watch、Amazonで予約受付開始",
-      "summaryJa": "Appleが発表したばかりの「AirPods 5」や「Apple Watch Series 12」、「Apple Watch Ultra 4」などの新製品が、Amazonにて早くも予約受付を開始しました。AirPods 5は全モデルでアクティブノイズキャンセリングに対応するなど機能が強化されています。新しいヘルスセンシングシステムを搭載したApple Watchとともに、9月18日の発売に向けて注目を集めています。"
-    },
-    {
-      "id": "21805a6db93c6305644d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Duo is no Apple Vision Pro",
-      "url": "https://9to5mac.com/2026/09/10/iphone-duo-is-no-apple-vision-pro/",
-      "publishedAt": "2026-09-10T16:21:52.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-ios-27-fold.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone DuoはApple Vision Proとは異なる製品か",
-      "summaryJa": "高価格や専用ソフトウェアなどの面で「Apple Vision Proと同じ課題を抱えるのではないか」という懸念の声に対し、両者は全く異なる製品であるという見方が示されています。Vision Proが日常的な主要デバイスの置き換えには至らないのに対し、ポケットに入るiPhone Duoはスマートフォンと小型タブレットの利便性を兼ね備えています。価格面でも、現代生活に欠かせないスマートフォン市場においては受け入れられやすい要素を備えているとされています。"
     }
   ],
-  "updatedAt": "2026-09-17T22:05:37.005Z",
+  "updatedAt": "2026-09-18T00:20:56.859Z",
   "initialized": true,
   "summaryVersion": 4
 }
