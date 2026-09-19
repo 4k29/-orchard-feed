@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "773dcbe5b2f8d034e2de",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "M6 Pro Chip Result on Geekbench is Likely Fake",
+      "url": "https://www.macrumors.com/2026/09/19/m6-pro-geekbench-result-likely-fake/",
+      "publishedAt": "2026-09-19T17:59:10.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/11/apple-silicon-1-feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "M6 ProチップのGeekbench結果は偽造か",
+      "summaryJa": "未発表とされるM6 ProチップのGeekbench測定結果が浮上したものの、偽造である可能性が高いと報じられています。Geekbenchの開発者であるジョン・プール氏が内部の不整合を指摘しており、信頼性に疑問が持たれています。また、ブルームバーグのマーク・ガーマン記者は、AppleがM6 ProおよびM6 Maxチップの投入をスキップする計画であると以前に報じていました。"
+    },
+    {
       "id": "42064d2033853d3b3956",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4493,24 +4508,9 @@
       ],
       "titleJa": "Apple、米タイム誌の「世界で最も影響力のある企業」で3位にランクイン",
       "summaryJa": "米タイム誌の「世界で最も影響力のある企業2026」が発表され、Appleが3位に返り咲きました。同誌は従業員満足度、過去3年間の売上高成長率、持続可能性の透明性を評価基準としています。AppleはAI分野への投資強化や売上高の回復が評価された一方、持続可能性の透明性の順位は前回から低下する結果となりました。"
-    },
-    {
-      "id": "eb845efc2e74aea139f9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Two iOS 27 Features Won't Be Ready for Monday's Launch",
-      "url": "https://www.macrumors.com/2026/09/11/ios-27-delayed-features/",
-      "publishedAt": "2026-09-11T20:37:37.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/ios-27-passwords-auto-fix.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27、初期リリースでの提供を見送る2つの新機能が明らかに",
-      "summaryJa": "月曜日に控えたiOS 27の一般リリースを前に、ベータ版でテストされていた2つの機能の提供が初期バージョンで見送られることが分かりました。対象となるのは、メッセージアプリでのApple Intelligenceを活用した提案機能と、パスワードの脆弱性を自動修復する機能です。これらの機能は今後のソフトウェアアップデートで順次追加される予定となっています。"
     }
   ],
-  "updatedAt": "2026-09-19T16:36:15.891Z",
+  "updatedAt": "2026-09-19T18:56:47.631Z",
   "initialized": true,
   "summaryVersion": 4
 }
