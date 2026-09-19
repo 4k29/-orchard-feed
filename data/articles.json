@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "9c3f7c5b24915017dd4a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Exec Says 'Hold Us Accountable' on iPhone Duo Crease",
+      "url": "https://www.macrumors.com/2026/09/19/apple-exec-iphone-crease/",
+      "publishedAt": "2026-09-19T04:51:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-weather.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone Duoの折り目についてApple幹部が言及",
+      "summaryJa": "Appleのハードウェアエンジニアリング担当副社長であるトム・マリーブ氏が、未発表のiPhone Duoについて語りました。同機には光の反射を抑え折り目の視認性を最小限にするマットなナノテクステクスチャディスプレイが採用されており、マリーブ氏は折り目の目立ちにくさについて会社に責任を持ってほしいと述べています。また、高級車のドアのような重厚感を目指したヒンジの耐久性や設計へのこだわりについても明らかにしました。"
+    },
+    {
       "id": "0d45dd000373b4af4d65",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4493,24 +4508,9 @@
       ],
       "titleJa": "iPhone 18 Pro用ケースが早くも店舗に登場",
       "summaryJa": "Apple Store各店にiPhone 18 Pro向けの新しいケースやアクセサリが入荷しました。今回のケースはiPhone 17 Proとも互換性があり、シリコンケースやリニューアルされたクリアケース、新たに登場したリストストラップなどがラインナップされています。"
-    },
-    {
-      "id": "e812ad3792391d342009",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Still Has 8 More Products to Announce Later This Year",
-      "url": "https://www.macrumors.com/2026/09/11/apple-still-has-8-products-to-announce-this-year/",
-      "publishedAt": "2026-09-11T18:14:58.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Apple-Event-Logo.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、今年後半から来年にかけて発表が噂される8製品",
-      "summaryJa": "Appleは今年のiPhoneイベントを終えたものの、今後さらに多くの新製品を投入する見込みです。新型のiPad mini、M6チップ搭載のiMacやMacBook Pro、OLEDディスプレイを採用したMacBook Ultra、さらには新しいApple TVやHomePod miniなどが控えていると報じられています。一部の製品は2026年後半から2027年初頭の登場になると予想されています。"
     }
   ],
-  "updatedAt": "2026-09-19T00:35:16.223Z",
+  "updatedAt": "2026-09-19T05:01:50.710Z",
   "initialized": true,
   "summaryVersion": 4
 }
