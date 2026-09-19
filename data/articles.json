@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "42064d2033853d3b3956",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Ultra 4 Sees First Discount After Launch, Now $779.99 on Amazon",
+      "url": "https://www.macrumors.com/2026/09/19/apple-watch-ultra-4-launch-discounts/",
+      "publishedAt": "2026-09-19T14:46:30.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Watch-Ultra-4-hero-260909-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Ultra 4が発売直後にAmazonで初の割引",
+      "summaryJa": "発売されたばかりのApple Watch Ultra 4が、Amazonにて早くも最初のキャッシュレス割引の対象となりました。対象モデルやバンドの組み合わせによって、通常価格からわずかながら値引きされた価格で販売されています。また、新型のApple Watch Series 12のGPSモデルも同時にセール対象となっており、発売週にお得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "66f79872d43f3cfa5013",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 might finally convince me to switch away from WHOOP",
+      "url": "https://9to5mac.com/2026/09/19/heres-why-apple-watch-series-12-may-get-me-to-ditch-whoop/",
+      "publishedAt": "2026-09-19T14:09:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-health-sensing-system.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch Series 12が他社製トラッカーから乗り換える理由に",
+      "summaryJa": "長年WHOOPなどの健康管理デバイスを使用していたユーザーが、Apple Watch Series 12への乗り換えを検討する理由について語っています。新モデルでは心拍数の測定頻度が5秒ごとに短縮されたほか、iOS 27の新しいApple HealthアプリやSeries 12の「Readiness」アプリにより、より詳細で分かりやすい健康スコアの確認が可能になりました。これにより、従来のApple Watchでは物足りなかったデータ収集の頻度やインターフェースの課題が改善されています。"
+    },
+    {
+      "id": "e06e440a0d6ee43313db",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Our top iPhone 18 Pro accessories to upgrade your setup [Updated]",
+      "url": "https://9to5mac.com/2026/09/19/best-iphone-18-pro-accessories/",
+      "publishedAt": "2026-09-19T13:57:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-accessories.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの発売に向けて揃えたい注目アクセサリー",
+      "summaryJa": "今週のデリバリー開始を控えたiPhone 18 Proに向けて、充電器やMagSafeマウント、ケースなどの厳選されたおすすめアクセサリーが紹介されています。特にApple製の40Wダイナミック電源アダプタは、可変電圧供給に対応し短時間での急速充電を実現するため、新しいiPhoneの性能を最大限に引き出す必須アイテムとして挙げられています。また、各ライターが愛用する最新のケースやモバイルバッテリーもあわせて紹介されています。"
+    },
+    {
       "id": "dd7901b713f37ab63f6e",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4463,54 +4508,9 @@
       ],
       "titleJa": "iOS 27、初期リリースでの提供を見送る2つの新機能が明らかに",
       "summaryJa": "月曜日に控えたiOS 27の一般リリースを前に、ベータ版でテストされていた2つの機能の提供が初期バージョンで見送られることが分かりました。対象となるのは、メッセージアプリでのApple Intelligenceを活用した提案機能と、パスワードの脆弱性を自動修復する機能です。これらの機能は今後のソフトウェアアップデートで順次追加される予定となっています。"
-    },
-    {
-      "id": "abd5140eb051ff365436",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Counterpoint: Apple foldable panel shipments could rise 167% by 2030",
-      "url": "https://9to5mac.com/2026/09/11/counterpoint-apple-foldable-panel-shipments-could-rise-167-by-2030/",
-      "publishedAt": "2026-09-11T19:57:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-1.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの折りたたみ式パネル出荷台数、2030年までに大幅増との予測",
-      "summaryJa": "調査会社カウンターポイント・リサーチが、折りたたみ式スマートフォン市場に関する新しい予測レポートを公開しました。それによると、iPhone Duoなどの影響により、Appleの折りたたみ式パネルの出荷台数は2030年までに大きく増加すると見込まれています。Samsungが依然としてトップを維持するものの、Appleのシェアは数年のうちにさらに拡大する予測となっています。"
-    },
-    {
-      "id": "82e16afb7a60959fbb35",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 makes a big change to a small complication that I’m excited about",
-      "url": "https://9to5mac.com/2026/09/11/apple-watch-series-12-makes-a-big-change-to-a-small-complication-that-im-excited-about/",
-      "publishedAt": "2026-09-11T19:50:23.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-heart.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Series 12、心拍数コンプリケーションに大きな変更点",
-      "summaryJa": "新モデルのApple Watch Series 12およびUltra 4に搭載される新しいヘルスセンサーシステムにより、心拍数の測定頻度が大幅に向上することが分かりました。これに伴い、これまではアプリの起動アイコンとして機能するだけだった小さな心拍数コンプリケーションに、ライブの心拍数が直接表示されるよう改良されています。ハードウェアの進化を活かした、ユーザーにとって利便性の高いアップデートとなりそうです。"
-    },
-    {
-      "id": "82258a1c239cc97057f1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple says two iOS 27 features aren’t coming until a ‘future software update’",
-      "url": "https://9to5mac.com/2026/09/11/apple-says-two-ios-27-features-arent-coming-until-a-future-software-update/",
-      "publishedAt": "2026-09-11T19:46:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/passwords-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iOS 27の一部機能を今後のソフトウェアアップデートへ延期",
-      "summaryJa": "Appleは、近日中にリリース予定のiOS 27から、メッセージアプリでの提案機能と自動パスワード変更機能の2つを一時的に削除したことを明らかにしました。これらの機能はベータ版に含まれていましたが、将来のソフトウェアアップデートでiPhoneやiPadOS、macOS向けに改めて提供される予定です。現時点で正確な配信時期は明らかにされていません。"
     }
   ],
-  "updatedAt": "2026-09-19T13:18:14.671Z",
+  "updatedAt": "2026-09-19T16:36:15.891Z",
   "initialized": true,
   "summaryVersion": 4
 }
