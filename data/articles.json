@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "dd7901b713f37ab63f6e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Top Stories: iOS 27 and macOS Golden Gate Out Now, Siri AI Waitlist, and More",
+      "url": "https://www.macrumors.com/2026/09/19/top-stories-ios-27-macos-golden-gate-out-now/",
+      "publishedAt": "2026-09-19T13:00:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/top-stories-2026-09-19.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iOS 27やmacOS Golden Gateを正式リリース",
+      "summaryJa": "Appleは、新製品の発売に合わせてiOS 27やiPadOS 27、macOS Golden Gateなどの大型OSアップデートを一般向けにリリースしました。新バージョンでは、多くの国でSiriにAI機能が追加されたほか、視覚情報の認識機能やデザインの刷新など、多岐にわたる機能強化と改善が含まれています。"
+    },
+    {
+      "id": "3bc1feee32e70ac023f6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work: Enterprise oassword management is still hard, and Dashlane’s new Vault Enforcement aims to fix it",
+      "url": "https://9to5mac.com/2026/09/19/apple-work-password-management-is-still-hard-and-dashlanes-new-vault-enforcement-admits-it/",
+      "publishedAt": "2026-09-19T13:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Dashlane、企業向けパスワード管理の新機能を発表",
+      "summaryJa": "企業環境におけるパスワード管理の重要性が増す中、Dashlaneは企業の認証情報をより強固に保護するための新しいソリューション「Vault Enforcement」を発表しました。組織内での安全なデバイス運用とセキュリティ対策の強化をサポートする仕組みとして注目されています。"
+    },
+    {
+      "id": "c71600be72da1cee3a8a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple weekend deals: AirPods up to $100 off, Apple Watch Series 12, MacBook Air, Mac mini, more",
+      "url": "https://9to5mac.com/2026/09/19/apple-weekend-deals-airpods-apple-watch/",
+      "publishedAt": "2026-09-19T12:01:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Weekend-deals-AirPods-Series-12-MacBook.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "週末限定、AirPodsやMac各種が割引セールに登場",
+      "summaryJa": "最新のiPhone 18 Proの発売やアマゾンのセールに合わせ、週末限定のApple製品割引セールが実施されています。AirPodsシリーズやApple Watch Series 12、さらにM6搭載のMac miniやM5搭載のMacBook Airなどが通常価格よりお得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "40e3b765b84ca03d3cdc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Max still uses a Qualcomm modem in the US, teardown confirms",
+      "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-max-still-uses-a-qualcomm-modem-in-the-us-teardown-confirms/",
+      "publishedAt": "2026-09-19T11:45:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-41.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "米国版iPhone 18 Pro Maxの分解調査で通信モデムが判明",
+      "summaryJa": "TechInsightsによる分解調査により、米国で販売されたiPhone 18 Pro Maxには引き続き米Qualcomm製のモデムが搭載されていることが確認されました。Appleは多くのモデルで自社製のC2モデムへ移行を進めていますが、米国向けの特定モデルではSnapdragon X80が採用されている模様です。"
+    },
+    {
+      "id": "92c0ee2a2f52f08bc2c9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Max’s battery is so big Apple had to add this new feature to iOS 27",
+      "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-maxs-battery-is-so-big-apple-had-to-add-this-new-feature-to-ios-27/",
+      "publishedAt": "2026-09-19T11:10:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-max-ship.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro Maxの巨大バッテリーに向けた新機能をiOS 27が搭載",
+      "summaryJa": "iPhone 18 Pro Maxは非常に大型のバッテリーを搭載するため、輸送時の安全規制に対応する新しいファームウェア機能が導入されました。初期設定前はバッテリー容量が20Wh未満に制限され、アクティベーション時に解除される仕組みです。また、修理や売却の際に容量を一時的に下げる「出荷準備」機能も設定アプリに追加されています。"
+    },
+    {
       "id": "9c3f7c5b24915017dd4a",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4433,84 +4508,9 @@
       ],
       "titleJa": "Apple、iOS 27の一部機能を今後のソフトウェアアップデートへ延期",
       "summaryJa": "Appleは、近日中にリリース予定のiOS 27から、メッセージアプリでの提案機能と自動パスワード変更機能の2つを一時的に削除したことを明らかにしました。これらの機能はベータ版に含まれていましたが、将来のソフトウェアアップデートでiPhoneやiPadOS、macOS向けに改めて提供される予定です。現時点で正確な配信時期は明らかにされていません。"
-    },
-    {
-      "id": "34099fb1c13fef5ad8cf",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 11 vs. Series 12 Buyer's Guide: 25+ Upgrades Compared",
-      "url": "https://www.macrumors.com/guide/apple-watch-series-11-vs-12/",
-      "publishedAt": "2026-09-11T19:44:27.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Watch-Series-11-vs-Series-12-Buyers-Guide.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Series 12の魅力に迫る、前世代との25以上の違いを比較",
-      "summaryJa": "予約受付が始まったApple Watch Series 12は、前モデルのSeries 11と比べて大幅な進化を遂げたモデルとなっています。外観デザインは継続されるものの、新型のS11チップや4GBへのRAM増強、進化したヘルスセンサーやVitalsアプリの機能拡張など多くの改良が施されています。価格は従来同様の399ドルからとなっています。"
-    },
-    {
-      "id": "a640ddbb89decf687fb4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro First Look: Same Design, Big Changes Inside",
-      "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-hands-on/",
-      "publishedAt": "2026-09-11T19:37:47.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proファーストインプレッション、内部の大型進化と新デザイン",
-      "summaryJa": "新型のiPhone 18 ProおよびPro Maxは前モデルとほぼ同じ外観デザインを維持しつつ、カラーリングの均一化や小型化したDynamic Islandなどの細かい変更が加えられています。内部には2nmのA20 Proチップやベイパーチャンバー冷却システムが搭載され、持続的なパフォーマンスが最大40%向上しています。また、バッテリー駆動時間の改善や新しいデュアルNeural Engineも特徴となっています。"
-    },
-    {
-      "id": "e2563aea5e2ebf308604",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Pre-Orders: Deadline to 'Get Ready' Early is Tonight",
-      "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-pre-orders-get-ready/",
-      "publishedAt": "2026-09-11T19:37:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Burgundy-Feature.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの事前準備、Apple Storeアプリでの受付期限が本夜に迫る",
-      "summaryJa": "iPhone 18 ProとPro Maxの予約注文開始に向けて、Appleはユーザーが事前に購入手続きを済ませておける「Get Ready」機能の事前準備締め切りを今夜に設定しています。これを利用してモデル選択やアクセサリーの追加、支払い方法の確認などを事前に済ませておくことで、明朝の予約混雑時にスムーズな決済が可能になります。"
-    },
-    {
-      "id": "acc27f8628548c20ff07",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 vs Series 11: Here’s everything new",
-      "url": "https://9to5mac.com/2026/09/11/apple-watch-series-12-vs-series-11-heres-everything-new/",
-      "publishedAt": "2026-09-11T19:35:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-pearl-white-ceramic.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Series 12の進化点まとめ",
-      "summaryJa": "Apple Watch Series 12では、内部のセンサーや健康管理機能が大幅に刷新され、新たにAI機能に対応しました。ケース素材には新色のダークブロンズやセラミックが追加され、S11チップや2倍に増量されたRAMによってパフォーマンスも向上しています。"
-    },
-    {
-      "id": "e7b400e443044d6f6169",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple’s iPhone 18 Pro cases are already in stores, and not just for the new models",
-      "url": "https://9to5mac.com/2026/09/11/apples-iphone-18-pro-cases-are-already-in-stores-and-not-just-for-the-new-models/",
-      "publishedAt": "2026-09-11T18:54:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Pro用ケースが早くも店舗に登場",
-      "summaryJa": "Apple Store各店にiPhone 18 Pro向けの新しいケースやアクセサリが入荷しました。今回のケースはiPhone 17 Proとも互換性があり、シリコンケースやリニューアルされたクリアケース、新たに登場したリストストラップなどがラインナップされています。"
     }
   ],
-  "updatedAt": "2026-09-19T09:25:18.931Z",
+  "updatedAt": "2026-09-19T13:18:14.671Z",
   "initialized": true,
   "summaryVersion": 4
 }
