@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "a8fecd1a83de6e0154f0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple is taking a little bit of a gamble with iPhone Duo software: Will it pay off?",
+      "url": "https://9to5mac.com/2026/09/19/apples-iphone-duo-software-gamble/",
+      "publishedAt": "2026-09-19T20:46:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-official-front.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone Duoのソフトウェアを巡るAppleの賭け",
+      "summaryJa": "新しいiPhone Duoでは、内部の大画面を活用するためにすべてのアプリをiOS 27以上へ再コンパイルする必要があり、開発者にとって負担となっています。独自のタブバーなどのUIを利用するにはiOS 27.1が必要であり、対応が遅れたアプリは黒帯が表示されるリスクを抱えています。Appleがリサイズ可能なiPadアプリの動作を許可しなかったのは、独自に設計された直感的なインターフェースの体験を重視したためとみられます。"
+    },
+    {
+      "id": "e2e0c83ccf2b2dc1580e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Indie App Spotlight: ‘GasPulse’ lets you keep an eye on gas price trends around you",
+      "url": "https://9to5mac.com/2026/09/19/indie-app-spotlight-gaspulse-lets-you-keep-an-eye-on-gas-price-trends-around-you/",
+      "publishedAt": "2026-09-19T19:30:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/GasPulse-app.png?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "周辺のガソリン価格の傾向が追えるアプリ「GasPulse」",
+      "summaryJa": "「GasPulse」は、地域ごとのガソリン価格の傾向や過去の履歴、将来の予測などをiPhone上で確認できるインディー開発の優れたツールです。エネルギー情報局の週間平均データを利用し、チャート形式で分かりやすいインターフェースを提供しています。無料の価格アラート機能やホーム画面のウィジェット、Siriへの対応なども備えており、サブスクリプションなしで利用可能です。"
+    },
+    {
       "id": "773dcbe5b2f8d034e2de",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4478,39 +4508,9 @@
       ],
       "titleJa": "アナリスト、iPhone Duoが今後の需要を牽引すると予測",
       "summaryJa": "アナリストのジェフ・プー氏によると、今回のiPhoneの値上げ幅は市場の懸念よりも抑えられているとのことです。また、初期の強い消費者関心を集めるiPhone Duoが今後の製品サイクルの需要を牽引し、年末までに700万台が出荷されるとの見通しを示しています。"
-    },
-    {
-      "id": "84194835fd37f8bbb1a1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Here's When iPhone 18 Pro Pre-Orders Begin in Every Time Zone",
-      "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-pre-orders-time-zones/",
-      "publishedAt": "2026-09-11T22:02:55.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Pre-Orders-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの予約受付開始日時が世界各地で決定",
-      "summaryJa": "iPhone 18 ProおよびPro Maxの事前予約が、太平洋時間の9月12日午前5時より世界各国で一斉に開始されます。日本時間の午後9時をはじめ、各国・地域のタイムゾーンに応じた具体的な予約開始時間が案内されており、購入希望者は事前の準備を進めることができます。"
-    },
-    {
-      "id": "7fef71f19ea6fd839c45",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple ranks third on TIME’s World’s Best Companies list after last year’s absence",
-      "url": "https://9to5mac.com/2026/09/11/apple-ranks-third-on-times-worlds-best-companies-list-after-last-years-absence/",
-      "publishedAt": "2026-09-11T20:59:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Mac-hardware-is-great-but-macOS-26-is-a-disaster-say-pundits.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、米タイム誌の「世界で最も影響力のある企業」で3位にランクイン",
-      "summaryJa": "米タイム誌の「世界で最も影響力のある企業2026」が発表され、Appleが3位に返り咲きました。同誌は従業員満足度、過去3年間の売上高成長率、持続可能性の透明性を評価基準としています。AppleはAI分野への投資強化や売上高の回復が評価された一方、持続可能性の透明性の順位は前回から低下する結果となりました。"
     }
   ],
-  "updatedAt": "2026-09-19T18:56:47.631Z",
+  "updatedAt": "2026-09-19T21:25:41.046Z",
   "initialized": true,
   "summaryVersion": 4
 }
