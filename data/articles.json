@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "0d45dd000373b4af4d65",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Gemini app for macOS adding send and read iMessage integration",
+      "url": "https://9to5google.com/2026/09/18/gemini-macos-imessage/",
+      "publishedAt": "2026-09-18T23:57:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Gemini-Mac-App-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "macOS版GeminiアプリにiMessage連携機能が追加へ",
+      "summaryJa": "GoogleはmacOS版Geminiアプリの最新アップデートで、ローカルでのiMessage連携機能の準備を進めています。これは先週のWindows版アプリの展開に続くものであり、今後の機能拡張が注目されます。"
+    },
+    {
+      "id": "c52fdd776298a43bc48a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Max Requires 'Prepare to Ship' Battery Drain Before Shipping",
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-shipping-restriction/",
+      "publishedAt": "2026-09-18T23:28:05.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-max-prepare.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Pro Max、発送前にバッテリーを放電する新機能が必要に",
+      "summaryJa": "iPhone 18 Pro Maxはバッテリー容量が20ワット時を超えるため、配送要件を満たすために発送前のバッテリー制御が必要になります。ユーザーは修理や下取りなどで発送する際、設定からバッテリーを安全な閾値まで放電させる専用機能を利用できます。"
+    },
+    {
+      "id": "e93ac6d23c16b84a29bd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "The Quantified Scientist tests the Apple Watch Series 12’s new heart rate sensor",
+      "url": "https://9to5mac.com/2026/09/18/the-quantified-scientist-tests-the-apple-watch-series-12s-new-heart-rate-sensor/",
+      "publishedAt": "2026-09-18T23:08:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-heart.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch Series 12の新型心拍センサーが精度テストで高評価",
+      "summaryJa": "YouTubeチャンネル「The Quantified Scientist」がApple Watch Series 12の新しい心拍センサーの精度を検証しました。胸部心拍ストラップと比較した結果、インドアサイクリングやランニングなどの運動中において非常に高い相関を示し、優れた計測性能を発揮することが確認されました。"
+    },
+    {
       "id": "47c52aeeebf0e10c16ac",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4463,54 +4508,9 @@
       ],
       "titleJa": "Apple、今年後半から来年にかけて発表が噂される8製品",
       "summaryJa": "Appleは今年のiPhoneイベントを終えたものの、今後さらに多くの新製品を投入する見込みです。新型のiPad mini、M6チップ搭載のiMacやMacBook Pro、OLEDディスプレイを採用したMacBook Ultra、さらには新しいApple TVやHomePod miniなどが控えていると報じられています。一部の製品は2026年後半から2027年初頭の登場になると予想されています。"
-    },
-    {
-      "id": "497ac02cf8d073931519",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "HomeKit Weekly: Shelly’s Flood S Gen4 is a low cost Matter leak sensor for Apple Home",
-      "url": "https://9to5mac.com/2026/09/11/homekit-weekly-shellys-flood-s-gen4-is-a-low-cost-matter-leak-sensor-for-apple-home/",
-      "publishedAt": "2026-09-11T18:10:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Shelly-leak-sensor-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Home対応の安価な水漏れセンサー登場",
-      "summaryJa": "ShellyからMatterに対応した低価格な水漏れセンサー「Flood S Gen4」が登場しました。底面全体に配置された大型のステンレスパッドにより微量な水も素早く検知し、Apple Homeと連携させることで外出先でもiPhoneに通知を受け取ることができます。"
-    },
-    {
-      "id": "f77b55290fa57169f812",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27.1 release date: Here’s when to expect the new iPhone update",
-      "url": "https://9to5mac.com/2026/09/11/ios-27-1-release-date-heres-when-to-expect-the-new-iphone-update/",
-      "publishedAt": "2026-09-11T17:28:37.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27.1-02.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27.1のリリース時期とベータ版のスケジュール",
-      "summaryJa": "間もなく一般向けにリリースされるiOS 27に続き、早くも「iOS 27.1」のベータ版が来週以降に登場する見込みです。過去の傾向から、最初のベータ版は正式リリースから数日以内に配布されると予想されています。また、公開版については10月23日までに登場するiPhone Duoの出荷に合わせて、10月中旬頃にリリースされる計画となっています。"
-    },
-    {
-      "id": "da8f2f17636e1a9ce70e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple hid a classic Mac easter egg in the iOS 27 Settings app",
-      "url": "https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/",
-      "publishedAt": "2026-09-11T17:23:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-ios-27-dogcow-moof.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27の設定アプリに初代Macの隠し要素が登場",
-      "summaryJa": "iOS 27の設定アプリ内にあるLiquid Glassの外観調整画面に、クラシックMac OSに由来する「犬牛（Dogcow）」のクラルスがイースターエッグとして隠されていることが判明しました。透明度のプレビュー画面を一番下までスクロールして上に引き上げると、Apple Parkの池のそばにあるフィギュアの写真が表示されます。さらに、Siriに「Moof!」と話しかけると特別な返事をするなど、遊び心のある演出が盛り込まれています。"
     }
   ],
-  "updatedAt": "2026-09-18T22:30:46.243Z",
+  "updatedAt": "2026-09-19T00:35:16.223Z",
   "initialized": true,
   "summaryVersion": 4
 }
