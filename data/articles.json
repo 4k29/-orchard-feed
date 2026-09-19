@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "e0a438b4db3855053acb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 and Ultra 4 missing one health-focused feature",
+      "url": "https://9to5mac.com/2026/09/19/apple-watch-series-12-ultra-4-missing-one-health-feature/",
+      "publishedAt": "2026-09-19T22:16:41.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch最新モデルで手洗いタイマーが非対応に",
+      "summaryJa": "新しく発売されたApple Watch Series 12とUltra 4のハードウェアにおいて、手洗いタイマー機能が搭載されていないことが分かりました。watchOS 27自体やヘルスケアアプリでは手洗い検出機能がサポートされているものの、最新モデルの対応ハードウェアリストからは除外されています。これが意図的なものかハードウェアの違いによるものかは現時点で不明となっています。"
+    },
+    {
       "id": "a8fecd1a83de6e0154f0",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4493,24 +4508,9 @@
       ],
       "titleJa": "ポッドキャスト番組が初の折り畳みiPhoneの第一印象を語る",
       "summaryJa": "海外メディアのポッドキャスト番組において、Apple初の折り畳みスマートフォンであるiPhone Duoについての初期の感想や意見が議論されました。番組では、新デバイスのデザインや特徴に関する興味深い観察結果が毎週のトピックとして取り上げられています。"
-    },
-    {
-      "id": "afa2048818e127b4b7ef",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Report: iPhone price hike ‘better than feared,’ iPhone Duo to drive demand for the cycle",
-      "url": "https://9to5mac.com/2026/09/11/report-iphone-price-hike-better-than-feared-iphone-duo-to-drive-demand-for-the-cycle/",
-      "publishedAt": "2026-09-11T22:05:22.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-iphone-duo-side-by-side.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "アナリスト、iPhone Duoが今後の需要を牽引すると予測",
-      "summaryJa": "アナリストのジェフ・プー氏によると、今回のiPhoneの値上げ幅は市場の懸念よりも抑えられているとのことです。また、初期の強い消費者関心を集めるiPhone Duoが今後の製品サイクルの需要を牽引し、年末までに700万台が出荷されるとの見通しを示しています。"
     }
   ],
-  "updatedAt": "2026-09-19T21:25:41.046Z",
+  "updatedAt": "2026-09-19T23:27:53.862Z",
   "initialized": true,
   "summaryVersion": 4
 }
