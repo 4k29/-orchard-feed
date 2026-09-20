@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "7e79b1f589c82e917a68",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Delayed Apple TV series ‘The Savant’ may finally air next year",
+      "url": "https://9to5mac.com/2026/09/20/apple-tv-the-savant-another-release-date/",
+      "publishedAt": "2026-09-20T22:52:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/the-savant-coming-later-date.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVの注目作「The Savant」が2027年春に配信か",
+      "summaryJa": "ジェシカ・チャステイン主演のApple TVシリーズ「The Savant」は、配信直前に公開が見送られていましたが、2027年春に配信スケジュールが再設定されたと報じられています。エミー賞の受賞を視野に入れて春の公開を目指していると伝えられており、今後の動向が注目されます。"
+    },
+    {
+      "id": "6756c5770753e49dc969",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Review: Satechi’s Thunderbolt 5 CubeDock pairs perfectly with the new M6 Mac mini",
+      "url": "https://9to5mac.com/2026/09/20/satechi-thunderbolt-5-cubedock-mac-mini-review/",
+      "publishedAt": "2026-09-20T22:29:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC01978.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Satechi、新型Mac miniに最適化されたThunderbolt 5対応ドックを発売",
+      "summaryJa": "Satechiは、新型Mac miniのデザインに合わせたThunderbolt 5対応の「CubeDock」を発表しました。Mac miniと同等の形状を持ちながら、最大140Wのホスト充電や多数のポート、さらにNVMe SSDベイを搭載している点が特徴です。高価格帯ながら、拡張性とデザイン性を両立した優れた周辺機器として注目されています。"
+    },
+    {
+      "id": "de62f1d00d7113abba4f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iFixit tears down iPhone 18 Pro, explores variable aperture, finds concerning repair issue",
+      "url": "https://9to5mac.com/2026/09/20/ifixit-tears-down-iphone-18-pro-explores-variable-aperture-finds-concerning-repair-issue/",
+      "publishedAt": "2026-09-20T22:02:17.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ifixit-18-pro-teardown.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iFixit、iPhone 18 Proの分解レポートを公開し可変絞りなどを検証",
+      "summaryJa": "iFixitが「iPhone 18 Pro」の分解を行い、新しい可変絞り機構や画面下埋め込み式のFace IDカメラ、大型化したベイパーチャンバーの詳細を明らかにしました。可変絞りは電磁石で制御される非常に微細な仕組みであり、故障時の修理にはカメラ全体の交換が必要になる可能性があると指摘されています。"
+    },
+    {
       "id": "375c5e417d5e1d91ae97",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4463,54 +4508,9 @@
       ],
       "titleJa": "米キャリア各社、iPhone 18 Proの予約開始に伴う割引キャンペーンを発表",
       "summaryJa": "米国の主要通信キャリアであるAT&TやT-Mobileは、iPhone 18 ProおよびiPhone 18 Pro Maxの予約開始に合わせて、最大1,200ドルの割引キャンペーンを発表しました。対象機種の下取りや条件付きプランへの加入などを組み合わせることで、実質負担を大幅に抑えて購入することが可能です。"
-    },
-    {
-      "id": "90138a751ffdef679f12",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Store Down Ahead of iPhone 18 Pro Pre-Orders",
-      "url": "https://www.macrumors.com/2026/09/12/apple-store-down-iphone-18-pro-pre-orders/",
-      "publishedAt": "2026-09-12T06:30:38.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-store-down-2026-iphone-18-pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Store、iPhone 18 Proの予約受付を前にメンテナンス入り",
-      "summaryJa": "iPhone 18 ProおよびiPhone 18 Pro Maxの予約受付開始を控え、Appleのオンラインストアがメンテナンスに入りました。米国をはじめ世界65以上の国と地域で同日より予約が始まり、9月18日の発売日に店頭販売や配送が開始される予定です。新モデルでは新たに2TBのストレージオプションがProモデルに追加されるなど、ラインナップの拡充が注目されています。"
-    },
-    {
-      "id": "98956ad3398e58f9bd3b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "How to Pre-Order iPhone 18 Pro From Apple and Get the Model You Want on Launch Day",
-      "url": "https://www.macrumors.com/how-to/pre-order-your-iphone-18-pro-from-apple/",
-      "publishedAt": "2026-09-12T05:50:04.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-iPhone-18-Pro-color-lineup-16x9-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの予約注文で発売日に入手するためのコツ",
-      "summaryJa": "Appleが発表した「iPhone 18 Pro」および「iPhone 18 Pro Max」の予約注文に向けて、発売日に確実に入手するための事前準備や注意点が紹介されています。Apple Storeアプリの「Get Ready」機能を利用して、モデル選択や支払い方法を事前に設定しておくことで、予約開始時にスムーズな決済が可能になります。人気モデルはすぐに出荷日が遅れる傾向があるため、素早い手続きが重要となります。"
-    },
-    {
-      "id": "519b0138b034348d48ba",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple researchers unveil SimpleDesign, a new AI model for protein design",
-      "url": "https://9to5mac.com/2026/09/11/apple-researchers-unveil-simpledesign-a-new-ai-model-for-protein-design/",
-      "publishedAt": "2026-09-12T01:56:26.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-simplefold-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、タンパク質設計の新しいAIモデル「SimpleDesign」を発表",
-      "summaryJa": "Appleの研究者らが、タンパク質の配列と構造を同時に生成できる新しい効率的なAIモデル「SimpleDesign」の詳細を公開しました。昨年発表された3D構造予測モデル「SimpleFold」の技術をさらに発展させたもので、複雑な多段階プロセスを簡素化し、汎用的なトランスフォーマーブロックを活用しているのが特徴です。タンパク質設計の分野における新たなアプローチとして注目されています。"
     }
   ],
-  "updatedAt": "2026-09-20T21:08:44.133Z",
+  "updatedAt": "2026-09-20T23:15:30.137Z",
   "initialized": true,
   "summaryVersion": 4
 }
