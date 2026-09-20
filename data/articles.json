@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "6cdca1f4c514017fe353",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s why Apple scrapped its shorter Apple Pencil designed for iPhone Duo: report",
+      "url": "https://9to5mac.com/2026/09/20/heres-why-apple-scrapped-its-shorter-apple-pencil-designed-for-iphone-duo-report/",
+      "publishedAt": "2026-09-20T14:38:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-side-angle-unfolded.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AppleがiPhone Duo向け専用Apple Pencilの計画を断念した理由とは",
+      "summaryJa": "AppleはiPhone Duo向けに小型の専用Apple Pencilを開発していたものの、量産前の技術的課題に直面し計画を断念したと報じられています。そのため、初期モデルではUSB-C対応のApple Pencilをサポートする予定となり、ソフトウェアの対応や内部テストが進行中で今年末までに提供される見込みです。"
+    },
+    {
       "id": "f28383599d426d5766c7",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4493,24 +4508,9 @@
       ],
       "titleJa": "WhatsApp、iPad向けアプリにMac風のサイドバーを導入か",
       "summaryJa": "WhatsAppがiPad向けアプリのデザイン刷新を進めており、従来のボトムタブバーに代わってMac版のようなサイドバーを導入しつつあると報じられています。チャットや通話などの主要セクションに素早くアクセスできるようになり、サイドバーを非表示にして会話画面を広く使うことも可能です。現在は一部のベータテスターやApp Storeの一部ユーザーを対象に展開されています。"
-    },
-    {
-      "id": "aae5a2d725653aa0130d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Leaker says Apple will pay $250 per iPhone Duo display in three-year Samsung deal",
-      "url": "https://9to5mac.com/2026/09/11/leaker-says-apple-will-pay-250-per-iphone-duo-display-in-three-year-samsung-deal/",
-      "publishedAt": "2026-09-11T23:07:25.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、サムスンと折り畳みiPhone用ディスプレイで独占契約か",
-      "summaryJa": "Appleがサムスンディスプレイと折り畳み式パネルの供給に関する3年間の独占契約を締結したと報じられています。リーク情報によると、iPhone Duoなどに採用されるこのパネルの価格は1枚あたり約250ドルで、デバイスの最も高価な主要部品の一つになるとされています。"
     }
   ],
-  "updatedAt": "2026-09-20T12:14:43.143Z",
+  "updatedAt": "2026-09-20T16:14:50.447Z",
   "initialized": true,
   "summaryVersion": 4
 }
