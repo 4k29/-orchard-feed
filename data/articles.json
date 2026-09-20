@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "375c5e417d5e1d91ae97",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Five ways that the new Siri AI is frustrating iPhone and Apple Watch users",
+      "url": "https://9to5mac.com/2026/09/20/five-ways-that-the-new-siri-ai-is-frustrating-iphone-and-apple-watch-users/",
+      "publishedAt": "2026-09-20T18:35:12.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新しいSiri AI、iPhoneなどのユーザーから不満の声",
+      "summaryJa": "iOS 27の一部として今月提供が始まった新バージョンのSiri AIに対し、ユーザーの間で不満の声が上がっています。豊富な知識やメッセージ検索などの新機能が追加された一方で、ネットワーク接続エラーやインデックスの問題といったパフォーマンスの不具合が報告されています。Appleはベータ版として順次展開しており、今後のアップデートでの改善が求められています。"
+    },
+    {
       "id": "6cdca1f4c514017fe353",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4493,24 +4508,9 @@
       ],
       "titleJa": "Apple、タンパク質設計の新しいAIモデル「SimpleDesign」を発表",
       "summaryJa": "Appleの研究者らが、タンパク質の配列と構造を同時に生成できる新しい効率的なAIモデル「SimpleDesign」の詳細を公開しました。昨年発表された3D構造予測モデル「SimpleFold」の技術をさらに発展させたもので、複雑な多段階プロセスを簡素化し、汎用的なトランスフォーマーブロックを活用しているのが特徴です。タンパク質設計の分野における新たなアプローチとして注目されています。"
-    },
-    {
-      "id": "c1f61405e6947a6370e3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp rolling out redesigned iPad interface with Mac-like sidebar",
-      "url": "https://9to5mac.com/2026/09/11/whatsapp-rolling-out-redesigned-ipad-interface-with-mac-like-sidebar/",
-      "publishedAt": "2026-09-11T23:34:48.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp、iPad向けアプリにMac風のサイドバーを導入か",
-      "summaryJa": "WhatsAppがiPad向けアプリのデザイン刷新を進めており、従来のボトムタブバーに代わってMac版のようなサイドバーを導入しつつあると報じられています。チャットや通話などの主要セクションに素早くアクセスできるようになり、サイドバーを非表示にして会話画面を広く使うことも可能です。現在は一部のベータテスターやApp Storeの一部ユーザーを対象に展開されています。"
     }
   ],
-  "updatedAt": "2026-09-20T16:14:50.447Z",
+  "updatedAt": "2026-09-20T18:52:18.865Z",
   "initialized": true,
   "summaryVersion": 4
 }
