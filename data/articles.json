@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "f28383599d426d5766c7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 makes your iPhone faster in these 30+ ways",
+      "url": "https://9to5mac.com/2026/09/19/ios-27-makes-your-iphone-faster-in-30-ways-heres-the-full-list/",
+      "publishedAt": "2026-09-20T00:16:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iOS 27でiPhoneの動作を高速化する30以上の改善を公開",
+      "summaryJa": "Appleは、一般向けに配信を開始した「iOS 27」において、iPhone全体の動作を高速化する30以上の改善点を明らかにした。写真アプリやSafariの読み込み速度向上、カメラ起動の高速化、各種アプリの応答性改善など、日常的なタスクをよりスムーズに行えるようシステム全体の見直しが行われている。"
+    },
+    {
       "id": "e0a438b4db3855053acb",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4493,24 +4508,9 @@
       ],
       "titleJa": "Apple、サムスンと折り畳みiPhone用ディスプレイで独占契約か",
       "summaryJa": "Appleがサムスンディスプレイと折り畳み式パネルの供給に関する3年間の独占契約を締結したと報じられています。リーク情報によると、iPhone Duoなどに採用されるこのパネルの価格は1枚あたり約250ドルで、デバイスの最も高価な主要部品の一つになるとされています。"
-    },
-    {
-      "id": "e7899c2c406fdc031222",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Overtime 081: iPhone Duo thoughts and impressions",
-      "url": "https://9to5mac.com/2026/09/11/9to5mac-overtime-081-iphone-duo-thoughts-and-impressions/",
-      "publishedAt": "2026-09-11T22:20:54.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/9to5Mac-Overtime-081.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ポッドキャスト番組が初の折り畳みiPhoneの第一印象を語る",
-      "summaryJa": "海外メディアのポッドキャスト番組において、Apple初の折り畳みスマートフォンであるiPhone Duoについての初期の感想や意見が議論されました。番組では、新デバイスのデザインや特徴に関する興味深い観察結果が毎週のトピックとして取り上げられています。"
     }
   ],
-  "updatedAt": "2026-09-19T23:27:53.862Z",
+  "updatedAt": "2026-09-20T01:32:56.312Z",
   "initialized": true,
   "summaryVersion": 4
 }
