@@ -1,6 +1,190 @@
 {
   "articles": [
     {
+      "id": "30ad7013da69bcc8938a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MagSafe Monday: BLAVOR’s solar power bank is built for fall camping trips",
+      "url": "https://9to5mac.com/2026/09/21/bllavors-solar-power-bank-is-built-for-fall-camping-trips/",
+      "publishedAt": "2026-09-21T18:11:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/solar-batter.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "キャンプに最適、ケーブル内蔵のBLAVOR製ソーラーモバイルバッテリー",
+      "summaryJa": "これからの季節のアウトドアやキャンプで活躍する、BLAVORの20000mAhソーラーモバイルバッテリーが紹介されています。本体にはUSB-CやLightningなど4種類のケーブルが内蔵されており、別途ケーブルを持ち歩く必要がありません。さらにソーラーパネルによる充電や、iPhoneなどのワイヤレス充電にも対応しています。ワイヤレス部分はMagSafe非対応のQi充電となりますが、複数のデバイスを同時に充電できる優れた携帯性が特徴です。"
+    },
+    {
+      "id": "1872db9f1b342d672226",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 14 Pro vs. iPhone 18 Pro Buyer's Guide: Should You Upgrade?",
+      "url": "https://www.macrumors.com/guide/iphone-14-pro-vs-18-pro/",
+      "publishedAt": "2026-09-21T18:05:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-14-pro-vs-iphone-18-pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 14 ProからiPhone 18 Proへの買い替えガイド",
+      "summaryJa": "iPhone 14 Proから最新のiPhone 18 Proシリーズへアップグレードする価値について検証しています。4世代分の進化により、大画面化、新しいデザイン、カメラの性能向上、バッテリー持続時間の延長、USB-C対応、さらにApple Intelligenceのサポートなど多くの変更が加わっています。価格はベースストレージの容量が倍増したことに伴い若干値上がりしていますが、長期間使用してきたユーザーにとっては大幅な進化を実感できる内容となっています。"
+    },
+    {
+      "id": "ec0c886110ccd1d10fce",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "M4 iPad Air Now Starting at $649 on Amazon, Save Up to $149",
+      "url": "https://www.macrumors.com/2026/09/21/m4-ipad-air-149-off/",
+      "publishedAt": "2026-09-21T17:48:52.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2020/03/m4-ipad-air-blue-2.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AmazonでM4 iPad Airが最大149ドル引きのセール中",
+      "summaryJa": "Amazonにて、M4チップを搭載した最新のiPad Airが最大149ドル引きで販売されています。11インチおよび13インチの各モデルが対象となっており、夏の値上げ以降では最もお得な価格で購入できるチャンスとなっています。新しいiPad AirはM4チップやC1Xモデム、Wi-Fi 7などを搭載し、処理性能や通信機能が大きく向上しています。割引は自動的に適用されるため、クーポンコードの入力などは不要です。"
+    },
+    {
+      "id": "11f7448426ea741cdf6f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple rolls out second Release Candidates for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1",
+      "url": "https://9to5mac.com/2026/09/21/apple-rolls-out-second-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
+      "publishedAt": "2026-09-21T17:30:14.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOS Tahoe 26.7.1とSequoia 15.8.1のRC 2を配信",
+      "summaryJa": "Appleは正式リリースに向けて、macOS Tahoe 26.7.1およびmacOS Sequoia 15.8.1の第2弾となるリリース候補版（RC 2）を開発者向けに配信開始しました。先週公開されたRC 1に続くもので、重要なセキュリティ修正が含まれておりすべてのユーザーに推奨されています。正式版は今後数週間のうちに一般向けへリリースされる見込みで、詳細なセキュリティ情報はその際に公開される予定です。"
+    },
+    {
+      "id": "66ba1479da18e4241cb1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Beta 2 now available for iPadOS 27.2, watchOS 27.2, more",
+      "url": "https://9to5mac.com/2026/09/21/beta-2-now-available-for-ipados-27-2-watchos-27-2-more/",
+      "publishedAt": "2026-09-21T17:25:48.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Beta 2 now available for iPadOS 27.2, watchOS 27.2, more",
+      "summaryJa": "Last week Apple kicked off a new beta wave for its 27.2 software releases, and today beta 2 is rolling out just five days later for iPadOS 27.2 and more. more… Last week Apple kicked off a new beta wave for its 27.2 software releases, and today beta 2 is rolling out just five days later for iPadOS 27.2 and more. iPadOS 27.2 gets beta 2 update, plus tvOS 27.2, visionOS 27.2, and more It’s been a busy week or so for Apple software releases. The company launched its major new updates like iOS 27, iPadOS 27, and macOS Golden Gate to the public last Monday. Then just a couple days later, developer beta 1 for the 27.2 round of updates debuted. Skipping over 27.1 was a surprise, but reportedly that update will be exclusive to iPhone Duo. So Apple went straight to 27.2 for beta testers, with the m",
+      "translationStatus": "source"
+    },
+    {
+      "id": "108ca6c1d6f6c47d8726",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Seeds Second macOS Golden Gate 27.2 Beta to Developers",
+      "url": "https://www.macrumors.com/2026/09/21/apple-seeds-macos-27-2-beta-2/",
+      "publishedAt": "2026-09-21T17:23:13.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Seeds Second macOS Golden Gate 27.2 Beta to Developers",
+      "summaryJa": "Apple is testing the next macOS Golden Gate update, and developers can download the second &zwnj;macOS Golden Gate&zwnj; 27.2 beta. The second beta comes a week after Apple released the first beta. Registered developers can download &zwnj;macOS Golden Gate&zwnj; 27.2 by opening up the System Settings app, clicking on General, selecting Software Update, and opting into &zwnj;macOS Golden Gate&zwnj; betas. &zwnj;macOS Golden Gate&zwnj; 27.2 introduces Siri AI in new languages. We're expecting a launch toward the end of October. Related Roundup: macOS Golden Gate Related Forum: macOS Golden Gate This article, \" Apple Seeds Second macOS Golden Gate 27.2 Beta to Developers \" first appeared on MacRumors.com Discuss this article in our forums",
+      "translationStatus": "source"
+    },
+    {
+      "id": "45be626e8630ff3fe598",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27.2 Golden Gate beta 2 now available, here’s what to expect",
+      "url": "https://9to5mac.com/2026/09/21/macos-27-2-golden-gate-beta-2-now-available-heres-what-to-expect/",
+      "publishedAt": "2026-09-21T17:22:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-b2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "macOS 27.2 Golden Gate beta 2 now available, here’s what to expect",
+      "summaryJa": "Developers can now install macOS 27.2 Golden Gate beta 2, ahead of the upcoming official release in a few weeks. Here’s what’s coming. more… Developers can now install macOS 27.2 Golden Gate beta 2, ahead of the upcoming official release in a few weeks. Here’s what’s coming. macOS 27.2 beta 2 now available Last week, Apple released macOS 27.2 Golden Gate beta 1 for developers, skipping the macOS 27.1 Golden Gate beta cycle. Presumably, that is because os iOS 27.1, which likely has details that the company did not want to share, even internally, ahead of time. The biggest user-facing new feature included in macOS 27.2 Golden Gate beta 1 is Siri AI’s support for five additional languages, after its English-only initial rollout last month with macOS 27 Golden Gate. As of macOS 27.2 Golden Gat",
+      "translationStatus": "source"
+    },
+    {
+      "id": "8450faa0d9fd4ad45de6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases Second iOS 27.2 Beta",
+      "url": "https://www.macrumors.com/2026/09/21/apple-releases-second-ios-27-2-beta/",
+      "publishedAt": "2026-09-21T17:21:17.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Releases Second iOS 27.2 Beta",
+      "summaryJa": "Apple today seeded the second beta of an upcoming iOS 27.2 update to developers for testing purposes, with the update coming a week after Apple released the first iOS 27.2 beta. Apple also seeded an iPadOS 27.2 beta. Registered developers can download the beta updates by opting in under Settings > General > Software Update and selecting the iOS 27 developer beta. iOS 27.2 includes Apple's redesigned Health app with new Insight and Longevity tabs. It also brings Siri AI in new languages. There are several other new features, with details available in our features guide . Apple releasing an iOS 27.2 beta ahead of a iOS 27.1 beta was surprise, especially because the company plans to ship the iPhone Duo with iOS 27.1 . Apple is likely holding iOS 27.1 until the Duo comes out, just to keep the",
+      "translationStatus": "source"
+    },
+    {
+      "id": "e67dc3e05fc6c7fc936c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases second iOS 27.2 developer beta for iPhone",
+      "url": "https://9to5mac.com/2026/09/21/apple-releases-second-ios-27-2-developer-beta-for-iphone/",
+      "publishedAt": "2026-09-21T17:20:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iOS-27.2-b2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPhone向け「iOS 27.2」開発者向けベータ2を公開",
+      "summaryJa": "Appleは開発者向けに「iOS 27.2」のベータ2をリリースしました。今回のアップデートでは、新しく再設計されたヘルスケアアプリやグループFaceTimeでのデュアルキャプチャモードなどが含まれており、SiriのAI言語サポートも拡充されています。今後は各新機能の詳細はもちろん、ベータテストの進行に伴う追加の変更点にも注目が集まります。"
+    },
+    {
+      "id": "6c1f0698c50241a1f64b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases Second watchOS 27.2, tvOS 27.2 and visionOS 27.2 Betas",
+      "url": "https://www.macrumors.com/2026/09/21/apple-releases-watchos-27-2-beta-2/",
+      "publishedAt": "2026-09-21T17:20:00.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/04/General-visionOS-watchOS-and-tvOS-Betas-Feature-Redux.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、watchOS 27.2やtvOS 27.2などのベータ2を配信開始",
+      "summaryJa": "AppleはiOS 27.2に続き、watchOS 27.2やtvOS 27.2、visionOS 27.2の開発者向けベータ2を公開しました。watchOS 27.2では、新しいApple Watchモデルのデータを利用した体調スコアなどを含む最新のヘルスケアアプリのテストが行われています。登録済みの開発者は、各デバイスの「設定」アプリからダウンロードして試すことが可能です。"
+    },
+    {
+      "id": "a53f638a5a4115b271f0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Mac Mini Reviews: A Good But No Longer 'Insanely Great' Deal",
+      "url": "https://www.macrumors.com/2026/09/21/mac-mini-m6-m5-pro-reviews/",
+      "publishedAt": "2026-09-21T17:08:52.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/mac-mini-blue.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "M6搭載「Mac mini」の先行レビューが公開、価格上昇も性能は高評価",
+      "summaryJa": "新世代のM6およびM5 Proチップを搭載した新しいMac miniの最初のレビューが公開されました。米国での価格が899ドルからに引き上げられたことは惜しまれるものの、AI処理も含めた優れたパフォーマンスを発揮する点は高く評価されています。半導体メモリの供給不足に伴う価格改定はあったものの、依然として魅力的な製品に仕上がっています。"
+    },
+    {
+      "id": "86ad72b68330b0436bcb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Shopify just released a brand-new Apple TV app with a dashboard for businesses",
+      "url": "https://9to5mac.com/2026/09/21/shopify-just-released-a-brand-new-apple-tv-app-with-a-dashboard-for-businesses/",
+      "publishedAt": "2026-09-21T17:05:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-new.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Shopify、Apple TV向けにビジネス用ダッシュボードアプリをリリース",
+      "summaryJa": "Shopifyは、Apple TVの大画面でビジネスの状況を確認できる専用アプリ「Shopcast」を新たにリリースしました。オフィスのディスプレイなどに売上や注文状況、人気の販売商品などをリアルタイムで表示し、チーム全体での把握を容易にします。Apple TVリモコンを使って、売上推移や地域別の注文状況などを手軽に確認できるのが特徴です。"
+    },
+    {
       "id": "f72c849107eef3bb457a",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4328,189 +4512,9 @@
       ],
       "titleJa": "Apple開発中のゲームコントローラーはBeatsブランドか",
       "summaryJa": "Appleが開発を進めていると噂される2種類のiPhone向けゲームコントローラーについて、Bloombergのマーク・ガーマン記者が、Beatsブランドから発売される可能性が高いと報じました。開発は1年以上前から行われており、Appleは成長するゲーム市場への参入を狙っているとされています。価格や発売時期については現時点で言及されていません。"
-    },
-    {
-      "id": "0073dd65204e10811f5d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 Available Tomorrow With These 8 New Features",
-      "url": "https://www.macrumors.com/2026/09/13/ios-27-features-available-tomorrow/",
-      "publishedAt": "2026-09-13T23:30:07.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27-Icon-iPhone.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、大幅な刷新を果たした「iOS 27」を明日公開へ",
-      "summaryJa": "Appleは、iPhone 18 Proの発表イベントにおいて、「iOS 27」を明日9月14日にリリースすると発表しました。今回のアップデートの目玉は、ChatGPTのように高度な処理が可能な「Siri AI」の大幅な刷新です。対応機種はiPhone 11シリーズ以降ですが、Apple Intelligence機能の利用にはiPhone 15 Pro以降が必要となります。"
-    },
-    {
-      "id": "aa47122686d2a3f78b59",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple planning three major changes for its retail stores, per report",
-      "url": "https://9to5mac.com/2026/09/13/apple-planning-three-major-changes-for-its-retail-stores-per-report/",
-      "publishedAt": "2026-09-13T17:28:59.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/apple-oxmoor.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、直営店にジーニアスバー復活など3つの主要な変更を計画か",
-      "summaryJa": "Bloombergの報道によると、Appleは今後数年間で直営店の改装ペースを加速させ、3つの大きな変更を導入する計画です。特に、かつての象徴的な専用ジーニアスバーの復活や、アクセサリ・サービスを展示するアベニューエリアの刷新、さらに店舗奥にある巨大なビデオウォールの撤去などが予定されていると伝えられています。"
-    },
-    {
-      "id": "178804b516db8a07208c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "This unique retro dock adds a flip-up display, Thunderbolt 5, & 8TB storage to your Mac [Video]",
-      "url": "https://9to5mac.com/2026/09/13/this-unique-retro-dock-adds-a-flip-up-display-thunderbolt-5-8tb-storage-to-your-mac-wokyis-g5-g7-video/",
-      "publishedAt": "2026-09-13T14:30:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/wokyis_2x1_400kb.jpg?quality=82&#038;strip=all&#038;w=1086",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Mac miniやMac Studio向けレトロ風ドックが登場",
-      "summaryJa": "初代Macintoshを彷彿とさせる外観に、フリップアップ式のディスプレイや豊富なポート、NVMeストレージスロットを搭載したユニークなMac用ドックが登場しました。新型の「Wokyis G5およびG7」は、Mac miniやMac Studioに対応し、レトロなデザインと最新の高性能インターフェイスを両立しているのが特徴です。"
-    },
-    {
-      "id": "40fba8254afd5fd9f389",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple is designing its own game controllers for iPhone, could be Beats branded",
-      "url": "https://9to5mac.com/2026/09/13/apple-designing-iphone-game-controller/",
-      "publishedAt": "2026-09-13T14:26:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-game-controller-backbone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AppleがiPhone向けゲームコントローラーを開発中か",
-      "summaryJa": "AppleがiPhone向けの独自ゲームコントローラーを開発していると報じられています。macOSのベータコードから存在が確認されたもので、十字キーやスティック、触覚フィードバックなどを搭載する可能性が示されています。製品はBeatsブランドから発売される見込みで、iOSやMacでのAAAタイトルのゲーム体験を向上させることが期待されます。"
-    },
-    {
-      "id": "87c17c449818b77fbe85",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirPods 5 Pre-Orders Go Live, While Older Models Reach Up to $100 Off This Weekend",
-      "url": "https://www.macrumors.com/2026/09/13/airpods-5-older-models-100-off/",
-      "publishedAt": "2026-09-13T14:21:23.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/airpods-lineup-blue.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AirPods 5の予約受付が開始、旧モデルのセールも実施中",
-      "summaryJa": "Appleが発表した新型のAirPods 5の予約受付がAmazonで始まりました。価格は129ドルからで、9月18日の発売が予定されています。また、AirPods Max 2やAirPods Pro 3などの旧モデルも割引価格で販売されており、週末のお得な購入チャンスとなっています。"
-    },
-    {
-      "id": "1df7170315640dca4b7c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Craig Federighi addresses iPhone Duo and iPad overlap",
-      "url": "https://9to5mac.com/2026/09/13/craig-federighi-addresses-iphone-duo-and-ipad-overlap/",
-      "publishedAt": "2026-09-13T12:47:33.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/craig-federighi-mkbhd.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "クレイグ・フェデリギ氏がiPhone DuoとiPadの使い分けについて語る",
-      "summaryJa": "Appleのソフトウェアエンジニアリング担当上級副社長であるクレイグ・フェデリギ氏が、新製品のiPhone DuoとiPadの重複について言及しました。iPadとMacの関係と同様にユーザーは自然な使い分けを見出すだろうとしつつ、特にiPad miniとの間で役割が重なる可能性があると述べています。また、他社製デバイスとは異なり、新フォームファクターに合わせてiOS体験を一から最適化したと強調しました。"
-    },
-    {
-      "id": "8de6799dcc6dfdc5eb5f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Here's When iOS 27 Rolls Out in Every Time Zone",
-      "url": "https://www.macrumors.com/2026/09/13/ios-27-release-date-time-zones/",
-      "publishedAt": "2026-09-13T10:00:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/iOS-27-Next-to-iPhone.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27の各タイムゾーンにおけるリリース配信スケジュール",
-      "summaryJa": "Appleが最大規模のソフトウェアアップデートとなるiOS 27の配信を各地域で順次開始すると報じられています。過去の傾向から太平洋時間の午前10時頃のリリースが見込まれており、先進的なSiriのAI機能や多数の改善が含まれています。世界各国のユーザーに向けて具体的な時差換算のスケジュールが公開されており、利用地域に応じた確認が推奨されています。"
-    },
-    {
-      "id": "edcd46c8807ed7aa1dfd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
-      "url": "https://9to5mac.com/2026/09/13/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
-      "publishedAt": "2026-09-13T08:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ipad-ios-27-notification-siri.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27、通知センターの開き方を変更し長年の操作性を刷新",
-      "summaryJa": "Appleは、iOS 27においてiPhoneとiPadの通知センターを開く操作方法に大きな変更を加えます。新機能のSiri AIを有効にすると、画面上部中央からのスワイプジェスチャーがSiriの起動に割り当てられるため、通知センターは画面左上からのスワイプに変更されます。これにより長年親しまれてきた操作性が変わり、ユーザーには新しいジェ스チャーへの適応が求められます。"
-    },
-    {
-      "id": "f24e27f179db14168554",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro pre-orders: Here’s what still arrives on launch day",
-      "url": "https://9to5mac.com/2026/09/12/iphone-18-pro-pre-orders-heres-what-still-arrives-on-launch-day/",
-      "publishedAt": "2026-09-13T00:38:49.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの予約開始、一部モデルで出荷遅れも",
-      "summaryJa": "新型のiPhone 18 ProおよびiPhone 18 Pro Maxの予約受付が開始され、発売日当日の配送分について一部の構成で10月にずれ込む状況となっています。特にiPhone 18 Pro Maxで在庫の制約が強くなっており、カラーや容量によっては発売日入手が難しくなっています。一方で、2TBのモデルなどは比較的余裕があり、選択する仕様によって配送時期が分かれています。"
-    },
-    {
-      "id": "5eb3af376f60c057f0f0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here are my favorite fast charger recommendations for iPhone 18 Pro",
-      "url": "https://9to5mac.com/2026/09/12/best-fast-chargers-for-iphone-18-pro/",
-      "publishedAt": "2026-09-13T00:35:29.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.19.58.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Pro向けおすすめ急速充電器まとめ",
-      "summaryJa": "新型のiPhone 18 Proを高速に充電するための、おすすめの充電器やアクセサリが紹介されています。ディスプレイ付きで便利なAnkerの45W充電器や、Appleの40W Dynamic Power Adapterなど、用途や速度に応じた複数の製品がピックアップされています。最大60Wの給電に対応するアダプタを使用すれば、短時間で効率よくバッテリーを回復させることが可能です。"
-    },
-    {
-      "id": "3b66a9f4238ae56b9b72",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Says iPhone 18 Pro Max Sold in U.S. Differs in One Way",
-      "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/",
-      "publishedAt": "2026-09-12T22:27:26.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "米国のiPhone 18 Pro Max、モデム仕様に違いか",
-      "summaryJa": "Appleが公開した技術仕様ページから、米国で販売されるiPhone 18 Pro Maxには自社製の最新C2モデムではなくQualcomm製モデムが搭載されていることが明らかになりました。iPhone 18 Proの全世界モデルや米国以外のPro MaxにはC2モデムが採用されている一方で、米国版だけ仕様が異なる理由については言及されていません。Qualcommとの供給契約を維持するための措置である可能性が指摘されており、今後の実性能テストや詳細な検証に注目が集まっています。"
-    },
-    {
-      "id": "8b075797e8a67c5bdaee",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Indie App Spotlight: ‘Farwave’ lets you listen to radio stations around the world",
-      "url": "https://9to5mac.com/2026/09/12/indie-app-spotlight-farwave-lets-you-listen-to-radio-stations-around-the-world/",
-      "publishedAt": "2026-09-12T19:30:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Farwave-app.png?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "世界中のラジオ局を3D空間で探索できるオーディオアプリ「Farwave」",
-      "summaryJa": "Farwaveは、美しい3Dの地球儀ビジュアルを使って世界中のラジオ局を探索できるユニークなオーディオプレーヤーアプリです。ラジオだけでなく、ポッドキャストや音楽の再生にも対応しており、それぞれ異なる惑星のようなビジュアルで楽しむことができます。iPhoneやiPad向けにApp Storeで配信されており、iOS 18以降に対応しています。"
     }
   ],
-  "updatedAt": "2026-09-21T13:22:28.895Z",
+  "updatedAt": "2026-09-21T18:51:26.690Z",
   "initialized": true,
   "summaryVersion": 4
 }
