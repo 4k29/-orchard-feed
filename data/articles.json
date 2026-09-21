@@ -1,6 +1,111 @@
 {
   "articles": [
     {
+      "id": "f72c849107eef3bb457a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Mac Mini and Mac Studio Launch Tomorrow",
+      "url": "https://www.macrumors.com/2026/09/21/new-mac-mini-and-mac-studio-launch-tomorrow/",
+      "publishedAt": "2026-09-21T13:04:41.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型Mac miniとMac Studioがいよいよ発売へ",
+      "summaryJa": "先月に発表された新型のMac miniとMac Studioが、火曜日にいよいよ発売されます。新しいMac miniはM6およびM5 Proチップを搭載し、Mac StudioはM5 MaxまたはM5 Ultraチップを選択可能です。外観の大幅な変更はなく、主にプロセッサなどのスペック向上を中心としたアップデートとなっています。"
+    },
+    {
+      "id": "e7e73cd431c75244ae23",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "M6 Mac mini review: Apple’s most versatile Mac continues to shine",
+      "url": "https://9to5mac.com/2026/09/21/m6-mac-mini-review/",
+      "publishedAt": "2026-09-21T13:00:05.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/mac-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "M6搭載Mac miniレビュー、小型で高い汎用性を維持",
+      "summaryJa": "コンパクトな筐体に優れたパフォーマンスを凝縮した、M6搭載Mac miniのレビューが届けられています。外観のデザインは直近のモデルチェンジから引き継がれており、優れた省スペース性を実現しています。前面のポート類に加え、Wi-Fi 7やBluetooth 6への対応、2.5Gb Ethernetの標準化など、細かな接続性も強化されています。"
+    },
+    {
+      "id": "e733880200db2b0d6052",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 and Ultra 4 May Have Hidden Flash Storage",
+      "url": "https://www.macrumors.com/2026/09/21/apple-watch-series-12-ultra-4-hidden-storage/",
+      "publishedAt": "2026-09-21T12:52:05.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-s12-ultra-4.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 12とUltra 4に隠しストレージか",
+      "summaryJa": "中国のハードウェア研究者によると、Apple Watch Series 12およびUltra 4には128GBのNANDフラッシュが搭載されている可能性があると報じられています。公式の仕様では64GBとされていますが、センサーデータの読み書きや耐久性のバッファとして一部が予約されているとの見方があります。過去のiPad Proと同様に、分解調査によって詳細が明らかになると期待されています。"
+    },
+    {
+      "id": "12dfd8ef15c376ea4cae",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Fitness+ team hit by layoffs, as ‘major changes’ reportedly loom",
+      "url": "https://9to5mac.com/2026/09/21/apple-fitness-team-hit-by-layoffs-as-major-changes-reportedly-loom/",
+      "publishedAt": "2026-09-21T12:49:04.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-fitness-plus-iphone-watch.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Fitness+チームで人員削減、今後の大幅な変更か",
+      "summaryJa": "Apple Fitness+の今後を巡り、音声機能を担当するチームで少数の人員削減が行われたと報じられています。「歩く」や「走る」の音声セッションの更新頻度が低下する見込みですが、サービス自体が直ちに終了するわけではないとされています。今後はコスト削減や、ヘルスケア関連アプリへの統合といったさらなる見直しが進められる可能性があると伝えられています。"
+    },
+    {
+      "id": "2e2fcc48e8cdc1c1a950",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "You can now claim your payout from Apple’s $250 million Siri settlement",
+      "url": "https://9to5mac.com/2026/09/21/you-can-now-claim-your-payout-from-apples-250-million-siri-settlement/",
+      "publishedAt": "2026-09-21T12:31:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/04/apple-intelligence-rainbow.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AppleのSiri訴訟、対象ユーザー向けに和解金の請求受付が開始",
+      "summaryJa": "AppleのSiriおよびApple Intelligenceの遅延を巡る集団訴訟において、米国の対象ユーザーが和解金を受け取るための請求手続きが開始されました。対象となるのは、指定された期間内に米国で対象モデルを購入したユーザーで、デバイス1台あたり25ドルから最大95ドルの支払いが予定されています。請求の締め切りは2026年12月21日までとなっています。"
+    },
+    {
+      "id": "401091bcff46617b7842",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 20 Pro Display Sizes Leak Ahead of 2027 Launch",
+      "url": "https://www.macrumors.com/2026/09/21/iphone-20-pro-display-sizes-leak/",
+      "publishedAt": "2026-09-21T11:30:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 20 Proのディスプレイサイズと解像度の詳細が流出か",
+      "summaryJa": "中国の著名リーカーにより、2027年登場とみられるiPhone 20 Proシリーズの初期ディスプレイ仕様が明らかにされました。Proモデルは6.41インチ、Pro Maxモデルは6.96インチの画面サイズになると報じられています。ピクセル密度を維持したまま解像度も向上しており、四辺が湾曲したボーダレスデザインのテストが進められている可能性があります。"
+    },
+    {
+      "id": "5f1018b2957ebb069743",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 and Ultra 4 Owners Report Unexpected Reboots",
+      "url": "https://www.macrumors.com/2026/09/21/apple-watch-series-12-ultra-4-reported-reboots/",
+      "publishedAt": "2026-09-21T09:08:42.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-s12-ultra-4.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch新モデルで原因不明の再起動問題が複数報告",
+      "summaryJa": "一部のApple Watch Series 12およびUltra 4ユーザーの間で、デバイスが突然予期せぬ再起動を繰り返す不具合が報告されています。診断ログからはApple Neural Engineのタイムアウトが原因である可能性が示されており、広範なユーザーに影響を与えている模様です。現時点でAppleからの公式な見解や対応は発表されていません。"
+    },
+    {
       "id": "577b2e549057623d9bfc",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4403,114 +4508,9 @@
       ],
       "titleJa": "世界中のラジオ局を3D空間で探索できるオーディオアプリ「Farwave」",
       "summaryJa": "Farwaveは、美しい3Dの地球儀ビジュアルを使って世界中のラジオ局を探索できるユニークなオーディオプレーヤーアプリです。ラジオだけでなく、ポッドキャストや音楽の再生にも対応しており、それぞれ異なる惑星のようなビジュアルで楽しむことができます。iPhoneやiPad向けにApp Storeで配信されており、iOS 18以降に対応しています。"
-    },
-    {
-      "id": "89cd1b1e2d9cafacbd4c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple nailed iPhone Duo split screen, even as iPad multitasking feels convoluted",
-      "url": "https://9to5mac.com/2026/09/12/apple-nailed-iphone-duo-split-screen-even-as-ipad-multitasking-feels-convoluted/",
-      "publishedAt": "2026-09-12T16:47:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-14.16.28.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone Duoの画面分割が示す、iPadのマルチタスクの課題",
-      "summaryJa": "今週発表された折りたたみ式のiPhone Duoは、ホーム画面を確認しながらアプリを画面半分に配置できる洗練されたマルチタスク機能を備えています。しかし、iPadOSのウィンドウ管理システムは複雑なままであり、多くのユーザーにとって不便を感じさせる要因となっています。iPhone Duoで実現したシンプルで優れた画面分割の仕組みを、iPadシリーズにも導入すべきだという期待が高まっています。"
-    },
-    {
-      "id": "27f0856211e2fb25ace9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Top Stories: Apple Event Recap With iPhone Duo, iPhone 18 Pro, Apple Watch, and AirPods",
-      "url": "https://www.macrumors.com/2026/09/12/top-stories-apple-event-recap-iphone-duo/",
-      "publishedAt": "2026-09-12T16:00:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/top-stories-2026-09-12.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、折りたたみ式iPhone DuoやiPhone 18 Proを発表",
-      "summaryJa": "Appleは新製品発表イベントを開催し、初の折りたたみ式スマートフォン「iPhone Duo」や「iPhone 18 Pro」シリーズ、新しいApple Watch、AirPodsを発表しました。iPhone Duoは外側に通常のスマートフォンサイズの画面を備え、開くとiPad miniに近い大型画面になるのが特徴です。予約受付は10月中旬に開始され、その他の製品は翌週から順次発売されます。"
-    },
-    {
-      "id": "9ceff98d5eb5956f45a4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "ESR’s iPhone accessory lineup is ready for Apple’s foldable era",
-      "url": "https://9to5mac.com/2026/09/12/esrs-iphone-accessory-lineup-ready-apples-foldable-era/",
-      "publishedAt": "2026-09-12T16:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/1.-KV.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ESR、新型折りたたみiPhone Duo向けケース製品を準備",
-      "summaryJa": "アクセサリーメーカーのESRが、新発表された折りたたみ式のiPhone DuoやiPhone 18 Proシリーズに対応する豊富なアクセサリラインナップを準備しています。中でも注目されるのはiPhone Duo用のヴィーガンレザーケースで、ヒンジや外側画面の保護と薄型デザインを両立させています。日常的な摩耗や汚れに強い耐久性を備えた高品質な仕上がりとなっています。"
-    },
-    {
-      "id": "a745325263b7b78af056",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Duo can add fake bezel to the outside screen for better case compatibility",
-      "url": "https://9to5mac.com/2026/09/12/iphone-duo-fake-bezel-case-compatibility/",
-      "publishedAt": "2026-09-12T15:32:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-shift-left-edge-setting.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone Duo、外側画面に疑似ベゼルを追加する設定を発見",
-      "summaryJa": "新型の折りたたみ式スマートフォン「iPhone Duo」のディスプレイ設定に、外側画面の左側に黒い縁（疑似的なベゼル）を追加する「Shift Left Edge」というユニークな項目が見つかりました。この設定は、一部のケースが画面の左端を覆う際にコンテンツの位置をずらし、視認性を確保するための機能と説明されています。他社製の頑丈なケースなどとの組み合わせで活用される可能性があります。"
-    },
-    {
-      "id": "186b6bc830ce59ce210b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Didn't Pre-Order iPhone 18 Pro Yet? Here's How Long the Wait is Now",
-      "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-pre-order-shipping-dates/",
-      "publishedAt": "2026-09-12T13:48:45.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Black.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの予約開始、モデルによりお届けが10月に遅延",
-      "summaryJa": "米国などで「iPhone 18 Pro」および「iPhone 18 Pro Max」の予約受付が開始されましたが、早くも一部の構成モデルではお届け予定が10月にずれ込む状況となっています。発売日当日の確実な入手を狙う多くのユーザーが殺到したため、カラーや容量によっては待ち時間が発生しています。今後の在庫状況や選択するモデルによって、自宅に届くまでの期間がさらに変動する見込みです。"
-    },
-    {
-      "id": "5c4040771b435c1b88bf",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple @ Work: The three prongs of software updates in the AI era",
-      "url": "https://9to5mac.com/2026/09/12/apple-work-the-three-prongs-of-software-updates-in-the-ai-era/",
-      "publishedAt": "2026-09-12T13:33:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AI時代の到来で変わりゆくApple製品のソフトウェア更新",
-      "summaryJa": "AIツールによって脆弱性の自動発見が進む中、ソフトウェア更新は従来の定期的なサイクルから、より迅速で継続的なクラウド更新の時代へ移行しつつあります。IT管理者はこうした変化に適応し、最新のパッチ管理体制を整える必要性に迫られています。"
-    },
-    {
-      "id": "27e85a0c0d6bcf7577e7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Weekend Apple deals: AirPods 5, Pro 3, Apple Watch Series 12, AirTag 2, Studio Display, MacBook, more",
-      "url": "https://9to5mac.com/2026/09/12/weekend-apple-deals-airpods-5-apple-watch-series-12/",
-      "publishedAt": "2026-09-12T13:29:05.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-weekend-deals-AirPods-5-Series-12.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "週末のApple製品お得情報：AirPodsやMacなど",
-      "summaryJa": "最新のAirPodsシリーズやApple Watchの予約開始に伴い、関連するお得な割引情報が多数登場しています。AirPods Pro 3の値下げをはじめ、AirTag 2の最安値タイ記録、Mac miniやMacBook Proの大幅な割引なども対象となっています。"
     }
   ],
-  "updatedAt": "2026-09-21T06:37:11.477Z",
+  "updatedAt": "2026-09-21T13:22:28.895Z",
   "initialized": true,
   "summaryVersion": 4
 }
