@@ -1,6 +1,171 @@
 {
   "articles": [
     {
+      "id": "d42bd80c82b281443886",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp now lets Apple Watch users react with any emoji",
+      "url": "https://9to5mac.com/2026/09/21/whatsapp-now-lets-apple-watch-users-react-with-any-emoji/",
+      "publishedAt": "2026-09-21T22:07:49.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/whatsapp-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp、Apple Watchでの絵文字リアクションを全面刷新",
+      "summaryJa": "WhatsAppがApple Watch版アプリのアップデートを順次展開し、watchOSで利用可能なすべての絵文字を使ったリアクションに対応しました。これまでは6種類のプリセット絵文字のみに制限されていましたが、今後はカテゴリ別のライブラリや最近使った絵文字から自由に選択できるようになります。なお、順次配信となっているため、すべてのユーザーに行き渡るまでには数週間かかる可能性があります。"
+    },
+    {
+      "id": "16e3e2c0050cfd424a68",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "macOS 27.2 Beta Brings New Volume and Brightness Sliders",
+      "url": "https://www.macrumors.com/2026/09/21/macos-27-2-slider-design/",
+      "publishedAt": "2026-09-21T22:04:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/macos-27-2-new-sliders.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "macOS 27.2ベータ、音量と輝度のスライダーデザインを刷新",
+      "summaryJa": "Appleは「macOS Golden Gate 27.2」のベータ2において、キーボードで音量や画面の明るさを調節した際に表示されるスライダーのデザインを更新しました。新しいスライダーは従来のシンプルな線からセグメント化されたバーへと変更され、キーを押すごとの変化量が一目で分かりやすくなっています。このソフトウェアは10月末頃の正式リリースが見込まれています。"
+    },
+    {
+      "id": "ca783d860813fbbb397a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.2 beta 2 reveals new details about unnanounced iPhone anti-snatching feature",
+      "url": "https://9to5mac.com/2026/09/21/ios-27-2-beta-2-reveals-new-details-about-unnanounced-iphone-anti-snatching-feature/",
+      "publishedAt": "2026-09-21T21:53:37.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/restricted-locked-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27.2ベータ、未発表のiPhone盗難防止機能の詳細が判明",
+      "summaryJa": "Appleが開発を進めている、iPhoneが持ち主の手からひったくられた際に自動ロックする機能について、iOS 27.2ベータ2のコードから新たな詳細が明らかになりました。内部で「AutoLock」と呼ばれるこの機能は、急激な加速度の変化やペアリングされたApple Watchとの接続断などを検知して作動します。また、生体認証の成功などを活用した誤作動を防ぐための安全機能も組み込まれています。"
+    },
+    {
+      "id": "f676e9058f00ffcbdcda",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AI coding platform Bitrig adds iPhone Duo support with interactive 3D simulator",
+      "url": "https://9to5mac.com/2026/09/21/ai-coding-platform-bitrig-adds-iphone-duo-support-with-interactive-3d-simulator/",
+      "publishedAt": "2026-09-21T21:01:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/bitrig-iphone-duo.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AI開発プラットフォームBitrigがiPhone Duo向け3Dシミュレーターに対応",
+      "summaryJa": "AIコーディングプラットフォームのBitrigが、Xcode 27.1ベータ1のリリースを受けて「iPhone Duo」アプリの構築とテストのサポートを追加しました。開発者はインタラクティブな3Dシミュレーターを使用し、デバイスの折りたたみや傾け、回転などを自由に試すことができます。ヒンジの動きに応じたアプリの動作検証や、ハンズフリー環境でのレイアウト調整などが可能になっています。"
+    },
+    {
+      "id": "ee4be0609546bbea9617",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 21, 2026 – More iPhone 18 Pro, iOS 27.2 news",
+      "url": "https://9to5mac.com/2026/09/21/daily-september-21-2026/",
+      "publishedAt": "2026-09-21T20:59:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "9to5Mac Daily：iPhone 18 Proの最新情報やiOSの機能",
+      "summaryJa": "最新の9to5Mac Dailyポッドキャストでは、iPhone 18 Pro Maxの巨大なバッテリーに関する新機能や、米国モデルでのQualcomm製モデム継続採用の噂、iOS 27.2のデータ移行機能などが取り上げられています。番組では日々のApple関連の主要ニュースをまとめて振り返ることが可能です。"
+    },
+    {
+      "id": "77d2b0e6facfe6d52548",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Notes adds a power user feature in iOS 27 that’s rare in other apps",
+      "url": "https://9to5mac.com/2026/09/21/apple-notes-adds-a-power-user-feature-in-ios-27-thats-rare-in-other-apps/",
+      "publishedAt": "2026-09-21T20:13:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/notes-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Notes、iOS 27で特定のセクションへ飛ぶリンク機能を追加",
+      "summaryJa": "iOS 27のメモアプリに、特定のセクションや見出しへ直接リンクできる新機能が追加されました。テキストを選択してリンクを追加する際に、メモ内の見出し一覧から飛び先を選択できるようになります。これにより長文のメモのナビゲーションが大幅に向上し、パワーユーザーにとって便利な機能となっています。"
+    },
+    {
+      "id": "099f728dc7c299bc681d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Our favorite accessories to elevate your new M6 Mac mini and Mac Studio rig",
+      "url": "https://9to5mac.com/2026/09/21/our-favorite-accessories-new-mac-mini-studio/",
+      "publishedAt": "2026-09-21T20:06:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-Mac-mini-Mac-Studio-accessories.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新型M6 Mac miniやMac Studioにおすすめの周辺機器",
+      "summaryJa": "新しいM6 Mac miniやM5 Pro mini、Mac Studioの発売を控え、編集部が厳選したおすすめの周辺機器が紹介されています。Apple Studio Displayをはじめ、ロジクールのマウスやSatechiのハブなど、デスク環境を快適にする多彩な純正およびサードパーティ製アクセサリーがピックアップされています。"
+    },
+    {
+      "id": "9997d58e49fd66cc71cc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "GM Wants You to Know It Still Plans to Ditch Apple CarPlay in Future EVs",
+      "url": "https://www.macrumors.com/2026/09/21/gm-stance-on-apple-carplay/",
+      "publishedAt": "2026-09-21T19:56:49.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/05/Rivian-Explains-Why-CarPlay-Debate-Will-Become-Completely-Obsolete-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "GM、将来の電気自動車からApple CarPlayを廃止する方針を再確認",
+      "summaryJa": "ゼネラルモーターズが将来のEVからApple CarPlayを廃止する方針を撤回したという最近の報道は誤りであると報じられています。2027年型のガソリン車である新型シボレー・シルバラードなどではCarPlayが継続してサポートされますが、同社の次世代EVからは引き続きCarPlayが除外される計画に変わりはないと確認されています。"
+    },
+    {
+      "id": "75fc78e1551f67e37551",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: AI glasses shipments surged 263% in H1 2026 as Apple prepares to enter the market",
+      "url": "https://9to5mac.com/2026/09/21/report-ai-glasses-shipments-surged-263-in-h1-2026-as-apple-prepares-to-enter-the-market/",
+      "publishedAt": "2026-09-21T19:55:41.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/Ray-Ban-Meta-smart-glasses-could-get-a-display-next-year.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AIグラス市場が急成長、Appleの参入準備も進むか",
+      "summaryJa": "調査会社によると、2026年上半期の世界的AIグラス出荷台数が急増し、Metaが市場を大きくリードしています。Metaはプライバシー面での懸念にもかかわらずシェアの大部分を占めており、AppleもSiriやApple Intelligenceを搭載した独自のスマートグラスを2027年に向けて開発中であると報じられています。"
+    },
+    {
+      "id": "51bf6d03c41227042592",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 adds an all-new app to your iPhone’s Home Screen",
+      "url": "https://9to5mac.com/2026/09/21/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
+      "publishedAt": "2026-09-21T19:14:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-light.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27でiPhoneのホーム画面に新しいSiriアプリが登場",
+      "summaryJa": "AppleがリリースしたiOS 27において、初めて単体アプリとしてのSiriがプレインストールされました。新しいSiriアプリでは過去の会話履歴の確認や新規の開始ができるほか、チャット形式のインターフェイスで写真やファイルの分析にも対応しています。なお、この機能はApple IntelligenceをサポートするiPhone 15 Pro以降のモデルで利用可能です。"
+    },
+    {
+      "id": "2629b12448e9520856c2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.2 reveals new features coming to Apple Music, CarPlay, more",
+      "url": "https://9to5mac.com/2026/09/21/ios-27-2-reveals-new-features-coming-to-apple-music-carplay-more/",
+      "publishedAt": "2026-09-21T19:01:12.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-lock-screen-jb.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27.2ベータからApple MusicやCarPlayの新機能が判明",
+      "summaryJa": "配信されたiOS 27.2のベータ版コードから、Apple Musicでの新しいアルバムリリースのライブカウントダウン機能などの開発が進んでいることが明らかになりました。さらに、ショートカットアプリの「Describe a Shortcut」がサードパーティ製アプリのアクションに対応する可能性や、CarPlay Ultraの新テーマに関する記述も見つかっています。"
+    },
+    {
       "id": "30ad7013da69bcc8938a",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -72,9 +237,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Beta 2 now available for iPadOS 27.2, watchOS 27.2, more",
-      "summaryJa": "Last week Apple kicked off a new beta wave for its 27.2 software releases, and today beta 2 is rolling out just five days later for iPadOS 27.2 and more. more… Last week Apple kicked off a new beta wave for its 27.2 software releases, and today beta 2 is rolling out just five days later for iPadOS 27.2 and more. iPadOS 27.2 gets beta 2 update, plus tvOS 27.2, visionOS 27.2, and more It’s been a busy week or so for Apple software releases. The company launched its major new updates like iOS 27, iPadOS 27, and macOS Golden Gate to the public last Monday. Then just a couple days later, developer beta 1 for the 27.2 round of updates debuted. Skipping over 27.1 was a surprise, but reportedly that update will be exclusive to iPhone Duo. So Apple went straight to 27.2 for beta testers, with the m",
-      "translationStatus": "source"
+      "titleJa": "Apple、iPadOSやwatchOSなどのベータ2を公開",
+      "summaryJa": "Appleは開発者向けに、iPadOS 27.2、watchOS 27.2、tvOS 27.2などのベータ2をリリースしました。前回のベータ1からわずか5日での配信となり、主にバグ修正やパフォーマンスの改善を中心とした調整が行われています。また、各OSではSiriのAI機能拡張やヘルスケアアプリの刷新なども進められています。"
     },
     {
       "id": "108ca6c1d6f6c47d8726",
@@ -88,9 +252,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Seeds Second macOS Golden Gate 27.2 Beta to Developers",
-      "summaryJa": "Apple is testing the next macOS Golden Gate update, and developers can download the second &zwnj;macOS Golden Gate&zwnj; 27.2 beta. The second beta comes a week after Apple released the first beta. Registered developers can download &zwnj;macOS Golden Gate&zwnj; 27.2 by opening up the System Settings app, clicking on General, selecting Software Update, and opting into &zwnj;macOS Golden Gate&zwnj; betas. &zwnj;macOS Golden Gate&zwnj; 27.2 introduces Siri AI in new languages. We're expecting a launch toward the end of October. Related Roundup: macOS Golden Gate Related Forum: macOS Golden Gate This article, \" Apple Seeds Second macOS Golden Gate 27.2 Beta to Developers \" first appeared on MacRumors.com Discuss this article in our forums",
-      "translationStatus": "source"
+      "titleJa": "Apple、macOS Golden Gate 27.2のベータ2を開発者向けに配信",
+      "summaryJa": "Appleは開発者向けに、次期アップデートとなるmacOS Golden Gate 27.2のベータ2を配信開始しました。前回のベータ1公開から約1週間での提供となります。このバージョンではSiriのAI機能が新しい言語に対応しており、10月下旬の正式リリースが予定されています。"
     },
     {
       "id": "45be626e8630ff3fe598",
@@ -104,9 +267,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "macOS 27.2 Golden Gate beta 2 now available, here’s what to expect",
-      "summaryJa": "Developers can now install macOS 27.2 Golden Gate beta 2, ahead of the upcoming official release in a few weeks. Here’s what’s coming. more… Developers can now install macOS 27.2 Golden Gate beta 2, ahead of the upcoming official release in a few weeks. Here’s what’s coming. macOS 27.2 beta 2 now available Last week, Apple released macOS 27.2 Golden Gate beta 1 for developers, skipping the macOS 27.1 Golden Gate beta cycle. Presumably, that is because os iOS 27.1, which likely has details that the company did not want to share, even internally, ahead of time. The biggest user-facing new feature included in macOS 27.2 Golden Gate beta 1 is Siri AI’s support for five additional languages, after its English-only initial rollout last month with macOS 27 Golden Gate. As of macOS 27.2 Golden Gat",
-      "translationStatus": "source"
+      "titleJa": "macOS 27.2 Golden Gate ベータ2が登場",
+      "summaryJa": "Appleは数週間後に控えた正式リリースに向けて、macOS 27.2 Golden Gate ベータ2を開発者向けに公開しました。ベータ1ではスキップされたmacOS 27.1の裏で、SiriのAI機能が日本語やフランス語、韓国語などの5つの追加言語に対応しています。登録ユーザーはシステム設定からアップデートを適用可能です。"
     },
     {
       "id": "8450faa0d9fd4ad45de6",
@@ -120,9 +282,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Releases Second iOS 27.2 Beta",
-      "summaryJa": "Apple today seeded the second beta of an upcoming iOS 27.2 update to developers for testing purposes, with the update coming a week after Apple released the first iOS 27.2 beta. Apple also seeded an iPadOS 27.2 beta. Registered developers can download the beta updates by opting in under Settings > General > Software Update and selecting the iOS 27 developer beta. iOS 27.2 includes Apple's redesigned Health app with new Insight and Longevity tabs. It also brings Siri AI in new languages. There are several other new features, with details available in our features guide . Apple releasing an iOS 27.2 beta ahead of a iOS 27.1 beta was surprise, especially because the company plans to ship the iPhone Duo with iOS 27.1 . Apple is likely holding iOS 27.1 until the Duo comes out, just to keep the",
-      "translationStatus": "source"
+      "titleJa": "Apple、iOS 27.2のベータ2を開発者向けにリリース",
+      "summaryJa": "Appleは開発者向けにiOS 27.2のベータ2を公開しました。前回のベータ1から1週間での配信となり、刷新されたヘルスケアアプリやSiriの新しい多言語対応が含まれています。また、iOS 27.1を挟まずに27.2のベータが進められており、正式版は今後のリリースに向けて検証が続けられています。"
     },
     {
       "id": "e67dc3e05fc6c7fc936c",
@@ -183,6 +344,21 @@
       ],
       "titleJa": "Shopify、Apple TV向けにビジネス用ダッシュボードアプリをリリース",
       "summaryJa": "Shopifyは、Apple TVの大画面でビジネスの状況を確認できる専用アプリ「Shopcast」を新たにリリースしました。オフィスのディスプレイなどに売上や注文状況、人気の販売商品などをリアルタイムで表示し、チーム全体での把握を容易にします。Apple TVリモコンを使って、売上推移や地域別の注文状況などを手軽に確認できるのが特徴です。"
+    },
+    {
+      "id": "88772d539ee7715907a6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 and Ultra 4 introduce a new Theater Mode setting",
+      "url": "https://9to5mac.com/2026/09/21/apple-watch-series-12-and-ultra-4-introduce-a-new-theater-mode-setting/",
+      "publishedAt": "2026-09-21T16:49:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-heart-health-sensing.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch最新モデルでシアターモードの設定に新機能",
+      "summaryJa": "Apple Watch Series 12およびUltra 4に搭載された新しいヘルスセンシングシステムでは、心拍数の計測頻度が大幅に向上しています。これに伴い、シアターモードや睡眠モードでは緑色のセンサーライトを避けるため計測頻度が一時的に低下しますが、シアターモード中に連続測定を維持する新しい設定項目も追加されています。"
     },
     {
       "id": "f72c849107eef3bb457a",
@@ -4332,189 +4508,9 @@
       ],
       "titleJa": "MacBook AirやAirPodsがお買い得に、最新セール情報",
       "summaryJa": "AmazonにてM5搭載MacBook Airが最大150ドル引きで販売されているほか、AirPods Pro 3やAnker製のMagSafe充電器などが割引価格で登場しています。新型AirPods 5の予約受付も始まっており、周辺機器をお得に購入できる複数のセールが展開中です。"
-    },
-    {
-      "id": "c5c5721e96e1d6109a15",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Fantastical 4.2 adds Siri AI, bigger widgets, and a refreshed Mac design",
-      "url": "https://9to5mac.com/2026/09/14/fantastical-4-2-adds-siri-ai-bigger-widgets-and-a-refreshed-mac-design/",
-      "publishedAt": "2026-09-14T15:12:37.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/fantastical-27.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "カレンダーアプリ「Fantastical 4.2」が登場",
-      "summaryJa": "最新OSのリリースに合わせて「Fantastical 4.2」および「Cardhop 2.5」が配信開始されました。新バージョンではSiriとの統合によるAI機能が強化され、予定の確認や変更を対話形式で行えるようになっています。また、ホーム画面やデスクトップ向けの大型ウィジェット対応や、デザインの刷新が行われました。"
-    },
-    {
-      "id": "33b4f4e8e193bda40097",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iMazing puts you in full control of your iPhone data, now with 20% discount",
-      "url": "https://9to5mac.com/2026/09/14/imazing-puts-you-in-full-control-of-your-iphone-data-now-20-discount/",
-      "publishedAt": "2026-09-14T15:03:09.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/im-9to5mac-inarticle-1@2x_29cdf7.png?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhoneのデータ管理ツール「iMazing」が20%オフ",
-      "summaryJa": "iPhoneやiPadの高度なデータ管理を可能にするユーティリティソフト「iMazing」の読者向け20%割引セールが実施されています。写真やメッセージ、連絡先などのバックアップや転送を簡単にこなせるほか、近く予定されている大型アップデートでは、新たにAndroidサポートの追加も予告されています。"
-    },
-    {
-      "id": "eea80124e5b4b0bb597a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 Code Reveals New MagSafe Wallet Designs and Animation",
-      "url": "https://www.macrumors.com/2026/09/14/ios-27-reveals-new-wallet-designs/",
-      "publishedAt": "2026-09-14T14:47:35.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/hermes-magsafe-wallets.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27コードから新たなエルメス製MagSafeウォレットが判明",
-      "summaryJa": "iOS 27のコードから、探す機能に対応した新しいエルメス製のMagSafeウォレットの多様なデザインが発見されました。バンダナ柄やタータンチェック、クロコダイル調の型押しなど幅広いラインナップが用意されています。また、専用の装着アニメーションも追加される見込みです。"
-    },
-    {
-      "id": "f5cbbc6b2193e615aec3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Things 3 Updated for iOS 27 With Siri AI and Spotlight Integration",
-      "url": "https://www.macrumors.com/2026/09/14/things-3-updated-for-ios-27/",
-      "publishedAt": "2026-09-14T14:32:22.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/things-os27-hero.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "タスク管理アプリ「Things 3」、iOS 27のSiri AIやSpotlight統合に対応",
-      "summaryJa": "タスク管理アプリ「Things 3」がバージョン3.24にアップデートされ、iOS 27の新しいSiri AIやシステム全体のSpotlight検索との統合機能が追加されました。自然な音声でタスクを作成したり、メモや期限の追加といった会話を継続できるほか、Spotlightからのタスク検索や新しいXLサイズウィジェットの追加など、新OSに向けた多数の機能拡張が含まれています。"
-    },
-    {
-      "id": "e424c6cfe9217e5239fc",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "M4 iPad Air Gets Up to $149 Off at Amazon and Best Buy This Week",
-      "url": "https://www.macrumors.com/2026/09/14/m4-ipad-air-150-off/",
-      "publishedAt": "2026-09-14T14:13:19.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2020/03/m4-ipad-air-blue-2.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "M4 iPad AirがAmazonやBest Buyで最大149ドルの値引きに",
-      "summaryJa": "AmazonやBest Buyなどの米小売店において、M4チップを搭載した2026年型のiPad Air各種モデルが最大149ドルの割引価格で販売されています。対象には11インチおよび13-インチの各モデルが含まれており、夏の価格改定以降では最もお得な価格となっています。クーポンコードの適用などは不要で、自動的に割引が適用される仕組みです。"
-    },
-    {
-      "id": "8b5b5c45455dd072afce",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Things 3.24 update arrives with OS 27 support, Siri AI integration, new widget size",
-      "url": "https://9to5mac.com/2026/09/14/things-3-24-update-arrives-with-os-27-support-siri-ai-integration-new-widget-size/",
-      "publishedAt": "2026-09-14T14:04:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Things-OS-27.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "タスク管理アプリ「Things 3.24」が登場、OS 27やSiri AIに対応",
-      "summaryJa": "人気プロジェクト管理アプリの「Things」がアップデートされ、iOS 27やmacOS 27をはじめとするAppleの新しいOS群のリリースに合わせて「Things 3.24」が配信開始されました。新機能として、新しいSiri AIやSpotlightとの完全統合、通知のスヌーズ期間の選択肢追加、ホーム画面で長いリストを確認できる新ウィジェットなどが実装されています。"
-    },
-    {
-      "id": "a56cc51526f9f3588097",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro, Pro Max pre-orders now delayed to October for most models",
-      "url": "https://9to5mac.com/2026/09/14/iphone-18-pro-pro-max-pre-orders-now-delayed-to-october-for-most-models/",
-      "publishedAt": "2026-09-14T13:43:25.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-side-angle-burgundy.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 ProおよびPro Max、予約分の配送が10月にずれ込む状況に",
-      "summaryJa": "週末に受付が始まったiPhone 18 ProおよびPro Maxの予約ですが、多くのモデルですでに配送予定時期が10月にずれ込んでいます。最初の注文分は発売日の金曜日に届けられる予定ですが、その後の注文ではPro Maxが10月上旬から中旬、Proも9月下旬から10月上旬の案内となっており、初期需要の高さがうかがえます。"
-    },
-    {
-      "id": "877e461ec797e93661ca",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Third-Gen iPhone Duo to Get Face ID, Telephoto Lens, Expects Gurman",
-      "url": "https://www.macrumors.com/2026/09/14/third-gen-iphone-duo-face-id-telephoto-lens/",
-      "publishedAt": "2026-09-14T09:30:48.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-home-screen.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "第3世代のiPhone DuoはFace IDと望遠レンズを搭載か",
-      "summaryJa": "Bloombergのマーク・ガーマン記者が、将来のiPhone DuoモデルにはFace IDと望遠レンズが優先的に搭載されるとの見通しを示しました。初期モデルでは物理的な制約からTouch IDとデュアルカメラが採用されていましたが、部品の小型化やAIの進化を組み合わせることで、第3世代での搭載が可能になると予想されています。"
-    },
-    {
-      "id": "0e5fbeadd511b228f8db",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Duo Has a Hidden Display Setting for Case Compatibility",
-      "url": "https://www.macrumors.com/2026/09/14/iphone-duo-hidden-display-setting-explained/",
-      "publishedAt": "2026-09-14T09:06:29.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/shift-left-edge-iphone-duo@2x-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone Duo、ケース互換性向けの隠しディスプレイ設定を発見",
-      "summaryJa": "新しいiPhone Duoのディスプレイ設定に、画面の左側に狭い黒い境界線を追加する特別なオプションが存在することが分かりました。これはサードパーティ製の分厚い保護ケースが画面の端を覆ってしまう場合でも、iOSの戻るスワイプジェスチャーが正常に機能するように配慮されたものとみられています。"
-    },
-    {
-      "id": "81ed9cba51009dbaddf8",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Gurman: 'iPhone Duo Max' With Bigger Display Likely in Apple's Plans",
-      "url": "https://www.macrumors.com/2026/09/14/iphone-duo-max-apple-product-roadmap/",
-      "publishedAt": "2026-09-14T06:54:47.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-hero.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "大型ディスプレイ搭載の「iPhone Duo Max」が登場する可能性",
-      "summaryJa": "Bloombergのマーク・ガーマン記者が、将来的にさらに大きなディスプレイを搭載したiPhone Duo Maxが計画される可能性について言及しました。Appleが「Duo」という名称を採用した背景には、将来的にMaxやSE、Miniといった派生モデルを追加する余地を残す狙いがあったと指摘されています。"
-    },
-    {
-      "id": "c26f83513af536c32776",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPod Touch Released 19 Years Ago Today",
-      "url": "https://www.macrumors.com/2026/09/14/ipod-touch-released-19-years-ago-today/",
-      "publishedAt": "2026-09-14T06:17:50.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/ipod-touch-original.png",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "初代iPod touchの発売から今日で19年",
-      "summaryJa": "2007年9月14日、初代iPod touchが一般向けに発売されました。スティーブ・ジョブズ氏が発表したこのデバイスは、iPhoneのマルチタッチインターフェイスやWi-Fi、SafariブラウザをiPodシリーズに初めてもたらし、2022年に販売終了となるまで7世代にわたって展開されました。"
-    },
-    {
-      "id": "d6cf0865eed11e5c5f4e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Two Rumored Game Controllers Will 'Likely' Come From Beats",
-      "url": "https://www.macrumors.com/2026/09/13/apple-beats-game-controllers-rumor/",
-      "publishedAt": "2026-09-14T03:06:30.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/WWDC-2026-Game-Controller-Icon.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple開発中のゲームコントローラーはBeatsブランドか",
-      "summaryJa": "Appleが開発を進めていると噂される2種類のiPhone向けゲームコントローラーについて、Bloombergのマーク・ガーマン記者が、Beatsブランドから発売される可能性が高いと報じました。開発は1年以上前から行われており、Appleは成長するゲーム市場への参入を狙っているとされています。価格や発売時期については現時点で言及されていません。"
     }
   ],
-  "updatedAt": "2026-09-21T18:51:26.690Z",
+  "updatedAt": "2026-09-21T22:22:30.105Z",
   "initialized": true,
   "summaryVersion": 4
 }
