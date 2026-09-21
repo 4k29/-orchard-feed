@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "577b2e549057623d9bfc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iFixit Shares iPhone 18 Pro Teardown With Inside Look at New Features",
+      "url": "https://www.macrumors.com/2026/09/20/ifixit-iphone-18-pro-teardown/",
+      "publishedAt": "2026-09-21T03:44:59.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Battery.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iFixit、iPhone 18 Proの分解レポートを公開",
+      "summaryJa": "iFixitが「iPhone 18 Pro」および「iPhone 18 Pro Max」の分解動画と記事を公開し、内部構造や新しい詳細を明らかにしました。eSIM専用モデルのバッテリー容量は前モデルから増加しており、新搭載の可変絞りシステムや大型化したベイパーチャンバーなども確認されています。一方で、NANDがロジックボードの内部に配置されたことでストレージ関連の修理がより複雑になっているほか、分解時に画面のプラスチックフレームが破損する事例も報告されています。"
+    },
+    {
+      "id": "726b5d98fc9dd0eedb4f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Fitness+ Layoffs Reported Ahead of Potential 'Major' Changes",
+      "url": "https://www.macrumors.com/2026/09/20/apple-fitness-plus-layoffs-reported/",
+      "publishedAt": "2026-09-21T03:00:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/05/apple-fitness-plus-feature-magenta.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Fitness+で人員削減か、大規模な変更の可能性",
+      "summaryJa": "Bloombergのマーク・ガーマン記者が報じたところによると、Appleが先週「Apple Fitness+」チームの少数の従業員を解雇したと伝えられています。社内では、この人員削減が今後数か月から数年かけて予定されている大規模なコスト削減策やサービスの大幅な変更の始まりと受け止められている模様です。今後のサービスの展開や組織体制の変化に注目が集まっています。"
+    },
+    {
+      "id": "3272764718dedb72d96c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "A Shorter Apple Pencil Was Supposed to Launch Alongside iPhone Duo",
+      "url": "https://www.macrumors.com/2026/09/20/iphone-duo-lacks-shorter-apple-pencil/",
+      "publishedAt": "2026-09-21T02:47:43.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-hero.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone Duo向けにより短いApple Pencilが開発されていたか",
+      "summaryJa": "Bloombergのマーク・ガーマン記者が報じたところによると、AppleはiPhone Duo向けに開発していた短縮版のApple Pencilを量産前の技術的問題により断念したと伝えられています。その代わりに、iPhone Duoは今年後半に既存のUSB-C対応Apple Pencilのサポートを追加する予定とのことです。開発中止となったスタイラスペンの詳細や、今後の対応製品に関する動向に関心が集まっています。"
+    },
+    {
+      "id": "a0fa51c2787fd98d45c4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Siri AI Settlement Website Now Live: Apple to Pay Some iPhone Owners",
+      "url": "https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/",
+      "publishedAt": "2026-09-21T02:24:32.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/03/iOS-18-Siri-Personal-Context.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "SiriのAI機能めぐる集団訴訟で和解手続きの特設サイトが開設",
+      "summaryJa": "AppleがSiriのAI機能の提供遅延をめぐる米国での集団訴訟で和解金2億5000万ドルを支払うことに合意し、専用の和解手続きウェブサイトが開設されました。対象となるiPhoneユーザーは今年9月21日から12月21日までの間に申請を行うことで、1台あたり推定25ドルの支払いを受け取ることができます。Appleは不正の主張を否定しているものの、裁判のコストやリスクを回避するために和解に応じたとしています。"
+    },
+    {
       "id": "7e79b1f589c82e917a68",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4448,69 +4508,9 @@
       ],
       "titleJa": "週末のApple製品お得情報：AirPodsやMacなど",
       "summaryJa": "最新のAirPodsシリーズやApple Watchの予約開始に伴い、関連するお得な割引情報が多数登場しています。AirPods Pro 3の値下げをはじめ、AirTag 2の最安値タイ記録、Mac miniやMacBook Proの大幅な割引なども対象となっています。"
-    },
-    {
-      "id": "f342db3eba7349a735b0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Best iPhone 18 Pro cases now available for purchase",
-      "url": "https://9to5mac.com/2026/09/12/best-iphone-18-pro-cases-now-available/",
-      "publishedAt": "2026-09-12T13:18:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新型iPhone 18 Pro向けおすすめケースが続々登場",
-      "summaryJa": "Appleの最新スマートフォン向けケースの予約受付が開始され、主要なサードパーティブランドからも続々と製品が登場しています。Apple純正のシリコンやTechWovenモデルに加え、NomadやSpigenなど定番ブランドの手頃な価格の製品も選ぶことができます。"
-    },
-    {
-      "id": "bb915b446fbbc076027a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "You can now pre-order iPhone 18 Pro and iPhone 18 Pro Max",
-      "url": "https://9to5mac.com/2026/09/12/you-can-now-pre-order-iphone-18-pro-and-iphone-18-pro-max/",
-      "publishedAt": "2026-09-12T12:02:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-lineup.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 ProおよびPro Maxの予約受付が開始",
-      "summaryJa": "Appleは新型のiPhone 18 ProおよびiPhone 18 Pro Maxの予約受付を開始しました。可変絞りカメラシステムや小型化したDynamic Island、高性能なA20 Proチップを搭載し、バッテリー持ちや充電速度も大幅に向上しています。"
-    },
-    {
-      "id": "614ce74d5e399d86be2e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro and iPhone 18 Pro Max Now Available to Pre-Order",
-      "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-available-to-pre-order/",
-      "publishedAt": "2026-09-12T12:01:24.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Pre-Orders-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhone 18 Proの予約受付を開始",
-      "summaryJa": "Appleは、オンラインストアやApple StoreアプリにてiPhone 18 ProおよびiPhone 18 Pro Maxの事前予約の受付を開始しました。新モデルは可変絞りのメインカメラ、高速なA20 Proチップ、冷却性能の向上などが特徴となっています。世界65以上の国と地域で展開され、商品の届け出は9月18日金曜日から順次開始される予定です。"
-    },
-    {
-      "id": "c46bf68337a70cd4cb41",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Here Are The Best Carrier Deals You Can Get When Pre-Ordering iPhone 18 Pro Today",
-      "url": "https://www.macrumors.com/2026/09/12/best-carrier-deals-iphone-18-pro/",
-      "publishedAt": "2026-09-12T12:00:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-burgundy-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "米キャリア各社、iPhone 18 Proの予約開始に伴う割引キャンペーンを発表",
-      "summaryJa": "米国の主要通信キャリアであるAT&TやT-Mobileは、iPhone 18 ProおよびiPhone 18 Pro Maxの予約開始に合わせて、最大1,200ドルの割引キャンペーンを発表しました。対象機種の下取りや条件付きプランへの加入などを組み合わせることで、実質負担を大幅に抑えて購入することが可能です。"
     }
   ],
-  "updatedAt": "2026-09-21T01:19:21.000Z",
+  "updatedAt": "2026-09-21T06:37:11.477Z",
   "initialized": true,
   "summaryVersion": 4
 }
