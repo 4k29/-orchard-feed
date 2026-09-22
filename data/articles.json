@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "56efb8a87a302b0c7be1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "These were the best Apple accessories I found at IFA Berlin 2026",
+      "url": "https://9to5mac.com/2026/09/22/these-were-the-best-apple-accessories-i-found-at-ifa-berlin-2026/",
+      "publishedAt": "2026-09-22T19:08:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ifa.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "IFA 2026で見つけた注目のAppleエコシステム向け周辺機器",
+      "summaryJa": "欧州最大の家電見本市IFA 2026において、Apple製品と組み合わせて使える優れたアクセサリーの数々が紹介されました。特にLexarの新型超薄型SSD「Lexar Muse」は、iPhoneでのProRes Raw撮影をサポートする高い性能を備えつつ、最薄部が3.8mmという極薄デザインで大きな注目を集めました。こうした周辺機器は、日々のクリエイティブなワークフローやAppleのエースデバイスの利便性をさらに高める存在として期待されています。"
+    },
+    {
+      "id": "041e67f3f56afcd23bb3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple has reportedly ‘postponed’ AI pendant product",
+      "url": "https://9to5mac.com/2026/09/22/apple-has-reportedly-postponed-ai-pendant-product/",
+      "publishedAt": "2026-09-22T19:01:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-pin-concept.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、カメラ付きAIウェアラブルペンダントの開発を一時中断か",
+      "summaryJa": "Bloombergの報道によると、Appleが開発を進めていたと噂されるカメラ付きのAIウェアラブルペンダント計画が一時的に見送られたことが明らかになりました。このデバイスは、ネックレスのように身につけたり衣類に装着したりして周囲の視覚情報を収集し、新しいSiriのAIアシスタント機能と連携する構想でした。現在はApple WatchへのAI機能統合や、2027年に登場予定のカメラ付きAirPodsやスマートグラスの開発にリソースが注がれていると伝えられています。"
+    },
+    {
+      "id": "750f7548e7eac75bbdfb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Testing Prototypes of Whoop-Like Screenless Fitness Band",
+      "url": "https://www.macrumors.com/2026/09/22/apple-screenless-fitness-band/",
+      "publishedAt": "2026-09-22T18:21:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/whoop-band.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、画面非搭載のWhoop型フィットネスバンドを試作中か",
+      "summaryJa": "Appleがディスプレイを持たない、Whoop製品に似た画面非搭載型の健康管理用フィットネスバンドのプロトタイプをテストしていると報じられています。このデバイスは布製のバンドと手首にフィットする本体モジュールで構成され、心拍数などを常時モニタリングするセンサーを搭載しています。製品化の決定には至っておらず、もし開発が進められた場合でも発売は少なくとも2028年以降になると予想されています。"
+    },
+    {
+      "id": "e35fc471ba8c89295530",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases Firmware Update for Beats 360",
+      "url": "https://www.macrumors.com/2026/09/22/apple-beats-360-firmware-update/",
+      "publishedAt": "2026-09-22T18:05:40.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Beats-360-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、新型オーバーイヤーヘッドホン「Beats 360」向けファームウェアを配信開始",
+      "summaryJa": "Appleは、新発表されたオーバーイヤーヘッドホン「Beats 360」に向けて、早くも新しいファームウェアアップデートの配信を開始しました。バージョン番号は従来の4A260から4A262へと更新されており、購入者が製品を受け取った際に最新ソフトが利用できる状態になります。アップデート内容の詳細は明らかにされていませんが、対応デバイスと接続して充電中である場合に自動で適用されます。"
+    },
+    {
+      "id": "db618ff03ce74e90574c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI upgrading ChatGPT and Codex with two more GPT-6 models",
+      "url": "https://9to5mac.com/2026/09/22/openai-upgrading-chatgpt-and-codex-with-two-more-gpt-6-models/",
+      "publishedAt": "2026-09-22T18:02:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、ChatGPTとCodexに新モデル「GPT-6 Sol」「GPT-6 Luna」を追加",
+      "summaryJa": "OpenAIは、GPT-6シリーズの新たなモデルとして「GPT-6 Sol」と「GPT-6 Luna」の提供を開始しました。これらは従来のモデルよりも少ないトークンで動作し、API価格の大幅な引き下げも同時に実施されています。Solは複雑なコーディングやエージェント型ワークフロー向け、Lunaは高負荷な集中タスク向けに設計されています。"
+    },
+    {
+      "id": "a9359484d7c7f5e3ab8d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Beats 360 Pre-Orders Open at Amazon With Cushion Kits on Sale, Plus More Beats Deals",
+      "url": "https://www.macrumors.com/2026/09/22/beats-360-pre-orders-open-amazon/",
+      "publishedAt": "2026-09-22T17:40:24.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/beats-360-brown.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Beats 360ヘッドホンがAmazonで予約受付開始、関連アクセサリのセールも",
+      "summaryJa": "新型ヘッドホン「Beats 360」がAmazonにて予約受付を開始しました。ブラックやクラウドなどのカラーに加え、交換用のイヤークッションやヘッドバンドが付属するバンドルも用意されています。また、発売に合わせて対応クッションキットが期間限定の特別価格で販売されているほか、各種Beats製品のセールも開催されています。"
+    },
+    {
+      "id": "2313d2d3f6be6f9fce76",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro’s best Dynamic Island feature is one Apple barely mentioned",
+      "url": "https://9to5mac.com/2026/09/22/iphone-18-pros-best-dynamic-island-feature-is-one-apple-barely-mentioned/",
+      "publishedAt": "2026-09-22T17:40:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-front-dynamic-island.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの「Dynamic Island」が進化した、知られざるライブアクティビティの便利機能",
+      "summaryJa": "iPhone 18 Proでは初めてDynamic Islandのサイズが縮小され、より多くの情報を表示できるようになりました。公式発表では同時に3つのライブアクティビティを実行できるようになったことが注目されていますが、2つ使用時の表示スペースも改善されています。例えばタイマーなどの情報がより詳細に表示されるようになり、日常の利便性が向上しています。"
+    },
+    {
+      "id": "62b84e2aa6fd3af5b361",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Puts AirTag-Sized AI Pin on Hold",
+      "url": "https://www.macrumors.com/2026/09/22/apple-pauses-ai-pin-development/",
+      "publishedAt": "2026-09-22T17:23:42.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/07/airtag-prime-day-2.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、AirTagサイズのAIピン型ウェアラブル端末の開発を一時凍結か",
+      "summaryJa": "Bloombergの報道によると、Appleはカメラを搭載したクリップまたはペンダント型のAIウェアラブル端末の開発を一時中断しました。このデバイスはAirTagほどのサイズで、周囲の状況をSiriに伝えてビジュアルインテリジェンス機能を提供すると噂されていました。開発凍結により、2027年と予想されていた発売時期は見送られる可能性が高いとみられています。"
+    },
+    {
+      "id": "05bd9eb1872afe26fa74",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Beats 360 Ear Cushion Kits Just $9.99 Each Until the End of October",
+      "url": "https://www.macrumors.com/2026/09/22/beats-360-ear-cushions-special-pricing/",
+      "publishedAt": "2026-09-22T17:11:31.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Beats-360-Ear-Cushions.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Beats 360登場、交換用イヤークッションが10月末まで特別価格に",
+      "summaryJa": "Appleが新型オーバーイヤーヘッドホン「Beats 360」を発表し、それに合わせて交換用イヤークッションキットの割引販売を開始しました。10月31日までの期間限定で、米国のオンラインストアなどでは通常49.99ドルのキットが9.99ドルで提供されています。カラーバリエーション豊富なパフォーマンスニットやウルトラプラッシュのクッションが対象で、在庫がなくなり次第終了となります。"
+    },
+    {
+      "id": "36f562614e986b51e1ef",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple working on Whoop-style screenless fitness tracker, per report",
+      "url": "https://9to5mac.com/2026/09/22/apple-working-on-whoop-style-screenless-fitness-tracker-per-report/",
+      "publishedAt": "2026-09-22T16:46:27.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/AW-vs-WHOOP-6.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Whoop競合の画面なしフィットネス追跡端末を開発中か",
+      "summaryJa": "AppleがWhoopやOura Ringなどの競合に対抗するため、画面を持たない健康・フィットネス追跡用の新型ウェアラブルデバイスの試作機を開発していると報じられています。薄型ファブリックバンドにセンサー付きモジュールを搭載する設計で、技術調査の初期段階にあります。製品化される場合でも、発売は2028年以降になるとみられています。"
+    },
+    {
+      "id": "1ab3cece3fe55f8ebd43",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Anthropic upgrades Claude with new Opus 5.5 model, details here",
+      "url": "https://9to5mac.com/2026/09/22/anthropic-upgrades-claude-with-new-opus-5-5-model-details-here/",
+      "publishedAt": "2026-09-22T16:38:01.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Anthropicが「Claude Opus 5.5」を発表、性能と速度が向上",
+      "summaryJa": "AnthropicがAIモデルの最新バージョン「Claude Opus 5.5」をリリースしました。前回のアップデートから約2ヶ月での登場となり、前モデルのOpusと比べて処理速度が約30%向上し、タスクあたりのコストも約40%削減されています。複雑なコードの移行作業やウェブアプリの効率化などにおいて大幅な性能向上が確認されており、外部評価でも高い安全性を記録しています。"
+    },
+    {
+      "id": "eff2952edf7f3c60803b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Will Soon Announce an All-New Operating System",
+      "url": "https://www.macrumors.com/2026/09/22/apple-working-on-an-all-new-operating-system/",
+      "publishedAt": "2026-09-22T16:19:57.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/02/iOS-26-Home-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、スマートホームハブ向けの新型OSを準備中との報道",
+      "summaryJa": "Bloombergのマーク・ガーマン記者によると、AppleはtvOS、watchOS、iOSの要素を組み合わせたスマートホームハブ向けの新型OSを開発しています。このOSは顔認識機能を備え、ユーザーの接近に応じて表示が変化するほか、Siri AIを中核とした多彩な機能が統合される見込みです。名称は「homeOS」になると噂されており、早ければ10月にも発表される可能性があると伝えられています。"
+    },
+    {
       "id": "186de949f191e381ca60",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -12,9 +192,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Deals: M5 MacBook Air up to $300 off, M4 iPad Air $100+ off, AirPods Pro 3, Studio Display, more",
-      "summaryJa": "Joining the ongoing $50 price drop on AirPods Pro and the all-new Beats 360 headphones now available for purchase, today’s 9to5Toys Lunch Break is headlined by some solid M5 MacBook Air deals. Amazon has select mid-range 13-inch M5 MacBook Air models at $150 off and the early Amazon fall Prime Day deals, and much more waiting below. more… Joining the ongoing $50 price drop on AirPods Pro and the all-new Beats 360 headphones now available for purchase, today’s 9to5Toys Lunch Break is headlined by some solid M5 MacBook Air deals. Amazon has select mid-range 13-inch M5 MacBook Air models at $150 off and the official Apple refurb store is offering 15-inch models at up to $300 off today. Alongside the ongoing discount on the most affordable Apple Studio Display at $240 off, we also have $100+ o",
-      "translationStatus": "source"
+      "titleJa": "M5 MacBook AirなどがAmazonなどでセールに登場",
+      "summaryJa": "AmazonやApple公式整備済製品ストアにて、M5搭載のMacBook AirやAirPods Proなどが割引価格で販売されています。13インチM5 MacBook Airのミドルレンジモデルなどが通常より安く購入できるチャンスとなっています。最新のApple製品をお得に入手したいユーザーにとって注目のセール情報です。"
     },
     {
       "id": "ef6566bf6bb11c98c574",
@@ -28,9 +207,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Here’s how iPhone Duo and iPad mini compare in size",
-      "summaryJa": "iPhone Duo is just a few weeks away , and as a longtime fan of the iPad mini I’m excited to see how it replicates the iPad experience when unfolded. Here’s how iPhone Duo’s folding screen compares to the size of the iPad mini. more… iPhone Duo is just a few weeks away, and as a longtime fan of the iPad mini I’m excited to see how it replicates the iPad experience when unfolded. Here’s how iPhone Duo’s folding screen compares to the size of the iPad mini. iPhone Duo side-by-side with iPad mini reveals smaller, but similar form factor iPhone Duo is a true two-in-one type device, offering a traditional iPhone experience on the outer display while unlocking iPad mini-like functionality on the folding screen. But how similar are the two devices in size? Here are dimensions for the overall heigh",
-      "translationStatus": "source"
+      "titleJa": "iPhone DuoとiPad miniのサイズを比較",
+      "summaryJa": "間もなく登場するとされる折りたたみ式のiPhone Duoと、iPad miniのサイズを比較する情報が注目を集めています。iPhone Duoは折りたたんだ状態で外側のディスプレイを活用し、展開するとiPad miniに近い機能性を発揮します。狭額縁デザインのおかげで、実際の画面サイズの差は数字ほど大きく感じられないと報じられています。"
     },
     {
       "id": "f7d1ce68bb52fc8f85ca",
@@ -44,9 +222,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Massive Discounts Hit 2026 MacBook Pro, Save Up to $600 on Amazon",
-      "summaryJa": "Amazon has big discounts on the M5 Pro and M5 Max MacBook Pro this week, with up to $600 off select models. This time around, the best deals can be found on the 16-inch MacBook Pro models, although you'll find a few notable markdowns on 14-inch devices as well. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. 14-Inch MacBook Pro Amazon is taking a giant $600 off the 36GB/2TB 14-inch M5 Max MacBook Pro, now priced at $3,499.00 . This is the steepest discount on the 14-inch models right now, but you'll also find $150 off a few entry-level options below. $150 OFF 14-inch M5 MacBook Pro (16GB/1TB) for $1,849.00 $150 OFF 14-inch M5 Pro MacBook Pro (24GB/1TB) for $2,349.00 $600 OF",
-      "translationStatus": "source"
+      "titleJa": "AmazonでM5搭載MacBook Proが最大600ドル引きに",
+      "summaryJa": "Amazonにて、M5 ProやM5 Maxを搭載したMacBook Proのセールが実施されており、最大600ドルの大幅値引きが行われています。特に16インチモデルを中心に多くの構成で割引が適用されているほか、14インチモデルの一部構成も対象となっています。高性能なMacBook Proをお得に購入できる貴重な機会です。"
     },
     {
       "id": "c5585b38d4fef178398f",
@@ -60,9 +237,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "9to5Mac Daily: September 22, 2026 – M6 Mac mini tidbits, Apple Fitness+ future",
-      "summaryJa": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff :Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. more… Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsore",
-      "translationStatus": "source"
+      "titleJa": "Apple Fitness+チームのレイオフやM6 Mac miniの話題",
+      "summaryJa": "ポッドキャスト番組の9to5Mac Dailyにて、Appleの最新ニュースが振り返られています。Apple Fitness+チームでのレイオフ発生や、M6 Mac miniに関する新情報などが取り上げられました。日々のApple関連の主要な動向を手軽にキャッチアップできる内容となっています。"
     },
     {
       "id": "46c76e42a24936844435",
@@ -76,9 +252,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Brazil court tells Apple to add age checks for casino app purchases",
-      "summaryJa": "A Brazilian court has ordered Apple to tighten age controls around a casino-style app on the App Store, including requiring age verification before making in-app purchases. Here are the details. more… A Brazilian court has ordered Apple to tighten age controls around a casino-style app on the App Store, including requiring age verification before making in-app purchases. Here are the details. Apple ordered to strengthen App Store age checks in Brazil As reported by Tilt, São Paulo’s Court of Justice has granted an emergency injunction requiring Apple to restrict minors’ access to the “Casino Roulette: Roulettist” app. The decision came after four child and adolescent rights groups filed a civil lawsuit in July, alleging that minors were able to download casino-style games from the App Stor",
-      "translationStatus": "source"
+      "titleJa": "ブラジル裁判所、Appleにカジノアプリの年齢確認強化を命令",
+      "summaryJa": "ブラジルのサンパウロ州司法裁判所は、App Storeにあるカジノ風アプリに関して未成年者のアクセス制限を厳格化する緊急差し止め命令を出しました。未成年者が実資金で仮想チップを購入できないよう、Appleに対し新規ダウンロードのブロックや年齢確認の導入を求めています。不履行の場合は一日あたり約1万9500ドルの罰金が科されることになります。"
     },
     {
       "id": "ef5fced7411948a48d0a",
@@ -92,9 +267,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple Watch Series 12: My three favorite new features so far",
-      "summaryJa": "I upgraded to an Apple Watch Series 12 last week, and so far after a few days of testing there are three standout features for me. more… I upgraded to an Apple Watch Series 12 last week, and so far after a few days of testing there are three standout features for me. #1: S11 chip makes everything fast The Apple Watch was overdue for a chip update, with Apple skipping any changes last year and not having any true performance upgrades since the S9. I’m happy to report that the new S11 chip appears much faster and more capable than its predecessor, the S10. Everyday tasks on Apple Watch Series 12 just feel fast. And Siri AI, a tentpole addition in watchOS 27, very much feels made for this latest hardware. Siri has been sluggish on older hardware in my testing, but it performs much more like I",
-      "translationStatus": "source"
+      "titleJa": "Apple Watch Series 12の注目すべき3つの新機能",
+      "summaryJa": "先週Apple Watch Series 12にアップグレードしたユーザーが、これまでのテストで際立っている3つの特徴を紹介しています。まずS11チップにより日常の動作やSiri AIの処理速度が大幅に向上しました。さらに新しいヘルスセンサーシステムが搭載され、文字盤から直接心拍数や歩数などを確認できるコンプリケーションが追加され、健康管理機能が向上しています。"
     },
     {
       "id": "df2a2c1b37b184caff97",
@@ -108,9 +282,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple Wallet driver’s licenses coming to three new states soon",
-      "summaryJa": "Apple Wallet driver’s licenses recently launched in Virginia and Oklahoma , but three more states are expected to follow soon, bringing us close to 20 US states on board. more… Apple Wallet driver’s licenses recently launched in Virginia and Oklahoma, but three more states are expected to follow soon, bringing us close to 20 US states on board. Utah, Kentucky, and North Carolina appear set to launch driver’s licenses in Apple Wallet soon Digital IDs are becoming far more common than they were when Apple first added support in the Wallet app back in 2021. And today, 16 US states plus Puerto Rico support the feature on iPhone. The latest additions, Virginia and Oklahoma, debuted just in the last month. And it looks like three more states will be coming soon: Utah Kentucky North Carolina This",
-      "translationStatus": "source"
+      "titleJa": "Apple Walletの運転免許証対応、新たに3州が追加へ",
+      "summaryJa": "Apple Walletのデジタル身分証機能はすでに16の州とプエルトリコでサポートされており、最近ではバージニア州とオクラホマ州で導入されました。これに続き、ユタ州、ケンタッキー州、ノースカロライナ州の3つの州でも近くApple Walletでの運転免許証サポートが開始される見込みです。米国内での対応拡大により利便性がさらに向上することが期待されています。"
     },
     {
       "id": "cf32cb85f317debbba59",
@@ -124,9 +297,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Beats 360 Deliver Customizability and a Revamped Over-Ear Headphone Design",
-      "summaryJa": "After months of teases and leaks, Beats is officially announcing its new Beats 360 headphone today. Priced at $349.99, Beats 360 represents a rethinking of the Beats over-ear headphone design, with an emphasis on sound quality, comfort, and customizability. Subscribe to the MacRumors YouTube channel for more videos. Beats 360 is not a replacement for the brand's Studio Pro over-ear headphone, as the Studio Pro will remain part of the Beats lineup at a reduced price point of $299.99, down from the previous $349.99. Compared to Studio Pro, Beats 360 features a completely new acoustic architecture that delivers up to 1.75× more active noise cancellation and a 12dB increase in output while maintaining clarity across all frequencies with low distortion. In addition to active noise cancellation",
-      "translationStatus": "source"
+      "titleJa": "Beats、音質や快適性を刷新した新型ヘッドホン「Beats 360」を発表",
+      "summaryJa": "Beatsは、音質や快適性、カスタマイズ性を重視してデザインを刷新した新型オーバーイヤーヘッドホン「Beats 360」を発表しました。価格は349.99ドルで、Studio Proの後継ではなく、Studio Proも値下げされてラインナップに継続します。新しい音響構造により、アクティブノイズキャンセリング性能や出力が大幅に向上しているほか、パーソナライズされた空間オーディオにも対応しています。"
     },
     {
       "id": "7345226c1752e306a4ea",
@@ -140,9 +312,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Review: Beats 360 are the closest Apple headphones to AirPods Max, with one caveat",
-      "summaryJa": "The highly anticipated Beats 360 are now available for purchase. After being teased prior to the World Cup, Apple’s latest pair of Beats headphones are now on the market. I got an early hands-on with them, and they’re quite an interesting product offering that I’ve thoroughly enjoyed using – though they have one key flaw: no wired connectivity, which will bother some more than others. more… The highly anticipated Beats 360 are now available for purchase. After being teased prior to the World Cup, Apple’s latest pair of Beats headphones are now on the market. I got an early hands-on with them, and they’re quite an interesting product offering that I’ve thoroughly enjoyed using – though they have one key flaw: no wired connectivity, which will bother some more than others. Product overview F",
-      "translationStatus": "source"
+      "titleJa": "Beats、AirPods Maxに近い最新ヘッドホン「Beats 360」を発売",
+      "summaryJa": "Beatsブランドの新型ヘッドホン「Beats 360」が349.99ドルで登場しました。Appleアカウントでの自動デバイス切り替えや「Hey Siri」、探す機能に対応し、AirPods Maxに最も近い体験を実現しています。一方で、有線接続に対応していない点が唯一の欠点となっています。"
     },
     {
       "id": "d95908194b8584d69763",
@@ -156,9 +327,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Three weeks into the John Ternus era, Apple crosses its highest valuation ever",
-      "summaryJa": "Apple shares briefly reached $345.34 moments after the market opened today, surpassing July’s intraday record of $344.57. Here are the details. more… Apple shares briefly reached $345.34 moments after the market opened today, surpassing July’s intraday record of $344.57. Here are the details. Apple stock reaches all-time-high While Tim Cook appeared poised to hand over the reins to John Ternus with Apple’s valuation at an all-time high, the company’s last quarterly results spooked investors, sending the stock down roughly 10%. Despite continued volatility, Apple gradually recovered some of those losses in the weeks that followed. On the day Cook passed the baton, shares closed at $316.85, giving the company a market capitalization of roughly $4.68 trillion. Soon after Ternus took over, App",
-      "translationStatus": "source"
+      "titleJa": "ジョン・ターナスCEO就任から約3週間、Appleの株価が過去最高値を更新",
+      "summaryJa": "ジョン・ターナスがCEOに就任して以来、Appleの株価が堅調に推移し、取引時間中に過去最高値を更新しました。新体制発足後の製品イベントに対する市場の反応は概ね良好で、投資家からの新たな信頼を集めています。"
     },
     {
       "id": "e6c38dbd5a9b292c1d72",
@@ -172,9 +342,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Security Bite: The last 24 hours at Meta were “not-a-musing”",
-      "summaryJa": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . Meta has spent the last two weeks telling",
-      "translationStatus": "source"
+      "titleJa": "MetaのAIアプリ「Muse」のMac版にゼロデイ脆弱性が発見される",
+      "summaryJa": "Metaが高度なセキュリティを誇っていた個人向けAIエージェント「Muse」のMac版アプリに、ゼロデイ脆弱性が発見されました。著名なmacOSセキュリティ研究者であるパトリック・ワードル氏によって指摘されたもので、万全を謳っていた同社のセキュリティ体制に波紋を広げています。"
     },
     {
       "id": "d6fa96de4ded17292078",
@@ -188,9 +357,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Planning to Bring iPhone Duo Display Tech to Pro in 2029",
-      "summaryJa": "Apple's 2029 \"Pro\" iPhones could adopt thinner and more power-efficient OLED screens, according to UBI Research . The technology, known as Color Filter on Encapsulation (CoE), removes the conventional polarizer from the &zwnj;OLED&zwnj; panel and places a color filter directly on top of its encapsulation layer. A polarizer helps suppress reflections from ambient light, but it also absorbs a significant portion of the light produced by the display. Removing the polarizer allows more light to pass through, potentially enabling a display to reach greater brightness without consuming additional power, or use less power while maintaining the same brightness. Eliminating the separate layer can also make the display assembly thinner, freeing up internal space for components such as the battery, c",
-      "translationStatus": "source"
+      "titleJa": "Apple、2029年のPro向けiPhoneに薄型OLEDディスプレイ技術を採用か",
+      "summaryJa": "調査会社の情報によると、Appleは2029年のPro向けiPhoneに偏光板を排除した「CoE」OLEDディスプレイ技術を採用する可能性があります。この技術により、輝度と省電力性能の向上が期待できるほか、薄型化によって内部スペースの拡大にもつながると伝えられています。"
     },
     {
       "id": "fdd04c3ee6a4eca189e8",
@@ -4339,189 +4507,9 @@
       ],
       "titleJa": "iPhone 18 Proの予約開始やAppleの店舗改革の動き",
       "summaryJa": "9to5Macのデイリーポッドキャストでは、iPhone 18 Proシリーズの予約受付や、多くのモデルですでに10月へ出荷が遅れている状況が伝えられました。また、Appleが独自のiPhone用ゲームコントローラーを開発中でBeatsブランドになる可能性や、リテールストアにおける3つの主要な変更計画についても言及されています。番組後半では、詳細なニュースの振り返りやリスナー向けの特典情報も案内されています。"
-    },
-    {
-      "id": "41864c934172f483b20e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 Features: The Ultimate Mega Guide",
-      "url": "https://www.macrumors.com/guide/ios-27-ultimate-mega-guide/",
-      "publishedAt": "2026-09-15T00:34:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27-Ultimate-Mega-Guide-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27の新機能や変更点を網羅した究極のガイド",
-      "summaryJa": "6月にリリースされたiOS 27の全貌を把握するための詳細な機能ガイドが公開されました。Liquid Glassのデザイン調整や透明度の変更、ホーム画面のアプリアイコンの見通し改善などがまとめられています。さらに、SiriやApple Intelligence、メッセージ、電話、FaceTime、Safari、マップなどの主要アプリに加わった数々の新機能が機能別に整理されています。"
-    },
-    {
-      "id": "a85a3de8eb91f20695e1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New Apple CEO John Ternus attending Emmy Awards (and sporting iPhone Duo)",
-      "url": "https://9to5mac.com/2026/09/14/new-apple-ceo-john-ternus-attending-emmy-awards-and-sporting-iphone-duo/",
-      "publishedAt": "2026-09-15T00:23:33.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新CEOジョン・テナスがエミー賞に登場しiPhone Duoを披露",
-      "summaryJa": "Appleの新CEOに就任したジョン・テナスがエミー賞の会場に姿を現し、出席者や報道陣の前で未発表の「iPhone Duo」の製品デモを行いました。Deadlineなどのメディアによって捉えられたこの折りたたみiPhoneは、来月1999ドルからの価格で発売される予定と報じられています。Apple TVの受賞への期待が高まる中、新体制となった同社のトップによる異例のお披露目となりました。"
-    },
-    {
-      "id": "4bd9615f7124e5480bfe",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "macOS Golden Gate: 10 Features to Try First",
-      "url": "https://www.macrumors.com/guide/macos-golden-gate-10-features-2/",
-      "publishedAt": "2026-09-15T00:02:40.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/10-macOS-Features-to-Try-First-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "macOS Golden Gateが公開、最初に試したい10の機能",
-      "summaryJa": "AppleはM1以降のチップを搭載したMacやMacBook Neo向けに、macOS Golden Gateを一般公開しました。今バージョンでは、Liquid Glassの透明度を調整できるスライダーや、より洗練されたウィンドウの角丸、統一されたツールバーなどが導入されています。また、Siri AIやApple Intelligenceによる写真、カレンダー、Safariなどのアプリの機能強化も大きな特徴となっています。"
-    },
-    {
-      "id": "dd2d76f644aebb9d0917",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AppZapper Mac Uninstaller Returns as AppZapper 3000",
-      "url": "https://www.macrumors.com/2026/09/14/appzapper-3000-for-mac/",
-      "publishedAt": "2026-09-14T23:58:29.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/appzapper3000.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "名作Mac用アンインストーラーが復活、AppZapper 3000が登場",
-      "summaryJa": "Macの人気アプリ「AppZapper」が新デザインと最新機能を取り入れ、「AppZapper 3000」として20周年に合わせて復活しました。ドラッグ＆ドロップしたアプリと関連ファイルをレーザーガンのアニメーションと共に数秒で削除できるのが特徴です。最新のmacOSセキュリティ要件に対応し、試用後に有料ライセンスを購入する仕組みとなっています。"
-    },
-    {
-      "id": "33225eafa420697a854e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Musk Drops Apple Lawsuit Over ChatGPT Siri Deal, Keeps Suing OpenAI",
-      "url": "https://www.macrumors.com/2026/09/14/spacexai-drops-apple-lawsuit/",
-      "publishedAt": "2026-09-14T23:52:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2023/07/X-twitter-logo.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "イーロン・マスク氏、Appleに対するChatGPT連携訴訟を取り下げ",
-      "summaryJa": "イーロン・マスク氏の企業であるX CorpとSpaceXAIが、Appleを相手取って2025年に起こした訴訟の取り下げを裁判所に求めました。訴訟では、AppleとOpenAIの提携がAI市場の支配を確実にするための共謀であると主張されていましたが、Appleに対する請求は取り下げられました。ただし、OpenAIに対する訴訟は継続される方針です。"
-    },
-    {
-      "id": "d0825d6c810ef6120aa5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Asks Supreme Court to Throw Out App Store Contempt Ruling",
-      "url": "https://www.macrumors.com/2026/09/14/apple-supreme-court-contempt-ruling/",
-      "publishedAt": "2026-09-14T23:28:29.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/05/app-store-blue-banner-epic-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、App Storeの規約めぐる侮辱認定の破棄を最高裁に要請",
-      "summaryJa": "Appleは、App Storeの外部決済リンクに対する手数料徴収を禁じた法廷侮辱命令を不服として、最高裁判所に本案の準備書面を提出しました。Epic Gamesとの長年の法廷闘争の一環であり、命令が対象としていない行為に対して「精神」に反したとして侮辱罪に問われたことの是非を争っています。"
-    },
-    {
-      "id": "4729660b6dd9b3256650",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Gentler Streak and The Outsiders’ iOS 27 updates add Siri AI, onscreen awareness support, more",
-      "url": "https://9to5mac.com/2026/09/14/gentler-streak-and-the-outsiders-ios-27-updates-add-siri-ai-onscreen-awareness-support-more/",
-      "publishedAt": "2026-09-14T23:04:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/gentler-ios27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Gentler StreakなどがiOS 27に対応、Siri AIとの連携機能を追加",
-      "summaryJa": "運動トラッキングアプリのGentler StreakとThe Outsidersがアップデートされ、最新のiOS 27向けに最適化されました。新しいSiri AIやApp Intentsの機能に対応し、アプリを開かずに音声で健康やフィットネスのデータを確認できるようになりました。さらに、画面上の状況をSiriが認識して追加のコンテキストを提供する機能もサポートされています。"
-    },
-    {
-      "id": "e0ee4dc3b8f085650296",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "XChat, X’s standalone messaging app, currently unavailable on App Store",
-      "url": "https://9to5mac.com/2026/09/14/xchat-xs-standalone-messaging-app-currently-unavailable-on-app-store/",
-      "publishedAt": "2026-09-14T22:30:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/xchat.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Xのメッセージアプリ「XChat」がApp Storeから一時的に消去か",
-      "summaryJa": "iPhoneおよびiPad向けのXの独立したメッセージングアプリ「XChat」が、App Storeからダウンロードできなくなっていることが判明しました。現時点ではアプリが削除された理由は不明ですが、Android版はGoogle Playストアで引き続き配信されています。今年春に公開された同アプリは、エンドツーエンド暗号化などに対応したプライベートなチャットツールでした。"
-    },
-    {
-      "id": "072090368c2f3b7a7504",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "X's Standalone Messaging App XChat Disappears From App Store",
-      "url": "https://www.macrumors.com/2026/09/14/xchat-app-disappears-from-app-store/",
-      "publishedAt": "2026-09-14T22:25:43.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2023/07/X-twitter-logo.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Xの独立型メッセージアプリ「XChat」がApp Storeから姿を消す",
-      "summaryJa": "Xが提供するプライベートメッセージアプリ「XChat」がApp Storeから検索できなくなり、配信が停止されている状態が確認されました。Appleが削除したのかX側が引き下げたのかは現時点で明らかになっていません。このアプリは今年4月にリリースされ、エンドツーエンド暗号化や消えるメッセージ機能を備えた会話スペースとして提供されていました。"
-    },
-    {
-      "id": "33890f625ae9f0fb4585",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "X and SpaceXAI move to drop Apple from antitrust lawsuit, keep claims against OpenAI",
-      "url": "https://9to5mac.com/2026/09/14/x-and-spacexai-move-to-drop-apple-from-antitrust-lawsuit-keep-claims-against-openai/",
-      "publishedAt": "2026-09-14T22:03:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/apple-logo-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "XとSpaceXAI、Appleを対象とした反トラスト法訴訟の取り下げを申請",
-      "summaryJa": "XとSpaceXAIは、AppleとOpenAIを相手取って起こしていた反トラスト法訴訟から、Appleに対する請求を自発的に取り下げる申し立てを行いました。両社は以前、AppleとOpenAIの提携が競合するAIアプリに不利な優遇を与えていると主張していましたが、Appleに対する訴訟は終結へ向かうことになります。なお、OpenAIに対する訴訟は引き続き継続されます。"
-    },
-    {
-      "id": "2aed7bd6a636dd723cd3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 AI Camera Summaries Cost $9.99 for One Camera, $59.99 for Five",
-      "url": "https://www.macrumors.com/2026/09/14/ios-27-ai-camera-summaries/",
-      "publishedAt": "2026-09-14T21:46:37.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/02/iOS-26-Home-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27のカメラAI要約機能、利用プランと価格が物議",
-      "summaryJa": "AppleがiOS 27のApple Intelligenceによるホームアプリのカメラ要約機能の利用条件を発表し、ユーザーの間で不満の声が上がっています。動体検知のテキスト説明や要約機能を利用するには、月額9.99ドルの2TB以上のiCloud+プランが必要ですが、このプランでサポートされるのはカメラ1台のみです。複数のカメラでAI要約を利用するにはさらに上位の高額なプランが必要となり、従来のHomeKit Secure Videoのストレージ容量ベースの制限と乖離していることが批判を集めています。"
-    },
-    {
-      "id": "df51438163fb83313d10",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s every security fix included in iOS 27 and iPadOS 27",
-      "url": "https://9to5mac.com/2026/09/14/heres-every-security-fix-included-in-ios-27-and-ipados-27/",
-      "publishedAt": "2026-09-14T21:26:18.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-security-malware-virus-code-9to5mac.png?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iOS 27とiPadOS 27のセキュリティ修正を詳細に公開",
-      "summaryJa": "Appleは、同時にリリースされたiOS 27およびiPadOS 27に含まれるセキュリティ修正の詳細を公開しました。今回のアップデートには120件以上の脆弱性への対応が含まれており、任意のコード実行やカーネル特権の取得、機密ユーザーデータへのアクセスにつながる問題などが修正されています。対象デバイスはiPhone 11以降や各種iPadモデルとなっており、システム全体の安全性を高める重要な更新となっています。"
     }
   ],
-  "updatedAt": "2026-09-22T15:41:10.567Z",
+  "updatedAt": "2026-09-22T19:13:11.455Z",
   "initialized": true,
   "summaryVersion": 4
 }
