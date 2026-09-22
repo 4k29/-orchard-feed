@@ -1,6 +1,111 @@
 {
   "articles": [
     {
+      "id": "fdd04c3ee6a4eca189e8",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Quietly Excludes Older iPhones From New Camera Feature",
+      "url": "https://www.macrumors.com/2026/09/22/apple-backtracks-camera-feature-compatibility/",
+      "publishedAt": "2026-09-22T10:15:46.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/customize-texture-photographic-styles-3.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、新カメラ機能の対応機種を修正か",
+      "summaryJa": "Appleは、写真スタイルの新しい質感およびグレイン調整機能を、最新のiPhone 18 Proモデルおよび特定の機種のみに限定すると案内を修正しました。当初のプレスリリースでは対応機種の拡大が示唆されていましたが、その後ユーザーガイドや注釈が変更され、古いiPhoneには提供されないことが明らかになっています。この方針変更に対し、一部のユーザーからは対応を求める声が上がっています。"
+    },
+    {
+      "id": "526eb01520fae998aee9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work Podcast: Phishing simulations for the AI era",
+      "url": "https://9to5mac.com/2026/09/22/phishing-simulations-for-the-ai-era/",
+      "publishedAt": "2026-09-22T10:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AI時代における巧妙なフィッシング詐欺対策を解説",
+      "summaryJa": "ポッドキャスト番組「Apple @ Work」の最新回において、Sublime Securityのサマンサ・シュワルツ氏とジャック・ハーシュ氏がゲストとして出演しました。番組では、AIの進化に伴い高度化するフィッシング詐欺に対抗するための、カスタマイズされたシミュレーション訓練の重要性について議論されています。企業におけるAppleデバイスのセキュリティ保護と脅威への備えを深める内容となっています。"
+    },
+    {
+      "id": "2e139100971513e977fd",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "App Switcher Returns in watchOS 27.2 Beta With New Launch Gesture",
+      "url": "https://www.macrumors.com/2026/09/22/app-switcher-returns-watchos-27-2-beta/",
+      "publishedAt": "2026-09-22T08:41:09.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/02/apple-watch-app-switcher.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "watchOS 27.2ベータでAppスイッチャーが復活",
+      "summaryJa": "最新のwatchOS 27.2ベータ版において、Appleはユーザーからの要望に応える形でAppスイッチャー機能を復活させました。watchOS 27ではデジタルクラウンのダブルプレス機能が新しいAI機能に割り当てられたためAppスイッチャーが一時的に削除されていましたが、ベータ版では画面下部を長押しする新しいジェスチャーで呼び出せるよう変更されています。"
+    },
+    {
+      "id": "0a1ed6f5db6d20bfea49",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Music Hall Spatial Audio Venue Opens in Battersea Power Station",
+      "url": "https://www.macrumors.com/2026/09/22/apple-music-hall-battersea-power-station/",
+      "publishedAt": "2026-09-22T08:07:39.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Music-Hall-event-space-01-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Music、ロンドンに空間オーディオ対応の音楽ホールを開設",
+      "summaryJa": "Appleはロンドンのバタシー・パワー・ステーション内に、収容人数約600人の最先端音楽ホール「Apple Music Hall」を開設しました。会場には48基のスピーカーによる空間オーディオシステムが備えられており、アーティストのライブパフォーマンスを高音質な空間オーディオで収録・配信できる専用スタジオも併設されています。歴史的な建造物を活かした空間で、アーティストとファンをつなぐ特別なライブ体験を提供するとしています。"
+    },
+    {
+      "id": "fe30b757565ad375cacb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Music opens new live music venue in London",
+      "url": "https://9to5mac.com/2026/09/22/apple-music-opens-new-live-music-venue-in-london/",
+      "publishedAt": "2026-09-22T07:51:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-music-hall.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、ロンドンに新しいライブ音楽施設を開設",
+      "summaryJa": "Appleはロンドンのバターシー・パワー・ステーションに新しいライブ音楽施設「Apple Music Hall」を開設しました。収容人数600人の同会場では、アーティストによる少人数向けの特別なコンサートが開催され、Apple Music加入者向けにライブ配信も行われます。施設内には立体音響システムや複数の放送用カメラが備えられており、9月28日のオープンを予定しています。"
+    },
+    {
+      "id": "48934148d6004399b1ac",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iCloud storage notification glitch puts unremovable red badge on Settings app",
+      "url": "https://9to5mac.com/2026/09/22/icloud-storage-notification-glitch-puts-unremovable-red-badge-on-settings-app/",
+      "publishedAt": "2026-09-22T07:40:50.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/icloud-notification-ios-27-glitch.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhoneで設定アプリに消えない通知バッジが出る不具合",
+      "summaryJa": "一部のiPhoneユーザーの間で、設定アプリに「iCloudストレージをアクティベート」という消えない赤い通知バッジが表示される不具合が報告されています。十分なストレージ容量を確保している場合でも発生し、Appleサポートではメディアと購入のアカウントから一度サインアウトして再サインインすることを推奨しています。"
+    },
+    {
+      "id": "f2e40f89d51240332255",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
+      "publishedAt": "2026-09-22T05:59:58.127Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple、ロンドンのバターシーに新音楽施設を開設",
+      "summaryJa": "Appleはロンドンの歴史的なバターシー・パワー・ステーション内に、最新のライブ音楽施設「Apple Music Hall」を開設しました。アーティストがファン向けに親密なライブパフォーマンスを行い、空間オーディオでの録音やマルチカメラによる映像キャプチャをその場で行えるように設計されています。音楽ファンとアーティストを繋ぐ新たな拠点として展開されます。"
+    },
+    {
       "id": "277d9cced01284e86c42",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4402,114 +4507,9 @@
       ],
       "titleJa": "Apple Watch、2015年の発売以来の公式バンド数が1000種類を突破",
       "summaryJa": "Apple Watch向けバンドの追跡アプリを手がける開発者によると、2015年4月の初代モデル発売以来、これまでにリリースされた公式バンドの総数が1000種類を超えたことが明らかになりました。先日の新モデル発表と同時に新たなバンドが追加されたほか、高級ブランドのエルメスによる最新コレクションも公開されています。"
-    },
-    {
-      "id": "d15909517b253fb2d0eb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s everything new for Apple Wallet in iOS 27",
-      "url": "https://9to5mac.com/2026/09/14/heres-everything-new-for-apple-wallet-in-ios-27/",
-      "publishedAt": "2026-09-14T19:06:21.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-wallet-ios-27-app-icon-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27で刷新されたApple Wallet、物理パスの取り込みやApple Cashの新機能を追加",
-      "summaryJa": "iOS 27のリリースに伴い、Apple Walletアプリに多数の新機能が追加されました。カメラで物理的なパスをスキャンしてデジタル化できる機能や、Apple Cashを使った割り勘機能、Apple Cardの定期支払いをカレンダー等で一括管理できるハブ機能などが新たに導入されています。さらに、ホテルキーのアップグレードやUIの刷新も行われています。"
-    },
-    {
-      "id": "7addc299a856c7772108",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 adds new opt-in setting for sharing data to improve Apple’s Foundation Models",
-      "url": "https://9to5mac.com/2026/09/14/ios-27-adds-new-opt-in-setting-for-sharing-data-to-improve-apples-foundation-models/",
-      "publishedAt": "2026-09-14T19:02:17.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-siri.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iOS 27でFoundation Models改善のためのデータ共有設定を追加",
-      "summaryJa": "AppleはiOS 27の公開に伴い、SiriやApple Intelligenceの基盤モデルを改善するための新しいデータ共有オプトイン設定を導入しました。セットアップ時にユーザーは音声やテキストの提供に同意するか選択を求められます。収集されるデータはAppleアカウントとは紐づけられず、デバイスで生成されるランダムな識別子で保護されます。"
-    },
-    {
-      "id": "6fdfb22e3c48793d2a3b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases New AirPods Firmware With iOS 27 Features",
-      "url": "https://www.macrumors.com/2026/09/14/apple-airpods-ios-27-firmware/",
-      "publishedAt": "2026-09-14T18:42:53.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/AirPods-Pro-Beta-Firmware-2.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iOS 27の新機能に対応するAirPods向けファームウェアを公開",
-      "summaryJa": "AppleはAirPods ProやAirPods Maxなどの対応機種に向けて、新しいファームウェアをリリースしました。このアップデートにより、iOS 27などで追加される新しいAirPodsインターフェイスやアダプティブモードのスライダー、カスタムイコライザーなどの機能が利用可能になります。ファームウェアのインストールは、対応機器をApple製デバイスに接続し電源に繋ぐことで自動的に行われます。"
-    },
-    {
-      "id": "9191955fba638231fe6b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "MagSafe Monday: Vinich’s MagSafe wallet leans into a classic look",
-      "url": "https://9to5mac.com/2026/09/14/vinichs-magsafe-wallet-leans-into-a-classic-look/",
-      "publishedAt": "2026-09-14T18:40:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/bradley_9d3d29.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "伝統的な革財布風デザインを採用したVinichのMagSafeウォレット",
-      "summaryJa": "MagSafeに対応したVinich製の折りたたみ式ウォレットが紹介されています。15色以上の豊富なカラーバリエーションを持ち、レザーケースの背面にしっくり馴染むエイジング加工風のデザインが特徴です。カードを3〜5枚収納できるほかRFIDブロッキング素材も採用されており、実用性とデザイン性を兼ね備えたアクセサリーとなっています。"
-    },
-    {
-      "id": "6f057e812b0eb02f6f9f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 and iOS 26.7 Fix More Than 100 Security Bugs",
-      "url": "https://www.macrumors.com/2026/09/14/ios-27-bug-fixes/",
-      "publishedAt": "2026-09-14T18:36:28.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iOS 27とiOS 26.7で100件以上のセキュリティ脆弱性を修正",
-      "summaryJa": "AppleはiOS 27およびiOS 26.7のアップデートをリリースし、合計で100件以上のセキュリティ脆弱性を修正しました。悪意あるアプリによるルート権限の取得を防ぐカーネルの修正などが含まれています。現時点で悪用の報告はされていませんが、デバイスの安全性を保つため早めのアップデートが推奨されます。"
-    },
-    {
-      "id": "2ec6b0e002358915f780",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple just released new AirPods Pro 3 firmware, more for iOS 27",
-      "url": "https://9to5mac.com/2026/09/14/apple-just-released-new-airpods-pro-3-firmware-more-for-ios-27/",
-      "publishedAt": "2026-09-14T18:33:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/airpods-pro-3-in-case.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iOS 27の新機能に対応したAirPods Pro 3向けの最新ファームウェアを配信",
-      "summaryJa": "Appleは、iOS 27のリリースに合わせてAirPods Pro 3やその他の対応モデル向けに新しいファームウェアの配信を開始しました。今回のアップデートにより、カスタムEQやSiri AIへの対応、精度の向上した探す機能、ジムキットのサポートなど、iOS 27の最新機能が利用可能になります。"
-    },
-    {
-      "id": "79d2cd9c785609877acc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here are the requirements to get Siri AI in iOS 27",
-      "url": "https://9to5mac.com/2026/09/14/here-are-the-requirements-to-get-siri-ai-in-ios-27/",
-      "publishedAt": "2026-09-14T18:10:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-app-ios-27-new.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27で登場したSiri AIを利用するための要件まとめ",
-      "summaryJa": "iOS 27の配信開始に伴い、大幅に強化されたSiri AIが利用可能になりましたが、利用にはいくつかの厳格な条件が設定されています。対応ハードウェアはApple Intelligence対応機種に限定されるほか、初期段階ではデバイス言語を英語に設定していること、13歳以上であることなどが要件となります。なお、EUと中国では規制やプライバシー対応の協議に伴い、現時点で提供されていません。"
     }
   ],
-  "updatedAt": "2026-09-22T06:04:23.550Z",
+  "updatedAt": "2026-09-22T11:30:11.699Z",
   "initialized": true,
   "summaryVersion": 4
 }
