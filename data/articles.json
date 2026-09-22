@@ -1,6 +1,156 @@
 {
   "articles": [
     {
+      "id": "9bba713463fa68a6f4b4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple expands Tap to Pay on iPhone across eight Latin American markets",
+      "url": "https://9to5mac.com/2026/09/22/apple-expands-tap-to-pay-on-iphone-across-eight-latin-american-markets/",
+      "publishedAt": "2026-09-22T21:50:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/tap-to-pay-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPhoneの「Tap to Pay」を中南米8カ国で新たに提供開始",
+      "summaryJa": "Appleは、iPhoneによる非接触決済機能「Tap to Pay on iPhone」をアルゼンチンやコロンビアなど中南米の8カ国に拡大すると発表しました。これにより、加盟店は追加の専用端末を使わずに、対応するiPhoneと決済アプリだけで安全に店頭での非接触決済を受け付けることが可能になります。対応する現地の決済プラットフォームも順次拡充されており、世界中で導入が進んでいます。"
+    },
+    {
+      "id": "47abf897f275b7a2219f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple adds RAW support for 11 digital cameras across iPhone, iPad, Mac, and Vision Pro",
+      "url": "https://9to5mac.com/2026/09/22/apple-adds-raw-support-for-11-digital-cameras-across-iphone-ipad-mac-and-vision-pro/",
+      "publishedAt": "2026-09-22T21:19:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/200MP-iPhone-camera-rumors-align-on-2028-release.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、各OSで新たに11台のデジタルカメラRAWフォーマットに対応",
+      "summaryJa": "Appleは各プラットフォームでサポートするデジタルカメラのRAWフォーマット公式リストを更新し、新たに11モデルを追加しました。これにより、対応機種は合計562モデルとなります。システムレベルでのRAW画像サポートにより、対応アプリで露出や色味などの編集をより柔軟に行うことが可能になります。"
+    },
+    {
+      "id": "c930f30dc4f51cf7cb3e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "OpenAI's New GPT-6 Sol and Luna Models Bring Astra Improvements to Cheaper Tiers",
+      "url": "https://www.macrumors.com/2026/09/22/openai-gpt-6-sol-luna/",
+      "publishedAt": "2026-09-22T20:58:32.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/12/openai-logo-teal.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "OpenAI、Astraの改良を引き継ぐ新モデル「GPT-6 Sol」と「Luna」を発表",
+      "summaryJa": "OpenAIは新たに「GPT-6 Sol」および「GPT-6 Luna」を発表し、低価格帯のモデルでもAstraの改良機能を利用できるようにしました。日常的な業務向けのSolは推論能力に優れ、高速応答を重視したLunaはさらに低価格で提供されます。両モデルともにトークン価格が引き下げられ、プロンプトキャッシュの効率化なども図られています。"
+    },
+    {
+      "id": "1cddfdf40482d21e6734",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Tim Cook meets EU chief Ursula von der Leyen as bloc pushes new child safety rules",
+      "url": "https://9to5mac.com/2026/09/22/tim-cook-meets-eu-chief-ursula-von-der-leyen-as-bloc-pushes-new-child-safety-rules/",
+      "publishedAt": "2026-09-22T20:40:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2022/02/apple-europe.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ティム・クック氏が欧州委員会のフォンデアライエン委員長と会談、子どもの安全を協議",
+      "summaryJa": "Appleのエグゼクティブ・チェアマンを務めるティム・クック氏は、欧州委員会のウルスラ・フォンデアライエン委員長と会談しました。両者はEUキッズ法を中心に意見を交わし、子どものプライバシー保護やオンライン上の安全性、セキュリティの重要性について一致しました。クック氏は退任後も各国の政策立案者との対話を積極的に続けています。"
+    },
+    {
+      "id": "cac86b8edc71a2408c58",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple retires the Apple Park Visitor Center’s unique AR experience",
+      "url": "https://9to5mac.com/2026/09/22/apple-retires-the-apple-park-visitor-centers-unique-ar-experience/",
+      "publishedAt": "2026-09-22T20:27:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/applepark_visitorcenter_opening_ar_crowd_demo_20171117.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Parkのビジターセンター、名物だったAR体験を終了",
+      "summaryJa": "Apple Parkのビジターセンターが改装を終えて再オープンし、2017年のオープン以来親しまれてきたAR体験スペースが廃止されました。専用のiPadを使ってキャンパスの3Dモデルを表示する機能が提供されていましたが、そのエリアは通常の製品ディスプレイやアクセサリーを展示する店舗スペースへと変更されました。カフェや屋上テラスなどは引き続き利用可能です。"
+    },
+    {
+      "id": "923b514f7313945e147d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV: ‘The Sisters Grimm’ gets season 2 trailer ahead of October premiere",
+      "url": "https://9to5mac.com/2026/09/22/apple-tv-the-sisters-grimm-gets-season-2-trailer-ahead-of-october-premiere/",
+      "publishedAt": "2026-09-22T19:55:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sisters-grimm.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、アニメシリーズ「The Sisters Grimm」シーズン2の予告編を公開",
+      "summaryJa": "Apple TVは、人気アニメーションアドベンチャーシリーズ「The Sisters Grimm」シーズン2の予告編を公開しました。配信は10月2日に予定されており、シーズン1の配信から約1年ぶりの帰還となります。行方不明の両親の謎を追う姉妹が、おとぎ話の住人たちが暮らす町で新たな冒険や試練に立ち向かう姿が描かれます。"
+    },
+    {
+      "id": "322056ab5a3691bef9d5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Park Visitor Center Just Lost an Attraction Offered Since 2017",
+      "url": "https://www.macrumors.com/2026/09/22/apple-park-visitor-center-loses-exhibition/",
+      "publishedAt": "2026-09-22T19:42:26.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apple-Park-Visitor-Center.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Parkビジターセンター、2017年からのAR展示を終了し店舗を拡張",
+      "summaryJa": "カリフォルニア州のApple Parkビジターセンターが改装を完了し、2017年の開設当初から名物となっていた3D拡張現実モデルの展示スペースが終了しました。かつて展示エリアだった場所には、壁面収納の「アベニュー」や円形の製品展示テーブルが新たに導入されています。なお、カフェや屋上からの眺望、限定グッズの販売などはこれまで通り楽しめます。"
+    },
+    {
+      "id": "1225cd0ded255b69e6fa",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Shazam App for iPhone Updated With New Icon and iMessage Stickers",
+      "url": "https://www.macrumors.com/2026/09/22/shazam-app-new-icon-and-stickers/",
+      "publishedAt": "2026-09-22T19:40:52.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Shazam-New-Icon.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone向け「Shazam」アプリがアップデート、新アイコンとiMessage用ステッカーを追加",
+      "summaryJa": "AppleはiOS向け「Shazam」アプリをアップデートし、わずかにフロスト加工が施された新しいアプリアイコンと、iMessage用のステッカーパックを追加しました。新しいステッカーは、メッセージアプリでの会話やFaceTimeのビデオ通話、絵文字キーボードが利用可能な他のアプリから簡単に送信して楽しむことができます。"
+    },
+    {
+      "id": "0caf9f534ef08c373129",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Photos in iOS 27 gets camera roll feature it’s long needed",
+      "url": "https://9to5mac.com/2026/09/22/apple-photos-in-ios-27-gets-camera-roll-feature-its-long-needed/",
+      "publishedAt": "2026-09-22T19:39:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27-photos-app-icon-fi-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOSの「写真」アプリ、新機能「Captured by Me」を追加か",
+      "summaryJa": "Appleの写真アプリにはこれまで、撮影した写真と保存した画像が混在していましたが、iOSでは自分がカメラアプリで撮影したメディアだけを表示する新コレクション「Captured by Me」が追加されます。この機能により、スクリーンショットや共有された画像を除外し、純粋に自分で撮影した写真や動画のみを簡単に確認できるようになります。"
+    },
+    {
+      "id": "a060b06d40dd5461c77a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Anthropic Launches Claude Opus 5.5 With Fable-Level Performance at a Lower Price",
+      "url": "https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5/",
+      "publishedAt": "2026-09-22T19:23:31.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/anthopic-claude.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Anthropic、低価格で高性能な「Claude Opus 5.5」を発表",
+      "summaryJa": "Anthropicは、新しい5.5モデルファミリーの第一弾となる「Claude Opus 5.5」を発表しました。従来のOpusモデルと同等の高い性能を備えながら、運用コストを40%削減し、処理速度も30%以上向上しています。また、応答の自然さや安全性が強化されており、各種有料プランでの利用制限緩和も合わせて実施されています。"
+    },
+    {
       "id": "56efb8a87a302b0c7be1",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -179,6 +329,36 @@
       ],
       "titleJa": "Apple、スマートホームハブ向けの新型OSを準備中との報道",
       "summaryJa": "Bloombergのマーク・ガーマン記者によると、AppleはtvOS、watchOS、iOSの要素を組み合わせたスマートホームハブ向けの新型OSを開発しています。このOSは顔認識機能を備え、ユーザーの接近に応じて表示が変化するほか、Siri AIを中核とした多彩な機能が統合される見込みです。名称は「homeOS」になると噂されており、早ければ10月にも発表される可能性があると伝えられています。"
+    },
+    {
+      "id": "a55b498908945c36c8bc",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 10 vs. Series 12 Buyer's Guide: Should You Upgrade?",
+      "url": "https://www.macrumors.com/guide/apple-watch-series-10-vs-12/",
+      "publishedAt": "2026-09-22T16:13:36.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/08/apple-watch-series-10-gold-titanium.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Series 10とSeries 12の機能比較と進化点",
+      "summaryJa": "Apple Watch Series 12が発売され、薄型デザインが導入されたSeries 10からの進化点が注目されています。Series 12では、新しいチップや2倍のRAM、再設計された健康センサー、5G通信、より頑丈なガラスなどを搭載しています。価格を据え置いたまま大幅なハードウェアおよび機能のアップデートが行われており、買い替えの判断材料となります。"
+    },
+    {
+      "id": "1a51ff7d15e2e06229e3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Smart Glasses to Enter a Rapidly Growing Market",
+      "url": "https://www.macrumors.com/2026/09/22/apple-smart-glasses-to-enter-growing-market/",
+      "publishedAt": "2026-09-22T15:54:20.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/01/Apple-Glasses-Blue-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleのスマートグラス、急速に拡大する市場に投入か",
+      "summaryJa": "調査会社のデータによると、世界のAIグラス出荷台数が前年同期比で大幅に増加するなど、関連市場が急速に拡大しています。Appleが2027年後半の発売に向けて開発を進めているとされる初のスマートグラスは、画面非搭載型で音声やカメラ、Siri機能を中心に据えると報じられています。Metaが先行する市場において、今後のAppleの参入がどのような影響を与えるか注目されています。"
     },
     {
       "id": "186de949f191e381ca60",
@@ -4325,191 +4505,9 @@
       ],
       "titleJa": "U2アルバム自動配信の騒動から12年、Appleの異例の対応を振り返る",
       "summaryJa": "2014年、AppleはiPhone 6のイベントでU2のアルバム「Songs of Innocence」を全iTunesユーザーに無料で自動配信しました。しかし、ユーザーの同意なしにダウンロードされたことで多くの苦情が寄せられ、Appleはアルバムをアカウントから削除するための専用ページを急きょ用意する事態となりました。最終的に数千万人がダウンロードしたものの、音楽業界とユーザーの双方にとって記憶に残る出来事となりました。"
-    },
-    {
-      "id": "7d4f1f72b8430b074df7",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Moof! Apple Snuck a Dogcow Into iOS 27 - Here's How to Find It",
-      "url": "https://www.macrumors.com/2026/09/15/apple-snuck-dogcow-into-ios-27-how-to-find/",
-      "publishedAt": "2026-09-15T10:44:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/moof-clarius-dogcow-ios-27@2x-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOSに隠し要素、懐かしのマスコット「ドッグカウ」の探し方",
-      "summaryJa": "iOSの特定の画面で、往年のMacマスコットである「ドッグカウ」のクララスを見つけることができる隠し要素が話題となっています。設定アプリの特定の表示項目からサンプル画像をスクロールし続けると、おなじみの「Moof!」という文字と画像が現れます。これはAppleの歴史を彷彿とさせる遊び心のある演出として、昔からの開発者やファンを楽しませています。"
-    },
-    {
-      "id": "33ee650567beb29cb77f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Pre-Orders Off to a Muted Start, Analyst Says",
-      "url": "https://www.macrumors.com/2026/09/15/iphone-18-pro-orders-muted-start/",
-      "publishedAt": "2026-09-15T10:18:24.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Burgundy-Feature.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの予約は控えめな出足か",
-      "summaryJa": "アナリストのジェフ・プー氏によると、iPhone 18 Proシリーズの初期の予約需要は、小幅な仕様向上や高価格化が影響して控えめな出足となっていると報じられています。可変絞りカメラの制約などから生産予測の下方修正も行われており、今後は上位モデルから新たな折りたたみモデルへと需要が移行する可能性も指摘されています。"
-    },
-    {
-      "id": "a922980a584610641ffa",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "次世代のApple Intelligenceを提供開始",
-      "url": "https://www.apple.com/jp/newsroom/2026/09/the-next-generation-of-apple-intelligence-is-available-today/",
-      "publishedAt": "2026-09-15T10:04:19.160Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、次世代のApple Intelligenceを提供開始",
-      "summaryJa": "Appleは、プライバシーを考慮した設計を基盤とする次世代のApple Intelligenceの提供を開始しました。写真アプリの空間リフレームや拡張ツール、Safariのインテリジェントな機能が利用可能になるほか、新バージョンのSiri AIのベータ版が10月より日本語でも提供される予定です。"
-    },
-    {
-      "id": "6a6a84bfd6013f6cebb8",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
-      "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
-      "publishedAt": "2026-09-15T10:02:42.356Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple TVがエミー賞で最多の29冠を獲得",
-      "summaryJa": "第78回プライムタイム・エミー賞において、Apple TVが合計29の賞を獲得し、今年の最多受賞ネットワークとなりました。大ヒットコメディシリーズの「Widow's Bay」が初年度のコメディシリーズとして史上最多の14冠に輝くなど、数々の優れた作品が高く評価されています。"
-    },
-    {
-      "id": "8ef8991af3e496b815fd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple @ Work Podcast: Breaking down the improvements and benefits of Parallels Desktop 27",
-      "url": "https://9to5mac.com/2026/09/15/apple-work-podcast-breaking-down-the-improvements-and-benefits-of-parallels-desktop-27/",
-      "publishedAt": "2026-09-15T10:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Parallels Desktop 27の新機能をポッドキャストで解説",
-      "summaryJa": "最新のポッドキャスト番組において、Parallelsのドミトリー・ゲイニズマン氏をゲストに迎え、Parallels Desktop 27の新しい機能や改善点について詳しく解説しています。職場環境におけるAppleデバイスの展開や管理を効率化するプラットフォームに関する話題なども取り上げられています。"
-    },
-    {
-      "id": "195d3f683903c2a232c0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iCloud+ Now Includes Apple TV, Apple Arcade, and Curated Apple Music Stations in Over 100 Countries",
-      "url": "https://www.macrumors.com/2026/09/15/icloud-plus-includes-apple-tv-arcade-100-countries/",
-      "publishedAt": "2026-09-15T08:43:40.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-iCloud-Plus-expansion-hero-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iCloud+、100カ国以上でApple TVとArcadeを追加",
-      "summaryJa": "Appleは、100カ国以上の地域において有料のiCloud+プランにApple TVとApple Arcadeを追加料金なしで組み込む新しい提供方式を開始しました。米国や欧州などの主要市場は対象外ですが、価格に敏感な新興市場や小規模な地域におけるサービス普及を狙った戦略とみられています。対象地域のユーザーは、最安の50GBプランを含むすべての有料iCloud+でこれらのコンテンツを利用できるようになります。"
-    },
-    {
-      "id": "b7ad1ae61e4496b73803",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "In select countries, iCloud+ now includes Apple TV and Apple Arcade at no extra charge",
-      "url": "https://9to5mac.com/2026/09/15/icloud-apple-tv-arcade-included-select-countries/",
-      "publishedAt": "2026-09-15T07:37:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-apple-arcade-icloud-plan.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iCloud+、一部の国でApple TVとArcadeを同梱へ",
-      "summaryJa": "Appleは100カ国以上の地域で、iCloud+の契約にApple TVとApple Arcadeを追加料金なしで含める新たな取り組みを順次展開しています。価格に配慮した新興市場向けのサービス拡大戦略の一環とみられ、50GBの基本プランから自動的に利用可能となります。また、一部の市場では厳選されたApple Musicのラジオ局が含まれる新しい「Apple Music Select」階層も導入されています。"
-    },
-    {
-      "id": "28268c9f2d27b4dde0f1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "50 New Things Your iPhone Can Do in iOS 27 - Out Now!",
-      "url": "https://www.macrumors.com/2026/09/15/50-new-things-iphone-can-do-ios-27/",
-      "publishedAt": "2026-09-15T05:48:03.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Everything-New-Your-iPhone-Can-Do-on-iOS-27-Feature-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27が登場、生成AI対応Siriや新機能の数々",
-      "summaryJa": "Appleは今週、バグ修正や基本機能の洗練に加え、生成AI時代に向けたコンテキスト認識型Siriなどを搭載したiOS 27をリリースしました。写真アプリの壁紙拡張機能や、Apple Intelligenceを活用したSafariのタブ自動整理機能など、多くの新機能が利用可能になっています。対応するiPhone向けに無料で配信されており、設定アプリの一般からアップデートを行えます。"
-    },
-    {
-      "id": "0ea4559d4edd4a3ee28d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Widow’s Bay sweeps 78th Primetime Emmy Awards as Apple TV scores 9 more wins",
-      "url": "https://9to5mac.com/2026/09/14/widows-bay-sweeps-78th-primetime-emmy-awards-as-apple-tv-scores-9-more-wins/",
-      "publishedAt": "2026-09-15T03:11:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/widows-bay-matthew-rhys-rain.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、エミー賞で過去最多の29冠を達成",
-      "summaryJa": "第78回プライムタイム・エミー賞の授賞式にて、Apple TVの配信作品が新たに9つの賞を獲得しました。クリエイティブ・アーツ部門での受賞と合わせ、同社として過去最多となる合計29の賞を獲得する快挙となりました。特にコメディシリーズの「Widow's Bay」などが数多くの賞に輝き、高い評価を集めています。"
-    },
-    {
-      "id": "6f6766f56abe909b4b71",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s what’s new with parental control features in iOS 27, iPadOS 27, and macOS 27",
-      "url": "https://9to5mac.com/2026/09/14/heres-whats-new-with-parental-control-features-in-ios-27-ipados-27-and-macos-27/",
-      "publishedAt": "2026-09-15T02:43:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/parental-controls-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27などで強化されたペアレンタルコントロール機能",
-      "summaryJa": "AppleはiOS 27、iPadOS 27、macOS 27において、保護者が子どものデバイス利用をより安全に管理できるようにするための新しいスクリーンタイムおよびペアレンタルコントロール機能を導入しました。子どもの年齢に応じたアカウント設定や、アプリ、ウェブサイトのアクセス制限が簡単に行えるようになっています。また、ブロックされたウェブサイトへのアクセスをメッセージ経由で親に承認要請できる機能も追加されました。"
-    },
-    {
-      "id": "8116be2009147fa84191",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Appleのソフトウェアプラットフォームのメジャーアップデートが利用可能に",
-      "url": "https://www.apple.com/jp/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "publishedAt": "2026-09-15T02:01:08.687Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、Siri AIを搭載した各OSのメジャーアップデートを配信開始",
-      "summaryJa": "Appleは、次世代のApple Intelligenceや新しいSiri AIを導入するiOS 27、iPadOS 27、macOS 27などのソフトウェアアップデートの提供を開始しました。Siri AIは文脈理解やオンスクリーン認識を備え、より自然な会話やアプリ連携を実現します。また、子どもの安全なデジタル体験を支えるペアレンタルコントロール機能も同時に強化されています。"
-    },
-    {
-      "id": "1c16329ed911102da095",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: September 14, 2026 – Apple retail changes, iPhone 18 Pro pre-orders",
-      "url": "https://9to5mac.com/2026/09/14/daily-september-14-2026/",
-      "publishedAt": "2026-09-15T00:53:36.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの予約開始やAppleの店舗改革の動き",
-      "summaryJa": "9to5Macのデイリーポッドキャストでは、iPhone 18 Proシリーズの予約受付や、多くのモデルですでに10月へ出荷が遅れている状況が伝えられました。また、Appleが独自のiPhone用ゲームコントローラーを開発中でBeatsブランドになる可能性や、リテールストアにおける3つの主要な変更計画についても言及されています。番組後半では、詳細なニュースの振り返りやリスナー向けの特典情報も案内されています。"
     }
   ],
-  "updatedAt": "2026-09-22T19:13:11.455Z",
+  "updatedAt": "2026-09-22T22:14:30.947Z",
   "initialized": true,
   "summaryVersion": 4
 }
