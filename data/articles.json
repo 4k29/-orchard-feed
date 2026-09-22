@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "926de6e4c9cff9b83b68",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s what’s really going on with GM’s CarPlay strategy (or lack thereof)",
+      "url": "https://9to5mac.com/2026/09/21/heres-whats-really-going-on-with-gms-carplay-strategy-or-lack-thereof/",
+      "publishedAt": "2026-09-21T23:18:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/carplay-ios-27-apple-official-site.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "GMのCarPlay非対応方針に変更なし、誤解を否定",
+      "summaryJa": "GMは電気自動車からのCarPlayおよびAndroid Auto排除方針を変更しておらず、一部で報じられた方針転換を否定しました。新型トラック向けソフト更新が従来機能のミラーリングに対応したことで誤解が生じましたが、対象はもともと対応していたガソリン車のみです。同社は引き続きEVでのスマホ連携廃止を進める構えを見せています。"
+    },
+    {
+      "id": "eaf71ed3b3a1e6e081d9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple CEO John Ternus Talks iPhone Duo Design, Siri AI, and Becoming CEO",
+      "url": "https://www.macrumors.com/2026/09/21/john-ternus-interview-iphone-duo/",
+      "publishedAt": "2026-09-21T23:12:27.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleの次期CEOが語るiPhone折りたたみ端末のデザイン",
+      "summaryJa": "Appleの最高経営責任者に就任したジョン・ターナス氏がインタビューに応じ、iPhone折りたたみモデルの開発秘話やデザイン思想を語りました。他社製品とは異なる独自のアスペクト比を採用し、iPadのような使いやすい大画面体験を目指したとのことです。また、SiriなどのAIアシスタントは人間の友人関係の代わりではないとの同社の見解を改めて強調しました。"
+    },
+    {
+      "id": "09d8457eb5ba9c067acf",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone users running iOS 27 can no longer downgrade to iOS 26",
+      "url": "https://9to5mac.com/2026/09/21/iphone-users-running-ios-27-can-no-longer-downgrade-to-ios-26/",
+      "publishedAt": "2026-09-21T23:12:03.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iOS 27からのダウングレード受付を終了",
+      "summaryJa": "Appleは旧バージョンであるiOS 26.6.2の署名を停止し、iOS 27からiOS 26へのダウングレードができなくなりました。これはセキュリティ上の脆弱性を防ぎ、ユーザーが安全な最新ソフトウェアを利用できるようにするための通常の措置です。すでにiOS 27へアップデートしたユーザーは、以前のシステムに戻すことが不可能となります。"
+    },
+    {
+      "id": "d74839ccd53f58c7dcd3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "You Can No Longer Downgrade From iOS 27 to iOS 26",
+      "url": "https://www.macrumors.com/2026/09/21/ios-27-downgrading-impossible/",
+      "publishedAt": "2026-09-21T22:25:36.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Warm.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iOS 27からiOS 26へのダウングレードが不可能に",
+      "summaryJa": "Appleによる旧バージョンの署名停止に伴い、iOS 27へアップデートしたiPhoneをiOS 26へ戻すことができなくなりました。セキュリティ維持を目的として古いバージョンのインストールを防ぐための仕様であり、一度最新OSに移行すると元に戻す手段はありません。ユーザーはアップデートの適用前に十分に検討する必要があります。"
+    },
+    {
       "id": "d42bd80c82b281443886",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -359,6 +419,126 @@
       ],
       "titleJa": "Apple Watch最新モデルでシアターモードの設定に新機能",
       "summaryJa": "Apple Watch Series 12およびUltra 4に搭載された新しいヘルスセンシングシステムでは、心拍数の計測頻度が大幅に向上しています。これに伴い、シアターモードや睡眠モードでは緑色のセンサーライトを避けるため計測頻度が一時的に低下しますが、シアターモード中に連続測定を維持する新しい設定項目も追加されています。"
+    },
+    {
+      "id": "4f2bb6c54039117450f3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Some iPhone 18 Pro Users Experiencing Face ID Issues",
+      "url": "https://www.macrumors.com/2026/09/21/iphone-18-pro-face-id-issues/",
+      "publishedAt": "2026-09-21T16:23:07.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Face-ID-iPhone-18-Pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "一部のiPhone 18 ProユーザーからFace IDの不具合が報告",
+      "summaryJa": "発売されたばかりのiPhone 18 ProおよびiPhone 18 Pro Maxで、Face IDに関する不具合に直面する初期購入者が一部で出ていると報じられています。特定の操作時に認証が失敗してデバイスがフリーズし、ロック画面へ再起動してしまう事例や、初期設定時にエラーメッセージが表示される問題が確認されています。iPhone 18 ProではDynamic Islandの小型化に伴い赤外線カメラの配置が変更されていますが、今回の問題との関連性は不明です。今後のiOSのアップデートにより、これらの不具合が修正される可能性が高いとみられています。"
+    },
+    {
+      "id": "ceac81d76953a3a3ccdc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "John Ternus talks CEO offer, AI potential, more in new interview",
+      "url": "https://9to5mac.com/2026/09/21/john-ternus-talks-ceo-offer-ai-potential-more-in-new-interview/",
+      "publishedAt": "2026-09-21T16:17:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ジョン・ターナスが新CEO就任の打診やAIの将来性を語る",
+      "summaryJa": "Appleの新CEOに就任したジョン・ターナスが、メディアのロングインタビューに初めて応じました。ティム・クックからCEO就任を打診された際の驚きや、スティーブ・ジョブズとティム・クックの両氏から学んだ未来志向の重要性について語っています。また、生成AIが持つ強力な可能性や、Apple Vision Proに対する見解など、今後のビジョンについても幅広く言及しています。"
+    },
+    {
+      "id": "d8ce2274aa12407d1706",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "CardPointers updated for iOS 27 with Siri AI, automatic offer syncing, and much more",
+      "url": "https://9to5mac.com/2026/09/21/cardpointers-updated-for-ios-27-with-siri-ai-automatic-offer-syncing-and-much-more/",
+      "publishedAt": "2026-09-21T16:03:37.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Screenshot-2026-09-21-at-12.00.09-PM.png?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "「CardPointers 8」が公開、Siri AI統合や自動オファー同期に対応",
+      "summaryJa": "クレジットカードの特典や割引を最大限に活用できるアプリ「CardPointers」の最新バージョン8がリリースされました。新たにSiri AIの統合や自動オファー同期機能が追加され、毎夜バックグラウンドで各銀行のオファーを自動的に有効化できるようになりました。さらに、Visual Intelligenceを使った店舗やレシートの読み取り、新しくなったウィジェットやダッシュボード機能などにより、ポイ活の管理がさらに便利になっています。"
+    },
+    {
+      "id": "ce85be9fa90f069c509b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Pin Music to the Top of Your Apple Watch Music Library",
+      "url": "https://www.macrumors.com/how-to/pin-music-apple-watch/",
+      "publishedAt": "2026-09-21T16:03:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/pin-music-library.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watchの音楽ライブラリで好みの楽曲を上部に固定する方法",
+      "summaryJa": "watchOS 27を搭載したApple WatchのApple Musicアプリでは、よく聴く楽曲やアーティスト、アルバム、プレイリストをライブラリの上部にピン留めできるようになりました。再生画面や各項目の横にある3点リーダーから簡単にピン留めや解除が行えます。お気に入りの音楽に素早くアクセスできるようになり、外出先での音楽体験がより快適になります。"
+    },
+    {
+      "id": "89c6552e88ee3006e4f4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Smart Home Display Coming as Soon as Next Month",
+      "url": "https://www.macrumors.com/2026/09/21/apple-smart-home-display-coming-next-month/",
+      "publishedAt": "2026-09-21T15:30:37.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleのスマートホームディスプレイ、早ければ来月にも登場か",
+      "summaryJa": "Appleが長年噂されているスマートホームディスプレイを早ければ10月にも発表する可能性があると報じられています。このデバイスは、アクセサリの制御や家庭内のコミュニケーション、メディアへのアクセスなどを担うハブとして機能するとみられています。卓上型と壁掛け用の2モデルが用意され、SiriのAI機能を統合した専用OSを搭載する見込みです。"
+    },
+    {
+      "id": "a573f775ccbd586c6082",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "OWC's Best Mac Accessories Are on Sale Just for MacRumors Readers",
+      "url": "https://www.macrumors.com/2026/09/21/owcs-best-mac-sale/",
+      "publishedAt": "2026-09-21T14:07:59.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/thunderbolt-owc-sale-dock.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "OWCの人気MacアクセサリがMacRumors読者向けにセール実施",
+      "summaryJa": "海外メディアMacRumorsがOWCと提携し、Thunderboltドックや外部ストレージケース、USB-Cケーブルなどを特別割引価格で販売するセールを実施しています。対象製品には大幅な割引が適用されており、期間は9月30日午前12時までとなっています。デスクトップ環境のアップグレードを検討しているユーザーにとって見逃せない内容です。"
+    },
+    {
+      "id": "4d3fc735f0cc69561061",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Mac Studio's Biggest Upgrade Isn't the M5 Ultra Chip, Review Says",
+      "url": "https://www.macrumors.com/2026/09/21/mac-studio-m5-ultra-reviews/",
+      "publishedAt": "2026-09-21T13:46:28.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/06/Mac-Studio-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新しいMac Studioの最大の進化点はSSDストレージ速度か",
+      "summaryJa": "新型Mac Studioのレビューが公開され、M5 Ultraチップだけでなく、大幅に高速化したSSDストレージの性能が最大の注目点であると伝えられています。検証テストでは、前世代モデルと比較して読み込み速度が約2.6倍、書き込み速度が約2.1倍に達することが確認されました。M5世代の圧倒的な処理能力と相まって、非常に高速なパフォーマンスを実現しています。"
+    },
+    {
+      "id": "166df89458963d2ffa92",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "How to Force Quit Apple Watch Apps in watchOS 27",
+      "url": "https://www.macrumors.com/how-to/force-quit-apple-watch-apps-watchos-27/",
+      "publishedAt": "2026-09-21T13:33:56.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2020/06/apple-watch-10-titanium-finishes-crown.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "watchOS 27でApple Watchのアプリを強制終了する方法",
+      "summaryJa": "watchOS 27では操作仕様の変更に伴い、従来のアプリスイッチャーを使った強制終了の方法が利用できなくなりました。代わりに、終了したいアプリの画面でサイドボタンを長押しし、スライダーが表示された状態でデジタルクラウンを長押しすることでアプリを終了できます。アプリが正常に動作しない場合のトラブルシューティングに役立ちます。"
     },
     {
       "id": "f72c849107eef3bb457a",
@@ -4327,190 +4507,9 @@
       ],
       "titleJa": "Apple、Siri AIやLiquid Glassを搭載したiOS 27とiPadOS 27をリリース",
       "summaryJa": "Appleは、iPhoneおよびiPad向けの最新OS「iOS 27」と「iPadOS 27」をリリースしました。対応デバイス向けに無料で提供されており、新機能として会話能力が向上した「Siri AI」や専用のSiriアプリ、Liquid Glassデザインの刷新などが含まれています。Apple Intelligence機能を利用するには、対応する特定のプロセッサを搭載したモデルが必要です。"
-    },
-    {
-      "id": "c5bb9059ffd01b85e37a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases iOS 26.7 With Security Fixes",
-      "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-26-7/",
-      "publishedAt": "2026-09-14T17:32:03.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/ios-26-7.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、セキュリティ修正を含むiOS 26.7をリリース",
-      "summaryJa": "AppleはiOS 27のリリースと同時に、既存のiOS 26向けとなる「iOS 26.7」を公開しました。ソフトウェアアップデート画面ではiOS 26.7がデフォルトの更新として表示され、重要なセキュリティ修正が含まれています。当面の間iOS 26環境を維持したいユーザーにとって有用な選択肢となります。"
-    },
-    {
-      "id": "b446419228410c6aaa02",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases macOS Tahoe 26.7 and macOS Sequoia 15.8, here’s what’s new",
-      "url": "https://9to5mac.com/2026/09/14/apple-releases-macos-tahoe-26-7-and-macos-sequoia-15-8-heres-whats-new/",
-      "publishedAt": "2026-09-14T17:27:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOS Tahoe 26.7とmacOS Sequoia 15.8で重要セキュリティ修正を提供",
-      "summaryJa": "AppleはmacOS 27 Golden Gateのリリースに加え、macOS Tahoe 26.7およびmacOS Sequoia 15.8の提供を開始しました。これらにはすべてのユーザーに推奨される重要なセキュリティ修正が含まれています。新OSへの移行を控えるユーザーや対応していないMac環境において、早めのアップデートが推奨されます。"
-    },
-    {
-      "id": "6fa26dc503e9c684a1a2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 26.7 now available for iPhone, here’s what’s new",
-      "url": "https://9to5mac.com/2026/09/14/ios-26-7-now-available-for-iphone-heres-whats-new/",
-      "publishedAt": "2026-09-14T17:22:57.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-26.7-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iOS 27を見送るユーザー向けにiOS 26.7を公開",
-      "summaryJa": "Appleは、新型OSのiOS 27をリリースした一方で、すぐに最新バージョンへアップデートしないユーザーを対象としたセキュリティ修正版のiOS 26.7を提供開始しました。新機能の追加はありませんが、デバイスを安全に保つための重要なセキュリティパッチが含まれており、公式リリースノートには詳細な修正リストが掲載されています。"
-    },
-    {
-      "id": "b00f45f48bf193038e6c",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "Apple、子どもの安全の新しい機能が利用可能に",
-      "url": "https://www.apple.com/jp/newsroom/2026/09/apples-new-child-safety-features-now-available/",
-      "publishedAt": "2026-09-14T17:14:10.183Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple、子どもの安全を守る新しいペアレンタルコントロール機能を提供開始",
-      "summaryJa": "Appleは、保護者が子どものためにより安全なデジタル体験を作れるよう、新しい一連のツールをiOS 27、iPadOS 27、macOS 27のアップデートで提供開始しました。カテゴリごとの許容時間の設定や、ウェブサイト閲覧のリクエスト機能などが追加され、コミュニケーションの安全性機能もさらに拡張されています。"
-    },
-    {
-      "id": "b9b70794d1a57e90dd94",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Major updates for Apple’s software platforms are now available",
-      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "publishedAt": "2026-09-14T17:10:12.527Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、次世代Apple IntelligenceとSiri AIを含む主要OSアップデートを配信",
-      "summaryJa": "Appleは、次世代のApple Intelligenceや新しいSiri AI、さらに強力なペアレンタルコントロールなどを備えた各プラットフォーム向けの大規模なソフトウェアアップデートの提供を開始しました。毎日のアプリ体験をよりスマートで便利にする機能が多数追加されており、Siri AIは英語でのベータ版から順次展開されます。"
-    },
-    {
-      "id": "7b902aba88601c5e70a1",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Siri AI, a profoundly more capable and personal assistant, is here",
-      "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
-      "publishedAt": "2026-09-14T17:09:41.324Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "次世代Apple Intelligenceを搭載した「Siri AI」が登場",
-      "summaryJa": "Appleは次世代のApple Intelligenceを動力源とする、まったく新しい「Siri AI」を各プラットフォーム向けにリリースしました。個人文脈の理解や画面上の認識機能が大幅に向上しており、より自然で柔軟な会話を通じてユーザーの日常的なタスクをサポートします。"
-    },
-    {
-      "id": "74950e4b8c76ac13b353",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple’s new child safety features now available",
-      "url": "https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/",
-      "publishedAt": "2026-09-14T17:08:48.789Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、子供の安全を守る新しい見守り機能を提供開始",
-      "summaryJa": "Appleは、保護者が子供の安全なデジタル体験を管理できるようにする新しいツール群をiPhoneやiPad、Mac向けに提供開始しました。カテゴリごとの時間制限機能や、Safariでの新しいウェブサイト閲覧時に承認を求める機能などが含まれています。さらに、コミュニケーションの安全機能が拡張され、ヌード画像だけでなく暴力的なコンテンツもブロックできるようになりました。"
-    },
-    {
-      "id": "1bc7936e14bf0ebb1041",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27.1: New Features to Expect and Release Date",
-      "url": "https://www.macrumors.com/2026/09/14/ios-27-1-new-features-release-date/",
-      "publishedAt": "2026-09-14T16:30:13.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27-1-Beta-iPhone.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27.1の新機能とリリース時期の予測",
-      "summaryJa": "Appleのプレスリリースから、iOS 27.1が10月23日までにリリースされる見通しであることが分かりました。このアップデートでは、Siri AIの日本語などへの対応言語拡大や、初期リリースに含まれないメッセージアプリ等の新機能追加が期待されています。"
-    },
-    {
-      "id": "550b25f9e8fd8bdc967f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Top Charging Accessories for iPhone 18 Pro and Pro Max on Sale Ahead of Launch",
-      "url": "https://www.macrumors.com/2026/09/14/top-charging-accessories-iphone-18-pro/",
-      "publishedAt": "2026-09-14T16:07:23.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/anker-iphone-18-pro-chargers-scaled.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Pro向け充電アクセサリのセール",
-      "summaryJa": "新型iPhone 18 Proシリーズの発売を控え、Amazonや各メーカーで対応充電アクセサリの割引セールが実施されています。Twelve SouthやAnkerの人気ワイヤレス充電器などが、期間限定の特別価格で販売されています。"
-    },
-    {
-      "id": "ca6750a7ab4f18c2871a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Federico Viticci on iOS 27: ‘It’s good to see Apple sweat the details again’",
-      "url": "https://9to5mac.com/2026/09/14/federico-viticci-on-ios-27-its-good-to-see-apple-sweat-the-details-again/",
-      "publishedAt": "2026-09-14T16:07:17.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-rose.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "著名レビュアーが語るiOS 27の細部へのこだわり",
-      "summaryJa": "MacStoriesのフェデリコ・ヴィティッチ氏が恒例のiOS 27レビューを公開し、細部へのこだわりを評価しています。新しいSiri AIについては、複雑なエージェントタスクには不向きなものの、日常のちょっとした操作には優れた進化を遂げていると分析しています。"
-    },
-    {
-      "id": "83ac9034b45d592fe7f0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirPods 4 vs. AirPods 5 Buyer's Guide",
-      "url": "https://www.macrumors.com/guide/airpods-4-vs-5/",
-      "publishedAt": "2026-09-14T16:06:22.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/AirPods-5-Gradient.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AirPods 4とAirPods 5の買い方ガイド",
-      "summaryJa": "今月発表されたAirPods 5は、エントリーモデルとして初めてアクティブノイズキャンセリングが標準搭載されました。前モデルであるAirPods 4との価格差や機能の違いを比較し、最新モデルの進化点や購入時のポイントをまとめています。"
-    },
-    {
-      "id": "e2724781e854627c791e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: AirPods, MacBook Air $150 off, Series 12, Anker 25W MagSafe charging stations, more",
-      "url": "https://9to5mac.com/2026/09/14/deals-airpods-series-12-anker-25w-charging-stations/",
-      "publishedAt": "2026-09-14T15:35:47.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-MacBook-Air-Anker-25W-MagSafe-chargers.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "MacBook AirやAirPodsがお買い得に、最新セール情報",
-      "summaryJa": "AmazonにてM5搭載MacBook Airが最大150ドル引きで販売されているほか、AirPods Pro 3やAnker製のMagSafe充電器などが割引価格で登場しています。新型AirPods 5の予約受付も始まっており、周辺機器をお得に購入できる複数のセールが展開中です。"
     }
   ],
-  "updatedAt": "2026-09-21T22:22:30.105Z",
+  "updatedAt": "2026-09-22T00:58:48.178Z",
   "initialized": true,
   "summaryVersion": 4
 }
