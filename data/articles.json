@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "277d9cced01284e86c42",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "watchOS 27.2 beta 2 brings the App Switcher back with a new gesture",
+      "url": "https://9to5mac.com/2026/09/21/watchos-27-2-beta-2-brings-the-app-switcher-back-with-a-new-gesture/",
+      "publishedAt": "2026-09-22T02:07:14.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/watchOS-27.2-b2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "watchOS 27.2ベータ2、新ジェスチャーでAppスイッチャーが復活",
+      "summaryJa": "watchOS 27で削除されていたAppスイッチャーが、watchOS 27.2ベータ2で復活することが判明しました。以前はデジタルクラウンのダブルクリックで起動していましたが、今回のベータ版ではアプリ内から画面下部を長押しする新しい操作方法に変更されています。これにより、ユーザーはこれまで同様に最近使ったアプリ間を素早く切り替えることができるようになります。"
+    },
+    {
+      "id": "31595080888a6db48b4b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple challenges OpenAI’s forensic analysis in trade secrets case, seeks access to hardware R&D",
+      "url": "https://9to5mac.com/2026/09/21/apple-challenges-openais-forensic-analysis-in-trade-secrets-case-seeks-access-to-hardware-rd/",
+      "publishedAt": "2026-09-22T01:37:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、OpenAIとの機密情報訴訟で証拠の検証を要求",
+      "summaryJa": "Appleは、OpenAIおよび元従業員らを相手取った営業秘密侵害訴訟において、裁判所に対し自社の専門家によるフォレンジック画像の検証を求めました。また、OpenAIのハードウェア研究開発に関連する文書の開示も求めています。元従業員が機密情報を不正に持ち出したとされる問題をめぐり、両社の主張が対立しています。"
+    },
+    {
       "id": "926de6e4c9cff9b83b68",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4477,39 +4507,9 @@
       ],
       "titleJa": "iOS 27で登場したSiri AIを利用するための要件まとめ",
       "summaryJa": "iOS 27の配信開始に伴い、大幅に強化されたSiri AIが利用可能になりましたが、利用にはいくつかの厳格な条件が設定されています。対応ハードウェアはApple Intelligence対応機種に限定されるほか、初期段階ではデバイス言語を英語に設定していること、13歳以上であることなどが要件となります。なお、EUと中国では規制やプライバシー対応の協議に伴い、現時点で提供されていません。"
-    },
-    {
-      "id": "c5419f49ca5d466d34b7",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases macOS Tahoe 26.7 and macOS Sequoia 15.8",
-      "url": "https://www.macrumors.com/2026/09/14/apple-releases-macos-tahoe-26-7/",
-      "publishedAt": "2026-09-14T17:40:04.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/06/macos-tahoe.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、macOS Tahoe 26.7とmacOS Sequoia 15.8を配信開始",
-      "summaryJa": "Appleは、最新のOSリリースと並行して「macOS Tahoe 26.7」および「macOS Sequoia 15.8」の配信を開始しました。これらは、古いMacを使用しているユーザーや、まだ新OSへアップグレードしたくないユーザー向けのアップデートとなります。システム設定のソフトウェアアップデートからダウンロード可能で、セキュリティ修正が含まれています。"
-    },
-    {
-      "id": "ea357f329ce946084476",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases iOS 27 and iPadOS 27 With Siri AI and Liquid Glass Update",
-      "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-27/",
-      "publishedAt": "2026-09-14T17:39:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27-Out-Now-Thumb.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、Siri AIやLiquid Glassを搭載したiOS 27とiPadOS 27をリリース",
-      "summaryJa": "Appleは、iPhoneおよびiPad向けの最新OS「iOS 27」と「iPadOS 27」をリリースしました。対応デバイス向けに無料で提供されており、新機能として会話能力が向上した「Siri AI」や専用のSiriアプリ、Liquid Glassデザインの刷新などが含まれています。Apple Intelligence機能を利用するには、対応する特定のプロセッサを搭載したモデルが必要です。"
     }
   ],
-  "updatedAt": "2026-09-22T00:58:48.178Z",
+  "updatedAt": "2026-09-22T06:04:23.550Z",
   "initialized": true,
   "summaryVersion": 4
 }
