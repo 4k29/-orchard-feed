@@ -1,6 +1,141 @@
 {
   "articles": [
     {
+      "id": "208a9a28b9e39247ba73",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Watch the trailer for Apple TV’s ‘Where’s Wanda?’ season 2",
+      "url": "https://9to5mac.com/2026/09/23/watch-the-trailer-for-apple-tvs-wheres-wanda-season-2/",
+      "publishedAt": "2026-09-23T22:11:54.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/wheres-wanda.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、ダークコメディ「ワンダを捜せ！」シーズン2の予告編を公開",
+      "summaryJa": "Apple TVは、ドイツ語のダークコメディドラマ「ワンダを捜せ！」シーズン2の予告編を公開しました。10月21日の配信開始に向けて、全8話のエピソードが毎週水曜日に順次配信される予定です。シーズン2では、無実の罪を着せられた娘のワンダを救うため、クラット夫妻が再び奔走する姿が描かれます。"
+    },
+    {
+      "id": "bd5a18cd9a60efdffee1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "You Can Now Try Apple's Unreleased Copland OS in Your Browser",
+      "url": "https://www.macrumors.com/2026/09/23/apple-copland-os-demo/",
+      "publishedAt": "2026-09-23T21:27:08.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/mac-copland-os.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "未発売の幻のOS「Copland」がブラウザ上で体験可能に",
+      "summaryJa": "1990年中頃にAppleが開発を進めながらも、プロジェクト管理の問題などから未発売に終わったオペレーティングシステム「Copland」が、ブラウザ上でエミュレート可能になりました。ビンテージハードウェアのリバースエンジニアリングを手がける開発者が、オープンソースのエミュレータを修正して動作を実現しました。開発末期にリリースされた最後のベータ版をベースに、現在Webサイト上で試すことができます。"
+    },
+    {
+      "id": "134013d7bbee43a936f6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MacWhisper update brings real-time meeting transcripts, improved speaker recognition, more",
+      "url": "https://9to5mac.com/2026/09/23/macwhisper-update-brings-real-time-meeting-transcripts-improved-speaker-recognition-more/",
+      "publishedAt": "2026-09-23T21:17:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/macwhisper.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Mac用文字起こしツール「MacWhisper」、リアルタイム会議文字起こしに対応",
+      "summaryJa": "人気のMac用文字起こしツール「MacWhisper」がバージョン15.2にアップデートされ、リアルタイムでの会議文字起こし機能が追加されました。NVIDIAのモデルを活用した話者認識機能の精度向上や、Apple Intelligenceとの連携強化、新しい文字起こしモデルへの対応も含まれており、ポッドキャスト制作などのワークフローをさらに効率化します。"
+    },
+    {
+      "id": "d202df4a5cb74e7822e4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Podcasts will soon let creators offer exclusive videos to subscribers",
+      "url": "https://9to5mac.com/2026/09/23/apple-podcasts-will-soon-let-creators-offer-exclusive-videos-to-subscribers/",
+      "publishedAt": "2026-09-23T20:46:39.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-podcasts.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleポッドキャスト、サブスク会員向けに限定ビデオコンテンツの提供を開始へ",
+      "summaryJa": "Appleは、ポッドキャストのサブスクリプション機能において、クリエイターが会員向けの限定ビデオを提供できるようになると発表しました。これにより、購読者は会員限定のエピソードや広告なしのビデオ、早期アクセス、ボーナスコンテンツなどを視聴可能になります。音声中心だったサブスクリプションに動画が加わり、クリエイターの収益化や視聴者とのつながりをさらに広げます。"
+    },
+    {
+      "id": "b4347a475130f09483ef",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases watchOS 27.0.1 With Fix for Restart Bug",
+      "url": "https://www.macrumors.com/2026/09/23/watchos-27-0-1-release/",
+      "publishedAt": "2026-09-23T20:10:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、予期せぬ再起動を修正するwatchOS 27.0.1を配信開始",
+      "summaryJa": "Appleは、先週リリースされたwatchOS 27のマイナーアップデートとなる「watchOS 27.0.1」を公開しました。このアップデートはApple Watch Series 12およびApple Watch Ultra 4を対象としており、デバイスが予期せず再起動する不具合を修正します。対応モデルを使用しているユーザーは、設定アプリまたはiPhoneのApple Watchアプリからアップデートを適用できます。"
+    },
+    {
+      "id": "cbc8b5b2e52b2b1bb00d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.0.1 is Coming Soon",
+      "url": "https://www.macrumors.com/2026/09/23/ios-27-0-1-is-coming-soon/",
+      "publishedAt": "2026-09-23T20:06:31.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27-0-1.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、不具合修正に向けたiOS 27.0.1を準備中か",
+      "summaryJa": "Appleがアクセスログから、iPhone向け次期アップデートとなる「iOS 27.0.1」のテストを進めていることが明らかになりました。先週リリースされたiOS 27を巡っては、一部のiPhone 18 Proユーザーの間でFace IDに関する問題が報告されています。そのため、次期アップデートではこうした不具合の修正やセキュリティ向上のためのパッチが提供される見通しです。"
+    },
+    {
+      "id": "a27312920a8c22a30f95",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases watchOS 27.0.1 to fix Apple Watch Series 12 and Ultra 4 bug",
+      "url": "https://9to5mac.com/2026/09/23/apple-releases-watchos-27-0-1-to-fix-apple-watch-series-12-and-ultra-4-bug/",
+      "publishedAt": "2026-09-23T19:58:59.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Watch-Series-12-Aluminum-Nike-Concrete-Sport-Band-Steps-Counter-Watch-Face-Heart-Rate-.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、一部モデルの不具合を修正するwatchOS 27.0.1をリリース",
+      "summaryJa": "Appleは、Apple Watch Series 12とApple Watch Ultra 4向けに「watchOS 27.0.1」の提供を開始しました。今回のアップデートでは、一部の本体が1日に何度もランダムに再起動を繰り返す問題が修正されています。対象ユーザーは、充電器に接続しバッテリー残量が50％以上ある状態でアップデートを行うことができます。"
+    },
+    {
+      "id": "965ef32418803f892120",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Disney+ and Hulu Raise Prices Again, Ad-Free Plans Now $21.49",
+      "url": "https://www.macrumors.com/2026/09/23/disney-plus-hulu-price-increase/",
+      "publishedAt": "2026-09-23T19:20:35.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/09/disney.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Disney+とHuluが再び値上げ、広告なしプランは月額21.49ドルに",
+      "summaryJa": "Disneyは「Disney+」と「Hulu」の各種ストリーミングプランの価格を引き上げました。広告なしのプレミアムプランは月額2から2.50ドル値上がりし、広告付きプランは0.50ドルの値上げとなっています。同社は広告付きプランのバンドル利用への誘導を進めており、競合する動画配信サービス全体で値上げの動きが続いています。"
+    },
+    {
+      "id": "0739b4de61053e443cab",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Sports App Updated With Even More Soccer Leagues",
+      "url": "https://www.macrumors.com/2026/09/23/apple-sports-more-soccer-leagues/",
+      "publishedAt": "2026-09-23T19:16:33.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/02/Apple-Sports-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Sportsアプリ、サッカーリーグやテニス対応を拡大",
+      "summaryJa": "Apple Sportsアプリがアップデートされ、オーストラリアやエジプトなどの新たなサッカーリーグに対応しました。さらに、テニスファン向けにグランドスラムや1000レベルのトーナメントにおけるリアルタイムのドローや対戦結果の確認機能が追加されています。"
+    },
+    {
       "id": "2bcc9dacea16aefa6504",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4371,144 +4506,9 @@
       ],
       "titleJa": "Apple、Nvidia技術を活用したAIサーバー市場への再参入を検討か",
       "summaryJa": "Appleが「M8」シリーズチップを搭載した法人向けAIサーバーの開発を進めており、外部顧客への販売を検討していると報じられています。2011年のXserve終了以来となるサーバー市場への再参入の可能性があり、チップ間のデータ通信にはNvidiaのネットワーク技術を活用する案も話し合われています。計画が実現すれば2029年頃の発売が見込まれていますが、まだ最終決定ではなく中止される可能性もあります。"
-    },
-    {
-      "id": "b7dea10371851ec4fdeb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple planning to sell AI servers powered by M8 Ultra chips, says report",
-      "url": "https://9to5mac.com/2026/09/16/apple-planning-to-sell-ai-servers-powered-by-m8-ultra-chips-says-report/",
-      "publishedAt": "2026-09-16T13:46:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-planning-to-sell-AI-servers-powered-by-M8-Ultra-chips-says-report.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、M8 Ultra搭載の企業向けAIサーバーを外部販売か",
-      "summaryJa": "AppleがM8 Ultraチップを搭載したAI開発向けの企業向けサーバーの開発を進めており、内部利用だけでなく外部への販売を計画していると報じられています。M8 Ultraチップを複数組み合わせた2種類のバージョンが検討されており、チップ間の接続にはNvidiaのNVLink Fusionの採用が話し合われています。発売時期は2029年が視野に入れられていますが、計画はまだ確定しておらず変更や中止の可能性もあります。"
-    },
-    {
-      "id": "51ae72c6468a79f33ab4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Video highlights Apple’s playful James Bond homages in its keynote",
-      "url": "https://9to5mac.com/2026/09/16/video-highlights-apples-playful-james-bond-homages-in-its-keynote/",
-      "publishedAt": "2026-09-16T11:21:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Video-highlights-Apples-playful-James-Bond-homages-in-its-keynote.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの基調講演オープニングに隠された映画オマージュ",
-      "summaryJa": "Appleのイベントのオープニング動画には、映画『007 スカイフォール』などの有名大作映画のオマージュが遊び心をもって取り入れられていることが分かりました。映像作家のトッド・ヴァジリ氏がYouTubeで公開した短編動画の中で、具体的なシーンの比較を行いながら指摘しています。洗練されたシネマティックな演出で知られるAppleのイベント映像では、過去にも大作映画からのインスピレーションがたびたび話題となっていました。"
-    },
-    {
-      "id": "edf762d15c6e2169311f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Samsung reportedly rushing new trifold phone in response to iPhone Duo",
-      "url": "https://9to5mac.com/2026/09/16/samsung-reportedly-rushing-new-trifold-phone-in-response-to-iphone-duo/",
-      "publishedAt": "2026-09-16T11:03:02.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Samsung-reportedly-rushing-new-trifold-phone-in-response-to-iPhone-Duo.webp?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "サムスン、iPhone Duoに対抗して新型3つ折りスマホの発売を前倒しか",
-      "summaryJa": "サムスンが、Appleの「iPhone Duo」の動向に強い警戒感を抱き、新型の3つ折りスマートフォン「Galaxy Z Trifold 2」の発売を前倒しする計画であると報じられています。初代モデルは商業的成功を収めなかったものの、iPhone Duoが優れた防塵・防水性能を備えて登場したことが大きな刺激になったとみられています。防塵性能が不十分だった従来の折りたたみ端末の弱点を克服するため、サムスンはさらなる対抗策を急ぐ構えです。"
-    },
-    {
-      "id": "356657d4735bc0ca9e0e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Reminder: macOS 27 Ends Time Machine Backups to Time Capsule",
-      "url": "https://www.macrumors.com/2026/09/16/macos-27-ends-time-machine-backups-time-capsule/",
-      "publishedAt": "2026-09-16T10:38:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/time-capsule.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "macOS 27、Time CapsuleへのTime Machineバックアップが終了へ",
-      "summaryJa": "「macOS 27」では、AirPort Time Capsuleを利用したTime Machineのバックアップサポートが終了することが改めて伝えられています。この変更は、Time Capsuleが依存しているレガシーなファイル共有プロトコルであるAFPのサポートが終了し、バックアップがSMBプロトコルに完全移行するためです。すでに販売が終了しているTime Capsuleを引き続きバックアップ先として使用しているユーザーは、外付けドライブや現代的なNASなどの代替手段への移行が必要となります。"
-    },
-    {
-      "id": "86edf080c91b365f3176",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "EU's Kids Act to Ban Social Media for Under-13s, Curb Chatbot Access",
-      "url": "https://www.macrumors.com/2026/09/16/eu-kids-act-ban-social-media-under-13s/",
-      "publishedAt": "2026-09-16T09:45:45.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/european-commission.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "EU、13歳未満のSNS利用禁止やチャットボット規制を盛り込んだ新法案へ",
-      "summaryJa": "欧州連合（EU）は、保護者の監督なしでの13歳未満によるSNSや一部ゲームプラットフォーム、AIチャットボットの利用を禁止する「キッズ法」をまとめる方針です。木曜日に公表される予定の草案によると、13歳から15歳までの未成年についてもアカウント作成には保護者の同意や時間制限などの制限が必要となります。対象となる企業には厳格な年齢確認機能の導入が求められ、違反した場合には世界年間売上の最大6%という巨額の罰金が科される可能性があります。"
-    },
-    {
-      "id": "dd3bd429e2d484455a52",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple explains how the iPhone 18 Pro’s new Reference Image camera mode works",
-      "url": "https://9to5mac.com/2026/09/15/apple-explains-how-the-iphone-18-pros-new-reference-image-camera-mode-works/",
-      "publishedAt": "2026-09-16T02:25:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-reference-image-iphone-18-pro.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleが解説する新カメラモードの仕組み",
-      "summaryJa": "Appleのセキュリティ研究ブログにて、新しい写真認証システムの仕組みや設計思想の詳細が公開されました。合成画像や改ざんが容易になる現状を受け、プライバシーを保護しつつ量子耐性も備えた検証システムを開発したとしています。安全なデジタルネガを活用した検証の仕組みについて詳しく説明されています。"
-    },
-    {
-      "id": "df8962bde6af7eb66b65",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Slow Horses season 6 debuts on Apple TV",
-      "url": "https://9to5mac.com/2026/09/15/slow-horses-season-6-debuts-on-apple-tv/",
-      "publishedAt": "2026-09-16T01:05:09.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/slow-horses-s6-key-art.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、人気ドラマ「窓際のスパイ」シーズン6の配信を開始",
-      "summaryJa": "Apple TVで人気スパイ・ドラマ「窓際のスパイ」シーズン6の第1話の配信が開始されました。今作は毎週水曜日にエピソードが追加され、10月21日まで公開される予定です。前日には前シーズンのフィナーレで監督賞を受賞したばかりであり、さらに数時間前にはApple TVが今後2シーズンの継続も正式発表しています。"
-    },
-    {
-      "id": "4225d154e033d6843ea9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "India escalates Apple probe over alleged iOS 18 issues that incurred repair costs",
-      "url": "https://9to5mac.com/2026/09/15/india-escalates-apple-probe-over-alleged-ios-18-issues-that-incurred-repair-costs/",
-      "publishedAt": "2026-09-15T23:52:22.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/03/apple-india.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "インド、iOS 18の不具合めぐりAppleに対する調査を強化か",
-      "summaryJa": "インドの中央消費者保護庁（CCPA）が、iOS 18のアップデートにより一部のiPhoneで画面表示やマイクの不具合が発生した問題で、Appleに対する調査を本格的な調査部門へ移行したと報じられています。規制当局は、ソフトウェアの問題であるにもかかわらず修理費用がユーザーに請求されたことを問題視しています。一方のAppleは、システム上の欠陥や安全性に関する懸念は見つかっておらず、主張はわずか少数に基づいていると反論しています。"
-    },
-    {
-      "id": "549fd48b25171fd035bb",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Details How Reference Image Proves a Photo is Real",
-      "url": "https://www.macrumors.com/2026/09/15/apple-reference-image-info/",
-      "publishedAt": "2026-09-15T23:46:29.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-reference-image-iphone-18-pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、写真が本物であることを証明する技術の仕組みを解説",
-      "summaryJa": "iPhone 18 Proモデルがサポートする「Apple Reference Image」機能について、Appleがセキュリティ研究ブログで詳細を明らかにしました。この機能は、撮影された写真がAI生成ではなく実際のセンサーで捉えた本物であることを暗号署名付きのデジタルネガとして保存し証明するものです。撮影直後のピクセルデータを保護することで、改ざん攻撃を防ぎ検証可能なデジタル写真の新しい基準を打ち立てます。"
     }
   ],
-  "updatedAt": "2026-09-23T18:59:49.270Z",
+  "updatedAt": "2026-09-23T22:13:18.207Z",
   "initialized": true,
   "summaryVersion": 4
 }
