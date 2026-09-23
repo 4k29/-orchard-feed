@@ -1,6 +1,126 @@
 {
   "articles": [
     {
+      "id": "924a422be66c40cf5a5d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Public beta debuts for iPadOS 27.2 and more, here’s what’s new",
+      "url": "https://9to5mac.com/2026/09/22/public-beta-debuts-for-ipados-27-2-and-more-heres-whats-new/",
+      "publishedAt": "2026-09-23T00:32:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPadOS 27.2などのパブリックベータ版を公開",
+      "summaryJa": "Appleは登録ユーザー向けに、iPadOS 27.2やwatchOS 27.2などのパブリックベータ版の提供を開始しました。今回のアップデートでは、Apple Intelligence機能を統合した新しいヘルスケアアプリのほか、Apple TVアプリでのプロファイル機能の追加などが含まれています。設定アプリのソフトウェアアップデートから参加してインストールすることが可能です。"
+    },
+    {
+      "id": "8f6b39bb79fd5ec5db26",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Pay just got even better with four new features and more",
+      "url": "https://9to5mac.com/2026/09/22/apple-pay-is-getting-even-better-with-four-new-features/",
+      "publishedAt": "2026-09-22T23:57:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/apple-pay-header.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Pay、新デザインやアメックスのポイント利用など新機能を追加",
+      "summaryJa": "Appleは、Apple Payをさらに便利にする4つの新機能を発表しました。iOS 27では決済画面のデザインが刷新され、カードの切り替えや残高確認が容易になっています。また、アメリカン・エキスプレスとの提携により、オンラインやアプリ内での決済時にリワードポイントを直接利用できるようになるなど、利便性が向上しています。"
+    },
+    {
+      "id": "ef617938e9230dc00661",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "U.S. government urges Supreme Court to reverse Apple contempt ruling over App Store commission",
+      "url": "https://9to5mac.com/2026/09/22/u-s-government-urges-supreme-court-to-reverse-apple-contempt-ruling-over-app-store-commission/",
+      "publishedAt": "2026-09-22T23:43:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "米政府、最高裁にアップルへのApp Store手数料に関する法廷侮辱罪の破棄を要請",
+      "summaryJa": "Epic Gamesとの訴訟を巡り、米国政府や複数の法務・ビジネス団体が連邦最高裁判所に対し、アップルに対する法廷侮辱罪の判決の一部を破棄するよう求める意見書を提出しました。外部決済への誘導時にアップルが課した手数料を巡る解釈の対立が続いており、下級審の判断が争点となっています。"
+    },
+    {
+      "id": "821c84282f529bd5cf98",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases First Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
+      "url": "https://www.macrumors.com/2026/09/22/apple-releases-ios-27-2-public-beta/",
+      "publishedAt": "2026-09-22T23:32:52.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iOS 27.2やmacOS 27.2などの初パブリックベータを公開",
+      "summaryJa": "Appleは、iOS 27.2やmacOS Golden Gate 27.2などの各OSにおける最初のパブリックベータ版をリリースしました。新しいヘルスケアアプリやApple TVのプロファイル機能、複数言語に対応したSiri AI機能などが試せるようになっています。利用者はベータ版のテストプログラムに登録し、各端末の設定からアップデートを行うことができます。"
+    },
+    {
+      "id": "e5b2ce80361d83b1d3b3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases first iOS 27.2 public beta with new iPhone Health app",
+      "url": "https://9to5mac.com/2026/09/22/apple-releases-first-ios-27-2-public-beta-with-new-iphone-health-app/",
+      "publishedAt": "2026-09-22T23:06:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iOS-27.2-public.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、新しいヘルスケアアプリを含むiOS 27.2パブリックベータ1を公開",
+      "summaryJa": "Appleは開発者向けベータに続き、刷新されたヘルスケアアプリを含む「iOS 27.2パブリックベータ1」を一般テスター向けにリリースしました。このベータ版には、Quest Diagnosticsを通じた検査の予約・購入機能や、グループFaceTimeでのデュアルキャプチャモードなどが含まれており、Siri AIの言語サポートもフランス語や日本語などに拡大されています。"
+    },
+    {
+      "id": "11f7448426ea741cdf6f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple rolls out second RCs for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1 [U: Public]",
+      "url": "https://9to5mac.com/2026/09/22/apple-rolls-out-second-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
+      "publishedAt": "2026-09-22T23:05:25.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOS Tahoe 26.7.1とmacOS Sequoia 15.8.1の第2弾RCを公開",
+      "summaryJa": "Appleは正式リリースに向けて、「macOS Tahoe 26.7.1」および「macOS Sequoia 15.8.1」の第2弾リリース候補版（RC）を開発者およびパブリックベータテスター向けに公開しました。これらのアップデートにはすべてのユーザーに推奨される重要なセキュリティ修正が含まれており、数週間以内の正式配信が見込まれています。"
+    },
+    {
+      "id": "1167d39f049ffabc471a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases macOS 27.2 Golden Gate public beta 1",
+      "url": "https://9to5mac.com/2026/09/22/apple-releases-macos-27-2-golden-gate-public-beta-1/",
+      "publishedAt": "2026-09-22T23:01:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-public.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOS 27.2ゴールデンゲートのパブリックベータ1を公開",
+      "summaryJa": "Appleは開発者向けベータの公開に続き、「macOS 27.2ゴールデンゲート パブリックベータ1」の提供を開始しました。今回のベータ版では、英語に加えてフランス語、日本語、韓国語、ポルトガル語、スペイン語のSiri AI言語サポートが新たに拡張されており、無料のパブリックベータプログラムを通じて誰でも試すことができます。"
+    },
+    {
+      "id": "2223b35f3438aaac0dba",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27 gives you more control over Liquid Glass",
+      "url": "https://9to5mac.com/2026/09/22/macos-27-gives-you-more-control-over-liquid-glass/",
+      "publishedAt": "2026-09-22T22:47:12.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27-Golden-Gate-Liquid-Glass-Comparison.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "macOS 27、Liquid Glassの外観を自由に調整できるスライダーを搭載",
+      "summaryJa": "「macOS 27ゴールデンゲート」では、iPhoneのiOS 27と同様にシステム全体のデザイン言語である「Liquid Glass」の外観を細かく変更できるスライダーが導入されました。初期設定時やシステム設定の「外観」から、ドックやデスクトップウィジェットの透明度や質感をクリアから不透明まで好みに合わせてシームレスに調整可能です。"
+    },
+    {
       "id": "9bba713463fa68a6f4b4",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -361,6 +481,21 @@
       "summaryJa": "調査会社のデータによると、世界のAIグラス出荷台数が前年同期比で大幅に増加するなど、関連市場が急速に拡大しています。Appleが2027年後半の発売に向けて開発を進めているとされる初のスマートグラスは、画面非搭載型で音声やカメラ、Siri機能を中心に据えると報じられています。Metaが先行する市場において、今後のAppleの参入がどのような影響を与えるか注目されています。"
     },
     {
+      "id": "2424b2e8e043b2cddb29",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Event This October? These 7 New Products Expected Next Month",
+      "url": "https://www.macrumors.com/2026/09/22/apple-event-october-2026-what-to-expect/",
+      "publishedAt": "2026-09-22T15:40:38.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Event-This-October.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、10月にも新製品発表イベントを開催か",
+      "summaryJa": "Appleは9月に多くの新製品を投入しましたが、年末にかけてさらに新製品のリリースを控えていると報じられています。今年はiPad miniやApple TV、HomePod mini、iMacなどの登場が噂されており、一部の製品は10月のイベントやプレスリリースで発表される可能性があります。過去5年間の10月の発表傾向を振り返りつつ、今後の動向に注目が集まっています。"
+    },
+    {
       "id": "186de949f191e381ca60",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -539,6 +674,52 @@
       ],
       "titleJa": "Apple、2029年のPro向けiPhoneに薄型OLEDディスプレイ技術を採用か",
       "summaryJa": "調査会社の情報によると、Appleは2029年のPro向けiPhoneに偏光板を排除した「CoE」OLEDディスプレイ技術を採用する可能性があります。この技術により、輝度と省電力性能の向上が期待できるほか、薄型化によって内部スペースの拡大にもつながると伝えられています。"
+    },
+    {
+      "id": "08017a0a877225ebedb8",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Announces 'Tap to Pay on iPhone' Availability in 8 More Countries",
+      "url": "https://www.macrumors.com/2026/09/22/tap-to-pay-on-iphone-8-more-countries/",
+      "publishedAt": "2026-09-22T13:22:15.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Tap-to-Pay-on-iPhone-General.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhoneの「Tap to Pay」が新たに8カ国で利用可能に",
+      "summaryJa": "Appleは、iPhoneの「Tap to Pay」機能が新しく8カ国で利用可能になったと発表しました。これにより、アルゼンチン、コロンビア、コスタリカなどの加盟店は、追加のハードウェアを必要とせず、iPhoneだけで非接触型決済を受け付けることができるようになります。顧客は自分のiPhoneやApple Watchなどを店舗側のiPhoneにかざすだけで支払いを完了できます。"
+    },
+    {
+      "id": "382cd36d62d89df83428",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "新しいMac miniとMac Studio、本日より販売開始",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
+      "publishedAt": "2026-09-22T13:00:18.342Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "新しいMac miniとMac Studioが販売開始",
+      "summaryJa": "M6およびM5 Proチップを搭載した新しいMac miniと、M5 MaxおよびM5 Ultraチップを搭載したMac StudioがApple Store直営店やオンラインで販売を開始しました。Mac miniは最新のAppleシリコンによる優れたAIパフォーマンスと万能性を提供し、Mac Studioはプロ向けの圧倒的な処理能力を実現しています。どちらのモデルも最新のOSとApple Intelligenceに対応し、驚異的なアップグレードをもたらします。"
+    },
+    {
+      "id": "2c0c7e53a811ed62e5e2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Mac Mini and Mac Studio Now Available for Same-Day Pickup at Apple Stores",
+      "url": "https://www.macrumors.com/2026/09/22/new-mac-mini-mac-studio-same-day-pickup/",
+      "publishedAt": "2026-09-22T12:00:42.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新Mac miniとMac Studio、店頭受取が可能に",
+      "summaryJa": "米国を含む30の国と地域で新しいMac miniとMac Studioの販売が開始され、多くのApple Storeで当日の店頭受取が可能になりました。公式サイトで注文時に受取店舗を指定することで、その日のうちに製品を受け取ることができます。なお、オンラインストアで仕様をカスタマイズしたモデルは、当日受取の対象外となります。"
     },
     {
       "id": "fdd04c3ee6a4eca189e8",
@@ -4325,189 +4506,9 @@
       ],
       "titleJa": "Apple Watch向けに新健康アプリ「Readiness」が登場",
       "summaryJa": "Apple Watch Series 12とApple Watch Ultra 4向けに、新しい健康・フィットネス管理アプリ「Readiness」が導入されます。進化したセンサーシステムを活用し、身体の回復状態や活動の準備度を0から10のスコアなどで分かりやすく評価してくれます。この機能は新モデルのハードウェアが必要となり、対応する新型Apple Watchでのみ利用可能です。"
-    },
-    {
-      "id": "624b13551052f83deedf",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Slow Horses is back tonight, and Apple just confirmed two more seasons",
-      "url": "https://9to5mac.com/2026/09/15/slow-horses-is-back-tonight-and-apple-just-confirmed-two-more-seasons/",
-      "publishedAt": "2026-09-15T14:35:47.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/Apple-Originals-score-nine-Golden-Globe-nominations.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV人気作「窓際のスパイ」シーズン7と8の制作が決定",
-      "summaryJa": "Apple TVの人気ドラマシリーズ「窓際のスパイ」シーズン6の配信開始に合わせて、早くもシーズン7と8の制作が決定したことが発表されました。定期的な早期更新によりスムーズな新作公開が続いており、シーズン8では原作シリーズの第9作目「Clown Town」が描かれます。MI5の秘密をめぐるジャックス・ラムらの緊迫したストーリーが今後も長く楽しめる予定です。"
-    },
-    {
-      "id": "67c8e7476fe1c11d0c9a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirPods 5 Sees Initial Pre-Order Deal Ahead of Launch This Friday",
-      "url": "https://www.macrumors.com/2026/09/15/airpods-pre-order-deal/",
-      "publishedAt": "2026-09-15T14:29:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/AirPods-5-Gradient.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型AirPods 5、発売を前にAmazonで早くも割引価格に",
-      "summaryJa": "今週金曜日の発売を控える新型「AirPods 5」のベースモデルが、Amazonの事前予約で早くも割引価格の124.99ドルで登場しました。わずかな値下げではありますが、発売前の新モデルに対する最初の割引として注目されています。なお、ワイヤレス充電ケース付きモデルも同時に予約受付が行われています。"
-    },
-    {
-      "id": "972f5d395868a37be02c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Car Keys in Apple Wallet Expanding to Three More Vehicle Brands",
-      "url": "https://www.macrumors.com/2026/09/15/iphone-car-keys-coming-to-three-more-automakers/",
-      "publishedAt": "2026-09-15T14:17:49.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/01/bmw-car-key-photo.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleウォレットの「車の鍵」機能、新たに3つの自動車ブランドへ拡大か",
-      "summaryJa": "Appleウォレットのデジタルカーキー機能が、リンカーン、ルシード・モータース、中国のフリーランダーの3つの自動車ブランドへ新たに拡大する予定であることがコードから判明しました。この機能を利用すると、iPhoneやApple Watchを使って対応車両のロックや解除、エンジン始動が可能になります。なお、具体的な提供開始時期については現在のところコード内に記載されていません。"
-    },
-    {
-      "id": "0ed914fb6ec02cf46119",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Card has three new and improved features in iOS 27",
-      "url": "https://9to5mac.com/2026/09/15/apple-card-has-three-new-and-improved-features-in-ios-27/",
-      "publishedAt": "2026-09-15T14:00:41.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-card-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Card、iOS 27で定期的な取引や新通知機能など3つの改善を実施",
-      "summaryJa": "iOS 27のApple Cardには、定期的な支払いを管理できる「Recurring」セクションが新しく追加されました。履歴から今後の請求を予測して通知する機能も備わっており、サードパーティ製アプリを使わずにサブスクリプションの管理が容易になります。さらに、Apple Payのチェックアウト画面のデザインも刷新されました。"
-    },
-    {
-      "id": "7623949e843a0f9020f1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Cuts iPhone Trade-In Values While Raising Mac and iPad",
-      "url": "https://www.macrumors.com/2026/09/15/apple-cuts-iphone-trade-in-value/",
-      "publishedAt": "2026-09-15T13:43:23.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Trade-Ins-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhoneの下取り価格を引き下げ、MacやiPadは引き上げ",
-      "summaryJa": "Appleは米国での下取り価格を改定し、iPhoneの対象全モデルで価格を引き下げる一方で、iPadとMacのラインナップでは引き上げを行いました。新しい状態査定システムが導入され、わずかな外傷がある端末でも過度な減額を避ける詳細なティアが適用されるようになっています。iPhone 17シリーズなどの新しい端末も初めてリストに追加されました。"
-    },
-    {
-      "id": "5e9129f55ac8301e0d98",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Battery draining faster after updating to iOS 27? Don’t panic …",
-      "url": "https://9to5mac.com/2026/09/15/battery-draining-faster-after-updating-to-ios-27-dont-panic/",
-      "publishedAt": "2026-09-15T13:35:18.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-trio-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27へのアップデート後にバッテリー消費が早い原因と対処法",
-      "summaryJa": "iOS 27にアップデートした直後にバッテリーの消耗が早くなったり本体が発熱したりする場合でも、慌てる必要はありません。これはSiri AIのためのデータ再インデックスなど、バックグラウンドでの集中的な処理が一時的に発生しているためです。数日間かけてこれらの作業が完了すれば、バッテリー持ちや端末の動作は通常の状態に戻ります。"
-    },
-    {
-      "id": "049ab27973ec26b9973b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 adds new Phone app feature that’s an instant favorite",
-      "url": "https://9to5mac.com/2026/09/15/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/",
-      "publishedAt": "2026-09-15T13:34:09.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/phone-app-icon-fi-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27、企業への電話時に関連情報を表示する「Call Context」を追加",
-      "summaryJa": "iOS 27で導入されたApple Intelligence機能「Call Context」は、企業へ電話をかけた際にメール内の確認コードなど関連情報を自動で画面上に表示します。航空会社の予約変更などの際に、確認番号を音声で読み上げてくれる便利な機能も備わっています。英語圏から提供が開始され、対応するiPhoneやiPadなどのデバイスで利用可能です。"
-    },
-    {
-      "id": "5bd9ab18c92ee80d5d1e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Spotify Now Lets You Keep Kids' Music Out of Your Wrapped",
-      "url": "https://www.macrumors.com/2026/09/15/spotify-keep-kids-music-out-of-taste-profile/",
-      "publishedAt": "2026-09-15T12:59:42.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/spotify-kids-music-filter@2x-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Spotify、子どもの音楽をレコメンドや再生履歴から除外する設定を追加",
-      "summaryJa": "Spotifyは、子ども向けに再生した音楽がパーソナライズされたおすすめや今年のまとめに影響を与えないようにする新しい設定を追加しました。設定内の「キッズ＆ファミリー向け音楽を好みのプロファイルに含める」のスイッチをオフにすることで、アニメの曲や童謡などがレコメンド機能に反映されなくなります。変更が反映されるまで最大48時間かかり、過去の再生履歴に対しても遡って適用されます。"
-    },
-    {
-      "id": "4811899bea01103d0dbf",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "'Widow's Bay' Leads Apple TV to Record 29 Emmy Wins",
-      "url": "https://www.macrumors.com/2026/09/15/widows-bay-apple-tv-record-emmy-wins/",
-      "publishedAt": "2026-09-15T12:34:26.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-TV-Emmy-winners-Widows-Bay-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple TV、エミー賞で過去最多の29部門を受賞",
-      "summaryJa": "第78回プライムタイム・エミー賞において、Apple TVの配信作品が合計29部門を受賞し、今年の最多受賞ネットワークとなりました。『Widow's Bay』がコメディ・シリーズ作品賞を含む最多の14部門を獲得し、大きな躍進を支えました。配信サービスとして史上最速で最多受賞ネットワークの地位を築き、優れたオリジナル作品のクオリティの高さを改めて証明しています。"
-    },
-    {
-      "id": "0373d29dc6bcf285e542",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New Apple Watch features may require new legal precedent for privacy",
-      "url": "https://9to5mac.com/2026/09/15/new-apple-watch-features-may-require-new-legal-precedent-for-privacy/",
-      "publishedAt": "2026-09-15T12:17:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/New-Apple-Watch-features-may-require-new-legal-precedent-for-privacy.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watchの新機能、米州のプライバシー法で新たな法解釈が必要になる可能性",
-      "summaryJa": "Apple Watchの新しい音声認識機能であるLive RewindとSiri Recapは会話を音声で記録するため、複数の米国州のプライバシー法との抵触が懸念されています。どちらの機能も録音データを外部に公開するものではありませんが、新しい法的先例を作るために裁判所での判断が必要になる可能性があります。"
-    },
-    {
-      "id": "18486bfe5e0d02081036",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Lukewarm orders for iPhone 18 Pro, says analyst – but it doesn’t mean much",
-      "url": "https://9to5mac.com/2026/09/15/lukewarm-orders-for-iphone-18-pro-says-analyst-but-it-doesnt-mean-much/",
-      "publishedAt": "2026-09-15T11:27:38.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの予約需要は低調か、アナリストが予測",
-      "summaryJa": "著名アナリストのジェフ・プー氏によると、iPhone 18 ProおよびPro Maxの予約時の待ち時間から判断すると、需要は控えめであるように見受けられます。ほとんどのiPhone 18 Proの構成は即時配送が可能で、Pro Maxでも最長3〜4週間となっています。ただし、出荷台数の見積もりは供給量など多くの要素に左右されるため、実際の販売動向を慎重に見極める必要があります。"
-    },
-    {
-      "id": "2f001e7bdd9ba5ae8e50",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Weirdest iTunes Walk-Back Turns 12 Today",
-      "url": "https://www.macrumors.com/2026/09/15/apples-strangest-support-page-turned-12-today/",
-      "publishedAt": "2026-09-15T11:13:50.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/u2-songs-of-innocence@2x-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "U2アルバム自動配信の騒動から12年、Appleの異例の対応を振り返る",
-      "summaryJa": "2014年、AppleはiPhone 6のイベントでU2のアルバム「Songs of Innocence」を全iTunesユーザーに無料で自動配信しました。しかし、ユーザーの同意なしにダウンロードされたことで多くの苦情が寄せられ、Appleはアルバムをアカウントから削除するための専用ページを急きょ用意する事態となりました。最終的に数千万人がダウンロードしたものの、音楽業界とユーザーの双方にとって記憶に残る出来事となりました。"
     }
   ],
-  "updatedAt": "2026-09-22T22:14:30.947Z",
+  "updatedAt": "2026-09-23T00:40:30.463Z",
   "initialized": true,
   "summaryVersion": 4
 }
