@@ -752,6 +752,21 @@
       "summaryJa": "M6およびM5 Proチップを搭載した新しいMac miniと、M5 MaxおよびM5 Ultraチップを搭載したMac StudioがApple Store直営店やオンラインで販売を開始しました。Mac miniは最新のAppleシリコンによる優れたAIパフォーマンスと万能性を提供し、Mac Studioはプロ向けの圧倒的な処理能力を実現しています。どちらのモデルも最新のOSとApple Intelligenceに対応し、驚異的なアップグレードをもたらします。"
     },
     {
+      "id": "823c8772e26c16a251cd",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "The new Mac mini and Mac Studio are available today",
+      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
+      "publishedAt": "2026-09-22T12:59:21.039Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple、M6搭載の新しいMac miniとMac Studioを発売",
+      "summaryJa": "Appleは、最新のAppleシリコンを搭載した新しいMac miniとMac Studioの販売を開始しました。Mac miniは、M6チップやM5 Proを備え、AI性能やグラフィックス性能が大幅に向上しています。一方のMac Studioは、M5 Maxおよび新しいM5 Ultraを搭載し、最大512GBのユニファイドメモリをサポートする最もパワフルなデスクトップです。"
+    },
+    {
       "id": "2c0c7e53a811ed62e5e2",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4491,24 +4506,9 @@
       ],
       "titleJa": "iOS 27でiPhoneのカメラアプリに導入された3つの強力な新機能",
       "summaryJa": "iOS 27ではiPhoneのカメラアプリに多くの機能強化が行われました。対応モデルでは周囲の状況を認識してアクションを起こせる「Siriモード」が追加されたほか、撮影モードごとのコントロールのカスタマイズや、iPhone 18 Pro向けの高度なプロ用設定なども利用可能になっています。"
-    },
-    {
-      "id": "f9f7de80bbafdd93cfca",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple TV Shipping Delays Persist, HomePod Mini Unavailable in Orange",
-      "url": "https://www.macrumors.com/2026/09/15/apple-tv-homepod-mini-shipping-delays/",
-      "publishedAt": "2026-09-15T15:39:06.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/01/HomePod-mini-and-Apple-TV.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple TVの配送遅延が継続、HomePod miniの一部カラーが品薄に",
-      "summaryJa": "米国のAppleオンラインストアにおいて、Apple TVの配送予定日が翌月にずれ込むなど長引く出荷遅延が発生しています。また、HomePod miniの一部カラーも注文不可や大幅な遅延となっており、今年後半の新型モデル発表の噂とともに動向が注目されています。"
     }
   ],
-  "updatedAt": "2026-09-23T05:13:25.691Z",
+  "updatedAt": "2026-09-23T10:04:02.764Z",
   "initialized": true,
   "summaryVersion": 4
 }
