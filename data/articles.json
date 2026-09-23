@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "e5ba7541d14a68d15203",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Mac Mini Has Two Storage Downsides, Including Unremovable SSD",
+      "url": "https://www.macrumors.com/2026/09/22/new-mac-mini-ssd-cant-be-removed/",
+      "publishedAt": "2026-09-23T03:23:19.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/mac-mini-blue.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型Mac miniのストレージに関する2つの注意点",
+      "summaryJa": "新しいMac miniモデルではSSDがロジックボードにとはんだ付けされており、ユーザー自身によるストレージの換装やアップグレードができなくなりました。以前の一部のモデルでは取り外し可能なストレージが採用されていましたが、今回は再び非対応となっています。さらに、256GBモデルではシングルNANDチップ構成が採用されているため、512GB以上のモデルと比較して読み書きの速度が低下することが確認されています。"
+    },
+    {
+      "id": "bdcf9a38aa125ba527bd",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Card Savings Account's Interest Rate Just Went Up",
+      "url": "https://www.macrumors.com/2026/09/22/apple-card-savings-interest-rate-increase/",
+      "publishedAt": "2026-09-23T02:47:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/12/apple-card-savings-account-feature-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Cardの貯蓄口座金利が3.5%へ引き上げ",
+      "summaryJa": "Apple Cardの貯蓄口座における年間利回り（APY）が、従来の3.4%から3.5%へと引き上げられました。この変更により、例えば1,000ドルを預け入れて1年間引き出さなかった場合、現在の利率に基づいて35ドルの利息を得ることができます。Appleユーザー向けに提供されている金融サービスの利便性やお得感がさらに向上する形となります。"
+    },
+    {
+      "id": "746becefc9a060f322eb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "‘Brothers,’ starring Matthew McConaughey and Woody Harrelson, premieres on Apple TV",
+      "url": "https://9to5mac.com/2026/09/22/brothers-starring-matthew-mcconaughey-and-woody-harrelson-premieres-on-apple-tv/",
+      "publishedAt": "2026-09-23T01:01:41.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/brothers-matthew-mcconaughey-woody-harrelson-hug.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "マシュー・マコノヒーとウディ・ハレルソン共演のコメディシリーズがApple TVで配信開始",
+      "summaryJa": "ウディ・ハレルソンとマシュー・マコノヒーが共演するApple TVの新作コメディシリーズ「Brothers」の最初の2エピソードが、サブスクリプション登録者向けに配信を開始しました。本作は、2人の実生活の友情をベースにしつつ、実は異母兄弟ではないかという噂をユーモラスに昇華させたストーリーが展開されます。全8エピソードで構成され、今後は毎週水曜日に新しいエピソードが公開される予定です。"
+    },
+    {
       "id": "924a422be66c40cf5a5d",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4461,54 +4506,9 @@
       ],
       "titleJa": "Apple TVの配送遅延が継続、HomePod miniの一部カラーが品薄に",
       "summaryJa": "米国のAppleオンラインストアにおいて、Apple TVの配送予定日が翌月にずれ込むなど長引く出荷遅延が発生しています。また、HomePod miniの一部カラーも注文不可や大幅な遅延となっており、今年後半の新型モデル発表の噂とともに動向が注目されています。"
-    },
-    {
-      "id": "341db88d9d4a25961f87",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: AirPods 5 $125, M5 MacBook Air $150 off, Apple Watch Series 12, 25W MagSafe car mount, more",
-      "url": "https://9to5mac.com/2026/09/15/deals-airpods-5-m5-macbook-air-apple-watch-series-12/",
-      "publishedAt": "2026-09-15T15:29:57.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-5-MacBook-Air.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "M5 MacBook AirやAirPods 5など最新Apple製品がセールに",
-      "summaryJa": "Amazonにて、新型のAirPods 5やM5搭載のMacBook AirなどのApple製品が早くも割引価格で販売されています。M5 MacBook Airの1TBモデルが150ドル引きとなるなど、複数のカラーや構成でセール対象となっています。秋のプライセールや新製品の登場に合わせて、お得に購入できるチャンスとなっています。"
-    },
-    {
-      "id": "8bd3a54401ef152c6cfd",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Pre-Order Discounts Expand With Up to $20 In Savings",
-      "url": "https://www.macrumors.com/2026/09/15/apple-watch-pre-order-discounts/",
-      "publishedAt": "2026-09-15T15:27:27.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-s12-ultra-4.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch最新モデルの予約割引がAmazonで開始",
-      "summaryJa": "Apple Watch Series 12およびApple Watch Ultra 4の予約受付が開始され、Amazonで早くも割引価格での販売が始まっています。GPSモデルやセルラーモデルの一部が対象となっており、9月18日の発売に向けて少しお得に予約することができます。チタニウムケースやセラミックモデルなどの上位モデルも含め、各所で割引が展開されています。"
-    },
-    {
-      "id": "4930a1a4a4de2ca13957",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch adds an all-new Readiness app, here’s how it works",
-      "url": "https://9to5mac.com/2026/09/15/apple-watch-adds-an-all-new-readiness-app-heres-how-it-works/",
-      "publishedAt": "2026-09-15T14:38:05.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Watch-Readiness-Score-1.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch向けに新健康アプリ「Readiness」が登場",
-      "summaryJa": "Apple Watch Series 12とApple Watch Ultra 4向けに、新しい健康・フィットネス管理アプリ「Readiness」が導入されます。進化したセンサーシステムを活用し、身体の回復状態や活動の準備度を0から10のスコアなどで分かりやすく評価してくれます。この機能は新モデルのハードウェアが必要となり、対応する新型Apple Watchでのみ利用可能です。"
     }
   ],
-  "updatedAt": "2026-09-23T00:40:30.463Z",
+  "updatedAt": "2026-09-23T05:13:25.691Z",
   "initialized": true,
   "summaryVersion": 4
 }
