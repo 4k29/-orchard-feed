@@ -1,6 +1,171 @@
 {
   "articles": [
     {
+      "id": "2bcc9dacea16aefa6504",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s everything new for Apple Calendar in iOS 27",
+      "url": "https://9to5mac.com/2026/09/23/heres-everything-new-for-apple-calendar-in-ios-27/",
+      "publishedAt": "2026-09-23T18:57:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27のカレンダーアプリの新機能まとめ",
+      "summaryJa": "iOS 27のカレンダーアプリでは、Apple Intelligenceを活用した自然言語入力によるイベントやリマインダーの作成が可能になります。また、イベントの詳細画面や作成画面のデザインが刷新され、アイコンが追加されて視覚的に分かりやすくなりました。さらに、iCloudカレンダーでもイベントごとに「忙しい」または「空き」の状態を設定できるようになっています。"
+    },
+    {
+      "id": "11c24aad798ec19892b0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 23, 2026 – Apple wearable rumors, more",
+      "url": "https://9to5mac.com/2026/09/23/daily-september-23-2026/",
+      "publishedAt": "2026-09-23T18:12:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "9to5Mac Daily: Appleのウェアラブルの噂など",
+      "summaryJa": "日々のApple関連ニュースを振り返る9to5Mac Dailyのポッドキャストです。このエピソードでは、watchOS 27.2ベータ2でのAppスイッチャーのジェスチャー復活や、画面を持たないWhoopスタイルのフィットネストラッカーに関する噂などが取り上げられています。また、GMのCarPlay戦略の現状や、Apple ParkビジターセンターのAR体験の終了についても触れられています。"
+    },
+    {
+      "id": "f6fc8b5e79dbcfb3b69b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s everything new Apple TV has coming in October",
+      "url": "https://9to5mac.com/2026/09/23/heres-everything-new-apple-tv-has-coming-in-october-2026/",
+      "publishedAt": "2026-09-23T18:05:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-logo-fall-foliage-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、10月配信の新作ラインナップを公開",
+      "summaryJa": "Apple TVでは、話題のドラマや映画に加えて、10月に多くの新作が配信されます。過酷な冬のK2登頂を描いたドキュメンタリー映画『The Last First: Winter K2』や、ファンの世界を舞台にした子供向け番組『The Sisters Grimm』シーズン2などが登場します。多彩なジャンルの作品が追加され、視聴者の選択肢がさらに広がります。"
+    },
+    {
+      "id": "8edd5e9f01d946b05eb5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.2: New features, release date, more",
+      "url": "https://9to5mac.com/2026/09/23/ios-27-2-new-features-release-date/",
+      "publishedAt": "2026-09-23T17:41:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27.2-guide.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27.2の新機能とベータテストの動向",
+      "summaryJa": "AppleはiOS 27.2のベータテストを開始し、数ヶ月以内の一般公開に向けた準備を進めています。今回は、iPhone 18 Proのイベントで予告されていたヘルスケアアプリの大幅な刷新が含まれており、Insights、Longevity、Browseの3タブ構成になります。Longevityタブには、Apple Watchのデータを利用した新しい健康年齢機能が追加される予定です。"
+    },
+    {
+      "id": "c45679ab60916c21f8c4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI just upgraded ChatGPT Voice in three ways",
+      "url": "https://9to5mac.com/2026/09/23/openai-just-upgraded-chatgpt-voice-in-three-ways/",
+      "publishedAt": "2026-09-23T17:24:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、ChatGPT Voiceを3つの機能で大幅強化",
+      "summaryJa": "OpenAIはChatGPT Voiceの機能を刷新し、最新モデルの導入やプラグイン対応、クラウド連携システムとの統合を実施しました。メールやカレンダー、Slackなどの連携により利便性が向上し、デスクトップおよびモバイル環境での活用がさらに広がります。音声コントロール機能の強化により、ユーザー体験の向上が期待されます。"
+    },
+    {
+      "id": "3302a8d54712b2410dfd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s what Siri AI looks like on HomePod, per leak",
+      "url": "https://9to5mac.com/2026/09/23/heres-what-siri-ai-looks-like-on-homepod-per-leak/",
+      "publishedAt": "2026-09-23T17:17:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai-orb-generic-wwdc.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "HomePod向けSiri AIの動作画面がリークか",
+      "summaryJa": "コード解析から、HomePod向けの新機能としてSiri AIが開発されているとの情報が浮上しました。公開された映像には、他社製デバイスと同様の配色を採用した新しいステータスライトや音声のデザインが確認されています。機能を利用するには新しいハードウェアが必要になる可能性が高く、今後の公式発表が注目されています。"
+    },
+    {
+      "id": "18f6c3f991bc5d0b0a26",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirTag 2 4-Pack Hits $79.99 on Amazon, Matching Record Low",
+      "url": "https://www.macrumors.com/2026/09/23/airtag-2-4-pack-hits-79-99/",
+      "publishedAt": "2026-09-23T17:13:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/new-airtag-2-peach.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirTag 2の4個パックがAmazonで過去最安値を記録",
+      "summaryJa": "Amazonにて、AppleのAirTag 2の4個パックが通常価格から値引きされ、過去最安値となる価格で販売されています。第2世代となるAirTagでは、超広帯域チップの性能向上により、従来モデルよりも遠い距離から正確な位置探しの機能を利用可能です。お得な割引を活用して購入できる機会となっています。"
+    },
+    {
+      "id": "0f94abbbd4cb70e7f291",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Siri AI Coming to HomePod",
+      "url": "https://www.macrumors.com/2026/09/23/siri-ai-coming-to-homepod/",
+      "publishedAt": "2026-09-23T17:04:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Siri-AI.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "HomePod向けにSiri AI機能が追加される可能性",
+      "summaryJa": "HomePodのソフトウェアコードから、新しいSiri AIを支えるシステムや新しい配色を用いたステータスライトの存在が明らかになりました。既存モデルでは利用できないことから、将来的に登場する新しいハードウェアやプロセッサを搭載したモデルでのみサポートされると報じられています。互換性のあるiPhoneと連携して動作する見込みです。"
+    },
+    {
+      "id": "901111541c918a9a2c53",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Air vs. iPhone 18 Pro Buyer's Guide: Which Should You Buy?",
+      "url": "https://www.macrumors.com/guide/iphone-air-vs-18-pro/",
+      "publishedAt": "2026-09-23T16:06:28.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-vs-iphone-air.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone AirとiPhone 18 Proのどちらを選ぶべきか比較",
+      "summaryJa": "iPhone AirとiPhone 18 Proシリーズは価格差がわずか100ドルですが、その特徴は大きく異なります。薄さと軽さを追求した6.5インチのAirに対し、Proモデルはより高性能なカメラシステムや長いバッテリー駆動時間、最新のA20 Proチップを搭載しています。常時表示OLEDディスプレイやApple Intelligenceへの対応など共通点も多く、自身のライフスタイルに合わせた選択が求められます。"
+    },
+    {
+      "id": "8977a2482c144be21a24",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: Apple Watch Ultra 2 clearance $200 off, AirPods, Beats 360 launch discount, iPhone 18 Pro cases, more",
+      "url": "https://9to5mac.com/2026/09/23/deals-apple-watch-ultra-2-clearance-beats-360/",
+      "publishedAt": "2026-09-23T15:27:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Apple-Watch-Ultra-clearance-Beats-360-Mac-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch Ultra 3などが大幅値下げセールに登場",
+      "summaryJa": "Amazonのセールにて、Apple Watch Ultra 3のチタニウムミラネーゼループモデルが従来より約200ドル引きの過去最安値で販売されています。また、AirPods Pro 3の割引や各種アクセサリーの特価セールも同時に実施されており、新製品の発売時期に合わせて人気デバイスをお得に入手できるチャンスとなっています。"
+    },
+    {
+      "id": "8f5e1b7e05ce47a4fc96",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Disney+ and Hulu just increased prices, here’s how much",
+      "url": "https://9to5mac.com/2026/09/23/disney-and-hulu-just-increased-prices-heres-how-much/",
+      "publishedAt": "2026-09-23T15:04:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/disney-plus-hulu-app-icons.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Disney+とHuluがほとんどのプランで値上げを実施",
+      "summaryJa": "ストリーミングサービスのDisney+とHuluが、大部分のサブスクリプションプランで値上げを行いました。広告なしのプレミアムプランでは月額料金が約2ドル引き上げられ、それぞれ新価格が適用されます。一方で、両サービスのバンドルプランも用意されており、ユーザーの利用形態に応じた選択肢となっています。"
+    },
+    {
       "id": "b1537c8c4b9389f54b61",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -132,9 +297,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "AT&T seemingly has no plans to support Apple’s new iPhone Handoff feature",
-      "summaryJa": "Apple last week launched a new iPhone Handoff feature, which lets you use a single phone number across two iPhones. The number intelligently moves between each iPhone based on whichever one you pick up. iPhone Handoff requires support from cellular carriers, and it sounds like AT&T isn’t interested in adopting the feature. more… Apple last week launched a new iPhone Handoff feature, which lets you use a single phone number across two iPhones. The number intelligently moves between each iPhone based on whichever one you pick up. iPhone Handoff requires support from cellular carriers, and it sounds like AT&T isn’t interested in adopting the feature. Will AT&T support iPhone Handoff? As reported by CNET, AT&T seemingly has no plans to support iPhone Handoff. According to the report: “While we",
-      "translationStatus": "source"
+      "titleJa": "米AT&T、新しい「iPhone Handoff」機能への非対応を示唆か",
+      "summaryJa": "米国の通信大手AT&Tが、Appleが導入した新しい「iPhone Handoff」機能をサポートする予定がないと報じられています。この機能は1つの電話番号を2台のiPhone間でシームレスに切り替えて使用できるものですが、同社は従来のeSIM転送オプションに注力する姿勢を示しています。そのため、同社の契約者からは不満の声が上がる可能性があります。"
     },
     {
       "id": "ff8f1d7010fd6a8c4c96",
@@ -148,9 +312,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "New iPhone Setting Lets Users Shake Off Motion-Sensing Ads",
-      "summaryJa": "Apple is testing an iPhone setting for users in China that lets them add apps to a list that prevents them from accessing the device's motion sensors. Apple hasn't explicitly said what the setting is in response to, but Chinese apps sometimes show \"shake-to-open\" ads on launch, and they can be triggered by merely picking up an iPhone, walking, or going over a bump in a car, resulting in unwanted redirects. Users in China speculate this is why iOS 27.2 beta 2 includes the new \"Restrict Motion Data\" option in Settings that blocks app access to accelerometer and gyroscope data. For now, the option appears tied to mainland China App Store accounts, and we don't expect it will be available to iPhone users more broadly when iOS 27.2 is released later this year. This article, \" New iPhone Setting",
-      "translationStatus": "source"
+      "titleJa": "中国のiOS向けに「シェイク広告」を防ぐ新しい設定がテスト中",
+      "summaryJa": "Appleが中国のユーザー向けに、アプリによるモーションセンサーへのアクセスを制限する新しい設定をテストしていることが分かりました。中国のアプリでは、端末を振る動作などを検知して広告が開く迷惑な仕様が問題となっており、これに対処するための機能と見られています。なお、この設定は現在のところ中国本土のApp Storeアカウントに限定されている模様です。"
     },
     {
       "id": "81112e68f53231e6c0e7",
@@ -164,9 +327,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple increases interest rate for Apple Card Savings Account",
-      "summaryJa": "Good news for Apple Card Savings Account users this morning. Apple and Goldman Sachs have increased the interest rate on the account from 3.4% to 3.5% today. more… Good news for Apple Card Savings Account users this morning. Apple and Goldman Sachs have increased the interest rate on the account from 3.4% to 3.5% today. Apple and Goldman Sachs regularly change the annual percentage yield for Apple Card Savings Account based on broader financial conditions. This rate matches the rate that Goldman Sachs offers through its own Marcus savings account, although you can earn a bonus rate of 4.50% with this link for a limited time. The Apple Card Savings Account is available exclusively to Apple Card users. As you earn Daily Cash rewards with Apple Card, you can transfer them to your savings acco",
-      "translationStatus": "source"
+      "titleJa": "Apple Cardの貯蓄口座、金利が3.4%から3.5%へと引き上げ",
+      "summaryJa": "Appleは提携先のゴールドマン・サックスと共に、Apple Cardユーザー向けに提供している「Savings」口座の金利を3.4%から3.5%へと引き上げました。この金利変更は金利情勢の変化に合わせて定期的に行われるもので、ゴールドマン・サックス自身の預金口座と同水準となっています。口座の残高には日割りで利息が複利計算され、毎月末に支払われます。"
     },
     {
       "id": "2d94dc89ef2154cd5694",
@@ -180,9 +342,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Intelligence Taking Up 30GB+ on Some Macs Running macOS 27",
-      "summaryJa": "After you install macOS 27 Golden Gate, Apple automatically downloads a multi-gigabyte AI model to your Mac the next time it's connected to the internet. Unlike previous versions of macOS, you can't prevent it. Siri AI, and by extension Apple Intelligence, are now a mandatory part of your system. For macOS 27 Golden Gate, Apple says the latest Apple Intelligence features require up to 14GB of on-device storage on Macs with an M3 chip or later and at least 12GB of unified memory, and up to 8GB of storage for other Apple Intelligence-enabled Macs. But in our experience, AI model storage allocation appears to be considerably higher on some Macs than others. On an M4 Pro Mac mini running macOS 27, for example, MacRumors saw 20.67GB handed over for Apple Intelligence, according to the Storage s",
-      "translationStatus": "source"
+      "titleJa": "macOS 27で「Apple Intelligence」が一部のMacで30GB以上の容量を消費か",
+      "summaryJa": "macOS 27の導入に伴い、Apple IntelligenceのAIモデルがシステムに必須となり自動ダウンロードされるようになりました。Appleの公式発表以上のストレージ容量を消費するケースが報告されており、一部のMacではモデルデータだけで20GB以上が割り当てられています。ユーザーの間では、ストレージ容量を大きく圧迫する仕様について懸念の声が上がっています。"
     },
     {
       "id": "e5ba7541d14a68d15203",
@@ -4345,174 +4506,9 @@
       ],
       "titleJa": "Apple、写真が本物であることを証明する技術の仕組みを解説",
       "summaryJa": "iPhone 18 Proモデルがサポートする「Apple Reference Image」機能について、Appleがセキュリティ研究ブログで詳細を明らかにしました。この機能は、撮影された写真がAI生成ではなく実際のセンサーで捉えた本物であることを暗号署名付きのデジタルネガとして保存し証明するものです。撮影直後のピクセルデータを保護することで、改ざん攻撃を防ぎ検証可能なデジタル写真の新しい基準を打ち立てます。"
-    },
-    {
-      "id": "1c2b51008536a1d7e77b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OmniFocus adds Siri AI support as Omni Group updates its apps for iOS 27, macOS 27, more",
-      "url": "https://9to5mac.com/2026/09/15/omnifocus-adds-siri-ai-support-as-omni-group-updates-its-apps-for-ios-27-macos-27-more/",
-      "publishedAt": "2026-09-15T23:22:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/omnifocus-os27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Omni Groupの各アプリがAppleの新OSに対応、Siri AIをサポート",
-      "summaryJa": "Omni Groupは、OmniFocusやOmniPlanなどの主要アプリを最新のAppleプラットフォーム向けにアップデートしました。特にOmniFocus 4.9では、新しいシステムに対応したデザインの刷新に加え、Siri AIのサポートが追加されています。ユーザーはSiriに話しかけて期限やメモの割り当てを行ったり、画面上の情報やビジュアルインテリジェンスを活用してタスクを素早く追加できるようになります。"
-    },
-    {
-      "id": "a7d6bf7fb7cf99828837",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Car Keys reportedly coming to three more automakers",
-      "url": "https://9to5mac.com/2026/09/15/apple-car-keys-reportedly-coming-to-three-more-automakers/",
-      "publishedAt": "2026-09-15T22:43:38.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AppleのCar Key、新たに3つの自動車ブランドに対応か",
-      "summaryJa": "Appleのバックエンドコードから、ウォレットアプリの「Car Key」機能に対応する新たな自動車メーカーとしてリンカーン、フリーランダー、ルシッドの3社が追加されていることが判明しました。これはコード上の変更であり正式な対応時期や対象車種はまだ発表されていませんが、将来的にこれらのブランドの車両でiPhoneやApple Watchを車のキーとして利用できるようになる可能性があります。"
-    },
-    {
-      "id": "08b14b6ac298569b7640",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "What the iPhone Duo's Camera Can and Can't Do",
-      "url": "https://www.macrumors.com/guide/iphone-duo-camera/",
-      "publishedAt": "2026-09-15T22:11:01.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-cameras.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "折りたたみiPhone「iPhone Duo」のカメラ機能が明らかに",
-      "summaryJa": "折りたたみデザインを採用する新しい「iPhone Duo」に向けた独自のカメラ機能の詳細が報じられています。全員が揃った瞬間をAIが自動で撮影する「スマートテイク」や、子供の注意を引き付ける「Kid Cue」、内外のディスプレイにライブプレビューを表示する機能などが搭載されます。また、折りたたみ機構を三脚がわりに利用できるほか、外側ディスプレイをファインダーにして高品質な背面カメラで自分撮りを行うことも可能です。"
-    },
-    {
-      "id": "684f89b0878843a5c795",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Ulysses gets Siri AI support, customizable toolbars, project templates, more",
-      "url": "https://9to5mac.com/2026/09/15/ulysses-gets-siri-ai-support-customizable-toolbars-project-templates-more/",
-      "publishedAt": "2026-09-15T22:01:17.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ulysses.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "テキストエディタ「Ulysses」がSiri AIサポートに対応",
-      "summaryJa": "人気テキストエディタアプリ「Ulysses」がアップデートされ、Siri AIのサポートやカスタマイズ可能なツールバー、プロジェクトテンプレートなどが追加されました。今回のアップデートにより、文章の作成や書き換え、校正などをAIアシスタントの画面認識機能と組み合わせてスムーズに行えるようになります。また、iOSやmacOSの最新バージョンに合わせたデザインの刷新や、新しいグループアイコン、アクセシビリティの改善も含まれています。"
-    },
-    {
-      "id": "de8fa38c363d701f3097",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "dbrand has the iPhone Duo and iPhone 18 Pro covered – with a huge range of designs",
-      "url": "https://9to5mac.com/2026/09/15/dbrand-has-iphone-duo-iphone-18-pro-covered-with-huge-range-of-designs/",
-      "publishedAt": "2026-09-15T22:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/09-10-iPhone-18-Series-Hero-1.png?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ケースメーカーdbrand、新型iPhone向けアクセサリーを発表",
-      "summaryJa": "新型のiPhone DuoやiPhone 18 Proの発表に伴い、ケースメーカーのdbrandが専用のケースやスキン、画面保護フィルムなどのラインナップをいち早く公開しました。ミニマルな薄型ケース「MNML」や黄ばみを一生涯保証するクリアケース「Ghost」、優れたグリップ力の「Grip」などが用意されています。ユーザーは自分の好みや求める保護のレベルに合わせて、多彩なデザインや質感の中からアクセサリーを選択可能です。"
-    },
-    {
-      "id": "b307bed594ea485b954a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 has a fun new animation when you call a contact on their birthday",
-      "url": "https://9to5mac.com/2026/09/15/ios-27-has-a-fun-new-animation-when-you-call-a-contact-on-their-birthday/",
-      "publishedAt": "2026-09-15T20:44:58.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/birthday-ios27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27、誕生日の連絡先に発信する際の楽しい新アニメーションを追加",
-      "summaryJa": "iOS 27では、連絡先に登録された誕生日の人に電話をかけると、特別な花火のバナーアニメーションが表示されるようになりました。watchOSで好評だった演出がiPhoneにも取り入れられ、今年のシステム全体のアップデートにおいて誕生日機能の一環となっています。"
-    },
-    {
-      "id": "9ea6950025fc57d0c3cd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 gives Apple’s Calendar app new feature I’ve wanted for years",
-      "url": "https://9to5mac.com/2026/09/15/ios-27-gives-apples-calendar-app-new-feature-ive-wanted-for-years/",
-      "publishedAt": "2026-09-15T20:06:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、カレンダーアプリに自然言語入力機能を追加",
-      "summaryJa": "Appleのカレンダーアプリがアップデートされ、予定の作成時に自然言語による入力がサポートされました。文章をそのまま打ち込むだけで、日時や場所などの詳細が自動的に認識されてカレンダーに反映されます。また、リマインダーの作成時にも同様の自然言語システムが拡張され、よりスムーズなスケジュール管理が可能になっています。"
-    },
-    {
-      "id": "1aa00cfc9d6bf88b765f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Another Intel iMac has joined Apple’s vintage products list",
-      "url": "https://9to5mac.com/2026/09/15/another-intel-imac-has-joined-apples-vintage-products-list/",
-      "publishedAt": "2026-09-15T19:55:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/2019-imac.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "2019年製の21.5インチiMacがヴィンテージ製品リスト入り",
-      "summaryJa": "Appleは、2019年に発売されたRetina 4Kディスプレイ搭載の21.5インチiMacを新たにヴィンテージ製品のリストに追加しました。ヴィンテージ製品に指定されると、部品の在庫状況に応じてApple Storeや正規サービスプロバイダでの修理対応が可能となります。所有しているユーザーで修理を検討している場合は、早めの対応が推奨されます。"
-    },
-    {
-      "id": "d64fc2de4cfaca1e40b4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Last Intel 21.5-Inch iMac is Now Vintage",
-      "url": "https://www.macrumors.com/2026/09/15/apple-last-intel-imac-vintage/",
-      "publishedAt": "2026-09-15T19:53:26.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2020/08/iMac-Blue-Isolated.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "最後のIntel搭載21.5インチiMacがヴィンテージ製品に",
-      "summaryJa": "Appleが2019年発売の4K対応21.5インチiMacをヴィンテージ製品リストに追加したことが伝えられています。販売終了から5年が経過した製品が対象となり、今後は部品の在庫がある場合に限り修理を受け付ける形になります。M1チップを搭載した現在のカラフルなiMacが登場する前の世代にあたる、最後のIntel製21.5インチモデルでした。"
-    },
-    {
-      "id": "4b7aca84bc86036575a2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 16 Pro vs. iPhone 18 Pro Buyer's Guide: Worth Upgrading?",
-      "url": "https://www.macrumors.com/guide/iphone-16-pro-vs-18-pro/",
-      "publishedAt": "2026-09-15T19:17:47.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-16-Pro-vs-18-Pro-Buyers-Guide-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 16 ProからiPhone 18 Proへの買い替えガイド",
-      "summaryJa": "2世代前のiPhone 16 Proから最新のiPhone 18 Proへアップグレードする際の変更点について解説しています。アルミニウムユニボディへの変更やバッテリー駆動時間の大幅な向上など、数多くの違いが存在します。世代を飛ばしたことで多くの進化を一度に体験できるため、買い替えを検討する際の重要な判断材料となります。"
-    },
-    {
-      "id": "59ad78bc64c13b026ef8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "HBO boss reacts to Apple TV winning more Emmy awards",
-      "url": "https://9to5mac.com/2026/09/15/hbo-boss-reacts-to-apple-tv-winning-more-emmy-awards/",
-      "publishedAt": "2026-09-15T18:47:47.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-hbo-black.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVのエミー賞受賞にHBO責任者がコメント",
-      "summaryJa": "エミー賞で多くの部門を制覇したApple TVに対し、競合であるHBOのトップがコメントを発表しました。Appleの躍進を称えつつも、巨大資本を持つ企業との競争に対する率直な心境を語っています。高品質な作品作りで知られる両者の今後の展開にも注目が集まります。"
     }
   ],
-  "updatedAt": "2026-09-23T14:59:14.085Z",
+  "updatedAt": "2026-09-23T18:59:49.270Z",
   "initialized": true,
   "summaryVersion": 4
 }
