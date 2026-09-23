@@ -1,6 +1,190 @@
 {
   "articles": [
     {
+      "id": "b1537c8c4b9389f54b61",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.2 makes FaceTime’s best new feature even better",
+      "url": "https://9to5mac.com/2026/09/23/ios-27-2-makes-facetimes-best-new-feature-even-better/",
+      "publishedAt": "2026-09-23T14:45:32.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/facetime-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27.2ベータ、FaceTmieのデュアルキャプチャがグループ通話に対応へ",
+      "summaryJa": "Appleは現在テスト中のiOS 27.2ベータ版において、FaceTimeのデュアルキャプチャ機能をグループ通話へと拡大しています。この機能により、対応するiPhoneでフロントカメラとリアカメラの映像を同時に表示しながら、複数の参加者と通話できるようになります。正式リリースは数週間後が予定されており、より多彩なビデオ通話体験がすべてのユーザーに提供されます。"
+    },
+    {
+      "id": "f7417c624b503f11425d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Podcasts Subscriptions Will Soon Support Video",
+      "url": "https://www.macrumors.com/2026/09/23/apple-podcasts-subscriptions-to-support-video/",
+      "publishedAt": "2026-09-23T14:26:51.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2021/05/Podcasts-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Podcastsサブスクリプション、まもなく動画コンテンツに対応",
+      "summaryJa": "Appleは、Apple Podcastsサブスクリプションでまもなく動画コンテンツのサポートを開始すると発表しました。これによりクリエイターは、購読者限定のエピソードや広告なしの動画、早期アクセスなどを提供できるようになります。この新機能は170以上の国と地域のAppleデバイスやウェブで利用可能となり、Appleはホスティングプロバイダーとの統合を進めています。"
+    },
+    {
+      "id": "9b2efe22ede0b7bef2be",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Next year’s iPhone Pro models have ‘near-borderless’ design: report",
+      "url": "https://9to5mac.com/2026/09/23/next-years-iphone-pro-models-have-near-borderless-design-report/",
+      "publishedAt": "2026-09-23T14:21:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "来年のiPhone Proモデルはベゼルを極限までなくしたデザインか",
+      "summaryJa": "来年登場するiPhone Proモデルは、4辺すべてを湾曲させた「ほぼベゼルレス」のフルスクリーンデザインを採用する見込みであると報じられています。20周年を迎えるモデルとして独自の刷新が計画されている一方、コストや技術的な判断から、一部で検討されていた先進的なディスプレイ技術の導入は延期される可能性があるとのことです。"
+    },
+    {
+      "id": "a2833f17ea8661203b6d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Ultra 3 Drops to Record Low $599.97 on Amazon",
+      "url": "https://www.macrumors.com/2026/09/23/apple-watch-ultra-3-599/",
+      "publishedAt": "2026-09-23T14:15:02.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-ultra-3-new.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AmazonでApple Watch Ultra 3が過去最安値の599.97ドルに",
+      "summaryJa": "Amazonにて、前世代のApple Watch Ultra 3が通常より199ドル引きとなる過去最安値の599.97ドルで販売されています。対象となっているのはナチュラルカラーのアンカーブルーオーシャンバンドなどで、ブラックのミラネーゼループモデルも同様の大幅割引が適用されています。新型の登場に伴い、お得に購入できる絶好の機会となっています。"
+    },
+    {
+      "id": "dcecee8da485de140e8a",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AT&T Responds to iOS 27's New iPhone Handoff Feature",
+      "url": "https://www.macrumors.com/2026/09/23/att-on-ios-27-iphone-handoff/",
+      "publishedAt": "2026-09-23T14:06:09.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-Feature.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AT&T、iOS 27の「iPhone Handoff」機能への対応を慎重に見送り",
+      "summaryJa": "AppleがiOS 27で導入した、同じ電話番号を持つ2台の間でiPhoneを切り替えられる新機能「iPhone Handoff」について、米キャリアのAT&Tが慎重な姿勢を示しています。現時点では既存のeSIMアクティベーションと転送オプションへの対応に集中するとしており、対応計画については明言していません。なお、同機能はT-Mobileやドイツテレコムなどで提供が始まっています。"
+    },
+    {
+      "id": "15e32d2c69491d534a99",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Launch Discounts Arrive for New Mac Mini and Mac Studio, Plus Massive Deal on Samsung's Portable SSD",
+      "url": "https://www.macrumors.com/2026/09/23/launch-mac-mini-studio-deals/",
+      "publishedAt": "2026-09-23T14:02:46.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型Mac miniやMac StudioがAmazonで早くも割引に",
+      "summaryJa": "Amazonにて、発表されたばかりの新型Mac miniおよびMac Studioが初となる割引販売を開始しています。一部モデルが最大49ドル引きとなっており、M5 Max搭載のMac Studioなどが対象です。また、サムスンの4TBポータブルSSDも大幅な値引きで販売されており、周辺機器を含めてお得に購入できる機会となっています。"
+    },
+    {
+      "id": "47931089aec19f8a8146",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "tvOS 27.2 adds new HomePod surround sound feature to Apple TV 4K",
+      "url": "https://9to5mac.com/2026/09/23/tvos-27-2-adds-new-homepod-surround-sound-feature-to-apple-tv-4k/",
+      "publishedAt": "2026-09-23T13:36:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/apple-tv-homepod-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV 4K向けtvOS 27.2ベータ、HomePodのサラウンド対応機能を追加",
+      "summaryJa": "Apple TV 4K向けのtvOS 27.2ベータ版において、4台のHomePodを同時にワイヤレス接続してサラウンドサウンドを構築する機能が実装されました。現在はベータ段階でありスピーカーの役割割り当てなどに制限はあるものの、Atmosなどのコンテンツで利用可能です。今秋以降のHome関連製品の展開に向けた動きとしても注目を集めています。"
+    },
+    {
+      "id": "83b507ba1721db2eed7c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 gives Apple Mail my most wished for feature upgrade",
+      "url": "https://9to5mac.com/2026/09/23/ios-27-gives-apple-mail-my-most-wished-for-feature-upgrade/",
+      "publishedAt": "2026-09-23T13:10:17.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-mail-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27の「メール」アプリで検索機能が大幅に向上",
+      "summaryJa": "iOS 27の「メール」アプリでは、長年ユーザーから改善が望まれていた検索機能が大幅に刷新されました。新しいランキングシステムと意図をくみ取る検索機能により、受信トレイの奥深くにあるメールでも関連性の高い結果がすぐに見つかるようになっています。ベータ版のテストでは検索精度の大幅な向上が確認されており、日々の利便性が大きく高まりそうです。"
+    },
+    {
+      "id": "8941bb4cf219b143e1d1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AT&T seemingly has no plans to support Apple’s new iPhone Handoff feature",
+      "url": "https://9to5mac.com/2026/09/23/att-iphone-handoff-support/",
+      "publishedAt": "2026-09-23T12:53:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-handoff.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AT&T seemingly has no plans to support Apple’s new iPhone Handoff feature",
+      "summaryJa": "Apple last week launched a new iPhone Handoff feature, which lets you use a single phone number across two iPhones. The number intelligently moves between each iPhone based on whichever one you pick up. iPhone Handoff requires support from cellular carriers, and it sounds like AT&T isn’t interested in adopting the feature. more… Apple last week launched a new iPhone Handoff feature, which lets you use a single phone number across two iPhones. The number intelligently moves between each iPhone based on whichever one you pick up. iPhone Handoff requires support from cellular carriers, and it sounds like AT&T isn’t interested in adopting the feature. Will AT&T support iPhone Handoff? As reported by CNET, AT&T seemingly has no plans to support iPhone Handoff. According to the report: “While we",
+      "translationStatus": "source"
+    },
+    {
+      "id": "ff8f1d7010fd6a8c4c96",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New iPhone Setting Lets Users Shake Off Motion-Sensing Ads",
+      "url": "https://www.macrumors.com/2026/09/23/iphone-setting-shake-off-motion-sensing-ads/",
+      "publishedAt": "2026-09-23T11:49:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "New iPhone Setting Lets Users Shake Off Motion-Sensing Ads",
+      "summaryJa": "Apple is testing an iPhone setting for users in China that lets them add apps to a list that prevents them from accessing the device's motion sensors. Apple hasn't explicitly said what the setting is in response to, but Chinese apps sometimes show \"shake-to-open\" ads on launch, and they can be triggered by merely picking up an iPhone, walking, or going over a bump in a car, resulting in unwanted redirects. Users in China speculate this is why iOS 27.2 beta 2 includes the new \"Restrict Motion Data\" option in Settings that blocks app access to accelerometer and gyroscope data. For now, the option appears tied to mainland China App Store accounts, and we don't expect it will be available to iPhone users more broadly when iOS 27.2 is released later this year. This article, \" New iPhone Setting",
+      "translationStatus": "source"
+    },
+    {
+      "id": "81112e68f53231e6c0e7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple increases interest rate for Apple Card Savings Account",
+      "url": "https://9to5mac.com/2026/09/23/apple-increases-interest-rate-for-apple-card-savings-account/",
+      "publishedAt": "2026-09-23T11:18:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-card-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple increases interest rate for Apple Card Savings Account",
+      "summaryJa": "Good news for Apple Card Savings Account users this morning. Apple and Goldman Sachs have increased the interest rate on the account from 3.4% to 3.5% today. more… Good news for Apple Card Savings Account users this morning. Apple and Goldman Sachs have increased the interest rate on the account from 3.4% to 3.5% today. Apple and Goldman Sachs regularly change the annual percentage yield for Apple Card Savings Account based on broader financial conditions. This rate matches the rate that Goldman Sachs offers through its own Marcus savings account, although you can earn a bonus rate of 4.50% with this link for a limited time. The Apple Card Savings Account is available exclusively to Apple Card users. As you earn Daily Cash rewards with Apple Card, you can transfer them to your savings acco",
+      "translationStatus": "source"
+    },
+    {
+      "id": "2d94dc89ef2154cd5694",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Intelligence Taking Up 30GB+ on Some Macs Running macOS 27",
+      "url": "https://www.macrumors.com/2026/09/23/apple-intelligence-30gb-some-macs-macos-27/",
+      "publishedAt": "2026-09-23T10:30:15.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/09/apple-intelligence-black.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Intelligence Taking Up 30GB+ on Some Macs Running macOS 27",
+      "summaryJa": "After you install macOS 27 Golden Gate, Apple automatically downloads a multi-gigabyte AI model to your Mac the next time it's connected to the internet. Unlike previous versions of macOS, you can't prevent it. Siri AI, and by extension Apple Intelligence, are now a mandatory part of your system. For macOS 27 Golden Gate, Apple says the latest Apple Intelligence features require up to 14GB of on-device storage on Macs with an M3 chip or later and at least 12GB of unified memory, and up to 8GB of storage for other Apple Intelligence-enabled Macs. But in our experience, AI model storage allocation appears to be considerably higher on some Macs than others. On an M4 Pro Mac mini running macOS 27, for example, MacRumors saw 20.67GB handed over for Apple Intelligence, according to the Storage s",
+      "translationStatus": "source"
+    },
+    {
       "id": "e5ba7541d14a68d15203",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4326,189 +4510,9 @@
       ],
       "titleJa": "Apple TVのエミー賞受賞にHBO責任者がコメント",
       "summaryJa": "エミー賞で多くの部門を制覇したApple TVに対し、競合であるHBOのトップがコメントを発表しました。Appleの躍進を称えつつも、巨大資本を持つ企業との競争に対する率直な心境を語っています。高品質な作品作りで知られる両者の今後の展開にも注目が集まります。"
-    },
-    {
-      "id": "8a8a4b2d6768244fbd43",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirPods 5 Hands-On: Better Noise Cancellation, Lower Price",
-      "url": "https://www.macrumors.com/2026/09/15/airpods-5-hands-on/",
-      "publishedAt": "2026-09-15T18:19:59.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AirPods 5のハンズオンと進化点",
-      "summaryJa": "先週発表されたAirPods 5の初期レビューから、その性能や使い心地が明らかになっています。前モデルを踏襲したデザインながら、内部構造の刷新によりアクティブノイズキャンセリング機能が大きく向上しました。また、より手頃な価格設定や進化した音声機能も備え、使いやすさがさらに高まっています。"
-    },
-    {
-      "id": "36d5c68ba935c98e3283",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "M5 Ultra Chip's Impressive Performance Boost Revealed in First Benchmark Result",
-      "url": "https://www.macrumors.com/2026/09/15/apple-m5-ultra-chip-benchmark/",
-      "publishedAt": "2026-09-15T18:00:47.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/M5-Ultra-Hero.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "M5 Ultraチップの圧倒的な性能が判明か",
-      "summaryJa": "Geekbenchデータベースに登場した未確認のベンチマークから、新しいM5 Ultraチップの驚異的なパフォーマンスが明らかになりました。次世代のMac Studioに搭載される最高峰チップは、前世代のUltraモデルと比較して大幅な速度向上が見込まれています。実測値でもAppleの公式主張を裏付ける結果となっており、非常に高い処理能力を示しています。"
-    },
-    {
-      "id": "8603fd577fc500f954fa",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Duo could be very hard to get at launch, per report",
-      "url": "https://9to5mac.com/2026/09/15/iphone-duo-could-be-very-hard-to-get-at-launch-per-report/",
-      "publishedAt": "2026-09-15T17:45:22.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-siri-app.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone Duoは発売初期に入手困難か",
-      "summaryJa": "来月に迫った予約受付を前に、アナリストのレポートから「iPhone Duo」の初回出荷数が予想以上に少なくなる可能性が報じられています。折りたたみ式機構の生産における制約が原因とされており、高い価格設定にもかかわらず発売初期の入手は困難を極めるとみられています。"
-    },
-    {
-      "id": "a3bd621bb2d605bdfe4c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AppZapper 3000: ‘The uninstaller Apple forgot’ returns for the modern Mac era",
-      "url": "https://9to5mac.com/2026/09/15/appzapper-3000-the-uninstaller-apple-forgot-returns-for-the-modern-mac-era/",
-      "publishedAt": "2026-09-15T17:39:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/appzapper-3000.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Mac向け定番アンインストーラーアプリ「AppZapper 3000」が復活",
-      "summaryJa": "長年の休止期間を経て、Mac向けの人気アンインストーラーアプリ「AppZapper」が最新バージョン「AppZapper 3000」として復活しました。アプリ本体だけでなく関連ファイルまで徹底的に削除できる機能はそのままに、モダンなMac環境向けに刷新されています。おなじみの効果音に加え、よりインタラクティブな機能が追加されており、ライセンス購入前に3回までの試用が可能です。"
-    },
-    {
-      "id": "c37ce5e0c45fae0bbde4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "OWC's Best Mac Accessories Are on Sale Just for MacRumors Readers",
-      "url": "https://www.macrumors.com/2026/09/15/owcs-mac-sale-macrumors/",
-      "publishedAt": "2026-09-15T17:38:16.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/owc-macrumors-september.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "OWCのThunderboltドックやストレージが特別価格でセール中",
-      "summaryJa": "海外メディアMacRumorsの読者向けに、OWC製の人気Macアクセサリが特別割引価格で販売されています。Thunderboltドックや高速な外付けストレージケース、USB-Cケーブルなど計7アイテムが対象です。割引は自動で適用され、セールは9月21日まで実施される予定となっています。"
-    },
-    {
-      "id": "6e1fda4a802e45c4b692",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "watchOS 27: Siri app lets you continue existing chats, though it’s a bit hidden",
-      "url": "https://9to5mac.com/2026/09/15/watchos-27-siri-app-lets-you-continue-existing-chats-though-its-a-bit-hidden/",
-      "publishedAt": "2026-09-15T17:00:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-apple-watch-1.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple WatchのSiriで既存のチャットを継続する方法",
-      "summaryJa": "watchOS 27で導入された新しいSiriアプリではチャット履歴の保存と継続が可能になりましたが、Apple Watch版では操作方法が少し分かりにくくなっています。iPhoneやiPadとは異なり、画面上から直接会話を再開する明確なUIはありません。しかし、チャットスレッドを表示した状態でDigital Crownを長押しするか、Siriと話しかけて入力を追加することで、会話を続けることができます。"
-    },
-    {
-      "id": "b9526f98ba468bfeba5d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Why watchOS 27 removes the useful multitasking feature on Apple Watch",
-      "url": "https://9to5mac.com/2026/09/15/why-watchos-27-removes-the-useful-multitasking-feature-on-apple-watch/",
-      "publishedAt": "2026-09-15T16:42:06.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "watchOS 27でApple Watchのマルチタスキング機能が削除された理由",
-      "summaryJa": "watchOS 27では、Digital Crownのダブルクリックによるアプリ間の切り替え機能が削除されました。このショートカットが消えた理由は、今秋登場予定の新しいApple Watch向けの機能に関係しています。一部の新型モデルに搭載される音声の書き起こし機能「Live Rewind」を起動するために、ダブルクリックの操作が割り当てられたためです。"
-    },
-    {
-      "id": "ab1dbb717f5e2668c5ac",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "M6 Chip Benchmark Surfaces Ahead of New Mac Mini Launch Next Week",
-      "url": "https://www.macrumors.com/2026/09/15/apple-m6-chip-benchmark/",
-      "publishedAt": "2026-09-15T16:38:39.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Mac-mini-M6-chip.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "次期Mac miniに搭載されるM6チップのベンチマークが登場か",
-      "summaryJa": "Geekbenchのデータベースに、Appleの新しい2nmプロセス製M6チップのものとされる未確認のベンチマークスコアが登録されました。新型Mac miniに搭載される予定のM6チップは、M5チップと比較してシングルコア性能が約12%、マルチコア性能が最大約27%向上していると伝えられています。Appleの主張通りの性能向上が確認されており、初代M1チップの2.5倍以上の速度を実現しているとしています。"
-    },
-    {
-      "id": "5d8cd17e51469d95164f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: September 15, 2026 – iOS 27 now available",
-      "url": "https://9to5mac.com/2026/09/15/daily-september-15-2026/",
-      "publishedAt": "2026-09-15T16:07:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27が正式リリース、新機能や対応機種のまとめ",
-      "summaryJa": "Appleは最新のOSアップデートとなるiOS 27を正式にリリースしました。今回のアップデートでは、Appleの基盤モデルを改善するためのデータ共有に関する新しいオプトイン設定などが追加されています。ポッドキャスト番組の9to5Mac Dailyでは、新機能や対応iPhoneの詳細をはじめ、T-Mobileの料金プランやクレイグ・フェデリギ氏の発言など、注目の話題が取り上げられています。"
-    },
-    {
-      "id": "f73c08eb653876aabbf9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "New Apple gear gets pre-release discounts, including AirPods 5 for $125 and more",
-      "url": "https://9to5mac.com/2026/09/15/airpods-5-apple-watch-series-12-and-ultra-4-now-available-on-amazon/",
-      "publishedAt": "2026-09-15T16:03:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-airpods-5.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AirPods 5や新型Apple Watchが発売前に早くも割引価格で登場",
-      "summaryJa": "Amazonにおいて、発売を控えたAirPods 5やApple Watch Series 12、Apple Watch Ultra 4などの新製品が早くも割引価格で予約受付中となっています。AirPods 5は全モデルでアクティブノイズキャンセリングに対応し、新型Apple Watchは高度な健康管理機能を搭載するなど大幅な進化を遂げています。"
-    },
-    {
-      "id": "309d99104e4ae1b5cec4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Reminder: iOS 27's All-New Siri AI Has a Waitlist, Here's How to Sign Up",
-      "url": "https://www.macrumors.com/2026/09/15/ios-27-siri-ai-has-waitlist-how-to-join/",
-      "publishedAt": "2026-09-15T15:54:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Personalized-Siri-iOS-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27の新しいSiri AI機能を利用するためのウェイトリスト登録方法",
-      "summaryJa": "iOS 27のアップデートに伴い提供が始まった新しいSiri AI機能を利用するには、専用のウェイトリストに登録する必要があります。設定アプリから簡単に申し込みが可能ですが、対応機種はApple IntelligenceをサポートするiPhone 15 Pro以降などに限定されています。"
-    },
-    {
-      "id": "431bb7981b77cfccc719",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 gives Camera app on iPhone three powerful new features",
-      "url": "https://9to5mac.com/2026/09/15/ios-27-gives-camera-app-on-iphone-three-powerful-new-features/",
-      "publishedAt": "2026-09-15T15:40:19.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27でiPhoneのカメラアプリに導入された3つの強力な新機能",
-      "summaryJa": "iOS 27ではiPhoneのカメラアプリに多くの機能強化が行われました。対応モデルでは周囲の状況を認識してアクションを起こせる「Siriモード」が追加されたほか、撮影モードごとのコントロールのカスタマイズや、iPhone 18 Pro向けの高度なプロ用設定なども利用可能になっています。"
     }
   ],
-  "updatedAt": "2026-09-23T10:04:02.764Z",
+  "updatedAt": "2026-09-23T14:59:14.085Z",
   "initialized": true,
   "summaryVersion": 4
 }
