@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "8570ab9e56963dafeb1f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "ChatGPT in Siri 'Persistently Underperforming,' Says OpenAI",
+      "url": "https://www.macrumors.com/2026/09/23/openai-siri-chatgpt-underperforming/",
+      "publishedAt": "2026-09-24T00:15:17.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/04/chatgpt-logo.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "OpenAI、SiriへのChatGPT統合成果に不満か",
+      "summaryJa": "OpenAIがイーロン・マスク氏側との訴訟に関連して提出した裁判所文書から、AppleのSiriに統合されたChatGPTの利用状況が当初の予測を大きく下回っていたことが明らかになった。マルチステップのオプトイン手続きやユーザーの関心の低さから、期待されたほどの週刊アクティブユーザーの増加にはつながらなかったと報じられている。"
+    },
+    {
+      "id": "546db5f0590a341bf01c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI says Apple Intelligence users showed little interest in ChatGPT integration",
+      "url": "https://9to5mac.com/2026/09/23/openai-says-apple-intelligence-users-showed-little-interest-in-chatgpt-integration/",
+      "publishedAt": "2026-09-23T23:58:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/chatgpt-siri-ios182-3-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple IntelligenceのChatGPT連携、利用が低調か",
+      "summaryJa": "OpenAIが提出した新たな裁判所文書により、Apple IntelligenceにおけるChatGPTの導入が当初の期待を大きく下回っていたことが判明した。2024年の提携発表時にはブランドによる相乗効果やサブスクリプションの増加を見込んでいたものの、予想を大幅に下回る結果となり、予測の下方修正を余儀なくされたと伝えられている。"
+    },
+    {
       "id": "208a9a28b9e39247ba73",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4476,39 +4506,9 @@
       ],
       "titleJa": "iOS、詐欺を検出する新機能「なりすましリスク検知」を追加",
       "summaryJa": "iOSには、ソーシャルエンジニアリング詐欺などの巧妙な手口からユーザーを守る「なりすましリスク検知」機能が追加されました。この機能はデフォルトではオフになっており、プライバシーとセキュリティの設定から手動で有効化する必要があります。デバイスやApple Accountの情報を基にリアルタイムで不審な活動を検知し、リスクレベルをアプリ側に通知する仕組みとなっています。"
-    },
-    {
-      "id": "2a6d7a73096faa0856c0",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Celebrating “What Holds Us” on iPhone 18 Pro",
-      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-      "publishedAt": "2026-09-16T13:59:28.902Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、iPhone 18 Proのカメラ性能を紹介する写真展を開催",
-      "summaryJa": "Appleは、iPhone 18 Proで撮影された新作の写真展「What Holds Us」を開催すると発表しました。キャシー・ライアンがキュレーションを手がけ、アレックス・プラガー、ジャック・デイヴィソン、ジミー・チンといった著名アーティストが参加しています。新しく搭載された可変絞りなどの高度なプロカメラシステムを活用し、人間のつながりや瞬間を捉えた多彩な作品が展示されます。"
-    },
-    {
-      "id": "744c35499d19a04c2b99",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple May Return to Server Market With Nvidia Technology",
-      "url": "https://www.macrumors.com/2026/09/16/apple-may-return-to-server-market/",
-      "publishedAt": "2026-09-16T13:53:07.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/apple-silicon-gray.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、Nvidia技術を活用したAIサーバー市場への再参入を検討か",
-      "summaryJa": "Appleが「M8」シリーズチップを搭載した法人向けAIサーバーの開発を進めており、外部顧客への販売を検討していると報じられています。2011年のXserve終了以来となるサーバー市場への再参入の可能性があり、チップ間のデータ通信にはNvidiaのネットワーク技術を活用する案も話し合われています。計画が実現すれば2029年頃の発売が見込まれていますが、まだ最終決定ではなく中止される可能性もあります。"
     }
   ],
-  "updatedAt": "2026-09-23T22:13:18.207Z",
+  "updatedAt": "2026-09-24T00:32:37.500Z",
   "initialized": true,
   "summaryVersion": 4
 }
