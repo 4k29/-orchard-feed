@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "36cc3be71e9092ada7a6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27 Top Features: much more than just Siri AI [Video]",
+      "url": "https://9to5mac.com/2026/09/24/macos-27-top-features-much-more-than-just-siri-ai-video/",
+      "publishedAt": "2026-09-24T19:13:04.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27-Top-Features.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "macOS 27注目の新機能、Siri AI以外の変更点",
+      "summaryJa": "macOS 27のアップデートでは刷新されたパーソナルアシスタント機能が大きな話題ですが、それ以外にも多くの改良が含まれています。アプリアイコンのデザイン刷新や、HDR対応ディスプレイ向けの幅広いHDR表示サポートなどが導入され、OS全体のビジュアル体験が向上しています。"
+    },
+    {
+      "id": "b497ce475805ca2ff5f9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple has three products launching soon that we’ve waited a long time for",
+      "url": "https://9to5mac.com/2026/09/24/apple-has-three-products-launching-soon-that-weve-waited-a-long-time-for/",
+      "publishedAt": "2026-09-24T18:09:32.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-apple-park-chairs.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "10月に登場の噂があるAppleの注目製品群",
+      "summaryJa": "Appleは9月に続き、10月にも長年待たれていた新製品を発表する可能性が報じられています。タッチスクリーンやOLEDを搭載した新型MacBook Proをはじめ、強力なチップとSiri AIを搭載すると噂される新型Apple TV 4K、ディスプレイ付きスマートスピーカーの登場が期待されています。"
+    },
+    {
+      "id": "423c2655b3021b9b50a5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "watchOS 27.2 Code Hints at iPhone-Style Screenshot Previews",
+      "url": "https://www.macrumors.com/2026/09/24/watchos-27-2-screenshot-previews/",
+      "publishedAt": "2026-09-24T17:36:33.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/watchos-27-2-screenshot.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "watchOS 27.2、iPhone風のスクリーンショット機能を準備か",
+      "summaryJa": "watchOS 27.2のコードから、iPhoneのようなプレビュー画面を備えた新しいスクリーンショット機能の兆候が見つかりました。現在は撮影した画面が確認なしでiPhoneに送信されますが、将来のベータ版などでその場で共有や削除の操作が可能になるかもしれません。"
+    },
+    {
+      "id": "0905fac4dcf7c2424cad",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 24, 2026 – iPhone Handoff, iOS 27 updates",
+      "url": "https://9to5mac.com/2026/09/24/9to5mac-daily-september-24-2026-iphone-handoff-ios-27-updates/",
+      "publishedAt": "2026-09-24T17:36:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの不具合修正や最近のAppleニュース",
+      "summaryJa": "ポッドキャスト番組の配信内容から、Apple関連の最新ニュースが振り返られています。一部のユーザーの間で発生しているiPhone 18 ProのFace ID関連の再起動バグに対して、来週にもソフトウェアアップデートで修正が配信される予定となっています。"
+    },
+    {
+      "id": "17c13f0f0e7d8b0b94c3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Ultra 4 includes a new watch face bezel option",
+      "url": "https://9to5mac.com/2026/09/24/apple-watch-ultra-4-includes-a-new-watch-face-bezel-option/",
+      "publishedAt": "2026-09-24T17:29:05.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-uotra-4-readiness.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch Ultra 4に新文字盤ベゼルオプション「レディネス」が登場",
+      "summaryJa": "Apple Watch Ultra 4では、新しく追加された「レディネス」アプリのデータを文字盤のベゼル部分に表示できるようになりました。活動量や睡眠スコアなどの数値や状態をひと目で確認できるほか、専用のバーでカテゴリごとの状況を把握できます。Modular Ultraなどの対応文字盤で設定が可能となっています。"
+    },
+    {
+      "id": "c0b25f39658c4763434d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "watchOS 27.2 includes hidden overhaul for Apple Watch screenshots",
+      "url": "https://9to5mac.com/2026/09/24/watchos-27-2-includes-hidden-overhaul-for-apple-watch-screenshots/",
+      "publishedAt": "2026-09-24T17:24:26.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-3-watchos-27-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "watchOS 27.2ベータ版でApple Watchのスクリーンショット機能に大幅な刷新か",
+      "summaryJa": "watchOS 27.2のコード内から、Apple Watchのスクリーンショット機能の刷新を示唆する記述が見つかったと報じられています。iPhoneやiPadのように、撮影直後に画面上でプレビュー、共有、削除を行えるようになる可能性があります。正式な実装時期は不明ですが、今後のアップデートでの提供が期待されています。"
+    },
+    {
+      "id": "6a26f7becb6fb436f089",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Beats 360 Headphones Now Available in Apple Stores",
+      "url": "https://www.macrumors.com/2026/09/24/beats-360-apple-store-launch/",
+      "publishedAt": "2026-09-24T17:14:22.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Beats-360-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型ヘッドホン「Beats 360」が世界中のApple Storeで販売開始",
+      "summaryJa": "新しいオーバーイヤー型ヘッドホン「Beats 360」が、世界各国のApple Storeや家電量販店で店頭販売を開始しました。AirPods Maxに似たデザインを採用し、交換可能なイヤークッションや優れたノイズキャンセリング機能を備えています。価格は349.99ドルで、ブラックやクラウドなどのカラーが用意されています。"
+    },
+    {
+      "id": "519058101b0e190cc495",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Shares New Video Promoting iOS 27 Parental Controls",
+      "url": "https://www.macrumors.com/2026/09/24/ios-27-parental-controls-video/",
+      "publishedAt": "2026-09-24T16:58:26.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iOS 27のペアレンタルコントロール機能を紹介する動画を公開",
+      "summaryJa": "Appleは、iOS 27で刷新されたペアレンタルコントロール機能を紹介する新しい動画を公開しました。子どものアカウント設定がより簡単になり、アプリへのアクセス制限やWebサイトの閲覧管理、通信の安全性確保などの機能が利用できます。各国で児童の安全に関する規制が強まる中、ファミリー共有を活用した柔軟な管理が可能になっています。"
+    },
+    {
+      "id": "f85c364f167a628b2e72",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Has Announced 12 New Products in the Past Month",
+      "url": "https://www.macrumors.com/2026/09/24/apple-12-new-products-in-past-month/",
+      "publishedAt": "2026-09-24T16:52:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Apple-Event-Logo.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、この1月間で12の新製品やアクセサリーを相次ぎ発表",
+      "summaryJa": "Appleはこの1月間で、iPhone 18 Proシリーズや新型Mac、Apple Watch、AirPodsなど多数の新製品やアクセサリーを一挙に発表しました。Mac miniやMac Studioの新型モデルをはじめ、折りたたみ式のiPhone DuoやApple Watch Series 12などが含まれています。見逃した方向けに、過去1ヶ月間に同社が発表した注目の新製品や関連アクセサリのラインナップが改めてまとめられています。"
+    },
+    {
+      "id": "2d5bce5cd615cb05a4f5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV announces all-new holiday film specials and free offerings",
+      "url": "https://9to5mac.com/2026/09/24/apple-tv-announces-all-new-holiday-film-specials-and-free-offerings/",
+      "publishedAt": "2026-09-24T16:15:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-logo-trees-christmas-snow.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、新作ホリデースペシャル番組とピーナッツの無料配信を発表",
+      "summaryJa": "Apple TVは、ホリデーシーズンに向けた新作スペシャル番組やファミリー向け映画の公開スケジュールを発表しました。スヌーピーやフラグルロックの新しいホリデー作品に加え、クリス・プラット主演の新作映画が感謝祭の時期に配信されます。また、人気の「ピーナッツ」ホリデー特番を非加入者向けにも期間限定で無料公開する予定です。"
+    },
+    {
+      "id": "5063fc3f0cd4f765356b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Ultra 2 vs. Ultra 4 Buyer's Guide: Should You Upgrade?",
+      "url": "https://www.macrumors.com/guide/apple-watch-ultra-2-vs-ultra-4/",
+      "publishedAt": "2026-09-24T15:55:27.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-ultra.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch Ultra 2とUltra 4の比較：アップグレードすべきか",
+      "summaryJa": "Apple Watch Ultra 4は、Ultra 2から3年ぶりとなる新モデルとして登場しました。ディスプレイの大型化や最新のS11チップ、さらにバッテリー持ちの向上など、多くの進化を遂げています。センサー類やヘルスケア機能も強化されており、旧モデルからの買い替えを検討する際の重要な判断基準となります。"
+    },
+    {
+      "id": "4e719f2f96c562288a7b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Here's When Apple TV is Airing Free 'Peanuts' Holiday Specials This Year",
+      "url": "https://www.macrumors.com/2026/09/24/apple-tv-free-peanuts-specials/",
+      "publishedAt": "2026-09-24T15:38:30.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2020/12/a-charlie-brown-christmas.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple TV、名作「ピーナッツ」ホリデー特番を期間限定で無料配信",
+      "summaryJa": "Apple TVは、ホリデーシーズンに合わせて名作「ピーナッツ」の特別番組をサブスクリプション非加入者向けに期間限定で無料配信すると発表しました。対象となるのはハロウィン、感謝祭、クリスマスの3つの象徴的なエピソードで、指定された週末にApple TVアプリから無料で視聴できます。会員であれば年間を通じていつでも視聴可能です。"
+    },
+    {
       "id": "76775ae6604fc07237b0",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -12,9 +192,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Square Announces Apple Business Integration",
-      "summaryJa": "Square today announced a new Apple Business integration that makes it easier for businesses to ensure they have up-to-date information across Apple Maps, Apple Wallet, and Siri AI. Apple Business is connected to Square's Dashboard: \"Rather than managing multiple channels separately, sellers can now maintain their Apple presence alongside the rest of their business in Square.\" Tags: Apple Business , Square This article, \" Square Announces Apple Business Integration \" first appeared on MacRumors.com Discuss this article in our forums",
-      "translationStatus": "source"
+      "titleJa": "Square、Apple Businessとの統合を発表",
+      "summaryJa": "Squareは、Apple Maps、Apple Wallet、Siriなどのサービスにおける店舗情報を常に最新の状態に保ちやすくする、Apple Businessとの新しい統合機能を発表しました。店舗のオーナーは、Squareのダッシュボードから直接情報を管理できるようになり、複数のチャネルを個別に操作する手間が省けます。"
     },
     {
       "id": "622344b7ba91627effee",
@@ -28,9 +207,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "iOS 27 lets you create your own custom iPhone wallpapers",
-      "summaryJa": "Apple introduces new iPhone wallpapers every year, and you can download iOS 27’s additions here . But iOS 27 also adds the ability to create your own custom wallpapers. Here’s how. more… Apple introduces new iPhone wallpapers every year, and you can download iOS 27’s additions here. But iOS 27 also adds the ability to create your own custom wallpapers. Here’s how. Here’s how you can create custom wallpapers in iOS 27 This year as part of iOS 27’s overall theme of major AI improvements, Apple has given its Image Playground app an overhaul. Image Playground now offers more powerful image generation capabilities and far fewer restrictions than before. It even lets you create images that are the perfect wallpaper size. But you don’t even need to open the Image Playground app to create wallpape",
-      "translationStatus": "source"
+      "titleJa": "iOS 27でカスタムiPhone壁紙の作成が可能に",
+      "summaryJa": "iOS 27では大幅なAI機能の改善の一環として、Image Playgroundアプリが刷新され、より強力な画像生成が可能になりました。専用アプリだけでなく、壁紙のピッカーやロック画面からも直接、AIを活用したオリジナルのカスタム壁紙を作成・設定できるようになっています。"
     },
     {
       "id": "d31ba4a49e0bb23c5755",
@@ -44,9 +222,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Square now integrates with Apple Business to improve Maps listings",
-      "summaryJa": "Square has announced a new integration with Apple Business that should make Apple Maps better for both businesses and users. Here are the details. more… Square has announced a new integration with Apple Business that should make Apple Maps better for both businesses and users. Here are the details. Square integration lets businesses easily keep Apple Maps listings up to date with accurate info Have you ever been frustrated to learn that an Apple Maps business listing has outdated info? Maybe the listed hours are inaccurate, or it has an error in the address, phone number, and so on. Square’s new integration with Apple Business should help. From the announcement: Square today announced a new integration with Apple that enables Square sellers to connect their locations to Apple Business from",
-      "translationStatus": "source"
+      "titleJa": "Square、Apple Mapsの情報管理を効率化する連携機能を提供",
+      "summaryJa": "SquareはApple Businessとの連携により、店舗がApple Maps上の情報を簡単に最新の状態に同期できる新機能を提供開始しました。住所や営業時間、電話番号などの誤りを防ぎ、Apple MapsやSiri、Apple WalletなどのApple製アプリ全体で正確な店舗情報をユーザーに提供できるようになります。"
     },
     {
       "id": "087f27f1279d65abf614",
@@ -60,9 +237,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "AirPods Pro 3 on Sale for $199 This Week on Amazon",
-      "summaryJa": "Amazon has the AirPods Pro 3 available for $199.00 this week, down from $249.00. We haven't tracked an all-time low price on this model since Prime Day over the summer, but this is still a solid $50 markdown. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. This model of the AirPods Pro launched in September 2025 and has 2x better Active Noise Cancellation than the previous generation, better audio quality, a revised fit that's meant to improve comfort and stability, Live Translation for in-person conversations, and heart rate sensing for workouts. $50 OFF AirPods Pro 3 for $199.00 Head to our full Deals Roundup to get caught up with all of the latest deals an",
-      "translationStatus": "source"
+      "titleJa": "AmazonでAirPods Pro 3が50ドル引きの199ドルに",
+      "summaryJa": "Amazonにおいて、AirPods Pro 3が通常価格の249ドルから199ドルへと50ドル引きで販売されています。AirPods Pro 3は、従来モデルより優れたアクティブノイズキャンセリングや音質に加え、ライブ翻訳機能や心拍数センサーなどを搭載しています。"
     },
     {
       "id": "2e48d9191a3bf557d175",
@@ -76,9 +252,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Qualcomm Announces Renewed Agreement With Apple",
-      "summaryJa": "Qualcomm today announced the renewal of its global patent licensing agreement with Apple, effective April 1, 2027. No further details were provided. This patent agreement is separate from Qualcomm's agreement to supply Apple with cellular modems for smartphone launches through 2026, so we expect Apple's transition to its own custom-designed modems to continue. Among the latest iPhone models, only the U.S. version of the iPhone 18 Pro Max still has a Qualcomm modem . The smaller iPhone 18 Pro and the iPhone Duo are equipped with Apple's C2 modem worldwide, as is the iPhone 18 Pro Max in all countries beyond the U.S., while cellular models of the latest iPad Pro and iPad Air use Apple's previous-generation C1X modem. Following a legal battle, Apple and Qualcomm reached a settlement that incl",
-      "translationStatus": "source"
+      "titleJa": "Qualcomm、Appleとのグローバル特許ライセンス契約を更新",
+      "summaryJa": "QualcommはAppleとのグローバル特許ライセンス契約を更新したと発表しました。新たな契約は2027年4月1日から有効となります。この特許契約はモデムの供給契約とは別のものであり、Apple独自のカスタムモデムへの移行計画には影響を与えないと見られています。詳細な契約期間は明らかにされていませんが、今後の両社の動向に注目が集まっています。"
     },
     {
       "id": "413228f7766f0f93c60a",
@@ -92,9 +267,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Apple TV reveals new series with Hugh Laurie as organized crime boss",
-      "summaryJa": "The Wanted Man is a new Apple TV series that’s just been announced starring Hugh Laurie as an incarcerated crime boss who’s ready to make an escape. Here are the details. more… The Wanted Man is a new Apple TV series that’s just been announced starring Hugh Laurie as an incarcerated crime boss who’s ready to make an escape. Here are the details. The Wanted Man is new crime drama coming soon to Apple TV Crime thrillers are one of Apple TV’s most popular genres, and the streamer just announced its latest offering that’s coming soon. The Wanted Man premieres Wednesday, January 6 with its first two episodes, followed by weekly releases through February 17. Hugh Laurie stars as a crime boss who’s betrayed by someone at his firm, is sent to prison, and plans to break out. The cast also includes",
-      "translationStatus": "source"
+      "titleJa": "Apple TV、ヒュー・ローリー主演の新作クライムドラマを発表",
+      "summaryJa": "Apple TVは、ヒュー・ローリーが組織犯罪のボスを演じる新作シリーズ「The Wanted Man」を発表しました。本作は、裏切りによって刑務所に送られた犯罪組織のボスが脱獄を計画するクライムスリラーです。初回エピソードは1月6日に配信され、その後毎週配信される予定で、サスペンスファンから大きな期待を集めています。"
     },
     {
       "id": "77ee68fb11b85e75ac6c",
@@ -108,9 +282,8 @@
       "tags": [
         "噂"
       ],
-      "titleJa": "Apple Confirms iPhone 18 Pro Bug Fix Update is Coming Next Week",
-      "summaryJa": "Apple has confirmed to 9to5Mac 's Benjamin Mayo that it plans to release a software update early next week with a fix for a Face ID issue affecting some iPhone 18 Pro users . Yesterday, we reported that Apple is testing iOS 27.0.1 , which is likely to be the update with the fix. Related Roundups: iOS 27 , iPadOS 27 , iPhone 18 Pro Buyer's Guide: iPhone 18 Pro (Buy Now) Related Forums: iOS 27 , iPhone This article, \" Apple Confirms iPhone 18 Pro Bug Fix Update is Coming Next Week \" first appeared on MacRumors.com Discuss this article in our forums",
-      "translationStatus": "source"
+      "titleJa": "Apple、iPhone 18 Proの不具合修正アップデートを来週配信へ",
+      "summaryJa": "Appleは、一部のiPhone 18 Proで発生しているFace IDの不具合を修正するソフトウェアアップデートを、来週初めに配信する予定であることを明らかにしました。現在テストが進められているiOS 27.0.1を通じて修正が提供される見込みです。対象のユーザーは早期の適用によって問題が解決されることが期待されます。"
     },
     {
       "id": "395571ec17c94c46c4fc",
@@ -124,9 +297,8 @@
       "tags": [
         "海外メディア"
       ],
-      "titleJa": "Adobe expands creative tool access to Google Gemini, brings Acrobat to Claude",
-      "summaryJa": "Adobe today announced two major expansions to its AI chatbot integrations, bringing its creative tools to Google Gemini while adding Acrobat tools to Claude. Here are the details. more… Adobe today announced two major expansions to its AI chatbot integrations, bringing its creative tools to Google Gemini while adding Acrobat tools to Claude. Here are the details. Adobe expands tools to Gemini, adds Acrobat to Claude For the past year or so, Adobe has been working to bring its creative tools to AI chatbots and other productivity tools, such as ChatGPT, Slack, and Copilot. Today, the company is announcing two expansions to that effort. First, Adobe is expanding its integration with Claude. The company already offered access to creative tools from Photoshop, Illustrator, Premiere, Lightroom,",
-      "translationStatus": "source"
+      "titleJa": "Adobe、Google GeminiやClaudeへのAI連携機能を拡充",
+      "summaryJa": "AdobeはAIチャットボットとの連携を拡充し、Google Geminiで同社のクリエイティブツールが利用可能になったほか、ClaudeにはAcrobat機能が追加されました。これにより、ユーザーは各プラットフォーム上でPDFの整理や編集、専門的なクリエイティブ作業をよりスムーズに行えるようになります。AIツールを介した作業効率の向上が期待されます。"
     },
     {
       "id": "c3b2db951daf1f0a8a33",
@@ -4333,189 +4505,9 @@
       ],
       "titleJa": "iOS 27.2、EU域内で代替のトラッキング許可プロンプトを導入",
       "summaryJa": "Appleはドイツ連邦カートテル庁による調査を受けたEUとの合意に基づき、iOS 27.2からEU域内の開発者向けに代替のAppトラッキングの透明性（ATT）プロンプトの提供を開始します。ドイツ、フランス、イタリア、ポーランド、ルーマニアなどの国ではこの代替プロンプトの使用が義務付けられます。これにより、開発者はデータ追跡の目的について追加情報を表示するための専用ボタンを備えたプロンプトを利用できるようになります。"
-    },
-    {
-      "id": "1a734d8435ae12af85dd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27.2 gives Apple TV a new profiles feature on iPhone",
-      "url": "https://9to5mac.com/2026/09/16/ios-27-2-gives-apple-tv-a-new-profiles-feature-on-iphone/",
-      "publishedAt": "2026-09-16T18:30:59.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/appl-tv-icon-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27.2ベータ、iPhoneのApple TVアプリにユーザープロフィール機能を追加",
-      "summaryJa": "Appleは開発者向けにiOS 27.2ベータ1を配信し、iPhoneのApple TVアプリでユーザープロファイルのサポートを開始しました。これまでtvOS向けに提供されていた機能がiPhoneでも利用可能になり、子ども向けの年齢制限コンテンツへの切り替えや、再生履歴が混ざるのを防ぐことが可能になります。また、必要に応じてこの機能を非表示にするオプションも用意されています。"
-    },
-    {
-      "id": "499750fd3ba31b560369",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Everything new in iOS 27.2 beta 1 so far",
-      "url": "https://9to5mac.com/2026/09/16/everything-new-ios-27-2-beta-1/",
-      "publishedAt": "2026-09-16T18:22:52.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27.2ベータ1が登場、新機能や変更点の詳細が明らかに",
-      "summaryJa": "Appleは次期iPhone向けソフトウェアのテストとして、iOS 27.2の最初の開発者向けベータ版をリリースしました。今回のアップデートでは、再設計された「ヘルス」アプリの導入をはじめ、グループFaceTimeでのデュアルキャプチャモード、Siri AIの多言語対応などが追加されています。また、Apple TVアプリへのプロフィール機能の追加や、ポッドキャスト・ミュージックアプリの細かなデザイン調整も含まれています。"
-    },
-    {
-      "id": "5190d44be403105b532b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27.2 Adds Siri AI in New Languages",
-      "url": "https://www.macrumors.com/2026/09/16/siri-ai-new-languages-ios-27-2/",
-      "publishedAt": "2026-09-16T18:18:19.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Siri-AI-More-Languages-October.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27.2ベータ、Siri AIが日本語など新たな言語に対応",
-      "summaryJa": "iOS 27.2のベータ版において、AppleのSiri AI機能が新たにフランス語、日本語、韓国語、ポルトガル語、スペイン語に対応しました。iOS 27の初期リリース時点では英語のみに制限されていましたが、予告通り数ヶ月以内に対応言語が拡大されることになります。この新言語の追加から、iOS 27.2の正式リリースは10月中旬以降になる可能性が示唆されています。"
-    },
-    {
-      "id": "088165cedd2ae1bb43fc",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Here's Why Apple Just Released an iOS 27.2 Beta Instead of iOS 27.1",
-      "url": "https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/",
-      "publishedAt": "2026-09-16T17:53:15.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27.1ではなくiOS 27.2ベータが先行してリリースされた理由",
-      "summaryJa": "AppleがiOS 27.1ではなくiOS 27.2のベータ版を最初に開発者向けに公開した理由について報じられています。これは近日発売予定のiPhone DuoがiOS 27.1を初期搭載して出荷されるため、コード内から未発表の詳細が外部に漏洩するのを防ぐ狙いがあるとみられています。iOS 27.2のコードベースを利用することで、新デバイスに関する情報のリークを回避する巧妙な措置となっています。"
-    },
-    {
-      "id": "4e3207ca74b7474f90ab",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27.2 expands Siri AI to these new languages",
-      "url": "https://9to5mac.com/2026/09/16/ios-27-2-expands-siri-ai-to-these-new-languages/",
-      "publishedAt": "2026-09-16T17:48:06.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27.2ベータ1が登場、Siri AIが日本語など5言語に対応",
-      "summaryJa": "Appleは開発者向けにiOS 27.2の最初のベータ版をリリースしました。英語のみだったSiri AIの対応言語が大幅に拡充され、新たに日本語、フランス語、スペイン語、韓国語、ポルトガル語がサポートされています。今後は対応デバイスの言語設定を変更することで、より強力なSiri AI機能を利用できるようになります。"
-    },
-    {
-      "id": "0906196b75dd2d7c9e11",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27.2 introduces Apple Health app overhaul, here’s what’s new",
-      "url": "https://9to5mac.com/2026/09/16/ios-27-2-introduces-apple-health-app-overhaul-heres-whats-new/",
-      "publishedAt": "2026-09-16T17:34:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/health-app-ios-27-2-watchos-27-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27.2ベータ1で刷新されたヘルスケアアプリがテスト開始",
-      "summaryJa": "AppleはiOS 27.2ベータ1の提供を開始し、以前予告されていた新しいヘルスケアアプリのテストを開発者向けに開始しました。Apple Intelligenceを活用した「インサイト」タブや「長寿」タブが追加され、ユーザーの健康データを動的に分析してタイムリーな情報を提供します。利用には対応するAI機能搭載のiPhoneやApple Watchが必要です。"
-    },
-    {
-      "id": "c5ef2e0380f146080b6e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27.2 Beta Previews New Apple Intelligence Health App",
-      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-beta-health-app/",
-      "publishedAt": "2026-09-16T17:32:30.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-ios-27-health-app-watch.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27.2ベータが刷新されたヘルスケアアプリのプレビューを提供",
-      "summaryJa": "iOS 27.2の初期ベータ版にはApple Intelligenceを活用した新しいデザインのヘルスケアアプリが含まれています。Apple Watchが収集したデータを基に、睡眠やVO2 maxなどの情報を提供する「インサイト」タブや、個別のガイダンス機能がテストされています。これによりユーザーの健康管理やトレーニングをパーソナライズされた形でサポートします。"
-    },
-    {
-      "id": "29438d1a0b9c2753b3d9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases beta 1 for watchOS 27.2, tvOS 27.2, more",
-      "url": "https://9to5mac.com/2026/09/16/apple-releases-beta-1-for-watchos-27-2-tvos-27-2-more/",
-      "publishedAt": "2026-09-16T17:16:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/watchOS-27.2-b1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、watchOS 27.2やtvOS 27.2などのベータ1をリリース",
-      "summaryJa": "Appleは各OSの正式版を公開した直後、早くも次期アップデートとなるwatchOS 27.2やtvOS 27.2、visionOS 27.2などの開発者向けベータ1の提供を開始しました。スキップされたバージョン27.1に続いて、今後はマイナーアップデートや新機能の追加に向けたテストが本格化する見通しです。"
-    },
-    {
-      "id": "6bc5db90fb526fbcd25d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds First macOS Golden Gate 27.2 Beta to Developers",
-      "url": "https://www.macrumors.com/2026/09/16/apple-releases-macos-27-2-beta-1/",
-      "publishedAt": "2026-09-16T17:15:56.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、開発者向けにmacOS Golden Gate 27.2 ベータ1を配信開始",
-      "summaryJa": "Appleは開発者向けにmacOS Golden Gate 27.2の最初のベータ版の配信を開始しました。macOS 27の正式リリースからわずか数日での配布となります。初期版で削られたメッセージアプリの提案機能や、パスワードの自動更新機能などが将来のアップデートで復活する可能性があります。"
-    },
-    {
-      "id": "d744a4aa3ba25745e9d8",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases First iOS 27.2 Beta",
-      "url": "https://www.macrumors.com/2026/09/16/apple-releases-first-ios-27-2-beta/",
-      "publishedAt": "2026-09-16T17:14:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iOS 27.1を飛ばしてiOS 27.2ベータ1を開発者向けにリリース",
-      "summaryJa": "Appleは開発者向けにiOS 27.2およびiPadOS 27.2の最初のベータ版をリリースしました。通常の順序とは異なり27.1をスキップした形となります。10月には新しい言語のSiri AIの追加や、初期版で見送られたApple Intelligence関連機能の再導入などが期待されています。"
-    },
-    {
-      "id": "9ea8e66df2876e6b2f4d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "macOS 27.2 beta 1 now available to developers, here’s what’s new",
-      "url": "https://9to5mac.com/2026/09/16/macos-27-2-beta-1-now-available-to-developers-heres-whats-new/",
-      "publishedAt": "2026-09-16T17:13:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-b1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOS 27.2 ベータ 1を開発者向けにリリース",
-      "summaryJa": "AppleはmacOS 27の一般リリースに続き、早くもmacOS 27.2の最初のベータ版を開発者向けに配信開始しました。27.1のベータをスキップした形での提供となっています。10月にはフランス語や日本語など、新しい言語へのSiri AI対応拡大が予定されており、今回のベータ版に含まれているか注目されます。"
-    },
-    {
-      "id": "466c2b75b05c3a918296",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPadOS 27.2 beta 1 now available for iPad",
-      "url": "https://9to5mac.com/2026/09/16/ipados-27-2-beta-1-now-available-for-ipad/",
-      "publishedAt": "2026-09-16T17:13:01.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPadOS-27.2-b1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPadOS 27.2 ベータ 1を開発者向けに提供開始",
-      "summaryJa": "AppleはiPadOS 27のリリース直後、予想されていた27.1ではなくiPadOS 27.2の最初のベータ版を開発者向けに公開しました。スキップされた27.1は新型デバイス向けに温存されていると見られています。iPadOS 27.2では、初期リリースから削除されたメッセージ機能やパスワードの自動修復機能などの復活が期待されています。"
     }
   ],
-  "updatedAt": "2026-09-24T15:20:16.224Z",
+  "updatedAt": "2026-09-24T19:20:55.493Z",
   "initialized": true,
   "summaryVersion": 4
 }
