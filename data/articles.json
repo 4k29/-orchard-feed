@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "75d9cf47b5854067f145",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "最新のiPhone、Apple Watch、AirPodsのラインナップが世界中の店舗で販売開始",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+      "publishedAt": "2026-09-24T04:38:40.887Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "最新のiPhone 18 Proなどの販売が世界中の店舗で開始",
+      "summaryJa": "Appleは、世界中のApple Store直営店でiPhone 18 ProシリーズやApple Watch Series 12、Apple Watch Ultra 4、AirPods 5の販売を開始しました。店頭では多くの顧客が訪れ、Appleのチームメンバーが製品のデモやショッピングのサポートを行いました。購入者は、Apple Trade Inや各種支払いオプションを利用して新しいデバイスを入手できます。"
+    },
+    {
+      "id": "c9002af7b80d2c6e3ea4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Meta announces camera-free glasses, dedicated Muse AI gadget, more",
+      "url": "https://9to5mac.com/2026/09/23/meta-announces-camera-free-glasses-dedicated-muse-ai-gadget-more/",
+      "publishedAt": "2026-09-24T01:24:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/meta-muse.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Metaがカメラ非搭載のスマートグラスやAIデバイスを発表",
+      "summaryJa": "Metaは、イベント「Meta Connect 2026」にて、AIアシスタント向けのパームサイズ端末「Muse Charm」や、同社初のカメラ非搭載スマートグラス「Ray-Ban Meta Audio」を発表しました。プライバシーへの配慮からカメラ機能を省きつつ、音声再生やライブ翻訳、AIエージェントの利用に対応しています。また、デザインを刷新した第3世代のスマートグラスも同時に発表されました。"
+    },
+    {
       "id": "8570ab9e56963dafeb1f",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4476,39 +4507,9 @@
       ],
       "titleJa": "iPhone 18 Proの海外レビューが公開",
       "summaryJa": "今週金曜日の発売を前に、テック系メディアやYouTubeチャンネルによるiPhone 18 ProおよびPro Maxのレビューが公開されました。昨年のモデルのような大幅なデザイン変更はないものの、スマートフォン初の2nmチップとなるA20 Proの搭載により、CPUやグラフィックス性能が着実に向上しています。また、大型化したベイパーチャンバー冷却システムの採用により熱管理が改善され、バッテリー駆動時間も延びていると評価されています。"
-    },
-    {
-      "id": "bd3bdbf4424febc5eb3a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Announces iPhone 18 Pro Photography Exhibition",
-      "url": "https://www.macrumors.com/2026/09/16/iphone-18-pro-photography-exhibition/",
-      "publishedAt": "2026-09-16T14:21:06.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-photography.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhone 18 Proで撮影した写真展を開催へ",
-      "summaryJa": "Appleは、iPhone 18 Proのみを使用して撮影された写真展「What Holds Us」の開催を発表しました。著名な写真家であるアレックス・プラガー氏やジャック・デイヴィソン氏らの作品を通じて、人間のつながりをテーマにした群像劇やポートレート、山岳写真などが展示されます。本展は9月18日から20日までニューヨークで開催されるほか、今後数ヶ月かけてロンドンや上海へも巡回する予定です。"
-    },
-    {
-      "id": "e19aec024db69629c268",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 adds scam-prevention feature to iPhone, here’s how to enable it",
-      "url": "https://9to5mac.com/2026/09/16/ios-27-adds-scam-prevention-feature-to-iphone-heres-how-to-enable-it/",
-      "publishedAt": "2026-09-16T14:14:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/iphone-privacy-private-cloud-compute.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS、詐欺を検出する新機能「なりすましリスク検知」を追加",
-      "summaryJa": "iOSには、ソーシャルエンジニアリング詐欺などの巧妙な手口からユーザーを守る「なりすましリスク検知」機能が追加されました。この機能はデフォルトではオフになっており、プライバシーとセキュリティの設定から手動で有効化する必要があります。デバイスやApple Accountの情報を基にリアルタイムで不審な活動を検知し、リスクレベルをアプリ側に通知する仕組みとなっています。"
     }
   ],
-  "updatedAt": "2026-09-24T00:32:37.500Z",
+  "updatedAt": "2026-09-24T05:19:29.702Z",
   "initialized": true,
   "summaryVersion": 4
 }
