@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "d2a6fcd670178808f39f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "TestFlight App Gets New iOS 27 Features",
+      "url": "https://www.macrumors.com/2026/09/24/testflight-ios-27-update/",
+      "publishedAt": "2026-09-24T22:28:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/01/TestFlight-Banner.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、TestFlightアプリをアップデートし新機能を追加",
+      "summaryJa": "Appleは各プラットフォーム向けに「TestFlight」アプリをバージョン4.4.0へアップデートしました。今回の更新では、最新のソフトウェアや製品の新機能への対応が図られています。iPhone用では、将来のデバイスを見据えた横向き表示のサポートに加え、MacのiPhoneミラーリング利用時のウィンドウサイズ変更が可能になりました。そのほか、全体的な安定性の向上やバグ修正が含まれています。"
+    },
+    {
+      "id": "e21d5d09452cb6d5ab97",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "M6 Mac mini review, Apple fitness band rumors, Apple AI servers",
+      "url": "https://9to5mac.com/2026/09/24/happy-hour-609/",
+      "publishedAt": "2026-09-24T20:43:14.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "M6 Mac miniやAirPods 5の話題を振り返る",
+      "summaryJa": "テック系ポッドキャスト番組にて、新型のM6 Mac miniやAirPods 5の実機インプレッション、各OS向けの初期バグ修正などが取り上げられています。また、実世界におけるSiriのAI機能の現状についての考察や、Apple Music Hallに関する話題なども語られました。各種スポンサーによる割引コードや特典情報についても合わせて案内されています。"
+    },
+    {
+      "id": "2c7caa0ae769dec59a99",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Google Photos Wardrobe Feature Comes to iOS",
+      "url": "https://www.macrumors.com/2026/09/24/google-photos-wardrobe-ios/",
+      "publishedAt": "2026-09-24T20:33:15.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/google-photos-wardrobe.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Googleフォトのデジタルワードローブ機能がiOSに対応",
+      "summaryJa": "Googleは、AIを活用して衣類画像を整理しデジタルクローゼットを作成できる機能を、iOS版「Googleフォト」の提供地域に追加しました。この機能はこれまでAndroidユーザー限定でしたが、米国、インド、ブラジルのiOSアプリでも利用可能になりました。ユーザーは衣服の組み合わせを試したり、コーディネートを作成して友人と共有したりすることができます。"
+    },
+    {
+      "id": "3f649cbacd43defcf4d7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Maps just added two new features in iOS 27",
+      "url": "https://9to5mac.com/2026/09/24/heres-everything-new-for-apple-maps-in-ios-27/",
+      "publishedAt": "2026-09-24T19:55:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-maps-generic-3d.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleマップ、iOS 27でFlyoverや新機能を導入",
+      "summaryJa": "iOS 27のAppleマップでは、AIと航空写真を組み合わせたアップグレード版のFlyover機能や、米国向けのLocal Lists機能などの新機能が追加されました。Local Listsにより、ユーザーはトレンドに基づく地元のスポットや飲食店を簡単に見つけられるようになります。さらに、おすすめ機能の拡張やトレンド飲食店の表示、自然言語による経路検索の拡充など、細かな改善も多数行われています。"
+    },
+    {
+      "id": "5b62aaae75a45804f4f0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Music to Host Free Head Trip Festival Livestream",
+      "url": "https://www.macrumors.com/2026/09/24/apple-music-head-trip-livestream/",
+      "publishedAt": "2026-09-24T19:48:43.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/08/apple-music.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Music、Head Tripフェスの無料ライブ配信を実施へ",
+      "summaryJa": "Apple Musicは、ゴールデンボイスとの提携により、カリフォルニア州インディオで開催される音楽フェスティバル「Head Trip」のメインステージの模様を無料でライブ配信すると発表しました。現地チケットはすでに売り切れていますが、世界中のファンがApple Musicを通じて人気アーティストたちのパフォーマンスを楽しむことができます。配信は10月10日と11日の2日間にわたって行われる予定です。"
+    },
+    {
       "id": "36cc3be71e9092ada7a6",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -179,6 +254,51 @@
       ],
       "titleJa": "Apple TV、名作「ピーナッツ」ホリデー特番を期間限定で無料配信",
       "summaryJa": "Apple TVは、ホリデーシーズンに合わせて名作「ピーナッツ」の特別番組をサブスクリプション非加入者向けに期間限定で無料配信すると発表しました。対象となるのはハロウィン、感謝祭、クリスマスの3つの象徴的なエピソードで、指定された週末にApple TVアプリから無料で視聴できます。会員であれば年間を通じていつでも視聴可能です。"
+    },
+    {
+      "id": "a6c71c38283372fefd0b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: 24GB M5 MacBook Air $150 off, Apple Watch Ultra $200 off, Mac mini, Beats cable $7.50, more",
+      "url": "https://9to5mac.com/2026/09/24/deals-m5-macbook-air-apple-watch-ultra-beats-cable/",
+      "publishedAt": "2026-09-24T15:31:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Apple-Watch-Ultra-MacBook-Air.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AmazonでApple Watch Ultra 3などが大幅割引に",
+      "summaryJa": "Amazonにて、新型モデルの登場に伴うApple Watch Ultra 3のクリアランスセールが再開され、定価から約200ドル引きで販売されています。また、M5チップを搭載した13インチMacBook Airの150ドル引きや、新しく登場したM6 Mac miniの割引、さらにAirPods Pro 3のセールなども同時に実施されています。"
+    },
+    {
+      "id": "c5f5b5b988cf43445288",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro one week later: Zero compromises",
+      "url": "https://9to5mac.com/2026/09/24/iphone-18-pro-one-week-later-zero-compromises/",
+      "publishedAt": "2026-09-24T15:27:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-rc.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proレビュー：1週間使って感じる妥協なき魅力",
+      "summaryJa": "前モデルのiPhone AirからiPhone 18 Proへ切り替えて1週間使用したレビューが紹介されています。カメラ性能、バッテリー持ち、処理速度のいずれにおいても妥協がなく、A20 Proチップによる優れたパフォーマンスや熱対策のベイパーチャンバーにより快適に動作すると評価されています。"
+    },
+    {
+      "id": "6491f0de8be0d5a18901",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple vs. Adobe: How does iOS 27’s AI photo editing compare to Photoshop?",
+      "url": "https://9to5mac.com/2026/09/24/apple-vs-adobe-how-does-ios-27s-ai-photo-editing-compare-to-photoshop/",
+      "publishedAt": "2026-09-24T15:25:43.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/photos-vs-photoshop.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27のAI写真編集機能とPhotoshopを比較",
+      "summaryJa": "iOS 27で大幅に強化された「クリーンアップ」ツールおよび新機能の「拡張」ツールと、Adobe Photoshopの生成AI機能の比較テストが行われました。スイスなどで撮影された写真を使用して、オブジェクトの消去と画像の拡張における実力をそれぞれ検証しています。詳細な結果や使い勝手の違いが今後の写真編集の参考になります。"
     },
     {
       "id": "76775ae6604fc07237b0",
@@ -4385,129 +4505,9 @@
       ],
       "titleJa": "iOS 27.2ベータで刷新されたヘルスケアアプリのハンズオン",
       "summaryJa": "Appleがプレビューしていた完全に刷新されたヘルスケアアプリが、iOS 27.2ベータでテストされています。「インサイト」や「ロンジェビティ」などの新しいタブが追加され、活動データや睡眠スコア、健康年齢などの指標をより詳細に確認できるようになります。なお、この新機能はiOS 27.2の正式リリースには含まれず、今年後半に配信される予定です。"
-    },
-    {
-      "id": "d1fedcdf7fdfa8fc3d8e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27.2 will help users move data and settings from an old app to its replacement",
-      "url": "https://9to5mac.com/2026/09/16/ios-27-2-will-help-users-move-data-and-settings-from-an-old-app-to-its-replacement/",
-      "publishedAt": "2026-09-16T21:03:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/app-migration.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27.2、旧アプリから新アプリへのデータ移行をシステムが支援へ",
-      "summaryJa": "iOS 27.2では、開発者が既存のアプリから後継アプリへデータや設定を簡単に移行できるよう、システムが管理する新しい移行フローが導入されます。古いアプリを削除する前に、通知やプライバシー設定などのデータを新しいアプリへスムーズに引き継ぐことが可能になります。"
-    },
-    {
-      "id": "0884962d275eaf777394",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27.2 Could Save Your Marriage",
-      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-could-save-your-marriage/",
-      "publishedAt": "2026-09-16T20:42:06.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/ios272anniversary.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27.2ベータ、電話発信時に記念日を通知する機能を追加",
-      "summaryJa": "Appleが配信を開始したiOS 27.2のベータ版において、連絡先に登録された記念日を電話発信時に通知する機能が追加されました。この機能はiOS 27で導入された「コールコンテキスト」を活用したもので、誕生日と同様に連絡先の情報から重要な日付をポップアップで知らせてくれます。正式版は10月のリリースが予定されています。"
-    },
-    {
-      "id": "6040c03baf2d2566c532",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "This iOS 27 bug temporarily freezes your iPhone … and it’s going viral on social media",
-      "url": "https://9to5mac.com/2026/09/16/iphone-ios-2-temporarily-brick-freeze-viral-prank/",
-      "publishedAt": "2026-09-16T20:38:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-freeze-bug.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27で画面が一時的にフリーズする不具合、SNSで拡散中",
-      "summaryJa": "公開されたばかりのiOS 27において、ホーム画面での特定のスワイプ操作を行うと端末が一時的にフリーズするソフトウェアの不具合が発見されました。通知センターとコントロールセンターを連続して引き出すことで発生し、SNS上でイタズラとして拡散されています。この一時的なロック状態は端末を強制再起動することで簡単に解除可能です。"
-    },
-    {
-      "id": "8db938f2959cd8074f08",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27.2 references new option to overwrite iPhone storage with blank data after erasing",
-      "url": "https://9to5mac.com/2026/09/16/ios-27-2-references-new-option-to-overwrite-iphone-storage-with-blank-data-after-erasing/",
-      "publishedAt": "2026-09-16T20:00:52.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/china-erase.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27.2、中国向けに空データでストレージを上書き消去する新機能か",
-      "summaryJa": "iOS 27.2ベータ版のコードから、デバイス初期化時にストレージ全体を空のデータで完全に上書きする新しい消去オプションの存在が明らかになりました。この機能は中国国内で施行される新しいデータ消去規制に準拠するためのもので、中国で販売されるiPhoneモデルに限定して提供される見込みです。"
-    },
-    {
-      "id": "4961da10f204c1c4ffa5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 gives Apple Photos a very useful feature I’ve wanted for years",
-      "url": "https://9to5mac.com/2026/09/16/ios-27-gives-apple-photos-a-very-useful-feature-ive-wanted-for-years/",
-      "publishedAt": "2026-09-16T19:47:14.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-photos-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27の写真アプリ、動画の特定フレームを写真として保存可能に",
-      "summaryJa": "iOS 27の写真アプリでは、保存されている動画から任意のフレームを写真として直接保存できる新機能が追加されました。従来のスクリーンショット撮影とは異なり、画質が低下せずトリミングの手間も省けるため、動画内の大切な瞬間を高画質な画像として残せるようになります。"
-    },
-    {
-      "id": "979c701a3ac3dd01fffd",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro vs. iPhone Duo Buyer's Guide: Which Should You Choose?",
-      "url": "https://www.macrumors.com/guide/iphone-18-pro-vs-iphone-duo/",
-      "publishedAt": "2026-09-16T19:28:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-Duo-vs-18-Pro-Buyers-Guide-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proと初の折りたたみモデルiPhone Duoの比較",
-      "summaryJa": "Appleの新しいiPhoneラインナップには、従来のProモデルに加えて、同社初の折りたたみディスプレイを搭載したiPhone Duoが登場しました。これらはいずれも最新のA20 Proチップや共通のハードウェアを多く備えていますが、価格差の多くは7.6インチの折りたたみディスプレイに割り当てられています。ユーザーはカメラ性能の差ではなく、折りたたみディスプレイという新しい形状に価値を見出すかどうかの選択を迫られます。"
-    },
-    {
-      "id": "a74c509074455dfca9bb",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27.2 Adds Profiles to Apple TV App",
-      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-tv-app-profiles/",
-      "publishedAt": "2026-09-16T19:23:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/ios-27-2-tv-app-profiles.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27.2、Apple TVアプリにプロフィール機能を追加",
-      "summaryJa": "iOS 27.2およびiPadOS 27.2では、これまでtvOS向けに提供されていたApple TVアプリのプロフィール機能がiPhoneとiPadにも拡張されました。アカウント設定から新しいプロフィールを作成・切り替えることが可能になり、子どもの年齢に応じた視聴制限を設定できます。これにより、親が自分のアカウントに影響を与えることなく、子どもに安心して動画コンテンツを視聴させられるようになります。"
-    },
-    {
-      "id": "9f634df67c54a1953c00",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27.2 lets developers use an alternative App Tracking Transparency prompt in the EU",
-      "url": "https://9to5mac.com/2026/09/16/ios-27-2-lets-developers-use-an-alternative-app-tracking-transparency-prompt-in-the-eu/",
-      "publishedAt": "2026-09-16T19:10:21.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/att-europe-272.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27.2、EU域内で代替のトラッキング許可プロンプトを導入",
-      "summaryJa": "Appleはドイツ連邦カートテル庁による調査を受けたEUとの合意に基づき、iOS 27.2からEU域内の開発者向けに代替のAppトラッキングの透明性（ATT）プロンプトの提供を開始します。ドイツ、フランス、イタリア、ポーランド、ルーマニアなどの国ではこの代替プロンプトの使用が義務付けられます。これにより、開発者はデータ追跡の目的について追加情報を表示するための専用ボタンを備えたプロンプトを利用できるようになります。"
     }
   ],
-  "updatedAt": "2026-09-24T19:20:55.493Z",
+  "updatedAt": "2026-09-24T22:34:18.655Z",
   "initialized": true,
   "summaryVersion": 4
 }
