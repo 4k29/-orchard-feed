@@ -1,6 +1,179 @@
 {
   "articles": [
     {
+      "id": "76775ae6604fc07237b0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Square Announces Apple Business Integration",
+      "url": "https://www.macrumors.com/2026/09/24/square-announces-apple-business-integration/",
+      "publishedAt": "2026-09-24T14:28:43.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Square-Apple-Maps.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Square Announces Apple Business Integration",
+      "summaryJa": "Square today announced a new Apple Business integration that makes it easier for businesses to ensure they have up-to-date information across Apple Maps, Apple Wallet, and Siri AI. Apple Business is connected to Square's Dashboard: \"Rather than managing multiple channels separately, sellers can now maintain their Apple presence alongside the rest of their business in Square.\" Tags: Apple Business , Square This article, \" Square Announces Apple Business Integration \" first appeared on MacRumors.com Discuss this article in our forums",
+      "translationStatus": "source"
+    },
+    {
+      "id": "622344b7ba91627effee",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 lets you create your own custom iPhone wallpapers",
+      "url": "https://9to5mac.com/2026/09/24/ios-27-lets-you-create-your-own-iphone-wallpapers/",
+      "publishedAt": "2026-09-24T14:18:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-wallpapers-image-playground-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27 lets you create your own custom iPhone wallpapers",
+      "summaryJa": "Apple introduces new iPhone wallpapers every year, and you can download iOS 27’s additions here . But iOS 27 also adds the ability to create your own custom wallpapers. Here’s how. more… Apple introduces new iPhone wallpapers every year, and you can download iOS 27’s additions here. But iOS 27 also adds the ability to create your own custom wallpapers. Here’s how. Here’s how you can create custom wallpapers in iOS 27 This year as part of iOS 27’s overall theme of major AI improvements, Apple has given its Image Playground app an overhaul. Image Playground now offers more powerful image generation capabilities and far fewer restrictions than before. It even lets you create images that are the perfect wallpaper size. But you don’t even need to open the Image Playground app to create wallpape",
+      "translationStatus": "source"
+    },
+    {
+      "id": "d31ba4a49e0bb23c5755",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Square now integrates with Apple Business to improve Maps listings",
+      "url": "https://9to5mac.com/2026/09/24/square-now-integrates-with-apple-business-to-improve-maps-listings/",
+      "publishedAt": "2026-09-24T14:03:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-maps-square-business-integration.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Square now integrates with Apple Business to improve Maps listings",
+      "summaryJa": "Square has announced a new integration with Apple Business that should make Apple Maps better for both businesses and users. Here are the details. more… Square has announced a new integration with Apple Business that should make Apple Maps better for both businesses and users. Here are the details. Square integration lets businesses easily keep Apple Maps listings up to date with accurate info Have you ever been frustrated to learn that an Apple Maps business listing has outdated info? Maybe the listed hours are inaccurate, or it has an error in the address, phone number, and so on. Square’s new integration with Apple Business should help. From the announcement: Square today announced a new integration with Apple that enables Square sellers to connect their locations to Apple Business from",
+      "translationStatus": "source"
+    },
+    {
+      "id": "087f27f1279d65abf614",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirPods Pro 3 on Sale for $199 This Week on Amazon",
+      "url": "https://www.macrumors.com/2026/09/24/airpods-pro-3-on-sale/",
+      "publishedAt": "2026-09-24T13:41:40.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/airpods-pro-3-tips.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirPods Pro 3 on Sale for $199 This Week on Amazon",
+      "summaryJa": "Amazon has the AirPods Pro 3 available for $199.00 this week, down from $249.00. We haven't tracked an all-time low price on this model since Prime Day over the summer, but this is still a solid $50 markdown. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. This model of the AirPods Pro launched in September 2025 and has 2x better Active Noise Cancellation than the previous generation, better audio quality, a revised fit that's meant to improve comfort and stability, Live Translation for in-person conversations, and heart rate sensing for workouts. $50 OFF AirPods Pro 3 for $199.00 Head to our full Deals Roundup to get caught up with all of the latest deals an",
+      "translationStatus": "source"
+    },
+    {
+      "id": "2e48d9191a3bf557d175",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Qualcomm Announces Renewed Agreement With Apple",
+      "url": "https://www.macrumors.com/2026/09/24/qualcomm-apple-renewed-agreement/",
+      "publishedAt": "2026-09-24T13:39:09.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Qualcomm-Apple-Logos.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Qualcomm Announces Renewed Agreement With Apple",
+      "summaryJa": "Qualcomm today announced the renewal of its global patent licensing agreement with Apple, effective April 1, 2027. No further details were provided. This patent agreement is separate from Qualcomm's agreement to supply Apple with cellular modems for smartphone launches through 2026, so we expect Apple's transition to its own custom-designed modems to continue. Among the latest iPhone models, only the U.S. version of the iPhone 18 Pro Max still has a Qualcomm modem . The smaller iPhone 18 Pro and the iPhone Duo are equipped with Apple's C2 modem worldwide, as is the iPhone 18 Pro Max in all countries beyond the U.S., while cellular models of the latest iPad Pro and iPad Air use Apple's previous-generation C1X modem. Following a legal battle, Apple and Qualcomm reached a settlement that incl",
+      "translationStatus": "source"
+    },
+    {
+      "id": "413228f7766f0f93c60a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV reveals new series with Hugh Laurie as organized crime boss",
+      "url": "https://9to5mac.com/2026/09/24/apple-tv-reveals-new-series-with-hugh-laurie-as-organized-crime-boss/",
+      "publishedAt": "2026-09-24T13:29:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/the-wanted-man-hugh-laurie.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV reveals new series with Hugh Laurie as organized crime boss",
+      "summaryJa": "The Wanted Man is a new Apple TV series that’s just been announced starring Hugh Laurie as an incarcerated crime boss who’s ready to make an escape. Here are the details. more… The Wanted Man is a new Apple TV series that’s just been announced starring Hugh Laurie as an incarcerated crime boss who’s ready to make an escape. Here are the details. The Wanted Man is new crime drama coming soon to Apple TV Crime thrillers are one of Apple TV’s most popular genres, and the streamer just announced its latest offering that’s coming soon. The Wanted Man premieres Wednesday, January 6 with its first two episodes, followed by weekly releases through February 17. Hugh Laurie stars as a crime boss who’s betrayed by someone at his firm, is sent to prison, and plans to break out. The cast also includes",
+      "translationStatus": "source"
+    },
+    {
+      "id": "77ee68fb11b85e75ac6c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Confirms iPhone 18 Pro Bug Fix Update is Coming Next Week",
+      "url": "https://www.macrumors.com/2026/09/24/apple-confirms-iphone-18-pro-fix-coming/",
+      "publishedAt": "2026-09-24T13:10:31.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Face-ID-iPhone-18-Pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Confirms iPhone 18 Pro Bug Fix Update is Coming Next Week",
+      "summaryJa": "Apple has confirmed to 9to5Mac 's Benjamin Mayo that it plans to release a software update early next week with a fix for a Face ID issue affecting some iPhone 18 Pro users . Yesterday, we reported that Apple is testing iOS 27.0.1 , which is likely to be the update with the fix. Related Roundups: iOS 27 , iPadOS 27 , iPhone 18 Pro Buyer's Guide: iPhone 18 Pro (Buy Now) Related Forums: iOS 27 , iPhone This article, \" Apple Confirms iPhone 18 Pro Bug Fix Update is Coming Next Week \" first appeared on MacRumors.com Discuss this article in our forums",
+      "translationStatus": "source"
+    },
+    {
+      "id": "395571ec17c94c46c4fc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Adobe expands creative tool access to Google Gemini, brings Acrobat to Claude",
+      "url": "https://9to5mac.com/2026/09/24/adobe-expands-creative-tool-access-to-google-gemini-brings-acrobat-to-claude/",
+      "publishedAt": "2026-09-24T13:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/adobe-gemini.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Adobe expands creative tool access to Google Gemini, brings Acrobat to Claude",
+      "summaryJa": "Adobe today announced two major expansions to its AI chatbot integrations, bringing its creative tools to Google Gemini while adding Acrobat tools to Claude. Here are the details. more… Adobe today announced two major expansions to its AI chatbot integrations, bringing its creative tools to Google Gemini while adding Acrobat tools to Claude. Here are the details. Adobe expands tools to Gemini, adds Acrobat to Claude For the past year or so, Adobe has been working to bring its creative tools to AI chatbots and other productivity tools, such as ChatGPT, Slack, and Copilot. Today, the company is announcing two expansions to that effort. First, Adobe is expanding its integration with Claude. The company already offered access to creative tools from Photoshop, Illustrator, Premiere, Lightroom,",
+      "translationStatus": "source"
+    },
+    {
+      "id": "c3b2db951daf1f0a8a33",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New iPad mini coming soon with these major changes",
+      "url": "https://9to5mac.com/2026/09/24/new-ipad-mini-coming-soon-with-these-major-changes/",
+      "publishedAt": "2026-09-24T12:49:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ipad-mini-touch-id-button-top.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新モデルのiPad miniか、OLEDディスプレイ搭載や性能向上などの噂",
+      "summaryJa": "Appleが新型iPad miniを近く発売する可能性が報じられています。今回のモデルチェンジでは、従来のLCDからOLEDディスプレイへの刷新や、新型チップによるパフォーマンスの大幅な向上が期待されています。さらに、防水性能の強化や新たなスピーカー技術の採用など、多くの重要な変更が盛り込まれる見込みです。"
+    },
+    {
+      "id": "fb23cf426a3e24b58b68",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Full iPhone 4 'Antennagate' Q&A Video Surfaces After 16 Years",
+      "url": "https://www.macrumors.com/2026/09/24/iphone-4-antennagate-qa-video-surfaces/",
+      "publishedAt": "2026-09-24T12:39:34.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 4のアンテナ問題に関する質疑応答の未公開映像が公開",
+      "summaryJa": "2010年のiPhone 4の「アンテナゲート」を巡る記者会見で、質疑応答を収めた47分間の完全な動画がYouTubeに登場しました。スティーブ・ジョブズやティム・クックらが記者からの質問に直接答える様子が記録されています。この映像は当時公開されたプレゼンテーション部分には含まれておらず、約16年を経て初めて明らかにされました。"
+    },
+    {
+      "id": "3f639117cdc3eaa20820",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.0.1 update likely coming soon for iPhone",
+      "url": "https://9to5mac.com/2026/09/24/ios-27-0-1-update-likely-coming-soon-for-iphone-users/",
+      "publishedAt": "2026-09-24T11:20:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-12.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、バグ修正に向けた「iOS 27.0.1」をテスト中か",
+      "summaryJa": "AppleがiPhone向けに「iOS 27.0.1」のテストを進めていることがウェブトラフィックの分析から明らかになりました。このアップデートでは、Face IDの認証失敗後に一部のiPhone 18 Proなどで発生している予期せぬ再起動問題などのバグ修正とパフォーマンス改善が図られる見通しです。"
+    },
+    {
       "id": "652175dd9f9f2ca6c1af",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4340,177 +4513,9 @@
       ],
       "titleJa": "Apple、iPadOS 27.2 ベータ 1を開発者向けに提供開始",
       "summaryJa": "AppleはiPadOS 27のリリース直後、予想されていた27.1ではなくiPadOS 27.2の最初のベータ版を開発者向けに公開しました。スキップされた27.1は新型デバイス向けに温存されていると見られています。iPadOS 27.2では、初期リリースから削除されたメッセージ機能やパスワードの自動修復機能などの復活が期待されています。"
-    },
-    {
-      "id": "39416a5959f3de9c36e1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases first iOS 27.2 developer beta for iPhone",
-      "url": "https://9to5mac.com/2026/09/16/apple-releases-first-ios-27-2-developer-beta-for-iphone/",
-      "publishedAt": "2026-09-16T17:12:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iOS-27.2-b1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPhone向けにiOS 27.2開発者ベータ1をリリース",
-      "summaryJa": "Appleは、一般向けにiOS 27がリリースされた直後、iPhone向けに最初のiOS 27.2開発者ベータ版を提供開始しました。今回はiOS 27.1をスキップした形での配信となり、iPhone Duo向けのコードなどは10月のハードウェア発売に向けて温存されているとみられます。次期アップデートでは、再設計されたヘルスケアアプリや、対応言語が拡大されるSiriのAI機能などの展開が予定されています。"
-    },
-    {
-      "id": "dcebca01f824aaf81f89",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases First watchOS 27.2, tvOS 27.2 and visionOS 27.2 Betas",
-      "url": "https://www.macrumors.com/2026/09/16/apple-releases-watchos-27-2/",
-      "publishedAt": "2026-09-16T17:12:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/04/General-visionOS-watchOS-and-tvOS-Betas-Feature-Redux.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、watchOS 27.2やtvOS 27.2などのベータ版をリリース",
-      "summaryJa": "AppleはwatchOS 27.2、tvOS 27.2、visionOS 27.2の最初のベータ版を開発者向けに公開しました。登録者は各デバイスの設定アプリからダウンロード可能となっています。今後のアップデートでは、Apple Watch向けにAIを活用した新機能の導入テストが行われる可能性があり、詳細な検証が進められています。"
-    },
-    {
-      "id": "cb6f15da681ec7871289",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 to Offer New Way to Redeem Apple Gift Cards",
-      "url": "https://www.macrumors.com/2026/09/16/ios-27-new-way-to-redeem-apple-gift-cards/",
-      "publishedAt": "2026-09-16T17:08:36.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Gift-Card-Tap-an-iPhone-1.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27、NFCでAppleギフトカードを読み取る新機能を準備か",
-      "summaryJa": "iOS 27のコードから、iPhoneの背面にAppleギフトカードをかざすだけでNFC経由で残高確認やチャージができる新機能が見つかりました。詐欺対策や認証の強化を目的としているとみられ、対応するiPhoneでの利便性が向上する見通しです。正式な機能の提供時期についてはまだ明らかにされていません。"
-    },
-    {
-      "id": "c9ebb465a037b511f01c",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Get ready with the latest beta releases",
-      "url": "https://developer.apple.com/news/?id=rfb1rooi",
-      "publishedAt": "2026-09-16T17:03:39.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple、各種OSの最新ベータ版を開発者向けに公開",
-      "summaryJa": "Appleは各OSのバージョン27.2となるベータ版を新たにリリースし、開発者に対して最新SDKを利用したアプリの動作確認を呼びかけています。また、10月23日に発売予定の折りたたみ型モデル「iPhone Duo」に向けた開発サポートについても言及されており、専用の機能やシミュレーターの準備が進められています。"
-    },
-    {
-      "id": "63a3e3924b300c5b6fa7",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Get your subscriptions ready for iOS 27",
-      "url": "https://developer.apple.com/news/?id=likeohx4",
-      "publishedAt": "2026-09-16T17:02:58.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/022EB77D-3E86-4604-B38E-39F1B024E868/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple、iOS 27に向けたサブスクリプションの新機能を発表",
-      "summaryJa": "Appleは、iOS 27で複数のサブスクリプションを1つにまとめて提供できる「Bundles」や「Suites」機能を導入すると発表しました。アプリ内課金でのStoreKit 2の利用が必須となり、企業やグループ向けの複数シート購入機能もApp Store Connectでサポートされます。これにより、開発者は新しい形態でのサブスクリプション展開が可能になります。"
-    },
-    {
-      "id": "e73e7653da472728e375",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Updates to App Tracking Transparency in the European Union",
-      "url": "https://developer.apple.com/news/?id=idsft9ai",
-      "publishedAt": "2026-09-16T17:00:11.000Z",
-      "imageUrl": null,
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "EUにおけるApp Tracking Transparencyの変更点",
-      "summaryJa": "Appleは欧州の競争当局との合意に基づき、EU域内におけるApp Tracking Transparency（ATT）の仕組みを変更すると発表しました。iOS 27.2およびiPadOS 27.2以降、開発者はEU内で代替バージョンのシステムプロンプトを利用できるようになります。なお、トラッキング許可を取得する要件自体は従来と変わりません。"
-    },
-    {
-      "id": "442b045efa81bd878c55",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Anthropic merging Claude Cowork with chat",
-      "url": "https://9to5mac.com/2026/09/16/anthropic-merging-claude-cowork-with-chat/",
-      "publishedAt": "2026-09-16T16:47:54.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Anthropic、「Claude Cowork」を通常チャットに統合",
-      "summaryJa": "Anthropicは、AIアシスタント「Claude」のCowork機能を通常チャットへ統合し、モードを従来の3つから2つに簡素化すると発表しました。今後はProおよびMaxプランのユーザーを対象に、数週間かけて順次展開される予定です。この変更により、ユーザーはタスクごとにモードを切り替える必要がなくなり、よりスムーズな利用が可能になります。"
-    },
-    {
-      "id": "790ca731a7c4f19c4adc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Weather adds two convenient new features in iOS 27",
-      "url": "https://9to5mac.com/2026/09/16/apple-weather-adds-two-convenient-new-features-in-ios-27/",
-      "publishedAt": "2026-09-16T16:09:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-weather-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iOS 27の天気アプリで便利な2つの新機能を追加",
-      "summaryJa": "Appleは、iOS 27の天気アプリに雨と風の予報を確認できる便利な2つの新機能を追加しました。従来の総合的な表示に加え、新しく追加された雨や風のアイコンをタップすることで、詳細な降水量や風速の予報へ簡単に切り替えることができます。これまでメニューの奥に隠れていた重要な気象情報が、ホーム画面からよりアクセスしやすくなりました。"
-    },
-    {
-      "id": "4407d1c815a4785c5103",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Here's Why a New Apple Watch Charging Puck Was Just Released",
-      "url": "https://www.macrumors.com/2026/09/16/new-apple-watch-charging-puck/",
-      "publishedAt": "2026-09-16T15:54:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Watch-New-Charging-Puck.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch向けに最大10W対応の新しい高速充電器が登場した理由",
-      "summaryJa": "Apple Watch Series 12とApple Watch Ultra 4の高速充電に対応するため、最大10Wの電力供給が可能な新しい磁気高速充電ケーブルが発売されました。従来の充電器は5Wに制限されていましたが、新しい充電器と対応モデルを組み合わせることで、わずか15分の充電で大幅なバッテリー駆動時間の追加が可能になります。"
-    },
-    {
-      "id": "74105feff6a4a2d47f62",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 has subtle design change that Apple didn’t mention",
-      "url": "https://9to5mac.com/2026/09/16/apple-watch-series-12-has-subtle-design-change-that-apple-didnt-mention/",
-      "publishedAt": "2026-09-16T15:34:14.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-siri-modular-face.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Series 12のベゼルに関する変更点",
-      "summaryJa": "Apple Watch Series 12ではケースの幅がわずかに広がり、ディスプレイ周囲のベゼルが従来モデルよりも太くなっていることが判明しました。Appleの公式発表では触れられていませんでしたが、内部のアップグレードに伴いケースサイズが調整された可能性があり、これまでのベゼル極細化のトレンドとは異なるデザインとなっています。"
-    },
-    {
-      "id": "e93fec7469d91993876f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: AirPods 5/Pro 3, Apple Watch Ultra 4, MacBook Pro $450 off, more",
-      "url": "https://9to5mac.com/2026/09/16/deals-airpods-5-pro-3-apple-watch-ultra-4/",
-      "publishedAt": "2026-09-16T15:34:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Apple-Watch-Ultra-4-AirPods-5.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Series 12や新型AirPodsのセール情報",
-      "summaryJa": "Amazonの早期プライムデーセールにて、発売を控えるApple Watch Series 12やブラックのApple Watch Ultra 4が早くも割引価格で予約受付中となっています。さらに、ノイズキャンセリング対応の新型AirPods 5やAirPods Pro 3、M5チップ搭載のMacBook Proなども割引の対象となっており、発売前に少しお得に入手できる機会となっています。"
     }
   ],
-  "updatedAt": "2026-09-24T10:15:29.505Z",
+  "updatedAt": "2026-09-24T15:20:16.224Z",
   "initialized": true,
   "summaryVersion": 4
 }
