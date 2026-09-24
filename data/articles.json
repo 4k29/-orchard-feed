@@ -1,6 +1,82 @@
 {
   "articles": [
     {
+      "id": "652175dd9f9f2ca6c1af",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Meta Did a 'One More Thing' and It's an AI Tamagotchi",
+      "url": "https://www.macrumors.com/2026/09/24/meta-did-a-one-more-thing-and-its-an-ai-tamagotchi/",
+      "publishedAt": "2026-09-24T08:54:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/muse-charm-meta.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Metaが新型AIコンパニオンデバイス「Muse Charm」を発表",
+      "summaryJa": "Metaは年次イベント「Connect」にて、AI音声モデルと対話できるキーホルダーサイズの新型デバイス「Muse Charm」を発表しました。画面を介さずに素早く音声会話やアバターとのやり取りが可能で、ホリデーシーズンの発売を予定しています。同時に、軽量な新型VRグラスも披露されています。"
+    },
+    {
+      "id": "509597ab3ea63c1dc935",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、ロンドンに最先端のライブ音楽会場Apple Music Hallをオープン",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
+      "publishedAt": "2026-09-24T08:28:55.340Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、ロンドンのバタシー発電所に新しいライブ音楽会場を開設",
+      "summaryJa": "Appleはロンドンの歴史的建造物であるバタシー発電所に、最先端のライブ音楽会場「Apple Music Hall」をオープンしました。アーティストとファンを繋ぐ約600人収容の会場で、空間オーディオでの録音やマルチカメラによる放送用ミキシングなど、音楽制作拠点としての機能も備えています。"
+    },
+    {
+      "id": "acdb50914f30295196f9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Opera’s free built-in VPN can now turn on automatically when using public Wi-Fi",
+      "url": "https://9to5mac.com/2026/09/24/operas-free-built-in-vpn-can-now-turn-on-automatically-when-using-public-wi-fi/",
+      "publishedAt": "2026-09-24T08:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/opera-wifi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Operaブラウザ、公共Wi-Fi利用時に無料VPNの自動有効化機能を追加",
+      "summaryJa": "デスクトップ向けOperaブラウザは、公共や非安全なWi-Fiネットワークに接続した際、内蔵の無料VPNが自動的に起動する機能の提供を開始しました。ユーザーのプライバシー保護をより手軽にすることを目的としており、まずは米国とフランスのユーザーから順次展開されます。"
+    },
+    {
+      "id": "b329e91e608afa2f4da4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple says software update to fix iPhone 18 Pro rebooting bug is coming next week",
+      "url": "https://9to5mac.com/2026/09/23/apple-iphone-18-pro-rebooting-bug-software-update-fix/",
+      "publishedAt": "2026-09-24T06:43:49.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/mayo.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPhone 18 ProのFace ID関連の不具合を修正するアプデを予告",
+      "summaryJa": "一部のiPhone 18 ProおよびPro MaxでFaceID認証の失敗後に端末がフリーズして再起動する問題について、Appleがソフトウェアアップデートを来週早期に配信すると認めてました。これはハードウェアの故障ではなくソフトウェアの不具合であり、修正アップデートの配信が予定されています。"
+    },
+    {
+      "id": "c3c2f651c65da8a1d94b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Handoff in iOS 27: How It Works, Pricing, and Carrier Support",
+      "url": "https://www.macrumors.com/guide/iphone-handoff-how-it-works-carrier-support-cost/",
+      "publishedAt": "2026-09-24T06:25:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-Feature.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、2台のiPhoneで同じ電話番号を使える「iPhone Handoff」を発表",
+      "summaryJa": "AppleはiOS 27において、同じ電話番号を2台のiPhoneで切り替えながら使用できる新しいeSIM機能「iPhone Handoff」を発表しました。この機能により、ロックを解除するだけで通話やメッセージ、位置情報などが有効なデバイスへとシームレスに同期されます。利用には対応キャリアのサポートが必要で、米国の一部キャリアなどで順次提供が開始されます。"
+    },
+    {
       "id": "75d9cf47b5854067f145",
       "source": "Apple Newsroom 日本",
       "sourceId": "apple-newsroom-jp",
@@ -4432,84 +4508,9 @@
       ],
       "titleJa": "Apple Watch Series 12や新型AirPodsのセール情報",
       "summaryJa": "Amazonの早期プライムデーセールにて、発売を控えるApple Watch Series 12やブラックのApple Watch Ultra 4が早くも割引価格で予約受付中となっています。さらに、ノイズキャンセリング対応の新型AirPods 5やAirPods Pro 3、M5チップ搭載のMacBook Proなども割引の対象となっており、発売前に少しお得に入手できる機会となっています。"
-    },
-    {
-      "id": "a540093a290f1dd4bd7d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Memory Supplier Explores U.S. Manufacturing With Intel",
-      "url": "https://www.macrumors.com/2026/09/16/apple-memory-supplier-explores-us-manufacturing/",
-      "publishedAt": "2026-09-16T15:16:01.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/sk-hynix-intel.png",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleのメモリ供給元、インテルとの米国製造を模索か",
-      "summaryJa": "Appleへメモリを供給するSKハイニックスが、米国内でのメモリチップ製造に向けてインテルと初期段階の協議を行っていると報じられています。AIインフラ向けの需要拡大によるメモリ供給のひっ迫が続く中、オハイオ州のインテル工場を活用する案などが検討されています。ただ、現時点で最終決定には至っておらず、今後の動向が注目されています。"
-    },
-    {
-      "id": "bc1b41b6bfb6958d42b5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: September 16, 2026 – macOS 27 Golden Gate features",
-      "url": "https://9to5mac.com/2026/09/16/daily-september-16-2026/",
-      "publishedAt": "2026-09-16T14:42:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "macOS 27ゴールデンゲートの特徴と最新ニュース",
-      "summaryJa": "9to5Macのポッドキャスト番組にて、macOS 27ゴールデンゲートの新機能や、iOS 27におけるデータ共有のオプトイン設定、iCloud+の特典追加などが紹介されました。AIモデルの改善に向けたデータ共有や、一部地域でのApple TVおよびApple Arcadeの追加料金なしでの提供など、注目の話題が取り上げられています。"
-    },
-    {
-      "id": "9ef1d28298d449747866",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Get In On Pre-Order Discounts for the New Mac Mini and Mac Studio Before They Launch Next Week",
-      "url": "https://www.macrumors.com/2026/09/16/pre-order-mac-mini-studio/",
-      "publishedAt": "2026-09-16T14:36:21.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新Mac miniとMac Studioが早くも割引に",
-      "summaryJa": "Amazonにて、来週の発売を控えた新型Mac miniおよびMac Studioの先行予約割引が早くも実施されています。一部のモデルが最大49ドル引きとなっており、新型M6チップ搭載のMac miniやM5 Max搭載のMac Studioなどが対象です。新しいMac miniは前世代モデルに比べて大幅なパフォーマンス向上やAI処理能力の強化が図られており、発売前の段階でお得に購入できるチャンスとなっています。"
-    },
-    {
-      "id": "e2ea2ea2d73a993b31ab",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iOS 27: Use Visual Intelligence in the Camera App",
-      "url": "https://www.macrumors.com/how-to/ios-use-visual-intelligence-camera-app/",
-      "publishedAt": "2026-09-16T14:31:56.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/ios-27-siri-mode-camera.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27のカメラアプリで「ビジュアルインテリジェンス」を活用する",
-      "summaryJa": "現在配信中のiOS 27では、標準のカメラアプリに新しいSiriモードが追加され、ビジュアルインテリジェンス機能を利用できるようになりました。画面内の植物や動物、料理などの被写体を認識して情報を提供してくれるほか、イベントのチラシを撮影してカレンダーへ予定を追加するといった機能も備えています。さらに、フラッシュやLive Photoなどのクイックアクセスツールの配置が変更されるなど、操作性も改良されています。"
-    },
-    {
-      "id": "26a8208869b5f813d92c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Reviews: Excellent Yet... Meh?",
-      "url": "https://www.macrumors.com/review/iphone-18-pro/",
-      "publishedAt": "2026-09-16T14:31:14.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Black-iPhone-18-Pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの海外レビューが公開",
-      "summaryJa": "今週金曜日の発売を前に、テック系メディアやYouTubeチャンネルによるiPhone 18 ProおよびPro Maxのレビューが公開されました。昨年のモデルのような大幅なデザイン変更はないものの、スマートフォン初の2nmチップとなるA20 Proの搭載により、CPUやグラフィックス性能が着実に向上しています。また、大型化したベイパーチャンバー冷却システムの採用により熱管理が改善され、バッテリー駆動時間も延びていると評価されています。"
     }
   ],
-  "updatedAt": "2026-09-24T05:19:29.702Z",
+  "updatedAt": "2026-09-24T10:15:29.505Z",
   "initialized": true,
   "summaryVersion": 4
 }
