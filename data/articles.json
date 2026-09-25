@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "2fcf92a5f0fac1b0fd69",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Rare ‘Antennagate’ press conference Q&A video surfaces online",
+      "url": "https://9to5mac.com/2026/09/24/rare-antennagate-press-conference-qa-video-surfaces-online/",
+      "publishedAt": "2026-09-25T00:31:14.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-4.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 4のアンテナゲートに関するスティーブ・ジョブズらの記者会見映像が公開",
+      "summaryJa": "2010年のiPhone 4発売時に起きた通信感度問題、いわゆるアンテナゲートを巡り、スティーブ・ジョブズらが対応を説明した緊急記者会見の完全な映像がオンライン上で公開されました。約47分に及ぶ質疑応答の様子を収めた動画で、これまで公開されていなかった貴重な記録となっています。Appleによる著作権申し立てなどで削除される前に視聴できる状態となっています。"
+    },
+    {
+      "id": "561fdfc31cb9e4bedf4d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple and Qualcomm renew global patent licensing agreement",
+      "url": "https://9to5mac.com/2026/09/24/apple-and-qualcomm-renew-global-patent-licensing-agreement/",
+      "publishedAt": "2026-09-24T23:51:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AppleとQualcomm、グローバル特許ライセンス契約を更新",
+      "summaryJa": "AppleとQualcommがグローバル特許ライセンス契約を更新しました。2017年の法的紛争を経て2019年に和解した際、6年間の契約を結んでいましたが、今回の更新により事前の期限以降も継続されることになります。両社は過去に特許料やロイヤリティを巡り対立していましたが、現在は関係を維持しています。"
+    },
+    {
+      "id": "f37127f78baf67ec3685",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "What's Gone in macOS Golden Gate and What's Next in macOS 28",
+      "url": "https://www.macrumors.com/2026/09/24/macos-golden-gate-features-removed/",
+      "publishedAt": "2026-09-24T23:06:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "macOS Golden Gateにおけるレガシー機能の終了と今後の展望",
+      "summaryJa": "最新のmacOS Golden Gateでは、Appleシリコン搭載Mac専用となり、Intel Macのサポートが終了しました。これに伴いBoot CampやAirPortユーティリティ、古いAFPプロトコルなどが廃止されています。また、Rosetta 2についても将来のOSでの完全終了が見据えられており、古い技術の整理が進められています。"
+    },
+    {
+      "id": "ff7827eb9ed5cf8529f5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Sports adds real-time Grand Slam draws, expands soccer coverage",
+      "url": "https://9to5mac.com/2026/09/24/apple-sports-adds-real-time-grand-slam-draws-expands-soccer-coverage/",
+      "publishedAt": "2026-09-24T23:03:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-sports.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Sportsアプリがアップデート、サッカーリーグやテニスのトーナメント表を追加",
+      "summaryJa": "Apple Sportsアプリがアップデートされ、サッカーの対応リーグが拡大されるとともに、テニスのグランドスラムや主要大会のリアルタイムなトーナメント表に対応しました。オーストラリアやエジプトなどの新しいサッカーリーグが追加され、ユーザーは各ラウンドの対戦カードや結果を手軽に確認できるようになっています。"
+    },
+    {
       "id": "d2a6fcd670178808f39f",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4445,69 +4505,9 @@
       ],
       "titleJa": "WhatsApp、iPhone版で最大3つのアカウント追加機能をテスト中か",
       "summaryJa": "WhatsAppが、iPhone版アプリにおいて現在対応している2つのアカウントに加え、最大3つまでのアカウントを追加して切り替えられる機能の開発を進めていると報じられています。この機能が実装されれば、ログアウトすることなく複数のアカウントを管理できるようになり、各アカウントは個別のチャット履歴や通知、プライバシー設定を保持します。現在は開発段階であり、ベータテスター向けにもまだ提供されていません。"
-    },
-    {
-      "id": "fd39a623bf2ec4742899",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Tripsy’s iOS 27 update includes smarter imports, on-device AI insights, more",
-      "url": "https://9to5mac.com/2026/09/16/tripsys-ios-27-update-includes-smarter-imports-on-device-ai-insights-more/",
-      "publishedAt": "2026-09-16T22:12:09.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/tripsy.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "旅行計画アプリ「Tripsy」がiOS 27に対応、AI機能などを追加",
-      "summaryJa": "旅行計画アプリのTripsyがバージョン3.10にアップデートされ、iOS 27の特大ウィジェットやAIを活用した新機能に対応しました。リンクやPDF、スクリーンショットなどを自動で旅程に組み込める「スマートインポート」や、デバイス上の基盤モデルで詳細情報を抽出する「スマートインサイト」などがProサブスクリプション向けに提供されています。"
-    },
-    {
-      "id": "46a6837fbdd0e56d4a25",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Upgrade your Mac desk setup with the Sihoo B300 Pro for under $300",
-      "url": "https://9to5mac.com/2026/09/16/upgrade-mac-desk-setup-with-sihoo-b300-pro-under-300/",
-      "publishedAt": "2026-09-16T22:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Sihoo-B300-Pro.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Macのデスク環境を快適にするSihoo B300 Pro",
-      "summaryJa": "長時間のデスクワークを支える椅子として、Sihooの「B300 Pro」が紹介されています。4Dマイクロフィット腰椎サポートや6Dアームレストなど、体に合わせた多彩な調整機能を備えており、Macを使った作業環境を快適にするための優れた選択肢となります。"
-    },
-    {
-      "id": "6bc7d35efb691e3e9848",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Judge scrutinizes Musk’s move to drop Apple from antitrust lawsuit involving OpenAI",
-      "url": "https://9to5mac.com/2026/09/16/judge-scrutinizes-musks-move-to-drop-apple-from-antitrust-lawsuit-involving-openai/",
-      "publishedAt": "2026-09-16T21:26:54.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/Meta-community-notes-now-open-to-contributors-as-Musk-threatens-to-fix-them-on-X.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "連邦判事、マスク氏側のAppleに対する訴訟取り下げで合意文書の提出を命令",
-      "summaryJa": "イーロン・マスク氏関連企業がAppleとOpenAIに対する反トラスト法訴訟のうち、Appleに対する請求を自発的に取り下げたことを受け、担当のマーク・ピットマン連邦判事がAppleとの間の合意内容を示す文書の提出を命じました。OpenAI側からの緊急動議に対応したもので、裁判所が合意の詳細を精査する方針を示しています。"
-    },
-    {
-      "id": "2d16cbdeff65ee96dcfb",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Hands-On With the Redesigned Health App in the iOS 27.2 Beta",
-      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-health-app-beta/",
-      "publishedAt": "2026-09-16T21:21:23.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27.2ベータで刷新されたヘルスケアアプリのハンズオン",
-      "summaryJa": "Appleがプレビューしていた完全に刷新されたヘルスケアアプリが、iOS 27.2ベータでテストされています。「インサイト」や「ロンジェビティ」などの新しいタブが追加され、活動データや睡眠スコア、健康年齢などの指標をより詳細に確認できるようになります。なお、この新機能はiOS 27.2の正式リリースには含まれず、今年後半に配信される予定です。"
     }
   ],
-  "updatedAt": "2026-09-24T22:34:18.655Z",
+  "updatedAt": "2026-09-25T00:46:58.620Z",
   "initialized": true,
   "summaryVersion": 4
 }
