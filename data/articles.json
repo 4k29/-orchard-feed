@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "8581b27caa4f07fb68a1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+      "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
+      "publishedAt": "2026-09-25T19:22:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/11/apple-pay-feature-dynamic-island.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "米国の銀行や信用組合、Apple Payの手数料巡り集団訴訟へ",
+      "summaryJa": "AppleがApple Payの決済市場で反トラスト法に違反しているとする訴訟において、米国の銀行や信用組合が参加する集団訴訟の継続が認められました。訴えでは、AppleがiPhoneのNFCチップへの競合アクセスを制限することで、年間最大10億ドルの手数料を違法に徴収していると主張しています。なお、Appleはその後iOS 18.1以降でNFCのサードパーティ開放などのポリシー変更を行っています。"
+    },
+    {
+      "id": "2e963a635ddefb15812d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Card adds new feature in iOS 27 that every card should have",
+      "url": "https://9to5mac.com/2026/09/25/apple-card-adds-new-feature-in-ios-27-that-every-card-should-have/",
+      "publishedAt": "2026-09-25T19:19:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-card-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Card、サブスクの管理が簡単になる新機能を導入",
+      "summaryJa": "次期OSではApple WalletのApple Cardに定期的な支払いを一元管理できる便利なハブ機能が追加されると報じられています。この新機能により、増え続けるサブスクリプションの請求日や金額を月別のカレンダー表示などで簡単に把握できるようになります。プライバシーを懸念してサードパーティ製アプリを使いたくないユーザーにとって、手軽な管理手段として期待されます。"
+    },
+    {
+      "id": "ae3d861c515146913c19",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV has too many good shows on now and I can’t keep up",
+      "url": "https://9to5mac.com/2026/09/25/apple-tv-has-too-many-good-shows-on-now-and-i-cant-keep-up/",
+      "publishedAt": "2026-09-25T19:07:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-tv-logo.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "高品質な作品が揃うApple TV、見きれないほどの配信本数に",
+      "summaryJa": "品質重視のラインナップで高い評価を得てきたApple TVですが、近年は魅力的な話題作の配信が増加しています。以前は同時に数作品を追う程度だったものが、現在は優れたドラマやコメディが次々と公開されています。豊富な良作を楽しめる一方で、増えたコンテンツのペースについていくのが難しくなっているという声も聞かれます。"
+    },
+    {
+      "id": "5a950a72ad1981888348",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Finally Shares tvOS 27 Release Notes With List of New Features",
+      "url": "https://www.macrumors.com/2026/09/25/tvos-27-release-notes/",
+      "publishedAt": "2026-09-25T19:07:10.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/10/Apple-TV-2022-Feature-Blue.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、tvOS 27のリリースノートを公開し新機能を網羅",
+      "summaryJa": "Appleはソフトウェアの配信から約2週間を経て、tvOS 27の公式リリースノートをようやく公開しました。今回のアップデートでは、Apple Musicでのハイレゾロスレスや自動ミックス機能、Podcastsアプリでのビデオブロスの対応などが含まれています。また、AirPlayのパフォーマンス向上や、アプリごとの個別ブロック機能なども追加されています。"
+    },
+    {
+      "id": "42ff30036d7af7b9f04c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Amazon's $199 Discount on Apple Watch Ultra 3 Returns to Help Clear Stock",
+      "url": "https://www.macrumors.com/2026/09/25/apple-watch-ultra-3-returns/",
+      "publishedAt": "2026-09-25T18:28:59.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/apple-watch-ultra-3-prime-day.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazon、Apple Watch Ultra 3を199ドル引きで再セール",
+      "summaryJa": "Amazonにおいて、前世代モデルとなるApple Watch Ultra 3が199ドル引きの特別価格で再び販売されています。在庫処分の一環とみられ、ブラックのオーシャンバンドやミラネーゼループを備えたモデルが対象となっています。新型のUltra 4の登場を背景に、お買い得価格で購入できるチャンスとなっています。"
+    },
+    {
+      "id": "247b0945b138079f7bb4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Code Confirms iPad 12 Specs: A19, 8GB RAM, N1, C1X Modem",
+      "url": "https://www.macrumors.com/2026/09/25/ipad-12-feature-leak/",
+      "publishedAt": "2026-09-25T18:01:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/ipad-peach.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "次期廉価版iPadの仕様がAppleのコードから判明か",
+      "summaryJa": "Appleのコードから、次期エントリーモデルのiPadに関する詳細な仕様が明らかになりました。A19チップや8GBのRAMを搭載し、Apple Intelligenceに対応する見込みです。また、独自モデムやWi-Fi 7をサポートするN1チップの採用により、パフォーマンスや接続性の向上が期待されています。"
+    },
+    {
+      "id": "af947d12ba762f1ff760",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "MacRumors Giveaway: Win an Apple Watch Ultra 4 From Lululook",
+      "url": "https://www.macrumors.com/2026/09/25/macrumors-giveaway-lululook-ultra-4/",
+      "publishedAt": "2026-09-25T17:56:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/lululook-apple-watch-titanium.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Lululook製Apple Watch Ultra 4向けバンドのプレゼント企画",
+      "summaryJa": "海外メディアMacRumorsが、LululookとのタイアップによるApple Watch Ultra 4向けの豪華なバンドが当たるプレゼント企画を実施しています。チタン製で軽量なミラネーゼループバンドや、リバーシブル仕様のシリコンバンドなど、日常からワークアウトまで幅広く使えるアクセサリーが紹介されています。"
+    },
+    {
+      "id": "b79e889f2c9597e4e083",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "tvOS 27 to add screensaver sound effects on Apple TV 4K, per leak",
+      "url": "https://9to5mac.com/2026/09/25/tvos-27-to-add-screensaver-sound-effects-on-apple-tv-4k-per-leak/",
+      "publishedAt": "2026-09-25T17:28:48.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-tv-4k-tvos-26-lg.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "tvOS 27でApple TVのスクリーンセーバーに効果音追加か",
+      "summaryJa": "Apple TV 4K向けの次期OSであるtvOS 27のコードから、スクリーンセーバーに音声効果音が追加される可能性が浮上しました。特にスヌーピーのスクリーンセーバーに関連する隠しコントロールが見つかっており、ユーザーが音声を有効または無効に切り替えられるようになる見通しです。"
+    },
+    {
+      "id": "5c99ef9a82941c1a7788",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Launch Week Deals Hit Latest Macs, Apple Watch Ultra 4, and Apple Accessories",
+      "url": "https://www.macrumors.com/2026/09/25/best-apple-deals-of-the-week-9-25-26/",
+      "publishedAt": "2026-09-25T17:25:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/02/Best-Apple-Deals-Feature-0007-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "最新Macやアクセサリが早くもセール対象に",
+      "summaryJa": "今週発売されたばかりの新型Mac miniやMac Studio、Beats 360ヘッドホンなどが、Amazonにて早くも割引価格で販売されています。Mac各モデルは最大50ドルオフ、Beats 360のクッションキットなどは大幅な値下げとなっており、発売直後からお得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "0b2ed32b9b65a979c439",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Some iPhone 18 Pro Max Users Experiencing AT&T Cellular Issues",
+      "url": "https://www.macrumors.com/2026/09/25/iphone-18-pro-max-att-cellular-issues/",
+      "publishedAt": "2026-09-25T17:07:24.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "一部のiPhone 18 Pro MaxでAT&Tの通信障害か",
+      "summaryJa": "米国の一部ユーザーの間で、iPhone 18 Pro MaxにおけるAT&Tのモバイル通信やeSIMプロビジョニングに関する問題が報告されています。影響を受けているユーザーは、通話やデータ通信に接続できない状態となっています。Appleが来週リリース予定とみられるiOS 27.0.1で、これらの通信問題が修正されることが期待されています。"
+    },
+    {
+      "id": "c62e7f48d31460b0ae8d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 25, 2026 – New AirPods features, iOS 27.2 tidbits",
+      "url": "https://9to5mac.com/2026/09/25/daily-september-25-2026/",
+      "publishedAt": "2026-09-25T17:06:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "9to5Mac Daily：AirPodsの新機能やiOS 27.2の話題",
+      "summaryJa": "Apple関連の最新ニュースを振り返るポッドキャスト番組のデイリーエピソードが配信されました。番組では、Apple IntelligenceユーザーによるChatGPT統合への関心の低さや、AirPodsに追加された長年望まれていた機能、そしてiOS 27.2ベータ版で見つかった盗難防止機能の詳細などが取り上げられています。"
+    },
+    {
+      "id": "2cd0d1f186c73d1b0c10",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "watchOS 27 upgrades popular Apple Watch face with new options",
+      "url": "https://9to5mac.com/2026/09/25/watchos-27-upgrades-popular-apple-watch-face-with-new-options/",
+      "publishedAt": "2026-09-25T17:05:14.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-modular-face-s10-12.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "watchOS 27で人気文字盤「モジュラー」がさらに進化",
+      "summaryJa": "最新のwatchOS 27では、Apple Watchの人気文字盤である「モジュラー」のカスタマイズ性がさらに向上しています。オリーブやバーガンディなど13の新色が追加されたほか、最新モデル向けの新しいコンプリケーションにも対応し、健康指標などをより便利に確認できるようになりました。"
+    },
+    {
       "id": "843a7742e836bed58846",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4324,189 +4504,9 @@
       ],
       "titleJa": "iPhone 15 Proから18 Proへの移行ガイド",
       "summaryJa": "発表されたばかりのiPhone 18 Proシリーズと、3年前に発売されたiPhone 15 Proシリーズの比較が行われています。ディスプレイの大型化や新しいデザイン、カメラ性能の向上、バッテリー駆動時間の延長など、3世代分の確実な進化による違いが解説されています。"
-    },
-    {
-      "id": "eeb3010146a02c1f7b0a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV just dropped trailers for two upcoming premieres",
-      "url": "https://9to5mac.com/2026/09/17/apple-tv-just-dropped-trailers-for-two-upcoming-premieres/",
-      "publishedAt": "2026-09-17T16:21:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-tv-fall-mountains.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、新作ドキュメンタリーと映画の予告編を公開",
-      "summaryJa": "Apple TVで配信予定の注目作の予告編が新たに公開されました。ミシュランの星を目指すレストランを追うドキュメンタリー番組のシーズン2や、秋に劇場公開を控える注目映画の映像が披露され、今後のラインナップを盛り上げています。"
-    },
-    {
-      "id": "cf2ab7d3dafb7d863ac4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "50 New macOS Golden Gate Features and Changes Worth Checking Out",
-      "url": "https://www.macrumors.com/2026/09/17/new-features-changes-macos-27/",
-      "publishedAt": "2026-09-17T16:18:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/50-New-macOS-Golden-Gate-Features-and-Changes-Worth-Checking-Out-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "macOS Golden Gateの新機能や変更点から注目の50選",
-      "summaryJa": "Appleが今週リリースしたmacOS 27 Golden Gateには、パフォーマンスの改善やバグ修正に加え、多くの新機能や変更が含まれています。刷新されたSiri AIや新しい検索バー、Liquid Glassの透明度調整スライダー、Safariのスタートページにおける閲覧トピックの再開機能などが搭載されました。Siri AIの機能は初期段階では英語のベータ版として提供され、言語や地域によって利用可否が異なります。"
-    },
-    {
-      "id": "380ef9491f57f1ea2c59",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Max Test Shows Much Faster Charging From 0% to 100%",
-      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-max-charging-speed-test/",
-      "publishedAt": "2026-09-17T16:07:48.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Black-iPhone-18-Pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Pro Maxの検証で明らかに、充電速度が大幅に向上",
-      "summaryJa": "Appleが前モデルより高速なUSB-C充電に対応したと謳うiPhone 18 Proシリーズについて、YouTubeチャンネルの検証動画から詳細な充電時間が判明しました。iPhone 18 Pro Maxは対応充電器を使用することで、0%から100%までのフル充電をわずか55分で完了させることが確認されています。これは前世代モデルと比べて26分短縮されており、最初の12分間には最大52Wのピーク充電速度に達しました。"
-    },
-    {
-      "id": "c2d675c697669911077d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: September 17, 2026 – iOS 27.2 beta testing, more",
-      "url": "https://9to5mac.com/2026/09/17/daily-september-17-2026/",
-      "publishedAt": "2026-09-17T15:50:52.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "9to5Mac Daily：iOS 27.2ベータテストや注目の最新ニュース",
-      "summaryJa": "ポッドキャスト番組9to5Mac Dailyの最新エピソードでは、Appleの動向に関する重要なニュースが取り上げられています。AppleがM8 Ultraチップを搭載したAIサーバーの販売を計画しているという報道や、iOS 27.2の開発者向けベータ第1版のリリースに関する話題が紹介されました。また、ヘルスケアアプリの大幅な刷新を含む最新のベータ版における新機能についても詳しく触れられています。"
-    },
-    {
-      "id": "8d91834373e816883153",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Makes the Starting Lineup for Apple TV's Dodgers vs. Giants Broadcast",
-      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-dodgers-vs-giants-broadcast/",
-      "publishedAt": "2026-09-17T15:43:28.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Burgundy.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple TVのMLB中継で新型iPhone 18 Proが撮影カメラに採用",
-      "summaryJa": "Apple TVで配信されるドジャース対ジャイアンツの試合中継において、新型のiPhone 18 Proが公式の撮影機材として活用されることになりました。球場内には1ダース以上のiPhone 18 Proが設置され、従来の放送用カメラでは捉えるのが難しいユニークな視点からライブ映像を撮影します。Appleは昨年の試合中継でもiPhoneを活用しており、臨場感あふれるアングルの映像が期待されています。"
-    },
-    {
-      "id": "114b74c0f6d27de8b9b0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "First iPhone 18 Pro pre-orders now say ‘shipped,’ here’s how to check yours",
-      "url": "https://9to5mac.com/2026/09/17/first-iphone-18-pro-pre-orders-now-say-shipped-heres-how-to-check-yours/",
-      "publishedAt": "2026-09-17T15:38:54.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの初回予約分、Apple Storeで「出荷完了」ステータスに",
-      "summaryJa": "Appleは、新型の「iPhone 18 Pro」および「iPhone 18 Pro Max」の初回予約分について、出荷が正式に開始されたことを購入者に通知し始めています。Apple Storeアプリや公式サイトの注文状況から現在の配送ステータスを確認できるようになりました。製品は今週金曜日にユーザーの手元に届く予定であり、各配送事業者の追跡リンクから詳細な配送状況も確認できます。"
-    },
-    {
-      "id": "b56db62eae0a46de8b40",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: AirPods, M6 Mac mini, Apple Studio Display $330 off, Thunderbolt 5 dock, MacBook Air, more",
-      "url": "https://9to5mac.com/2026/09/17/deals-airpods-m6-mac-mini-studio-display-thunderbolt-5-dock/",
-      "publishedAt": "2026-09-17T15:34:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-Studio-Display-Thunderbolt-5-Dock.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Series 12や新型Mac miniなど、各種Apple製品の割引セールが実施中",
-      "summaryJa": "AmazonなどのECサイトにて、新型のApple Watch Series 12やM6搭載Mac mini、AirPodsシリーズを対象とした事前割引やセールが実施されています。M5搭載のMacBook AirやStudio Display XDRなども割引価格の対象となっており、発売を控えた製品をお得に購入するチャンスとなっています。価格や在庫状況は変動するため、早めの確認が推奨されます。"
-    },
-    {
-      "id": "a7512d5b6622d4349cdf",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro will be used in this week’s Friday Night Baseball broadcast",
-      "url": "https://9to5mac.com/2026/09/17/iphone-18-pro-will-be-used-in-this-weeks-friday-night-baseball-broadcast/",
-      "publishedAt": "2026-09-17T14:46:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-rear-camera.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、今週のMLB中継でiPhone 18 Proを活用へ",
-      "summaryJa": "Appleは、今週開催される「Friday Night Baseball」のジャイアンツ対ドジャース戦において、発売されたばかりのiPhone 18 ProおよびPro Maxを活用すると発表しました。ドジャースタジアム内の様々な場所に14台の同デバイスが設置され、通常の放送カメラでは捉えられない独自の視点やライブ映像をリアルタイムで提供します。一部の映像伝送には専用のT-Mobile 5Gネットワークが使用される予定です。"
-    },
-    {
-      "id": "b532e990415cd86149b2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 and Ultra 4 Reviews: Look Out, Oura Ring",
-      "url": "https://www.macrumors.com/review/apple-watch-series-12-ultra-4/",
-      "publishedAt": "2026-09-17T14:23:37.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-s12-ultra-4.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Series 12とUltra 4の海外レビューが公開",
-      "summaryJa": "今週金曜日の発売を前に、Apple Watch Series 12およびApple Watch Ultra 4の初期レビューが公開されました。外観は前モデルとほぼ同じですが、より強力なS11チップの搭載によりSiriの動作が高速化されたほか、光学心拍センサーの精度向上や充電の高速化などが図られています。また、バッテリー持ちや新しい健康管理機能についても各メディアから高く評価されています。"
-    },
-    {
-      "id": "3d9e64ab6f5752160f89",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Amazon Drops 13-Inch M5 MacBook Air Prices by $150",
-      "url": "https://www.macrumors.com/2026/09/17/amazon-150-m5-macbook-air-2/",
-      "publishedAt": "2026-09-17T14:16:54.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macbook-air-prime-day-2.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Amazon、13インチM5 MacBook Airを150ドル値下げ",
-      "summaryJa": "Amazonは、13インチのM5 MacBook Airの2つのモデルを対象に、150ドルの値引きセールを実施しています。対象となっているのは16GB/1TBおよび24GB/1TBの構成で、夏の価格改定以降では最安値圏での販売となります。4色すべてのカラーが対象に含まれており、お得に購入できるチャンスとなっています。"
-    },
-    {
-      "id": "986b20d9336b4d825f79",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPadOS 27.2 adds convenient new feature from the Mac",
-      "url": "https://9to5mac.com/2026/09/17/ipados-27-2-adds-convenient-new-feature-from-the-mac/",
-      "publishedAt": "2026-09-17T14:12:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27-ipad-keyboard-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPadOS 27.2ベータ、Macから便利なSiriポップアップ機能を追加",
-      "summaryJa": "配信が開始されたiPadOS 27.2のベータ版において、Macの最新機能であるテキスト選択時のSiriポップアップが追加されました。トラックパッドを接続している場合、テキストを選択すると隅に小さなSiriアイコンが表示され、カーソルを合わせるだけで「Siriに質問」ボックスを簡単に呼び出すことができます。日常的な操作の生産性を高める便利な機能として注目されています。"
-    },
-    {
-      "id": "7755071d8f5ae6553e56",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s everything new for Messages in iOS 27",
-      "url": "https://9to5mac.com/2026/09/17/heres-everything-new-for-messages-in-ios-27/",
-      "publishedAt": "2026-09-17T13:46:21.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27におけるメッセージアプリの新機能まとめ",
-      "summaryJa": "iOS 27では、メッセージアプリに手書きメモやスケッチを送信できる「描画」機能が追加されます。また、AndroidユーザーとのRCSメッセージングにおいても、インライン返信やタップバックリアクションのサポートなど、多くの歓迎すべきアップグレードが含まれています。さらに、Apple Intelligenceを活用した「ワンタップ提案」により、文脈に応じたリマインダー作成などが容易になります。"
     }
   ],
-  "updatedAt": "2026-09-25T15:31:13.034Z",
+  "updatedAt": "2026-09-25T19:30:14.766Z",
   "initialized": true,
   "summaryVersion": 4
 }
