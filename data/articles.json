@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "61a71a3e82ef52abb08a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "TestFlight now works in landscape as Apple prepares for iPhone Duo",
+      "url": "https://9to5mac.com/2026/09/25/testflight-now-works-in-landscape-as-apple-prepares-for-iphone-duo/",
+      "publishedAt": "2026-09-25T22:19:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/testflight-app.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、横向き表示に対応したTestFlightをリリース",
+      "summaryJa": "Appleは、横向き表示やMacのiPhoneミラーリングの新しいリサイズ可能なウィンドウに対応したTestFlightのアップデートを配信しました。この機能強化は、iOSのネイティブアプリを折りたたみ式ディスプレイなどの新しい形状に適応させる取り組みの一環と伝えられています。"
+    },
+    {
+      "id": "970367420410447467f7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple faces class action over Apple Pay fees charged to card issuers",
+      "url": "https://9to5mac.com/2026/09/25/apple-faces-class-action-over-apple-pay-fees-charged-to-card-issuers/",
+      "publishedAt": "2026-09-25T21:01:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/walmart-apple-pay.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Payの手数料をめぐり、カード発行会社による集団訴訟が認定",
+      "summaryJa": "アメリカの連邦地裁が、AppleがApple Payの取引においてカード発行会社に過大な手数料を請求しているとして、独占禁止法違反を問う集団訴訟を正式に認定しました。原告側は、競合するモバイルウォレットの参入を制限し年間10億ドル規模の手数料を徴収していると主張しています。"
+    },
+    {
+      "id": "440f85eed6cfa7cfa995",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Music Hall confirms first eight shows, starting with Elton John",
+      "url": "https://9to5mac.com/2026/09/25/apple-music-hall-confirms-first-eight-shows-starting-with-elton-john/",
+      "publishedAt": "2026-09-25T20:08:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-music-hall_5c7713.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、ロンドンの新会場「Apple Music Hall」の初公演アーティストを発表",
+      "summaryJa": "Appleはロンドンのバタシー・パワー・ステーション内に新設した「Apple Music Hall」で開催される最初の8公演を発表しました。来週エルトン・ジョンの公演で幕を開け、ライブの模様はApple Musicを通じて世界中にライブ配信され、空間オーディオの録音なども提供されます。"
+    },
+    {
+      "id": "f9998ab7331dda4b2d13",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Overtime 083: iPod Shuffle vibes",
+      "url": "https://9to5mac.com/2026/09/25/9to5mac-overtime-083-ipod-shuffle-vibes/",
+      "publishedAt": "2026-09-25T20:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/9to5Mac-Overtime-083-iPod-Shuffle-vibes.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "画面非搭載の新型フィットネストラッカーの噂についてポッドキャストで議論",
+      "summaryJa": "9to5Macのポッドキャスト番組において、Appleが開発中と噂される画面非搭載のフィットネストラッカーの魅力や、新型iPhoneやApple Watchの実機レビューについて語られています。また、M6 Mac miniのサードパーティー製SSDアップグレードに関する気になるニュースなども取り上げられています。"
+    },
+    {
       "id": "8581b27caa4f07fb68a1",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -179,6 +239,36 @@
       ],
       "titleJa": "watchOS 27で人気文字盤「モジュラー」がさらに進化",
       "summaryJa": "最新のwatchOS 27では、Apple Watchの人気文字盤である「モジュラー」のカスタマイズ性がさらに向上しています。オリーブやバーガンディなど13の新色が追加されたほか、最新モデル向けの新しいコンプリケーションにも対応し、健康指標などをより便利に確認できるようになりました。"
+    },
+    {
+      "id": "71bf6ded185ceb1a0b77",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "The MacRumors Show: Tyler Stalman Talks iPhone 18 Pro's Camera",
+      "url": "https://www.macrumors.com/2026/09/25/the-macrumors-show-tyler-stalman-iphone-18-pro-camera/",
+      "publishedAt": "2026-09-25T15:58:50.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proのカメラ性能と新機能を徹底解説",
+      "summaryJa": "写真家のタイラー・スタルマン氏が、iPhone 18 Proのメインカメラや新機能について語っています。新しい48メガプクセルセンサーと可変絞りレンズにより、低光量性能の向上や自然な被写界深度の調整が可能になりました。また、プロ向けの新しい手動調整コントロール機能についても紹介されています。"
+    },
+    {
+      "id": "66d39f09bbe58aeb3834",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New iPad mini details revealed in latest leak",
+      "url": "https://9to5mac.com/2026/09/25/new-ipad-mini-details-revealed-in-latest-leak/",
+      "publishedAt": "2026-09-25T15:40:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ipad-mini-6-jb.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "次期iPad miniはA20 Proチップを搭載か",
+      "summaryJa": "次期iPad miniに関する新たなリーク情報が報じられています。コード内から発見された情報によると、次期モデルはOLEDディスプレイや防水性能の向上に加え、iPhone 18 Proと同じ強力なA20 Proチップを搭載する可能性が伝えられています。また、フロントカメラの位置が横向きに変更される見込みです。"
     },
     {
       "id": "843a7742e836bed58846",
@@ -4414,99 +4504,9 @@
       ],
       "titleJa": "macOS 27ベータ版で大幅に進化を遂げたSiri",
       "summaryJa": "今週リリースされたmacOS 27のベータ版において、SiriがSpotlight検索と深く統合され、Mac上で大きく進化しました。個人のコンテキストを考慮しながらプライバシーを重視した設計となっており、従来のメニューバーやショートカットから脱却し、より自然で実用的なアシスタントとして生まれ変わっています。"
-    },
-    {
-      "id": "091bdc73c3f7db19446c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Photographer Austin Mann reviews the iPhone 18 Pro camera",
-      "url": "https://9to5mac.com/2026/09/17/photographer-austin-mann-reviews-the-iphone-18-pro-camera/",
-      "publishedAt": "2026-09-17T18:37:25.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/austin-mann-iphone-18-pro-video.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "写真家のオースティン・マンが語るiPhone 18 Proカメラの実力",
-      "summaryJa": "著名な写真家のオースティン・マンが、iPhone 18 ProおよびPro Maxのカメラ機能についての詳細なレビューを公開しました。新搭載された可変絞り機能や手動フォーカスといったPro向けの新しいコントロールについて、実際の作例を交えながら使い心地や撮影のコツを詳しく解説しています。"
-    },
-    {
-      "id": "b9fed43f2ff449c56dfe",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Unboxing: New Colors, Better Photos, and Smaller Dynamic Island",
-      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-unboxing/",
-      "publishedAt": "2026-09-17T18:34:51.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "発売を控えたiPhone 18 Proの速報レビューと新要素",
-      "summaryJa": "発売を前にしてiPhone 18 Proの実機レビューが公開され、新色「グリシア」の美しい色合いや、ガラスとフレームが統一された外観デザインが紹介されています。内部には2nmプロセスのA20 Proチップや大型化したベイパーチャンバー冷却システムが搭載され、長時間の利用でも快適な動作を実現しています。"
-    },
-    {
-      "id": "9ea7e8e2e3ef9df195c6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Increases Battery Replacement Fee for iPhone 18 Pro and Pro Max",
-      "url": "https://www.macrumors.com/2026/09/17/apple-higher-iphone-18-pro-battery-fee/",
-      "publishedAt": "2026-09-17T18:25:32.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhone 18 Proのバッテリー交換費用を値上げ",
-      "summaryJa": "Appleの公式サイトによると、米国におけるiPhone 18 ProおよびPro Maxの保証対象外バッテリー交換費用が、これまでの119ドルから129ドルへと10ドル値上げされました。これは新モデルに搭載された大型バッテリーに伴うもので、AppleCare+加入者の場合は、バッテリー容量が80%未満に低下した際に無償で交換が可能です。"
-    },
-    {
-      "id": "672974478ef36f8957f1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here are 100+ things Siri AI can do on your iPhone",
-      "url": "https://9to5mac.com/2026/09/17/here-are-100-things-siri-ai-can-do-on-your-iphone/",
-      "publishedAt": "2026-09-17T17:49:13.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新Siri AIの実力を125個のプロンプトで徹底検証",
-      "summaryJa": "iOSで導入された新しいSiri AIを125個の依頼でテストした結果が公開されました。メールやメッセージからの情報抽出や、文脈を理解した複雑な質問にも高い成功率で応えることが確認されています。長年限られた用途にしか使われていなかったSiriの大きな進化を示すものとして注目されています。"
-    },
-    {
-      "id": "feee65e2a0c495509731",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Overtime 082: Origins of the Apple Store w/ special guest Ron Johnson",
-      "url": "https://9to5mac.com/2026/09/17/9to5mac-overtime-082-origins-of-the-apple-store-w-special-guest-ron-johnson/",
-      "publishedAt": "2026-09-17T17:10:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/9to5Mac-Overtime-082-Origins-of-the-Apple-Store-w-special-guest-Ron-Johnson.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Storeの初期を語る元小売担当役員",
-      "summaryJa": "ポッドキャスト番組に元Apple小売担当上級副社長のロン・ジョンソン氏が出演し、新刊の話題やApple Storeの創設期について語りました。スティーブ・ジョブズ氏との協業の思い出や初代iPhoneの発売当時を振り返りつつ、現在のAppleの店舗展開やエコシステムについての独自の視点も披露しています。"
-    },
-    {
-      "id": "3f10412d2cd69f0f2808",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 15 Pro vs. iPhone 18 Pro Buyer's Guide: Should You Upgrade?",
-      "url": "https://www.macrumors.com/guide/iphone-15-pro-vs-18-pro/",
-      "publishedAt": "2026-09-17T16:28:13.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-15-pro-vs-iphone-18-pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 15 Proから18 Proへの移行ガイド",
-      "summaryJa": "発表されたばかりのiPhone 18 Proシリーズと、3年前に発売されたiPhone 15 Proシリーズの比較が行われています。ディスプレイの大型化や新しいデザイン、カメラ性能の向上、バッテリー駆動時間の延長など、3世代分の確実な進化による違いが解説されています。"
     }
   ],
-  "updatedAt": "2026-09-25T19:30:14.766Z",
+  "updatedAt": "2026-09-25T22:44:45.118Z",
   "initialized": true,
   "summaryVersion": 4
 }
