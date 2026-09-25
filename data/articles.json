@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "00ca0ddcdc5b0ceed3f9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "How to Check Your Mac's Manufacture Date in macOS 27",
+      "url": "https://www.macrumors.com/how-to/check-your-mac-manufacture-date-macos/",
+      "publishedAt": "2026-09-25T07:14:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/regulatory-certification-macos-manufacture-date.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Macの製造日を確認する方法がmacOS 27で復活",
+      "summaryJa": "Appleが数年前にシリアル番号をランダム化したことに伴い確認できなくなっていたMacの製造日が、macOS 27で再び確認できるようになりました。システム設定の一般から情報を開き、システムレポート内の「規制認定」をクリックすることで、下部に製造日が表示される仕組みです。これは2021年の仕様変更以降失われていた詳細情報の確認手段を復活させるもので、ユーザーにとって便利な新機能となっています。"
+    },
+    {
       "id": "611932f482225f2d2a51",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4490,24 +4505,9 @@
       ],
       "titleJa": "iOS 27.2 Beta 1が登場、刷新されたヘルスケアアプリやSiriの対応言語追加など",
       "summaryJa": "Appleは「iOS 27.2 Beta 1」を新たに公開しました。このベータ版には、9月のイベントで発表されたインサイトや長寿データなどを管理できる刷新されたヘルスケアアプリが含まれています。また、Siri AIの対応言語に日本語やフランス語などが追加されたほか、通話コンテキストの記念日アラート機能なども実装されています。"
-    },
-    {
-      "id": "503fa77694b3affa5dd9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Tim Cook to Attend White House State Dinner for Xi Jinping",
-      "url": "https://www.macrumors.com/2026/09/16/tim-cook-state-dinner-xi-jinping/",
-      "publishedAt": "2026-09-16T23:41:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Tim-Cook-Executive-Chair-16x9-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "ティム・クック氏、米中首脳会談の晩餐会に出席へ",
-      "summaryJa": "Appleの執行会長であるティム・クック氏が、中国の習近平国家主席を迎えてホワイトハウスで開催される晩餐会に出席する見通しであると報じられています。クック氏は9月に最高経営責任者を退任し執行会長に就任しており、新役割の一環として世界各国の政策立案者との関係構築を進めています。今回の晩餐会には、オープンAIのサム・アルトマン氏ら他の主要テック企業のトップも招待されています。"
     }
   ],
-  "updatedAt": "2026-09-25T05:33:45.415Z",
+  "updatedAt": "2026-09-25T10:31:52.883Z",
   "initialized": true,
   "summaryVersion": 4
 }
