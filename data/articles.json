@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "611932f482225f2d2a51",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple shares video highlighting new child safety features across its devices",
+      "url": "https://9to5mac.com/2026/09/24/apple-shares-video-highlighting-new-child-safety-features-across-its-devices/",
+      "publishedAt": "2026-09-25T01:17:50.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-child-safery.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、子どもの安全を守る見守り機能を紹介する動画を公開",
+      "summaryJa": "Appleは公式YouTubeチャンネルにて、各デバイスに搭載されている子どものアカウント管理や見守り機能を紹介するアニメーション動画を公開しました。この動画では、ペアレンタルコントロール機能を使って不適切なアプリやWebサイトへのアクセスを制限する方法、連絡先の承認、利用時間の管理などが分かりやすく解説されています。親世代が子どもの安全をより簡単に確保するための様々な設定を視覚的に伝える内容となっています。"
+    },
+    {
+      "id": "46ef98f6fe359d3e311e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "‘Knife Edge: Chasing Michelin Stars’ season 2 premieres on Apple TV",
+      "url": "https://9to5mac.com/2026/09/24/knife-edge-chasing-michelin-stars-season-2-premieres-on-apple-tv/",
+      "publishedAt": "2026-09-25T01:00:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/knife-edge.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、料理ドキュメンタリーのシーズン2を配信開始",
+      "summaryJa": "Apple TVは、ミシュランの星を目指す世界のレストランの舞台裏を追ったドキュメンタリー番組「ナイフ・エッジ：ミシュランの星を追って」シーズン2の配信を開始しました。フード専門家のジェシー・バージェスがホストを務め、今回はヨーロッパ、アメリカ、ブラジルの16店舗が挑む過酷な挑戦に密着しています。初回は2エピソードが同時に公開され、今後は毎週金曜日に新しいエピソードが追加される予定です。"
+    },
+    {
       "id": "2fcf92a5f0fac1b0fd69",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4475,39 +4505,9 @@
       ],
       "titleJa": "ティム・クック氏、米中首脳会談の晩餐会に出席へ",
       "summaryJa": "Appleの執行会長であるティム・クック氏が、中国の習近平国家主席を迎えてホワイトハウスで開催される晩餐会に出席する見通しであると報じられています。クック氏は9月に最高経営責任者を退任し執行会長に就任しており、新役割の一環として世界各国の政策立案者との関係構築を進めています。今回の晩餐会には、オープンAIのサム・アルトマン氏ら他の主要テック企業のトップも招待されています。"
-    },
-    {
-      "id": "c702b3dfdc4d809d7172",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Snap announces Specs Intelligence app for iPhone and Mac, cellular variant of Specs",
-      "url": "https://9to5mac.com/2026/09/16/snap-specs-intelligence-cellular-support/",
-      "publishedAt": "2026-09-16T23:40:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/image_8852d8.png?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "SnapがiPhoneおよびMac向けのAIアプリ「Specs Intelligence」を発表",
-      "summaryJa": "Snapは、独自のメガネ型端末の予約受付を開始するとともに、iPhoneやMacで利用できる新しいAIエージェント「Specs Intelligence」を発表しました。このアプリは、ユーザーの目標や日々のルーティンを学習してサポートする機能を提供します。また、外出先での利用を可能にする5G対応のキャリングケースやセルラープランも同時に発表されています。"
-    },
-    {
-      "id": "a5c1240084ccf4334fd1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp may soon let iPhone users add a third account",
-      "url": "https://9to5mac.com/2026/09/16/whatsapp-may-soon-let-iphone-users-add-a-third-account/",
-      "publishedAt": "2026-09-16T22:39:22.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp、iPhone版で最大3つのアカウント追加機能をテスト中か",
-      "summaryJa": "WhatsAppが、iPhone版アプリにおいて現在対応している2つのアカウントに加え、最大3つまでのアカウントを追加して切り替えられる機能の開発を進めていると報じられています。この機能が実装されれば、ログアウトすることなく複数のアカウントを管理できるようになり、各アカウントは個別のチャット履歴や通知、プライバシー設定を保持します。現在は開発段階であり、ベータテスター向けにもまだ提供されていません。"
     }
   ],
-  "updatedAt": "2026-09-25T00:46:58.620Z",
+  "updatedAt": "2026-09-25T05:33:45.415Z",
   "initialized": true,
   "summaryVersion": 4
 }
