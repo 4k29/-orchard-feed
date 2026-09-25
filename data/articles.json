@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "843a7742e836bed58846",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Leaked images reveal new Apple TV 4K, HomePod mini",
+      "url": "https://9to5mac.com/2026/09/25/leaked-images-reveal-new-apple-tv-4k-homepod-mini/",
+      "publishedAt": "2026-09-25T15:30:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "HomePod miniとApple TV 4Kの新モデル画像が流出か",
+      "summaryJa": "Appleの内部コードから、今秋の発表が噂される新型HomePod miniと第4世代Apple TV 4Kの画像が発見されたと報じられています。HomePod miniには新色が追加される模様で、Apple TV 4Kは現行のデザインが維持される見込みです。これらの製品は10月に登場する可能性が指摘されています。"
+    },
+    {
+      "id": "b32af40502652b018bf1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: Mac Studio, AirPods Pro 3, Powerbeats Pro 2, 2-pack Beats cables $14, smart doorbell 60% off, more",
+      "url": "https://9to5mac.com/2026/09/25/deals-mac-studio-airpods-pro-3-powerbeats/",
+      "publishedAt": "2026-09-25T15:28:21.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-Pro-Mac-Studio-Beats.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AmazonのセールでAirPods Pro 3などが割引に",
+      "summaryJa": "Amazonの早期プライムデーセールにて、最新のAirPods Pro 3が通常より50ドル引きで販売されています。ほかにもM5 Max搭載のMac StudioやPowerbeats Pro 2などのApple関連製品がセールの対象となっており、お得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "67d41cae4342b87ff02c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPad Mini With A20 Pro, New HomePod Mini Colors, and New Apple TV 4K All Just Leaked",
+      "url": "https://www.macrumors.com/2026/09/25/new-ipad-mini-homepod-mini-apple-tv-leaked/",
+      "publishedAt": "2026-09-25T15:18:37.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/HomePod-minis-Apple-TV-and-iPad-mini-Leak-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型iPad miniやHomePod miniなどの情報が流出か",
+      "summaryJa": "次期iPad mini、HomePod mini、Apple TV 4Kに関する詳細情報が新たにリークされました。新型iPad miniにはA20 Proチップが搭載され、フロントカメラの位置が変更されると伝えられています。これらは10月にも発表されるのではないかと注目を集めています。"
+    },
+    {
+      "id": "64eb9e84713db900bee7",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPad Mini 8 Leaked: A20 Pro Chip, Landscape Camera, and More",
+      "url": "https://www.macrumors.com/2026/09/25/ipad-mini-8-leaked/",
+      "publishedAt": "2026-09-25T15:18:06.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPad-mini-7-feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "次期iPad miniの詳細が流出、A20 Pro搭載か",
+      "summaryJa": "Appleのコードから次期iPad miniに関する情報が判明し、A20 Proチップの搭載や横向き仕様のフロントカメラ、新しいスピーカーシステムが採用されると報じられています。外観の一部に変更が見られ、Bloombergのマーク・ガーマン記者は10月末までの発売を予想しています。"
+    },
+    {
+      "id": "0a523bd3e38fe80ae87f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Exclusive: First Look at HomePod Mini 2 in Three New Colors",
+      "url": "https://www.macrumors.com/2026/09/25/first-look-at-homepod-mini-2/",
+      "publishedAt": "2026-09-25T15:17:25.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/HomePod-minis-on-gradient-feature-1-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "HomePod mini 2、新色がコード内から発見か",
+      "summaryJa": "Appleの内部コードから、新色を含む新型HomePod miniの存在が明らかになったと報じられています。デザインは現行モデルを踏襲しつつ、ブルーの色合いが調整され、グリーンやピンクなど5色の展開になるとみられています。コード内の記述から、近日中の発売が期待される状況です。"
+    },
+    {
+      "id": "61b26eed9e1a95d70815",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Apple TV 4K Leaked",
+      "url": "https://www.macrumors.com/2026/09/25/new-apple-tv-4k-leaked/",
+      "publishedAt": "2026-09-25T15:16:44.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "新型Apple TV 4Kの画像ファイルが流出か",
+      "summaryJa": "未発表のApple TV 4K（第4世代）の画像ファイルが発見されたと伝えられています。外観のデザインは現行モデルから変わらないものの、内部性能が大幅に向上し、A17 Proチップや8GBのRAMを搭載する可能性があります。また、Wi-Fi 7への対応や、Siri AIおよびApple Intelligenceのサポートが期待されています。"
+    },
+    {
+      "id": "4b7adc8790f863dbc76b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "HomeKit Weekly: ULTRALOQ releases its first UWB smart lock that works with Apple Home",
+      "url": "https://9to5mac.com/2026/09/25/ultraloq-bolt-mission/",
+      "publishedAt": "2026-09-25T15:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Bolt-Mission-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ULTRALOQ、Apple Home対応のUWBスマートロックを発表",
+      "summaryJa": "ULTRALOQがApple Homeに対応した同社初の超広帯域無線（UWB）スマートロック「Bolt Mission」を発表しました。従来のGPSやBluetoothによる位置情報に基づく自動解錠とは異なり、UWBとレーダーによる存在検知を活用して正確な距離と方向を認識します。これにより、クラウド接続を必要とせず、ユーザーがドアに近づくだけでハンズフリーでの解錠が可能になります。"
+    },
+    {
+      "id": "c18bb1905d748d39cda6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple has big October coming for new hardware and software, here’s the lineup",
+      "url": "https://9to5mac.com/2026/09/25/apple-has-big-october-coming-for-new-hardware-and-software-heres-the-lineup/",
+      "publishedAt": "2026-09-25T14:44:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、10月に新製品やソフトウェアの大型発表を控える",
+      "summaryJa": "Appleが10月に多数のハードウェアおよびソフトウェアの発表を予定していると報じられています。折りたたみ式iPhoneの発売に加え、新チップを搭載したMacや、Apple TV 4K、HomePod miniの新型などの登場が期待されています。詳細なラインナップと今後の動向に注目が集まっています。"
+    },
+    {
+      "id": "fae80139726097f3a06e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo video shows left-handed use for new model",
+      "url": "https://9to5mac.com/2026/09/25/iphone-duo-video-shows-left-handed-use-for-new-model/",
+      "publishedAt": "2026-09-25T13:45:26.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-1.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone Duoの左手持ち操作を試す動画が公開",
+      "summaryJa": "発売が迫る新型デバイス「iPhone Duo」の左手での操作性を検証する動画が公開されました。同端末は右手持ちを前提とした設計になっており、ヒンジの位置やドックの配置が右側に寄っています。左利きや左手操作を好むユーザーにとって使い勝手がどうなるか注目されますが、購入を検討する際は店頭などで実際に試すことが推奨されています。"
+    },
+    {
+      "id": "8bfcaa45b78216a78986",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Wallet in iOS 27 adds feature that’s been on my wishlist for years",
+      "url": "https://9to5mac.com/2026/09/25/apple-wallet-in-ios-27-adds-feature-thats-been-on-my-wishlist-for-years/",
+      "publishedAt": "2026-09-25T13:10:12.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-red-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27のApple Wallet、物理パスの取り込みに対応",
+      "summaryJa": "iOS 27のApple Walletアプリでは、長年望まれていた物理パスや会員証の取り込み機能が新たに追加されました。カメラアプリのSiriモードなどを使い、バーコードが付いた物理カードを撮影するだけで簡単にWalletへ保存できるようになります。これにより、紙のチケットや会員証を忘れたり持ち歩いたりする手間が省け、日常の利便性が大きく向上します。"
+    },
+    {
+      "id": "2ebdf9e9999478beb065",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AirPods just got a long-requested feature in new software update",
+      "url": "https://9to5mac.com/2026/09/25/airpods-just-got-a-long-requested-feature-in-new-update/",
+      "publishedAt": "2026-09-25T12:04:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/10-AirPods-EQ-iOS-27-Beta.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPods向けソフトウェアアップデートでカスタムEQ機能が登場",
+      "summaryJa": "Appleは対応するAirPods向けに新しいソフトウェアアップデートを配信し、ユーザーから長年要望されていたカスタムイコライザー（EQ）機能を追加しました。設定アプリから低音、中音、高音の調整が可能になり、Apple Musicの楽曲を再生しながらリアルタイムで音質の変化を確認できます。高度な調整機能ではありませんが、好みに合わせたサウンドプロファイルのカスタマイズが手軽に行えるようになります。"
+    },
+    {
+      "id": "54c6b98c242bde21a8ca",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Create a Custom Pass in the Wallet App on iPhone",
+      "url": "https://www.macrumors.com/how-to/create-a-custom-pass-in-the-wallet-app-on-iphone/",
+      "publishedAt": "2026-09-25T10:44:22.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/wallet-app-create-a-pass.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhoneのWalletアプリでカスタムパスを作成する方法",
+      "summaryJa": "iOS 27のWalletアプリでは、イベントのチケットや会員証などのカスタムパスを自作できるようになりました。ビジュアルインテリジェンス機能を使って物理カードをスキャンするか、手動でテンプレートを選択することで、簡単にデジタル化して保存できます。背景色や詳細な項目も自由にカスタマイズ可能で、デジタル対応していない紙のカードをまとめて管理するのに便利です。"
+    },
+    {
       "id": "00ca0ddcdc5b0ceed3f9",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4324,190 +4504,9 @@
       ],
       "titleJa": "iOS 27におけるメッセージアプリの新機能まとめ",
       "summaryJa": "iOS 27では、メッセージアプリに手書きメモやスケッチを送信できる「描画」機能が追加されます。また、AndroidユーザーとのRCSメッセージングにおいても、インライン返信やタップバックリアクションのサポートなど、多くの歓迎すべきアップグレードが含まれています。さらに、Apple Intelligenceを活用した「ワンタップ提案」により、文脈に応じたリマインダー作成などが容易になります。"
-    },
-    {
-      "id": "7d6e4d58d6e365560f5a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Addigy launches Intelligence Suite, giving IT teams control over how AI is used across their fleet",
-      "url": "https://9to5mac.com/2026/09/17/addigy-launches-intelligence-suite-giving-it-teams-control-over-how-ai-is-used-across-their-fleet/",
-      "publishedAt": "2026-09-17T13:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Addigy-1-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Addigy、IT管理者向けのAI管理スイートを発表",
-      "summaryJa": "Addigyは、企業や組織におけるAIツールの利用を管理・制御するための「Intelligence Suite」を発表しました。IT管理者はコンプライアンスを強化しつつ、承認されたAIツールを安全に展開できるようになります。スクリプトのアシスト機能や自然言語によるレポート作成など、管理業務を効率化する様々なツールがプラットフォームに直接統合されています。"
-    },
-    {
-      "id": "9d13fd864934a5f6bb73",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "A Woz merch store is the most surprising launch this month",
-      "url": "https://9to5mac.com/2026/09/17/a-woz-merch-store-is-the-most-surprising-launch-this-month/",
-      "publishedAt": "2026-09-17T12:49:33.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/A-Woz-merch-store-is-the-most-surprising-launch-this-month.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleの共同創業者スティーブ・ウォズニアックが公式グッズストアを開設",
-      "summaryJa": "Appleの共同創業者であるスティーブ・ウォズニアックが、自身の公式グッズストアを新たにオープンしました。Tシャツやパーカー、マグカップなどの定番アイテムに加え、シャルドネのワインも販売されており、ファンを楽しませています。このストアはSNSを通じて発表され、早くも話題を集めています。"
-    },
-    {
-      "id": "aa52231934791f133034",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "General Motors continues CarPlay backtrack on two truck models",
-      "url": "https://9to5mac.com/2026/09/17/general-motors-continues-carplay-backtrack-on-two-truck-models/",
-      "publishedAt": "2026-09-17T12:12:02.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/General-Motors-adopts-CarPlay-compromise-on-two-truck-models.webp?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "GM、一部のトラックモデルでCarPlay対応を一部復活へ",
-      "summaryJa": "米GMは、将来の電気自動車からCarPlayを廃止する方針を示していましたが、一部のトラックモデルにおいてCarPlayをサポートする方向へ舵を切っています。新しいインフォテインメントインターフェイスでは、画面の一部にCarPlayやAndroid Autoを表示する分割レイアウトが採用されます。ユーザーからの反発や、物理操作を重視する規制の動きが背景にあると見られています。"
-    },
-    {
-      "id": "b87a5263bc27b001d0b2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 and Ultra 4 review: More personal than ever before",
-      "url": "https://9to5mac.com/2026/09/17/apple-watch-series-12-and-ultra-4-review/",
-      "publishedAt": "2026-09-17T12:00:41.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ultra-4-2.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Series 12およびUltra 4レビュー：内部進化を詳解",
-      "summaryJa": "新しいヘルスセンシングシステムを搭載し、長年の健康トラッキングにおける最大級の改良が施されたApple Watch Series 12とUltra 4のレビューが公開されました。外観デザインは従来モデルを踏襲しつつ、アルミニウムモデルの前面ガラスがCeramic Shield 2に変更されるなどの細かな改良が行われています。"
-    },
-    {
-      "id": "b7855852e1101155f965",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Some memory for Apple devices may be made in the US for the first time",
-      "url": "https://9to5mac.com/2026/09/17/some-memory-for-apple-devices-may-be-made-in-the-us-for-the-first-time/",
-      "publishedAt": "2026-09-17T11:37:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/ifixit-iphone-17-pro-teardown.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Appleのメモリチップ、米国製への切り替えを検討か",
-      "summaryJa": "Appleのメモリ供給企業であるSKハイニックスが、インテルが計画するオハイオ州の半導体工場を活用し、米国初となるApple向けメモリチップの国内生産について協議を行っていると報じられています。実現すれば、DRAMやNANDフラッシュメモリが米国本土で製造される可能性がありますが、韓国政府からの反対に直面する懸念も示されています。"
-    },
-    {
-      "id": "467723775dee19ff703e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Which iOS 27 CarPlay Features Actually Work in Your Car?",
-      "url": "https://www.macrumors.com/2026/09/17/which-ios-27-carplay-features-actually-work/",
-      "publishedAt": "2026-09-17T11:17:46.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/03/ios-27-carplay-liquid-glass.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27のCarPlayで利用可能になった新機能の数々",
-      "summaryJa": "iOS 27でCarPlayが大幅にアップデートされ、ホーム画面のウィジェット追加やオーディオのスクラブ機能など、長年で最大級の新機能が多数追加されました。自然言語によるマップ検索や新しい壁紙、カスタムウィジェットなどは対応する車両や環境によって利用できる機能が異なります。"
-    },
-    {
-      "id": "abee571f6392457bb352",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Tim Cook keeping John Ternus away from controversy by attending White House dinner",
-      "url": "https://9to5mac.com/2026/09/17/tim-cook-keeping-john-ternus-away-from-controversy-by-attending-white-house-dinner/",
-      "publishedAt": "2026-09-17T11:10:13.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/tim-cook-john-ternus.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ティム・クック、執行会長としてホワイトハウスの晩餐会に出席へ",
-      "summaryJa": "Appleの最高経営責任者を退いたティム・クックが、執行会長として政府関連の外交や政策立案者との折衝を引き続き担当していることが伝えられています。新CEOのジョン・ターナスを政治的論争から守る役割も担っており、来週予定されている米中首脳会談に伴うホワイトハウスの晩餐会に出席する見込みです。"
-    },
-    {
-      "id": "36818d564c6fdfe385ea",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "PSA: watchOS 27 Removes This Useful Feature From Your Apple Watch",
-      "url": "https://www.macrumors.com/2026/09/17/watchos-27-removes-useful-apple-watch-feature/",
-      "publishedAt": "2026-09-17T08:34:26.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-ultra-4-live-rewind.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "watchOS 27でデジタルクラウンのダブルクリック機能が変更か",
-      "summaryJa": "watchOS 27のアップデートに伴い、Apple Watchでアプリ間を素早く切り替えていたデジタルクラウンのダブルクリック機能が利用できなくなると報じられています。新機能のライブリワインドに割り当てられるためですが、対応ハードウェアを持たない旧モデルのユーザーも含めて動作が変更され、動的なアプリグリッドが表示される仕様になります。これにより、従来の便利なマルチタスキング操作が制限されることになります。"
-    },
-    {
-      "id": "85c77eacbea274429688",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "「ウィドウズ・ベイ」が初年度のコメディシリーズとして、エミー賞史上最多の受賞という快挙を達成",
-      "url": "https://www.apple.com/jp/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
-      "publishedAt": "2026-09-17T03:25:17.298Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "Apple TVのコメディシリーズ「ウィドウズ・ベイ」がエミー賞で最多受賞の快挙",
-      "summaryJa": "第78回プライムタイム・エミー賞において、Apple TVのコメディシリーズ「ウィドウズ・ベイ」が初年度作品として史上最多となる14の賞を獲得しました。Apple TV全体でも合計29の賞に輝き、全ネットワークで今年最多の受賞数を記録しています。優れたストーリーテラーたちとの取り組みが評価され、サービス開始から短期間での快挙達成となりました。"
-    },
-    {
-      "id": "bec7a006184a12ea946d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple rolls out first Release Candidates for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1",
-      "url": "https://9to5mac.com/2026/09/16/apple-rolls-out-first-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
-      "publishedAt": "2026-09-17T02:18:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/macOS-Tahoe.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOS Tahoe 26.7.1とmacOS Sequoia 15.8.1のRC版を公開",
-      "summaryJa": "Appleは、macOS Tahoe 26.7.1およびmacOS Sequoia 15.8.1の最初のリリース候補版（RC）を開発者向けに配信開始しました。今回のマイナーアップデートは重要なセキュリティ修正を提供するものであり、すべてのユーザーに推奨されています。ソフトウェア開発とバグ修正を加速させる取り組みの一環として実施されました。"
-    },
-    {
-      "id": "be1e922bdb9039cc94ad",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Photographer Tyler Stalman reviews the iPhone 18 Pro’s new camera with variable aperture",
-      "url": "https://9to5mac.com/2026/09/16/photographer-tyler-stalman-reviews-the-iphone-18-pros-new-camera-with-variable-aperture/",
-      "publishedAt": "2026-09-17T01:24:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/tyler-review.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの新しい可変絞りカメラを写真家がレビュー",
-      "summaryJa": "写真家のタイラー・ストールマン氏が、iPhone 18 Proに搭載された新しい可変絞りシステムや写真スタイルなどのカメラ機能をレビューしました。新たに採用されたf/1.48の明るい絞りにより多くの光を取り込めるようになり、暗所でのISO感度上昇やナイトモードの必要性を抑えられると評価されています。"
-    },
-    {
-      "id": "5aba958929d26350f5f1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Everything New in iOS 27.2 Beta 1",
-      "url": "https://www.macrumors.com/guide/ios-27-2-beta-features/",
-      "publishedAt": "2026-09-16T23:44:59.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27.2 Beta 1が登場、刷新されたヘルスケアアプリやSiriの対応言語追加など",
-      "summaryJa": "Appleは「iOS 27.2 Beta 1」を新たに公開しました。このベータ版には、9月のイベントで発表されたインサイトや長寿データなどを管理できる刷新されたヘルスケアアプリが含まれています。また、Siri AIの対応言語に日本語やフランス語などが追加されたほか、通話コンテキストの記念日アラート機能なども実装されています。"
     }
   ],
-  "updatedAt": "2026-09-25T10:31:52.883Z",
+  "updatedAt": "2026-09-25T15:31:13.034Z",
   "initialized": true,
   "summaryVersion": 4
 }
