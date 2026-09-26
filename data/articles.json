@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "d198d1a946d4aaca67af",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI accuses Apple of improperly adding new evidence to trade secrets case",
+      "url": "https://9to5mac.com/2026/09/25/openai-accuses-apple-of-improperly-adding-new-evidence-to-trade-secrets-case/",
+      "publishedAt": "2026-09-26T01:14:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、Appleの営業秘密訴訟における新証拠の却下を要求か",
+      "summaryJa": "Appleが提起した営業秘密の不正流用をめぐる訴訟において、OpenAIなどの被告側が裁判所に対し、Appleが最近提出した専門家の陳述書などの新証拠を却下するよう求めていると報じられています。Appleは、元従業員が退職後に機密情報にアクセスしてOpenAIのハードウェア開発に利用したと主張し、仮処分を求めて法的な攻防を続けています。"
+    },
+    {
       "id": "2f867176311e3c9a4217",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "iOS 27のiCloud+加入者向けAI特典",
       "summaryJa": "今週リリースされた「iOS 27」において、iCloud+加入者向けの新しいApple Intelligence関連の特典が提供されています。サーバーモデルを使用する画像生成などのAI機能で、iCloud+の加入者は通常よりも高い利用制限の緩和恩恵を受けられます。また、HomeKit Secure Videoのアップグレードにより、対応ホームカメラのAI映像説明やクリップ検索などの便利な機能も利用可能になります。"
-    },
-    {
-      "id": "522a6ed1bf4a4f2e5aaf",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "PDF Expert update adds handwriting recognition, expands Apple Pencil support, more",
-      "url": "https://9to5mac.com/2026/09/17/pdf-expert-update-adds-handwriting-recognition-expands-apple-pencil-support-more/",
-      "publishedAt": "2026-09-17T20:03:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/pdfexpert-ipados27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "PDF Expertがアップデート、手書き文字認識やApple Pencil Proのスクイーズ操作に対応",
-      "summaryJa": "PDFエディタアプリ「PDF Expert」がアップデートされ、新たに29言語に対応した手書き文字の検索や認識機能が追加されました。手書きのメモや注釈がテキストとしてインデックス化され、ライブラリ全体から簡単に探し出せるようになります。また、Apple Pencil Proのスクイーズジェスチャーによるツールパレットの呼び出しもサポートされ、作業効率が向上しています。"
     }
   ],
-  "updatedAt": "2026-09-26T00:56:38.120Z",
+  "updatedAt": "2026-09-26T06:05:03.541Z",
   "initialized": true,
   "summaryVersion": 4
 }
