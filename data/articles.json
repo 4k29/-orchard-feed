@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "2f867176311e3c9a4217",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27 adds new Apple Intelligence features to your favorite apps",
+      "url": "https://9to5mac.com/2026/09/25/macos-27-adds-new-apple-intelligence-features-to-your-favorite-apps/",
+      "publishedAt": "2026-09-25T23:24:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "macOS 27が正式リリース、Apple Intelligence機能が各アプリで強化",
+      "summaryJa": "Appleは数ヶ月のベータテストを経て、macOS 27を一般向けにリリースしました。写真アプリの空間リフレーミングや拡張機能、Safariのタブ自動グループ化など、システム全体にApple Intelligenceの新しい機能が組み込まれています。自然言語によるカスタム機能の作成など、日々の操作をより効率化するアップデートとなっています。"
+    },
+    {
+      "id": "ff75297152fbded432fc",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s dimensional drawings offer a fascinating look at its product designs",
+      "url": "https://9to5mac.com/2026/09/25/apples-dimensional-drawings-offer-a-fascinating-look-at-its-product-designs/",
+      "publishedAt": "2026-09-25T23:07:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-dimensional-drawings.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、開発者向けに公開している詳細なプロダクト設計図を解説",
+      "summaryJa": "Appleがアクセサリメーカー向けに公開している、多数のデバイスに関する非常に詳細な寸法図や技術資料が注目を集めています。iPhoneやApple Watch、AirPodsなどの製品寸法からボタンやカメラの位置まで正確に網羅されており、ハードウェアや工業デザインの愛好家にとっても興味深い内容となっています。"
+    },
+    {
       "id": "61a71a3e82ef52abb08a",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4474,39 +4504,9 @@
       ],
       "titleJa": "PDF Expertがアップデート、手書き文字認識やApple Pencil Proのスクイーズ操作に対応",
       "summaryJa": "PDFエディタアプリ「PDF Expert」がアップデートされ、新たに29言語に対応した手書き文字の検索や認識機能が追加されました。手書きのメモや注釈がテキストとしてインデックス化され、ライブラリ全体から簡単に探し出せるようになります。また、Apple Pencil Proのスクイーズジェスチャーによるツールパレットの呼び出しもサポートされ、作業効率が向上しています。"
-    },
-    {
-      "id": "38f2756ddc527c5f0de5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "New iPhone 18 Pro Models Will Have Day One Update",
-      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-day-one-update/",
-      "publishedAt": "2026-09-17T19:25:14.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型iPhone 18 Pro、初期設定時にソフトウェアアップデートが必要に",
-      "summaryJa": "明日発売される「iPhone 18 Pro」や「iPhone 18 Pro Max」、「Apple Watch Series 12」などの新製品を受け取ったユーザーは、初期設定の際にソフトウェアアップデートの適用が必要になると報じられています。出荷時のOSバージョンが公式のローンチバージョンよりもわずかに古いため、セットアップ時に最新版への更新が求められます。AirPodsについても同様に、ファームウェアのアップデートが順次適用される見込みです。"
-    },
-    {
-      "id": "4bba52759ddc35ad5939",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "macOS 27: Siri AI top features – Apple’s assistant finally comes to life [Video]",
-      "url": "https://9to5mac.com/2026/09/17/macos-27-golden-gate-siri-ai-top-features-apples-assistant-finally-comes-to-life-video/",
-      "publishedAt": "2026-09-17T18:45:52.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-macos-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "macOS 27ベータ版で大幅に進化を遂げたSiri",
-      "summaryJa": "今週リリースされたmacOS 27のベータ版において、SiriがSpotlight検索と深く統合され、Mac上で大きく進化しました。個人のコンテキストを考慮しながらプライバシーを重視した設計となっており、従来のメニューバーやショートカットから脱却し、より自然で実用的なアシスタントとして生まれ変わっています。"
     }
   ],
-  "updatedAt": "2026-09-25T22:44:45.118Z",
+  "updatedAt": "2026-09-26T00:56:38.120Z",
   "initialized": true,
   "summaryVersion": 4
 }
