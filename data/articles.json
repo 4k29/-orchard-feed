@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "a72443006e85dcf72a5c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "watchOS 27: 12 New Things To Check Out on Your Apple Watch",
+      "url": "https://www.macrumors.com/guide/watchos-27-new-things-apple-watch/",
+      "publishedAt": "2026-09-26T07:30:06.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/watchOS-27-Hands-On-Thumb.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "watchOS 27が登場、注目の新機能12選",
+      "summaryJa": "AppleはwatchOS 27をリリースし、対応するApple Watch向けに多くの新機能と変更点を提供開始しました。専用のSiriアプリや便利なSiri文字盤をはじめ、動的なアプリグリッド、新しいタップジェスチャーなどが利用可能になり、使い勝手が大きく向上しています。"
+    },
+    {
       "id": "d198d1a946d4aaca67af",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "Apple Oneの3カ月無料トライアル提供へ",
       "summaryJa": "対象となる新しいiPhone、iPad、Macを購入した新規および条件を満たす復帰ユーザーを対象に、「Apple One」の3カ月無料トライアルの提供が開始されました。インディビジュアル、ファミリー、プレミアの各プランから選択でき、利用終了後には自動的に通常の月額料金が課金されます。日本を含む多くの国と地域で利用可能となっており、デバイスの「設定」アプリから手続きが行えます。"
-    },
-    {
-      "id": "9d8a5ffd0d5447e9c06f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iCloud+ subscribers just got new benefits in iOS 27",
-      "url": "https://9to5mac.com/2026/09/17/icloud-subscribers-just-got-new-benefits-in-ios-27/",
-      "publishedAt": "2026-09-17T20:05:33.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27のiCloud+加入者向けAI特典",
-      "summaryJa": "今週リリースされた「iOS 27」において、iCloud+加入者向けの新しいApple Intelligence関連の特典が提供されています。サーバーモデルを使用する画像生成などのAI機能で、iCloud+の加入者は通常よりも高い利用制限の緩和恩恵を受けられます。また、HomeKit Secure Videoのアップグレードにより、対応ホームカメラのAI映像説明やクリップ検索などの便利な機能も利用可能になります。"
     }
   ],
-  "updatedAt": "2026-09-26T06:05:03.541Z",
+  "updatedAt": "2026-09-26T11:18:19.111Z",
   "initialized": true,
   "summaryVersion": 4
 }
