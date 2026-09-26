@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "41b97c0bf56cfb83852c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12 one week later: There’s so much more than meets the eye",
+      "url": "https://9to5mac.com/2026/09/26/apple-watch-series-12-one-week-later/",
+      "publishedAt": "2026-09-26T16:59:27.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC03046.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch Series 12の1週間使用レビュー、進化点とバッテリー事情",
+      "summaryJa": "Apple Watch Series 12を1週間使用したレビューが公開されました。新機能のSiriレキャップや心拍数モニターの精度向上に加え、バッテリー持ちや高速充電の進化が大きな魅力となっています。特に睡眠トラッキング時の充電ストレスが大幅に軽減され、より快適な利用が可能になったと評価されています。"
+    },
+    {
       "id": "77ab741b56a46841fd20",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "macOS 27の写真アプリ、Apple Intelligenceを活用した新機能が登場",
       "summaryJa": "macOS 27のゴールデンゲート版における写真アプリでは、大幅な刷新はないものの、多彩な新機能や改良が導入されています。Apple Intelligenceを活用した強力な編集機能として、クリーンアップの精度向上や画像拡張ツールなどが追加されました。また、iCloud共有アルバムも高解像度への対応や利便性の向上が図られています。"
-    },
-    {
-      "id": "a9cf29bc7d01ca12bb3c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple showcases iPhone 18 Pro camera with new ‘What Holds Us’ photography exhibition",
-      "url": "https://9to5mac.com/2026/09/17/apple-showcases-iphone-18-pro-camera-with-new-what-holds-us-photography-exhibition/",
-      "publishedAt": "2026-09-17T21:42:41.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/what-holds-us.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPhone 18 Proのカメラ性能を紹介する写真展を開催",
-      "summaryJa": "Appleはニューヨークで、iPhone 18 Proのカメラ性能をアピールするための写真展「What Holds Us」を開催しています。著名な写真家らが新モデルのカメラを用いて撮影した作品が展示されており、可変絞りを含む高度なカメラシステムがもたらす多彩な表現力が披露されています。参加した写真家らは、高い解像度や携帯性に驚きの声を上げています。"
     }
   ],
-  "updatedAt": "2026-09-26T15:03:08.752Z",
+  "updatedAt": "2026-09-26T18:31:58.437Z",
   "initialized": true,
   "summaryVersion": 4
 }
