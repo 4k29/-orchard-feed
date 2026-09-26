@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "77ab741b56a46841fd20",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "These are my favorite iPhone 18 Pro & Pro Max cases so far [Video]",
+      "url": "https://9to5mac.com/2026/09/26/these-are-my-favorite-iphone-18-pro-pro-max-cases-so-far-video/",
+      "publishedAt": "2026-09-26T14:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Cases.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro向けおすすめケース紹介",
+      "summaryJa": "発売から1週間が経過したiPhone 18 ProおよびiPhone 18 Pro Maxに向けて、数多くのケースから厳選したお気に入りの製品が紹介されています。特に本体のデザインを損なわない超薄型軽量のアラミド繊維を採用したケースなどが取り上げられており、デバイスを保護するための選択肢として参考になります。"
+    },
+    {
+      "id": "f18861e1f4939cb17d17",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Top Stories: Apple Leaks, Siri AI Settlement, and More",
+      "url": "https://www.macrumors.com/2026/09/26/top-stories-apple-leaks-siri-ai-settlement/",
+      "publishedAt": "2026-09-26T13:00:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/top-stories-2026-09-26.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "未発表のiPad miniやHomePod miniに関する情報が流出か",
+      "summaryJa": "次期iPad miniやHomePod mini、Apple TV 4Kなどの新製品に関する詳細が報じられています。これらは10月に開催される可能性のある新製品発表イベントに合わせて登場するとみられており、A20 Proチップの搭載や新しい本体カラーの追加などが期待されています。また、SiriのAI機能の遅延を巡る集団訴訟の和解金請求手続きも開始されました。"
+    },
+    {
+      "id": "8762a9647a0fe79ea11b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work: The enterprise needs to kill the SSO tax, and it’s an opportunity for Apple",
+      "url": "https://9to5mac.com/2026/09/26/apple-work-the-enterprise-needs-to-kill-the-sso-tax-and-its-an-opportunity-for-apple/",
+      "publishedAt": "2026-09-26T13:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "エンタープライズにおけるシングルサインオンの課題とAppleの好機",
+      "summaryJa": "企業向けソフトウェアにおけるシングルサインオン機能の価格設定や導入の難しさについて議論されています。多くのベンダーが高価格帯のプランでのみ同機能を提供している現状がセキュリティ上のリスクを招いており、Appleがこの分野へ参入または買収を行うことで大きなチャンスになるという見解が示されています。"
+    },
+    {
+      "id": "a7ad0a3d6d74e45fbc3f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Weekend Apple deals: Beats 360, AirPods Pro 3, Mac Studio, MacBook Air, more",
+      "url": "https://9to5mac.com/2026/09/26/apple-deals-this-week-best/",
+      "publishedAt": "2026-09-26T12:42:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-Apple-deals-of-week.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPods Pro 3やMacシリーズの週末割引セール情報",
+      "summaryJa": "Amazonのセールおよび各所の割引企画に伴い、AirPods Pro 3やM5搭載のMacBook Air、Mac StudioなどのApple製品がお得な価格で販売されています。Beats 360オーバーイヤーヘッドホンや旧モデルのApple Watch Ultra 3などもセールの対象となっており、アクセサリ類も含めて幅広い製品が割引価格で提供されています。"
+    },
+    {
       "id": "a72443006e85dcf72a5c",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4444,69 +4504,9 @@
       ],
       "titleJa": "Apple、iPhone 18 Proのカメラ性能を紹介する写真展を開催",
       "summaryJa": "Appleはニューヨークで、iPhone 18 Proのカメラ性能をアピールするための写真展「What Holds Us」を開催しています。著名な写真家らが新モデルのカメラを用いて撮影した作品が展示されており、可変絞りを含む高度なカメラシステムがもたらす多彩な表現力が披露されています。参加した写真家らは、高い解像度や携帯性に驚きの声を上げています。"
-    },
-    {
-      "id": "f10b59facf9b46b5e37f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Out-of-warranty iPhone 18 Pro batteries are more expensive to replace",
-      "url": "https://9to5mac.com/2026/09/17/out-of-warranty-iphone-18-pro-batteries-are-more-expensive-to-replace/",
-      "publishedAt": "2026-09-17T20:47:09.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-battery.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Pro、保証対象外のバッテリー交換費用が値上げ",
-      "summaryJa": "Appleのサポートページによると、iPhone 18 ProおよびPro Maxの保証対象外におけるバッテリー交換費用が従来より10ドル値上げされ、129ドルに変更されました。これはバッテリー容量の増加などが背景にあるとみられています。また、画面や背面ガラス、カメラなどの各種修理料金もあわせて公開されています。"
-    },
-    {
-      "id": "42ca28efd1144e29857d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Launching Tomorrow With These 10 New Features",
-      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-release-date-and-features/",
-      "publishedAt": "2026-09-17T20:45:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの主要な新機能10選",
-      "summaryJa": "Appleが発表した「iPhone 18 Pro」および「iPhone 18 Pro Max」は、iPhone初の2nmプロセスを採用した「A20 Pro」チップを搭載しています。新色のバーガンディやブラック、グラシアが追加され、Dynamic Islandの小型化や可変絞りに対応した48メガピクセルのメインFusionカメラが備わっています。バッテリー駆動時間の向上やプロ向けの細かな手動制御機能なども盛り込まれており、発売が開始されています。"
-    },
-    {
-      "id": "402227148c27c9819a10",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro and Apple Watch Series 12 hands-on review, iOS 27 released",
-      "url": "https://9to5mac.com/2026/09/17/happy-hour-608/",
-      "publishedAt": "2026-09-17T20:44:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proと新型Apple Watchのハンズオン",
-      "summaryJa": "発売を控えた「iPhone 18 Pro」や新しい「Apple Watch」の実機テストに関するレビューが公開されています。また、最新のオペレーティングシステムが一般向けにリリースされ、新しいOS環境の試用レポートも伝えられています。さらに、AppleがiPhone向けの独自ゲームコントローラーを開発しているという噂も浮上しています。"
-    },
-    {
-      "id": "151c895ff4576896e6d5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "How to Get the New 3-Month Trial of Apple One Premier ($120 Value)",
-      "url": "https://www.macrumors.com/2026/09/17/apple-one-three-month-trial/",
-      "publishedAt": "2026-09-17T20:23:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-One-on-Gradient.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Oneの3カ月無料トライアル提供へ",
-      "summaryJa": "対象となる新しいiPhone、iPad、Macを購入した新規および条件を満たす復帰ユーザーを対象に、「Apple One」の3カ月無料トライアルの提供が開始されました。インディビジュアル、ファミリー、プレミアの各プランから選択でき、利用終了後には自動的に通常の月額料金が課金されます。日本を含む多くの国と地域で利用可能となっており、デバイスの「設定」アプリから手続きが行えます。"
     }
   ],
-  "updatedAt": "2026-09-26T11:18:19.111Z",
+  "updatedAt": "2026-09-26T15:03:08.752Z",
   "initialized": true,
   "summaryVersion": 4
 }
