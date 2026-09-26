@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "1ab8d5dcd8bac9eab517",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Indie App Spotlight: ‘QuillCue’ levels up your Siri AI experience with stored prompts",
+      "url": "https://9to5mac.com/2026/09/26/indie-app-spotlight-quillcue-siri-ai-prompts/",
+      "publishedAt": "2026-09-26T19:30:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/QuillCue-app.png?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Siriのプロンプトを保存できるカスタムキーボードアプリが登場",
+      "summaryJa": "iOSのSiri AIの機能を補うインディーズのカスタムキーボードアプリ「QuillCue」が登場しました。よく使うプロンプトを保存して簡単に呼び出すことができ、長文や複雑な指示を毎回入力し直す手間を省くことができます。フォルダ分け機能やライブラリのインポート・エクスポートにも対応しています。"
+    },
+    {
       "id": "41b97c0bf56cfb83852c",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "iPhone 18 Proなどの新製品、オーストラリアなどで発売開始",
       "summaryJa": "オーストラリアやニュージーランドを皮切りに、iPhone 18 Proシリーズや新しいApple Watch、AirPodsの販売が開始されました。予約した顧客の手元に製品が届き始め、世界各地のApple Storeでも順次店頭販売や予約品の受け取りが始まっています。今後はアジアや中東、ヨーロッパ、北米へと順次販売地域が拡大していく予定です。"
-    },
-    {
-      "id": "31913d80cac3d1f8cebf",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "macOS 27: What’s new for the Photos app?",
-      "url": "https://9to5mac.com/2026/09/17/macos-27-whats-new-for-the-photos-app/",
-      "publishedAt": "2026-09-17T21:52:38.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/photos-macos-27-golden-gate.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "macOS 27の写真アプリ、Apple Intelligenceを活用した新機能が登場",
-      "summaryJa": "macOS 27のゴールデンゲート版における写真アプリでは、大幅な刷新はないものの、多彩な新機能や改良が導入されています。Apple Intelligenceを活用した強力な編集機能として、クリーンアップの精度向上や画像拡張ツールなどが追加されました。また、iCloud共有アルバムも高解像度への対応や利便性の向上が図られています。"
     }
   ],
-  "updatedAt": "2026-09-26T18:31:58.437Z",
+  "updatedAt": "2026-09-26T21:30:03.398Z",
   "initialized": true,
   "summaryVersion": 4
 }
