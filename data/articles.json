@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "fcf35936cbf740a8b80b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "These are the best MacBook deals right now: September 2026 Buyer’s Guide",
+      "url": "https://9to5mac.com/2026/09/26/these-are-the-best-macbook-deals/",
+      "publishedAt": "2026-09-27T02:47:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBook各モデルの現在実施されているお得なセール情報",
+      "summaryJa": "メモリー不足の影響でAppleが価格を引き上げた中、Amazonなどの通販サイトではMacBook Airなどのモデルを対象に割引価格での販売が行われています。新型のMacBook Neoが登場したあとも、MacBook Airは優れた性能と持ち運びやすさを兼ね備えた魅力的な選択肢です。512GBや1TBのストレージを備えたM5搭載の各構成がセール対象となっており、パソコンの買い替えを検討しているユーザーにとって今でもお買い得な選択肢となっています。"
+    },
+    {
       "id": "1ab8d5dcd8bac9eab517",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "Meta、iPhoneおよびMac向けパーソナルAIエージェント「Muse」を発表",
       "summaryJa": "Meta AIは、ユーザーの日常業務をサポートする新しいパーソナルAIエージェント「Muse」をiPhone向けにリリースし、さらにMac向けアプリも順次展開しています。親しみやすいチャットインターフェースを採用し、アバターや名称のカスタマイズが可能です。ファイルやカレンダーなど幅広いアプリと連携する機能を備えており、AIアシスタント市場での競争がさらに活性化しています。"
-    },
-    {
-      "id": "fc51823567dd089c2c6e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "First iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5 Orders Arriving to Customers",
-      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-australia-nz/",
-      "publishedAt": "2026-09-17T21:59:31.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/First-iPhone-18-Pro-Apple-Watch-Series-12-Apple-Watch-Ultra-4-and-AirPods-5-Orders-Arriving-to-Customers-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proなどの新製品、オーストラリアなどで発売開始",
-      "summaryJa": "オーストラリアやニュージーランドを皮切りに、iPhone 18 Proシリーズや新しいApple Watch、AirPodsの販売が開始されました。予約した顧客の手元に製品が届き始め、世界各地のApple Storeでも順次店頭販売や予約品の受け取りが始まっています。今後はアジアや中東、ヨーロッパ、北米へと順次販売地域が拡大していく予定です。"
     }
   ],
-  "updatedAt": "2026-09-27T02:19:24.701Z",
+  "updatedAt": "2026-09-27T08:24:01.116Z",
   "initialized": true,
   "summaryVersion": 4
 }
