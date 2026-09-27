@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "e3c2092355758e07a460",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Amazon Just Knocked $900 Off Apple's Latest 16-Inch MacBook Pro",
+      "url": "https://www.macrumors.com/2026/09/27/2026-macbook-pro-900-off/",
+      "publishedAt": "2026-09-27T15:30:35.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/m5-pro-macbook-pro-launch-day.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazon、M5 Max搭載の16インチMacBook Proを900ドル引きで販売",
+      "summaryJa": "Amazonにて、M5 Maxチップや36GB RAM、2TB SSDを搭載した最新の16インチMacBook Proが通常4,399.00ドルから900ドル引きの3,499.00ドルで販売されています。夏の価格改定以降では最大級の割引となっており、上位モデルの48GB RAM搭載版も500ドル引きの特価で提供されています。Apple関連の大型セールとして注目を集めています。"
+    },
+    {
+      "id": "1f402ebd77c7fc0cc9e8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: Apple working on new Vision Pro, with different form factors on the table",
+      "url": "https://9to5mac.com/2026/09/27/apple-working-on-new-lighter-vision-pro-version/",
+      "publishedAt": "2026-09-27T14:47:05.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/vision-pro-m50001.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、次世代Vision Proや異なるデザイン案を開発中か",
+      "summaryJa": "Appleが新型Vision Proの開発を進めており、複数の異なるフォームファクターが検討されていると報じられています。コードネーム「N224」と呼ばれる新プロジェクトは、現行モデルの後継または軽量・低価格化を視野に入れたもので、2028年末から2029年初頭の登場が見込まれています。デザイン面では軽量化に向けたプラスチック素材の採用なども検討されている模様です。"
+    },
+    {
       "id": "25f909b5f93169d5f0eb",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -14,6 +44,21 @@
       ],
       "titleJa": "Apple、特許侵害訴訟で57億ドルの支払いを命じられるも控訴へ",
       "summaryJa": "米国の陪審団は金曜日、AppleのTaptic EngineがTaction Technologyの特許を侵害しているとして、57億ドルの賠償金を支払うよう評決を下しました。問題となったのは皮膚への振動トラクションに関する2件の特許で、原告側はAppleがイノベーションの成果を利用していると主張していました。これに対しAppleは、自社の技術は原告の技術とは根本的に異なり事実無根であるとして、強く反対し控訴する方針を示しています。"
+    },
+    {
+      "id": "f342db3eba7349a735b0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Best iPhone 18 Pro cases now available for purchase [Update #2]",
+      "url": "https://9to5mac.com/2026/09/27/best-iphone-18-pro-cases-now-available/",
+      "publishedAt": "2026-09-27T08:24:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro向けケース各社から登場、Apple純正やサードパーティ製",
+      "summaryJa": "新型iPhone 18 Proシリーズに向けた保護ケースの販売が各社から開始されています。Apple純正のシリコーンケースやTechWovenケースの新色に加えて、NomadやSpigenなどおなじみのサードパーティ製ブランドからも多彩な選択肢が登場しており、価格やデザインの異なる豊富なアクセサリーが出揃っています。"
     },
     {
       "id": "fcf35936cbf740a8b80b",
@@ -4459,54 +4504,9 @@
       ],
       "titleJa": "裁判所、OpenAIによるAppleとXの和解条項開示の申し立てを却下",
       "summaryJa": "反トラスト法を巡る訴訟において、米連邦地裁の判事はOpenAIによるAppleとXおよびSpaceXAI間の非公開の和解契約書の開示要請を却下しました。X側がAppleとの和解合意に伴い請求を取り下げた後、OpenAI側は防衛に必要であるとして和解条項の提出を求めていましたが、裁判所は審理中の争点に関連する情報はないと判断しました。"
-    },
-    {
-      "id": "2863ae2702efe0887256",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Report: Apple leads slowing true wireless stereo market as open-ear earbuds gain ground",
-      "url": "https://9to5mac.com/2026/09/17/report-apple-leads-slowing-true-wireless-stereo-market-as-open-ear-earbuds-gain-ground/",
-      "publishedAt": "2026-09-18T00:45:55.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-AirPods-Pro-3-lifestyle-01-250909.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ワイヤレスイヤホン市場でAppleが首位を維持、オープンイヤー型も成長",
-      "summaryJa": "最新の市場調査レポートによると、世界の完全ワイヤレスステレオ（TWS）市場全体の出荷量が前年同期比で減少する中、Appleは市場の首位を維持し小幅な成長を記録しました。また、耳の穴を塞がないオープンイヤー型（OWS）デバイスの市場も拡大傾向にあり、各社のシェア争いが続いています。"
-    },
-    {
-      "id": "ba39aa752ddc438b275c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple pushes UK court to lift secrecy around encryption backdoor order",
-      "url": "https://9to5mac.com/2026/09/17/apple-pushes-uk-court-to-lift-secrecy-around-encryption-backdoor-order/",
-      "publishedAt": "2026-09-17T22:56:50.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/apple-icloud-advanced-data-protection.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、暗号化バックドア命令に関する英国政府との法廷闘争を推進",
-      "summaryJa": "Appleは、ユーザーデータの暗号化アクセスを求める非公開命令の存在やその秘匿ルールを巡り、英国の裁判所で争いを続けています。背景には、世界中のユーザーデータに対するバックドア作成要求があったと報じられており、これに伴い英国での高度なデータ保護機能の提供が停止されるなど影響が出ています。Appleは透明性の確保に向け、法的手段を通じて情報開示を強く求めています。"
-    },
-    {
-      "id": "1f10853c0a69b530f41e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Reportedly Accepts Even Higher RAM and Storage Prices in 2027",
-      "url": "https://www.macrumors.com/2026/09/17/apple-higher-ram-storage-prices-2027-report/",
-      "publishedAt": "2026-09-17T22:46:18.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、2027年にRAMとストレージの価格上昇を受け入れか",
-      "summaryJa": "Appleが2027年第1四半期からSamsungに対してDRAMおよびNANDフラッシュメモリの調達費用として、従来よりさらに高い価格を支払うことで合意したと報じられています。AI分野の急拡大に伴うメモリ不足が背景にあり、価格は2026年第3四半期と比較して30%から40%ほど上昇する見込みです。今回の部品価格の高騰が、今後のiPhoneやiPad、Macなどの製品価格にどのような影響を与えるのか注目されています。"
     }
   ],
-  "updatedAt": "2026-09-27T14:12:41.118Z",
+  "updatedAt": "2026-09-27T18:27:16.383Z",
   "initialized": true,
   "summaryVersion": 4
 }
