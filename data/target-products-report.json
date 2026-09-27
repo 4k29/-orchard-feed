@@ -1,51 +1,20 @@
 {
-  "updatedAt": "2026-09-21T09:04:30.951Z",
+  "updatedAt": "2026-09-27T06:52:16.624Z",
   "metadataWarnings": [],
   "summary": {
-    "products": 725,
-    "targets": 150,
-    "missingDocs": 6,
-    "missingPrices": 37,
+    "products": 727,
+    "targets": 152,
+    "missingDocs": 3,
+    "missingPrices": 28,
     "missingPriceDates": 0,
     "duplicateKeys": 0,
-    "airPods": 12,
+    "airPods": 14,
     "watches": 20,
     "macs": 60,
     "missingMacConfigurations": 0
   },
   "duplicateKeys": [],
   "missingDocs": [
-    {
-      "name": "Apple Watch Ultra 4",
-      "family": "Apple Watch",
-      "released": "2026-09-18",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "S11"
-      ],
-      "models": [
-        "A3579",
-        "A3580"
-      ],
-      "identifiers": [
-        "Watch8,1"
-      ],
-      "storage": [],
-      "memory": [],
-      "colors": [
-        {
-          "name": "Titanium - Black",
-          "hex": "4E4949"
-        },
-        {
-          "name": "Titanium - Natural",
-          "hex": "A7A29C"
-        }
-      ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Ultra%204%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
-    },
     {
       "name": "iPhone 18 Pro Max（US）",
       "family": "iPhone",
@@ -80,98 +49,6 @@
         }
       ],
       "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%2018%20Pro%20Max%EF%BC%88US%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
-    },
-    {
-      "name": "iPhone Duo",
-      "family": "iPhone",
-      "released": "2026-10-23",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "A20 Pro"
-      ],
-      "models": [],
-      "identifiers": [
-        "iPhone19,4"
-      ],
-      "storage": [],
-      "memory": [],
-      "colors": [
-        {
-          "name": "Night Sky",
-          "hex": "394452"
-        },
-        {
-          "name": "Star White",
-          "hex": "F7F6F5"
-        }
-      ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%20Duo%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
-    },
-    {
-      "name": "Apple Watch Series 12",
-      "family": "Apple Watch",
-      "released": "2026-09-18",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "S11"
-      ],
-      "models": [
-        "A3581",
-        "A3583",
-        "A3584",
-        "A3585",
-        "A3582",
-        "A3586",
-        "A3587",
-        "A3588"
-      ],
-      "identifiers": [
-        "Watch8,2",
-        "Watch8,3",
-        "Watch8,4",
-        "Watch8,5"
-      ],
-      "storage": [],
-      "memory": [],
-      "colors": [
-        {
-          "name": "Black",
-          "hex": "413D3A"
-        },
-        {
-          "name": "Dark Bronze",
-          "hex": "624F41"
-        },
-        {
-          "name": "Light Gold",
-          "hex": "948372"
-        },
-        {
-          "name": "Space Gray",
-          "hex": "888785"
-        },
-        {
-          "name": "Ceramic - Night Blue",
-          "hex": "909193,293040"
-        },
-        {
-          "name": "Ceramic - Pearl White",
-          "hex": "E4E1DC,E1DAD2"
-        },
-        {
-          "name": "Titanium - Natural",
-          "hex": "CFC8C0,46413D"
-        },
-        {
-          "name": "Titanium - Radiant Gold",
-          "hex": "FBF0D2,635538"
-        }
-      ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Series%2012%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
       "documentationDirect": false
     },
     {
@@ -225,222 +102,6 @@
   ],
   "missingPrices": [
     {
-      "name": "Mac mini（M5 Pro）",
-      "family": "Mac",
-      "released": "2026-09-22",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "M5 Pro"
-      ],
-      "models": [
-        "A3535"
-      ],
-      "identifiers": [
-        "Mac17,16"
-      ],
-      "storage": [
-        "512GB",
-        "1TB",
-        "2TB",
-        "4TB",
-        "8TB"
-      ],
-      "memory": [
-        "24GB",
-        "48GB",
-        "64GB"
-      ],
-      "colors": [
-        {
-          "name": "Silver",
-          "hex": "C9CACC"
-        }
-      ],
-      "documentationUrl": "https://www.apple.com/jp/mac-mini/specs/",
-      "documentationDirect": true
-    },
-    {
-      "name": "Mac mini（M6）",
-      "family": "Mac",
-      "released": "2026-09-22",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "M6"
-      ],
-      "models": [
-        "A3534"
-      ],
-      "identifiers": [
-        "Mac18,5"
-      ],
-      "storage": [
-        "256GB",
-        "512GB",
-        "1TB",
-        "2TB"
-      ],
-      "memory": [
-        "16GB",
-        "24GB",
-        "32GB"
-      ],
-      "colors": [
-        {
-          "name": "Silver",
-          "hex": "C9CACC"
-        }
-      ],
-      "documentationUrl": "https://www.apple.com/jp/mac-mini/specs/",
-      "documentationDirect": true
-    },
-    {
-      "name": "Mac Studio（M5 Max）",
-      "family": "Mac",
-      "released": "2026-09-22",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "M5 Max"
-      ],
-      "models": [
-        "A3545"
-      ],
-      "identifiers": [
-        "Mac17,14"
-      ],
-      "storage": [
-        "512GB",
-        "1TB",
-        "2TB",
-        "4TB",
-        "8TB"
-      ],
-      "memory": [
-        "36GB",
-        "48GB",
-        "64GB",
-        "128GB"
-      ],
-      "colors": [
-        {
-          "name": "Silver",
-          "hex": "C9CACC"
-        }
-      ],
-      "documentationUrl": "https://www.apple.com/jp/mac-studio/specs/",
-      "documentationDirect": true
-    },
-    {
-      "name": "Mac Studio（M5 Ultra）",
-      "family": "Mac",
-      "released": "2026-09-22",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "M5 Ultra"
-      ],
-      "models": [
-        "A3546"
-      ],
-      "identifiers": [
-        "Mac17,15"
-      ],
-      "storage": [
-        "1TB",
-        "2TB",
-        "4TB",
-        "8TB",
-        "16TB"
-      ],
-      "memory": [
-        "96GB",
-        "256GB",
-        "512GB"
-      ],
-      "colors": [
-        {
-          "name": "Silver",
-          "hex": "C9CACC"
-        }
-      ],
-      "documentationUrl": "https://www.apple.com/jp/mac-studio/specs/",
-      "documentationDirect": true
-    },
-    {
-      "name": "Apple Watch Ultra 4",
-      "family": "Apple Watch",
-      "released": "2026-09-18",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "S11"
-      ],
-      "models": [
-        "A3579",
-        "A3580"
-      ],
-      "identifiers": [
-        "Watch8,1"
-      ],
-      "storage": [],
-      "memory": [],
-      "colors": [
-        {
-          "name": "Titanium - Black",
-          "hex": "4E4949"
-        },
-        {
-          "name": "Titanium - Natural",
-          "hex": "A7A29C"
-        }
-      ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Ultra%204%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
-    },
-    {
-      "name": "iPhone 18 Pro Max",
-      "family": "iPhone",
-      "released": "2026-09-18",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "A20 Pro"
-      ],
-      "models": [],
-      "identifiers": [
-        "iPhone19,7"
-      ],
-      "storage": [
-        "256GB",
-        "512GB",
-        "1TB",
-        "2TB"
-      ],
-      "memory": [],
-      "colors": [
-        {
-          "name": "Black",
-          "hex": "3C3C3C"
-        },
-        {
-          "name": "Burgundy",
-          "hex": "4D1822"
-        },
-        {
-          "name": "Glacier",
-          "hex": "E8F2FE"
-        },
-        {
-          "name": "Silver",
-          "hex": "F7F7F7"
-        }
-      ],
-      "documentationUrl": "https://support.apple.com/en-us/148591",
-      "documentationDirect": true
-    },
-    {
       "name": "iPhone 18 Pro Max（US）",
       "family": "iPhone",
       "released": "2026-09-18",
@@ -474,138 +135,6 @@
         }
       ],
       "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%2018%20Pro%20Max%EF%BC%88US%EF%BC%89%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
-    },
-    {
-      "name": "iPhone 18 Pro",
-      "family": "iPhone",
-      "released": "2026-09-18",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "A20 Pro"
-      ],
-      "models": [],
-      "identifiers": [
-        "iPhone19,2"
-      ],
-      "storage": [
-        "256GB",
-        "512GB",
-        "1TB"
-      ],
-      "memory": [],
-      "colors": [
-        {
-          "name": "Black",
-          "hex": "3C3C3C"
-        },
-        {
-          "name": "Burgundy",
-          "hex": "4D1822"
-        },
-        {
-          "name": "Glacier",
-          "hex": "E8F2FE"
-        },
-        {
-          "name": "Silver",
-          "hex": "F7F7F7"
-        }
-      ],
-      "documentationUrl": "https://support.apple.com/en-us/148590",
-      "documentationDirect": true
-    },
-    {
-      "name": "iPhone Duo",
-      "family": "iPhone",
-      "released": "2026-10-23",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "A20 Pro"
-      ],
-      "models": [],
-      "identifiers": [
-        "iPhone19,4"
-      ],
-      "storage": [],
-      "memory": [],
-      "colors": [
-        {
-          "name": "Night Sky",
-          "hex": "394452"
-        },
-        {
-          "name": "Star White",
-          "hex": "F7F6F5"
-        }
-      ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=iPhone%20Duo%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
-      "documentationDirect": false
-    },
-    {
-      "name": "Apple Watch Series 12",
-      "family": "Apple Watch",
-      "released": "2026-09-18",
-      "prices": [],
-      "priceHistory": false,
-      "chips": [
-        "S11"
-      ],
-      "models": [
-        "A3581",
-        "A3583",
-        "A3584",
-        "A3585",
-        "A3582",
-        "A3586",
-        "A3587",
-        "A3588"
-      ],
-      "identifiers": [
-        "Watch8,2",
-        "Watch8,3",
-        "Watch8,4",
-        "Watch8,5"
-      ],
-      "storage": [],
-      "memory": [],
-      "colors": [
-        {
-          "name": "Black",
-          "hex": "413D3A"
-        },
-        {
-          "name": "Dark Bronze",
-          "hex": "624F41"
-        },
-        {
-          "name": "Light Gold",
-          "hex": "948372"
-        },
-        {
-          "name": "Space Gray",
-          "hex": "888785"
-        },
-        {
-          "name": "Ceramic - Night Blue",
-          "hex": "909193,293040"
-        },
-        {
-          "name": "Ceramic - Pearl White",
-          "hex": "E4E1DC,E1DAD2"
-        },
-        {
-          "name": "Titanium - Natural",
-          "hex": "CFC8C0,46413D"
-        },
-        {
-          "name": "Titanium - Radiant Gold",
-          "hex": "FBF0D2,635538"
-        }
-      ],
-      "documentationUrl": "https://support.apple.com/ja-jp/search?query=Apple%20Watch%20Series%2012%20%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
       "documentationDirect": false
     },
     {
@@ -2128,6 +1657,54 @@
         }
       ],
       "documentationUrl": "https://support.apple.com/ja-jp/125135",
+      "documentationDirect": true
+    },
+    {
+      "name": "AirPods 5",
+      "family": "AirPods",
+      "released": "2026-09-18",
+      "prices": [
+        "23,800円～"
+      ],
+      "priceHistory": false,
+      "chips": [
+        "H2"
+      ],
+      "models": [],
+      "identifiers": [],
+      "storage": [],
+      "memory": [],
+      "colors": [
+        {
+          "name": "White",
+          "hex": "FFFFFF"
+        }
+      ],
+      "documentationUrl": "https://www.apple.com/jp/airpods-5/specs/",
+      "documentationDirect": true
+    },
+    {
+      "name": "AirPods 5（ワイヤレス充電ケース）",
+      "family": "AirPods",
+      "released": "2026-09-18",
+      "prices": [
+        "27,800円～"
+      ],
+      "priceHistory": false,
+      "chips": [
+        "H2"
+      ],
+      "models": [],
+      "identifiers": [],
+      "storage": [],
+      "memory": [],
+      "colors": [
+        {
+          "name": "White",
+          "hex": "FFFFFF"
+        }
+      ],
+      "documentationUrl": "https://www.apple.com/jp/airpods-5/specs/",
       "documentationDirect": true
     }
   ],
