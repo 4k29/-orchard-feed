@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "6392ca9b9a0ff25215f0",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 makes a great change to Apple Pay on iPhone",
+      "url": "https://9to5mac.com/2026/09/27/ios-27-makes-it-easier-to-switch-between-apple-pay-cards/",
+      "publishedAt": "2026-09-27T23:46:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-pay-ios-27.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iOS 27でApple Payの決済画面を刷新",
+      "summaryJa": "AppleはiOS 27のアプリやウェブにおけるApple Payの決済画面を刷新しました。メイン画面で支払いカードをスワイプして簡単に切り替えられるようになったほか、カードをタップして利用可能なカードの一覧グリッドを表示できるようになり、よりスムーズで分かりやすい決済が可能になっています。"
+    },
+    {
+      "id": "0f9c9459c850a24d1202",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s what I’d like to see Apple do right in a screenless fitness tracker",
+      "url": "https://9to5mac.com/2026/09/27/apple-rumored-screenless-fitness-tracker-whoop-competitor/",
+      "publishedAt": "2026-09-27T23:01:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/AW-vs-WHOOP-6.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの画面非搭載フィットネストラッカーに関する期待",
+      "summaryJa": "Appleが開発中と報じられている画面非搭載のフィットネストラッカーについて、ユーザーからの期待と要望が伝えられています。早ければ2028年の登場が噂される本製品に対し、スマートフォンを毎回取り出さずにワークアウトを開始・停止できる物理ボタンやLEDインジケーターの搭載が望まれています。"
+    },
+    {
+      "id": "53eee359be0633088e41",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "This is my top feature request for the upcoming A20 Pro iPad mini",
+      "url": "https://9to5mac.com/2026/09/27/apple-next-ipad-mini-feature-request/",
+      "publishedAt": "2026-09-27T21:38:44.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/iPad-mini-7-1.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "次期iPad miniに期待したいソフトウェア機能の要望",
+      "summaryJa": "A20 ProチップやOLEDディスプレイの搭載が噂される次期iPad miniについて、ソフトウェア面での機能追加を望む声が上がっています。特にマルチタスクの利便性を高めるため、動画視聴とアプリの分割表示をよりシームレスに行える機能の導入が期待されています。"
+    },
+    {
       "id": "e3c2092355758e07a460",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4459,54 +4504,9 @@
       ],
       "titleJa": "iPhone 18 Proで撮影された写真展「What Holds Us」が開催",
       "summaryJa": "Appleは、iPhone 18 Proの先進的なProカメラシステムを用いた新しい写真展「What Holds Us」を発表しました。可変絞りに対応したカメラにより、低照度でも高い品質と鮮明なディテールを実現し、アーティストたちの創造力を引き出しています。"
-    },
-    {
-      "id": "cae72f5f066edba39a5b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WebKit blog breaks down what’s new with Safari 27 for developers, including MCP support",
-      "url": "https://9to5mac.com/2026/09/17/webkit-blog-breaks-down-whats-new-with-safari-27-for-developers-including-mcp-support/",
-      "publishedAt": "2026-09-18T02:18:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/safari-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、開発者向けSafari 27のMCPサポートなどの新機能を解説",
-      "summaryJa": "WebKitブログにて、最新のSafari 27.0における開発者向けの新機能の詳細が公開されました。AIエージェントにブラウザウィンドウの制御を許可するSafari MCPサーバーが導入され、開発作業の効率化と高度化をサポートします。"
-    },
-    {
-      "id": "e385c7779653989031b5",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp starts rolling out new in-chat search button on iOS",
-      "url": "https://9to5mac.com/2026/09/17/whatsapp-starts-rolling-out-new-in-chat-search-button-on-ios/",
-      "publishedAt": "2026-09-18T01:41:34.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/whatsapp-ios27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp、iOS版アプリでチャット内検索ボタンの提供を開始",
-      "summaryJa": "WhatsAppは、iOSユーザー向けに新しいチャット内検索ボタンの提供を順次開始しています。会話を上にスクロールすると画面上部に検索ボタンが表示され、画面を移動することなくスムーズにキーワード検索を行えるようになります。"
-    },
-    {
-      "id": "05958b32a8509a68a512",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Judge rejects OpenAI’s bid to see X’s confidential settlement with Apple in antitrust lawsuit",
-      "url": "https://9to5mac.com/2026/09/17/judge-rejects-openais-bid-to-see-xs-confidential-settlement-with-apple-in-antitrust-lawsuit/",
-      "publishedAt": "2026-09-18T01:14:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/Meta-community-notes-now-open-to-contributors-as-Musk-threatens-to-fix-them-on-X.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "裁判所、OpenAIによるAppleとXの和解条項開示の申し立てを却下",
-      "summaryJa": "反トラスト法を巡る訴訟において、米連邦地裁の判事はOpenAIによるAppleとXおよびSpaceXAI間の非公開の和解契約書の開示要請を却下しました。X側がAppleとの和解合意に伴い請求を取り下げた後、OpenAI側は防衛に必要であるとして和解条項の提出を求めていましたが、裁判所は審理中の争点に関連する情報はないと判断しました。"
     }
   ],
-  "updatedAt": "2026-09-27T21:33:28.489Z",
+  "updatedAt": "2026-09-27T23:56:32.873Z",
   "initialized": true,
   "summaryVersion": 4
 }
