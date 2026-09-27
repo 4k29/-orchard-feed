@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "25f909b5f93169d5f0eb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple hit with $5.7 billion verdict over Taptic Engine patent infringement",
+      "url": "https://9to5mac.com/2026/09/27/apple-hit-with-5-7-billion-verdict-over-taptic-engine-patent-infringement/",
+      "publishedAt": "2026-09-27T12:49:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、特許侵害訴訟で57億ドルの支払いを命じられるも控訴へ",
+      "summaryJa": "米国の陪審団は金曜日、AppleのTaptic EngineがTaction Technologyの特許を侵害しているとして、57億ドルの賠償金を支払うよう評決を下しました。問題となったのは皮膚への振動トラクションに関する2件の特許で、原告側はAppleがイノベーションの成果を利用していると主張していました。これに対しAppleは、自社の技術は原告の技術とは根本的に異なり事実無根であるとして、強く反対し控訴する方針を示しています。"
+    },
+    {
       "id": "fcf35936cbf740a8b80b",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4489,24 +4504,9 @@
       ],
       "titleJa": "Apple、2027年にRAMとストレージの価格上昇を受け入れか",
       "summaryJa": "Appleが2027年第1四半期からSamsungに対してDRAMおよびNANDフラッシュメモリの調達費用として、従来よりさらに高い価格を支払うことで合意したと報じられています。AI分野の急拡大に伴うメモリ不足が背景にあり、価格は2026年第3四半期と比較して30%から40%ほど上昇する見込みです。今回の部品価格の高騰が、今後のiPhoneやiPad、Macなどの製品価格にどのような影響を与えるのか注目されています。"
-    },
-    {
-      "id": "c143127f15eab7de5fdb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Meta AI launches Muse personal agent, including apps for iPhone and Mac",
-      "url": "https://9to5mac.com/2026/09/17/meta-ai-launches-muse-personal-agent-including-a-new-mobile-app-for-iphone/",
-      "publishedAt": "2026-09-17T22:30:10.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/muse-agent.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Meta、iPhoneおよびMac向けパーソナルAIエージェント「Muse」を発表",
-      "summaryJa": "Meta AIは、ユーザーの日常業務をサポートする新しいパーソナルAIエージェント「Muse」をiPhone向けにリリースし、さらにMac向けアプリも順次展開しています。親しみやすいチャットインターフェースを採用し、アバターや名称のカスタマイズが可能です。ファイルやカレンダーなど幅広いアプリと連携する機能を備えており、AIアシスタント市場での競争がさらに活性化しています。"
     }
   ],
-  "updatedAt": "2026-09-27T08:24:01.116Z",
+  "updatedAt": "2026-09-27T14:12:41.118Z",
   "initialized": true,
   "summaryVersion": 4
 }
