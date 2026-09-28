@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "88c4749ff95c5ed6b1bf",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Anker’s 25W MagSafe 3-in-1 packs active cooling in a travel-sized design [Hands-on]",
+      "url": "https://9to5mac.com/2026/09/27/anker-magsafe-travel-sized-3-in-1-charger-qi2/",
+      "publishedAt": "2026-09-28T00:16:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/IMG_1339.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Anker、アクティブ冷却を備えた25W MagSafe 3-in-1充電器を発表",
+      "summaryJa": "Ankerから、iPhoneなどの高速充電に対応する25W出力のQi2.2 MagSafe 3-in-1充電器が登場しました。旅行にも持ち運びやすい折りたたみ式デザインを採用し、高出力に伴う発熱対策としてアクティブ冷却ファンを搭載しています。iPhoneやApple Watch、AirPodsを同時にすっきりと充電できる便利なアイテムとして注目を集めています。"
+    },
+    {
       "id": "6392ca9b9a0ff25215f0",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,25 +4503,9 @@
       ],
       "titleJa": "Apple、iPhone 18 Proの発売日を前に店舗の準備を進める",
       "summaryJa": "ニューヨークのアップルストアでiPhone 18 Proの発売日に向けた準備が進められています。象徴的なガラスキューブの入り口は、新しいカラーリングに合わせて特別に装飾され、CEOのジョン・テラスも発売当日に店舗を訪れる予定です。"
-    },
-    {
-      "id": "e58349ca9c5f766912e8",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "iPhone 18 Proで撮影された「What Holds Us」を祝う",
-      "url": "https://www.apple.com/jp/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-      "publishedAt": "2026-09-18T02:48:24.655Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "iPhone 18 Proで撮影された写真展「What Holds Us」が開催",
-      "summaryJa": "Appleは、iPhone 18 Proの先進的なProカメラシステムを用いた新しい写真展「What Holds Us」を発表しました。可変絞りに対応したカメラにより、低照度でも高い品質と鮮明なディテールを実現し、アーティストたちの創造力を引き出しています。"
     }
   ],
-  "updatedAt": "2026-09-27T23:56:32.873Z",
+  "updatedAt": "2026-09-28T05:13:09.290Z",
   "initialized": true,
   "summaryVersion": 4
 }
