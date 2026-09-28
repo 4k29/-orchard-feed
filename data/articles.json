@@ -1,6 +1,126 @@
 {
   "articles": [
     {
+      "id": "3cfe6081c3ef00bc782a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "macOS 27: How to use the new ‘Notify Me’ feature in Safari",
+      "url": "https://9to5mac.com/2026/09/28/macos-27-how-to-use-the-new-notify-me-feature-in-safari/",
+      "publishedAt": "2026-09-28T22:53:05.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/safari-notify-me-alert.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "macOS 27のSafariにおける新機能「Notify Me」の使い方",
+      "summaryJa": "macOS 27で利用できるSafariの新機能「Notify Me」は、ウェブサイトの更新を監視して通知を受け取れる機能です。Apple Intelligenceを活用しており、ページの変更内容を自然言語で指定できます。さらに、1時間ごとから月1回まで確認のスケジュールを設定可能で、価格の追跡や在庫の復活などを自動で検知して知らせてくれます。"
+    },
+    {
+      "id": "7258b7c1297077bb999f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "watchOS 27.0.1 is now available for all compatible Apple Watch models",
+      "url": "https://9to5mac.com/2026/09/28/watchos-27-0-1-is-now-available-for-all-compatible-apple-watch-models/",
+      "publishedAt": "2026-09-28T21:10:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/watchOS-27-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、対応するすべてのApple Watch向けにwatchOS 27.0.1を配信開始",
+      "summaryJa": "Appleは、先週の一部モデル向け先行リリースに続き、対応するすべてのApple Watchモデルに向けて「watchOS 27.0.1」の提供を拡大しました。本アップデートでは、一部の端末で発生していた予期せぬ再起動を引き起こす不具合が修正されます。また、同時にiOSやiPadOSなど各OSのマイナーアップデートも順次公開されています。"
+    },
+    {
+      "id": "2abfef20c59df2f026bb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases watchOS 27.0.1 for Additional Models",
+      "url": "https://www.macrumors.com/2026/09/28/watchos-27-0-1-additional-models/",
+      "publishedAt": "2026-09-28T21:08:51.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、対象モデルを拡大してwatchOS 27.0.1をリリース",
+      "summaryJa": "先週一部のApple Watchモデル向けに配信されていたwatchOS 27.0.1が、Series 9以降などの対応するすべてのApple Watchに向けて提供が開始されました。このアップデートは、端末が予期せず再起動する問題の修正を目的としています。具体的な変更点やセキュリティ修正の詳細は案内されていません。"
+    },
+    {
+      "id": "b97b5c041c7bd8f8d304",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s Taptic Engine patent defeat sends litigation funder’s shares up 9%",
+      "url": "https://9to5mac.com/2026/09/28/apples-taptic-engine-patent-defeat-sends-litigation-funders-shares-up-9/",
+      "publishedAt": "2026-09-28T20:21:14.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの特許訴訟敗訴を受け、訴訟資金提供企業の株価が9%上昇",
+      "summaryJa": "米国の陪審団がAppleのTaptic Engineに関する特許侵害を認め、57億ドルの支払いを命じた判決をめぐり、訴訟を資金面で支援していたバーフォード・キャピタル社の株価が9%以上急騰しました。同社は訴訟の勝訴に伴い巨額の利益分配を受け取る権利があると開示しています。Appleはこの評決に強く反対しており、控訴する方針を示しています。"
+    },
+    {
+      "id": "ebf498c72abea5cea16c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro First Impressions: What Do You Think So Far?",
+      "url": "https://www.macrumors.com/2026/09/28/iphone-18-pro-first-impressions/",
+      "publishedAt": "2026-09-28T19:47:09.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-iPhone-18-Pro-color-lineup-16x9-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proの初期インプレッションとユーザーの評価",
+      "summaryJa": "iPhone 18 Proモデルの発売から1週間以上が経過し、MacRumorsの読者間での初期インプレッションや議論が活発に行われています。カメラの性能やバッテリー寿命、さらにiPhone 17 Pro Maxからの買い替え理由などが共有されています。一部では発熱やスピーカーの不具合、Face IDに関する問題も報告されており、Appleは最新のiOS 27.0.1でFace IDの修正を行っています。"
+    },
+    {
+      "id": "e9763f369e8834b0ae10",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Siri AI is available on newer Apple devices only, here’s the full list",
+      "url": "https://9to5mac.com/2026/09/28/siri-ai-is-available-on-newer-apple-devices-only-heres-the-full-list/",
+      "publishedAt": "2026-09-28T19:43:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Siri AIに対応するApple製デバイスの全リスト",
+      "summaryJa": "iOS 27などで導入された大幅な機能強化である「Siri AI」は、比較的新しいハードウェアでのみサポートされています。対象となるのは、iPhone 18 ProシリーズやiPhone 17シリーズ、M1チップ以降を搭載したiPadおよびMac、Apple Watch Series 9以降などです。高度な音声のカスタマイズ機能などはさらに一部の最新モデルに限定されており、端末側の処理能力が関係しています。"
+    },
+    {
+      "id": "00da37fcbea52c4d8215",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo accessories: Here are five top picks for Apple’s foldable",
+      "url": "https://9to5mac.com/2026/09/28/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/",
+      "publishedAt": "2026-09-28T19:24:26.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの折りたたみ端末「iPhone Duo」向けおすすめアクセサリ5選",
+      "summaryJa": "間もなく登場するApple初の折りたたみデバイス「iPhone Duo」に向けて、おすすめのアクセサリが紹介されています。iPhone DuoはUSB-C版Apple Pencilに対応し、内外のディスプレイで手書き入力が可能になる予定です。また、高速充電に対応する40WのDynamic Power Adapterや、車載用のMagSafeマウントなども注目を集めています。"
+    },
+    {
+      "id": "b4654f0f12b3276c95a4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Watch Elton John give the first-ever performance at Apple Music Hall",
+      "url": "https://9to5mac.com/2026/09/28/watch-elton-john-give-the-first-ever-performance-at-apple-music-hall/",
+      "publishedAt": "2026-09-28T19:17:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/elton-john-apple-music-hall.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "エルトン・ジョンがApple Music Hallのこけら落とし公演を開催",
+      "summaryJa": "ロンドンのバタシー発電所内に新設された「Apple Music Hall」で、エルトン・ジョンによる記念すべき最初のライブが開催されました。収容人数600人の同会場は空間オーディオシステムや配信インフラを備え、Apple Music加入者はライブを視聴可能です。今後はベイビー・キーンやトロイ・シヴァンなど、多数のアーティストによる公演も予定されています。"
+    },
+    {
       "id": "a5464e00a6a53c7cc792",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -179,6 +299,66 @@
       ],
       "titleJa": "Apple、10月に大幅刷新されたMacBook Proを投入か",
       "summaryJa": "Appleが10月に発売すると噂されている、大幅にデザインが刷新されるMacBook Proについて報じられています。長年待たれていたOLEDディスプレイの搭載や、Mac初となるタッチスクリーン対応、さらに画面上部のノッチが廃止される可能性などが取り沙汰されており、注目を集めています。"
+    },
+    {
+      "id": "0a347ae9ee8adfe22756",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: M5 Pro MacBook Pro $500 off, M5 MacBook Air $150 off, 2026 Studio Display $300 off, more",
+      "url": "https://9to5mac.com/2026/09/28/deals-m5-pro-macbook-pro-macbook-air-studio-display/",
+      "publishedAt": "2026-09-28T15:25:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-MacBook-Pro-Studio-Display.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AmazonのセールでM5 Pro搭載MacBook Proなどが大幅値下げ",
+      "summaryJa": "Amazonがプライムデーのセールを更新し、M5 Proを搭載した14インチMacBook Proの2TBモデルが通常価格から500ドル引きで販売されています。他にもM5搭載のMacBook AirやMac mini、Mac Studioなどのセール品が登場しています。Apple公式整備済ストアではStudio Displayの割引なども提供されており、各製品をお得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "469e4f60d309c80791d5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Leak reveals new iPhone Duo features not yet announced",
+      "url": "https://9to5mac.com/2026/09/28/leak-reveals-new-iphone-duo-features-not-yet-announced/",
+      "publishedAt": "2026-09-28T14:41:27.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/The-iPhone-Duo-is-Apple-at-its-absolute-best.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone Duoの未発表なスタンバイモード機能がコードから判明",
+      "summaryJa": "10月23日の発売が予定されているiPhone Duoについて、Appleのコードから未発表のスタンバイモードに関する新機能が見つかったと報じられています。コード内からはホームカメラ表示やモジュラー、フローなどの新しいビューの存在が明らかになりました。充電中でなくても利用できるiPhone Duoのスタンバイモードをさらに活用できる機能として期待されています。"
+    },
+    {
+      "id": "60ddc3aa28113d4e48a2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Last Chance: OWC's Best Mac Accessories Are on Sale Just for MacRumors Readers",
+      "url": "https://www.macrumors.com/2026/09/28/last-chance-owcs-sale/",
+      "publishedAt": "2026-09-28T14:32:47.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/thunderbolt-owc-sale-dock.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "OWC製Mac向けアクセサリがMacRumors読者向けにセール実施",
+      "summaryJa": "MacRumorsがOWCと提携し、 ThunderboltドックやUSB-Cケーブル、外部ストレージケースなどの人気アクセサリを特別価格で提供するセールを実施しています。割引は今週の水曜日まで有効で、専用のカート画面で適用される仕組みです。デスクトップ環境をアップグレードするための多彩なアイテムが最大100ドル以上の割引となっています。"
+    },
+    {
+      "id": "0f3922943aa8cc6423ad",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "12 New Things to Expect From Apple This October",
+      "url": "https://www.macrumors.com/2026/09/28/12-new-things-from-apple-this-october/",
+      "publishedAt": "2026-09-28T14:13:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/12-New-Things-Apple.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleの10月：新型iPhoneや新OS、多数の製品が登場か",
+      "summaryJa": "今年の10月はAppleにとって非常に忙しい月になると予想されており、折りたたみ式のiPhone Duoや新OSの配信、さらには512GBのRAMを搭載したMac Studioの発売が控えています。また、新型のiPad miniやApple TV 4Kなど、最大6つの新しいApple製品が発表される可能性もあると伝えられています。新機能の追加やハードウェアの刷新により、多くの注目を集める展開となりそうです。"
     },
     {
       "id": "c9ee923d68038baeb821",
@@ -4323,189 +4503,9 @@
       ],
       "titleJa": "Apple、ROSÉを起用したiPhone 18 Proのカメラ広告を公開",
       "summaryJa": "AppleはBlackpinkのメンバーであるROSÉの最新ミュージックビデオを使用した、iPhone 18 Proの新しい「Shot on iPhone」広告を公開しました。「new trick」の楽曲ビデオはiPhone 18 Proで撮影されており、撮影の裏側や機材の様子も紹介されています。48メガピクセルメインカメラの可変絞りにより、暗所での撮影性能が向上し、ミュージックビデオに印象的な被写界深度がもたらされたと説明されています。"
-    },
-    {
-      "id": "fb9cc772146f43536f6a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: September 18, 2026 – More on iOS 27, iPhone Duo",
-      "url": "https://9to5mac.com/2026/09/18/daily-september-18-2026/",
-      "publishedAt": "2026-09-18T16:34:51.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "9to5Mac Daily: iOS 27の新機能やiPhone Duoの動向",
-      "summaryJa": "9to5Macのポッドキャスト番組で、iOS 27に追加される詐欺防止機能や、発売時に品薄が懸念されているiPhone Duoに関する最新情報が取り上げられています。AI以外の注目の新機能や、効率的なタスク管理をサポートするスポンサーアプリについても紹介されています。リスナーに向けて各種プラットフォームでの購読やレビューが呼びかけられています。"
-    },
-    {
-      "id": "f342db3eba7349a735b0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Best iPhone 18 Pro cases now available for purchase [Updated]",
-      "url": "https://9to5mac.com/2026/09/18/best-iphone-18-pro-cases-now-available/",
-      "publishedAt": "2026-09-18T16:24:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Pro向けおすすめケースが続々登場",
-      "summaryJa": "新型iPhone 18 Proに向けて、Apple純正のシリコンケースやテックウーブンケースをはじめ、多彩なサードパーティ製ケースが出揃いました。Spigenなどの手頃な価格帯の製品から、NomadやBurton Goodsの上質なレザーケース、スタンド付きモデルまで幅広く展開されています。MagSafeに対応した新色のバーガンディやマルベリーなど、カラーバリエーションも豊富に用意されています。"
-    },
-    {
-      "id": "27c938b2a247983c8865",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "The MacRumors Show: Is the iPhone Duo Actually Worth It?",
-      "url": "https://www.macrumors.com/2026/09/18/the-macrumors-show-is-iphone-duo-worth-it/",
-      "publishedAt": "2026-09-18T16:15:51.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone Duoの価値とAirPods 5のインプレッション",
-      "summaryJa": "MacRumorsのポッドキャスト番組にて、議論を呼んでいる折りたたみ式のiPhone Duoの価値や、AirPods 5の使用感について議論が行われています。iPadのような大画面ディスプレイの利便性や、価格・重量・カメラ性能とのトレードオフについて言及されています。また、AirPods 5の優れたフィット感やアクティブノイズキャンセリングの向上についても紹介されています。"
-    },
-    {
-      "id": "94aaea9652696a40782e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27’s Wallet app adds feature that will make you want to use Apple Cash",
-      "url": "https://9to5mac.com/2026/09/18/ios-27s-wallet-app-adds-feature-that-will-make-you-want-to-use-apple-cash/",
-      "publishedAt": "2026-09-18T16:14:17.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-red-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Wallet、Apple Intelligenceを活用した新しい割り勘機能を追加",
-      "summaryJa": "次期iOSのウォレットアプリに、iPhoneのカメラとApple Intelligenceを活用して簡単に割り勘ができる新機能が追加されます。レシートや請求書の写真を読み取るだけで、税金やチップを含めた個人の支払額を正確に算出します。メッセージアプリやウォレットから直接利用可能で、Apple Cashを使った精算がこれまで以上にスムーズになります。"
-    },
-    {
-      "id": "eef8e5ecc6fd4c02c7c3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Designers Explain the Thinking Behind iPhone Duo",
-      "url": "https://www.macrumors.com/2026/09/18/apple-designers-explain-iphone-duo/",
-      "publishedAt": "2026-09-18T16:11:02.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-Duo-Open-large-scaled.png",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleデザインチームが語る「iPhone Duo」の設計思想",
-      "summaryJa": "Appleの幹部らが最新のインタビューで、2つ折りデバイス「iPhone Duo」の開発背景やデザイン哲学について語りました。本体の寸法には国際規格のA判ペーパーシステムが採用され、ノートブックのように持ち運びやすさと広大な画面を両立しています。また、開閉時の滑らかなヒンジの抵抗感や、操作の一貫性を保つためのソフトウェア設計に関するこだわりが明かされています。"
-    },
-    {
-      "id": "29df1bd80da77b12678f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "I’ve now completely changed my mind about Apple Glasses",
-      "url": "https://9to5mac.com/2026/09/18/ive-now-completely-changed-my-mind-about-apple-glasses/",
-      "publishedAt": "2026-09-18T16:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "スマートグラスの撮影機能めぐり、Apple Glassesの仕様に再考の余地",
-      "summaryJa": "他社製スマートグラスにおける隠し撮りやプライバシー問題への反発が強まる中、将来登場すると噂されるApple Glassesのカメラ機能について議論が起きています。かつてのGoogle Glassと同様の批判が免れない現状から、Appleがプライバシー配慮のために写真やビデオ撮影機能をあえて搭載しない可能性についても注目が集まっています。"
-    },
-    {
-      "id": "794375ea7c63ac15f038",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Are iPhone 17 Pro Cases Compatible With iPhone 18 Pro? Here's What Apple Says",
-      "url": "https://www.macrumors.com/2026/09/18/iphone-17-pro-vs-iphone-18-pro-case-compatibility/",
-      "publishedAt": "2026-09-18T15:54:48.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Case-3200x1800-1-scaled.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 17 ProとiPhone 18 Proのケース互換性についてAppleが回答",
-      "summaryJa": "Appleによれば、iPhone 17 ProシリーズとiPhone 18 Proシリーズの間で公式なケースの互換性はないとされています。これは背面カメラの台座部分の厚みがわずか0.1ミリだけ増加したためです。ただし実際の検証では、両世代のケースはほぼ問題なく相互に装着できることが分かっており、実用上は多くのケースを流用できる見込みです。"
-    },
-    {
-      "id": "b4a3d33f75285ab0d59b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: AirPods Pro 3, iPhone 18 Pro cases and chargers, M5 MacBook Pro $320 off, more",
-      "url": "https://9to5mac.com/2026/09/18/deals-airpods-pro-3-iphone-18-pro-cases-m5-macbook/",
-      "publishedAt": "2026-09-18T15:28:06.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-iPhone-18-Pro-cases-AirPods-chargers-Mac-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新型iPhoneやAirPodsの発売に合わせたセールが展開中",
-      "summaryJa": "新型iPhoneやAirPods、Apple Watchの発売にあわせ、Amazonなどで各種Apple製品の割引セールが開催されています。AirPods Pro 3や各種アクセサリなどが値引き対象となっており、発売日を記念したお得な価格で購入できるチャンスとなっています。"
-    },
-    {
-      "id": "b538166cc4480dc203df",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Launch Day Deals on iPhone 18 Pro, AirPods 5, Apple Watch Series 12, and More",
-      "url": "https://www.macrumors.com/2026/09/18/best-apple-deals-of-the-week-9-18-26/",
-      "publishedAt": "2026-09-18T15:15:18.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proや新型AirPodsなどの発売記念セールが登場",
-      "summaryJa": "新型のiPhone 18 ProシリーズやAirPods 5、Apple Watch Series 12などの発売日を迎え、国内外の各小売店やキャリアから割引やキャンペーン情報が発表されました。Amazonでの少額割引のほか、通信キャリアによる大幅な端末値引きなども提供されています。"
-    },
-    {
-      "id": "52f276da7e957a7f7edc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro, Apple Watch Series 12 and Ultra 4, AirPods 5 now available in stores",
-      "url": "https://9to5mac.com/2026/09/18/iphone-18-pro-apple-watch-series-12-and-ultra-4-airpods-5-now-available-in-stores/",
-      "publishedAt": "2026-09-18T15:14:47.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-store-the-Exchange-TRX-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proや新型Apple Watchが店頭発売を開始",
-      "summaryJa": "iPhone 18 ProシリーズやApple Watch Series 12、AirPods 5などの新製品がいよいよ世界中のApple Storeや取扱店の店頭に並びました。ニューヨークの旗艦店では首脳陣が店舗の扉を開いて購入者を出迎え、各地で華やかな発売日を迎えています。"
-    },
-    {
-      "id": "0fc6fcd0e564e336e7c1",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Supplier Subsidiary Considering U.S. Flash Memory Factory",
-      "url": "https://www.macrumors.com/2026/09/18/apple-supplier-subsidiary-considering-us-factory/",
-      "publishedAt": "2026-09-18T15:01:37.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/sk-hynix.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleサプライヤー傘下企業が米国でのフラッシュメモリ工場を検討か",
-      "summaryJa": "AppleのサプライヤーであるSKハイニックスの傘下企業Solidigmが、米国でのNAND型フラッシュメモリ工場の建設を検討していると報じられています。中国工場への依存度を低減させる狙いがあり、ニューヨーク州北部が有力な候補地として浮上しています。"
-    },
-    {
-      "id": "0b4a677701d63328e74d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Intelligence now requires almost double the iPhone storage on latest models",
-      "url": "https://9to5mac.com/2026/09/18/apple-intelligence-now-requires-almost-double-the-iphone-storage-on-latest-models/",
-      "publishedAt": "2026-09-18T14:52:31.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-ai-iphone-18-pro-blue.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "最新iPhoneでApple Intelligenceに必要な容量が倍増か",
-      "summaryJa": "iOS 27の配信に伴い、最新のiPhoneモデルでApple Intelligence機能を利用するための空き容量が最大14GBへと増加することが判明しました。これは音声のカスタマイズや音声入力の精度向上といった高度なオンデバイス機能を追加するためで、その他の対応機種では従来どおり約8GBの容量が必要となります。"
     }
   ],
-  "updatedAt": "2026-09-28T18:53:53.399Z",
+  "updatedAt": "2026-09-28T23:41:54.851Z",
   "initialized": true,
   "summaryVersion": 4
 }
