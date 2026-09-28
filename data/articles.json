@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "c9ee923d68038baeb821",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Vision Pro Headset: Apple Considering Four Different Concepts",
+      "url": "https://www.macrumors.com/2026/09/28/apple-working-on-four-new-vision-pro-concepts/",
+      "publishedAt": "2026-09-28T10:52:40.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/10/Vision-Pro-M5-Announcement.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleの次世代Vision Pro、4つの設計コンセプトを検討か",
+      "summaryJa": "Appleは完全に刷新された次世代Vision Proヘッドセットに向けて4つの異なる設計コンセプトを検討していると報じられています。外部バッテリーやプロセッサーモジュールを採用する案などが探索されているものの、経営陣の間では一体型のデザインを維持すべきだという意見も根強いようです。なお、発売時期は2028年末から2029年初頭以降になると予想されています。"
+    },
+    {
       "id": "88c4749ff95c5ed6b1bf",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4488,24 +4503,9 @@
       ],
       "titleJa": "新型iPhoneやApple Watchが世界中の店頭に登場",
       "summaryJa": "世界各国のApple Storeで、iPhone 18 Proシリーズをはじめ、Apple Watch Series 12、Apple Watch Ultra 4、AirPods 5の販売が開始されました。店頭ではスタッフによる製品のデモやパーソナルセットアップのサポートが行われ、多くの顧客が新しいラインナップを手に取りました。下取りプログラムや各種支払い方法を利用して購入することができます。"
-    },
-    {
-      "id": "48c2c9aabc5d025d9067",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple CEO John Ternus Teases iPhone 18 Pro Launch Day",
-      "url": "https://www.macrumors.com/2026/09/17/john-ternus-teases-iphone-18-pro-launch/",
-      "publishedAt": "2026-09-18T03:11:06.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Fifth-Avenue-iPhone-18-Pro.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhone 18 Proの発売日を前に店舗の準備を進める",
-      "summaryJa": "ニューヨークのアップルストアでiPhone 18 Proの発売日に向けた準備が進められています。象徴的なガラスキューブの入り口は、新しいカラーリングに合わせて特別に装飾され、CEOのジョン・テラスも発売当日に店舗を訪れる予定です。"
     }
   ],
-  "updatedAt": "2026-09-28T05:13:09.290Z",
+  "updatedAt": "2026-09-28T11:45:43.365Z",
   "initialized": true,
   "summaryVersion": 4
 }
