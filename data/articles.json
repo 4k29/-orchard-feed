@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "a5464e00a6a53c7cc792",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iOS 26.7.1 Fixes Vulnerability Used in Targeted Attacks",
+      "url": "https://www.macrumors.com/2026/09/28/ios-26-7-1-active-exploit-fixed/",
+      "publishedAt": "2026-09-28T18:46:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、標的型攻撃に悪用された脆弱性を修正するアップデートを配信",
+      "summaryJa": "Appleは、一部の古いOSバージョンを標的とした攻撃で悪用されていた重大な脆弱性に対処するため、複数のセキュリティアップデートを公開しました。CoreGraphicsの領域外書き込みに関する問題が修正されており、悪意あるファイルを介した任意のコード実行を防ぎます。対象のユーザーは安全のため、速やかに最新のアップデートを適用することが強く推奨されています。"
+    },
+    {
+      "id": "26b5fed88582642e0b64",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MagSafe Monday: Pioneer joins the MagSafe accessory market with the SDA-SC600",
+      "url": "https://9to5mac.com/2026/09/28/pioneer-sda-sc600/",
+      "publishedAt": "2026-09-28T18:29:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Pioneer-SDA-SC600.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "パイオニア、Qi2対応ファン付きMagSafe車載ホルダーを発売",
+      "summaryJa": "老舗オーディオブランドのパイオニアが、MagSafe対応の新しい車載用ワイヤレス充電マウント「SDA-SC600」を市場に投入しました。最新のQi2規格による効率的なワイヤレス充電に加え、高温環境下での発熱を抑える冷却ファンを内蔵しているのが特徴です。非MagSafe端末向けのメタルリングも同梱され、幅広いスマートフォンで利用できます。"
+    },
+    {
+      "id": "46318962a94363d29262",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Anthropic upgrades Claude with new Sonnet 5.5 model, details here",
+      "url": "https://9to5mac.com/2026/09/28/anthropic-upgrades-claude-with-new-sonnet-5-5-model-details-here/",
+      "publishedAt": "2026-09-28T18:07:55.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Anthropic、高速化とコスト効率を高めた新モデル「Claude Sonnet 5.5」を発表",
+      "summaryJa": "Anthropicは、中規模AIモデルのラインナップを刷新し、「Claude Sonnet 5.5」を新たにリリースしました。従来のSonnet 5と比較して処理速度が30%以上向上し、多くの作業においてコスト削減も実現しています。日常的なタスクの処理や文書作成、UIの調整能力が強化されており、開発者向けツールなどで即座に利用可能です。"
+    },
+    {
+      "id": "d35f80e46f0964549c4b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AirPods Pro 3 vs AirPods 5: Three reasons to go Pro",
+      "url": "https://9to5mac.com/2026/09/28/airpods-pro-3-vs-airpods-5/",
+      "publishedAt": "2026-09-28T18:05:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/airpods.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPods Pro 3と新型AirPods 5を選ぶべき3つの理由",
+      "summaryJa": "今月に登場した手頃な価格の新型AirPods 5に対し、上位モデルであるAirPods Pro 3を選ぶべき重要な違いがいくつか存在します。インイヤー型の快適な装着感に加え、心痛なフィット感をもたらすデザイン、ワークアウト時の精度を高める心率計測機能などがProモデルの大きな強みです。また、高度な聴覚サポート機能なども備わっており、より充実した体験を提供します。"
+    },
+    {
+      "id": "33d21875f50148bcb9fd",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Early Prime Day Deals Offer Up to 65% Off Anker and Jackery Power Stations",
+      "url": "https://www.macrumors.com/2026/09/28/anker-and-jackery-early-prime-day/",
+      "publishedAt": "2026-09-28T17:42:46.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/02/new-anker-solix.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AnkerやJackeryのポータブル電源が最大65%オフの早期セールを実施",
+      "summaryJa": "Amazonの「プライム ビッグ デール デイズ」の開催を控え、AnkerやJackeryの人気ポータブル電源などが最大65%オフの早期割引セールを行っています。Ankerの公式サイトやAmazonではSOLIXシリーズなどが割引対象となっており、Jackeryのサイトでも多彩なモデルが特別価格で販売されています。セール期間はブランドごとに異なり、早ければ10月3日までとなっています。"
+    },
+    {
+      "id": "d457aedb35bfa1c3c99b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 26.7.1 available now for iPhone with security fixes",
+      "url": "https://9to5mac.com/2026/09/28/ios-26-7-1-available-now-for-iphone-with-security-fixes/",
+      "publishedAt": "2026-09-28T17:29:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-26.7-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、セキュリティ修正を含む「iOS 26.7.1」などをリリース",
+      "summaryJa": "Appleは、バグ修正とセキュリティアップデートに焦点を当てた各種ソフトウェアの提供を開始しました。iOS 27未導入のiPhone向けに「iOS 26.7.1」が配信されており、悪意あるファイルの処理により任意のコードが実行されるおそれがあるCoreGraphicsの脆弱性を修正しています。すでに特定の標的型攻撃で悪用された報告があるため、早めのアップデートが推奨されます。"
+    },
+    {
+      "id": "0f19ece05a722137f679",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases macOS 27.0.1 Golden Gate, plus macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1 [U]",
+      "url": "https://9to5mac.com/2026/09/28/apple-releases-macos-27-0-1-golden-gate-plus-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
+      "publishedAt": "2026-09-28T17:15:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27-Golden-Gate-Liquid-Glass-Comparison.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、macOS 27.0.1やmacOS Tahoe 26.7.1などを公開",
+      "summaryJa": "Appleは、macOS Tahoe 26.7.1やmacOS Sequoia 15.8.1に加え、macOS 27.0.1の提供を開始しました。今回のアップデートには、CoreGraphicsにおける脆弱性へのセキュリティ修正などが含まれています。Appleは、AIツールの進化によってハッキングツールの開発が加速しているため、セキュリティ修正を迅速にユーザーへ届けるよう取り組んでいます。"
+    },
+    {
+      "id": "b1f43c272fb27c444a95",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases macOS Golden Gate 27.0.1 With Bug Fixes",
+      "url": "https://www.macrumors.com/2026/09/28/apple-releases-macos-27-0-1/",
+      "publishedAt": "2026-09-28T17:13:46.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、バグ修正を行った「macOS 27.0.1」をリリース",
+      "summaryJa": "Appleは、9月中旬に公開されたmacOS 27向けの初となるアップデート「macOS 27.0.1」の配信を開始しました。Macのシステム設定にあるソフトウェアアップデートからダウンロード可能で、不具合の修正が行われています。また、これと同時に旧OS向けのmacOS 26.7.1やmacOS 15.8.1といったセキュリティアップデートもあわせて公開されています。"
+    },
+    {
+      "id": "333a004041109870fc76",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases iOS 27.0.1 With Face ID Bug Fix",
+      "url": "https://www.macrumors.com/2026/09/28/apple-releases-ios-27-0-1/",
+      "publishedAt": "2026-09-28T17:09:47.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Face-ID-iPhone-18-Pro.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、Face IDの不具合を修正したiOS 27.0.1を配信開始",
+      "summaryJa": "Appleは、iPhone 18 Proなどで発生していたFace IDの認証失敗に伴う予期せぬ再起動などの不具合を修正するiOS 27.0.1を公開しました。同時に、iPadOS 27.0.1やビジョンOSのアップデートなどもリリースされています。このアップデートでは、一部の端末で2倍ズーム撮影時に色アーティファクトが発生する問題や、通知センターとコントロールセンターを同時に開いた際にタッチ操作が反応しなくなる不具合も修正されています。"
+    },
+    {
+      "id": "17224162403ffc35ea9d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases iOS 27.0.1 for iPhone, here’s what’s new",
+      "url": "https://9to5mac.com/2026/09/28/apple-releases-ios-27-0-1-for-iphone-heres-whats-new/",
+      "publishedAt": "2026-09-28T17:08:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-200-changes-and-features.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Face IDの修正を含むiOS 27.0.1をリリース",
+      "summaryJa": "Appleは、iOS 27で発生した主要な不具合を修正するため、iPhone向けにiOS 27.0.1の提供を開始しました。iPhone 18 ProおよびPro MaxでFace ID認証に失敗すると端末が再起動してしまう問題などが解消されています。また、通知センターとコントロールセンターを同時に開くとタッチ操作が反応しなくなる全モデル共通の不具合も修正対象となっています。"
+    },
+    {
+      "id": "648bd6d91ed66c6bd17f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 28, 2026 – New HomePod and Apple TV leaks, more",
+      "url": "https://9to5mac.com/2026/09/28/daily-september-28-2026/",
+      "publishedAt": "2026-09-28T16:53:13.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新型HomePodやApple TVのリーク情報が浮上",
+      "summaryJa": "最新のポッドキャストのニュースエピソードにおいて、新型ビジョンプロや新しいiPad miniに関する詳細、さらにリークされた画像による新しいApple TV 4KやHomePod miniの存在が話題になっています。また、Taptic Engineの特許侵害を巡る巨額の評決についても言及されており、Appleエコシステムを巡る様々な動向が伝えられています。"
+    },
+    {
+      "id": "57fba2090d3e43602d09",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "MacBook Pro redesign is coming, with three features we’ve waited years for",
+      "url": "https://9to5mac.com/2026/09/28/macbook-pro-redesign-is-coming-with-three-features-weve-waited-years-for/",
+      "publishedAt": "2026-09-28T15:55:51.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/m5-pro-macbook-pro-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、10月に大幅刷新されたMacBook Proを投入か",
+      "summaryJa": "Appleが10月に発売すると噂されている、大幅にデザインが刷新されるMacBook Proについて報じられています。長年待たれていたOLEDディスプレイの搭載や、Mac初となるタッチスクリーン対応、さらに画面上部のノッチが廃止される可能性などが取り沙汰されており、注目を集めています。"
+    },
+    {
       "id": "c9ee923d68038baeb821",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4323,189 +4503,9 @@
       ],
       "titleJa": "最新iPhoneでApple Intelligenceに必要な容量が倍増か",
       "summaryJa": "iOS 27の配信に伴い、最新のiPhoneモデルでApple Intelligence機能を利用するための空き容量が最大14GBへと増加することが判明しました。これは音声のカスタマイズや音声入力の精度向上といった高度なオンデバイス機能を追加するためで、その他の対応機種では従来どおり約8GBの容量が必要となります。"
-    },
-    {
-      "id": "12c406533fd8c8777f7f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here are all of Apple’s official accessories for iPhone 18 Pro, Apple Watch Series 12, more",
-      "url": "https://9to5mac.com/2026/09/18/here-are-all-of-apples-official-accessories-for-iphone-18-pro-apple-watch-series-12-more/",
-      "publishedAt": "2026-09-18T14:51:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-cases.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Pro向けApple純正アクセサリが登場",
-      "summaryJa": "新製品の発売に合わせて、iPhone 18 ProやApple Watch Series 12などに対応するApple公式アクセサリのラインナップが明らかになりました。MagSafe対応のシリコーンケースやテックウーブンケース、各種バンドなどが取り揃えられており、新しいデバイスの外観を彩る選択肢となっています。"
-    },
-    {
-      "id": "845b02b56334bebe13dc",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Teardown Reveals How Apple Shrunk the Dynamic Island",
-      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-teardown/",
-      "publishedAt": "2026-09-18T14:34:53.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Dynamic-Island-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの分解でDynamic Island縮小の仕組みが判明",
-      "summaryJa": "海外のYouTubeチャンネルによる分解動画から、iPhone 18 ProのDynamic Islandが小型化した理由が明らかになりました。AppleはFace IDの赤外線カメラをディスプレイ下の左上隅に移動させることで、画面上の領域を削減することに成功しています。また、可変絞りを持つ48メガピクセルのメインカメラやバッテリー容量などの内部構造も確認されています。"
-    },
-    {
-      "id": "6321f477e27575d30512",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Music in iOS 27: Five new features just added for iPhone",
-      "url": "https://9to5mac.com/2026/09/18/apple-music-in-ios-27-five-new-features-iphone/",
-      "publishedAt": "2026-09-18T14:08:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-music-features-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27のApple Musicで利用可能になった5つの新機能",
-      "summaryJa": "iOS 27ではApple Musicに様々な機能改善が加えられ、横画面表示への対応やAutoMixの進化などが導入されました。横画面ではアートワークと歌詞を並べて表示できるようになり、デスクやキッチンでの充電中にも快適に音楽を楽しめます。さらに、アーティストページの刷新なども行われ、より没入感のあるリスニング体験を提供します。"
-    },
-    {
-      "id": "43a94939acafed16ba70",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Demand Stronger Than Expected",
-      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-demand-stronger-than-expected/",
-      "publishedAt": "2026-09-18T14:01:25.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-and-iphone-18-pro-max.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの需要が予想を上回る勢いか",
-      "summaryJa": "米国の調査会社による消費者調査から、最新のiPhoneのアップグレード需要が予想を上回る強い勢いを見せていると報じられています。購入者の多くが高価格帯のProモデルや大容量ストレージを選択しており、平均販売価格の上昇につながる可能性があると指摘されています。"
-    },
-    {
-      "id": "f46562920a16c85315f7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone Duo videos reveal split keyboard, app multitasking, more",
-      "url": "https://9to5mac.com/2026/09/18/iphone-duo-videos-reveal-split-keyboard-app-multitasking-more/",
-      "publishedAt": "2026-09-18T13:51:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-official-front.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone Duoの実機動画が公開、操作性をチェック",
-      "summaryJa": "10月の発売を控えるiPhone Duoについて、ソフトウェアキーボードやアプリのマルチタスク機能などを紹介するハンズオン動画がオンラインで複数公開されました。外側のディスプレイでの片手入力や、折りたたみ画面を横向きにした際の分割キーボードUIなどが実際に試されています。初期のテスターの間では、予想以上に文字入力がしやすく独自のカメラ機能も好評を得ていると伝えられています。"
-    },
-    {
-      "id": "f0407d9e4ad2060a4b60",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Fan Site Lets You 'Design the Next iPhone'",
-      "url": "https://www.macrumors.com/2026/09/18/fan-site-lets-you-design-the-next-iphone/",
-      "publishedAt": "2026-09-18T13:02:14.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/design-the-next-iphone.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "好みの次世代iPhoneを自由にデザインできるファンサイト",
-      "summaryJa": "デベロッパーのNeal Agarwal氏が公開したインタラクティブなウェブサイトでは、仮想のiPhoneの外観を自由にカスタマイズして「次世代のiPhone」をデザインすることができます。3Dモデルの表面にカメラやボタンだけでなく、ヘッドホンジャックや回転ダイヤル、果てはステアリングホイールなどのパーツまで自由に配置可能です。完成したデザインはモックアップの製品プレゼンテーション風に演出され、動画としてダウンロードして楽しむこともできます。"
-    },
-    {
-      "id": "71aa2bca033ffe06273d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Stores Have a New 'Hello' Easter Egg, Here's Why",
-      "url": "https://www.macrumors.com/2026/09/18/apple-stores-have-new-hello-easter-egg/",
-      "publishedAt": "2026-09-18T12:42:21.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Store-Hello.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "世界のApple Storeに登場した「hello」の隠し要素",
-      "summaryJa": "世界各国のApple Storeの店内に、iPhoneのカメラのズーム機能をテストするための新しい「hello」の装飾が設置されました。本日発売されたiPhone 18 Proモデルなどが搭載する新しい光学ズーム性能を、店舗で実際に試してもらうための演出となっています。新モデルを手に入れたユーザーが、店頭で進化したカメラの倍率や写りを確認できる仕組みです。"
-    },
-    {
-      "id": "c0959efdc546926749cf",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro: The New Features You Should Try First",
-      "url": "https://www.macrumors.com/guide/iphone-18-pro-how-to-use-new-features/",
-      "publishedAt": "2026-09-18T12:11:44.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-16x9-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proが発売、最初に試したい新機能まとめ",
-      "summaryJa": "世界各国でiPhone 18 ProおよびiPhone 18 Pro Maxの販売が開始され、新モデルを手に入れたユーザー向けの解説記事が公開されています。可変絞りやホワイトバランスの調整、プロ向けコントロール機能など、新しくなったカメラ機能の使い方を詳しく確認できます。また、ダイナミックアイランドやアクションボタンの活用法に加え、最新OSで利用できる便利な新機能の数々が紹介されています。"
-    },
-    {
-      "id": "2cf77dc150ec2726240e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27: My favorite new iPhone features (other than AI)",
-      "url": "https://9to5mac.com/2026/09/18/ios-27-my-favorite-new-iphone-features-other-than-ai/",
-      "publishedAt": "2026-09-18T11:40:01.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27が提供開始、AI以外の注目すべき新機能",
-      "summaryJa": "今週リリースされたiOS 27には多くのApple IntelligenceやSiri関連の機能が含まれていますが、それ以外にも便利な機能が多数追加されています。ミュージックアプリの「オートミックス」のトランジション刷新、iCloud共有アルバムでのフル解像度共有、時計アプリのアラーム音量個別設定などが導入されました。さらに、新しい特大ホーム画面ウィジェットや、写真からビデオフレームを保存する機能なども利用できるようになります。"
-    },
-    {
-      "id": "135ef195a1adb3917b83",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro: Using the New Variable Aperture Lens",
-      "url": "https://www.macrumors.com/how-to/iphone-18-pro-using-variable-aperture/",
-      "publishedAt": "2026-09-18T09:00:02.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-iPhone-18-Pro-2up-16x9-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの新しい可変絞りレンズの使い方",
-      "summaryJa": "iPhone 18 ProおよびPro Maxモデルには、メインカメラに新しく4段階の可変絞りレンズが搭載されました。これにより、レンズに入る光の量を物理的に調整でき、暗所での撮影性能が約50％向上します。自動での調整だけでなく、カメラアプリから手動で絞り値を切り替えてスタイリッシュな表現を楽しむことも可能です。"
-    },
-    {
-      "id": "c891e60c2d4239c0991c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Forgot to Pre-Order iPhone 18 Pro? Apple Store Pickup Available Today at Most Locations",
-      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-apple-store-pickup-available-today/",
-      "publishedAt": "2026-09-18T08:00:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-prices.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Proの予約を逃しても店頭受取が可能",
-      "summaryJa": "世界中でiPhone 18 ProおよびiPhone 18 Pro Maxの配送が始まる中、事前予約をしていない場合でも、多くのApple Storeで当日店頭受取を利用できる状況となっています。オンラインでは数週間の待ち時間が発生している地域もありますが、店舗によっては在庫が用意されており、公式サイトやストアアプリから手続きを行うことで購入が可能です。"
-    },
-    {
-      "id": "84fdb5c6cc6cfecb93c9",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
-      "url": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
-      "publishedAt": "2026-09-18T05:02:14.780Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "新型iPhoneやApple Watchが世界中の店頭に登場",
-      "summaryJa": "世界各国のApple Storeで、iPhone 18 Proシリーズをはじめ、Apple Watch Series 12、Apple Watch Ultra 4、AirPods 5の販売が開始されました。店頭ではスタッフによる製品のデモやパーソナルセットアップのサポートが行われ、多くの顧客が新しいラインナップを手に取りました。下取りプログラムや各種支払い方法を利用して購入することができます。"
     }
   ],
-  "updatedAt": "2026-09-28T11:45:43.365Z",
+  "updatedAt": "2026-09-28T18:53:53.399Z",
   "initialized": true,
   "summaryVersion": 4
 }
