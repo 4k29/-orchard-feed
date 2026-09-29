@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "b87e2d3689c3060ed0b9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Planning to Launch Products Faster and More Often",
+      "url": "https://www.macrumors.com/2026/09/29/apple-to-launch-products-faster-and-more-often/",
+      "publishedAt": "2026-09-29T15:55:40.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/09/Apple-Logo-Spotlight.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleの新体制、製品開発の加速と組織のスリム化を計画か",
+      "summaryJa": "Appleの新CEOであるジョン・ターナス氏が、製品開発の加速と頻繁な新製品投入を目指して社内体制の再編を計画していると報じられています。従来の春と秋のリリースサイクルを見直し、年間を通じて迅速に新デバイスを投入するほか、中間管理職の削減によってエンジニアと経営陣の距離を縮める方針です。AI時代において競争力を維持するため、より実験的な試みを進め、少人数で効率的な組織作りを目指すとしています。"
+    },
+    {
+      "id": "e437630106c0ddee5057",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "John Ternus has big plans to make Apple ‘leaner’ and release more products",
+      "url": "https://9to5mac.com/2026/09/29/john-ternus-apple-new-products-leaner/",
+      "publishedAt": "2026-09-29T15:39:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC02665.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleのジョン・ターナス新CEO、組織のスリム化と製品投入の迅速化を計画か",
+      "summaryJa": "Appleの新CEOであるジョン・ターナス氏が、組織をより迅速かつスリムに改革する大型プランを進めていると伝えられています。従来の春と秋のリリースサイクルに依存せず、より頻繁かつ実験的に新製品を投入することを目指す方針です。また、エンジニアと上級幹部の間の階層を減らすため中間管理職の削減も進められており、ハードウェアエンジニアリング部門の一部ディレクターやプログラムマネージャーがすでに解雇の対象になっていると報じられています。"
+    },
+    {
+      "id": "15a32383d8452ba69387",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: M5 MacBook Air, MacBook Pro $500 off, Mac Studio, accessories from $20 or less, more",
+      "url": "https://9to5mac.com/2026/09/29/deals-macbook-air-macbook-pro-mac-studio-accessories/",
+      "publishedAt": "2026-09-29T15:35:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-MacBook-Pro-Apple-Watch.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AmazonセールでM5搭載MacBook ProやMacBook Airなどが割引価格に",
+      "summaryJa": "秋のAmazonプライムデーセールに合わせ、最新のMacBook ProやMacBook Air、Mac StudioなどのApple製品が大幅な割引価格で販売されています。特に2TBのストレージを搭載したM5 ProのMacBook Proは500ドル引きとなるなど、過去数ヶ月の最安値に近い価格で購入可能です。M5 MacBook Airの各モデルやApple Watch Ultra 3のクリアランスセールなども同時に実施されており、周辺機器を含めてお買い得な状況となっています。"
+    },
+    {
+      "id": "de8592d3be6201e8314c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Amazon Discounting New Mac Mini and Mac Studio Alongside Early Prime Day Deals on Monitors",
+      "url": "https://www.macrumors.com/2026/09/29/amazon-mac-prime-day-monitors/",
+      "publishedAt": "2026-09-29T14:42:23.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazonセール、新型Mac miniやMac Studioが早くも割引対象に",
+      "summaryJa": "Amazonのプライムビッグディールデイズに向けた先行セールにおいて、新型のMac miniやMac StudioなどのApple製デスクトップが早くも割引価格で登場しています。M5 Max搭載のMac StudioやM6・M5 Pro搭載のMac miniの特定モデルが数十ドル引きで販売されています。また、同時にサムスン製の各種モニターも最大42%オフとなる大幅割引を実施しており、新しいMacとの組み合わせに最適な周辺機器も多数セール対象となっています。"
+    },
+    {
+      "id": "b22cce64e22861210f05",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27’s Shortcuts app adds 35+ new, improved actions, here’s what’s new",
+      "url": "https://9to5mac.com/2026/09/29/ios-27s-shortcuts-app-adds-35-new-improved-actions-heres-whats-new/",
+      "publishedAt": "2026-09-29T14:36:26.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/shortcuts-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27のショートカットアプリ、35以上の新機能と改善を追加",
+      "summaryJa": "iOS 27のショートカットアプリには、メッセージ、リマインダー、VPN、写真などに関する35以上の新しいアクションや自動化が追加されました。さらに、Apple Intelligenceモデルの活用やWeb情報の取得機能の強化など、既存のアクションもより強力にアップデートされています。"
+    },
+    {
+      "id": "74d8b48e2df0ba35c687",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Reminders just got more powerful, here’s what’s new in iOS 27",
+      "url": "https://9to5mac.com/2026/09/29/heres-everything-new-for-reminders-in-ios-27/",
+      "publishedAt": "2026-09-29T14:14:15.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/reminders-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27のリマインダーアプリで強化された新機能の数々",
+      "summaryJa": "iOS 27のリマインダーアプリでは、Apple Intelligenceを活用した自然言語でのリマインダー作成や詳細な記述が可能になりました。リスト内のメタデータエディターが刷新されてより使いやすくなり、買い物リストの自動並び替え機能も改善されています。"
+    },
+    {
+      "id": "d5a72b43c6184403b78c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV unveils chilling serial killer thriller based on bestselling novel",
+      "url": "https://9to5mac.com/2026/09/29/apple-tv-unveils-chilling-serial-killer-thriller-based-on-bestselling-novel/",
+      "publishedAt": "2026-09-29T13:52:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/nocturne-liev-schreiber-hat.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、新作スリラーシリーズ「Nocturne」の予告編を公開",
+      "summaryJa": "Apple TVは、ベストセラー犯罪小説を原作とする新作スリラーシリーズ「Nocturne」の予告編を公開しました。元兵士の刑事と巧妙な連続殺人犯の攻防を描く物語で、10月30日に最初の2話が配信され、その後毎週配信される予定です。"
+    },
+    {
+      "id": "3d0b64a995de573689d5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New Apple TV 4K Hinted at in Support Document",
+      "url": "https://www.macrumors.com/2026/09/29/new-apple-tv-4k-hinted-at-in-support-document/",
+      "publishedAt": "2026-09-29T13:49:32.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleのサポート文書から新型Apple TV 4Kの登場を匂わせる記述",
+      "summaryJa": "Appleが更新したApple Musicのロスレスオーディオに関するサポート文書に、現行の第3世代以降を指す文言が含まれていることが分かりました。これにより新型Apple TV 4Kの登場が期待されており、次期モデルではA19チップの搭載やApple Intelligenceへの対応などが噂されています。"
+    },
+    {
+      "id": "2e802f371215dadfd97b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Instagram partner schools can now post content only their students can view",
+      "url": "https://9to5mac.com/2026/09/29/instagram-partner-schools-can-now-post-content-only-their-students-can-view/",
+      "publishedAt": "2026-09-29T13:47:31.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Instagram-partner-schools-can-now-post-content-only-their-students-can-view.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Instagram、学校パートナー向けに生徒限定の投稿機能などを追加",
+      "summaryJa": "Metaは、Instagramの学校パートナープログラムを拡充し、学校が在校生のみに閲覧可能なストーリーやノートを投稿できる新機能を追加しました。昨年導入された同プログラムは、サイバーいじめに関する生徒や教師からの通報を優先的に処理する仕組みとして提供されていました。今回のアップデートでは、学校から保護者や生徒への情報発信チャネルや、部活動などのグループ機能も新たに導入されています。"
+    },
+    {
+      "id": "8bb8f6c24a0d6c3b0fd6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Google has fixed an issue that caused thousands of iPhone apps to crash overnight",
+      "url": "https://9to5google.com/2026/09/29/google-firebase-iphone-app-crash-fixed/",
+      "publishedAt": "2026-09-29T13:19:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-18-Pro-homescreen.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Google、多数のiPhoneアプリが強制終了した不具合を修正",
+      "summaryJa": "GoogleのFirebaseに起因する問題により、数千ものiPhoneアプリが夜間に突然強制終了する不具合が発生しました。Googleはこの問題に対してすでに修正を適用し、現在は正常に動作しています。OSのアップデート時期と重なりましたが、iOSのバージョンに関わらず発生していました。"
+    },
+    {
+      "id": "f64cabef8c49acfe04f7",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo Reportedly Facing Production Problems Ahead of Launch",
+      "url": "https://www.macrumors.com/2026/09/29/iphone-duo-reportedly-facing-production-problems/",
+      "publishedAt": "2026-09-29T13:16:04.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-Duo-Open.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleの折りたたみ式iPhone、生産上の課題に直面か",
+      "summaryJa": "10月の発売に向け準備が進められている折りたたみ式iPhoneが、生産上の困難に直面していると報じられています。組み立ての歩留まりが低く、折りたたみディスプレイやヒンジ部品の供給遅延も影響している模様です。サプライチェーンの関係筋によると、初期の出荷台数は制限される可能性があります。"
+    },
+    {
+      "id": "ab2fe0dbbc98007f00a7",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Here's Why iPhone Apps Were Crashing",
+      "url": "https://www.macrumors.com/2026/09/29/heres-why-iphone-apps-were-crashing/",
+      "publishedAt": "2026-09-29T13:11:14.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/12/iOS-App-Store.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhoneアプリが相次ぎ強制終了した原因が判明",
+      "summaryJa": "Google Analytics for Firebaseの統合に起因する問題により、複数のiPhoneアプリが一時的に強制終了する不具合が発生しました。この問題はすでに解決されており、影響を受けたアプリは開発者側での対応なしで正常に動作するようになっています。AppleがリリースしたiOSのアップデートとは偶然時期が重なったものでした"
+    },
+    {
       "id": "55ff97b98a32b39ee614",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4322,189 +4502,9 @@
       ],
       "titleJa": "macOS版GeminiアプリにiMessage連携機能が追加へ",
       "summaryJa": "GoogleはmacOS版Geminiアプリの最新アップデートで、ローカルでのiMessage連携機能の準備を進めています。これは先週のWindows版アプリの展開に続くものであり、今後の機能拡張が注目されます。"
-    },
-    {
-      "id": "c52fdd776298a43bc48a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Max Requires 'Prepare to Ship' Battery Drain Before Shipping",
-      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-shipping-restriction/",
-      "publishedAt": "2026-09-18T23:28:05.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-max-prepare.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 18 Pro Max、発送前にバッテリーを放電する新機能が必要に",
-      "summaryJa": "iPhone 18 Pro Maxはバッテリー容量が20ワット時を超えるため、配送要件を満たすために発送前のバッテリー制御が必要になります。ユーザーは修理や下取りなどで発送する際、設定からバッテリーを安全な閾値まで放電させる専用機能を利用できます。"
-    },
-    {
-      "id": "e93ac6d23c16b84a29bd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "The Quantified Scientist tests the Apple Watch Series 12’s new heart rate sensor",
-      "url": "https://9to5mac.com/2026/09/18/the-quantified-scientist-tests-the-apple-watch-series-12s-new-heart-rate-sensor/",
-      "publishedAt": "2026-09-18T23:08:18.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-heart.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Series 12の新型心拍センサーが精度テストで高評価",
-      "summaryJa": "YouTubeチャンネル「The Quantified Scientist」がApple Watch Series 12の新しい心拍センサーの精度を検証しました。胸部心拍ストラップと比較した結果、インドアサイクリングやランニングなどの運動中において非常に高い相関を示し、優れた計測性能を発揮することが確認されました。"
-    },
-    {
-      "id": "47c52aeeebf0e10c16ac",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Hands-On With the Apple Watch Series 12",
-      "url": "https://www.macrumors.com/2026/09/18/apple-watch-series-12-hands-on/",
-      "publishedAt": "2026-09-18T21:26:09.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Series 12の実機レビューが公開",
-      "summaryJa": "Apple Watch Series 12が発売され、新機能やデザインの詳細が明らかになりました。外観の大きな変更はないものの、内部の健康センサーやS11チップが強化され、心拍数の計測精度や頻度が向上しています。また、アルミニウムモデルには高耐久なCeramic Shield 2が採用され、従来通りの一日中持続するバッテリーに加え急速充電も進化しています。"
-    },
-    {
-      "id": "e803af9c694eaf3b585b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 and iPadOS 27 expand language support for Dictionary, QuickType Keyboard, more",
-      "url": "https://9to5mac.com/2026/09/18/ios-27-and-ipados-27-expand-language-support-for-dictionary-quicktype-keyboard-more/",
-      "publishedAt": "2026-09-18T20:31:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-keyboard.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS/iPadOS 27で30以上の新言語に対応",
-      "summaryJa": "AppleはiOSおよびiPadOS 27の機能対応ページを更新し、辞書やクイックタイプキーボード、Siri、ビジュアルルックアップなどの機能で30以上の新しい言語や言語バリアントがサポートされることを確認しました。クイックタイプの予測変換や自動修正、多言語入力など、アクセシビリティや入力機能のローカライズが大幅に拡充されています。"
-    },
-    {
-      "id": "21725b25e0c7eadc60a2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Download the iPhone Duo’s official light and dark wallpapers here",
-      "url": "https://9to5mac.com/2026/09/18/download-the-iphone-duos-official-light-and-dark-wallpapers-here/",
-      "publishedAt": "2026-09-18T20:05:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-wallpapers.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "折りたたみiPhoneの公式壁紙がダウンロード可能に",
-      "summaryJa": "先日のiOS 27リリースには含まれなかった折りたたみ式iPhone「iPhone Duo」の公式壁紙が、Xcode 27.1ベータ版のシミュレーター内から発見されました。ライトモードとダークモードそれぞれに向けた計4種類の高解像度な壁紙が、開発者向けツールを通じて一般でもダウンロード可能になっています。"
-    },
-    {
-      "id": "a4805af9021eaab49f03",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "M5 Ultra and M6 Chip Benchmark Results Reveal Graphics Performance",
-      "url": "https://www.macrumors.com/2026/09/18/m5-ultra-and-m6-chip-gpu-benchmarks/",
-      "publishedAt": "2026-09-18T19:56:02.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/M6-M5-Ultra-Chips.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "M5 UltraとM6チップのGPUベンチマークが判明",
-      "summaryJa": "新モデルの発売を前に、Appleの次世代チップであるM5 UltraおよびM6のグラフィックス性能を示すGeekbenchスコアが明らかになりました。M5 Ultraは前世代のM3 Ultraから大幅に性能を伸ばし、NVIDIAのGeForce RTX 4080に匹敵するOpenCLスコアを記録しています。一方のM6チップも、前モデルからグラフィックス性能が向上していることが示されています。"
-    },
-    {
-      "id": "87b5d4fd281a3278bb5c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
-      "url": "https://9to5mac.com/2026/09/18/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
-      "publishedAt": "2026-09-18T19:45:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27でAirPods Pro 3向けにカスタムEQやGymKit対応が追加",
-      "summaryJa": "iOS 27のアップデートにより、AirPodsシリーズに様々な新機能が追加されました。特にAirPods Pro 3向けには、低・中・高音域を自由に調整できるカスタムEQ機能や、AirPodsの心拍数センサーを使ってトレッドミルなどの機器と連携するGymKit機能が提供されています。"
-    },
-    {
-      "id": "0f03b58a824fdc031dca",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Max in U.S. Equipped With Qualcomm's Snapdragon X80 Modem",
-      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-us-qualcomm-x80/",
-      "publishedAt": "2026-09-18T19:41:16.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "米国版iPhone 18 Pro MaxにはQualcomm製モデムが搭載か",
-      "summaryJa": "TechInsightsによる分解調査から、米国向けのiPhone 18 Pro MaxにはQualcommのSnapdragon X80モデムが搭載されていることが判明しました。他の地域モデルや他のiPhone 18 ProシリーズではApple独自設計のC2モデムが採用されていますが、米国版のみ異なる仕様となっています。"
-    },
-    {
-      "id": "8f78b96fc54468e72c53",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Intelligence has 20+ brand new features in iOS 27, here’s the full list",
-      "url": "https://9to5mac.com/2026/09/18/apple-intelligence-has-20-brand-new-features-in-ios-27-heres-the-full-list/",
-      "publishedAt": "2026-09-18T18:56:01.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27で刷新されたApple Intelligenceの主な新機能",
-      "summaryJa": "iOS 27では次世代のApple Intelligenceを活用した多数の新機能が導入されました。LLM時代に合わせてゼロから再構築されたSiriをはじめ、写真やメッセージ、メールなどの標準アプリでもAIを活用した機能強化が図られています。"
-    },
-    {
-      "id": "ed0a27386ff815898fa0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "HomeKit Weekly: Homey’s new Device Updates feature shows what Matter was supposed to be all along",
-      "url": "https://9to5mac.com/2026/09/18/homeys-new-device-updates-feature-shows-what-matter-was-supposed-to-be-all-along/",
-      "publishedAt": "2026-09-18T18:33:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Homey-Pro-2026-—-Interior-5-2.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "スマートホーム共通規格Matterのファームウェア更新の課題",
-      "summaryJa": "スマートホーム機器のファームウェア更新における長年の課題について、Homeyが新しいデバイス更新機能を発表しました。メーカー製アプリを使わずにMatter対応デバイスなどを一括管理・アップデートできる仕組みは、Apple Homeなどのユーザーにとっても注目すべき取り組みとなっています。"
-    },
-    {
-      "id": "0b93609607432f033298",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases Xcode 27.1 Beta With iPhone Duo Support",
-      "url": "https://www.macrumors.com/2026/09/18/apple-releases-xcode-27-1-beta-iphone-duo-support/",
-      "publishedAt": "2026-09-18T18:06:21.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/02/macOS-26-Xcode.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iPhone Duoに対応したXcode 27.1 Betaを公開",
-      "summaryJa": "Appleは、新デバイス「iPhone Duo」のアプリ開発をサポートする「Xcode 27.1 Beta」を開発者向けにリリースしました。この最新版にはiPhone Duo向けの最新SDKが含まれており、シミュレーターを通じて新しいデバイスのポーズや向きをテストできるようになります。"
-    },
-    {
-      "id": "f73863300bf826fcf623",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 vs. Ultra 4 Buyer's Guide",
-      "url": "https://www.macrumors.com/guide/apple-watch-series-12-vs-ultra-4/",
-      "publishedAt": "2026-09-18T18:03:14.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12-vs-apple-watch-ultra-4.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Series 12とUltra 4の比較ガイド",
-      "summaryJa": "「Apple Watch Series 12」と「Apple Watch Ultra 4」は、新チップや高度な健康センサーなどの優れた機能を多数共有しています。価格差がある一方で、日常的な健康追跡機能の面では両モデルに大きな違いはなく、Ultra 4は耐久性やバッテリー持続時間、アウトドア機能に特化しています。"
     }
   ],
-  "updatedAt": "2026-09-29T09:12:30.088Z",
+  "updatedAt": "2026-09-29T15:56:24.202Z",
   "initialized": true,
   "summaryVersion": 4
 }
