@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "55ff97b98a32b39ee614",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Emmy wins and recent premieres help Apple TV reach highest weekly viewership ever",
+      "url": "https://9to5mac.com/2026/09/28/emmy-wins-and-recent-premieres-help-apple-tv-reach-highest-weekly-viewership-ever/",
+      "publishedAt": "2026-09-29T01:44:04.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-intro-vibrant.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVの週間視聴数が過去最高を記録",
+      "summaryJa": "エミー賞での多数の受賞や、テッド・ラッソなどの人気作配信が重なり、Apple TVの週間視聴数が過去最高を記録しました。映画「Mayday」のヒットや受賞作品の視聴急増が全体の数値を押し上げています。"
+    },
+    {
+      "id": "01a769f80a7ecbf06c83",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple and Amazon face renewed UK antitrust lawsuit",
+      "url": "https://9to5mac.com/2026/09/28/apple-and-amazon-face-renewed-uk-antitrust-lawsuit/",
+      "publishedAt": "2026-09-29T01:21:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/amazon-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "イギリスの裁判所、AppleとAmazonへの反トラスト訴訟の進行を許可",
+      "summaryJa": "イギリスの審判所は、AppleとAmazonがAmazon上のAppleおよびBeats製品の競争を制限したとされる反トラスト訴訟の一部について、審理の継続を認めました。過去に資金調達方法などを理由に却下されていましたが、一部の争点が再び審理されることになります。"
+    },
+    {
+      "id": "2e1a5e9b1d1d1b3d1c68",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "This website lets you explore nearly 30 years of Apple product colors",
+      "url": "https://9to5mac.com/2026/09/28/this-website-lets-you-explore-nearly-30-years-of-apple-product-colors/",
+      "publishedAt": "2026-09-29T01:01:54.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-in-colour.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "約30年分のApple製品のカラーを振り返るインタラクティブサイトが登場",
+      "summaryJa": "過去30年間に発売された341種類のApple製品のカラーを網羅したインタラクティブなアーカイブサイト「Apple in Colour」が公開されました。歴代のiMacやiPhoneなどの多彩な色合いを当時の公式名称とともに楽しむことができます。"
+    },
+    {
+      "id": "d3250edc1c807c8efa6c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo StandBy Leak Reveals Five Unannounced Faces",
+      "url": "https://www.macrumors.com/2026/09/28/iphone-duo-standby-leak/",
+      "publishedAt": "2026-09-29T00:04:54.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-weather.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone Duoの新しいスタンバイモードの文字盤がリーク",
+      "summaryJa": "未発表のiPhone Duoに向けたiOSの機能から、新たなスタンバイモードの文字盤が複数発見されたと報じられています。ホームカメラの表示やスヌーピーをテーマにしたデザインなどが含まれており、発売に向けて詳細が明らかになりつつあります。"
+    },
+    {
       "id": "3cfe6081c3ef00bc782a",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -359,6 +419,51 @@
       ],
       "titleJa": "Appleの10月：新型iPhoneや新OS、多数の製品が登場か",
       "summaryJa": "今年の10月はAppleにとって非常に忙しい月になると予想されており、折りたたみ式のiPhone Duoや新OSの配信、さらには512GBのRAMを搭載したMac Studioの発売が控えています。また、新型のiPad miniやApple TV 4Kなど、最大6つの新しいApple製品が発表される可能性もあると伝えられています。新機能の追加やハードウェアの刷新により、多くの注目を集める展開となりそうです。"
+    },
+    {
+      "id": "3045a9baf70a18893a54",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "tvOS 27 adds new reason to use profiles on your Apple TV 4K",
+      "url": "https://9to5mac.com/2026/09/28/tvos-27-adds-new-reason-to-use-profiles-on-your-apple-tv-4k/",
+      "publishedAt": "2026-09-28T13:45:10.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/tvos-27-apple-tv-4k-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVのtvOS 27、アプリ使用制限を追加",
+      "summaryJa": "tvOS 27では、ユーザープロファイル機能を通じて特定のアプリの起動を制限できるようになりました。設定から個別アプリのブロックが可能になり、子どもの利用制限などを求める家庭にとって非常に役立つ改良となっています。ペアレンタルコントロールの強化の一環として提供され、共有デバイスでの利便性と安全性がさらに高まっています。"
+    },
+    {
+      "id": "3ce7196c7aa6951d61fd",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirPods 5 vs. AirPods Pro 3 Buyer's Guide: Which Should You Buy?",
+      "url": "https://www.macrumors.com/guide/airpods-5-vs-airpods-pro-3/",
+      "publishedAt": "2026-09-28T13:10:25.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/airpods-5-vs-airpods-pro-3.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirPods 5とAirPods Pro 3のどちらを選ぶべきか",
+      "summaryJa": "アクティブノイズキャンセリングを搭載したAirPods 5と、より高機能なAirPods Pro 3の比較ガイドです。AirPods 5は手頃な価格ながらノイズキャンセリングや長時間バッテリーを備える一方、Pro 3は密閉型の装着感や優れたノイズ低減、健康管理機能を提供します。自分の予算や用途に合わせて最適なモデルを選ぶための重要な違いを解説しています。"
+    },
+    {
+      "id": "3e905a4ccb259a96fc36",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Ordered to Pay $5.7 Billion Over Haptic Patent Infringement",
+      "url": "https://www.macrumors.com/2026/09/28/apple-billions-haptic-patent-lawsuit/",
+      "publishedAt": "2026-09-28T12:09:36.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2015/04/apple_watch_taptic_engine.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、触覚技術の特許侵害で約57億ドルの支払いを命じられる",
+      "summaryJa": "米国の連邦陪審は、AppleのTaptic EngineがTaction Technologyの特許を侵害したとして、約57億ドルの損害賠償を支払うよう命じました。Taction側はAppleが自社の発明を不正に使用していると主張し、長年の法廷闘争の末に陪審員が原告側の勝訴とする評決を下しました。一方のAppleはこの裁定に強く反対しており、控訴する方針を明らかにしています。"
     },
     {
       "id": "c9ee923d68038baeb821",
@@ -4397,115 +4502,9 @@
       ],
       "titleJa": "Apple Watch Series 12とUltra 4の比較ガイド",
       "summaryJa": "「Apple Watch Series 12」と「Apple Watch Ultra 4」は、新チップや高度な健康センサーなどの優れた機能を多数共有しています。価格差がある一方で、日常的な健康追跡機能の面では両モデルに大きな違いはなく、Ultra 4は耐久性やバッテリー持続時間、アウトドア機能に特化しています。"
-    },
-    {
-      "id": "16fbe06da0e026d2af7f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple VP of hardware talks iPhone Duo durability, crease, hinge, and more",
-      "url": "https://9to5mac.com/2026/09/18/apple-vp-of-hardware-talks-iphone-duo-durability-crease-hinge-and-more/",
-      "publishedAt": "2026-09-18T17:52:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-1.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple幹部がiPhone Duoの耐久性やヒンジについて語る",
-      "summaryJa": "Appleのハードウェアエンジニアリング担当副社長であるトム・マリーブ氏が、近日発売予定の「iPhone Duo」についてインタビューに答えました。耐久性やディスプレイの折り目、高級感のあるヒンジの仕組みなど、開発におけるこだわりや技術的な工夫について詳しく明かしています。"
-    },
-    {
-      "id": "51576bad6c4263e0689a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases Xcode 27.1 beta, enabling iPhone Duo app development",
-      "url": "https://9to5mac.com/2026/09/18/apple-releases-xcode-27-1-beta-enabling-iphone-duo-app-development/",
-      "publishedAt": "2026-09-18T17:50:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/xcode.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、折りたたみ式iPhone Duo向け開発のXcode 27.1 betaをリリース",
-      "summaryJa": "Appleは、10月の発売に向けて新形状の「iPhone Duo」に対応したアプリ開発を可能にする「Xcode 27.1 beta 1」を公開しました。開発者は専用シミュレーターを使ってアプリのレイアウトや動作を事前に確認し、最適化を進めることができます。"
-    },
-    {
-      "id": "2f8da4fbf6cc9eefd457",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "MacRumors Giveaway: Win an iPhone Duo From iMazing",
-      "url": "https://www.macrumors.com/2026/09/18/macrumors-giveaway-imazing-iphone-duo/",
-      "publishedAt": "2026-09-18T17:50:33.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/imazing-giveaway-iphone-duo.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "MacRumorsがiMazingとのコラボでプレゼント企画を実施",
-      "summaryJa": "MacRumorsは、iMazingとの提携によるプレゼント企画の実施を報じました。当選者にはiMazingのソフト本体に加え、iPhone Duoが提供されます。iMazingはiPhoneやiPadなどのデータ管理やバックアップを手軽に行えるMacおよびPC向けソフトウェアです。"
-    },
-    {
-      "id": "889f0423999d01d5bec8",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Meta’s new Muse AI agent app overtakes ChatGPT as top iPhone app",
-      "url": "https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/",
-      "publishedAt": "2026-09-18T17:47:37.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Muse-by-Meta.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Metaの新しいAIアプリ「Muse」が米国App StoreでChatGPTを抜いて首位を獲得",
-      "summaryJa": "Metaが提供する新しいAIエージェントアプリ「Muse」が、米国のApp Store無料アプリランキングでChatGPTを抜いて1位を獲得したと伝えられています。今月リリースされた同アプリは、カジュアルなメッセージングインターフェースを採用したエージェント型ワークフローが特徴です。また、最近ではMac版の提供も開始されています。"
-    },
-    {
-      "id": "2c2d22b4e2fcc946fb67",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "'Shop Different': Apple Retail Pioneer Ron Johnson Shares the Inside Story",
-      "url": "https://www.macrumors.com/2026/09/18/shop-different-ron-johnson-apple-retail-book/",
-      "publishedAt": "2026-09-18T17:37:28.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/shop-different-ron-johnson.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "元Apple幹部のロン・ジョンソン氏が直営店誕生の舞台裏を明かす新刊を発売",
-      "summaryJa": "1999年にスティーブ・ジョブズと共にApple Storeの立ち上げを率いたロン・ジョンソン氏が、当時の裏話を明かす新刊「Shop Different」を発売すると報じられています。本書では、従来の店舗でのMacの販売方法に不満を抱いたジョブズが独自の直営店構想を描き、最初の店舗を成功させるまでの苦闘と軌跡が詳細に語られています。"
-    },
-    {
-      "id": "b48d554dac89e279253f",
-      "source": "Apple Developer",
-      "sourceId": "apple-developer",
-      "category": "developer",
-      "titleOriginal": "Build for iPhone Duo with new resources",
-      "url": "https://developer.apple.com/news/?id=nyuppv9r",
-      "publishedAt": "2026-09-18T17:00:57.000Z",
-      "imageUrl": "https://devimages-cdn.apple.com/wwdc-services/articles/images/DF24E0B0-3564-444A-B15A-344E3FDC834F/2048.jpeg",
-      "tags": [
-        "Developer",
-        "公式"
-      ],
-      "titleJa": "Apple、iPhone Duo向けの開発リソースとXcodeベータ版を提供",
-      "summaryJa": "Appleは、iPhone Duoに向けたアプリ開発を支援する新たなリソースやXcode 27.1ベータ版を公開しました。FigmaやSketch向けのデザインキットがApple Design Resourcesからダウンロード可能になっています。開発者は世界各地で開催されるワークショップを通じて、アプリの最適化や各画面サイズに合わせたカスタマイズ手法を学ぶことができます。"
-    },
-    {
-      "id": "2cc016da7ff2f0cb93d3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Teams Up With ROSÉ for iPhone 18 Pro Camera Ad",
-      "url": "https://www.macrumors.com/2026/09/18/apple-iphone-18-pro-camera-ad/",
-      "publishedAt": "2026-09-18T16:36:35.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、ROSÉを起用したiPhone 18 Proのカメラ広告を公開",
-      "summaryJa": "AppleはBlackpinkのメンバーであるROSÉの最新ミュージックビデオを使用した、iPhone 18 Proの新しい「Shot on iPhone」広告を公開しました。「new trick」の楽曲ビデオはiPhone 18 Proで撮影されており、撮影の裏側や機材の様子も紹介されています。48メガピクセルメインカメラの可変絞りにより、暗所での撮影性能が向上し、ミュージックビデオに印象的な被写界深度がもたらされたと説明されています。"
     }
   ],
-  "updatedAt": "2026-09-28T23:41:54.851Z",
+  "updatedAt": "2026-09-29T02:46:34.918Z",
   "initialized": true,
   "summaryVersion": 4
 }
