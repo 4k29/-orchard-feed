@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "c9da4adf10424813e37e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "OpenAI Launches Always-On 'Dots' Agents to Rival Meta's Muse",
+      "url": "https://www.macrumors.com/2026/09/29/openai-launches-dots/",
+      "publishedAt": "2026-09-29T22:45:10.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/openai-dots.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "OpenAI、常時稼働AIエージェント「Dots」を発表",
+      "summaryJa": "OpenAIは、Metaの「Muse」に対抗する常時稼働型AIエージェント「Dots」を発表しました。GPT-6 Astraモデルを搭載し、クラウド上のブラウザ環境や多数のアプリと連携しながらユーザーの目標達成を24時間サポートします。Proなどの上位プラン向けに順次提供が開始され、フィードバックを学習して好みに合わせた動作を行うのが特徴です。"
+    },
+    {
+      "id": "0e373915c7b8e6ec7723",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV renews French drama ‘Carême’ for season two",
+      "url": "https://9to5mac.com/2026/09/29/apple-tv-renews-french-drama-careme-for-season-two/",
+      "publishedAt": "2026-09-29T21:55:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/careme.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、フランスのドラマ「Carême」シーズン2制作へ",
+      "summaryJa": "Apple TVは、フランス語のドラマシリーズ「Carême」のシーズン2制作決定を発表しました。ナポレオン時代のフランスで活躍した世界初のセレブシェフ、アントナン・カレームの生涯を描いた作品です。シーズン2の撮影はパリで来週から開始される予定で、配信日については現時点でアナウンスされていません。"
+    },
+    {
+      "id": "6ea8484db007a988f9a6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AirPods 5 Teardown: Batteries Removable, Case Still Tough",
+      "url": "https://www.macrumors.com/2026/09/29/ifixit-airpods-5-teardown/",
+      "publishedAt": "2026-09-29T21:38:41.000Z",
+      "imageUrl": null,
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AirPods 5分解レポート、バッテリー交換が一部可能に",
+      "summaryJa": "iFixitが「AirPods 5」の分解レポートを公開し、従来のモデルに比べてイヤホン本体の修理しやすさが向上していることが明らかになりました。イヤホン内部には取り外し可能なバッテリーが採用され、専用の工具などを使うことで交換のハードルが下がっています。ただし、充電ケースについては依然として分解が困難な構造のままとなっています。"
+    },
+    {
+      "id": "03f51445b7d83ad82d78",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Owners Complain of Speaker Crackling or Popping",
+      "url": "https://www.macrumors.com/2026/09/29/iphone-18-pro-speaker-crackling/",
+      "publishedAt": "2026-09-29T21:03:14.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-iPhone-18-Pro-2up-16x9-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proユーザーからスピーカーの異音報告",
+      "summaryJa": "一部のiPhone 18 ProおよびPro Maxユーザーの間で、内蔵スピーカーからパチパチというノイズやポップ音が聞こえるという不具合の報告が相次いでいます。アプリの使用中や通知の受信時、通話中などに発生するケースが報告されており、現時点でソフトウェアアップデートでの修正は確認されていません。原因や影響の広がりについては今後Appleの対応が注目されます。"
+    },
+    {
+      "id": "428542965f189e27f854",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 29, 2026 – iOS 27.0.1, iPhone Duo features",
+      "url": "https://9to5mac.com/2026/09/29/daily-september-29-2026/",
+      "publishedAt": "2026-09-29T21:01:25.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "9to5Mac Daily：iOS 27.0.1のリリースとiPhone Duoの機能",
+      "summaryJa": "AppleがリリースしたiOS 27.0.1やmacOSのアップデートに加え、まだ未発表のiPhone Duoに関するリーク情報について解説しています。さらに、探すアプリに追加された3つの新しいキー機能や、日々のトップニュースを振り返ります。"
+    },
+    {
+      "id": "70b5dc85ce1e80890442",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iFixit teardown of the new AirPods 5 reveals first real repairability improvement",
+      "url": "https://9to5mac.com/2026/09/29/ifixit-teardown-of-the-new-airpods-5-reveals-first-real-repairability-improvement/",
+      "publishedAt": "2026-09-29T20:54:37.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/airpods-5-teardown.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPods 5の分解で初の修理しやすさ向上を確認",
+      "summaryJa": "iFixitが新しいAirPods 5の分解を行い、初代の発売以来初めて修理スコアが0点から2点へと向上したことを明らかにしました。内部のバッテリーが完全に破壊せずに取り外せるようになった一方で、充電ケースやさらなる内部へのアクセスは依然として困難なままとなっています。"
+    },
+    {
       "id": "e2615b233e6ffc165691",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -179,6 +269,99 @@
       ],
       "titleJa": "Apple、健康的なデジタル習慣を築くための家族向けガイドを発表",
       "summaryJa": "Appleはアメリカ小児科学会と提携し、家族が健全なデジタル習慣を築くための新しいガイドを発表しました。これは最新OSにおける子どもの安全機能の拡充に伴うもので、スクリーンタイムと睡眠や学習のバランスを取る方法を解説しています。子どもアカウントの作成や通信の管理など、安全にデバイスを利用するための具体的な6つのステップが紹介されています。"
+    },
+    {
+      "id": "e2b769145294a0d1b438",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Pages, Keynote, Numbers, and Pixelmator Pro just got new features",
+      "url": "https://9to5mac.com/2026/09/29/pages-keynote-numbers-and-pixelmator-pro-just-got-new-features/",
+      "publishedAt": "2026-09-29T17:15:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iwork-2026-liquid-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Pages、Keynote、Numbersなどに新機能が追加",
+      "summaryJa": "AppleはPages、Keynote、Numbers、Pixelmator Proなどのアプリ群をアップデートし、数々の新機能を展開しました。iWorkアプリではSiriを活用した質問への対応や共同編集のリクエスト機能が追加され、Pixelmator Proなどでも便利なツールやテンプレートが拡充されています。"
+    },
+    {
+      "id": "2d75fbdafa6ddbe50a94",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Amazon Expands $779.99 Apple Watch Ultra 4 Deal to More Models",
+      "url": "https://www.macrumors.com/2026/09/29/amazon-779-99-apple-watch-ultra-4/",
+      "publishedAt": "2026-09-29T17:13:30.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-ultra-4-pink.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazon、Apple Watch Ultra 4の割引対象を拡大",
+      "summaryJa": "今月発売されたばかりのApple Watch Ultra 4が、Amazonにて通常より少し安く販売されています。対象モデルがさらに拡大され、ナチュラルやブラックの特定のバンドモデルがセール価格でお得に購入できるようになっています。"
+    },
+    {
+      "id": "01c9f8609d0b6fc2000c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Switch Siri AI for ChatGPT on Your Mac",
+      "url": "https://www.macrumors.com/how-to/make-chatgpt-answer-siri-mac/",
+      "publishedAt": "2026-09-29T17:08:53.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/03/macos-27-siri-spotlight.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "MacのSiriでChatGPTを直接呼び出す方法",
+      "summaryJa": "macOS 27のSiri AIでは、OpenAIのChatGPTを直接呼び出して質問することが可能です。システム設定のSiri項目からChatGPT拡張機能をオンに設定し、検索バーなどで専用の操作を行うことで利用できます。現時点ではデフォルトのアシスタントに指定することはできませんが、必要に応じて手動で切り替えて質問を行えます。"
+    },
+    {
+      "id": "1d2bb5c19e04f1aea62e",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Final Cut CameraがiPhone 18 Proの可変絞りに対応",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
+      "publishedAt": "2026-09-29T17:07:50.527Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Final Cut CameraがiPhone 18 Proの可変絞りに対応",
+      "summaryJa": "映像撮影アプリ「Final Cut Camera」がバージョン2.4へアップデートされ、iPhone 18 Proの新しい可変絞り機能に対応しました。iOS 27環境下で、シャッター角度やISOなどの設定へのアクセスが向上し、プロ仕様のビデオスコープやクリーンSDI出力などの高度なオプションが利用可能になります。"
+    },
+    {
+      "id": "cf81b7f0e1113eefb839",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple Creator Studioに新たなアップデート",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
+      "publishedAt": "2026-09-29T17:05:34.051Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple Creator Studioが各種アプリの機能を大幅拡張",
+      "summaryJa": "AppleはCreator Studioをアップデートし、Pixelmator Proへの高度な選択ツールの追加や、Final Cut Proでのシネマティックモード編集機能の強化を行いました。さらに、KeynoteやNumbersなどの生産性アプリでも新機能やテンプレートが追加され、共同作業の利便性が向上しています。"
+    },
+    {
+      "id": "91bd550d62a83631d258",
+      "source": "Apple Newsroom 日本",
+      "sourceId": "apple-newsroom-jp",
+      "category": "official",
+      "titleOriginal": "Apple、家族が健全なデジタル習慣を身につけるのに役立つ新しいガイドを公開",
+      "url": "https://www.apple.com/jp/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
+      "publishedAt": "2026-09-29T17:04:30.193Z",
+      "imageUrl": null,
+      "tags": [
+        "公式",
+        "日本"
+      ],
+      "titleJa": "Apple、健全なデジタル習慣を支援するガイドを公開",
+      "summaryJa": "Appleは米国小児科学会との連携により、家族が健全なデジタル習慣を身につけるための新しいガイドを公開しました。スクリーンタイム機能の活用方法や、年齢に応じたアカウント設定、スケジュール作成などを通じて、保護者が子どものデジタルライフをサポートするための手順を解説しています。"
     },
     {
       "id": "b87e2d3689c3060ed0b9",
@@ -4322,189 +4505,9 @@
       ],
       "titleJa": "Apple Watch新モデルで原因不明の再起動問題が複数報告",
       "summaryJa": "一部のApple Watch Series 12およびUltra 4ユーザーの間で、デバイスが突然予期せぬ再起動を繰り返す不具合が報告されています。診断ログからはApple Neural Engineのタイムアウトが原因である可能性が示されており、広範なユーザーに影響を与えている模様です。現時点でAppleからの公式な見解や対応は発表されていません。"
-    },
-    {
-      "id": "577b2e549057623d9bfc",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iFixit Shares iPhone 18 Pro Teardown With Inside Look at New Features",
-      "url": "https://www.macrumors.com/2026/09/20/ifixit-iphone-18-pro-teardown/",
-      "publishedAt": "2026-09-21T03:44:59.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Battery.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iFixit、iPhone 18 Proの分解レポートを公開",
-      "summaryJa": "iFixitが「iPhone 18 Pro」および「iPhone 18 Pro Max」の分解動画と記事を公開し、内部構造や新しい詳細を明らかにしました。eSIM専用モデルのバッテリー容量は前モデルから増加しており、新搭載の可変絞りシステムや大型化したベイパーチャンバーなども確認されています。一方で、NANDがロジックボードの内部に配置されたことでストレージ関連の修理がより複雑になっているほか、分解時に画面のプラスチックフレームが破損する事例も報告されています。"
-    },
-    {
-      "id": "726b5d98fc9dd0eedb4f",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Fitness+ Layoffs Reported Ahead of Potential 'Major' Changes",
-      "url": "https://www.macrumors.com/2026/09/20/apple-fitness-plus-layoffs-reported/",
-      "publishedAt": "2026-09-21T03:00:03.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2022/05/apple-fitness-plus-feature-magenta.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Fitness+で人員削減か、大規模な変更の可能性",
-      "summaryJa": "Bloombergのマーク・ガーマン記者が報じたところによると、Appleが先週「Apple Fitness+」チームの少数の従業員を解雇したと伝えられています。社内では、この人員削減が今後数か月から数年かけて予定されている大規模なコスト削減策やサービスの大幅な変更の始まりと受け止められている模様です。今後のサービスの展開や組織体制の変化に注目が集まっています。"
-    },
-    {
-      "id": "3272764718dedb72d96c",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "A Shorter Apple Pencil Was Supposed to Launch Alongside iPhone Duo",
-      "url": "https://www.macrumors.com/2026/09/20/iphone-duo-lacks-shorter-apple-pencil/",
-      "publishedAt": "2026-09-21T02:47:43.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-hero.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone Duo向けにより短いApple Pencilが開発されていたか",
-      "summaryJa": "Bloombergのマーク・ガーマン記者が報じたところによると、AppleはiPhone Duo向けに開発していた短縮版のApple Pencilを量産前の技術的問題により断念したと伝えられています。その代わりに、iPhone Duoは今年後半に既存のUSB-C対応Apple Pencilのサポートを追加する予定とのことです。開発中止となったスタイラスペンの詳細や、今後の対応製品に関する動向に関心が集まっています。"
-    },
-    {
-      "id": "a0fa51c2787fd98d45c4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Siri AI Settlement Website Now Live: Apple to Pay Some iPhone Owners",
-      "url": "https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/",
-      "publishedAt": "2026-09-21T02:24:32.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/03/iOS-18-Siri-Personal-Context.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "SiriのAI機能めぐる集団訴訟で和解手続きの特設サイトが開設",
-      "summaryJa": "AppleがSiriのAI機能の提供遅延をめぐる米国での集団訴訟で和解金2億5000万ドルを支払うことに合意し、専用の和解手続きウェブサイトが開設されました。対象となるiPhoneユーザーは今年9月21日から12月21日までの間に申請を行うことで、1台あたり推定25ドルの支払いを受け取ることができます。Appleは不正の主張を否定しているものの、裁判のコストやリスクを回避するために和解に応じたとしています。"
-    },
-    {
-      "id": "7e79b1f589c82e917a68",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Delayed Apple TV series ‘The Savant’ may finally air next year",
-      "url": "https://9to5mac.com/2026/09/20/apple-tv-the-savant-another-release-date/",
-      "publishedAt": "2026-09-20T22:52:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/the-savant-coming-later-date.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TVの注目作「The Savant」が2027年春に配信か",
-      "summaryJa": "ジェシカ・チャステイン主演のApple TVシリーズ「The Savant」は、配信直前に公開が見送られていましたが、2027年春に配信スケジュールが再設定されたと報じられています。エミー賞の受賞を視野に入れて春の公開を目指していると伝えられており、今後の動向が注目されます。"
-    },
-    {
-      "id": "6756c5770753e49dc969",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Review: Satechi’s Thunderbolt 5 CubeDock pairs perfectly with the new M6 Mac mini",
-      "url": "https://9to5mac.com/2026/09/20/satechi-thunderbolt-5-cubedock-mac-mini-review/",
-      "publishedAt": "2026-09-20T22:29:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC01978.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Satechi、新型Mac miniに最適化されたThunderbolt 5対応ドックを発売",
-      "summaryJa": "Satechiは、新型Mac miniのデザインに合わせたThunderbolt 5対応の「CubeDock」を発表しました。Mac miniと同等の形状を持ちながら、最大140Wのホスト充電や多数のポート、さらにNVMe SSDベイを搭載している点が特徴です。高価格帯ながら、拡張性とデザイン性を両立した優れた周辺機器として注目されています。"
-    },
-    {
-      "id": "de62f1d00d7113abba4f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iFixit tears down iPhone 18 Pro, explores variable aperture, finds concerning repair issue",
-      "url": "https://9to5mac.com/2026/09/20/ifixit-tears-down-iphone-18-pro-explores-variable-aperture-finds-concerning-repair-issue/",
-      "publishedAt": "2026-09-20T22:02:17.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ifixit-18-pro-teardown.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iFixit、iPhone 18 Proの分解レポートを公開し可変絞りなどを検証",
-      "summaryJa": "iFixitが「iPhone 18 Pro」の分解を行い、新しい可変絞り機構や画面下埋め込み式のFace IDカメラ、大型化したベイパーチャンバーの詳細を明らかにしました。可変絞りは電磁石で制御される非常に微細な仕組みであり、故障時の修理にはカメラ全体の交換が必要になる可能性があると指摘されています。"
-    },
-    {
-      "id": "375c5e417d5e1d91ae97",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Five ways that the new Siri AI is frustrating iPhone and Apple Watch users",
-      "url": "https://9to5mac.com/2026/09/20/five-ways-that-the-new-siri-ai-is-frustrating-iphone-and-apple-watch-users/",
-      "publishedAt": "2026-09-20T18:35:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新しいSiri AI、iPhoneなどのユーザーから不満の声",
-      "summaryJa": "iOS 27の一部として今月提供が始まった新バージョンのSiri AIに対し、ユーザーの間で不満の声が上がっています。豊富な知識やメッセージ検索などの新機能が追加された一方で、ネットワーク接続エラーやインデックスの問題といったパフォーマンスの不具合が報告されています。Appleはベータ版として順次展開しており、今後のアップデートでの改善が求められています。"
-    },
-    {
-      "id": "6cdca1f4c514017fe353",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s why Apple scrapped its shorter Apple Pencil designed for iPhone Duo: report",
-      "url": "https://9to5mac.com/2026/09/20/heres-why-apple-scrapped-its-shorter-apple-pencil-designed-for-iphone-duo-report/",
-      "publishedAt": "2026-09-20T14:38:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-side-angle-unfolded.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AppleがiPhone Duo向け専用Apple Pencilの計画を断念した理由とは",
-      "summaryJa": "AppleはiPhone Duo向けに小型の専用Apple Pencilを開発していたものの、量産前の技術的課題に直面し計画を断念したと報じられています。そのため、初期モデルではUSB-C対応のApple Pencilをサポートする予定となり、ソフトウェアの対応や内部テストが進行中で今年末までに提供される見込みです。"
-    },
-    {
-      "id": "f28383599d426d5766c7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 makes your iPhone faster in these 30+ ways",
-      "url": "https://9to5mac.com/2026/09/19/ios-27-makes-your-iphone-faster-in-30-ways-heres-the-full-list/",
-      "publishedAt": "2026-09-20T00:16:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iOS 27でiPhoneの動作を高速化する30以上の改善を公開",
-      "summaryJa": "Appleは、一般向けに配信を開始した「iOS 27」において、iPhone全体の動作を高速化する30以上の改善点を明らかにした。写真アプリやSafariの読み込み速度向上、カメラ起動の高速化、各種アプリの応答性改善など、日常的なタスクをよりスムーズに行えるようシステム全体の見直しが行われている。"
-    },
-    {
-      "id": "e0a438b4db3855053acb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 and Ultra 4 missing one health-focused feature",
-      "url": "https://9to5mac.com/2026/09/19/apple-watch-series-12-ultra-4-missing-one-health-feature/",
-      "publishedAt": "2026-09-19T22:16:41.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch最新モデルで手洗いタイマーが非対応に",
-      "summaryJa": "新しく発売されたApple Watch Series 12とUltra 4のハードウェアにおいて、手洗いタイマー機能が搭載されていないことが分かりました。watchOS 27自体やヘルスケアアプリでは手洗い検出機能がサポートされているものの、最新モデルの対応ハードウェアリストからは除外されています。これが意図的なものかハードウェアの違いによるものかは現時点で不明となっています。"
-    },
-    {
-      "id": "a8fecd1a83de6e0154f0",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple is taking a little bit of a gamble with iPhone Duo software: Will it pay off?",
-      "url": "https://9to5mac.com/2026/09/19/apples-iphone-duo-software-gamble/",
-      "publishedAt": "2026-09-19T20:46:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-official-front.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone Duoのソフトウェアを巡るAppleの賭け",
-      "summaryJa": "新しいiPhone Duoでは、内部の大画面を活用するためにすべてのアプリをiOS 27以上へ再コンパイルする必要があり、開発者にとって負担となっています。独自のタブバーなどのUIを利用するにはiOS 27.1が必要であり、対応が遅れたアプリは黒帯が表示されるリスクを抱えています。Appleがリサイズ可能なiPadアプリの動作を許可しなかったのは、独自に設計された直感的なインターフェースの体験を重視したためとみられます。"
     }
   ],
-  "updatedAt": "2026-09-29T20:41:01.402Z",
+  "updatedAt": "2026-09-29T23:58:41.634Z",
   "initialized": true,
   "summaryVersion": 4
 }
