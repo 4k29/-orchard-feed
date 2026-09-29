@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "e2615b233e6ffc165691",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple faces renewed scrutiny over removal of ICEBlock from the App Store",
+      "url": "https://9to5mac.com/2026/09/29/apple-faces-renewed-scrutiny-over-removal-of-iceblock-from-the-app-store/",
+      "publishedAt": "2026-09-29T20:18:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/Former-veteran-Apple-marketing-exec-challenges-Tim-Cook-on-human-rights-over-ICEBlock.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、ICEBlockアプリ削除を巡り改めて米議会から追及",
+      "summaryJa": "米CNNによると、ジェイミー・ラスキン下院議員がAppleに対し、昨年App StoreからICEBlockアプリを削除した理由について再調査を求めていると報じられています。このアプリは当局の追跡に使われていたもので、米政府からの圧力や安全上の懸念を理由に削除された経緯があり、表現の自由との関係を巡って再び議論となっています。"
+    },
+    {
+      "id": "b3c48e991a2394035594",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "You Can 'Get Ready' for iPhone Duo Pre-Orders on October 12",
+      "url": "https://www.macrumors.com/2026/09/29/iphone-duo-get-ready-oct-12/",
+      "publishedAt": "2026-09-29T20:10:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-get-ready.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone Duo、10月12日から事前準備が可能に",
+      "summaryJa": "新型「iPhone Duo」の予約注文に先立ち、10月12日から事前準備機能「Get Ready」が利用可能になると報じられています。あらかじめカラーや容量、支払い方法などを登録しておくことで、10月16日の予約開始時にワンタップでスムーズな注文が可能となります。"
+    },
+    {
+      "id": "cd4a9cbfc088c4460419",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Pay Reportedly Launching in India Today",
+      "url": "https://www.macrumors.com/2026/09/29/apple-pay-reportedly-launching-in-india-today/",
+      "publishedAt": "2026-09-29T19:52:35.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Pay-India.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Pay、インドで本日サービス開始か",
+      "summaryJa": "テックメディアのTechCrunchによると、Apple Payがインドで本日現地時間よりサービスを開始する見通しです。当初はアクシス銀行のビザおよびマスターカード対応クレジットカードからサポートが開始されますが、既存のデジタル決済基盤の普及に伴い、初期の展開は限定的になると伝えられています。"
+    },
+    {
+      "id": "15010b3d02ebd416743d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple announces when you can start the iPhone Duo pre-order process",
+      "url": "https://9to5mac.com/2026/09/29/apple-announces-when-you-can-start-the-iphone-duo-pre-order-process/",
+      "publishedAt": "2026-09-29T19:33:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-night-sky-front-back.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPhone Duoの予約事前準備の開始日を発表",
+      "summaryJa": "Appleは、10月16日に控える「iPhone Duo」の予約注文に向けて、10月12日から事前準備の受付を開始すると発表しました。ユーザーは事前にカラーやストレージ容量、キャリア、支払い方法などを登録しておくことで、予約開始時に素早く手続きを完了させることができます。"
+    },
+    {
+      "id": "180f0025cba473a7eebd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Early fall Prime Day deals now live: MacBook, AirTag 2, MagSafe gear, TVs, smart speakers, more",
+      "url": "https://9to5mac.com/2026/09/29/early-fall-prime-day-deals-now-live/",
+      "publishedAt": "2026-09-29T19:05:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Early-fall-Prime-Day-deals-01.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AmazonのプライムデーセールでApple製品が特別価格に",
+      "summaryJa": "Amazonの早期プライムデーセールが本格的にスタートし、数多くのApple製品が値引きされています。AirTag 2が過去最安値となっているほか、M5 Pro搭載MacBook ProやMacBook Air、各種アクセサリなども対象に含まれています。セールは来週まで継続し、随時価格や対象商品が更新される予定です。"
+    },
+    {
+      "id": "d789f881936427b35f80",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.2: Three new features coming soon to your iPhone",
+      "url": "https://9to5mac.com/2026/09/29/ios-27-2-three-new-features-coming-soon-to-your-iphone/",
+      "publishedAt": "2026-09-29T18:53:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-2-iphone-18-pro-burgundy.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27.2で導入予定の新たな3つの機能が明らかに",
+      "summaryJa": "Appleが準備を進めている次期アップデート「iOS 27.2」に搭載される3つの新機能が判明しました。グループFaceTineでのデュアルキャプチャ機能への対応、ポッドキャストアプリの「Up Next」キューの刷新による使いやすさの向上、そしてiPhone向けのApple TVアプリでのユーザープロファイルサポートが含まれています。"
+    },
+    {
+      "id": "11abbcce18d325822498",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Releases New AirPods Beta Firmware",
+      "url": "https://www.macrumors.com/2026/09/29/apple-releases-new-airpods-beta-firmware-september/",
+      "publishedAt": "2026-09-29T18:38:03.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/08/AirPods-Pro-Beta-Firmware-2.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、AirPods各モデル向けに新しいベータファームウェアを配信",
+      "summaryJa": "Appleは、AirPods ProやAirPods 4、AirPods Maxなどの対象モデルに向けて、新しいベータファームウェアの配信を開始しました。今回のビルド番号は9B5042aとなっており、開発者およびパブリックベータテスター向けに提供されています。AirPodsのベータ版には通常リリースノートが用意されていないため、具体的な変更点は明らかにされていません。"
+    },
+    {
+      "id": "4fd8a571668dc5e72ad7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AirPods Pro 3 and more just got new firmware update in beta",
+      "url": "https://9to5mac.com/2026/09/29/airpods-pro-3-and-more-just-got-new-firmware-update-in-beta/",
+      "publishedAt": "2026-09-29T18:34:24.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/airpods-pro-3-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AirPods向けにビルド番号9B5042aのベータファームウェアが登場",
+      "summaryJa": "AppleがH2チップを搭載したAirPodsシリーズを対象に、新たなベータファームウェアの提供を開始しました。対象となるのはAirPods Pro 3やAirPods Pro 2、AirPods 5などで、ビルド番号は9B5042aとなっています。現時点では詳細な変更内容は公開されておらず、バグ修正や今後のiOSアップデートに向けた準備とみられています。"
+    },
+    {
+      "id": "c67acb9071f04177fdd4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Shares New Guide for Using iOS 27 Parental Controls",
+      "url": "https://www.macrumors.com/2026/09/29/apple-ios-27-parental-control-guide/",
+      "publishedAt": "2026-09-29T18:28:50.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-parental-control-guide.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、iOSなどのペア parental コントロール活用ガイドを公開",
+      "summaryJa": "Appleはアメリカ小児科学会と共同で、子どもの健全なデジタル習慣づくりを支援する新しいガイドを公開しました。この6ステップのガイドには、スクリーンタイムと睡眠や運動のバランスを取る方法や、保護者向けコントロール機能の活用法が含まれています。子どもの年齢に応じた安全機能の設定や、ウェブサイトの閲覧制限などについて分かりやすく解説されています。"
+    },
+    {
+      "id": "394a6f5bbce952f9e10f",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Creator Studio and Final Cut Camera Get New Features",
+      "url": "https://www.macrumors.com/2026/09/29/apple-creator-studio-new-features/",
+      "publishedAt": "2026-09-29T17:57:56.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-creator-studio-scaled.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Final Cut CameraやCreator Studioなどがアップデート",
+      "summaryJa": "AppleはiOS向けにFinal Cut Cameraなどのアプリをアップデートし、新機能を追加しました。プロ向け撮影アプリのFinal Cut Cameraでは、可変絞りのサポートやシネマティックモード効果などに対応しています。また、各iWorkアプリやFinal Cut Proなども刷新され、より高度な編集機能やテンプレートが利用できるようになりました。"
+    },
+    {
+      "id": "74213ec97cb4034e7684",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Explains Why It Removed ICE Tracking Apps Last Year",
+      "url": "https://www.macrumors.com/2026/09/29/apple-explains-why-it-removed-ice-tracking-apps/",
+      "publishedAt": "2026-09-29T17:33:49.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/12/Apple-App-Store-Awards-2025.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、移民税関捜査官追跡アプリの削除理由を説明",
+      "summaryJa": "Appleは米下院議員宛ての書簡で、移民税関捜査官の位置情報をリアルタイムで共有する「ICEBlock」などのアプリをApp Storeから削除した理由について説明しました。削除は捜査官の安全を守るための懸念に基づくものであり、ガイドライン違反に該当すると判断されたためです。これらのアプリは安全上の理由から今後もストアに戻る予定はありません。"
+    },
+    {
+      "id": "2f23e095f304e8ddae75",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple releases guide to help families ‘build healthy digital habits’",
+      "url": "https://9to5mac.com/2026/09/29/apple-releases-guide-to-help-families-build-healthy-digital-habits/",
+      "publishedAt": "2026-09-29T17:31:25.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-child-account-hero-260608.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、健康的なデジタル習慣を築くための家族向けガイドを発表",
+      "summaryJa": "Appleはアメリカ小児科学会と提携し、家族が健全なデジタル習慣を築くための新しいガイドを発表しました。これは最新OSにおける子どもの安全機能の拡充に伴うもので、スクリーンタイムと睡眠や学習のバランスを取る方法を解説しています。子どもアカウントの作成や通信の管理など、安全にデバイスを利用するための具体的な6つのステップが紹介されています。"
+    },
+    {
       "id": "b87e2d3689c3060ed0b9",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4322,189 +4502,9 @@
       ],
       "titleJa": "iPhone Duoのソフトウェアを巡るAppleの賭け",
       "summaryJa": "新しいiPhone Duoでは、内部の大画面を活用するためにすべてのアプリをiOS 27以上へ再コンパイルする必要があり、開発者にとって負担となっています。独自のタブバーなどのUIを利用するにはiOS 27.1が必要であり、対応が遅れたアプリは黒帯が表示されるリスクを抱えています。Appleがリサイズ可能なiPadアプリの動作を許可しなかったのは、独自に設計された直感的なインターフェースの体験を重視したためとみられます。"
-    },
-    {
-      "id": "e2e0c83ccf2b2dc1580e",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Indie App Spotlight: ‘GasPulse’ lets you keep an eye on gas price trends around you",
-      "url": "https://9to5mac.com/2026/09/19/indie-app-spotlight-gaspulse-lets-you-keep-an-eye-on-gas-price-trends-around-you/",
-      "publishedAt": "2026-09-19T19:30:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/GasPulse-app.png?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "周辺のガソリン価格の傾向が追えるアプリ「GasPulse」",
-      "summaryJa": "「GasPulse」は、地域ごとのガソリン価格の傾向や過去の履歴、将来の予測などをiPhone上で確認できるインディー開発の優れたツールです。エネルギー情報局の週間平均データを利用し、チャート形式で分かりやすいインターフェースを提供しています。無料の価格アラート機能やホーム画面のウィジェット、Siriへの対応なども備えており、サブスクリプションなしで利用可能です。"
-    },
-    {
-      "id": "773dcbe5b2f8d034e2de",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "M6 Pro Chip Result on Geekbench is Likely Fake",
-      "url": "https://www.macrumors.com/2026/09/19/m6-pro-geekbench-result-likely-fake/",
-      "publishedAt": "2026-09-19T17:59:10.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2023/11/apple-silicon-1-feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "M6 ProチップのGeekbench結果は偽造か",
-      "summaryJa": "未発表とされるM6 ProチップのGeekbench測定結果が浮上したものの、偽造である可能性が高いと報じられています。Geekbenchの開発者であるジョン・プール氏が内部の不整合を指摘しており、信頼性に疑問が持たれています。また、ブルームバーグのマーク・ガーマン記者は、AppleがM6 ProおよびM6 Maxチップの投入をスキップする計画であると以前に報じていました。"
-    },
-    {
-      "id": "42064d2033853d3b3956",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Ultra 4 Sees First Discount After Launch, Now $779.99 on Amazon",
-      "url": "https://www.macrumors.com/2026/09/19/apple-watch-ultra-4-launch-discounts/",
-      "publishedAt": "2026-09-19T14:46:30.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Watch-Ultra-4-hero-260909-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Ultra 4が発売直後にAmazonで初の割引",
-      "summaryJa": "発売されたばかりのApple Watch Ultra 4が、Amazonにて早くも最初のキャッシュレス割引の対象となりました。対象モデルやバンドの組み合わせによって、通常価格からわずかながら値引きされた価格で販売されています。また、新型のApple Watch Series 12のGPSモデルも同時にセール対象となっており、発売週にお得に購入できるチャンスとなっています。"
-    },
-    {
-      "id": "66f79872d43f3cfa5013",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 might finally convince me to switch away from WHOOP",
-      "url": "https://9to5mac.com/2026/09/19/heres-why-apple-watch-series-12-may-get-me-to-ditch-whoop/",
-      "publishedAt": "2026-09-19T14:09:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-health-sensing-system.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Series 12が他社製トラッカーから乗り換える理由に",
-      "summaryJa": "長年WHOOPなどの健康管理デバイスを使用していたユーザーが、Apple Watch Series 12への乗り換えを検討する理由について語っています。新モデルでは心拍数の測定頻度が5秒ごとに短縮されたほか、iOS 27の新しいApple HealthアプリやSeries 12の「Readiness」アプリにより、より詳細で分かりやすい健康スコアの確認が可能になりました。これにより、従来のApple Watchでは物足りなかったデータ収集の頻度やインターフェースの課題が改善されています。"
-    },
-    {
-      "id": "e06e440a0d6ee43313db",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Our top iPhone 18 Pro accessories to upgrade your setup [Updated]",
-      "url": "https://9to5mac.com/2026/09/19/best-iphone-18-pro-accessories/",
-      "publishedAt": "2026-09-19T13:57:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-accessories.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの発売に向けて揃えたい注目アクセサリー",
-      "summaryJa": "今週のデリバリー開始を控えたiPhone 18 Proに向けて、充電器やMagSafeマウント、ケースなどの厳選されたおすすめアクセサリーが紹介されています。特にApple製の40Wダイナミック電源アダプタは、可変電圧供給に対応し短時間での急速充電を実現するため、新しいiPhoneの性能を最大限に引き出す必須アイテムとして挙げられています。また、各ライターが愛用する最新のケースやモバイルバッテリーもあわせて紹介されています。"
-    },
-    {
-      "id": "dd7901b713f37ab63f6e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Top Stories: iOS 27 and macOS Golden Gate Out Now, Siri AI Waitlist, and More",
-      "url": "https://www.macrumors.com/2026/09/19/top-stories-ios-27-macos-golden-gate-out-now/",
-      "publishedAt": "2026-09-19T13:00:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/top-stories-2026-09-19.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iOS 27やmacOS Golden Gateを正式リリース",
-      "summaryJa": "Appleは、新製品の発売に合わせてiOS 27やiPadOS 27、macOS Golden Gateなどの大型OSアップデートを一般向けにリリースしました。新バージョンでは、多くの国でSiriにAI機能が追加されたほか、視覚情報の認識機能やデザインの刷新など、多岐にわたる機能強化と改善が含まれています。"
-    },
-    {
-      "id": "3bc1feee32e70ac023f6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple @ Work: Enterprise oassword management is still hard, and Dashlane’s new Vault Enforcement aims to fix it",
-      "url": "https://9to5mac.com/2026/09/19/apple-work-password-management-is-still-hard-and-dashlanes-new-vault-enforcement-admits-it/",
-      "publishedAt": "2026-09-19T13:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Dashlane、企業向けパスワード管理の新機能を発表",
-      "summaryJa": "企業環境におけるパスワード管理の重要性が増す中、Dashlaneは企業の認証情報をより強固に保護するための新しいソリューション「Vault Enforcement」を発表しました。組織内での安全なデバイス運用とセキュリティ対策の強化をサポートする仕組みとして注目されています。"
-    },
-    {
-      "id": "c71600be72da1cee3a8a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple weekend deals: AirPods up to $100 off, Apple Watch Series 12, MacBook Air, Mac mini, more",
-      "url": "https://9to5mac.com/2026/09/19/apple-weekend-deals-airpods-apple-watch/",
-      "publishedAt": "2026-09-19T12:01:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Weekend-deals-AirPods-Series-12-MacBook.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "週末限定、AirPodsやMac各種が割引セールに登場",
-      "summaryJa": "最新のiPhone 18 Proの発売やアマゾンのセールに合わせ、週末限定のApple製品割引セールが実施されています。AirPodsシリーズやApple Watch Series 12、さらにM6搭載のMac miniやM5搭載のMacBook Airなどが通常価格よりお得に購入できるチャンスとなっています。"
-    },
-    {
-      "id": "40e3b765b84ca03d3cdc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Max still uses a Qualcomm modem in the US, teardown confirms",
-      "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-max-still-uses-a-qualcomm-modem-in-the-us-teardown-confirms/",
-      "publishedAt": "2026-09-19T11:45:46.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-41.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "米国版iPhone 18 Pro Maxの分解調査で通信モデムが判明",
-      "summaryJa": "TechInsightsによる分解調査により、米国で販売されたiPhone 18 Pro Maxには引き続き米Qualcomm製のモデムが搭載されていることが確認されました。Appleは多くのモデルで自社製のC2モデムへ移行を進めていますが、米国向けの特定モデルではSnapdragon X80が採用されている模様です。"
-    },
-    {
-      "id": "92c0ee2a2f52f08bc2c9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro Max’s battery is so big Apple had to add this new feature to iOS 27",
-      "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-maxs-battery-is-so-big-apple-had-to-add-this-new-feature-to-ios-27/",
-      "publishedAt": "2026-09-19T11:10:57.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-max-ship.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Pro Maxの巨大バッテリーに向けた新機能をiOS 27が搭載",
-      "summaryJa": "iPhone 18 Pro Maxは非常に大型のバッテリーを搭載するため、輸送時の安全規制に対応する新しいファームウェア機能が導入されました。初期設定前はバッテリー容量が20Wh未満に制限され、アクティベーション時に解除される仕組みです。また、修理や売却の際に容量を一時的に下げる「出荷準備」機能も設定アプリに追加されています。"
-    },
-    {
-      "id": "9c3f7c5b24915017dd4a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Exec Says 'Hold Us Accountable' on iPhone Duo Crease",
-      "url": "https://www.macrumors.com/2026/09/19/apple-exec-iphone-crease/",
-      "publishedAt": "2026-09-19T04:51:11.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-weather.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone Duoの折り目についてApple幹部が言及",
-      "summaryJa": "Appleのハードウェアエンジニアリング担当副社長であるトム・マリーブ氏が、未発表のiPhone Duoについて語りました。同機には光の反射を抑え折り目の視認性を最小限にするマットなナノテクステクスチャディスプレイが採用されており、マリーブ氏は折り目の目立ちにくさについて会社に責任を持ってほしいと述べています。また、高級車のドアのような重厚感を目指したヒンジの耐久性や設計へのこだわりについても明らかにしました。"
-    },
-    {
-      "id": "0d45dd000373b4af4d65",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Gemini app for macOS adding send and read iMessage integration",
-      "url": "https://9to5google.com/2026/09/18/gemini-macos-imessage/",
-      "publishedAt": "2026-09-18T23:57:57.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Gemini-Mac-App-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "macOS版GeminiアプリにiMessage連携機能が追加へ",
-      "summaryJa": "GoogleはmacOS版Geminiアプリの最新アップデートで、ローカルでのiMessage連携機能の準備を進めています。これは先週のWindows版アプリの展開に続くものであり、今後の機能拡張が注目されます。"
     }
   ],
-  "updatedAt": "2026-09-29T15:56:24.202Z",
+  "updatedAt": "2026-09-29T20:41:01.402Z",
   "initialized": true,
   "summaryVersion": 4
 }
