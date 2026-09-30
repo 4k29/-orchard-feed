@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "5b5b8b2271af8bae5876",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Three New Apple Smart Home Products Coming on October 13",
+      "url": "https://www.macrumors.com/2026/09/30/apple-home-products-coming-on-october-13/",
+      "publishedAt": "2026-09-30T11:04:16.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/HomePod-minis-on-gradient-feature-1-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、10月13日にスマートホーム新製品3機種を発表か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者によると、Appleは10月13日に長年噂されてきたスマートホームハブデバイス、新型HomePod mini、新型Apple TVの3つの新製品を投入する計画であると報じられています。いずれの製品もSiriによるAI機能の強化に対応するため高速なチップを搭載し、HomePod miniにはピンクやグリーンなどの新色も追加される見込みです。"
+    },
+    {
+      "id": "d075f3d2e2c6f07b79ff",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s HomePad smart home hub launching on Oct 13 with iMac G4 design – Bloomberg",
+      "url": "https://9to5mac.com/2026/09/30/apples-homepad-smart-home-hub-launching-on-oct-13-bloomberg/",
+      "publishedAt": "2026-09-30T10:52:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apples-HomePad-smart-home-hub-reportedly-launching-on-Oct-13.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの新型スマートホームハブ、iMac G4風デザインで10月13日登場か",
+      "summaryJa": "Bloombergの報道によると、Appleが準備を進めてきたスマートホームハブが10月13日に発売される見通しです。このデバイスは、かつてのiMac G4にインスパイアされた6インチディスプレイを搭載し、Siriを中心とした新しいAI機能や、iOS、tvOS、watchOSの要素を組み合わせた新しいオペレーティングシステムを採用すると伝えられています。"
+    },
+    {
+      "id": "7c8212675e9a2dbb0294",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Small number of iPhone 18 Pro users report speaker ‘pops’ or ‘clicks’",
+      "url": "https://9to5mac.com/2026/09/30/small-number-of-iphone-18-pro-users-report-speaker-pops-or-clicks/",
+      "publishedAt": "2026-09-30T10:46:18.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Small-number-of-iPhone-18-Pro-users-report-speaker-pops-or-clicks.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "一部のiPhone 18 Proユーザーからスピーカーの異音を報告する声",
+      "summaryJa": "一部のiPhone 18 Proユーザーの間で、アプリの切り替え時などに内蔵スピーカーからプチプチというかすかなポップ音やクリック音が聞こえるという不具合が報告されています。発生頻度は高くなく大規模な問題には至っていませんが、Redditやフォーラムなどで複数のユーザーが同様の現象を指摘しており、ハードウェアではなくソフトウェア関連の問題ではないかと推測されています。"
+    },
+    {
       "id": "33c8c2c39914fd1368a9",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4460,54 +4505,9 @@
       ],
       "titleJa": "Apple Watch最新モデルでシアターモードの設定に新機能",
       "summaryJa": "Apple Watch Series 12およびUltra 4に搭載された新しいヘルスセンシングシステムでは、心拍数の計測頻度が大幅に向上しています。これに伴い、シアターモードや睡眠モードでは緑色のセンサーライトを避けるため計測頻度が一時的に低下しますが、シアターモード中に連続測定を維持する新しい設定項目も追加されています。"
-    },
-    {
-      "id": "4f2bb6c54039117450f3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Some iPhone 18 Pro Users Experiencing Face ID Issues",
-      "url": "https://www.macrumors.com/2026/09/21/iphone-18-pro-face-id-issues/",
-      "publishedAt": "2026-09-21T16:23:07.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Face-ID-iPhone-18-Pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "一部のiPhone 18 ProユーザーからFace IDの不具合が報告",
-      "summaryJa": "発売されたばかりのiPhone 18 ProおよびiPhone 18 Pro Maxで、Face IDに関する不具合に直面する初期購入者が一部で出ていると報じられています。特定の操作時に認証が失敗してデバイスがフリーズし、ロック画面へ再起動してしまう事例や、初期設定時にエラーメッセージが表示される問題が確認されています。iPhone 18 ProではDynamic Islandの小型化に伴い赤外線カメラの配置が変更されていますが、今回の問題との関連性は不明です。今後のiOSのアップデートにより、これらの不具合が修正される可能性が高いとみられています。"
-    },
-    {
-      "id": "ceac81d76953a3a3ccdc",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "John Ternus talks CEO offer, AI potential, more in new interview",
-      "url": "https://9to5mac.com/2026/09/21/john-ternus-talks-ceo-offer-ai-potential-more-in-new-interview/",
-      "publishedAt": "2026-09-21T16:17:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ジョン・ターナスが新CEO就任の打診やAIの将来性を語る",
-      "summaryJa": "Appleの新CEOに就任したジョン・ターナスが、メディアのロングインタビューに初めて応じました。ティム・クックからCEO就任を打診された際の驚きや、スティーブ・ジョブズとティム・クックの両氏から学んだ未来志向の重要性について語っています。また、生成AIが持つ強力な可能性や、Apple Vision Proに対する見解など、今後のビジョンについても幅広く言及しています。"
-    },
-    {
-      "id": "d8ce2274aa12407d1706",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "CardPointers updated for iOS 27 with Siri AI, automatic offer syncing, and much more",
-      "url": "https://9to5mac.com/2026/09/21/cardpointers-updated-for-ios-27-with-siri-ai-automatic-offer-syncing-and-much-more/",
-      "publishedAt": "2026-09-21T16:03:37.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Screenshot-2026-09-21-at-12.00.09-PM.png?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "「CardPointers 8」が公開、Siri AI統合や自動オファー同期に対応",
-      "summaryJa": "クレジットカードの特典や割引を最大限に活用できるアプリ「CardPointers」の最新バージョン8がリリースされました。新たにSiri AIの統合や自動オファー同期機能が追加され、毎夜バックグラウンドで各銀行のオファーを自動的に有効化できるようになりました。さらに、Visual Intelligenceを使った店舗やレシートの読み取り、新しくなったウィジェットやダッシュボード機能などにより、ポイ活の管理がさらに便利になっています。"
     }
   ],
-  "updatedAt": "2026-09-30T05:23:28.857Z",
+  "updatedAt": "2026-09-30T11:16:44.954Z",
   "initialized": true,
   "summaryVersion": 4
 }
