@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "a64591501cdffa74ee79",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Music expands to four new countries",
+      "url": "https://9to5mac.com/2026/09/30/apple-music-expands-to-four-new-countries/",
+      "publishedAt": "2026-09-30T20:39:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-music-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Music、新たに対応4カ国を追加",
+      "summaryJa": "AppleはApple Musicの提供地域を新たに4カ国拡大し、サービス対象地域が合計172の国と地域に達しました。今回アルバニア、ブルネイ、ブルキナファソ、パキスタンの4カ国が新たに追加されています。同社はサービス事業の成長鈍化に対応するため、世界各国での展開を継続的に進めています。"
+    },
+    {
+      "id": "e06e440a0d6ee43313db",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Our top iPhone 18 Pro accessories to upgrade your setup [Update #2]",
+      "url": "https://9to5mac.com/2026/09/30/best-iphone-18-pro-accessories/",
+      "publishedAt": "2026-09-30T20:10:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-accessories.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Pro向けおすすめアクセサリー",
+      "summaryJa": "新型のiPhone 18 Proを快適に利用するためのおすすめアクセサリー情報が紹介されています。急速充電に対応したAppleの40Wダイナミック電源アダプターやMagSafe対応ケース、モバイルバッテリーなどが挙げられています。早期のAmazonプライムデーセールなどに合わせた価格低下も期待されています。"
+    },
+    {
+      "id": "a160e1b39df95f5b6e5e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Report: Meta’s Muse crosses 5 million downloads amid massive advertising push",
+      "url": "https://9to5mac.com/2026/09/30/report-metas-muse-crosses-5-million-downloads-amid-massive-advertising-push/",
+      "publishedAt": "2026-09-30T20:02:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Muse-by-Meta.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MetaのAIアプリ「Muse」、500万DLを突破",
+      "summaryJa": "Sensor Towerの調査によると、Metaのエージェント型AIアシスタントアプリ「Muse」が、米国とカナダでの大規模な広告展開を経て500万ダウンロードを突破しました。ChatGPTなどの主要なAIアプリと比較して非常に早いペースでの普及となっています。iOSとAndroidの両プラットフォームで提供されています。"
+    },
+    {
+      "id": "ce0976d5fe1f52c60683",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Invites App Updated With Three New Features",
+      "url": "https://www.macrumors.com/2026/09/30/apple-invites-app-three-new-features/",
+      "publishedAt": "2026-09-30T19:40:06.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/General-Invites-App-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Invitesアプリに3つの新機能が登場",
+      "summaryJa": "イベント招待アプリのApple Invitesがアップデートされ、3つの新機能が追加されました。共有アルバムでの高解像度写真共有に対応したほか、Image Playgroundを使ったリアルな背景作成が可能になっています。また、メール認証がリンクのタップだけで完了できるようになり、利便性が向上しています。"
+    },
+    {
+      "id": "bd7715d9c1f1aa67c91a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: September 30, 2026 – How John Ternus wants to reshape Apple",
+      "url": "https://9to5mac.com/2026/09/30/daily-september-30-2026/",
+      "publishedAt": "2026-09-30T19:32:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleのジョン・ターナスによる将来の製品戦略の行方か",
+      "summaryJa": "9to5Macのポッドキャスト番組にて、Appleの幹部であるジョン・ターナスがどのように同社を再構築しようとしているのかについて議論されています。番組内では、iMac G4デザインを採用したスマートホームハブ「HomePad」の10月13日発売の噂や、iPhoneの予約プロセスといった最新の重要ニュースも振り返られています。"
+    },
+    {
+      "id": "e99fb60cf58f34041b21",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.2 adds new Messages feature that’s already a favorite",
+      "url": "https://9to5mac.com/2026/09/30/ios-27-2-adds-new-messages-feature-thats-already-a-favorite/",
+      "publishedAt": "2026-09-30T19:06:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27.2ベータでメッセージアプリの提案機能が復活か",
+      "summaryJa": "iOS 27の初期ベータから一時的に削除されていたメッセージアプリの「提案」機能が、iOS 27.2ベータ版で再び追加されました。この機能は会話の文脈に基づいてリマインダーやメモの作成、写真の検索などをワンタップで行える便利なAI機能です。テスト段階では誤作動が調整され、より適切なタイミングで表示されるように改善されていると報じられています。"
+    },
+    {
+      "id": "938cb194889baf0f7192",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Invites for iPhone updated with three new features",
+      "url": "https://9to5mac.com/2026/09/30/apple-invites-for-iphone-updated-with-three-new-features/",
+      "publishedAt": "2026-09-30T18:51:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-invites.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、iPhone向け「Apple Invites」アプリをアップデート",
+      "summaryJa": "AppleはiPhone向け「Apple Invites」アプリの最新アップデートを提供開始しました。今回の更新では、共有アルバムでの高解像度写真の共有や、Image Playground機能を使った高品質な背景の作成など、iOS 27の新機能に対応しています。また、メール認証の簡易化などの細かな改善も含まれており、イベントの招待状作成がより便利になっています。"
+    },
+    {
+      "id": "648f9585642e95a760ff",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Early launch deals live on Apple’s latest: Series 12, Ultra 4, Beats 360, Mac mini, more",
+      "url": "https://9to5mac.com/2026/09/30/early-launch-deals-live-apple-latest-releases/",
+      "publishedAt": "2026-09-30T18:17:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/New-Apple-gear.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "最新Apple製品の発売記念セールがAmazonなどで登場か",
+      "summaryJa": "今月発売されたばかりのAirPods 5、Apple Watch Series 12、Apple Watch Ultra 4、M6搭載のMac miniなど、最新のハードウェアを対象とした初期セールがAmazonなどで開始されました。秋のプライムデーセールなどに合わせて、一部の新製品や周辺アクセサリをお得に購入できるチャンスとなっています。"
+    },
+    {
+      "id": "0087c56ab45dd4befcc7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "M6 Mac release schedule: Here’s when to expect new Macs",
+      "url": "https://9to5mac.com/2026/09/30/m6-mac-release-schedule-heres-when-new-macs-are-coming/",
+      "publishedAt": "2026-09-30T18:07:26.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/m6_regular.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "M6チップを搭載するMacやiPad Proの発売スケジュールか",
+      "summaryJa": "次世代のM6チップを搭載したMacやiPad Proの今後の発売スケジュールが報じられています。今年の秋にはM6搭載のMacBook ProやiMacが登場する可能性があるほか、2027年初頭にはM6搭載のMacBook AirやiPad Proが控えていると伝えられています。新モデルではチップの性能向上に加え、冷却機構の改善なども期待されています。"
+    },
+    {
+      "id": "d225dba866782fcc9a91",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Leak reveals new design details about Apple’s upcoming smart display",
+      "url": "https://9to5mac.com/2026/09/30/leak-reveals-new-design-details-about-apples-upcoming-smart-display/",
+      "publishedAt": "2026-09-30T17:56:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleのスマートディスプレイに関する新たなデザイン詳細",
+      "summaryJa": "Appleが準備を進めているとされるスマートホームハブについて、新たなデザインの詳細が伝えられています。このデバイスは、iMac G4を思わせる半ドーム型のベースや金属製アームを備え、6インチの四角いディスプレイを搭載すると報じられています。また、電源にはUSB-Cを採用し、バッテリー非搭載で常に給電が必要になる見込みです。"
+    },
+    {
+      "id": "734fdcda1699be8bca44",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Event on October 13?",
+      "url": "https://www.macrumors.com/2026/09/30/apple-event-on-october-13/",
+      "publishedAt": "2026-09-30T17:53:35.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-October-13.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleが10月13日にイベントを開催し新製品を発表するか",
+      "summaryJa": "Appleが10月13日にオンラインイベントを開催し、新型スマートホームハブや第2世代HomePod mini、新しいApple TV 4Kを発表する可能性があると報じられています。完全な新デバイスであるスマートホームハブについては、プレスリリースのみではなく、基調講演動画やメディア向けのハンズオン体験を伴う形で発表される見通しです。"
+    },
+    {
+      "id": "06a13d0bd9fc27cf02d1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Music 7.0 beta brings Liquid Glass redesign to Android",
+      "url": "https://9to5google.com/2026/09/30/apple-music-7-0-redesign-liquid-glass/",
+      "publishedAt": "2026-09-30T17:47:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Music-7-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Android向けApple Music 7.0ベータでデザインが一新か",
+      "summaryJa": "Android向けのApple Musicの最新ベータ版となるバージョン7.0において、Liquid Glassデザインに着想を得た大幅なリニューアルが行われていると伝えられています。アプリの外観や操作性が刷新され、Androidユーザー向けにより洗練された体験を提供することになります。"
+    },
+    {
       "id": "5981718184a34e6f5920",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4325,189 +4505,9 @@
       ],
       "titleJa": "iOS 27からiOS 26へのダウングレードが不可能に",
       "summaryJa": "Appleによる旧バージョンの署名停止に伴い、iOS 27へアップデートしたiPhoneをiOS 26へ戻すことができなくなりました。セキュリティ維持を目的として古いバージョンのインストールを防ぐための仕様であり、一度最新OSに移行すると元に戻す手段はありません。ユーザーはアップデートの適用前に十分に検討する必要があります。"
-    },
-    {
-      "id": "d42bd80c82b281443886",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "WhatsApp now lets Apple Watch users react with any emoji",
-      "url": "https://9to5mac.com/2026/09/21/whatsapp-now-lets-apple-watch-users-react-with-any-emoji/",
-      "publishedAt": "2026-09-21T22:07:49.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/whatsapp-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "WhatsApp、Apple Watchでの絵文字リアクションを全面刷新",
-      "summaryJa": "WhatsAppがApple Watch版アプリのアップデートを順次展開し、watchOSで利用可能なすべての絵文字を使ったリアクションに対応しました。これまでは6種類のプリセット絵文字のみに制限されていましたが、今後はカテゴリ別のライブラリや最近使った絵文字から自由に選択できるようになります。なお、順次配信となっているため、すべてのユーザーに行き渡るまでには数週間かかる可能性があります。"
-    },
-    {
-      "id": "16e3e2c0050cfd424a68",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "macOS 27.2 Beta Brings New Volume and Brightness Sliders",
-      "url": "https://www.macrumors.com/2026/09/21/macos-27-2-slider-design/",
-      "publishedAt": "2026-09-21T22:04:48.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/macos-27-2-new-sliders.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "macOS 27.2ベータ、音量と輝度のスライダーデザインを刷新",
-      "summaryJa": "Appleは「macOS Golden Gate 27.2」のベータ2において、キーボードで音量や画面の明るさを調節した際に表示されるスライダーのデザインを更新しました。新しいスライダーは従来のシンプルな線からセグメント化されたバーへと変更され、キーを押すごとの変化量が一目で分かりやすくなっています。このソフトウェアは10月末頃の正式リリースが見込まれています。"
-    },
-    {
-      "id": "ca783d860813fbbb397a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27.2 beta 2 reveals new details about unnanounced iPhone anti-snatching feature",
-      "url": "https://9to5mac.com/2026/09/21/ios-27-2-beta-2-reveals-new-details-about-unnanounced-iphone-anti-snatching-feature/",
-      "publishedAt": "2026-09-21T21:53:37.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/restricted-locked-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27.2ベータ、未発表のiPhone盗難防止機能の詳細が判明",
-      "summaryJa": "Appleが開発を進めている、iPhoneが持ち主の手からひったくられた際に自動ロックする機能について、iOS 27.2ベータ2のコードから新たな詳細が明らかになりました。内部で「AutoLock」と呼ばれるこの機能は、急激な加速度の変化やペアリングされたApple Watchとの接続断などを検知して作動します。また、生体認証の成功などを活用した誤作動を防ぐための安全機能も組み込まれています。"
-    },
-    {
-      "id": "f676e9058f00ffcbdcda",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AI coding platform Bitrig adds iPhone Duo support with interactive 3D simulator",
-      "url": "https://9to5mac.com/2026/09/21/ai-coding-platform-bitrig-adds-iphone-duo-support-with-interactive-3d-simulator/",
-      "publishedAt": "2026-09-21T21:01:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/bitrig-iphone-duo.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AI開発プラットフォームBitrigがiPhone Duo向け3Dシミュレーターに対応",
-      "summaryJa": "AIコーディングプラットフォームのBitrigが、Xcode 27.1ベータ1のリリースを受けて「iPhone Duo」アプリの構築とテストのサポートを追加しました。開発者はインタラクティブな3Dシミュレーターを使用し、デバイスの折りたたみや傾け、回転などを自由に試すことができます。ヒンジの動きに応じたアプリの動作検証や、ハンズフリー環境でのレイアウト調整などが可能になっています。"
-    },
-    {
-      "id": "ee4be0609546bbea9617",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: September 21, 2026 – More iPhone 18 Pro, iOS 27.2 news",
-      "url": "https://9to5mac.com/2026/09/21/daily-september-21-2026/",
-      "publishedAt": "2026-09-21T20:59:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "9to5Mac Daily：iPhone 18 Proの最新情報やiOSの機能",
-      "summaryJa": "最新の9to5Mac Dailyポッドキャストでは、iPhone 18 Pro Maxの巨大なバッテリーに関する新機能や、米国モデルでのQualcomm製モデム継続採用の噂、iOS 27.2のデータ移行機能などが取り上げられています。番組では日々のApple関連の主要ニュースをまとめて振り返ることが可能です。"
-    },
-    {
-      "id": "77d2b0e6facfe6d52548",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Notes adds a power user feature in iOS 27 that’s rare in other apps",
-      "url": "https://9to5mac.com/2026/09/21/apple-notes-adds-a-power-user-feature-in-ios-27-thats-rare-in-other-apps/",
-      "publishedAt": "2026-09-21T20:13:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/notes-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Notes、iOS 27で特定のセクションへ飛ぶリンク機能を追加",
-      "summaryJa": "iOS 27のメモアプリに、特定のセクションや見出しへ直接リンクできる新機能が追加されました。テキストを選択してリンクを追加する際に、メモ内の見出し一覧から飛び先を選択できるようになります。これにより長文のメモのナビゲーションが大幅に向上し、パワーユーザーにとって便利な機能となっています。"
-    },
-    {
-      "id": "099f728dc7c299bc681d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Our favorite accessories to elevate your new M6 Mac mini and Mac Studio rig",
-      "url": "https://9to5mac.com/2026/09/21/our-favorite-accessories-new-mac-mini-studio/",
-      "publishedAt": "2026-09-21T20:06:28.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-Mac-mini-Mac-Studio-accessories.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "新型M6 Mac miniやMac Studioにおすすめの周辺機器",
-      "summaryJa": "新しいM6 Mac miniやM5 Pro mini、Mac Studioの発売を控え、編集部が厳選したおすすめの周辺機器が紹介されています。Apple Studio Displayをはじめ、ロジクールのマウスやSatechiのハブなど、デスク環境を快適にする多彩な純正およびサードパーティ製アクセサリーがピックアップされています。"
-    },
-    {
-      "id": "9997d58e49fd66cc71cc",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "GM Wants You to Know It Still Plans to Ditch Apple CarPlay in Future EVs",
-      "url": "https://www.macrumors.com/2026/09/21/gm-stance-on-apple-carplay/",
-      "publishedAt": "2026-09-21T19:56:49.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/05/Rivian-Explains-Why-CarPlay-Debate-Will-Become-Completely-Obsolete-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "GM、将来の電気自動車からApple CarPlayを廃止する方針を再確認",
-      "summaryJa": "ゼネラルモーターズが将来のEVからApple CarPlayを廃止する方針を撤回したという最近の報道は誤りであると報じられています。2027年型のガソリン車である新型シボレー・シルバラードなどではCarPlayが継続してサポートされますが、同社の次世代EVからは引き続きCarPlayが除外される計画に変わりはないと確認されています。"
-    },
-    {
-      "id": "75fc78e1551f67e37551",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Report: AI glasses shipments surged 263% in H1 2026 as Apple prepares to enter the market",
-      "url": "https://9to5mac.com/2026/09/21/report-ai-glasses-shipments-surged-263-in-h1-2026-as-apple-prepares-to-enter-the-market/",
-      "publishedAt": "2026-09-21T19:55:41.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/Ray-Ban-Meta-smart-glasses-could-get-a-display-next-year.webp?w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AIグラス市場が急成長、Appleの参入準備も進むか",
-      "summaryJa": "調査会社によると、2026年上半期の世界的AIグラス出荷台数が急増し、Metaが市場を大きくリードしています。Metaはプライバシー面での懸念にもかかわらずシェアの大部分を占めており、AppleもSiriやApple Intelligenceを搭載した独自のスマートグラスを2027年に向けて開発中であると報じられています。"
-    },
-    {
-      "id": "51bf6d03c41227042592",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 adds an all-new app to your iPhone’s Home Screen",
-      "url": "https://9to5mac.com/2026/09/21/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
-      "publishedAt": "2026-09-21T19:14:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-light.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27でiPhoneのホーム画面に新しいSiriアプリが登場",
-      "summaryJa": "AppleがリリースしたiOS 27において、初めて単体アプリとしてのSiriがプレインストールされました。新しいSiriアプリでは過去の会話履歴の確認や新規の開始ができるほか、チャット形式のインターフェイスで写真やファイルの分析にも対応しています。なお、この機能はApple IntelligenceをサポートするiPhone 15 Pro以降のモデルで利用可能です。"
-    },
-    {
-      "id": "2629b12448e9520856c2",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27.2 reveals new features coming to Apple Music, CarPlay, more",
-      "url": "https://9to5mac.com/2026/09/21/ios-27-2-reveals-new-features-coming-to-apple-music-carplay-more/",
-      "publishedAt": "2026-09-21T19:01:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-lock-screen-jb.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27.2ベータからApple MusicやCarPlayの新機能が判明",
-      "summaryJa": "配信されたiOS 27.2のベータ版コードから、Apple Musicでの新しいアルバムリリースのライブカウントダウン機能などの開発が進んでいることが明らかになりました。さらに、ショートカットアプリの「Describe a Shortcut」がサードパーティ製アプリのアクションに対応する可能性や、CarPlay Ultraの新テーマに関する記述も見つかっています。"
-    },
-    {
-      "id": "30ad7013da69bcc8938a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "MagSafe Monday: BLAVOR’s solar power bank is built for fall camping trips",
-      "url": "https://9to5mac.com/2026/09/21/bllavors-solar-power-bank-is-built-for-fall-camping-trips/",
-      "publishedAt": "2026-09-21T18:11:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/solar-batter.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "キャンプに最適、ケーブル内蔵のBLAVOR製ソーラーモバイルバッテリー",
-      "summaryJa": "これからの季節のアウトドアやキャンプで活躍する、BLAVORの20000mAhソーラーモバイルバッテリーが紹介されています。本体にはUSB-CやLightningなど4種類のケーブルが内蔵されており、別途ケーブルを持ち歩く必要がありません。さらにソーラーパネルによる充電や、iPhoneなどのワイヤレス充電にも対応しています。ワイヤレス部分はMagSafe非対応のQi充電となりますが、複数のデバイスを同時に充電できる優れた携帯性が特徴です。"
     }
   ],
-  "updatedAt": "2026-09-30T16:52:52.572Z",
+  "updatedAt": "2026-09-30T21:10:54.672Z",
   "initialized": true,
   "summaryVersion": 4
 }
