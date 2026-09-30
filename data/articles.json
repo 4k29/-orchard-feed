@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "5981718184a34e6f5920",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch Series 12, Ultra 4 adding two new features soon",
+      "url": "https://9to5mac.com/2026/09/30/apple-watch-series-12-ultra-4-adding-two-new-features-soon/",
+      "publishedAt": "2026-09-30T16:13:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-ultra-4-fi-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch新モデルに2つの新機能が追加へ",
+      "summaryJa": "Apple Watch Series 12とUltra 4に向けて、今年後半に「Siriリキャップ」と「ライブリワインド」という2つの強力な新機能が配信される予定です。Siriリキャップは日々の会話を自動で要約して記憶をサポートし、ライブリワインドは直近の音声をテキストで振り返ることができます。プライバシーに配慮しつつ、ユーザーの利便性を高める機能として期待されています。"
+    },
+    {
+      "id": "88e1a7355a48b4f02bb4",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Watch SE 3 vs. Series 12 Buyer's Guide: Which Should You Buy?",
+      "url": "https://www.macrumors.com/guide/apple-watch-se-3-vs-series-12/",
+      "publishedAt": "2026-09-30T16:05:19.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2024/10/Apple-Watch-Series-SE-vs-Series-10-Buyers-Guide.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Watch SE 3とSeries 12の比較ガイド",
+      "summaryJa": "手頃な価格のApple Watch SE 3と上位モデルのSeries 12を比較し、どちらを選ぶべきかを解説しています。150ドルの価格差により、Series 12ではより高度な健康センサー、大きなディスプレイ、長持ちするバッテリーなどが提供されます。両モデルともに多くの基本機能を共有しつつ、デザインや素材、ディスプレイ性能に違いがあります。"
+    },
+    {
+      "id": "c46813e1a6b2f3e656a7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Halide 3.2 pro camera arrives with iPhone 18 Pro aperture feature and two new looks",
+      "url": "https://9to5mac.com/2026/09/30/halide-3-2-pro-camera-arrives-with-iphone-18-pro-aperture-feature-and-two-new-looks/",
+      "publishedAt": "2026-09-30T16:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/halide-32.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "カメラアプリ「Halide 3.2」が登場",
+      "summaryJa": "高機能プロ向けカメラアプリのHalideがアップデートされ、iPhone 18 Proのカメラシステムに対応しました。新機能として絞り優先モードが追加され、詳細なF値の選択やシャッタースピードの自動調整が可能になります。また、全iPhone向けに「ドーン」や「クイックシルバー」といった新しい写真スタイルや16:9の撮影モードも導入されました。"
+    },
+    {
+      "id": "dcffe282bb27a43f2f12",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPad Mini 8 to Offer These 10 New Features",
+      "url": "https://www.macrumors.com/2026/09/30/ipad-mini-8-rumored-features/",
+      "publishedAt": "2026-09-30T15:54:43.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "次期iPad mini 8に期待される10の新機能",
+      "summaryJa": "次世代のiPad miniには、最先端のA20 Proチップや12GBのRAM、OLEDディスプレイなどが搭載されると報じられています。さらに、横向き配置のフロントカメラやWi-Fi 7対応のN1チップ、初めての防水性能など多くの刷新が見込まれています。早ければ今年10月の発表が予想されており、大幅な進化に注目が集まっています。"
+    },
+    {
+      "id": "6aac0fb2b5118b9243f8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: iPhone 17 Pro Max, MacBook Pro, HomeKit Prime Day discounts, Apple Watch bands from $7, more",
+      "url": "https://9to5mac.com/2026/09/30/deals-iphone-17-pro-max-macbook-pro-prime-day-bands/",
+      "publishedAt": "2026-09-30T15:28:09.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-iPhone-17-Pro-Max-MAcBook.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AmazonでiPhone 17 Pro MaxやApple製品のセールが開催",
+      "summaryJa": "Amazonのプライムデーセールに合わせ、iPhone 17 Pro Maxの認定整備済製品やM5 Pro MacBook Pro、各種Apple純正アクセサリが割引価格で販売されています。MagSafeバッテリーパックが40%オフになるほか、Apple Watchのバンドやスマートホーム関連製品もお買い得となっています。"
+    },
+    {
+      "id": "19ab5a873d03049db168",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New Apple TV comedy has 100% Rotten Tomatoes, here’s the trailer",
+      "url": "https://9to5mac.com/2026/09/30/new-apple-tv-comedy-has-100-rotten-tomatoes-heres-the-trailer/",
+      "publishedAt": "2026-09-30T15:03:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/small-prophets-quigley.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVの新作コメディドラマの予告編が公開",
+      "summaryJa": "Apple TVは、イギリスで大ヒットを記録しロッテン・トマトで100%の評価を獲得したBBCのコメディドラマ「Small Prophets」の予告編を公開しました。失踪した恋人を探す男性が奇妙なレシピから未来を予測する精霊を作り出す物語で、10月7日から配信が開始される予定です。"
+    },
+    {
+      "id": "e3ec75bb9472fe7fafa2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Amazon Takes Up to $150 Off Select M5 MacBook Air Models",
+      "url": "https://www.macrumors.com/2026/09/30/amazon-m5-macbook-air/",
+      "publishedAt": "2026-09-30T14:49:09.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macbook-air-prime-day-2.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazon、M5搭載MacBook Airを最大150ドル値引き",
+      "summaryJa": "Amazonにて、M5チップを搭載した13インチおよび15インチのMacBook Airが最大150ドル引きで販売されています。夏の価格改定以降では最もお得な価格となっており、13インチの1TBモデルや15インチの一部構成などがセールの対象に含まれています。"
+    },
+    {
+      "id": "2b3f78d1bdc7cb62f0cd",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "DoorDash Unveils AI Food Ordering Through Apple's Messages App",
+      "url": "https://www.macrumors.com/2026/09/30/doordash-order-through-messages-app/",
+      "publishedAt": "2026-09-30T14:24:34.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/doordash.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "DoorDash、Appleのメッセージアプリ経由のAI注文機能を発表",
+      "summaryJa": "DoorDashは、Appleのメッセージアプリを通じてAIアシスタントに料理を注文できる新機能のベータ版提供を開始しました。ユーザーの好みや過去の注文履歴に基づいた提案を受けることが可能で、冷蔵庫の写真を送信して不足している食材の提案を受ける機能なども備えています。"
+    },
+    {
+      "id": "09025324305554c9174b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s new hardware October 13 won’t include one rumored product: report",
+      "url": "https://9to5mac.com/2026/09/30/apples-new-hardware-october-13-wont-include-one-rumored-product-report/",
+      "publishedAt": "2026-09-30T14:15:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/john-ternus-apple-park.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "大型HomePodの新モデルは10月に登場せず",
+      "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、Appleは10月13日に新しいスマートホームハブやHomePod mini 2、Apple TV 4Kを発表する見込みです。一方で、Siri AIを搭載した新しい大型HomePodは今回の発表には含まれないと報じられています。Appleは将来的に大型モデルもアップデートする計画ですが、登場にはもう少し時間がかかる見通しです。"
+    },
+    {
+      "id": "3a09c4c67283eb87f7a9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "DoorDash now lets you order by text in Apple Messages",
+      "url": "https://9to5mac.com/2026/09/30/doordash-now-lets-you-order-by-text-in-apple-messages/",
+      "publishedAt": "2026-09-30T13:35:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/doordash-apple-messages.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "DoorDash、Appleメッセージ経由でのテキスト注文に対応",
+      "summaryJa": "米国のフードデリバリーサービスであるDoorDashが、Appleの「メッセージ」アプリ内でAIを活用したテキスト注文機能を開始しました。ユーザーは食べたい料理や好みをメッセージで送信するだけで、AIエージェントがメニューの検索やカートへの追加を自動で行います。お決まりの注文の記憶や、大人数での複雑な食事の好みの管理も簡単に行える仕組みとなっています。"
+    },
+    {
+      "id": "79acda32cc56999b539c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Fake iPhone Duo preorder page can steal crypto wallet data and more",
+      "url": "https://9to5mac.com/2026/09/30/fake-iphone-duo-preorder-page-can-steal-crypto-wallet-data-and-more/",
+      "publishedAt": "2026-09-30T13:33:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Fake-iPhone-Duo-preorder-page-can-steal-crypto-wallet-data-and-more.webp?w=1500",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "偽のiPhone予約ページに注意、閲覧だけで仮想通貨などの窃取リスク",
+      "summaryJa": "iPhoneの偽の予約受付ページを利用した詐欺サイトが出現しており、セキュリティ研究者が注意を呼びかけています。この偽サイトは、アクセスするだけで古い未パッチのiPhoneを狙うエクスプロイトが実行される仕組みになっています。成功すると、デバイス情報や保存された認証情報、仮想通貨ウォレットのデータなどが不正に窃取される恐れがあります。"
+    },
+    {
+      "id": "a0908941c5e5c3cf5f13",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Still Plans to Release a New Full-Sized HomePod",
+      "url": "https://www.macrumors.com/2026/09/30/apple-still-plans-to-update-larger-homepod/",
+      "publishedAt": "2026-09-30T13:11:52.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/01/HomePod-2-White-and-Midnight-Feature-Blue-Orange.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、大型HomePodの新型を将来的に発売する計画か",
+      "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、Appleは将来的に大型のHomePodをアップデートする計画を維持していると伝えられています。10月中旬にはスマートホームハブなどの新製品が登場すると噂されていますが、大型モデルの新型はすぐには発売されない見込みです。将来の新型モデルでは、より高度なSiri AI機能や音声処理の改善などが主な変更点になると予想されています。"
+    },
+    {
       "id": "5b5b8b2271af8bae5876",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4325,189 +4505,9 @@
       ],
       "titleJa": "キャンプに最適、ケーブル内蔵のBLAVOR製ソーラーモバイルバッテリー",
       "summaryJa": "これからの季節のアウトドアやキャンプで活躍する、BLAVORの20000mAhソーラーモバイルバッテリーが紹介されています。本体にはUSB-CやLightningなど4種類のケーブルが内蔵されており、別途ケーブルを持ち歩く必要がありません。さらにソーラーパネルによる充電や、iPhoneなどのワイヤレス充電にも対応しています。ワイヤレス部分はMagSafe非対応のQi充電となりますが、複数のデバイスを同時に充電できる優れた携帯性が特徴です。"
-    },
-    {
-      "id": "1872db9f1b342d672226",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 14 Pro vs. iPhone 18 Pro Buyer's Guide: Should You Upgrade?",
-      "url": "https://www.macrumors.com/guide/iphone-14-pro-vs-18-pro/",
-      "publishedAt": "2026-09-21T18:05:23.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-14-pro-vs-iphone-18-pro.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 14 ProからiPhone 18 Proへの買い替えガイド",
-      "summaryJa": "iPhone 14 Proから最新のiPhone 18 Proシリーズへアップグレードする価値について検証しています。4世代分の進化により、大画面化、新しいデザイン、カメラの性能向上、バッテリー持続時間の延長、USB-C対応、さらにApple Intelligenceのサポートなど多くの変更が加わっています。価格はベースストレージの容量が倍増したことに伴い若干値上がりしていますが、長期間使用してきたユーザーにとっては大幅な進化を実感できる内容となっています。"
-    },
-    {
-      "id": "ec0c886110ccd1d10fce",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "M4 iPad Air Now Starting at $649 on Amazon, Save Up to $149",
-      "url": "https://www.macrumors.com/2026/09/21/m4-ipad-air-149-off/",
-      "publishedAt": "2026-09-21T17:48:52.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2020/03/m4-ipad-air-blue-2.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AmazonでM4 iPad Airが最大149ドル引きのセール中",
-      "summaryJa": "Amazonにて、M4チップを搭載した最新のiPad Airが最大149ドル引きで販売されています。11インチおよび13インチの各モデルが対象となっており、夏の値上げ以降では最もお得な価格で購入できるチャンスとなっています。新しいiPad AirはM4チップやC1Xモデム、Wi-Fi 7などを搭載し、処理性能や通信機能が大きく向上しています。割引は自動的に適用されるため、クーポンコードの入力などは不要です。"
-    },
-    {
-      "id": "11f7448426ea741cdf6f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple rolls out second Release Candidates for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1",
-      "url": "https://9to5mac.com/2026/09/21/apple-rolls-out-second-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
-      "publishedAt": "2026-09-21T17:30:14.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOS Tahoe 26.7.1とSequoia 15.8.1のRC 2を配信",
-      "summaryJa": "Appleは正式リリースに向けて、macOS Tahoe 26.7.1およびmacOS Sequoia 15.8.1の第2弾となるリリース候補版（RC 2）を開発者向けに配信開始しました。先週公開されたRC 1に続くもので、重要なセキュリティ修正が含まれておりすべてのユーザーに推奨されています。正式版は今後数週間のうちに一般向けへリリースされる見込みで、詳細なセキュリティ情報はその際に公開される予定です。"
-    },
-    {
-      "id": "66ba1479da18e4241cb1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Beta 2 now available for iPadOS 27.2, watchOS 27.2, more",
-      "url": "https://9to5mac.com/2026/09/21/beta-2-now-available-for-ipados-27-2-watchos-27-2-more/",
-      "publishedAt": "2026-09-21T17:25:48.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPadOSやwatchOSなどのベータ2を公開",
-      "summaryJa": "Appleは開発者向けに、iPadOS 27.2、watchOS 27.2、tvOS 27.2などのベータ2をリリースしました。前回のベータ1からわずか5日での配信となり、主にバグ修正やパフォーマンスの改善を中心とした調整が行われています。また、各OSではSiriのAI機能拡張やヘルスケアアプリの刷新なども進められています。"
-    },
-    {
-      "id": "108ca6c1d6f6c47d8726",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Seeds Second macOS Golden Gate 27.2 Beta to Developers",
-      "url": "https://www.macrumors.com/2026/09/21/apple-seeds-macos-27-2-beta-2/",
-      "publishedAt": "2026-09-21T17:23:13.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、macOS Golden Gate 27.2のベータ2を開発者向けに配信",
-      "summaryJa": "Appleは開発者向けに、次期アップデートとなるmacOS Golden Gate 27.2のベータ2を配信開始しました。前回のベータ1公開から約1週間での提供となります。このバージョンではSiriのAI機能が新しい言語に対応しており、10月下旬の正式リリースが予定されています。"
-    },
-    {
-      "id": "45be626e8630ff3fe598",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "macOS 27.2 Golden Gate beta 2 now available, here’s what to expect",
-      "url": "https://9to5mac.com/2026/09/21/macos-27-2-golden-gate-beta-2-now-available-heres-what-to-expect/",
-      "publishedAt": "2026-09-21T17:22:29.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-b2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "macOS 27.2 Golden Gate ベータ2が登場",
-      "summaryJa": "Appleは数週間後に控えた正式リリースに向けて、macOS 27.2 Golden Gate ベータ2を開発者向けに公開しました。ベータ1ではスキップされたmacOS 27.1の裏で、SiriのAI機能が日本語やフランス語、韓国語などの5つの追加言語に対応しています。登録ユーザーはシステム設定からアップデートを適用可能です。"
-    },
-    {
-      "id": "8450faa0d9fd4ad45de6",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases Second iOS 27.2 Beta",
-      "url": "https://www.macrumors.com/2026/09/21/apple-releases-second-ios-27-2-beta/",
-      "publishedAt": "2026-09-21T17:21:17.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iOS 27.2のベータ2を開発者向けにリリース",
-      "summaryJa": "Appleは開発者向けにiOS 27.2のベータ2を公開しました。前回のベータ1から1週間での配信となり、刷新されたヘルスケアアプリやSiriの新しい多言語対応が含まれています。また、iOS 27.1を挟まずに27.2のベータが進められており、正式版は今後のリリースに向けて検証が続けられています。"
-    },
-    {
-      "id": "e67dc3e05fc6c7fc936c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases second iOS 27.2 developer beta for iPhone",
-      "url": "https://9to5mac.com/2026/09/21/apple-releases-second-ios-27-2-developer-beta-for-iphone/",
-      "publishedAt": "2026-09-21T17:20:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iOS-27.2-b2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPhone向け「iOS 27.2」開発者向けベータ2を公開",
-      "summaryJa": "Appleは開発者向けに「iOS 27.2」のベータ2をリリースしました。今回のアップデートでは、新しく再設計されたヘルスケアアプリやグループFaceTimeでのデュアルキャプチャモードなどが含まれており、SiriのAI言語サポートも拡充されています。今後は各新機能の詳細はもちろん、ベータテストの進行に伴う追加の変更点にも注目が集まります。"
-    },
-    {
-      "id": "6c1f0698c50241a1f64b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases Second watchOS 27.2, tvOS 27.2 and visionOS 27.2 Betas",
-      "url": "https://www.macrumors.com/2026/09/21/apple-releases-watchos-27-2-beta-2/",
-      "publishedAt": "2026-09-21T17:20:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/04/General-visionOS-watchOS-and-tvOS-Betas-Feature-Redux.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、watchOS 27.2やtvOS 27.2などのベータ2を配信開始",
-      "summaryJa": "AppleはiOS 27.2に続き、watchOS 27.2やtvOS 27.2、visionOS 27.2の開発者向けベータ2を公開しました。watchOS 27.2では、新しいApple Watchモデルのデータを利用した体調スコアなどを含む最新のヘルスケアアプリのテストが行われています。登録済みの開発者は、各デバイスの「設定」アプリからダウンロードして試すことが可能です。"
-    },
-    {
-      "id": "a53f638a5a4115b271f0",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "New Mac Mini Reviews: A Good But No Longer 'Insanely Great' Deal",
-      "url": "https://www.macrumors.com/2026/09/21/mac-mini-m6-m5-pro-reviews/",
-      "publishedAt": "2026-09-21T17:08:52.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/mac-mini-blue.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "M6搭載「Mac mini」の先行レビューが公開、価格上昇も性能は高評価",
-      "summaryJa": "新世代のM6およびM5 Proチップを搭載した新しいMac miniの最初のレビューが公開されました。米国での価格が899ドルからに引き上げられたことは惜しまれるものの、AI処理も含めた優れたパフォーマンスを発揮する点は高く評価されています。半導体メモリの供給不足に伴う価格改定はあったものの、依然として魅力的な製品に仕上がっています。"
-    },
-    {
-      "id": "86ad72b68330b0436bcb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Shopify just released a brand-new Apple TV app with a dashboard for businesses",
-      "url": "https://9to5mac.com/2026/09/21/shopify-just-released-a-brand-new-apple-tv-app-with-a-dashboard-for-businesses/",
-      "publishedAt": "2026-09-21T17:05:39.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-new.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Shopify、Apple TV向けにビジネス用ダッシュボードアプリをリリース",
-      "summaryJa": "Shopifyは、Apple TVの大画面でビジネスの状況を確認できる専用アプリ「Shopcast」を新たにリリースしました。オフィスのディスプレイなどに売上や注文状況、人気の販売商品などをリアルタイムで表示し、チーム全体での把握を容易にします。Apple TVリモコンを使って、売上推移や地域別の注文状況などを手軽に確認できるのが特徴です。"
-    },
-    {
-      "id": "88772d539ee7715907a6",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 and Ultra 4 introduce a new Theater Mode setting",
-      "url": "https://9to5mac.com/2026/09/21/apple-watch-series-12-and-ultra-4-introduce-a-new-theater-mode-setting/",
-      "publishedAt": "2026-09-21T16:49:15.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-heart-health-sensing.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch最新モデルでシアターモードの設定に新機能",
-      "summaryJa": "Apple Watch Series 12およびUltra 4に搭載された新しいヘルスセンシングシステムでは、心拍数の計測頻度が大幅に向上しています。これに伴い、シアターモードや睡眠モードでは緑色のセンサーライトを避けるため計測頻度が一時的に低下しますが、シアターモード中に連続測定を維持する新しい設定項目も追加されています。"
     }
   ],
-  "updatedAt": "2026-09-30T11:16:44.954Z",
+  "updatedAt": "2026-09-30T16:52:52.572Z",
   "initialized": true,
   "summaryVersion": 4
 }
