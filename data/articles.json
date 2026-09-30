@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "33c8c2c39914fd1368a9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Pay now rolling out to Axis Bank customers in India [U]",
+      "url": "https://9to5mac.com/2026/09/29/apple-pay-now-rolling-out-to-axis-bank-customers-in-india/",
+      "publishedAt": "2026-09-30T01:19:30.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/More-great-wallpaper-in-the-run-up-to-two-more-Apple-Stores-in-India.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Pay、インドでサービス提供を開始",
+      "summaryJa": "Appleは、主要な市場の一つであるインドでApple Payの提供を開始しました。初期のパートナーとしてアクシス銀行のVisaおよびマスターカードのクレジットディカードを持つユーザーが対象となります。インドの公式サポート地域は101カ国・地域に拡大し、同国での製造や事業展開が進む中で大きな進展となっています。"
+    },
+    {
+      "id": "455f113c98283e88edf3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Bank of America says Meta’s Muse highlights a new risk for Apple’s services revenue",
+      "url": "https://9to5mac.com/2026/09/29/bank-of-america-says-metas-muse-highlights-a-new-risk-for-apples-services-revenue/",
+      "publishedAt": "2026-09-30T00:41:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "バンク・オブ・アメリカ、AIエージェントがAppleのサービス収益にリスクと指摘",
+      "summaryJa": "バンク・オブ・アメリカは投資家向けノートにおいて、Metaの新しいAIエージェント「Muse」などがAppleのエコシステムを迂回し、サービス収益を脅かす新たなリスクになると指摘しました。AIエージェントが商品検索やリファラル、トランザクションの起点を担うことで、Appleが端末販売を維持しつつも仲介手数料などの収益を失う懸念が示されています。"
+    },
+    {
+      "id": "812c8a6aec7c3ace44e7",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Pay Now Available in India With Axis Bank Cards",
+      "url": "https://www.macrumors.com/2026/09/29/apple-pay-india/",
+      "publishedAt": "2026-09-30T00:01:50.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Pay-India.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "インドでApple Payの利用が可能に、まずはアクシス銀行から",
+      "summaryJa": "インドでApple Payが利用可能になり、対象カードを持つユーザーはiPhoneやApple Watchのウォレットアプリに追加できるようになりました。現在はアクシス銀行発行のVisaまたはマスターカードのクレジットカーのみが対応しています。長年噂されていたインド市場での展開ですが、加盟店側の対応や既存の普及している決済システムとの兼ね合いが注目されています。"
+    },
+    {
       "id": "c9da4adf10424813e37e",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -362,6 +407,141 @@
       ],
       "titleJa": "Apple、健全なデジタル習慣を支援するガイドを公開",
       "summaryJa": "Appleは米国小児科学会との連携により、家族が健全なデジタル習慣を身につけるための新しいガイドを公開しました。スクリーンタイム機能の活用方法や、年齢に応じたアカウント設定、スケジュール作成などを通じて、保護者が子どものデジタルライフをサポートするための手順を解説しています。"
+    },
+    {
+      "id": "78ae94fb091e24c48f40",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
+      "url": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
+      "publishedAt": "2026-09-29T17:00:57.163Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Final Cut Camera、iPhone 18 Proの可変絞りに対応",
+      "summaryJa": "プロ向け撮影アプリの「Final Cut Camera」がアップデートされ、新デザインの採用や、iPhone 18 Proの可変絞りへの対応が行われました。iOS 27のリリースに合わせて提供され、シャッタースピードやISO、ホワイトバランスへのアクセスが向上しています。絞りの精密な調整や新しい露出インジケーターなど、クリエイター向けのプロ機能がさらに充実しました。"
+    },
+    {
+      "id": "6fae8a401d14167256ee",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Final Cut Camera updated with support for iPhone 18 Pro features, more",
+      "url": "https://9to5mac.com/2026/09/29/final-cut-camera-iphone-18-pro-features/",
+      "publishedAt": "2026-09-29T17:00:40.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/final-cut-camera.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Final Cut Camera、iPhone 18 Proの可変絞りに対応",
+      "summaryJa": "Appleはプロ向け動画撮影アプリ「Final Cut Camera」の大型アップデートを配信開始しました。新デザインの採用に加え、iPhone 18 Proの可変絞りカメラをサポートし、シャッター優先やマニュアルモードでの撮影が可能になります。また、ProResやApple Logでの撮影時におけるシネマティックモード効果も利用できるようになっています。"
+    },
+    {
+      "id": "3ea9ba8c21c1868a7172",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "New updates coming to Apple Creator Studio",
+      "url": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
+      "publishedAt": "2026-09-29T17:00:02.643Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple Creator Studioが各種アプリのアップデートを公開",
+      "summaryJa": "Appleはクリエイティブおよび生産性向上アプリ群「Apple Creator Studio」のアップデートを発表しました。Pixelmator ProのiPad版には高度な選択ツールが追加され、Final Cut ProなどではiPhone 18 Proで撮影した映像のシネマティックモード効果の編集に対応します。さらに、KeynoteやNumbersなどの主要アプリにも新テンプレートや機能が追加されています。"
+    },
+    {
+      "id": "aeb2a7ad494736b085bc",
+      "source": "Apple Newsroom",
+      "sourceId": "apple-newsroom",
+      "category": "official",
+      "titleOriginal": "Apple releases new guide to help families build healthy digital habits",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
+      "publishedAt": "2026-09-29T16:59:08.275Z",
+      "imageUrl": null,
+      "tags": [
+        "公式"
+      ],
+      "titleJa": "Apple、健康的なデジタル習慣を築くための新ガイドを公開",
+      "summaryJa": "Appleはアメリカ小児科学会との提携により、子どもが健康的なデジタル習慣を築くための新しいガイドを公開しました。スクリーンタイムと睡眠や運動のバランスを取るための専門的なアドバイスと、製品に組み込まれたペアレンタルコントロール機能を組み合わせて紹介しています。家族で話し合いながら年齢に応じた安全設定を進めるための6つのステップが示されています。"
+    },
+    {
+      "id": "079bbbaf3e736381a1d1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Says Emergency SOS via Satellite Now Available in Norway",
+      "url": "https://www.macrumors.com/2026/09/29/emergency-sos-via-satellite-in-norway/",
+      "publishedAt": "2026-09-29T16:57:05.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2022/11/Emergency-SOS-via-Satellite-iPhone-YT.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、ノルウェーで衛星通信による緊急SOSを提供開始",
+      "summaryJa": "Appleのサポート文書によると、ノルウェーで衛星経由の緊急SOS機能が利用可能になりました。iPhone 14以降およびApple Watch Ultra 3以降の対応デバイスで、Wi-Fiやモバイル回線の届かない場所から緊急サービスへテキスト送信が行えます。利用には最新のOSへのアップデートが必要で、緯度62度を超える一部の地域では利用できない場合があると注意が促されています。"
+    },
+    {
+      "id": "839114397fa74a5baf25",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AppleCare Guide: Is it Worth Paying For?",
+      "url": "https://www.macrumors.com/guide/applecare/",
+      "publishedAt": "2026-09-29T16:29:33.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Care-Feature-26.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AppleCareの加入プランと補償内容を徹底解説",
+      "summaryJa": "Apple製品には1年間の限定保証と90日間のテクニカルサポートが標準で付属します。さらに保証を延長するため、Appleは偶発的な損傷や紛失・盗難に対応する様々なAppleCare+や有料プランを提供しています。製品ごとに異なる費用やサービス料、補償範囲を比較し、加入する価値があるかどうかを判断するための仕組みを解説しています。"
+    },
+    {
+      "id": "d9a958fe97f31e9bdb9b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Reportedly Planned to Replace 5,000 Support Employees With AI",
+      "url": "https://www.macrumors.com/2026/09/29/apple-reportedly-planned-5000-applecare-layoffs/",
+      "publishedAt": "2026-09-29T16:11:17.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/08/Apple-Support-App-General-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、サポート担当者5000人のAI置き換え計画を一時凍結か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者によると、Appleはサポート部門の従業員約5000人をAIエージェントに置き換える計画を検討していたものの、現在は無期限で凍結したと報じられています。Appleはすでに米国やカナダの一部のサポート電話窓口で生成AIを活用したボットの導入を進めています。今回の計画見送り後も、将来的に人員削減や採用縮小を再び検討するかどうかは不透明な状況です。"
+    },
+    {
+      "id": "296bd1f16266df46fa90",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "OpenAI makes 20+ announcements at DevDay event including always-on agents called dots, watch live",
+      "url": "https://9to5mac.com/2026/09/29/openai-teases-20-announcements-at-devday-watch-live/",
+      "publishedAt": "2026-09-29T16:03:40.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/openai-devday.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OpenAI、常時稼働AIエージェント「dots」などを発表",
+      "summaryJa": "OpenAIはDevDayイベントにおいて、20以上の新機能やアップデートを発表しました。その中には、ユーザーのために24時間稼働し、フィードバックから学習して独自のコンピューターやブラウザも操作できる常時稼働AIエージェント「dots」が含まれています。さらに、チームやAIと共同作業ができる新しいワークスペース「ChatGPT Space」なども同時に公開されています。"
+    },
+    {
+      "id": "eaf7063ff50ff1c5b563",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s how many iPhone Duo units Apple is reportedly making",
+      "url": "https://9to5mac.com/2026/09/29/heres-how-many-iphone-duo-units-apple-is-reportedly-making/",
+      "publishedAt": "2026-09-29T16:02:53.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-star-white-front-back.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの新型「iPhone Duo」の生産状況と製造目標が判明か",
+      "summaryJa": "中国メディアの界面新聞の報道によると、組み立て工程が複雑な「iPhone Duo」の生産は立ち上がりが遅れており、現在の歩留まりは約60％にとどまっています。サプライヤーの間では、生産歩留まりが成熟レベルに達するにはさらに半年以上かかると見られています。こうした製造上の課題がありながらも、Appleは2026年の発売に向けて600万〜800万台の生産を目標にしていると伝えられています。"
     },
     {
       "id": "b87e2d3689c3060ed0b9",
@@ -4325,189 +4505,9 @@
       ],
       "titleJa": "「CardPointers 8」が公開、Siri AI統合や自動オファー同期に対応",
       "summaryJa": "クレジットカードの特典や割引を最大限に活用できるアプリ「CardPointers」の最新バージョン8がリリースされました。新たにSiri AIの統合や自動オファー同期機能が追加され、毎夜バックグラウンドで各銀行のオファーを自動的に有効化できるようになりました。さらに、Visual Intelligenceを使った店舗やレシートの読み取り、新しくなったウィジェットやダッシュボード機能などにより、ポイ活の管理がさらに便利になっています。"
-    },
-    {
-      "id": "ce85be9fa90f069c509b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Pin Music to the Top of Your Apple Watch Music Library",
-      "url": "https://www.macrumors.com/how-to/pin-music-apple-watch/",
-      "publishedAt": "2026-09-21T16:03:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/pin-music-library.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watchの音楽ライブラリで好みの楽曲を上部に固定する方法",
-      "summaryJa": "watchOS 27を搭載したApple WatchのApple Musicアプリでは、よく聴く楽曲やアーティスト、アルバム、プレイリストをライブラリの上部にピン留めできるようになりました。再生画面や各項目の横にある3点リーダーから簡単にピン留めや解除が行えます。お気に入りの音楽に素早くアクセスできるようになり、外出先での音楽体験がより快適になります。"
-    },
-    {
-      "id": "89c6552e88ee3006e4f4",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Smart Home Display Coming as Soon as Next Month",
-      "url": "https://www.macrumors.com/2026/09/21/apple-smart-home-display-coming-next-month/",
-      "publishedAt": "2026-09-21T15:30:37.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleのスマートホームディスプレイ、早ければ来月にも登場か",
-      "summaryJa": "Appleが長年噂されているスマートホームディスプレイを早ければ10月にも発表する可能性があると報じられています。このデバイスは、アクセサリの制御や家庭内のコミュニケーション、メディアへのアクセスなどを担うハブとして機能するとみられています。卓上型と壁掛け用の2モデルが用意され、SiriのAI機能を統合した専用OSを搭載する見込みです。"
-    },
-    {
-      "id": "a573f775ccbd586c6082",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "OWC's Best Mac Accessories Are on Sale Just for MacRumors Readers",
-      "url": "https://www.macrumors.com/2026/09/21/owcs-best-mac-sale/",
-      "publishedAt": "2026-09-21T14:07:59.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/thunderbolt-owc-sale-dock.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "OWCの人気MacアクセサリがMacRumors読者向けにセール実施",
-      "summaryJa": "海外メディアMacRumorsがOWCと提携し、Thunderboltドックや外部ストレージケース、USB-Cケーブルなどを特別割引価格で販売するセールを実施しています。対象製品には大幅な割引が適用されており、期間は9月30日午前12時までとなっています。デスクトップ環境のアップグレードを検討しているユーザーにとって見逃せない内容です。"
-    },
-    {
-      "id": "4d3fc735f0cc69561061",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "New Mac Studio's Biggest Upgrade Isn't the M5 Ultra Chip, Review Says",
-      "url": "https://www.macrumors.com/2026/09/21/mac-studio-m5-ultra-reviews/",
-      "publishedAt": "2026-09-21T13:46:28.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/06/Mac-Studio-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新しいMac Studioの最大の進化点はSSDストレージ速度か",
-      "summaryJa": "新型Mac Studioのレビューが公開され、M5 Ultraチップだけでなく、大幅に高速化したSSDストレージの性能が最大の注目点であると伝えられています。検証テストでは、前世代モデルと比較して読み込み速度が約2.6倍、書き込み速度が約2.1倍に達することが確認されました。M5世代の圧倒的な処理能力と相まって、非常に高速なパフォーマンスを実現しています。"
-    },
-    {
-      "id": "166df89458963d2ffa92",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "How to Force Quit Apple Watch Apps in watchOS 27",
-      "url": "https://www.macrumors.com/how-to/force-quit-apple-watch-apps-watchos-27/",
-      "publishedAt": "2026-09-21T13:33:56.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2020/06/apple-watch-10-titanium-finishes-crown.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "watchOS 27でApple Watchのアプリを強制終了する方法",
-      "summaryJa": "watchOS 27では操作仕様の変更に伴い、従来のアプリスイッチャーを使った強制終了の方法が利用できなくなりました。代わりに、終了したいアプリの画面でサイドボタンを長押しし、スライダーが表示された状態でデジタルクラウンを長押しすることでアプリを終了できます。アプリが正常に動作しない場合のトラブルシューティングに役立ちます。"
-    },
-    {
-      "id": "f72c849107eef3bb457a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "New Mac Mini and Mac Studio Launch Tomorrow",
-      "url": "https://www.macrumors.com/2026/09/21/new-mac-mini-and-mac-studio-launch-tomorrow/",
-      "publishedAt": "2026-09-21T13:04:41.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型Mac miniとMac Studioがいよいよ発売へ",
-      "summaryJa": "先月に発表された新型のMac miniとMac Studioが、火曜日にいよいよ発売されます。新しいMac miniはM6およびM5 Proチップを搭載し、Mac StudioはM5 MaxまたはM5 Ultraチップを選択可能です。外観の大幅な変更はなく、主にプロセッサなどのスペック向上を中心としたアップデートとなっています。"
-    },
-    {
-      "id": "e7e73cd431c75244ae23",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "M6 Mac mini review: Apple’s most versatile Mac continues to shine",
-      "url": "https://9to5mac.com/2026/09/21/m6-mac-mini-review/",
-      "publishedAt": "2026-09-21T13:00:05.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/mac-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "M6搭載Mac miniレビュー、小型で高い汎用性を維持",
-      "summaryJa": "コンパクトな筐体に優れたパフォーマンスを凝縮した、M6搭載Mac miniのレビューが届けられています。外観のデザインは直近のモデルチェンジから引き継がれており、優れた省スペース性を実現しています。前面のポート類に加え、Wi-Fi 7やBluetooth 6への対応、2.5Gb Ethernetの標準化など、細かな接続性も強化されています。"
-    },
-    {
-      "id": "e733880200db2b0d6052",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 and Ultra 4 May Have Hidden Flash Storage",
-      "url": "https://www.macrumors.com/2026/09/21/apple-watch-series-12-ultra-4-hidden-storage/",
-      "publishedAt": "2026-09-21T12:52:05.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-s12-ultra-4.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Series 12とUltra 4に隠しストレージか",
-      "summaryJa": "中国のハードウェア研究者によると、Apple Watch Series 12およびUltra 4には128GBのNANDフラッシュが搭載されている可能性があると報じられています。公式の仕様では64GBとされていますが、センサーデータの読み書きや耐久性のバッファとして一部が予約されているとの見方があります。過去のiPad Proと同様に、分解調査によって詳細が明らかになると期待されています。"
-    },
-    {
-      "id": "12dfd8ef15c376ea4cae",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Fitness+ team hit by layoffs, as ‘major changes’ reportedly loom",
-      "url": "https://9to5mac.com/2026/09/21/apple-fitness-team-hit-by-layoffs-as-major-changes-reportedly-loom/",
-      "publishedAt": "2026-09-21T12:49:04.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-fitness-plus-iphone-watch.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Fitness+チームで人員削減、今後の大幅な変更か",
-      "summaryJa": "Apple Fitness+の今後を巡り、音声機能を担当するチームで少数の人員削減が行われたと報じられています。「歩く」や「走る」の音声セッションの更新頻度が低下する見込みですが、サービス自体が直ちに終了するわけではないとされています。今後はコスト削減や、ヘルスケア関連アプリへの統合といったさらなる見直しが進められる可能性があると伝えられています。"
-    },
-    {
-      "id": "2e2fcc48e8cdc1c1a950",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "You can now claim your payout from Apple’s $250 million Siri settlement",
-      "url": "https://9to5mac.com/2026/09/21/you-can-now-claim-your-payout-from-apples-250-million-siri-settlement/",
-      "publishedAt": "2026-09-21T12:31:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/04/apple-intelligence-rainbow.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AppleのSiri訴訟、対象ユーザー向けに和解金の請求受付が開始",
-      "summaryJa": "AppleのSiriおよびApple Intelligenceの遅延を巡る集団訴訟において、米国の対象ユーザーが和解金を受け取るための請求手続きが開始されました。対象となるのは、指定された期間内に米国で対象モデルを購入したユーザーで、デバイス1台あたり25ドルから最大95ドルの支払いが予定されています。請求の締め切りは2026年12月21日までとなっています。"
-    },
-    {
-      "id": "401091bcff46617b7842",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone 20 Pro Display Sizes Leak Ahead of 2027 Launch",
-      "url": "https://www.macrumors.com/2026/09/21/iphone-20-pro-display-sizes-leak/",
-      "publishedAt": "2026-09-21T11:30:01.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone 20 Proのディスプレイサイズと解像度の詳細が流出か",
-      "summaryJa": "中国の著名リーカーにより、2027年登場とみられるiPhone 20 Proシリーズの初期ディスプレイ仕様が明らかにされました。Proモデルは6.41インチ、Pro Maxモデルは6.96インチの画面サイズになると報じられています。ピクセル密度を維持したまま解像度も向上しており、四辺が湾曲したボーダレスデザインのテストが進められている可能性があります。"
-    },
-    {
-      "id": "5f1018b2957ebb069743",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12 and Ultra 4 Owners Report Unexpected Reboots",
-      "url": "https://www.macrumors.com/2026/09/21/apple-watch-series-12-ultra-4-reported-reboots/",
-      "publishedAt": "2026-09-21T09:08:42.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-s12-ultra-4.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch新モデルで原因不明の再起動問題が複数報告",
-      "summaryJa": "一部のApple Watch Series 12およびUltra 4ユーザーの間で、デバイスが突然予期せぬ再起動を繰り返す不具合が報告されています。診断ログからはApple Neural Engineのタイムアウトが原因である可能性が示されており、広範なユーザーに影響を与えている模様です。現時点でAppleからの公式な見解や対応は発表されていません。"
     }
   ],
-  "updatedAt": "2026-09-29T23:58:41.634Z",
+  "updatedAt": "2026-09-30T05:23:28.857Z",
   "initialized": true,
   "summaryVersion": 4
 }
