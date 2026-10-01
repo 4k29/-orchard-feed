@@ -1,6 +1,156 @@
 {
   "articles": [
     {
+      "id": "b166db925714c5ff24bb",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple commissions photographers for new ‘Shot on iPhone Duo’ campaign",
+      "url": "https://9to5mac.com/2026/10/01/apple-commissions-photographers-for-new-shot-on-iphone-duo-campaign/",
+      "publishedAt": "2026-10-01T22:52:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-camera.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、新モデルのカメラ性能をアピールする写真キャンペーンを展開",
+      "summaryJa": "Appleは公式Instagramアカウントにて、写真家のジェイク・マイケルズ氏とジェイソン・ノシト氏が撮影した作品を公開しました。これはiPhone Duoの優れたカメラシステムと多彩な機能をアピールするためのもので、長年続く「Shot on iPhone」キャンペーンの一環となっています。"
+    },
+    {
+      "id": "6649a6f48f41340fec6f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple among biggest corporate lobbyists in Brussels, per report",
+      "url": "https://9to5mac.com/2026/10/01/apple-among-biggest-corporate-lobbyists-in-brussels-per-report/",
+      "publishedAt": "2026-10-01T22:21:27.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2022/02/apple-europe.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AppleがEUにおける主要なロビー活動企業の一つであることが明らかに",
+      "summaryJa": "フィナンシャル・タイムズ紙の分析によると、Appleは2024年6月以降、EUの政策立案者と257回にわたり面会を行っています。年間800万から900万ユーロをロビー活動に投じており、米国の巨大テック企業の中でも特に活発にEUのデジタル規制への対応を進めていることが報じられています。"
+    },
+    {
+      "id": "66e1292ec5e70ff8cf64",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: October 1, 2026 – iPhone Duo production, AirPods 5 tidbits",
+      "url": "https://9to5mac.com/2026/10/01/daily-october-1-2026/",
+      "publishedAt": "2026-10-01T22:16:36.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "9to5Mac Daily：iPhone Duoの生産数やAirPods 5の話題を配信",
+      "summaryJa": "ポッドキャスト番組「9to5Mac Daily」の最新エピソードが配信されました。今回はiPhone Duoの生産台数に関する情報や、AirPods 5の分解レポートによる修理性の改善、さらにメッセージアプリ経由でのDoorDash注文機能など、注目のニュースをまとめて振り返っています。"
+    },
+    {
+      "id": "399b75be2cbd15292081",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "New 'AirFly Drive' Accessory Turns Wired CarPlay Into Wireless CarPlay",
+      "url": "https://www.macrumors.com/2026/10/01/twelve-south-airfly-drive/",
+      "publishedAt": "2026-10-01T22:08:42.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/10/Twelve-South-AirFly-Drive.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Twelve South、有線CarPlayを無線化する新アクセサリ「AirFly Drive」を発売",
+      "summaryJa": "Apple向けアクセサリで知られるTwelve Southから、有線式のCarPlayを手軽にワイヤレス化できる新アクセサリ「AirFly Drive」が登場しました。車両のUSBポートに接続するだけで自動的にiPhoneと接続され、ボタン一つでペアリングされた2台のiPhoneを切り替えることも可能です。"
+    },
+    {
+      "id": "d8939d9a0425dce737ce",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "GrayKey maker can reportedly bypass the iPhone’s ‘Inactivity Reboot’ security feature",
+      "url": "https://9to5mac.com/2026/10/01/graykey-maker-can-reportedly-bypass-the-iphones-inactivity-reboot-security-feature/",
+      "publishedAt": "2026-10-01T21:36:16.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/how-to-get-imessage-quantum-security-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "GrayKeyのメーカー、iPhoneの「不活動再起動」を回避か",
+      "summaryJa": "マグネット・フォレンジック社が、一定期間ロック解除されない場合にiPhoneを自動再起動してセキュリティを強化する「不活動再起動」機能を回避する方法を発見したと報じられています。iOS 18.1で導入されたこの機能は、捜査機関などによるデータ抽出を困難にする目的がありましたが、解析ツール側で早くもバイパス手段が開発された形です。"
+    },
+    {
+      "id": "8950afc8978e03fdc256",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Shares Photos Shot on iPhone Duo",
+      "url": "https://www.macrumors.com/2026/10/01/apple-shares-photos-shot-on-iphone-duo/",
+      "publishedAt": "2026-10-01T20:56:29.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-duo-colors.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、「iPhone Duo」で撮影された作例写真を公開",
+      "summaryJa": "Appleは公式Instagramアカウントにて、「iPhone Duo」で撮影された6枚の優れた写真を公開しました。このプロジェクトは著名な写真家らによって手がけられ、4つのカメラを搭載する同モデルの高い写真撮影能力を示しています。iPhone Duoの予約受付は10月16日金曜日の太平洋時間午前5時に開始される予定です。"
+    },
+    {
+      "id": "02593c99c2da5d591aa9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple Arcade adds five new games, including Terraria+ and Pusheen’s Place",
+      "url": "https://9to5mac.com/2026/10/01/apple-arcade-adds-five-new-games-including-terraria-and-pusheens-place/",
+      "publishedAt": "2026-10-01T20:44:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-arcade.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Arcade、Terraria+など新ゲーム5タイトルを追加",
+      "summaryJa": "Apple Arcadeのカタログに、新たに5つのゲームタイトルが追加されました。広告やアプリ内課金のないバージョンで提供される既存の人気作に加え、独占配信となる「Pusheen’s Place」などの完全新作が含まれており、加入者は200以上のライブラリからさらに多くのゲームを楽しめるようになります。"
+    },
+    {
+      "id": "4ffba45b2b71fb0e6275",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Audible announces AI-powered character guides, interactive stories, more",
+      "url": "https://9to5mac.com/2026/10/01/audible-announces-ai-powered-character-guides-interactive-stories-more/",
+      "publishedAt": "2026-10-01T20:06:47.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/audible.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Audible、AIを活用したキャラクターガイドなどの新機能を発表",
+      "summaryJa": "Audibleは、リスナーが作品世界をより深く楽しめるようにする3つの新機能を発表しました。物語の進行に合わせて登場人物の情報を表示する「キャラクターガイド」や、作中のキャラクターとリアルタイムで会話できる機能などが順次提供され、まずは特定のオーディオブックから導入されます。"
+    },
+    {
+      "id": "4ac41b407db45d0fb445",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Says iPhone Duo Has Replaceable 'Cover Layer' Above the Display",
+      "url": "https://www.macrumors.com/2026/10/01/iphone-duo-cover-layer-is-replaceable/",
+      "publishedAt": "2026-10-01T19:32:13.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone Duo、ディスプレイ上のカバー層が交換可能とApple幹部が説明",
+      "summaryJa": "Appleのハードウェアエンジニアリング担当副社長であるケイト・バーゲロン氏によると、iPhone Duoの内側ディスプレイにあるナノテクスチャのカバー層は剥がして新しいものに交換できる仕様になっています。AppleCare+加入者の場合は19ドルで交換が可能で、折り目が見えにくくなるなどの劣化対策として機能します。公式な交換作業はApple Storeや正規サービスプロバイダで行われる見込みです。"
+    },
+    {
+      "id": "ba6df728854211d1ec96",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "HomePad launch nears, Apple Watch Readiness score, Ternus wants to make Apple more nimble",
+      "url": "https://9to5mac.com/2026/10/01/happy-hour-610/",
+      "publishedAt": "2026-10-01T19:30:28.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "HomePadの10月13日発売説やApple Watchの準備状態機能についてポッドキャストで議論",
+      "summaryJa": "番組内では、10月13日の発売が噂されるAppleの新型スマートディスプレイ「HomePad」に関する最後の最新情報や、デザインへの疑問が話し合われました。さらに、間近に迫っているとみられるiPad miniやHomePod miniのアップデート、Apple Watchの新機能である準備状態スコアについても言及されています。"
+    },
+    {
       "id": "e8aff3cb8f61ffbcbb8a",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -180,6 +330,36 @@
       ],
       "titleJa": "Apple TV、サブスク利用者向けにクラシック映画の名作13本を追加",
       "summaryJa": "Apple TVは、毎月恒例のクラシック映画の追加ラインナップとして、新たに13本の映画をサブスクリプション加入者向けに無料で提供開始しました。「アメリカン・ギャングスター」や「グッド・ウィル・ハンティング」、「タクシードライバー」などが追加され、過去の配信作とあわせて楽しむことができます。"
+    },
+    {
+      "id": "cd06c4a2b6057deef0ba",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "New MacBook Pro redesign gets exciting launch timing update",
+      "url": "https://9to5mac.com/2026/10/01/new-macbook-pro-redesign-gets-exciting-launch-timing-update/",
+      "publishedAt": "2026-10-01T15:08:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macbook-ultra-pro-mockup.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "OLEDとタッチスクリーン搭載の新しいMacProが今秋にも登場か",
+      "summaryJa": "著名記者のマーク・ガーマン氏によると、タッチスクリーンとOLEDディスプレイを採用した新型MacBook Proが、早ければ10月か11月にも登場する見込みです。Appleは10月13日に新しいホーム関連製品を発表すると噂されており、その直後に新型Macシリーズが続くスケジュールになると報じられています。"
+    },
+    {
+      "id": "c070d7919369d97c2bf5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPadOS 27.2: Two new features coming soon to your iPad",
+      "url": "https://9to5mac.com/2026/10/01/ipados-27-2-two-new-features-coming-soon-to-your-ipad/",
+      "publishedAt": "2026-10-01T14:27:32.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPadOS 27.2で導入されるSiriのコンテキストポップアップとプロフィール機能",
+      "summaryJa": "今月後半に配信予定のiPadOS 27.2では、いくつかの新機能が追加されます。トラックパッドなどでテキストを選択した際にSiriへ簡単に質問や文章校正を行えるコンテキストポップアップ機能が登場するほか、Apple TVアプリには共有端末で便利なユーザープロフィール機能が導入されます。"
     },
     {
       "id": "f1fb4f0b12491d066952",
@@ -4325,189 +4505,9 @@
       ],
       "titleJa": "Anthropic、低価格で高性能な「Claude Opus 5.5」を発表",
       "summaryJa": "Anthropicは、新しい5.5モデルファミリーの第一弾となる「Claude Opus 5.5」を発表しました。従来のOpusモデルと同等の高い性能を備えながら、運用コストを40%削減し、処理速度も30%以上向上しています。また、応答の自然さや安全性が強化されており、各種有料プランでの利用制限緩和も合わせて実施されています。"
-    },
-    {
-      "id": "56efb8a87a302b0c7be1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "These were the best Apple accessories I found at IFA Berlin 2026",
-      "url": "https://9to5mac.com/2026/09/22/these-were-the-best-apple-accessories-i-found-at-ifa-berlin-2026/",
-      "publishedAt": "2026-09-22T19:08:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ifa.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "IFA 2026で見つけた注目のAppleエコシステム向け周辺機器",
-      "summaryJa": "欧州最大の家電見本市IFA 2026において、Apple製品と組み合わせて使える優れたアクセサリーの数々が紹介されました。特にLexarの新型超薄型SSD「Lexar Muse」は、iPhoneでのProRes Raw撮影をサポートする高い性能を備えつつ、最薄部が3.8mmという極薄デザインで大きな注目を集めました。こうした周辺機器は、日々のクリエイティブなワークフローやAppleのエースデバイスの利便性をさらに高める存在として期待されています。"
-    },
-    {
-      "id": "041e67f3f56afcd23bb3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple has reportedly ‘postponed’ AI pendant product",
-      "url": "https://9to5mac.com/2026/09/22/apple-has-reportedly-postponed-ai-pendant-product/",
-      "publishedAt": "2026-09-22T19:01:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-pin-concept.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、カメラ付きAIウェアラブルペンダントの開発を一時中断か",
-      "summaryJa": "Bloombergの報道によると、Appleが開発を進めていたと噂されるカメラ付きのAIウェアラブルペンダント計画が一時的に見送られたことが明らかになりました。このデバイスは、ネックレスのように身につけたり衣類に装着したりして周囲の視覚情報を収集し、新しいSiriのAIアシスタント機能と連携する構想でした。現在はApple WatchへのAI機能統合や、2027年に登場予定のカメラ付きAirPodsやスマートグラスの開発にリソースが注がれていると伝えられています。"
-    },
-    {
-      "id": "750f7548e7eac75bbdfb",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Testing Prototypes of Whoop-Like Screenless Fitness Band",
-      "url": "https://www.macrumors.com/2026/09/22/apple-screenless-fitness-band/",
-      "publishedAt": "2026-09-22T18:21:23.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/whoop-band.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、画面非搭載のWhoop型フィットネスバンドを試作中か",
-      "summaryJa": "Appleがディスプレイを持たない、Whoop製品に似た画面非搭載型の健康管理用フィットネスバンドのプロトタイプをテストしていると報じられています。このデバイスは布製のバンドと手首にフィットする本体モジュールで構成され、心拍数などを常時モニタリングするセンサーを搭載しています。製品化の決定には至っておらず、もし開発が進められた場合でも発売は少なくとも2028年以降になると予想されています。"
-    },
-    {
-      "id": "e35fc471ba8c89295530",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases Firmware Update for Beats 360",
-      "url": "https://www.macrumors.com/2026/09/22/apple-beats-360-firmware-update/",
-      "publishedAt": "2026-09-22T18:05:40.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/08/Beats-360-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、新型オーバーイヤーヘッドホン「Beats 360」向けファームウェアを配信開始",
-      "summaryJa": "Appleは、新発表されたオーバーイヤーヘッドホン「Beats 360」に向けて、早くも新しいファームウェアアップデートの配信を開始しました。バージョン番号は従来の4A260から4A262へと更新されており、購入者が製品を受け取った際に最新ソフトが利用できる状態になります。アップデート内容の詳細は明らかにされていませんが、対応デバイスと接続して充電中である場合に自動で適用されます。"
-    },
-    {
-      "id": "db618ff03ce74e90574c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI upgrading ChatGPT and Codex with two more GPT-6 models",
-      "url": "https://9to5mac.com/2026/09/22/openai-upgrading-chatgpt-and-codex-with-two-more-gpt-6-models/",
-      "publishedAt": "2026-09-22T18:02:45.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI、ChatGPTとCodexに新モデル「GPT-6 Sol」「GPT-6 Luna」を追加",
-      "summaryJa": "OpenAIは、GPT-6シリーズの新たなモデルとして「GPT-6 Sol」と「GPT-6 Luna」の提供を開始しました。これらは従来のモデルよりも少ないトークンで動作し、API価格の大幅な引き下げも同時に実施されています。Solは複雑なコーディングやエージェント型ワークフロー向け、Lunaは高負荷な集中タスク向けに設計されています。"
-    },
-    {
-      "id": "a9359484d7c7f5e3ab8d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Beats 360 Pre-Orders Open at Amazon With Cushion Kits on Sale, Plus More Beats Deals",
-      "url": "https://www.macrumors.com/2026/09/22/beats-360-pre-orders-open-amazon/",
-      "publishedAt": "2026-09-22T17:40:24.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/beats-360-brown.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Beats 360ヘッドホンがAmazonで予約受付開始、関連アクセサリのセールも",
-      "summaryJa": "新型ヘッドホン「Beats 360」がAmazonにて予約受付を開始しました。ブラックやクラウドなどのカラーに加え、交換用のイヤークッションやヘッドバンドが付属するバンドルも用意されています。また、発売に合わせて対応クッションキットが期間限定の特別価格で販売されているほか、各種Beats製品のセールも開催されています。"
-    },
-    {
-      "id": "2313d2d3f6be6f9fce76",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone 18 Pro’s best Dynamic Island feature is one Apple barely mentioned",
-      "url": "https://9to5mac.com/2026/09/22/iphone-18-pros-best-dynamic-island-feature-is-one-apple-barely-mentioned/",
-      "publishedAt": "2026-09-22T17:40:08.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-front-dynamic-island.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone 18 Proの「Dynamic Island」が進化した、知られざるライブアクティビティの便利機能",
-      "summaryJa": "iPhone 18 Proでは初めてDynamic Islandのサイズが縮小され、より多くの情報を表示できるようになりました。公式発表では同時に3つのライブアクティビティを実行できるようになったことが注目されていますが、2つ使用時の表示スペースも改善されています。例えばタイマーなどの情報がより詳細に表示されるようになり、日常の利便性が向上しています。"
-    },
-    {
-      "id": "62b84e2aa6fd3af5b361",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Puts AirTag-Sized AI Pin on Hold",
-      "url": "https://www.macrumors.com/2026/09/22/apple-pauses-ai-pin-development/",
-      "publishedAt": "2026-09-22T17:23:42.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/07/airtag-prime-day-2.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、AirTagサイズのAIピン型ウェアラブル端末の開発を一時凍結か",
-      "summaryJa": "Bloombergの報道によると、Appleはカメラを搭載したクリップまたはペンダント型のAIウェアラブル端末の開発を一時中断しました。このデバイスはAirTagほどのサイズで、周囲の状況をSiriに伝えてビジュアルインテリジェンス機能を提供すると噂されていました。開発凍結により、2027年と予想されていた発売時期は見送られる可能性が高いとみられています。"
-    },
-    {
-      "id": "05bd9eb1872afe26fa74",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Beats 360 Ear Cushion Kits Just $9.99 Each Until the End of October",
-      "url": "https://www.macrumors.com/2026/09/22/beats-360-ear-cushions-special-pricing/",
-      "publishedAt": "2026-09-22T17:11:31.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Beats-360-Ear-Cushions.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Beats 360登場、交換用イヤークッションが10月末まで特別価格に",
-      "summaryJa": "Appleが新型オーバーイヤーヘッドホン「Beats 360」を発表し、それに合わせて交換用イヤークッションキットの割引販売を開始しました。10月31日までの期間限定で、米国のオンラインストアなどでは通常49.99ドルのキットが9.99ドルで提供されています。カラーバリエーション豊富なパフォーマンスニットやウルトラプラッシュのクッションが対象で、在庫がなくなり次第終了となります。"
-    },
-    {
-      "id": "36f562614e986b51e1ef",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple working on Whoop-style screenless fitness tracker, per report",
-      "url": "https://9to5mac.com/2026/09/22/apple-working-on-whoop-style-screenless-fitness-tracker-per-report/",
-      "publishedAt": "2026-09-22T16:46:27.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/AW-vs-WHOOP-6.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、Whoop競合の画面なしフィットネス追跡端末を開発中か",
-      "summaryJa": "AppleがWhoopやOura Ringなどの競合に対抗するため、画面を持たない健康・フィットネス追跡用の新型ウェアラブルデバイスの試作機を開発していると報じられています。薄型ファブリックバンドにセンサー付きモジュールを搭載する設計で、技術調査の初期段階にあります。製品化される場合でも、発売は2028年以降になるとみられています。"
-    },
-    {
-      "id": "1ab3cece3fe55f8ebd43",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Anthropic upgrades Claude with new Opus 5.5 model, details here",
-      "url": "https://9to5mac.com/2026/09/22/anthropic-upgrades-claude-with-new-opus-5-5-model-details-here/",
-      "publishedAt": "2026-09-22T16:38:01.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Anthropicが「Claude Opus 5.5」を発表、性能と速度が向上",
-      "summaryJa": "AnthropicがAIモデルの最新バージョン「Claude Opus 5.5」をリリースしました。前回のアップデートから約2ヶ月での登場となり、前モデルのOpusと比べて処理速度が約30%向上し、タスクあたりのコストも約40%削減されています。複雑なコードの移行作業やウェブアプリの効率化などにおいて大幅な性能向上が確認されており、外部評価でも高い安全性を記録しています。"
-    },
-    {
-      "id": "eff2952edf7f3c60803b",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Will Soon Announce an All-New Operating System",
-      "url": "https://www.macrumors.com/2026/09/22/apple-working-on-an-all-new-operating-system/",
-      "publishedAt": "2026-09-22T16:19:57.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/02/iOS-26-Home-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、スマートホームハブ向けの新型OSを準備中との報道",
-      "summaryJa": "Bloombergのマーク・ガーマン記者によると、AppleはtvOS、watchOS、iOSの要素を組み合わせたスマートホームハブ向けの新型OSを開発しています。このOSは顔認識機能を備え、ユーザーの接近に応じて表示が変化するほか、Siri AIを中核とした多彩な機能が統合される見込みです。名称は「homeOS」になると噂されており、早ければ10月にも発表される可能性があると伝えられています。"
     }
   ],
-  "updatedAt": "2026-10-01T19:06:37.354Z",
+  "updatedAt": "2026-10-01T23:14:05.102Z",
   "initialized": true,
   "summaryVersion": 4
 }
