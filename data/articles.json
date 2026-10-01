@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "65b17d65f80c234a6b66",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Home Hub Borrows From the iPhone Duo's StandBy Mode",
+      "url": "https://www.macrumors.com/2026/09/30/home-hub-photo-face/",
+      "publishedAt": "2026-09-30T22:57:11.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/home-hub-photos-face.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AppleのスマートホームハブはiPhoneのスタンバイモードに似た機能を搭載か",
+      "summaryJa": "Appleが開発中と噂されるスマートホームハブには、ユーザーが選択可能な複数の画面デザインが用意されており、その一部はiPhoneのスタンバイモードに似た写真表示機能などを採用していると報じられています。リークされた設定画面によると、iCloudの写真ライブラリを活用したフォトフェイス機能などが利用できるようになる見込みです。デバイスには約6インチの画面が搭載され、iMac G4を彷彿とさせる金属製の半ドーム型ベースにアームで接続されるデザインになると伝えられています。"
+    },
+    {
+      "id": "e01a70b69aef36db13a4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV is currently down for some users, as other Apple services also face issues [U]",
+      "url": "https://9to5mac.com/2026/09/30/apple-tv-is-currently-down-for-some-users-as-other-apple-services-also-face-issues/",
+      "publishedAt": "2026-09-30T22:47:35.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TVや一部のAppleサービスで一時的な障害が発生",
+      "summaryJa": "Apple TVやサブスクリプションの購入機能などで一時的なシステム障害が発生し、一部のユーザーが利用できない状態になりました。Appleのシステムステータスによると、Apple TVのほかApp StoreやApple Musicなどでも影響が報告されました。定期メンテナンスに関連しているとみられていますが、その後順次復旧に向かっていると伝えられています。"
+    },
+    {
+      "id": "ac9503cf081eb83b1af5",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Elder fraud is rising – here’s how to protect your family",
+      "url": "https://9to5mac.com/2026/09/30/elder-fraud-rising-heres-how-to-protect-your-family/",
+      "publishedAt": "2026-09-30T22:30:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/danger-angle-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "高齢者を狙った詐欺の増加と家族を守るための対策",
+      "summaryJa": "テクノロジーへのリテラシーが比較的低い高齢者を標的にした詐欺被害が米国などで増加傾向にあります。公開された個人データが悪用されるケースが多く、SIMスワップなどの手法を用いて二段階認証を突破し、家族のなりすましなどに利用される危険性が指摘されています。メッセージアプリやチャットグループを利用する際も、個人情報の取り扱いやセキュリティ設定には十分な注意が必要です。"
+    },
+    {
       "id": "a64591501cdffa74ee79",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -359,6 +404,51 @@
       ],
       "titleJa": "Apple、大型HomePodの新型を将来的に発売する計画か",
       "summaryJa": "ブルームバーグのマーク・ガーマン記者によると、Appleは将来的に大型のHomePodをアップデートする計画を維持していると伝えられています。10月中旬にはスマートホームハブなどの新製品が登場すると噂されていますが、大型モデルの新型はすぐには発売されない見込みです。将来の新型モデルでは、より高度なSiri AI機能や音声処理の改善などが主な変更点になると予想されています。"
+    },
+    {
+      "id": "63f248da0a02f27deeaf",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "The clever way Apple embedded Face ID beneath the iPhone 18 Pro screen",
+      "url": "https://9to5mac.com/2026/09/30/the-clever-way-apple-embedded-face-id-beneath-the-iphone-18-pro-screen/",
+      "publishedAt": "2026-09-30T12:35:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/The-clever-way-Apple-embedded-Face-ID-beneath-the-iPhone-18-Pro-screen.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proの画面下にFace IDセンサーが埋め込まれた仕組み",
+      "summaryJa": "iPhone 18 Proでは、将来的な完全な一枚板のデザインを見据えて、Face IDモジュールがディスプレイ下部に埋め込まれました。赤外線がピクセルを通過できるようにピクセルレイアウトを工夫しつつ、画質の低下を防ぐための高度なエンジニアリングが施されています。モジュール部分の画素密度は半分になるものの、輝度の調整や赤外線パスフィルターの活用により、外観からは存在が分からない自然な仕上がりを実現しています。"
+    },
+    {
+      "id": "e40f13c8bd42606f3deb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Working to Expand HomeKit",
+      "url": "https://www.macrumors.com/2026/09/30/apple-working-to-expand-homekit/",
+      "publishedAt": "2026-09-30T11:46:32.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/02/iOS-26-Home-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、HomeKitの機能拡張とスマートホーム展開を計画か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者が伝えたところによると、Appleはスマートホーム市場への新たな参入に向けてHomeKitの大規模な刷新を進めています。次世代のApple TVやHomePod miniに加え、新しいスマートホームハブの投入が準備されており、対応製品のカテゴリー拡大やサードパーティ製デバイスとの連携強化が図られると報じられています。"
+    },
+    {
+      "id": "027527cb83a772759806",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Smart Home Hub to Feature iMac G4-Style Design",
+      "url": "https://www.macrumors.com/2026/09/30/apple-home-hub-imac-g4-style-design/",
+      "publishedAt": "2026-09-30T11:36:13.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleのスマートホームハブ、iMac G4風のデザインを採用か",
+      "summaryJa": "Appleが開発中と噂されるスマートホームハブは、2002年に登場したiMac G4を彷彿とさせる金属製の丸型ベースとディスプレイを備えたデザインになると報じられています。6インチのスクエア型画面を搭載し、卓上型のほか壁掛け用のバリエーションも用意され、家電の操作やビデオ通話、写真のスライドショー表示などの機能を提供する見込みです。"
     },
     {
       "id": "5b5b8b2271af8bae5876",
@@ -4415,99 +4505,9 @@
       ],
       "titleJa": "Apple、ロンドンのバターシーに新音楽施設を開設",
       "summaryJa": "Appleはロンドンの歴史的なバターシー・パワー・ステーション内に、最新のライブ音楽施設「Apple Music Hall」を開設しました。アーティストがファン向けに親密なライブパフォーマンスを行い、空間オーディオでの録音やマルチカメラによる映像キャプチャをその場で行えるように設計されています。音楽ファンとアーティストを繋ぐ新たな拠点として展開されます。"
-    },
-    {
-      "id": "277d9cced01284e86c42",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "watchOS 27.2 beta 2 brings the App Switcher back with a new gesture",
-      "url": "https://9to5mac.com/2026/09/21/watchos-27-2-beta-2-brings-the-app-switcher-back-with-a-new-gesture/",
-      "publishedAt": "2026-09-22T02:07:14.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/watchOS-27.2-b2.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "watchOS 27.2ベータ2、新ジェスチャーでAppスイッチャーが復活",
-      "summaryJa": "watchOS 27で削除されていたAppスイッチャーが、watchOS 27.2ベータ2で復活することが判明しました。以前はデジタルクラウンのダブルクリックで起動していましたが、今回のベータ版ではアプリ内から画面下部を長押しする新しい操作方法に変更されています。これにより、ユーザーはこれまで同様に最近使ったアプリ間を素早く切り替えることができるようになります。"
-    },
-    {
-      "id": "31595080888a6db48b4b",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple challenges OpenAI’s forensic analysis in trade secrets case, seeks access to hardware R&D",
-      "url": "https://9to5mac.com/2026/09/21/apple-challenges-openais-forensic-analysis-in-trade-secrets-case-seeks-access-to-hardware-rd/",
-      "publishedAt": "2026-09-22T01:37:18.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、OpenAIとの機密情報訴訟で証拠の検証を要求",
-      "summaryJa": "Appleは、OpenAIおよび元従業員らを相手取った営業秘密侵害訴訟において、裁判所に対し自社の専門家によるフォレンジック画像の検証を求めました。また、OpenAIのハードウェア研究開発に関連する文書の開示も求めています。元従業員が機密情報を不正に持ち出したとされる問題をめぐり、両社の主張が対立しています。"
-    },
-    {
-      "id": "926de6e4c9cff9b83b68",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s what’s really going on with GM’s CarPlay strategy (or lack thereof)",
-      "url": "https://9to5mac.com/2026/09/21/heres-whats-really-going-on-with-gms-carplay-strategy-or-lack-thereof/",
-      "publishedAt": "2026-09-21T23:18:47.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/carplay-ios-27-apple-official-site.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "GMのCarPlay非対応方針に変更なし、誤解を否定",
-      "summaryJa": "GMは電気自動車からのCarPlayおよびAndroid Auto排除方針を変更しておらず、一部で報じられた方針転換を否定しました。新型トラック向けソフト更新が従来機能のミラーリングに対応したことで誤解が生じましたが、対象はもともと対応していたガソリン車のみです。同社は引き続きEVでのスマホ連携廃止を進める構えを見せています。"
-    },
-    {
-      "id": "eaf71ed3b3a1e6e081d9",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple CEO John Ternus Talks iPhone Duo Design, Siri AI, and Becoming CEO",
-      "url": "https://www.macrumors.com/2026/09/21/john-ternus-interview-iphone-duo/",
-      "publishedAt": "2026-09-21T23:12:27.000Z",
-      "imageUrl": null,
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleの次期CEOが語るiPhone折りたたみ端末のデザイン",
-      "summaryJa": "Appleの最高経営責任者に就任したジョン・ターナス氏がインタビューに応じ、iPhone折りたたみモデルの開発秘話やデザイン思想を語りました。他社製品とは異なる独自のアスペクト比を採用し、iPadのような使いやすい大画面体験を目指したとのことです。また、SiriなどのAIアシスタントは人間の友人関係の代わりではないとの同社の見解を改めて強調しました。"
-    },
-    {
-      "id": "09d8457eb5ba9c067acf",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iPhone users running iOS 27 can no longer downgrade to iOS 26",
-      "url": "https://9to5mac.com/2026/09/21/iphone-users-running-ios-27-can-no-longer-downgrade-to-ios-26/",
-      "publishedAt": "2026-09-21T23:12:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iOS 27からのダウングレード受付を終了",
-      "summaryJa": "Appleは旧バージョンであるiOS 26.6.2の署名を停止し、iOS 27からiOS 26へのダウングレードができなくなりました。これはセキュリティ上の脆弱性を防ぎ、ユーザーが安全な最新ソフトウェアを利用できるようにするための通常の措置です。すでにiOS 27へアップデートしたユーザーは、以前のシステムに戻すことが不可能となります。"
-    },
-    {
-      "id": "d74839ccd53f58c7dcd3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "You Can No Longer Downgrade From iOS 27 to iOS 26",
-      "url": "https://www.macrumors.com/2026/09/21/ios-27-downgrading-impossible/",
-      "publishedAt": "2026-09-21T22:25:36.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iOS-27-Feature-Warm.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iOS 27からiOS 26へのダウングレードが不可能に",
-      "summaryJa": "Appleによる旧バージョンの署名停止に伴い、iOS 27へアップデートしたiPhoneをiOS 26へ戻すことができなくなりました。セキュリティ維持を目的として古いバージョンのインストールを防ぐための仕様であり、一度最新OSに移行すると元に戻す手段はありません。ユーザーはアップデートの適用前に十分に検討する必要があります。"
     }
   ],
-  "updatedAt": "2026-09-30T21:10:54.672Z",
+  "updatedAt": "2026-10-01T00:34:30.082Z",
   "initialized": true,
   "summaryVersion": 4
 }
