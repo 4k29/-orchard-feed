@@ -1,6 +1,187 @@
 {
   "articles": [
     {
+      "id": "e8aff3cb8f61ffbcbb8a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple says iPhone Duo has ‘replaceable’ folding display layer to minimize crease",
+      "url": "https://9to5mac.com/2026/10/01/apple-says-iphone-duo-has-replaceable-folding-display-layer-to-minimize-crease/",
+      "publishedAt": "2026-10-01T18:44:27.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-siri-app.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの折りたたみ端末iPhone Duo、画面の折り目を抑える交換式カバー層を採用",
+      "summaryJa": "Appleの折りたたみ型端末「iPhone Duo」には、折り目の目立ちを抑えて購入時の美しさを長く保つための交換可能なカバー層が搭載されていることが明らかになりました。ハードウェアエンジニアリング担当副社長のケイト・バーガーロン氏がインタビューで語ったもので、AppleCare加入時の交換費用は19ドルとされています。長期間使用する際の耐久性を高めるユニークな設計として注目を集めています。"
+    },
+    {
+      "id": "6475fe71867f9e03dfa9",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "SpaceXAI releases a separate Grok iOS app for enterprise users",
+      "url": "https://9to5mac.com/2026/10/01/spacexai-releases-a-separate-grok-ios-app-for-enterprise-users/",
+      "publishedAt": "2026-10-01T18:16:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/grok-intune.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "企業向けアプリ「Grok for Intune」がApp Storeに登場",
+      "summaryJa": "企業向けにカスタマイズされたAIアシスタントアプリ「Grok for Intune」が新たにApp Storeでリリースされました。Microsoft Intuneに対応した組織管理向けの仕様となっており、企業のアプリ保護ポリシーを遵守しながら安全に利用できます。音声モードやライブカメラ機能などを備え、管理されたデバイス環境で最新情報へのアクセスが可能になっています。"
+    },
+    {
+      "id": "65571dc9b178c12af5c5",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Smart Home Camera Will Apparently Have 'No Video Recording'",
+      "url": "https://www.macrumors.com/2026/10/01/apple-smart-home-camera-no-video-recording/",
+      "publishedAt": "2026-10-01T17:44:21.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/10/Apple-Camera-App-Icon.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleのスマートホームカメラ、映像の録画機能は非搭載か",
+      "summaryJa": "Bloombergのマーク・ガーマン記者がポッドキャスト番組において、Appleが開発していると噂のスマートホームカメラには映像の録画機能が搭載されない見込みであると報じました。このデバイスはAIを活用して自宅の環境を分析するセンサーとしての役割に特化すると伝えられています。防犯カメラでありながら映像を残さないという、これまでにない新しいアプローチの製品になると注目されています。"
+    },
+    {
+      "id": "34b118002614d970fa16",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter",
+      "url": "https://9to5mac.com/2026/10/01/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
+      "publishedAt": "2026-10-01T17:20:45.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/airfly-drive-plugged-usb-port-black-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Twelve South、有線CarPlayを無線化する小型アダプターを発売",
+      "summaryJa": "アクセサリーメーカーのTwelve Southが、有線式のCarPlayを手軽にワイヤレス化できる小型ドングル「Airfly Drive」を発売しました。価格は39.99ドルで、多くの車種に搭載されている純正の有線CarPlayに対応しています。専用アプリやアカウントの設定は不要で、USBポートに挿すだけで自動的に再接続される手軽さが特徴です。"
+    },
+    {
+      "id": "1efe61ed40cf1c977639",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Upcoming expiration of Developer ID Certification Authority (Sub-CA)",
+      "url": "https://developer.apple.com/news/?id=w4atic4c",
+      "publishedAt": "2026-10-01T17:00:11.000Z",
+      "imageUrl": null,
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "Apple、Developer ID証明書の有効期限切れに関する対応を要請",
+      "summaryJa": "Appleは、オリジナルのDeveloper ID認証局サブ証明書が2027年2月1日に失効すると発表しました。この日付以降、影響を受ける証明書で署名されたインストーラーパッケージなどは機能しなくなるため、開発者はG2認証局から新しい証明書を発行し、再署名を行う必要があります。Macアプリについては、安全なタイムスタンプが含まれていれば既存のソフトウェアは動作し続けます。"
+    },
+    {
+      "id": "327b843e2a72ceaf764c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple TV Just Updated Its Selection of 'Bonus' Movies",
+      "url": "https://www.macrumors.com/2026/10/01/apple-tv-new-bonus-movies/",
+      "publishedAt": "2026-10-01T16:08:01.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/New-Apple-TV-Logo.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple TV、追加料金なしで視聴できるボーナス映画のラインナップを更新",
+      "summaryJa": "Apple TVサービスにおいて、追加料金なしで視聴できる「ボーナス映画」の月替わりラインナップが更新されました。米国市場では、『ジュラシック・ワールド』や『グッド・ウィル・ハンティング』など13本の映画が新しく追加されています。カナダやイギリスなど他の国や地域でも異なる作品が提供されており、国ごとに厳選された名作映画を楽しむことができます。"
+    },
+    {
+      "id": "e57163c95db967ecc722",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "ESPN app recently got big upgrade on Apple TV 4K and iPhone",
+      "url": "https://9to5mac.com/2026/10/01/espn-app-recently-got-big-upgrade-on-apple-tv-4k-and-iphone/",
+      "publishedAt": "2026-10-01T16:04:08.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/espn-streaming-service-flagship.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "ESPNアプリ、Apple TV 4KとiPhone向けに4K HDR対応の大型アップデートを実施",
+      "summaryJa": "スポーツ専門局のESPNは、tvOSおよびiOS向けアプリで4K HDRストリーミングへの対応を開始しました。NFLやNBA、NHLなどのライブ中継をより鮮やかな色彩と滑らかな映像で楽しむことができます。この機能はまずAppleのプラットフォーム向けに展開され、今後は他の接続テレビプラットフォームやDisney+の購読者にも順次拡大される予定です。"
+    },
+    {
+      "id": "ed70eeec5dfaf040e6fa",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Early Prime Big Deal Days: Best Discounts on Accessories, TVs, and More at Amazon",
+      "url": "https://www.macrumors.com/2026/10/01/best-early-prime-day-deals-on-accessories/",
+      "publishedAt": "2026-10-01T16:02:35.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/10/Prime-Big-Deal-Days-25-Blue.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazon、プライセールでAnkerやBelkinなどのApple関連アクセサリーを割引販売",
+      "summaryJa": "Amazonはホリデーシーズンに向けた大型セール「Prime Big Deal Days」の開催を控え、先行セールの展開を開始しました。AnkerやUGREENなどの人気ブランドによる充電器やドッキングステーションといったApple関連アクセサリーが特別価格で販売されています。これらの割引は期間限定であり、対象商品の在庫や価格は変動する可能性があります。"
+    },
+    {
+      "id": "86da870ec8f13fc7f7eb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Colors Buyer's Guide: Which Should You Choose?",
+      "url": "https://www.macrumors.com/guide/iphone-18-pro-colors/",
+      "publishedAt": "2026-10-01T16:01:16.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-iPhone-18-Pro-color-lineup-16x9-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Proのカラー選びガイド、新色バーガンディの特徴",
+      "summaryJa": "iPhone 18 ProおよびiPhone 18 Pro Maxには、ブラック、シルバー、グレイシャー、バーガンディの4色が登場します。中でも新色のバーガンディは、ワインやプラムを思わせる深みのある色合いで、最も個性的で目を引く仕上げとなっています。ケースとの組み合わせや、最新モデルであることをアピールしたい場合の選択肢として参考になります。"
+    },
+    {
+      "id": "8b45466b9d0658eb40a2",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "HP’s MacBook Neo competitor is $699 with an OLED display and plenty of catches",
+      "url": "https://9to5google.com/2026/10/01/hp-omnibook-5-macbook-neo-competitor-699-oled-display-plenty-of-catches/",
+      "publishedAt": "2026-10-01T15:40:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/HP_20OmniBook_205_2014_Soft_20Honey_20Dew_Front-copy.png?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "HPがOLED搭載のMacBook Neo対抗ノートPCを699ドルで投入",
+      "summaryJa": "PC市場はAppleのMacBook Neoの登場に対応を迫られており、数ヶ月遅れてWindows陣営のライバル機が登場しています。今回はHPがOLEDディスプレイを搭載した新モデルを699ドルの同価格帯で投入しますが、いくつかの制限や注意点も伴うと報じられています。"
+    },
+    {
+      "id": "73df8fdbf73000bae2a6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: AirTag 2, Studio Display up to $300 off, MacBook Pro, Belkin 25W MagSafe charger lows, more",
+      "url": "https://9to5mac.com/2026/10/01/deals-airtag-2-studio-display-macbook-magsafe-chargers/",
+      "publishedAt": "2026-10-01T15:30:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-AirTag-2-Studio-Display-25W-MagSafe-MacBook.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple製品のセール情報、AirTag 2やStudio Displayが割引に",
+      "summaryJa": "Amazonのプライムデーセールや各所のセールにおいて、Apple関連製品の割引価格が注目を集めています。AirTag 2が過去最安値となる24ドルで販売されているほか、Appleの整備済製品であるStudio Displayが最大300ドル引き、M5 Pro搭載MacBook Proなどもセール対象となっています。"
+    },
+    {
+      "id": "d4984bc479bc63a4585d",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV just added a bunch of free classic movies, here’s everything new",
+      "url": "https://9to5mac.com/2026/10/01/apple-tv-just-added-a-bunch-of-free-classic-movies-heres-everything-new/",
+      "publishedAt": "2026-10-01T15:30:46.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/appl-tv-icon-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、サブスク利用者向けにクラシック映画の名作13本を追加",
+      "summaryJa": "Apple TVは、毎月恒例のクラシック映画の追加ラインナップとして、新たに13本の映画をサブスクリプション加入者向けに無料で提供開始しました。「アメリカン・ギャングスター」や「グッド・ウィル・ハンティング」、「タクシードライバー」などが追加され、過去の配信作とあわせて楽しむことができます。"
+    },
+    {
       "id": "f1fb4f0b12491d066952",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4324,189 +4505,9 @@
       ],
       "titleJa": "Apple、スマートホームハブ向けの新型OSを準備中との報道",
       "summaryJa": "Bloombergのマーク・ガーマン記者によると、AppleはtvOS、watchOS、iOSの要素を組み合わせたスマートホームハブ向けの新型OSを開発しています。このOSは顔認識機能を備え、ユーザーの接近に応じて表示が変化するほか、Siri AIを中核とした多彩な機能が統合される見込みです。名称は「homeOS」になると噂されており、早ければ10月にも発表される可能性があると伝えられています。"
-    },
-    {
-      "id": "a55b498908945c36c8bc",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 10 vs. Series 12 Buyer's Guide: Should You Upgrade?",
-      "url": "https://www.macrumors.com/guide/apple-watch-series-10-vs-12/",
-      "publishedAt": "2026-09-22T16:13:36.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2023/08/apple-watch-series-10-gold-titanium.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Watch Series 10とSeries 12の機能比較と進化点",
-      "summaryJa": "Apple Watch Series 12が発売され、薄型デザインが導入されたSeries 10からの進化点が注目されています。Series 12では、新しいチップや2倍のRAM、再設計された健康センサー、5G通信、より頑丈なガラスなどを搭載しています。価格を据え置いたまま大幅なハードウェアおよび機能のアップデートが行われており、買い替えの判断材料となります。"
-    },
-    {
-      "id": "1a51ff7d15e2e06229e3",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple's Smart Glasses to Enter a Rapidly Growing Market",
-      "url": "https://www.macrumors.com/2026/09/22/apple-smart-glasses-to-enter-growing-market/",
-      "publishedAt": "2026-09-22T15:54:20.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/01/Apple-Glasses-Blue-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Appleのスマートグラス、急速に拡大する市場に投入か",
-      "summaryJa": "調査会社のデータによると、世界のAIグラス出荷台数が前年同期比で大幅に増加するなど、関連市場が急速に拡大しています。Appleが2027年後半の発売に向けて開発を進めているとされる初のスマートグラスは、画面非搭載型で音声やカメラ、Siri機能を中心に据えると報じられています。Metaが先行する市場において、今後のAppleの参入がどのような影響を与えるか注目されています。"
-    },
-    {
-      "id": "2424b2e8e043b2cddb29",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Event This October? These 7 New Products Expected Next Month",
-      "url": "https://www.macrumors.com/2026/09/22/apple-event-october-2026-what-to-expect/",
-      "publishedAt": "2026-09-22T15:40:38.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Event-This-October.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、10月にも新製品発表イベントを開催か",
-      "summaryJa": "Appleは9月に多くの新製品を投入しましたが、年末にかけてさらに新製品のリリースを控えていると報じられています。今年はiPad miniやApple TV、HomePod mini、iMacなどの登場が噂されており、一部の製品は10月のイベントやプレスリリースで発表される可能性があります。過去5年間の10月の発表傾向を振り返りつつ、今後の動向に注目が集まっています。"
-    },
-    {
-      "id": "186de949f191e381ca60",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: M5 MacBook Air up to $300 off, M4 iPad Air $100+ off, AirPods Pro 3, Studio Display, more",
-      "url": "https://9to5mac.com/2026/09/22/deals-macbook-air-ipad-air-airpods-pro-3-studio-display/",
-      "publishedAt": "2026-09-22T15:28:49.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Macbook-Air-M5-AirPods-Pro-3.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "M5 MacBook AirなどがAmazonなどでセールに登場",
-      "summaryJa": "AmazonやApple公式整備済製品ストアにて、M5搭載のMacBook AirやAirPods Proなどが割引価格で販売されています。13インチM5 MacBook Airのミドルレンジモデルなどが通常より安く購入できるチャンスとなっています。最新のApple製品をお得に入手したいユーザーにとって注目のセール情報です。"
-    },
-    {
-      "id": "ef6566bf6bb11c98c574",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s how iPhone Duo and iPad mini compare in size",
-      "url": "https://9to5mac.com/2026/09/22/heres-how-iphone-duo-and-ipad-mini-compare-in-size/",
-      "publishedAt": "2026-09-22T15:28:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-ipad-mini-comparison.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhone DuoとiPad miniのサイズを比較",
-      "summaryJa": "間もなく登場するとされる折りたたみ式のiPhone Duoと、iPad miniのサイズを比較する情報が注目を集めています。iPhone Duoは折りたたんだ状態で外側のディスプレイを活用し、展開するとiPad miniに近い機能性を発揮します。狭額縁デザインのおかげで、実際の画面サイズの差は数字ほど大きく感じられないと報じられています。"
-    },
-    {
-      "id": "f7d1ce68bb52fc8f85ca",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Massive Discounts Hit 2026 MacBook Pro, Save Up to $600 on Amazon",
-      "url": "https://www.macrumors.com/2026/09/22/2026-macbook-pro-600-off/",
-      "publishedAt": "2026-09-22T15:22:25.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/05/macbook-pro-m5-pro-pink.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AmazonでM5搭載MacBook Proが最大600ドル引きに",
-      "summaryJa": "Amazonにて、M5 ProやM5 Maxを搭載したMacBook Proのセールが実施されており、最大600ドルの大幅値引きが行われています。特に16インチモデルを中心に多くの構成で割引が適用されているほか、14インチモデルの一部構成も対象となっています。高性能なMacBook Proをお得に購入できる貴重な機会です。"
-    },
-    {
-      "id": "c5585b38d4fef178398f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "9to5Mac Daily: September 22, 2026 – M6 Mac mini tidbits, Apple Fitness+ future",
-      "url": "https://9to5mac.com/2026/09/22/daily-september-22-2026/",
-      "publishedAt": "2026-09-22T15:19:03.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Fitness+チームのレイオフやM6 Mac miniの話題",
-      "summaryJa": "ポッドキャスト番組の9to5Mac Dailyにて、Appleの最新ニュースが振り返られています。Apple Fitness+チームでのレイオフ発生や、M6 Mac miniに関する新情報などが取り上げられました。日々のApple関連の主要な動向を手軽にキャッチアップできる内容となっています。"
-    },
-    {
-      "id": "46c76e42a24936844435",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Brazil court tells Apple to add age checks for casino app purchases",
-      "url": "https://9to5mac.com/2026/09/22/brazil-court-tells-apple-to-add-age-checks-for-casino-app-purchases/",
-      "publishedAt": "2026-09-22T15:09:20.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/brazil-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ブラジル裁判所、Appleにカジノアプリの年齢確認強化を命令",
-      "summaryJa": "ブラジルのサンパウロ州司法裁判所は、App Storeにあるカジノ風アプリに関して未成年者のアクセス制限を厳格化する緊急差し止め命令を出しました。未成年者が実資金で仮想チップを購入できないよう、Appleに対し新規ダウンロードのブロックや年齢確認の導入を求めています。不履行の場合は一日あたり約1万9500ドルの罰金が科されることになります。"
-    },
-    {
-      "id": "ef5fced7411948a48d0a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Series 12: My three favorite new features so far",
-      "url": "https://9to5mac.com/2026/09/22/apple-watch-series-12-my-three-favorite-new-features-so-far/",
-      "publishedAt": "2026-09-22T14:48:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-rc-close.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Series 12の注目すべき3つの新機能",
-      "summaryJa": "先週Apple Watch Series 12にアップグレードしたユーザーが、これまでのテストで際立っている3つの特徴を紹介しています。まずS11チップにより日常の動作やSiri AIの処理速度が大幅に向上しました。さらに新しいヘルスセンサーシステムが搭載され、文字盤から直接心拍数や歩数などを確認できるコンプリケーションが追加され、健康管理機能が向上しています。"
-    },
-    {
-      "id": "df2a2c1b37b184caff97",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Wallet driver’s licenses coming to three new states soon",
-      "url": "https://9to5mac.com/2026/09/22/apple-wallet-drivers-licenses-coming-to-three-new-states-soon/",
-      "publishedAt": "2026-09-22T14:03:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/apple-wallet-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Walletの運転免許証対応、新たに3州が追加へ",
-      "summaryJa": "Apple Walletのデジタル身分証機能はすでに16の州とプエルトリコでサポートされており、最近ではバージニア州とオクラホマ州で導入されました。これに続き、ユタ州、ケンタッキー州、ノースカロライナ州の3つの州でも近くApple Walletでの運転免許証サポートが開始される見込みです。米国内での対応拡大により利便性がさらに向上することが期待されています。"
-    },
-    {
-      "id": "cf32cb85f317debbba59",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Beats 360 Deliver Customizability and a Revamped Over-Ear Headphone Design",
-      "url": "https://www.macrumors.com/2026/09/22/beats-360-headphone-launch/",
-      "publishedAt": "2026-09-22T14:00:00.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/beats-360-boxes.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Beats、音質や快適性を刷新した新型ヘッドホン「Beats 360」を発表",
-      "summaryJa": "Beatsは、音質や快適性、カスタマイズ性を重視してデザインを刷新した新型オーバーイヤーヘッドホン「Beats 360」を発表しました。価格は349.99ドルで、Studio Proの後継ではなく、Studio Proも値下げされてラインナップに継続します。新しい音響構造により、アクティブノイズキャンセリング性能や出力が大幅に向上しているほか、パーソナライズされた空間オーディオにも対応しています。"
-    },
-    {
-      "id": "7345226c1752e306a4ea",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Review: Beats 360 are the closest Apple headphones to AirPods Max, with one caveat",
-      "url": "https://9to5mac.com/2026/09/22/apple-beats-360-review-close-to-airpods-max/",
-      "publishedAt": "2026-09-22T14:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC02772.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Beats、AirPods Maxに近い最新ヘッドホン「Beats 360」を発売",
-      "summaryJa": "Beatsブランドの新型ヘッドホン「Beats 360」が349.99ドルで登場しました。Appleアカウントでの自動デバイス切り替えや「Hey Siri」、探す機能に対応し、AirPods Maxに最も近い体験を実現しています。一方で、有線接続に対応していない点が唯一の欠点となっています。"
     }
   ],
-  "updatedAt": "2026-10-01T13:49:57.265Z",
+  "updatedAt": "2026-10-01T19:06:37.354Z",
   "initialized": true,
   "summaryVersion": 4
 }
