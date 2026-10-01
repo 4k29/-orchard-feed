@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "f1fb4f0b12491d066952",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's All-New Home Hub Rumored to Launch in These Four Colors",
+      "url": "https://www.macrumors.com/2026/10/01/apple-home-hub-four-colors-rumored/",
+      "publishedAt": "2026-10-01T13:48:42.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/02/iOS-26-Home-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleの新型スマートホームハブ、4つのカラー展開か",
+      "summaryJa": "Appleが開発中と噂される新型スマートホームハブが、シルバー、スペースグレイ、スターライト、ローズピンクの4つのカラーで展開される可能性が浮上しました。リーク情報やコード解析から明らかになったもので、セットアップ画面では本体のカラーに合わせたプレビューが表示されると伝えられています。本体は約6インチのスクエア型ディスプレイを備え、卓上型と壁掛け型が用意される見込みです。"
+    },
+    {
+      "id": "c6b59b93751ee3c9dbc6",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "‘HomePad’ could launch in these four colors, per leaker",
+      "url": "https://9to5mac.com/2026/10/01/homepad-could-launch-in-these-four-colors-per-leaker/",
+      "publishedAt": "2026-10-01T13:20:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/homepad-ios-27-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "新型スマートホームハブのカラーオプションに関する新たなリーク",
+      "summaryJa": "Appleの新しいスマートホームハブ（通称HomePad）に関して、シルバー、スペースグレイ、スターライト、ローズピンクの4色展開となる可能性を示す新たなリーク画像が公開されました。セットアップ画面や文字盤のプレビュー機能に関する情報も含まれており、外観デザインの全貌に注目が集まっています。発表は10月13日に行われると噂されています。"
+    },
+    {
+      "id": "f6fc8b5e79dbcfb3b69b",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s everything new Apple TV has coming in October",
+      "url": "https://9to5mac.com/2026/10/01/heres-everything-new-apple-tv-has-coming-in-october-2026/",
+      "publishedAt": "2026-10-01T13:03:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-logo-fall-foliage-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、10月に配信される新作ラインナップを公開",
+      "summaryJa": "Apple TVで10月に配信予定の多彩な新作コンテンツが発表されました。過酷な冬のK2登頂の現実を描いたドキュメンタリー映画『The Last First: Winter K2』や、ファンタジーの世界観を描く子ども向けドラマ『The Sisters Grimm』シーズン2などが登場します。人気シリーズに加えて新たな映画やドラマが追加され、充実したラインナップとなっています。"
+    },
+    {
+      "id": "af6847c0feec34da39b2",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Aperture Control Goes Fully Manual in Halide 3.2",
+      "url": "https://www.macrumors.com/2026/10/01/iphone-18-pro-aperture-control-fully-manual-halide/",
+      "publishedAt": "2026-10-01T12:39:41.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/10/halide-v3-2.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "カメラアプリ「Halide 3.2」がiPhone 18 Proの可変絞りに対応",
+      "summaryJa": "人気のカメラアプリ「Halide」がバージョン3.2にアップデートされ、iPhone 18 Proの新しい可変絞りレンズを完全に手動制御できる機能が追加されました。標準カメラアプリの段階的な制限をなくし、全範囲での自由なF値設定やISO感度のマニュアル調整が可能になっています。さらに、新しいフィルムシミュレーションや16:9の撮影モードも導入されました。"
+    },
+    {
+      "id": "71f0b9d2ba05ac397d46",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "The iPhone 18 Pro is selling well in China for three reasons",
+      "url": "https://9to5mac.com/2026/10/01/the-iphone-18-pro-is-selling-well-in-china-for-three-reasons/",
+      "publishedAt": "2026-10-01T12:10:57.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-official.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "中国市場でiPhone 18 Proが好調、発売初週に首位を獲得",
+      "summaryJa": "調査会社カウンターポイント・リサーチのレポートによると、中国市場においてiPhone 18 ProおよびPro Maxが好調な売上を記録し、発売初週にAppleが同国内でトップシェアを獲得しました。標準モデルの発売遅延や、競合の価格上昇に伴う相対的な割安感などが人気の背景にあると分析されています。"
+    },
+    {
+      "id": "7bab54dd21c5e7ae0238",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Stores Receive 'Do Not Open' Boxes Ahead of Smart Home Products Launch",
+      "url": "https://www.macrumors.com/2026/10/01/apple-stores-receive-do-not-open-boxes/",
+      "publishedAt": "2026-10-01T11:59:27.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/09/Apple-Store-Downtown-Detroit.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple Storeに「開封禁止」の箱、スマートホーム新製品の準備か",
+      "summaryJa": "世界各国のApple Storeに、10月8日まで開封を禁じる機密扱いの箱が届いていることが分かりました。これは、噂されているスマートホームハブや新しいApple TV 4K、HomePod mini 2などの発売に向けた店舗ディスプレイの更新用素材である可能性が報じられています。"
+    },
+    {
+      "id": "e1021e0b9aa218ffd3ec",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "This fake Mac Zoom installer has a sneaky way to bypass Gatekeeper",
+      "url": "https://9to5mac.com/2026/10/01/this-fake-mac-zoom-installer-has-a-sneaky-way-to-bypass-gatekeeper/",
+      "publishedAt": "2026-10-01T11:39:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/This-fake-Mac-Zoom-installer-has-a-sneaky-way-to-bypass-Gatekeeper.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Gatekeeperを回避する偽のZoomインストーラーが発見される",
+      "summaryJa": "セキュリティ企業Jamfが、macOSのセキュリティ機能であるGatekeeperを巧みに迂回する偽のZoomインストーラーを発見しました。このマルウェアは実際のZoomアプリをインストールすると同時に情報窃盗ツールも仕込み、ユーザーの入力データを攻撃者のサーバーへ送信するため注意が必要です。"
+    },
+    {
+      "id": "33407ffd5923bb2c08bb",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "iPhone 18 Pro Sales Jump in China Ahead of iPhone Duo Launch",
+      "url": "https://www.macrumors.com/2026/10/01/strong-iphone-18-pro-launch-sales-china/",
+      "publishedAt": "2026-10-01T11:37:34.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-and-iphone-18-pro-max.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "中国市場でiPhone 18 Proが好調な売上を記録",
+      "summaryJa": "カウンターポイント・リサーチの調査により、中国におけるiPhone 18 Proシリーズの発売初日からの3日間の売上が、昨年の前モデルの初週全体を上回ったことが明らかになりました。この好調な滑り出しによりAppleは市場シェアの首位を獲得しており、今後は折りたたみデバイスへの期待も高まっています。"
+    },
+    {
+      "id": "ebba216c3d9460eddd84",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Reddit is making two changes some long-time users won’t like",
+      "url": "https://9to5mac.com/2026/10/01/reddit-is-making-two-changes-some-long-time-users-wont-like/",
+      "publishedAt": "2026-10-01T11:17:07.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Reddit-is-making-two-changes-some-long-time-users-wont-like.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Reddit、古いUIの制限とRSS配信の終了を発表",
+      "summaryJa": "Redditは、AIスクレイピング対策として、古いUI「Old Reddit」へのアクセスを過去6ヶ月以内に利用したユーザーに限定すると発表しました。さらに、自動化された乱用を防ぐため、2026年11月13日をもってRSSフィードのサポートも終了する予定です。これらの変更に対し、長年のユーザーからは不満の声が上がっています。"
+    },
+    {
+      "id": "1a0fa2b275b4f9036a9c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple TV Still Down for Some Users Following Apple Services Outage",
+      "url": "https://www.macrumors.com/2026/10/01/apple-tv-still-down-for-some-users/",
+      "publishedAt": "2026-10-01T10:51:48.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/New-Apple-TV-Logo.jpeg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple TV、大規模障害の復旧後も一部で利用できず",
+      "summaryJa": "先月末に発生したAppleサービスの大規模障害により、App StoreやApple Musicなどは復旧したものの、Apple TVがいまだ一部のユーザーの間で利用できない状態が続いています。Appleのシステムステータスぺージによると、定期メンテナンスが原因である可能性があり、影響は一部のユーザーにとどまっています。状況に変化があり次第、随時更新される予定です。"
+    },
+    {
+      "id": "137da4275088266ad96e",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "HomePad setup process seemingly revealed, sharing feature with iPhone Duo",
+      "url": "https://9to5mac.com/2026/10/01/homepad-setup-process-seemingly-revealed-sharing-feature-with-iphone-duo/",
+      "publishedAt": "2026-10-01T10:50:40.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/homepad-concept-homekit-03.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "未発表のHomePad、設定画面や機能のヒントが判明か",
+      "summaryJa": "Appleのコードから未発表デバイスの情報を見つけてきたリーカーによって、スマートホームハブと噂される「HomePad」のセットアップ画面に関する情報が明らかにされました。設定プロセスでは、折りたたみ式iPhone向けとされる「スタンバイ」モードの「フォトフェイス」機能が共有される見込みです。このデバイスは、iMac G4に似たデザインを採用し、10月13日にも登場すると予想されています。"
+    },
+    {
+      "id": "3c32210c7835852ab4b6",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "PSA: Apple Mail on Mac May Stop Syncing Microsoft 365 Accounts Today",
+      "url": "https://www.macrumors.com/2026/10/01/apple-mail-mac-stop-sync-microsoft-365/",
+      "publishedAt": "2026-10-01T10:17:27.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/06/General-macOS-Mail-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "MacのApple Mail、Microsoft 365の同期に影響か",
+      "summaryJa": "MicrosoftがExchange OnlineでのEWSプロトコルの無効化を進めているため、MacのメールおよびカレンダーアプリでMicrosoft 365の仕事用アカウントの同期が停止する可能性があります。Appleは新しいAPIへの移行に向けてMicrosoftと協議中ですが、対応アップデートの提供時期は未定です。影響を受ける組織では一時的な設定維持やOutlookアプリの利用などが求められています。"
+    },
+    {
       "id": "abde55836d6b60779dbe",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4324,190 +4504,9 @@
       ],
       "titleJa": "Beats、AirPods Maxに近い最新ヘッドホン「Beats 360」を発売",
       "summaryJa": "Beatsブランドの新型ヘッドホン「Beats 360」が349.99ドルで登場しました。Appleアカウントでの自動デバイス切り替えや「Hey Siri」、探す機能に対応し、AirPods Maxに最も近い体験を実現しています。一方で、有線接続に対応していない点が唯一の欠点となっています。"
-    },
-    {
-      "id": "d95908194b8584d69763",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Three weeks into the John Ternus era, Apple crosses its highest valuation ever",
-      "url": "https://9to5mac.com/2026/09/22/three-weeks-into-the-john-ternus-era-apple-crosses-its-highest-valuation-ever/",
-      "publishedAt": "2026-09-22T13:54:26.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ジョン・ターナスCEO就任から約3週間、Appleの株価が過去最高値を更新",
-      "summaryJa": "ジョン・ターナスがCEOに就任して以来、Appleの株価が堅調に推移し、取引時間中に過去最高値を更新しました。新体制発足後の製品イベントに対する市場の反応は概ね良好で、投資家からの新たな信頼を集めています。"
-    },
-    {
-      "id": "e6c38dbd5a9b292c1d72",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Security Bite: The last 24 hours at Meta were “not-a-musing”",
-      "url": "https://9to5mac.com/2026/09/22/security-bite-the-last-24-hours-at-meta-were-not-a-musing/",
-      "publishedAt": "2026-09-22T13:34:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Muse-by-Meta.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "MetaのAIアプリ「Muse」のMac版にゼロデイ脆弱性が発見される",
-      "summaryJa": "Metaが高度なセキュリティを誇っていた個人向けAIエージェント「Muse」のMac版アプリに、ゼロデイ脆弱性が発見されました。著名なmacOSセキュリティ研究者であるパトリック・ワードル氏によって指摘されたもので、万全を謳っていた同社のセキュリティ体制に波紋を広げています。"
-    },
-    {
-      "id": "d6fa96de4ded17292078",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Planning to Bring iPhone Duo Display Tech to Pro in 2029",
-      "url": "https://www.macrumors.com/2026/09/22/apple-to-bring-iphone-duo-display-tech-to-pro/",
-      "publishedAt": "2026-09-22T13:27:17.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/iphone-2028-punch-hole-design.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、2029年のPro向けiPhoneに薄型OLEDディスプレイ技術を採用か",
-      "summaryJa": "調査会社の情報によると、Appleは2029年のPro向けiPhoneに偏光板を排除した「CoE」OLEDディスプレイ技術を採用する可能性があります。この技術により、輝度と省電力性能の向上が期待できるほか、薄型化によって内部スペースの拡大にもつながると伝えられています。"
-    },
-    {
-      "id": "08017a0a877225ebedb8",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Announces 'Tap to Pay on iPhone' Availability in 8 More Countries",
-      "url": "https://www.macrumors.com/2026/09/22/tap-to-pay-on-iphone-8-more-countries/",
-      "publishedAt": "2026-09-22T13:22:15.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Tap-to-Pay-on-iPhone-General.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhoneの「Tap to Pay」が新たに8カ国で利用可能に",
-      "summaryJa": "Appleは、iPhoneの「Tap to Pay」機能が新しく8カ国で利用可能になったと発表しました。これにより、アルゼンチン、コロンビア、コスタリカなどの加盟店は、追加のハードウェアを必要とせず、iPhoneだけで非接触型決済を受け付けることができるようになります。顧客は自分のiPhoneやApple Watchなどを店舗側のiPhoneにかざすだけで支払いを完了できます。"
-    },
-    {
-      "id": "382cd36d62d89df83428",
-      "source": "Apple Newsroom 日本",
-      "sourceId": "apple-newsroom-jp",
-      "category": "official",
-      "titleOriginal": "新しいMac miniとMac Studio、本日より販売開始",
-      "url": "https://www.apple.com/jp/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
-      "publishedAt": "2026-09-22T13:00:18.342Z",
-      "imageUrl": null,
-      "tags": [
-        "公式",
-        "日本"
-      ],
-      "titleJa": "新しいMac miniとMac Studioが販売開始",
-      "summaryJa": "M6およびM5 Proチップを搭載した新しいMac miniと、M5 MaxおよびM5 Ultraチップを搭載したMac StudioがApple Store直営店やオンラインで販売を開始しました。Mac miniは最新のAppleシリコンによる優れたAIパフォーマンスと万能性を提供し、Mac Studioはプロ向けの圧倒的な処理能力を実現しています。どちらのモデルも最新のOSとApple Intelligenceに対応し、驚異的なアップグレードをもたらします。"
-    },
-    {
-      "id": "823c8772e26c16a251cd",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "The new Mac mini and Mac Studio are available today",
-      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
-      "publishedAt": "2026-09-22T12:59:21.039Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、M6搭載の新しいMac miniとMac Studioを発売",
-      "summaryJa": "Appleは、最新のAppleシリコンを搭載した新しいMac miniとMac Studioの販売を開始しました。Mac miniは、M6チップやM5 Proを備え、AI性能やグラフィックス性能が大幅に向上しています。一方のMac Studioは、M5 Maxおよび新しいM5 Ultraを搭載し、最大512GBのユニファイドメモリをサポートする最もパワフルなデスクトップです。"
-    },
-    {
-      "id": "2c0c7e53a811ed62e5e2",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "New Mac Mini and Mac Studio Now Available for Same-Day Pickup at Apple Stores",
-      "url": "https://www.macrumors.com/2026/09/22/new-mac-mini-mac-studio-same-day-pickup/",
-      "publishedAt": "2026-09-22T12:00:42.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新Mac miniとMac Studio、店頭受取が可能に",
-      "summaryJa": "米国を含む30の国と地域で新しいMac miniとMac Studioの販売が開始され、多くのApple Storeで当日の店頭受取が可能になりました。公式サイトで注文時に受取店舗を指定することで、その日のうちに製品を受け取ることができます。なお、オンラインストアで仕様をカスタマイズしたモデルは、当日受取の対象外となります。"
-    },
-    {
-      "id": "fdd04c3ee6a4eca189e8",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Quietly Excludes Older iPhones From New Camera Feature",
-      "url": "https://www.macrumors.com/2026/09/22/apple-backtracks-camera-feature-compatibility/",
-      "publishedAt": "2026-09-22T10:15:46.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/customize-texture-photographic-styles-3.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、新カメラ機能の対応機種を修正か",
-      "summaryJa": "Appleは、写真スタイルの新しい質感およびグレイン調整機能を、最新のiPhone 18 Proモデルおよび特定の機種のみに限定すると案内を修正しました。当初のプレスリリースでは対応機種の拡大が示唆されていましたが、その後ユーザーガイドや注釈が変更され、古いiPhoneには提供されないことが明らかになっています。この方針変更に対し、一部のユーザーからは対応を求める声が上がっています。"
-    },
-    {
-      "id": "526eb01520fae998aee9",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple @ Work Podcast: Phishing simulations for the AI era",
-      "url": "https://9to5mac.com/2026/09/22/phishing-simulations-for-the-ai-era/",
-      "publishedAt": "2026-09-22T10:00:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "AI時代における巧妙なフィッシング詐欺対策を解説",
-      "summaryJa": "ポッドキャスト番組「Apple @ Work」の最新回において、Sublime Securityのサマンサ・シュワルツ氏とジャック・ハーシュ氏がゲストとして出演しました。番組では、AIの進化に伴い高度化するフィッシング詐欺に対抗するための、カスタマイズされたシミュレーション訓練の重要性について議論されています。企業におけるAppleデバイスのセキュリティ保護と脅威への備えを深める内容となっています。"
-    },
-    {
-      "id": "2e139100971513e977fd",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "App Switcher Returns in watchOS 27.2 Beta With New Launch Gesture",
-      "url": "https://www.macrumors.com/2026/09/22/app-switcher-returns-watchos-27-2-beta/",
-      "publishedAt": "2026-09-22T08:41:09.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/02/apple-watch-app-switcher.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "watchOS 27.2ベータでAppスイッチャーが復活",
-      "summaryJa": "最新のwatchOS 27.2ベータ版において、Appleはユーザーからの要望に応える形でAppスイッチャー機能を復活させました。watchOS 27ではデジタルクラウンのダブルプレス機能が新しいAI機能に割り当てられたためAppスイッチャーが一時的に削除されていましたが、ベータ版では画面下部を長押しする新しいジェスチャーで呼び出せるよう変更されています。"
-    },
-    {
-      "id": "0a1ed6f5db6d20bfea49",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Music Hall Spatial Audio Venue Opens in Battersea Power Station",
-      "url": "https://www.macrumors.com/2026/09/22/apple-music-hall-battersea-power-station/",
-      "publishedAt": "2026-09-22T08:07:39.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Apple-Music-Hall-event-space-01-scaled.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Music、ロンドンに空間オーディオ対応の音楽ホールを開設",
-      "summaryJa": "Appleはロンドンのバタシー・パワー・ステーション内に、収容人数約600人の最先端音楽ホール「Apple Music Hall」を開設しました。会場には48基のスピーカーによる空間オーディオシステムが備えられており、アーティストのライブパフォーマンスを高音質な空間オーディオで収録・配信できる専用スタジオも併設されています。歴史的な建造物を活かした空間で、アーティストとファンをつなぐ特別なライブ体験を提供するとしています。"
-    },
-    {
-      "id": "fe30b757565ad375cacb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Music opens new live music venue in London",
-      "url": "https://9to5mac.com/2026/09/22/apple-music-opens-new-live-music-venue-in-london/",
-      "publishedAt": "2026-09-22T07:51:30.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-music-hall.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、ロンドンに新しいライブ音楽施設を開設",
-      "summaryJa": "Appleはロンドンのバターシー・パワー・ステーションに新しいライブ音楽施設「Apple Music Hall」を開設しました。収容人数600人の同会場では、アーティストによる少人数向けの特別なコンサートが開催され、Apple Music加入者向けにライブ配信も行われます。施設内には立体音響システムや複数の放送用カメラが備えられており、9月28日のオープンを予定しています。"
     }
   ],
-  "updatedAt": "2026-10-01T06:31:23.198Z",
+  "updatedAt": "2026-10-01T13:49:57.265Z",
   "initialized": true,
   "summaryVersion": 4
 }
