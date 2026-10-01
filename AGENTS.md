@@ -1,10 +1,52 @@
+# Codex開発ガイド
+
+このファイルはリポジトリ全体に適用する。
+
+## 構成と作業の進め方
+
+- OrchardはAppleニュース、OS配信履歴、製品情報を扱う静的サイト。`site/`はHTML/CSS/素のJavaScript、`scripts/`はNode.jsのES Modules、`data/`は公開JSON、`tests/`は`node:test`のテスト。
+- GitHub Actionsに合わせてNode.js 22を使い、依存関係は`npm ci`で導入する。主な依存は`cheerio`と`fast-xml-parser`。ビルドツール、フレームワーク、不要な依存関係や複雑な抽象化を追加しない。
+- 作業前に対象コードと対応するテスト・ワークフローを読む。小規模な変更は自律的に進める。構成変更、JSON形式の変更、広範なUI変更などは、実装前に目的・影響・検証方法を含む計画を提示する。
+- 依頼に関係のないコード、整形、データ更新を混ぜない。既存の機能、公開JSONのフィールド、URL、保存状態との互換性を維持する。
+
+## プロジェクト固有の制約
+
+- `scripts/sync.mjs`がRSS取得、Gemini翻訳・要約、記事保存、Discord通知を担当する。初回取り込みでは通知しない。翻訳失敗時の原文保存と後続実行での再翻訳を維持する。
+- 製品とOSのデータはAppleDBとApple公式情報から生成・補完する。製品の価格・価格日付・構成・資料リンクやOSの配信日・ビルド・配信種別を推測で埋めない。不明な製品項目を「—」で表示する挙動と出典・ライセンス表記を維持する。
+- 製品生成の補完処理は`.github/workflows/products.yml`の順序を尊重する。`scripts/patch-products-layout.mjs`は名前に反して検証用であり、Macのサイズフィルター無効化と製品データのブラウザーキャッシュ利用も確認する。
+- `data/`は生成データであり、記事JSONは重複判定・初期化・通知時点の状態も持つ。検証目的で本番データを上書きせず、生成を試す場合は一時ファイルへ出力する。必要なデータ修正では生成元・補完処理との整合も確認する。
+- News / OS / Productの導線、暗色基調、余白、モバイル表示、検索・絞り込み・手動更新の操作を尊重する。キーボード操作、フォーカス表示、ラベル、読み込み・失敗表示を維持する。
+- 静的ファイルはGitHub Pagesへそのまま配置される。相対パスと公開時の`data/`配置を維持し、アセット変更時はHTMLのバージョン指定と`site/sw.js`のキャッシュ更新・オフライン動作を確認する。認証付きGitHub API通信をService Workerでキャッシュしない。
+- 同期ワークフローは生成結果を`main`へ直接保存し、Pagesは公開対象の変更で配信される。開発用PRをこのデータ保存処理で代用しない。Actions変更時はトリガー対象、実行順序、並行実行、権限への影響を確認し、権限を必要最小限にする。
+
+## 検証
+
+- 実装後は`npm test`を実行する。変更したJavaScriptは`node --check <ファイル>`で構文も確認する。現時点で専用のlint・buildコマンドはない。
+- 製品画面を変更した場合は`node scripts/patch-products-layout.mjs site/products.js`も実行する。データ生成の変更では一時出力を解析し、件数、識別子の重複、必要なフィールド、対応する画面の読み込みを確認する。
+- UI変更はローカルHTTPサーバーで関係する画面を開き、デスクトップ・モバイル幅と変更した操作を確認する。ブラウザー検証ができなければ未実施として報告する。
+- 不具合修正には必要な回帰テストを追加する。外部APIは可能ならfixtureやmockを使う。通常の検証で`npm run sync`や本番の`workflow_dispatch`を実行しない。実際のDiscord通知、API課金、`main`へのデータ更新が生じるため、明示的に依頼された場合だけ実行する。
+- 最後に`git diff --check`と差分を確認し、秘密情報や無関係な生成データが含まれていないことを確かめる。未実施・失敗した検証と理由を隠さない。
+
+## READMEと報告
+
+- READMEは利用者向けに目的、機能、利用方法、必要な設定を伝える。毎回のPRでは更新せず、利用方法や仕様が実質的に変わった場合だけ更新する。変更履歴や作業報告には使わない。文章と構成はCodexが用途に合わせて判断する。
+- ユーザーへの報告は自然で落ち着いた日本語で、変更内容と検証結果を簡潔に伝える。不必要に堅い敬語、専門用語、過度な称賛、形式的な前置きを避ける。問題があれば無条件に同意せず理由を説明し、技術的な詳細は必要な場合に補足する。
+- README、コード内のコメント、画面の文章には、それぞれの用途と既存の文体に合う表現を使う。
+
+## PRとレビュー指摘の修正
+
+- 作業完了後、必要な検証を実施して作業ブランチをpushし、自動的にPRを作成する。毎回ユーザーへPR作成の確認を求めない。PRには変更内容と検証結果・未実施事項を簡潔に記載する。明示的な指示がない限り自動マージしない。
+- 既存PRの修正依頼では、そのPRの対象ブランチへコミットを追加し、同じPRへ反映する。別PRを作らず、他者の変更を上書きしない。レビュー指摘の妥当性を確認し、修正できない場合は理由を説明する。
+- 権限、認証、ネットワーク、実行環境の制約でpushやPR作成ができない場合は、完了済みの変更・検証と、失敗した操作・理由を報告する。作成していないPRを作成済みと報告しない。
+- 自動レビューの起動はAGENTS.mdだけでは設定できない。公式GitHub連携を優先し、設定・修正依頼の方法は[CodexのGitHub運用](docs/codex-github.md)を参照する。不要なレビュー用Actionsや外部サービスを追加しない。
+
 ## Code Review Rules
 
 ### Keep the feed pipeline resilient
-A failure in translation, summarization, or another optional external service must not stop RSS fetching, article storage, or later processing. Preserve graceful fallback behavior.
+翻訳、要約、記事本文取得などの任意の外部サービスが失敗しても、RSS取得、記事保存、後続処理を停止させない。配信元ごとの失敗の分離とフォールバックを維持する。
 
 ### Never expose secrets
-Discord webhook URLs, API keys, tokens, or other credentials must never be committed, logged, written into generated files, or exposed to the site. Secrets must remain in GitHub Actions secrets or equivalent protected configuration.
+Discord Webhook URL、APIキー、トークンなどをコミット、ログ、生成ファイル、公開サイトへ漏らさない。サービス側の秘密情報はGitHub Actions secretsなどの保護された設定に置く。既存の手動更新UIで利用者が入力するGitHubトークンは公開設定に移さず、GitHub APIへの認証以外に送信・表示せず、認証付き応答をキャッシュしない。
 
 ### Avoid duplicate or missing notifications
-Changes to feed parsing, article identity, deduplication, or persistence must not cause previously processed articles to be sent again or new articles to be silently skipped.
+RSS解析、記事の識別子・URLによる重複判定、永続化の変更によって、処理済み記事を再通知したり、新着記事を黙って取りこぼしたりしない。初回通知抑制、古い記事の通知除外、要約再生成と新着通知の分離を維持する。
