@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "abde55836d6b60779dbe",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "WhatsApp expands parental controls to teen accounts with group alerts, Meta AI restrictions",
+      "url": "https://9to5mac.com/2026/09/30/whatsapp-expands-parental-controls-to-teen-accounts-with-group-alerts-meta-ai-restrictions/",
+      "publishedAt": "2026-10-01T02:09:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/whatsapp-ios27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "WhatsApp、十代向けアカウントに保護者向け管理機能を追加",
+      "summaryJa": "WhatsAppは、十代向けのアカウントを対象に保護者による管理機能を拡充しました。グループへの参加や脱退の通知機能、チャンネルやステータス更新の利用制限、さらにMeta AIのやり取りに対する厳格なコンテンツ制限などが導入されています。保護者は子どもの利用状況をより詳細に把握し、安全にサービスを利用させることが可能になります。"
+    },
+    {
+      "id": "c6385e4e1825510f1c95",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple's Smart Home Hub: Everything We Know So Far",
+      "url": "https://www.macrumors.com/guide/apple-command-center/",
+      "publishedAt": "2026-09-30T23:58:30.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/01/Apple-AI-Command-Center-Concept-Mock-1-Textless.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Appleのスマートホームハブに関するこれまでの情報まとめ",
+      "summaryJa": "Appleが開発中とされる新しいスマートホームハブについて、これまでの噂や詳細がまとめられています。このデバイスはiPadに似た約6インチの正方形ディスプレイを搭載し、壁掛け用モデルとiMac G4を彷彿とさせるスピーカーベース付きモデルの2種類が用意される見込みです。Siri AIの操作やHomeKitデバイスの制御、FaceTime通話などの機能を備え、家庭内の中心的なハブとして機能すると期待されています。"
+    },
+    {
       "id": "65b17d65f80c234a6b66",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4475,39 +4505,9 @@
       ],
       "titleJa": "Apple、ロンドンに新しいライブ音楽施設を開設",
       "summaryJa": "Appleはロンドンのバターシー・パワー・ステーションに新しいライブ音楽施設「Apple Music Hall」を開設しました。収容人数600人の同会場では、アーティストによる少人数向けの特別なコンサートが開催され、Apple Music加入者向けにライブ配信も行われます。施設内には立体音響システムや複数の放送用カメラが備えられており、9月28日のオープンを予定しています。"
-    },
-    {
-      "id": "48934148d6004399b1ac",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iCloud storage notification glitch puts unremovable red badge on Settings app",
-      "url": "https://9to5mac.com/2026/09/22/icloud-storage-notification-glitch-puts-unremovable-red-badge-on-settings-app/",
-      "publishedAt": "2026-09-22T07:40:50.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/icloud-notification-ios-27-glitch.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iPhoneで設定アプリに消えない通知バッジが出る不具合",
-      "summaryJa": "一部のiPhoneユーザーの間で、設定アプリに「iCloudストレージをアクティベート」という消えない赤い通知バッジが表示される不具合が報告されています。十分なストレージ容量を確保している場合でも発生し、Appleサポートではメディアと購入のアカウントから一度サインアウトして再サインインすることを推奨しています。"
-    },
-    {
-      "id": "f2e40f89d51240332255",
-      "source": "Apple Newsroom",
-      "sourceId": "apple-newsroom",
-      "category": "official",
-      "titleOriginal": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
-      "publishedAt": "2026-09-22T05:59:58.127Z",
-      "imageUrl": null,
-      "tags": [
-        "公式"
-      ],
-      "titleJa": "Apple、ロンドンのバターシーに新音楽施設を開設",
-      "summaryJa": "Appleはロンドンの歴史的なバターシー・パワー・ステーション内に、最新のライブ音楽施設「Apple Music Hall」を開設しました。アーティストがファン向けに親密なライブパフォーマンスを行い、空間オーディオでの録音やマルチカメラによる映像キャプチャをその場で行えるように設計されています。音楽ファンとアーティストを繋ぐ新たな拠点として展開されます。"
     }
   ],
-  "updatedAt": "2026-10-01T00:34:30.082Z",
+  "updatedAt": "2026-10-01T06:31:23.198Z",
   "initialized": true,
   "summaryVersion": 4
 }
