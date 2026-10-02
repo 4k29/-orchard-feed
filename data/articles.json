@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "f8fcaaee9011a7b54a90",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV releases ‘The Sisters Grimm’ season 2 in full",
+      "url": "https://9to5mac.com/2026/10/02/apple-tv-releases-the-sisters-grimm-season-2-in-full/",
+      "publishedAt": "2026-10-02T21:05:13.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sisters-grimm.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、アニメシリーズ「グリム家の人々」シーズン2を配信開始",
+      "summaryJa": "Apple TVは、人気ファンタジー冒険アニメシリーズ「グリム家の人々」のシーズン2の配信を開始しました。今回は全6話が一挙に公開されており、加入者はすぐに視聴することができます。おとぎ話のキャラクターが暮らす街を舞台に、両親の失踪の謎を追う姉妹の新たな冒険が描かれています。"
+    },
+    {
+      "id": "11d90dca4afe28970bfe",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement",
+      "url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
+      "publishedAt": "2026-10-02T20:47:02.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、AT&T回線でのiPhone 18 Pro Maxの通信障害を認めハードウェア交換が必要に",
+      "summaryJa": "Appleは、一部の「iPhone 18 Pro Max」が米AT&T回線で圏外になる問題を確認したと発表しました。今後への対策としてソフトウェアおよびキャリア設定のアップデートが配信されていますが、すでに通信できなくなった端末についてはハードウェアの交換が必要になるとのことです。"
+    },
+    {
+      "id": "421e0db99ee58dc5cd72",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "‘HomePad’ coming: Will Apple hold an October special event?",
+      "url": "https://9to5mac.com/2026/10/02/homepad-coming-will-apple-hold-an-october-special-event/",
+      "publishedAt": "2026-10-02T20:31:33.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-apple-park-chairs.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、10月に新製品発表イベントを開催するか 新たなスマートホーム機器の噂も",
+      "summaryJa": "Appleが10月13日に新製品を発表する計画との報道に関連し、過去の開催時期から今後の公式発表のタイミングを推測する記事が公開されています。スマートホームハブや新型HomePod mini、Siriを強化したApple TV 4Kなどの登場が噂されており、イベントの正式アナウンスが注目されています。"
+    },
+    {
+      "id": "f0dbc54bf67e4d64674b",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Announces 'Full Disk Access' Changes on macOS Due to AI Agents",
+      "url": "https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes/",
+      "publishedAt": "2026-10-02T20:04:15.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、AIエージェントの台頭を受けmacOSの「フルディスクアクセス」に変更を導入へ",
+      "summaryJa": "Appleは、AIエージェントの普及に伴うプライバシー上のリスクを懸念し、macOSの「フルディスクアクセス」設定に新たなコントロール機能を導入すると発表しました。一部の開発者がこの権限を不適切に利用し、ユーザーのデータが危険にさらされるおそれがあるため、より明示的な操作を義務付ける方針です。"
+    },
+    {
+      "id": "ee72b44bb455957ff375",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Overtime 084: iPhone 18 Pro – a fantastic pro camera experience",
+      "url": "https://9to5mac.com/2026/10/02/9to5mac-overtime-084-iphone-18-pro-a-fantastic-pro-camera-experience/",
+      "publishedAt": "2026-10-02T20:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/9to5Mac-Overtime-084.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone 18 Proのカメラ性能と進化について語る",
+      "summaryJa": "9to5Macのポッドキャスト番組において、出演者らがiPhone 18 Proのカメラ性能について語り合っています。ミラーレスカメラの代わりとして写真や動画撮影で十分に使えるかどうかを検証し、今すぐ購入すべきか将来のモデルを待つべきかについても意見を交わしています。"
+    },
+    {
       "id": "ba0047bbb1ef32f962a1",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -180,6 +255,66 @@
       ],
       "titleJa": "iOS 27.2、Apple Podcastsのキュー機能を大幅改善へ",
       "summaryJa": "iOS 27.2では、長年ユーザーから不満の声が上がっていたApple Podcastsの「再生の次に続く（Up Next）」キュー機能が大幅に刷新されます。新機能は「新しいエピソード」と「再生を続ける」の2つのセクションに分割され、未聴取のエピソードが埋もれてしまう問題が解決され、より快適に番組管理ができるようになります。"
+    },
+    {
+      "id": "ec22708c1d9d5a067239",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Deals: M5 MacBook Air, MacBook Pro, AirTag 2, smart display power bank, early Prime Day deals, more",
+      "url": "https://9to5mac.com/2026/10/02/deals-m5-macbook-air-pro-airtag-2-iphone-18-cases/",
+      "publishedAt": "2026-10-02T15:36:11.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-MacBook-chargers-AirTag-2-iPhone-18-Pro-cases.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "M5 MacBook AirやApple製品がセールでお買い得に",
+      "summaryJa": "Amazonのプライムデーセールなどに合わせて、M5搭載のMacBook AirなどのApple製品が割引価格で販売されています。最大150ドルの値引きが行われているほか、AirTag 2や各社製周辺機器なども過去最安値圏で登場しています。"
+    },
+    {
+      "id": "0eb53d5a82a4621a3c87",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "9to5Mac Daily: October 2, 2026 – MacBook Pro rumors, iPhone Duo display",
+      "url": "https://9to5mac.com/2026/10/02/daily-october-2-2026/",
+      "publishedAt": "2026-10-02T15:25:52.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBook Proの噂やiPhone Duoの折りたたみ画面に関する最新情報",
+      "summaryJa": "9to5Macのデイリーポッドキャスト番組で、Appleに関する最新の噂やニュースがまとめられています。次期MacBook Proの発売時期に関するアップデートや、折りたたみの折り目を軽減するための交換可能なディスプレイ層を採用するとされるiPhone Duoの話題などが取り上げられています。"
+    },
+    {
+      "id": "86c92aebdc875bbbe91d",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Upgrading From an Older Apple Watch? Here's How the New Features Stack Up",
+      "url": "https://www.macrumors.com/guide/upgrading-from-older-apple-watch/",
+      "publishedAt": "2026-10-02T15:20:39.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2023/09/Apple-Watch-Series-9-Buyers-Guide-Feature.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "旧モデルからの乗り換えで注目したいApple Watchの進化点",
+      "summaryJa": "近年のApple Watchにおける機能の進化や世代ごとの違いを整理し、古いモデルからの買い替えタイミングについて解説しています。Apple Watch Series 12では新世代の健康センサーや性能向上が図られており、複数世代を飛ばしてアップグレードする際の判断材料を提供しています。"
+    },
+    {
+      "id": "c305c9d6757f7e4db727",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Texas school district ditches Chromebooks, approves $11M iPad and MacBook Neo deal",
+      "url": "https://9to5mac.com/2026/10/02/texas-school-district-ditches-chromebooks-approves-11m-ipad-and-macbook-neo-deal/",
+      "publishedAt": "2026-10-02T15:03:40.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-citrus-0000-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "テキサスの学区がChromebookからApple製端末へ刷新",
+      "summaryJa": "米テキサス州の学区がChromebookの導入を終了し、iPadとMacBook Neoを多数採用することを決定しました。4年間のリース契約を通じて、児童や生徒、教員向けに1万4500台以上のApple製端末を配備します。信頼性の高さやコストパフォーマンス、優れたパフォーマンスが評価されたほか、AppleCareのサポート体制も決定の決め手となりました。"
     },
     {
       "id": "e8bed2ea8ebda14526f9",
@@ -4371,144 +4506,9 @@
       ],
       "titleJa": "iOS 27.2ベータ、FaceTmieのデュアルキャプチャがグループ通話に対応へ",
       "summaryJa": "Appleは現在テスト中のiOS 27.2ベータ版において、FaceTimeのデュアルキャプチャ機能をグループ通話へと拡大しています。この機能により、対応するiPhoneでフロントカメラとリアカメラの映像を同時に表示しながら、複数の参加者と通話できるようになります。正式リリースは数週間後が予定されており、より多彩なビデオ通話体験がすべてのユーザーに提供されます。"
-    },
-    {
-      "id": "f7417c624b503f11425d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Podcasts Subscriptions Will Soon Support Video",
-      "url": "https://www.macrumors.com/2026/09/23/apple-podcasts-subscriptions-to-support-video/",
-      "publishedAt": "2026-09-23T14:26:51.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2021/05/Podcasts-Feature.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Podcastsサブスクリプション、まもなく動画コンテンツに対応",
-      "summaryJa": "Appleは、Apple Podcastsサブスクリプションでまもなく動画コンテンツのサポートを開始すると発表しました。これによりクリエイターは、購読者限定のエピソードや広告なしの動画、早期アクセスなどを提供できるようになります。この新機能は170以上の国と地域のAppleデバイスやウェブで利用可能となり、Appleはホスティングプロバイダーとの統合を進めています。"
-    },
-    {
-      "id": "9b2efe22ede0b7bef2be",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Next year’s iPhone Pro models have ‘near-borderless’ design: report",
-      "url": "https://9to5mac.com/2026/09/23/next-years-iphone-pro-models-have-near-borderless-design-report/",
-      "publishedAt": "2026-09-23T14:21:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "来年のiPhone Proモデルはベゼルを極限までなくしたデザインか",
-      "summaryJa": "来年登場するiPhone Proモデルは、4辺すべてを湾曲させた「ほぼベゼルレス」のフルスクリーンデザインを採用する見込みであると報じられています。20周年を迎えるモデルとして独自の刷新が計画されている一方、コストや技術的な判断から、一部で検討されていた先進的なディスプレイ技術の導入は延期される可能性があるとのことです。"
-    },
-    {
-      "id": "a2833f17ea8661203b6d",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Watch Ultra 3 Drops to Record Low $599.97 on Amazon",
-      "url": "https://www.macrumors.com/2026/09/23/apple-watch-ultra-3-599/",
-      "publishedAt": "2026-09-23T14:15:02.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/apple-watch-ultra-3-new.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AmazonでApple Watch Ultra 3が過去最安値の599.97ドルに",
-      "summaryJa": "Amazonにて、前世代のApple Watch Ultra 3が通常より199ドル引きとなる過去最安値の599.97ドルで販売されています。対象となっているのはナチュラルカラーのアンカーブルーオーシャンバンドなどで、ブラックのミラネーゼループモデルも同様の大幅割引が適用されています。新型の登場に伴い、お得に購入できる絶好の機会となっています。"
-    },
-    {
-      "id": "dcecee8da485de140e8a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AT&T Responds to iOS 27's New iPhone Handoff Feature",
-      "url": "https://www.macrumors.com/2026/09/23/att-on-ios-27-iphone-handoff/",
-      "publishedAt": "2026-09-23T14:06:09.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-Feature.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AT&T、iOS 27の「iPhone Handoff」機能への対応を慎重に見送り",
-      "summaryJa": "AppleがiOS 27で導入した、同じ電話番号を持つ2台の間でiPhoneを切り替えられる新機能「iPhone Handoff」について、米キャリアのAT&Tが慎重な姿勢を示しています。現時点では既存のeSIMアクティベーションと転送オプションへの対応に集中するとしており、対応計画については明言していません。なお、同機能はT-Mobileやドイツテレコムなどで提供が始まっています。"
-    },
-    {
-      "id": "15e32d2c69491d534a99",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Launch Discounts Arrive for New Mac Mini and Mac Studio, Plus Massive Deal on Samsung's Portable SSD",
-      "url": "https://www.macrumors.com/2026/09/23/launch-mac-mini-studio-deals/",
-      "publishedAt": "2026-09-23T14:02:46.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型Mac miniやMac StudioがAmazonで早くも割引に",
-      "summaryJa": "Amazonにて、発表されたばかりの新型Mac miniおよびMac Studioが初となる割引販売を開始しています。一部モデルが最大49ドル引きとなっており、M5 Max搭載のMac Studioなどが対象です。また、サムスンの4TBポータブルSSDも大幅な値引きで販売されており、周辺機器を含めてお得に購入できる機会となっています。"
-    },
-    {
-      "id": "47931089aec19f8a8146",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "tvOS 27.2 adds new HomePod surround sound feature to Apple TV 4K",
-      "url": "https://9to5mac.com/2026/09/23/tvos-27-2-adds-new-homepod-surround-sound-feature-to-apple-tv-4k/",
-      "publishedAt": "2026-09-23T13:36:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/apple-tv-homepod-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV 4K向けtvOS 27.2ベータ、HomePodのサラウンド対応機能を追加",
-      "summaryJa": "Apple TV 4K向けのtvOS 27.2ベータ版において、4台のHomePodを同時にワイヤレス接続してサラウンドサウンドを構築する機能が実装されました。現在はベータ段階でありスピーカーの役割割り当てなどに制限はあるものの、Atmosなどのコンテンツで利用可能です。今秋以降のHome関連製品の展開に向けた動きとしても注目を集めています。"
-    },
-    {
-      "id": "83b507ba1721db2eed7c",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27 gives Apple Mail my most wished for feature upgrade",
-      "url": "https://9to5mac.com/2026/09/23/ios-27-gives-apple-mail-my-most-wished-for-feature-upgrade/",
-      "publishedAt": "2026-09-23T13:10:17.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-mail-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27の「メール」アプリで検索機能が大幅に向上",
-      "summaryJa": "iOS 27の「メール」アプリでは、長年ユーザーから改善が望まれていた検索機能が大幅に刷新されました。新しいランキングシステムと意図をくみ取る検索機能により、受信トレイの奥深くにあるメールでも関連性の高い結果がすぐに見つかるようになっています。ベータ版のテストでは検索精度の大幅な向上が確認されており、日々の利便性が大きく高まりそうです。"
-    },
-    {
-      "id": "8941bb4cf219b143e1d1",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "AT&T seemingly has no plans to support Apple’s new iPhone Handoff feature",
-      "url": "https://9to5mac.com/2026/09/23/att-iphone-handoff-support/",
-      "publishedAt": "2026-09-23T12:53:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-handoff.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "米AT&T、新しい「iPhone Handoff」機能への非対応を示唆か",
-      "summaryJa": "米国の通信大手AT&Tが、Appleが導入した新しい「iPhone Handoff」機能をサポートする予定がないと報じられています。この機能は1つの電話番号を2台のiPhone間でシームレスに切り替えて使用できるものですが、同社は従来のeSIM転送オプションに注力する姿勢を示しています。そのため、同社の契約者からは不満の声が上がる可能性があります。"
-    },
-    {
-      "id": "ff8f1d7010fd6a8c4c96",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "New iPhone Setting Lets Users Shake Off Motion-Sensing Ads",
-      "url": "https://www.macrumors.com/2026/09/23/iphone-setting-shake-off-motion-sensing-ads/",
-      "publishedAt": "2026-09-23T11:49:55.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "中国のiOS向けに「シェイク広告」を防ぐ新しい設定がテスト中",
-      "summaryJa": "Appleが中国のユーザー向けに、アプリによるモーションセンサーへのアクセスを制限する新しい設定をテストしていることが分かりました。中国のアプリでは、端末を振る動作などを検知して広告が開く迷惑な仕様が問題となっており、これに対処するための機能と見られています。なお、この設定は現在のところ中国本土のApp Storeアカウントに限定されている模様です。"
     }
   ],
-  "updatedAt": "2026-10-02T19:55:17.482Z",
+  "updatedAt": "2026-10-02T23:43:23.635Z",
   "initialized": true,
   "summaryVersion": 4
 }
