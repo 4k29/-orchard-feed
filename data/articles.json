@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "23406f7da874eec3f701",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AT&T Acknowledges iPhone 18 Pro Max Issues: 'Update Immediately'",
+      "url": "https://www.macrumors.com/2026/10/01/att-acknowledges-iphone-18-pro-max-issues/",
+      "publishedAt": "2026-10-02T03:42:44.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-ATT.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AT&T、iPhone 18 Pro Maxの通信障害でアップデートを促す",
+      "summaryJa": "米AT&Tは、一部のiPhone 18 Pro Maxで発生している通信障害に関して、顧客にテキストメッセージを送信し、iOS 27.0.1へ直ちにアップデートするよう呼びかけました。影響を受けたユーザーの間では、通話やデータ通信ができずSOSモードになる問題が多数報告されています。なお、今回のアップデートのリリースノートには当該不具合の修正に関する記載はなく、Appleからの公式コメントもまだ出されていません。"
+    },
+    {
       "id": "96de3e54c88c999990b8",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4490,24 +4505,9 @@
       ],
       "titleJa": "Apple Parkビジターセンター、2017年からのAR展示を終了し店舗を拡張",
       "summaryJa": "カリフォルニア州のApple Parkビジターセンターが改装を完了し、2017年の開設当初から名物となっていた3D拡張現実モデルの展示スペースが終了しました。かつて展示エリアだった場所には、壁面収納の「アベニュー」や円形の製品展示テーブルが新たに導入されています。なお、カフェや屋上からの眺望、限定グッズの販売などはこれまで通り楽しめます。"
-    },
-    {
-      "id": "1225cd0ded255b69e6fa",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Shazam App for iPhone Updated With New Icon and iMessage Stickers",
-      "url": "https://www.macrumors.com/2026/09/22/shazam-app-new-icon-and-stickers/",
-      "publishedAt": "2026-09-22T19:40:52.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/Shazam-New-Icon.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone向け「Shazam」アプリがアップデート、新アイコンとiMessage用ステッカーを追加",
-      "summaryJa": "AppleはiOS向け「Shazam」アプリをアップデートし、わずかにフロスト加工が施された新しいアプリアイコンと、iMessage用のステッカーパックを追加しました。新しいステッカーは、メッセージアプリでの会話やFaceTimeのビデオ通話、絵文字キーボードが利用可能な他のアプリから簡単に送信して楽しむことができます。"
     }
   ],
-  "updatedAt": "2026-10-02T02:18:37.443Z",
+  "updatedAt": "2026-10-02T08:42:22.469Z",
   "initialized": true,
   "summaryVersion": 4
 }
