@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "96de3e54c88c999990b8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple TV’s acclaimed ‘The Last First: Winter K2’ documentary now streaming",
+      "url": "https://9to5mac.com/2026/10/01/apple-tvs-acclaimed-the-last-first-winter-k2-documentary-now-streaming/",
+      "publishedAt": "2026-10-02T01:00:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/last-first-k2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、高評価の登山ドキュメンタリーを配信開始",
+      "summaryJa": "Rotten Tomatoesで100%の高評価を獲得した過酷な高峰登山を描くドキュメンタリー映画『The Last First: Winter K2』が、Apple TVのサブスクリプション向けに配信を開始しました。監督のアミール・バー＝レブが2021年のK2冬季初登頂を目指した遠征に密着し、商業的な登山文化や人間模様をリアルに映し出しています。予告編も公開されており、過酷な自然環境と命がけの挑戦を捉えた重厚なストーリーを楽しむことができます。"
+    },
+    {
       "id": "b166db925714c5ff24bb",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -360,6 +375,21 @@
       ],
       "titleJa": "iPadOS 27.2で導入されるSiriのコンテキストポップアップとプロフィール機能",
       "summaryJa": "今月後半に配信予定のiPadOS 27.2では、いくつかの新機能が追加されます。トラックパッドなどでテキストを選択した際にSiriへ簡単に質問や文章校正を行えるコンテキストポップアップ機能が登場するほか、Apple TVアプリには共有端末で便利なユーザープロフィール機能が導入されます。"
+    },
+    {
+      "id": "5f776798755dfb7db0c0",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "MacBook Pro With OLED Touch Screen Rumored to Launch in October or November",
+      "url": "https://www.macrumors.com/2026/10/01/oled-macbook-pro-release-date/",
+      "publishedAt": "2026-10-01T14:24:07.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "OLEDタッチ画面搭載MacBook Proが10月か11月に登場か",
+      "summaryJa": "ブルームバーグのマーク・ガーマン記者が、Appleがタッチ操作対応のOLEDディスプレイを搭載した14インチおよび16インチのMacBook Proを今年10月か11月に発表する見込みであると報じました。新型モデルにはM5 ProやM5 Maxチップが搭載され、現行のノッチに代わりダイナミックアイランドが採用される可能性があると伝えられています。ソフトウェアのテスト状況から、早ければ10月下旬にも正式に発表されるとの見方が示されています。"
     },
     {
       "id": "f1fb4f0b12491d066952",
@@ -4475,39 +4505,9 @@
       ],
       "titleJa": "iPhone向け「Shazam」アプリがアップデート、新アイコンとiMessage用ステッカーを追加",
       "summaryJa": "AppleはiOS向け「Shazam」アプリをアップデートし、わずかにフロスト加工が施された新しいアプリアイコンと、iMessage用のステッカーパックを追加しました。新しいステッカーは、メッセージアプリでの会話やFaceTimeのビデオ通話、絵文字キーボードが利用可能な他のアプリから簡単に送信して楽しむことができます。"
-    },
-    {
-      "id": "0caf9f534ef08c373129",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Photos in iOS 27 gets camera roll feature it’s long needed",
-      "url": "https://9to5mac.com/2026/09/22/apple-photos-in-ios-27-gets-camera-roll-feature-its-long-needed/",
-      "publishedAt": "2026-09-22T19:39:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27-photos-app-icon-fi-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOSの「写真」アプリ、新機能「Captured by Me」を追加か",
-      "summaryJa": "Appleの写真アプリにはこれまで、撮影した写真と保存した画像が混在していましたが、iOSでは自分がカメラアプリで撮影したメディアだけを表示する新コレクション「Captured by Me」が追加されます。この機能により、スクリーンショットや共有された画像を除外し、純粋に自分で撮影した写真や動画のみを簡単に確認できるようになります。"
-    },
-    {
-      "id": "a060b06d40dd5461c77a",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Anthropic Launches Claude Opus 5.5 With Fable-Level Performance at a Lower Price",
-      "url": "https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5/",
-      "publishedAt": "2026-09-22T19:23:31.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/09/anthopic-claude.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Anthropic、低価格で高性能な「Claude Opus 5.5」を発表",
-      "summaryJa": "Anthropicは、新しい5.5モデルファミリーの第一弾となる「Claude Opus 5.5」を発表しました。従来のOpusモデルと同等の高い性能を備えながら、運用コストを40%削減し、処理速度も30%以上向上しています。また、応答の自然さや安全性が強化されており、各種有料プランでの利用制限緩和も合わせて実施されています。"
     }
   ],
-  "updatedAt": "2026-10-01T23:14:05.102Z",
+  "updatedAt": "2026-10-02T02:18:37.443Z",
   "initialized": true,
   "summaryVersion": 4
 }
