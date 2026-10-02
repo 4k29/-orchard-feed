@@ -1,6 +1,111 @@
 {
   "articles": [
     {
+      "id": "e8bed2ea8ebda14526f9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Beats 360 Cushion Kits and Apple Accessories See Early Prime Day Price Drops",
+      "url": "https://www.macrumors.com/2026/10/02/best-apple-deals-of-the-week-10-2-26/",
+      "publishedAt": "2026-10-02T15:00:08.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/02/Best-Apple-Deals-Feature-0007-1.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Amazonのプライムセール先行セールでApple製品などが割引に",
+      "summaryJa": "Amazonのプライムビッグディールデイズに向けた先行セールが開催され、Apple関連のアクセサリやMac mini、Mac Studio、Apple Watch Ultraなどの割引販売が行われています。また、新しく発表されたBeats 360向けクッションキットなどもセール対象として登場しています。在庫が少なくなっている商品もあるため、早めの確認が推奨されています。"
+    },
+    {
+      "id": "235d1e3c73a23d9621ca",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "HBO Max and Paramount+ set to merge under ‘Skydance’ brand",
+      "url": "https://9to5mac.com/2026/10/02/hbo-max-and-paramount-set-to-merge-under-skydance-brand/",
+      "publishedAt": "2026-10-02T14:53:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/hbo-max-paramount-plus-apps.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "HBO MaxとParamount+が統合、新会社名は「Skydance」に",
+      "summaryJa": "Paramount Skydanceによるワーナー・ブラザースの買収完了を控え、新会社名が「Skydance」になることが発表されました。これに伴い、ストリーミングサービスのHBO MaxとParamount+が統合される予定です。規制当局の承認が得られれば、両サービスを合わせた会員数は約2億人に達する見込みとなっています。"
+    },
+    {
+      "id": "09a14d87005f19106b02",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo can be just $9/month with trade-in using Apple Upgrade",
+      "url": "https://9to5mac.com/2026/10/02/iphone-duo-can-be-just-9-month-with-trade-in-using-apple-upgrade/",
+      "publishedAt": "2026-10-02T14:21:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの新しいアップグレードプログラムでiPhone Duoが月額9ドルからに",
+      "summaryJa": "新しいAppleアップグレードプログラムを利用することで、高価格な折りたたみ式iPhoneであるiPhone Duoを月額料金を抑えてリースできるようになりました。対象端末を下取りに出すことで、最安月額9ドル台からの利用が可能になります。リース期間終了後の本体購入も可能で、初期負担を軽減する選択肢として注目されています。"
+    },
+    {
+      "id": "5ddf174f06699abd627c",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Store in UK Reopening on iPhone Duo Launch Day",
+      "url": "https://www.macrumors.com/2026/10/02/apple-store-in-uk-reopens-on-iphone-duo-launch-day/",
+      "publishedAt": "2026-10-02T14:17:47.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2025/07/Apple-Store-Wallpaper-Basic-Apple-Guy.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "イギリスのApple StoreがiPhone Duo発売日にリニューアルオープン",
+      "summaryJa": "イギリス・イングランドのバースにあるApple SouthGateストアが、3ヶ月以上に及ぶ改装工事を経て、iPhone Duoの発売日である10月23日に再オープンすることになりました。同店舗は発売のタイミングに合わせて営業を再開し、訪れるユーザーを迎えることになります。イギリス国内では店舗の改装や再オープンが相次いで進められています。"
+    },
+    {
+      "id": "77b7950487f599b6efe7",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 gives Apple Photos two features we’ve waited a long time for",
+      "url": "https://9to5mac.com/2026/10/02/ios-27-gives-apple-photos-two-features-weve-waited-a-long-time-for/",
+      "publishedAt": "2026-10-02T13:33:38.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-photos-app-icon-ios-27-colors.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27、写真アプリに待望のスライドショー作成機能や共有アルバムの強化を追加",
+      "summaryJa": "iOS 27の写真アプリでは、長年求められていた本格的なスライドショーの作成・カスタマイズ機能が追加されます。また、iCloud共有アルバムも強化され、フル解像度の写真や動画の共有、絵文字でのリアクション、AndroidやWindowsユーザーの参加が可能になります。"
+    },
+    {
+      "id": "707c84902a7c6befdb84",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 adds four new ways to customize your iPhone’s Lock Screen",
+      "url": "https://9to5mac.com/2026/10/02/ios-27-lock-screen-customization/",
+      "publishedAt": "2026-10-02T13:00:05.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/extend-lock-screen.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27、iPhoneのロック画面をさらに自分好みにカスタマイズできる新機能を追加",
+      "summaryJa": "iOS 27では、iPhoneのロック画面のカスタマイズ性がさらに向上します。AIを活用して画像の縦横比を自然に調整・拡張する機能や、Image Playgroundを用いたオリジナルの壁紙生成機能が新たに追加されています。さらに、ロック画面の時計のサイズ変更や位置調整の自由度も高まりました。"
+    },
+    {
+      "id": "aba0084551e2e8a7242c",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "AT&T claims iOS 27.0.1 fixes iPhone 18 Pro Max cellular issues, but users disagree",
+      "url": "https://9to5mac.com/2026/10/02/att-claims-ios-27-0-1-fixes-iphone-18-pro-max-cellular-issues-but-users-disagree/",
+      "publishedAt": "2026-10-02T12:27:29.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-32.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "AT&T、iOS 27.0.1で通信問題が解決すると案内するもユーザーの間で疑問の声",
+      "summaryJa": "米キャリアのAT&Tが、iPhone 18 Pro Maxで発生している通信障害を解決するため、ユーザーにiOSへのアップデートを促すテキストメッセージを送信しました。しかし、リリースノートにはFace IDやカメラの不具合修正のみが記載されており、初期の報告では通信問題は未解決のままだと指摘されています。"
+    },
+    {
       "id": "23406f7da874eec3f701",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -29,6 +134,21 @@
       ],
       "titleJa": "Apple TV、高評価の登山ドキュメンタリーを配信開始",
       "summaryJa": "Rotten Tomatoesで100%の高評価を獲得した過酷な高峰登山を描くドキュメンタリー映画『The Last First: Winter K2』が、Apple TVのサブスクリプション向けに配信を開始しました。監督のアミール・バー＝レブが2021年のK2冬季初登頂を目指した遠征に密着し、商業的な登山文化や人間模様をリアルに映し出しています。予告編も公開されており、過酷な自然環境と命がけの挑戦を捉えた重厚なストーリーを楽しむことができます。"
+    },
+    {
+      "id": "edcd46c8807ed7aa1dfd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
+      "url": "https://9to5mac.com/2026/10/01/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
+      "publishedAt": "2026-10-02T01:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ipad-ios-27-notification-siri.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27、通知センターの開き方に変更 — Siri AIの導入でジェスチャーが移行",
+      "summaryJa": "iOS 27およびiPadOS 27では、新機能であるSiri AIの導入に伴い、画面上部からのスワイプジェスチャーの割り当てが変更されます。これにより、通知センターを開く操作は画面の左上隅からのスワイプへと移動し、10年以上続いた操作方法に大きな変更が加えられることになります。"
     },
     {
       "id": "b166db925714c5ff24bb",
@@ -4385,129 +4505,9 @@
       ],
       "titleJa": "Apple、macOS 27.2ゴールデンゲートのパブリックベータ1を公開",
       "summaryJa": "Appleは開発者向けベータの公開に続き、「macOS 27.2ゴールデンゲート パブリックベータ1」の提供を開始しました。今回のベータ版では、英語に加えてフランス語、日本語、韓国語、ポルトガル語、スペイン語のSiri AI言語サポートが新たに拡張されており、無料のパブリックベータプログラムを通じて誰でも試すことができます。"
-    },
-    {
-      "id": "2223b35f3438aaac0dba",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "macOS 27 gives you more control over Liquid Glass",
-      "url": "https://9to5mac.com/2026/09/22/macos-27-gives-you-more-control-over-liquid-glass/",
-      "publishedAt": "2026-09-22T22:47:12.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27-Golden-Gate-Liquid-Glass-Comparison.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "macOS 27、Liquid Glassの外観を自由に調整できるスライダーを搭載",
-      "summaryJa": "「macOS 27ゴールデンゲート」では、iPhoneのiOS 27と同様にシステム全体のデザイン言語である「Liquid Glass」の外観を細かく変更できるスライダーが導入されました。初期設定時やシステム設定の「外観」から、ドックやデスクトップウィジェットの透明度や質感をクリアから不透明まで好みに合わせてシームレスに調整可能です。"
-    },
-    {
-      "id": "9bba713463fa68a6f4b4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple expands Tap to Pay on iPhone across eight Latin American markets",
-      "url": "https://9to5mac.com/2026/09/22/apple-expands-tap-to-pay-on-iphone-across-eight-latin-american-markets/",
-      "publishedAt": "2026-09-22T21:50:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/tap-to-pay-iphone.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPhoneの「Tap to Pay」を中南米8カ国で新たに提供開始",
-      "summaryJa": "Appleは、iPhoneによる非接触決済機能「Tap to Pay on iPhone」をアルゼンチンやコロンビアなど中南米の8カ国に拡大すると発表しました。これにより、加盟店は追加の専用端末を使わずに、対応するiPhoneと決済アプリだけで安全に店頭での非接触決済を受け付けることが可能になります。対応する現地の決済プラットフォームも順次拡充されており、世界中で導入が進んでいます。"
-    },
-    {
-      "id": "47abf897f275b7a2219f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple adds RAW support for 11 digital cameras across iPhone, iPad, Mac, and Vision Pro",
-      "url": "https://9to5mac.com/2026/09/22/apple-adds-raw-support-for-11-digital-cameras-across-iphone-ipad-mac-and-vision-pro/",
-      "publishedAt": "2026-09-22T21:19:53.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/200MP-iPhone-camera-rumors-align-on-2028-release.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、各OSで新たに11台のデジタルカメラRAWフォーマットに対応",
-      "summaryJa": "Appleは各プラットフォームでサポートするデジタルカメラのRAWフォーマット公式リストを更新し、新たに11モデルを追加しました。これにより、対応機種は合計562モデルとなります。システムレベルでのRAW画像サポートにより、対応アプリで露出や色味などの編集をより柔軟に行うことが可能になります。"
-    },
-    {
-      "id": "c930f30dc4f51cf7cb3e",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "OpenAI's New GPT-6 Sol and Luna Models Bring Astra Improvements to Cheaper Tiers",
-      "url": "https://www.macrumors.com/2026/09/22/openai-gpt-6-sol-luna/",
-      "publishedAt": "2026-09-22T20:58:32.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2025/12/openai-logo-teal.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "OpenAI、Astraの改良を引き継ぐ新モデル「GPT-6 Sol」と「Luna」を発表",
-      "summaryJa": "OpenAIは新たに「GPT-6 Sol」および「GPT-6 Luna」を発表し、低価格帯のモデルでもAstraの改良機能を利用できるようにしました。日常的な業務向けのSolは推論能力に優れ、高速応答を重視したLunaはさらに低価格で提供されます。両モデルともにトークン価格が引き下げられ、プロンプトキャッシュの効率化なども図られています。"
-    },
-    {
-      "id": "1cddfdf40482d21e6734",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Tim Cook meets EU chief Ursula von der Leyen as bloc pushes new child safety rules",
-      "url": "https://9to5mac.com/2026/09/22/tim-cook-meets-eu-chief-ursula-von-der-leyen-as-bloc-pushes-new-child-safety-rules/",
-      "publishedAt": "2026-09-22T20:40:44.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2022/02/apple-europe.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "ティム・クック氏が欧州委員会のフォンデアライエン委員長と会談、子どもの安全を協議",
-      "summaryJa": "Appleのエグゼクティブ・チェアマンを務めるティム・クック氏は、欧州委員会のウルスラ・フォンデアライエン委員長と会談しました。両者はEUキッズ法を中心に意見を交わし、子どものプライバシー保護やオンライン上の安全性、セキュリティの重要性について一致しました。クック氏は退任後も各国の政策立案者との対話を積極的に続けています。"
-    },
-    {
-      "id": "cac86b8edc71a2408c58",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple retires the Apple Park Visitor Center’s unique AR experience",
-      "url": "https://9to5mac.com/2026/09/22/apple-retires-the-apple-park-visitor-centers-unique-ar-experience/",
-      "publishedAt": "2026-09-22T20:27:07.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/applepark_visitorcenter_opening_ar_crowd_demo_20171117.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Parkのビジターセンター、名物だったAR体験を終了",
-      "summaryJa": "Apple Parkのビジターセンターが改装を終えて再オープンし、2017年のオープン以来親しまれてきたAR体験スペースが廃止されました。専用のiPadを使ってキャンパスの3Dモデルを表示する機能が提供されていましたが、そのエリアは通常の製品ディスプレイやアクセサリーを展示する店舗スペースへと変更されました。カフェや屋上テラスなどは引き続き利用可能です。"
-    },
-    {
-      "id": "923b514f7313945e147d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple TV: ‘The Sisters Grimm’ gets season 2 trailer ahead of October premiere",
-      "url": "https://9to5mac.com/2026/09/22/apple-tv-the-sisters-grimm-gets-season-2-trailer-ahead-of-october-premiere/",
-      "publishedAt": "2026-09-22T19:55:56.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sisters-grimm.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple TV、アニメシリーズ「The Sisters Grimm」シーズン2の予告編を公開",
-      "summaryJa": "Apple TVは、人気アニメーションアドベンチャーシリーズ「The Sisters Grimm」シーズン2の予告編を公開しました。配信は10月2日に予定されており、シーズン1の配信から約1年ぶりの帰還となります。行方不明の両親の謎を追う姉妹が、おとぎ話の住人たちが暮らす町で新たな冒険や試練に立ち向かう姿が描かれます。"
-    },
-    {
-      "id": "322056ab5a3691bef9d5",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Park Visitor Center Just Lost an Attraction Offered Since 2017",
-      "url": "https://www.macrumors.com/2026/09/22/apple-park-visitor-center-loses-exhibition/",
-      "publishedAt": "2026-09-22T19:42:26.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/Apple-Park-Visitor-Center.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Parkビジターセンター、2017年からのAR展示を終了し店舗を拡張",
-      "summaryJa": "カリフォルニア州のApple Parkビジターセンターが改装を完了し、2017年の開設当初から名物となっていた3D拡張現実モデルの展示スペースが終了しました。かつて展示エリアだった場所には、壁面収納の「アベニュー」や円形の製品展示テーブルが新たに導入されています。なお、カフェや屋上からの眺望、限定グッズの販売などはこれまで通り楽しめます。"
     }
   ],
-  "updatedAt": "2026-10-02T08:42:22.469Z",
+  "updatedAt": "2026-10-02T15:04:01.651Z",
   "initialized": true,
   "summaryVersion": 4
 }
