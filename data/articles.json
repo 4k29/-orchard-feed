@@ -1,6 +1,187 @@
 {
   "articles": [
     {
+      "id": "ba0047bbb1ef32f962a1",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AT&T and Apple Just Took Steps Toward Fixing iPhone 18 Pro Max Issue",
+      "url": "https://www.macrumors.com/2026/10/02/att-and-apple-move-to-fix-iphone-18-pro-max-issues/",
+      "publishedAt": "2026-10-02T19:29:52.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-ATT.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AppleとAT&T、iPhone 18 Pro Maxの通信不具合に対処へ",
+      "summaryJa": "Appleと米通信大手AT&Tは、一部のiPhone 18 Pro Maxユーザーで発生している通信ネットワークへの接続不具合を解消するため、対応に乗り出しました。Appleはキャリア設定のアップデートを配信したほか、デバイスの初期設定時にiOS 27.0.1の適用を必須とするなどの措置をとっています。根本的な原因はまだ明らかにされていませんが、両社は引き続き問題解決に向けた取り組みを進めています。"
+    },
+    {
+      "id": "00913f5d0b5bce20bd7a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27’s Siri gets one thing very right that other AI assistants get wrong",
+      "url": "https://9to5mac.com/2026/10/02/ios-27s-siri-gets-one-thing-very-right-that-other-ai-assistants-get-wrong/",
+      "publishedAt": "2026-10-02T19:26:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27のSiriが他のAIアシスタントと一線を画す理由",
+      "summaryJa": "iOS 27で導入された新しいSiri AIは、他のAIアシスタントとは異なり人間を過度に模倣しない点が優れていると評価されています。ChatGPTやClaudeなどのように人間らしい個性を演出して親密な関係を錯覚させることはせず、ツールとしての役割を明確に保っています。自分がAIであることを適宜示しつつ、ユーザーの指示に確実に応える実用的なアシスタントとして設計されています。"
+    },
+    {
+      "id": "44f0a42c0e45dd0df1c4",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iPhone Duo video reveals size compared to iPhone 18 Pro Max",
+      "url": "https://9to5mac.com/2026/10/02/iphone-duo-video-reveals-size-compared-to-iphone-18-pro-max/",
+      "publishedAt": "2026-10-02T18:51:20.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-vs-iphone-duo-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPhone DuoとiPhone 18 Pro Maxのサイズを比較した動画が公開",
+      "summaryJa": "これまでのiPhoneの中で最大のディスプレイを搭載する折りたたみ式のiPhone Duoと、iPhone 18 Pro Maxのサイズを比較した動画が公開されました。展開時のiPhone Duoの幅はiPhone 18 Pro Maxの高さとほぼ同じサイズになります。折りたたむことでコンパクトに持ち運ぶことが可能になり、大画面と携帯性を両立させた設計になっています。"
+    },
+    {
+      "id": "1e505bfb64a9720185b1",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple says it’s tightening macOS privacy controls amid the rise of AI agents",
+      "url": "https://9to5mac.com/2026/10/02/apple-says-its-tightening-macos-privacy-controls-amid-the-rise-of-ai-agents/",
+      "publishedAt": "2026-10-02T18:34:06.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/M5-Pro-Mac-mini-preorder-deals.webp?w=1400",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、AIエージェントの台頭を受けてmacOSのプライバシー制御を強化へ",
+      "summaryJa": "Appleは、Macへの「フルディスクアクセス」を求めるAIエージェントが急増していることを受け、ユーザーのプライバシー保護を強化するための変更を行うと発表しました。本来はバックアップアプリ用の権限であるフルディスクアクセスをリスクのある方法で利用する開発者が見られるためです。今後、こうした特権的なアクセスをユーザーがより明示的な操作でのみ許可できるように、新しい制御機能を追加する方針です。"
+    },
+    {
+      "id": "502562945fc70e9790e3",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "HomeKit Weekly: Home Widget 1.10 is the fastest way to check every HomeKit camera at once",
+      "url": "https://9to5mac.com/2026/10/02/home-widget-1-10-is-the-fastest-way-to-check-every-homekit-camera-at-once/",
+      "publishedAt": "2026-10-02T18:31:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Home-Widget-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "HomeKitカメラを一覧表示できる「Home Widget 1.10」が登場",
+      "summaryJa": "Home Widgetの最新バージョン1.10がリリースされ、ホーム画面やロック画面からすべてのHomeKitカメラを1つのスクロール可能なビューで確認できるカメラモザイク機能が追加されました。また、アプリを開くことなく、ウィジェットから直接サーモスタットの温度調整や部屋全体の照明操作も可能になり、日常的なスマートホームの管理がより迅速に行えるようになっています。"
+    },
+    {
+      "id": "34b118002614d970fa16",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter [Updated]",
+      "url": "https://9to5mac.com/2026/10/02/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
+      "publishedAt": "2026-10-02T18:15:26.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/airfly-drive-plugged-usb-port-black-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Twelve South、有線CarPlayを無線化する小型アダプタを発売",
+      "summaryJa": "アクセサリメーカーのTwelve Southが、有線式のCarPlayをワイヤレス化する小型ドングル「Airfly Drive」を発売しました。価格は39.99ドルで、専用アプリやアカウントの設定不要でプラグアンドプレイにより利用できます。75以上のメーカーの2014年以降の車種に対応しており、車を起動するたびに自動で再接続されるほか、ボタン一つで2台のペアリング済みスマートフォンを切り替える機能も備えています。"
+    },
+    {
+      "id": "e7f2b52662b38fcbec88",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple’s new ‘homeOS’ will launch this month, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/10/02/apples-new-homeos-will-launch-this-month-heres-whats-coming/",
+      "publishedAt": "2026-10-02T17:22:19.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-home-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Appleの新OS「homeOS」が今月登場か、詳細が報じられる",
+      "summaryJa": "Appleが10月13日に発表すると噂されるスマートホームハブの新製品に向け、新OS「homeOS」を今月中に展開する予定であると報じられています。このOSはiPhoneのウィジェット、iPadのアプリ設計、Apple Watchのアイコンなどを組み合わせたデザインを採用し、Siri AIを中心とした操作性が特徴になると伝えられています。基本のUIはフォトスライドショーや時計表示を重視した設計になっており、新デバイスでの展開に期待が集まっています。"
+    },
+    {
+      "id": "3e0551873607eb003b55",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple now sells Aqara Adaptive Temperature thermostat and seven more accessories",
+      "url": "https://9to5mac.com/2026/10/02/apple-now-sells-aqara-adaptive-temperature-thermostat-and-seven-more-accessories/",
+      "publishedAt": "2026-10-02T16:43:34.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-store.webp?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple、Aqaraのサーモスタットなどサードパーティ製アクセサリ8製品を追加",
+      "summaryJa": "Appleはオンラインおよび直営店のサードパーティ製アクセサリのラインナップを刷新し、Aqaraの「Thermostat Hub W200」や「Climate Sensor W100」を含む8つの新しい製品を追加しました。W200はApple Homeの「Adaptive Temperature」や「Clean Energy Guidance」などの機能に対応しています。ほかにも、MacBook用のスリーブやバックパック、CalDigit製のThunderbolt 5ケーブルなどが新たに販売開始されています。"
+    },
+    {
+      "id": "36bb7473382854c67cc3",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "AT&T on iPhone 18 Pro Max Issues: 'We Are Working With Apple'",
+      "url": "https://www.macrumors.com/2026/10/02/att-statement-on-iphone-18-pro-max-issues/",
+      "publishedAt": "2026-10-02T16:18:55.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/10/ATT-Apple.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "AT&T、iPhone 18 Pro Maxの通信障害でAppleと協力中",
+      "summaryJa": "米通信大手AT&Tは、iPhone 18 Pro Maxで発生している一部の接続不良やSOSモードになってしまう不具合について、Appleと協力して解決に取り組んでいると表明しました。発売直後から数千人のユーザーが影響を受けており、同社は最新ソフトウェアへのアップデートを呼びかけています。根本的な原因やAppleからの公式なコメントはまだ確認されていません。"
+    },
+    {
+      "id": "5ba0afb1c5c6cf2ffdca",
+      "source": "Apple Developer",
+      "sourceId": "apple-developer",
+      "category": "developer",
+      "titleOriginal": "Updates to Full Disk Access in macOS",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "publishedAt": "2026-10-02T16:00:19.000Z",
+      "imageUrl": null,
+      "tags": [
+        "Developer",
+        "公式"
+      ],
+      "titleJa": "macOSのフルディスクアクセス機能に見直しを示唆",
+      "summaryJa": "Appleは、macOSの「フルディスクアクセス」機能について、ユーザーのプライバシー保護を強化するため今後のアップデートでさらなる制御を導入すると発表しました。一部の開発者がこの権限を不適切に利用するリスクがあり、特に自律型AIエージェントの普及に伴って危険性が高まるため、ユーザーが明示的な操作でリスクを十分理解した上で判断できるようにする方針です。"
+    },
+    {
+      "id": "9827db9533d4036e958f",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Using an iPad mini to preview the iPhone Duo experience",
+      "url": "https://9to5mac.com/2026/10/02/using-an-ipad-mini-to-preview-the-iphone-duo-experience/",
+      "publishedAt": "2026-10-02T16:00:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Using-an-iPad-mini-to-preview-the-iPhone-Duo-experience.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iPad miniで未発表のiPhone Duoの使用感を試す実験",
+      "summaryJa": "ある執筆者が、まもなく登場すると噂されるiPhone Duoの大きな画面サイズの使用感を事前に体験するため、iPad miniをスマートフォンの代わりとして使う実験を行いました。iPhone Duoの画面サイズやベゼルレス設計を想定し、同じアプリ配置やiPhoneからのテザリングを組み合わせて使い勝手を検証しています。"
+    },
+    {
+      "id": "8bd2597144da76d09aec",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "iOS 27.2 gives Apple Podcasts the big fix I’ve wanted for years",
+      "url": "https://9to5mac.com/2026/10/02/ios-27-2-gives-apple-podcasts-the-big-fix-ive-wanted-for-years/",
+      "publishedAt": "2026-10-02T15:37:56.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-podcasts.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "iOS 27.2、Apple Podcastsのキュー機能を大幅改善へ",
+      "summaryJa": "iOS 27.2では、長年ユーザーから不満の声が上がっていたApple Podcastsの「再生の次に続く（Up Next）」キュー機能が大幅に刷新されます。新機能は「新しいエピソード」と「再生を続ける」の2つのセクションに分割され、未聴取のエピソードが埋もれてしまう問題が解決され、より快適に番組管理ができるようになります。"
+    },
+    {
       "id": "e8bed2ea8ebda14526f9",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4325,189 +4506,9 @@
       ],
       "titleJa": "中国のiOS向けに「シェイク広告」を防ぐ新しい設定がテスト中",
       "summaryJa": "Appleが中国のユーザー向けに、アプリによるモーションセンサーへのアクセスを制限する新しい設定をテストしていることが分かりました。中国のアプリでは、端末を振る動作などを検知して広告が開く迷惑な仕様が問題となっており、これに対処するための機能と見られています。なお、この設定は現在のところ中国本土のApp Storeアカウントに限定されている模様です。"
-    },
-    {
-      "id": "81112e68f53231e6c0e7",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple increases interest rate for Apple Card Savings Account",
-      "url": "https://9to5mac.com/2026/09/23/apple-increases-interest-rate-for-apple-card-savings-account/",
-      "publishedAt": "2026-09-23T11:18:16.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-card-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Cardの貯蓄口座、金利が3.4%から3.5%へと引き上げ",
-      "summaryJa": "Appleは提携先のゴールドマン・サックスと共に、Apple Cardユーザー向けに提供している「Savings」口座の金利を3.4%から3.5%へと引き上げました。この金利変更は金利情勢の変化に合わせて定期的に行われるもので、ゴールドマン・サックス自身の預金口座と同水準となっています。口座の残高には日割りで利息が複利計算され、毎月末に支払われます。"
-    },
-    {
-      "id": "2d94dc89ef2154cd5694",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Intelligence Taking Up 30GB+ on Some Macs Running macOS 27",
-      "url": "https://www.macrumors.com/2026/09/23/apple-intelligence-30gb-some-macs-macos-27/",
-      "publishedAt": "2026-09-23T10:30:15.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/09/apple-intelligence-black.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "macOS 27で「Apple Intelligence」が一部のMacで30GB以上の容量を消費か",
-      "summaryJa": "macOS 27の導入に伴い、Apple IntelligenceのAIモデルがシステムに必須となり自動ダウンロードされるようになりました。Appleの公式発表以上のストレージ容量を消費するケースが報告されており、一部のMacではモデルデータだけで20GB以上が割り当てられています。ユーザーの間では、ストレージ容量を大きく圧迫する仕様について懸念の声が上がっています。"
-    },
-    {
-      "id": "e5ba7541d14a68d15203",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "New Mac Mini Has Two Storage Downsides, Including Unremovable SSD",
-      "url": "https://www.macrumors.com/2026/09/22/new-mac-mini-ssd-cant-be-removed/",
-      "publishedAt": "2026-09-23T03:23:19.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/01/mac-mini-blue.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "新型Mac miniのストレージに関する2つの注意点",
-      "summaryJa": "新しいMac miniモデルではSSDがロジックボードにとはんだ付けされており、ユーザー自身によるストレージの換装やアップグレードができなくなりました。以前の一部のモデルでは取り外し可能なストレージが採用されていましたが、今回は再び非対応となっています。さらに、256GBモデルではシングルNANDチップ構成が採用されているため、512GB以上のモデルと比較して読み書きの速度が低下することが確認されています。"
-    },
-    {
-      "id": "bdcf9a38aa125ba527bd",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Card Savings Account's Interest Rate Just Went Up",
-      "url": "https://www.macrumors.com/2026/09/22/apple-card-savings-interest-rate-increase/",
-      "publishedAt": "2026-09-23T02:47:01.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2024/12/apple-card-savings-account-feature-1.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple Cardの貯蓄口座金利が3.5%へ引き上げ",
-      "summaryJa": "Apple Cardの貯蓄口座における年間利回り（APY）が、従来の3.4%から3.5%へと引き上げられました。この変更により、例えば1,000ドルを預け入れて1年間引き出さなかった場合、現在の利率に基づいて35ドルの利息を得ることができます。Appleユーザー向けに提供されている金融サービスの利便性やお得感がさらに向上する形となります。"
-    },
-    {
-      "id": "746becefc9a060f322eb",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "‘Brothers,’ starring Matthew McConaughey and Woody Harrelson, premieres on Apple TV",
-      "url": "https://9to5mac.com/2026/09/22/brothers-starring-matthew-mcconaughey-and-woody-harrelson-premieres-on-apple-tv/",
-      "publishedAt": "2026-09-23T01:01:41.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/brothers-matthew-mcconaughey-woody-harrelson-hug.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "マシュー・マコノヒーとウディ・ハレルソン共演のコメディシリーズがApple TVで配信開始",
-      "summaryJa": "ウディ・ハレルソンとマシュー・マコノヒーが共演するApple TVの新作コメディシリーズ「Brothers」の最初の2エピソードが、サブスクリプション登録者向けに配信を開始しました。本作は、2人の実生活の友情をベースにしつつ、実は異母兄弟ではないかという噂をユーモラスに昇華させたストーリーが展開されます。全8エピソードで構成され、今後は毎週水曜日に新しいエピソードが公開される予定です。"
-    },
-    {
-      "id": "924a422be66c40cf5a5d",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Public beta debuts for iPadOS 27.2 and more, here’s what’s new",
-      "url": "https://9to5mac.com/2026/09/22/public-beta-debuts-for-ipados-27-2-and-more-heres-whats-new/",
-      "publishedAt": "2026-09-23T00:32:42.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、iPadOS 27.2などのパブリックベータ版を公開",
-      "summaryJa": "Appleは登録ユーザー向けに、iPadOS 27.2やwatchOS 27.2などのパブリックベータ版の提供を開始しました。今回のアップデートでは、Apple Intelligence機能を統合した新しいヘルスケアアプリのほか、Apple TVアプリでのプロファイル機能の追加などが含まれています。設定アプリのソフトウェアアップデートから参加してインストールすることが可能です。"
-    },
-    {
-      "id": "8f6b39bb79fd5ec5db26",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple Pay just got even better with four new features and more",
-      "url": "https://9to5mac.com/2026/09/22/apple-pay-is-getting-even-better-with-four-new-features/",
-      "publishedAt": "2026-09-22T23:57:57.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/apple-pay-header.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Pay、新デザインやアメックスのポイント利用など新機能を追加",
-      "summaryJa": "Appleは、Apple Payをさらに便利にする4つの新機能を発表しました。iOS 27では決済画面のデザインが刷新され、カードの切り替えや残高確認が容易になっています。また、アメリカン・エキスプレスとの提携により、オンラインやアプリ内での決済時にリワードポイントを直接利用できるようになるなど、利便性が向上しています。"
-    },
-    {
-      "id": "ef617938e9230dc00661",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "U.S. government urges Supreme Court to reverse Apple contempt ruling over App Store commission",
-      "url": "https://9to5mac.com/2026/09/22/u-s-government-urges-supreme-court-to-reverse-apple-contempt-ruling-over-app-store-commission/",
-      "publishedAt": "2026-09-22T23:43:00.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "米政府、最高裁にアップルへのApp Store手数料に関する法廷侮辱罪の破棄を要請",
-      "summaryJa": "Epic Gamesとの訴訟を巡り、米国政府や複数の法務・ビジネス団体が連邦最高裁判所に対し、アップルに対する法廷侮辱罪の判決の一部を破棄するよう求める意見書を提出しました。外部決済への誘導時にアップルが課した手数料を巡る解釈の対立が続いており、下級審の判断が争点となっています。"
-    },
-    {
-      "id": "821c84282f529bd5cf98",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Apple Releases First Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
-      "url": "https://www.macrumors.com/2026/09/22/apple-releases-ios-27-2-public-beta/",
-      "publishedAt": "2026-09-22T23:32:52.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "Apple、iOS 27.2やmacOS 27.2などの初パブリックベータを公開",
-      "summaryJa": "Appleは、iOS 27.2やmacOS Golden Gate 27.2などの各OSにおける最初のパブリックベータ版をリリースしました。新しいヘルスケアアプリやApple TVのプロファイル機能、複数言語に対応したSiri AI機能などが試せるようになっています。利用者はベータ版のテストプログラムに登録し、各端末の設定からアップデートを行うことができます。"
-    },
-    {
-      "id": "e5b2ce80361d83b1d3b3",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases first iOS 27.2 public beta with new iPhone Health app",
-      "url": "https://9to5mac.com/2026/09/22/apple-releases-first-ios-27-2-public-beta-with-new-iphone-health-app/",
-      "publishedAt": "2026-09-22T23:06:29.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iOS-27.2-public.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、新しいヘルスケアアプリを含むiOS 27.2パブリックベータ1を公開",
-      "summaryJa": "Appleは開発者向けベータに続き、刷新されたヘルスケアアプリを含む「iOS 27.2パブリックベータ1」を一般テスター向けにリリースしました。このベータ版には、Quest Diagnosticsを通じた検査の予約・購入機能や、グループFaceTimeでのデュアルキャプチャモードなどが含まれており、Siri AIの言語サポートもフランス語や日本語などに拡大されています。"
-    },
-    {
-      "id": "11f7448426ea741cdf6f",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple rolls out second RCs for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1 [U: Public]",
-      "url": "https://9to5mac.com/2026/09/22/apple-rolls-out-second-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
-      "publishedAt": "2026-09-22T23:05:25.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOS Tahoe 26.7.1とmacOS Sequoia 15.8.1の第2弾RCを公開",
-      "summaryJa": "Appleは正式リリースに向けて、「macOS Tahoe 26.7.1」および「macOS Sequoia 15.8.1」の第2弾リリース候補版（RC）を開発者およびパブリックベータテスター向けに公開しました。これらのアップデートにはすべてのユーザーに推奨される重要なセキュリティ修正が含まれており、数週間以内の正式配信が見込まれています。"
-    },
-    {
-      "id": "1167d39f049ffabc471a",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Apple releases macOS 27.2 Golden Gate public beta 1",
-      "url": "https://9to5mac.com/2026/09/22/apple-releases-macos-27-2-golden-gate-public-beta-1/",
-      "publishedAt": "2026-09-22T23:01:35.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-public.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple、macOS 27.2ゴールデンゲートのパブリックベータ1を公開",
-      "summaryJa": "Appleは開発者向けベータの公開に続き、「macOS 27.2ゴールデンゲート パブリックベータ1」の提供を開始しました。今回のベータ版では、英語に加えてフランス語、日本語、韓国語、ポルトガル語、スペイン語のSiri AI言語サポートが新たに拡張されており、無料のパブリックベータプログラムを通じて誰でも試すことができます。"
     }
   ],
-  "updatedAt": "2026-10-02T15:04:01.651Z",
+  "updatedAt": "2026-10-02T19:55:17.482Z",
   "initialized": true,
   "summaryVersion": 4
 }
