@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "18f0e7d9d20da67efa66",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Watch F1 on Apple TV tonight, free for everyone in the US",
+      "url": "https://9to5mac.com/2026/10/03/watch-f1-on-apple-tv-tonight-free-bahrain-gp/",
+      "publishedAt": "2026-10-03T19:44:04.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-bahrain-grand-prix.jpg?quality=82&#038;strip=all&#038;w=1428",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple TV、米国内でF1グランプリを無料ライブ配信",
+      "summaryJa": "Apple TVでは今週末、通常は有料配信となるF1バーレーンGPを米国ユーザー向けに無料でライブ配信しています。今年はマレーシアのセパン・サーキットで開催されており、公式アプリを通じてサブスクリプションなしで視聴可能です。予選ではマックス・フェルスタッペンがポールポジションを獲得するなど、ファン必見のレースとなっています。"
+    },
+    {
+      "id": "003261d9c3f9d15a33c8",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Indie App Spotlight: ‘HEVCut’ helps you trim your photo library without deleting anything",
+      "url": "https://9to5mac.com/2026/10/03/indie-app-spotlight-hevcut-iphone-photo-storage/",
+      "publishedAt": "2026-10-03T19:30:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/HEVCut.png?w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "写真ライブラリを効率化するアプリ「HEVCut」が登場",
+      "summaryJa": "iPhoneの写真や動画を削除せずにストレージを節約できるインディーズアプリ「HEVCut」が紹介されています。画質をほとんど落とさずにメディアファイルを高効率に圧縮し、ローカルやiCloudの容量を大幅に削減することが可能です。処理はすべてデバイス内で行われるため、プライバシー面も安心して利用できます。"
+    },
+    {
+      "id": "cec3f34bcdfe5f110a26",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s why I upgraded from the Apple Watch Series 10 to Series 12",
+      "url": "https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12/",
+      "publishedAt": "2026-10-03T18:48:22.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "Apple Watch Series 10からSeries 12へ移行した理由",
+      "summaryJa": "前世代のデザインを踏襲しつつも、大幅に進化を遂げたApple Watch Series 12への買い替え体験が語られています。精度の向上した心拍数モニターや新しい「Readiness」アプリ、処理速度の大幅な向上などが決め手となりました。Appleが本格的なヘルスケアデバイスとして大きな進化を遂げている点が高く評価されています。"
+    },
+    {
       "id": "d9dd581197a8467d5bbd",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4461,54 +4506,9 @@
       ],
       "titleJa": "iOS 27.2の新機能とベータテストの動向",
       "summaryJa": "AppleはiOS 27.2のベータテストを開始し、数ヶ月以内の一般公開に向けた準備を進めています。今回は、iPhone 18 Proのイベントで予告されていたヘルスケアアプリの大幅な刷新が含まれており、Insights、Longevity、Browseの3タブ構成になります。Longevityタブには、Apple Watchのデータを利用した新しい健康年齢機能が追加される予定です。"
-    },
-    {
-      "id": "c45679ab60916c21f8c4",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "OpenAI just upgraded ChatGPT Voice in three ways",
-      "url": "https://9to5mac.com/2026/09/23/openai-just-upgraded-chatgpt-voice-in-three-ways/",
-      "publishedAt": "2026-09-23T17:24:11.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "OpenAI、ChatGPT Voiceを3つの機能で大幅強化",
-      "summaryJa": "OpenAIはChatGPT Voiceの機能を刷新し、最新モデルの導入やプラグイン対応、クラウド連携システムとの統合を実施しました。メールやカレンダー、Slackなどの連携により利便性が向上し、デスクトップおよびモバイル環境での活用がさらに広がります。音声コントロール機能の強化により、ユーザー体験の向上が期待されます。"
-    },
-    {
-      "id": "3302a8d54712b2410dfd",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Here’s what Siri AI looks like on HomePod, per leak",
-      "url": "https://9to5mac.com/2026/09/23/heres-what-siri-ai-looks-like-on-homepod-per-leak/",
-      "publishedAt": "2026-09-23T17:17:24.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai-orb-generic-wwdc.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "HomePod向けSiri AIの動作画面がリークか",
-      "summaryJa": "コード解析から、HomePod向けの新機能としてSiri AIが開発されているとの情報が浮上しました。公開された映像には、他社製デバイスと同様の配色を採用した新しいステータスライトや音声のデザインが確認されています。機能を利用するには新しいハードウェアが必要になる可能性が高く、今後の公式発表が注目されています。"
-    },
-    {
-      "id": "18f6c3f991bc5d0b0a26",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "AirTag 2 4-Pack Hits $79.99 on Amazon, Matching Record Low",
-      "url": "https://www.macrumors.com/2026/09/23/airtag-2-4-pack-hits-79-99/",
-      "publishedAt": "2026-09-23T17:13:12.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/07/new-airtag-2-peach.jpeg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "AirTag 2の4個パックがAmazonで過去最安値を記録",
-      "summaryJa": "Amazonにて、AppleのAirTag 2の4個パックが通常価格から値引きされ、過去最安値となる価格で販売されています。第2世代となるAirTagでは、超広帯域チップの性能向上により、従来モデルよりも遠い距離から正確な位置探しの機能を利用可能です。お得な割引を活用して購入できる機会となっています。"
     }
   ],
-  "updatedAt": "2026-10-03T17:37:56.737Z",
+  "updatedAt": "2026-10-03T20:13:03.399Z",
   "initialized": true,
   "summaryVersion": 4
 }
