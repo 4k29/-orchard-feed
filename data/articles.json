@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "4906547560953415919e",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Top Stories: Apple Smart Home Launch on October 13, iPhone Duo Production Issues, and More",
+      "url": "https://www.macrumors.com/2026/10/03/top-stories-apple-smart-home-launch-october-13/",
+      "publishedAt": "2026-10-03T13:00:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/10/top-stories-2026-10-03.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "Apple、10月13日にスマートホーム製品群を発表か",
+      "summaryJa": "Appleは10月13日に、長年噂されてきたスマートホームハブや新しいHomePod mini、Apple TVなどのスマートホーム製品を発表すると報じられています。新製品のスマートホームハブはiMac G4を彷彿とさせるデザインを採用し、6インチのスクエア型ディスプレイを搭載する見込みです。サプライチェーンでは一部の新型iPhoneの生産目標達成に向けて苦戦しているとの情報も伝えられています。"
+    },
+    {
+      "id": "d64f244978066562a90a",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple weekend deals: MacBook Pro $500 off, AirTag 2, Prime Day HomeKit discounts, MagSafe chargers, more",
+      "url": "https://9to5mac.com/2026/10/03/apple-weekend-deals-macbook-discounts/",
+      "publishedAt": "2026-10-03T12:21:42.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-weekend-deals-October-2026.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacBook Proなどがセールで大幅割引に",
+      "summaryJa": "Amazonの秋のプライムデーセールに先立ち、複数のApple製品で注目すべき割引価格が提供されています。2TBのM5 Proを搭載したMacBook Proが500ドル引きとなっているほか、AirTag 2や各種HomeKit対応アクセサリもお買い得価格で販売されています。さらに、BelkinのMagSafe充電スタンドや最新のワイヤレスCarPlayアダプタなどもセールの対象となっています。"
+    },
+    {
       "id": "84b3b38847eb7f517df9",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4476,39 +4506,9 @@
       ],
       "titleJa": "iPhone AirとiPhone 18 Proのどちらを選ぶべきか比較",
       "summaryJa": "iPhone AirとiPhone 18 Proシリーズは価格差がわずか100ドルですが、その特徴は大きく異なります。薄さと軽さを追求した6.5インチのAirに対し、Proモデルはより高性能なカメラシステムや長いバッテリー駆動時間、最新のA20 Proチップを搭載しています。常時表示OLEDディスプレイやApple Intelligenceへの対応など共通点も多く、自身のライフスタイルに合わせた選択が求められます。"
-    },
-    {
-      "id": "8977a2482c144be21a24",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Deals: Apple Watch Ultra 2 clearance $200 off, AirPods, Beats 360 launch discount, iPhone 18 Pro cases, more",
-      "url": "https://9to5mac.com/2026/09/23/deals-apple-watch-ultra-2-clearance-beats-360/",
-      "publishedAt": "2026-09-23T15:27:43.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Apple-Watch-Ultra-clearance-Beats-360-Mac-mini.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Apple Watch Ultra 3などが大幅値下げセールに登場",
-      "summaryJa": "Amazonのセールにて、Apple Watch Ultra 3のチタニウムミラネーゼループモデルが従来より約200ドル引きの過去最安値で販売されています。また、AirPods Pro 3の割引や各種アクセサリーの特価セールも同時に実施されており、新製品の発売時期に合わせて人気デバイスをお得に入手できるチャンスとなっています。"
-    },
-    {
-      "id": "8f5e1b7e05ce47a4fc96",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "Disney+ and Hulu just increased prices, here’s how much",
-      "url": "https://9to5mac.com/2026/09/23/disney-and-hulu-just-increased-prices-heres-how-much/",
-      "publishedAt": "2026-09-23T15:04:21.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/disney-plus-hulu-app-icons.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "Disney+とHuluがほとんどのプランで値上げを実施",
-      "summaryJa": "ストリーミングサービスのDisney+とHuluが、大部分のサブスクリプションプランで値上げを行いました。広告なしのプレミアムプランでは月額料金が約2ドル引き上げられ、それぞれ新価格が適用されます。一方で、両サービスのバンドルプランも用意されており、ユーザーの利用形態に応じた選択肢となっています。"
     }
   ],
-  "updatedAt": "2026-10-03T08:23:17.969Z",
+  "updatedAt": "2026-10-03T13:35:33.467Z",
   "initialized": true,
   "summaryVersion": 4
 }
