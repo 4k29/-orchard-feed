@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "84b3b38847eb7f517df9",
+      "source": "MacRumors",
+      "sourceId": "macrumors",
+      "category": "rumors",
+      "titleOriginal": "Apple Says iPhone 18 Pro Max Users With AT&T Cellular Issue Need to Have Device Replaced",
+      "url": "https://www.macrumors.com/2026/10/02/apple-statement-on-iphone-18-pro-max-att-issue/",
+      "publishedAt": "2026-10-03T03:21:12.000Z",
+      "imageUrl": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-Glacier-Camera.jpg",
+      "tags": [
+        "噂"
+      ],
+      "titleJa": "iPhone 18 Pro Maxの一部端末における通信障害について",
+      "summaryJa": "Appleは、AT&Tネットワークを使用する一部のiPhone 18 Pro Maxで通信サービスが失われる問題を確認したと発表しました。この問題の影響を受けた端末はソフトウェアアップデートでは復旧せず、本体の交換が必要となります。今後への対策として、iOS 27.0.1およびキャリア設定のアップデートが配信されており、ユーザーに早急な適用を呼びかけています。"
+    },
+    {
       "id": "f8fcaaee9011a7b54a90",
       "source": "9to5Mac",
       "sourceId": "9to5mac",
@@ -4491,24 +4506,9 @@
       ],
       "titleJa": "Disney+とHuluがほとんどのプランで値上げを実施",
       "summaryJa": "ストリーミングサービスのDisney+とHuluが、大部分のサブスクリプションプランで値上げを行いました。広告なしのプレミアムプランでは月額料金が約2ドル引き上げられ、それぞれ新価格が適用されます。一方で、両サービスのバンドルプランも用意されており、ユーザーの利用形態に応じた選択肢となっています。"
-    },
-    {
-      "id": "b1537c8c4b9389f54b61",
-      "source": "9to5Mac",
-      "sourceId": "9to5mac",
-      "category": "rumors",
-      "titleOriginal": "iOS 27.2 makes FaceTime’s best new feature even better",
-      "url": "https://9to5mac.com/2026/09/23/ios-27-2-makes-facetimes-best-new-feature-even-better/",
-      "publishedAt": "2026-09-23T14:45:32.000Z",
-      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/facetime-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "tags": [
-        "海外メディア"
-      ],
-      "titleJa": "iOS 27.2ベータ、FaceTmieのデュアルキャプチャがグループ通話に対応へ",
-      "summaryJa": "Appleは現在テスト中のiOS 27.2ベータ版において、FaceTimeのデュアルキャプチャ機能をグループ通話へと拡大しています。この機能により、対応するiPhoneでフロントカメラとリアカメラの映像を同時に表示しながら、複数の参加者と通話できるようになります。正式リリースは数週間後が予定されており、より多彩なビデオ通話体験がすべてのユーザーに提供されます。"
     }
   ],
-  "updatedAt": "2026-10-03T02:21:42.317Z",
+  "updatedAt": "2026-10-03T08:23:17.969Z",
   "initialized": true,
   "summaryVersion": 4
 }
