@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d9dd581197a8467d5bbd",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Here’s everything we know so far about Apple’s next entry-level iPad: A19 chip, more",
+      "url": "https://9to5mac.com/2026/10/03/apples-next-ipad-a19-details-release-date/",
+      "publishedAt": "2026-10-03T16:36:23.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/Apple-iPad-10th-gen-hero-221018_Full-Bleed-Image.jpg.xlarge_2x.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "次期エントリー向けiPadはA19チップ搭載か",
+      "summaryJa": "Appleの次期エントリー向けiPadには、A18ではなくA19チップが採用される可能性が浮上したと報じられています。Wi-Fi 7に対応するN1ネットワーキングチップやセルラー版向けC1Xモデムに加え、8GBのメモリを搭載することでApple IntelligenceのSiri機能に対応するとみられています。また、製品ラインナップ整理のため新しい名称が与えられる可能性も指摘されています。"
+    },
+    {
+      "id": "b582beffbd96f293e214",
+      "source": "9to5Mac",
+      "sourceId": "9to5mac",
+      "category": "rumors",
+      "titleOriginal": "Apple @ Work: The numbers on AI trust for IT are not great, and one company is trying to fix it",
+      "url": "https://9to5mac.com/2026/10/03/macpaw-leebry/",
+      "publishedAt": "2026-10-03T13:45:00.000Z",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "tags": [
+        "海外メディア"
+      ],
+      "titleJa": "MacPaw、ITチーム向けAIプラットフォームを発表",
+      "summaryJa": "Mac向けユーティリティソフト「CleanMyMac」などで知られるMacPawが、ITチームを支援するためのワークAIプラットフォーム「Leebry」を展開していることが伝えられています。企業におけるAIの信頼性に関する課題や、管理者が抱えるIT運用の効率化にどのようにアプローチしていくのかが注目されています。"
+    },
+    {
       "id": "4906547560953415919e",
       "source": "MacRumors",
       "sourceId": "macrumors",
@@ -4476,39 +4506,9 @@
       ],
       "titleJa": "AirTag 2の4個パックがAmazonで過去最安値を記録",
       "summaryJa": "Amazonにて、AppleのAirTag 2の4個パックが通常価格から値引きされ、過去最安値となる価格で販売されています。第2世代となるAirTagでは、超広帯域チップの性能向上により、従来モデルよりも遠い距離から正確な位置探しの機能を利用可能です。お得な割引を活用して購入できる機会となっています。"
-    },
-    {
-      "id": "0f94abbbd4cb70e7f291",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "Siri AI Coming to HomePod",
-      "url": "https://www.macrumors.com/2026/09/23/siri-ai-coming-to-homepod/",
-      "publishedAt": "2026-09-23T17:04:48.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/06/Siri-AI.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "HomePod向けにSiri AI機能が追加される可能性",
-      "summaryJa": "HomePodのソフトウェアコードから、新しいSiri AIを支えるシステムや新しい配色を用いたステータスライトの存在が明らかになりました。既存モデルでは利用できないことから、将来的に登場する新しいハードウェアやプロセッサを搭載したモデルでのみサポートされると報じられています。互換性のあるiPhoneと連携して動作する見込みです。"
-    },
-    {
-      "id": "901111541c918a9a2c53",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "category": "rumors",
-      "titleOriginal": "iPhone Air vs. iPhone 18 Pro Buyer's Guide: Which Should You Buy?",
-      "url": "https://www.macrumors.com/guide/iphone-air-vs-18-pro/",
-      "publishedAt": "2026-09-23T16:06:28.000Z",
-      "imageUrl": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-vs-iphone-air.jpg",
-      "tags": [
-        "噂"
-      ],
-      "titleJa": "iPhone AirとiPhone 18 Proのどちらを選ぶべきか比較",
-      "summaryJa": "iPhone AirとiPhone 18 Proシリーズは価格差がわずか100ドルですが、その特徴は大きく異なります。薄さと軽さを追求した6.5インチのAirに対し、Proモデルはより高性能なカメラシステムや長いバッテリー駆動時間、最新のA20 Proチップを搭載しています。常時表示OLEDディスプレイやApple Intelligenceへの対応など共通点も多く、自身のライフスタイルに合わせた選択が求められます。"
     }
   ],
-  "updatedAt": "2026-10-03T13:35:33.467Z",
+  "updatedAt": "2026-10-03T17:37:56.737Z",
   "initialized": true,
   "summaryVersion": 4
 }
